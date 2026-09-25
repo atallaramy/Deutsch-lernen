@@ -672,6 +672,26 @@
    ],
    "fetchedOn": "2026-09-25"
   },
+  "Konjugation": {
+   "url": "https://en.wiktionary.org/wiki/Konjugation#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "conjugation (verb inflection)"
+    },
+    {
+     "pos": "Noun",
+     "text": "conjugation"
+    },
+    {
+     "pos": "Noun",
+     "text": "conjugation (negation of non-real part)"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-09-25"
+  },
   "LKW": {
    "url": "https://en.wiktionary.org/wiki/LKW#German",
    "status": 200,
@@ -881,6 +901,18 @@
    ],
    "fetchedOn": "2026-09-25"
   },
+  "Personalpronomen": {
+   "url": "https://en.wiktionary.org/wiki/Personalpronomen#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "personal pronoun"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-09-25"
+  },
   "Personenkraftwagen": {
    "url": "https://en.wiktionary.org/wiki/Personenkraftwagen#German",
    "status": 200,
@@ -892,6 +924,18 @@
    ],
    "fetchedOn": "2026-09-25"
   },
+  "Plural": {
+   "url": "https://en.wiktionary.org/wiki/Plural#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "plural"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-09-25"
+  },
   "Postleitzahl": {
    "url": "https://en.wiktionary.org/wiki/Postleitzahl#German",
    "status": 200,
@@ -901,6 +945,22 @@
      "text": "postal code"
     }
    ],
+   "fetchedOn": "2026-09-25"
+  },
+  "Präsens": {
+   "url": "https://en.wiktionary.org/wiki/Pr%C3%A4sens#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "present tense"
+    },
+    {
+     "pos": "Noun",
+     "text": "verb in the present tense"
+    }
+   ],
+   "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-25"
   },
   "Rotes Kreuz": {
@@ -1044,6 +1104,18 @@
    "status": 404,
    "definitions": [],
    "dictionary": "dict.cc",
+   "fetchedOn": "2026-09-25"
+  },
+  "Singular": {
+   "url": "https://en.wiktionary.org/wiki/Singular#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "singular"
+    }
+   ],
+   "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-25"
   },
   "Situation": {
@@ -1270,6 +1342,18 @@
      "text": "father"
     }
    ],
+   "fetchedOn": "2026-09-25"
+  },
+  "Verb": {
+   "url": "https://en.wiktionary.org/wiki/Verb#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "verb"
+    }
+   ],
+   "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-25"
   },
   "Vielen Dank": {

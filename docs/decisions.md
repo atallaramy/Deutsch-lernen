@@ -3,6 +3,15 @@
 Confirmed decisions, newest first. The binding rules they produce live in
 `AGENTS.md`; this file records why and when.
 
+## 2026-09-25 — build and version control
+
+| Topic | Decision |
+|---|---|
+| Grammar terms | Yes to *das Personalpronomen, der Singular, der Plural, das Verb, die Konjugation, das Präsens*, "if they are not wrong". Gender, plural and meaning were checked in de.wiktionary and en.wiktionary; all match the notes. |
+| USA, DNA, GuMo | No. Recorded as `declinedEntries`, never built. |
+| Build | The learner approved all cards; the v3 decks were built (255 Vocabulary, 97 Articles, 52 Sentences, 10 lesson decks). |
+| Git | The workspace is a git repository (`main`). One commit before the first build and one after. From now on the learner asks for a commit after every new lesson. |
+
 ## 2026-09-25 — follow-up
 
 | Topic | Decision |

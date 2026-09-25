@@ -145,6 +145,8 @@ studied it. Follow `docs/processing-a-lesson.md`:
 6. After the learner approves, run `python3 ANKI/build_all.py package`.
 7. Run `python3 -m unittest discover -s ANKI/tests`. Report checks as passed
    only when the actual results support it.
+8. Commit to git when the learner asks (they ask after every new lesson).
+   Never push without being asked.
 
 ## Card-quality gate
 

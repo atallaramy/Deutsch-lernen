@@ -55,6 +55,15 @@ adds Claude-specific working rules only.
 - Never weaken or skip a check to make a build pass: fix the data, or ask.
 - Report test and check results as they actually came out.
 
+## Git
+
+- The workspace is a git repository on `main` (created 2026-09-25). Commit when
+  the learner asks; they plan to ask after every new lesson. Never push unless asked.
+- The global rule applies: no "Generated with Claude Code" or "Co-Authored-By"
+  lines in commits.
+- Never commit secrets; `.env` is ignored. `ANKI/review/preview.html` is
+  regenerated and ignored; `ANKI/review/approvals.json` is tracked.
+
 ## Files and safety
 
 - Do not move, rename or delete existing folders, Markdown notes, legacy

@@ -18,8 +18,11 @@ remove the old ones first. Otherwise you would review both.
 3. File → Import: `ANKI/vocabulary.apkg`, `ANKI/articles.apkg`,
    `ANKI/sentences.apkg`.
 4. Lesson decks (optional, for a first typed pass through a lesson): import
-   the `…_Vocabulary.apkg` next to the lesson's notes. They repeat the same
-   cards, so either delete a lesson deck once you have gone through it, or
+   the `… - Vocabulary.apkg` next to the lesson's notes (e.g.
+   `DW A1 E1L3 Woher kommst du - Vocabulary.apkg`). In Anki they appear under
+   one `Lessons` deck. Do not import the old `…_Vocabulary.apkg` files. Lesson
+   decks repeat cards from the cumulative decks, so either delete a lesson deck
+   once you have gone through it, or
    skip them and use a filtered deck: *Tools → Create Filtered Deck*, search
    `tag:lesson::dw-a1-e1-l3 is:new`.
 

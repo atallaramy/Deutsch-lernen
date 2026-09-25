@@ -485,6 +485,18 @@
   "dw-a1-e1-l1:weg": [
    "vocab:weg|gone"
   ],
+  "dw-a1-e1-l1:das-personalpronomen": [
+   "article:Personalpronomen|n",
+   "vocab:Personalpronomen|personal-pronoun"
+  ],
+  "dw-a1-e1-l1:der-singular": [
+   "article:Singular|m",
+   "vocab:Singular|singular"
+  ],
+  "dw-a1-e1-l1:der-plural": [
+   "article:Plural|m",
+   "vocab:Plural|plural"
+  ],
   "dw-a1-e1-l2:das-beispiel": [
    "article:Beispiel|n",
    "vocab:Beispiel|example"
@@ -661,6 +673,18 @@
   ],
   "dw-a1-e1-l3:ich-wohne-in-sevilla": [
    "sentence:live-in-sevilla"
+  ],
+  "dw-a1-e1-l3:das-verb": [
+   "article:Verb|n",
+   "vocab:Verb|verb"
+  ],
+  "dw-a1-e1-l3:die-konjugation": [
+   "article:Konjugation|f",
+   "vocab:Konjugation|conjugation"
+  ],
+  "dw-a1-e1-l3:das-prasens": [
+   "article:Präsens|n",
+   "vocab:Präsens|present-tense"
   ],
   "dw-a1-e1-l4:die-arbeit": [
    "article:Arbeit|f",
@@ -1149,46 +1173,6 @@
  },
  "pending": [
   {
-   "lesson": "dw-a1-e0-l4",
-   "german": "USA",
-   "reason": "Acronym written in the exercise notes without a meaning (decision D3: borderline)."
-  },
-  {
-   "lesson": "dw-a1-e0-l4",
-   "german": "DNA",
-   "reason": "Acronym written in the exercise notes without a meaning (decision D3: borderline)."
-  },
-  {
-   "lesson": "dw-a1-e1-l1",
-   "german": "das Personalpronomen",
-   "reason": "Grammar term under 'Grammatical terms in German' (D3 borderline)."
-  },
-  {
-   "lesson": "dw-a1-e1-l1",
-   "german": "der Singular",
-   "reason": "Grammar term (D3 borderline)."
-  },
-  {
-   "lesson": "dw-a1-e1-l1",
-   "german": "der Plural",
-   "reason": "Grammar term (D3 borderline)."
-  },
-  {
-   "lesson": "dw-a1-e1-l3",
-   "german": "das Verb",
-   "reason": "Grammar term (D3 borderline)."
-  },
-  {
-   "lesson": "dw-a1-e1-l3",
-   "german": "die Konjugation",
-   "reason": "Grammar term (D3 borderline)."
-  },
-  {
-   "lesson": "dw-a1-e1-l3",
-   "german": "das Präsens",
-   "reason": "Grammar term (D3 borderline)."
-  },
-  {
    "lesson": "eg-seg-274",
    "german": "Man hört sich.",
    "reason": "No dictionary confirms the meaning (en.wiktionary, dict.cc)."
@@ -1197,11 +1181,6 @@
    "lesson": "eg-seg-274",
    "german": "Wir hören wieder voneinander.",
    "reason": "No dictionary confirms the meaning (en.wiktionary, dict.cc)."
-  },
-  {
-   "lesson": "eg-seg-274",
-   "german": "GuMo",
-   "reason": "Slang for Guten Morgen; no dictionary confirms the abbreviation itself."
   }
  ]
 }

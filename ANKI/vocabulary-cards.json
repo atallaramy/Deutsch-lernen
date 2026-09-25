@@ -323,6 +323,9 @@
     "text": "Das ist ein Kino."
    }
   },
+  "Konjugation|conjugation": {
+   "cue": "conjugation (grammar term)"
+  },
   "Konzert|concert": {
    "context": {
     "lesson": "dw-a1-e0-l2",
@@ -425,6 +428,9 @@
     "text": "Nico, hast du einen Pass?"
    }
   },
+  "Personalpronomen|personal-pronoun": {
+   "cue": "personal pronoun (grammar term)"
+  },
   "Pfiat di!|bye": {
    "cue": "bye — Bavarian/Austrian dialect"
   },
@@ -441,6 +447,9 @@
    "interferesWith": [
     "Pilotin|pilot"
    ]
+  },
+  "Plural|plural": {
+   "cue": "plural (grammar term)"
   },
   "Polizei|police": {
    "context": {
@@ -470,6 +479,9 @@
     "text": "Ja, wir haben ein Problem."
    }
   },
+  "Präsens|present-tense": {
+   "cue": "present tense (grammar term)"
+  },
   "Schwester|sister": {
    "context": {
     "lesson": "vhs-a1-l02",
@@ -484,6 +496,9 @@
     "source": "exercises",
     "text": "Und Sie haben ein Problem?"
    }
+  },
+  "Singular|singular": {
+   "cue": "singular (grammar term)"
   },
   "Sohn|son": {
    "context": {
@@ -609,6 +624,9 @@
     "source": "script",
     "text": "Kann dein Vater nicht helfen?"
    }
+  },
+  "Verb|verb": {
+   "cue": "verb (grammar term)"
   },
   "Vielen Dank!|many-thanks": {
    "cue": "many thanks!"

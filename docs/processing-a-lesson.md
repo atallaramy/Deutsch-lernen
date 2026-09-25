@@ -103,7 +103,13 @@ every package twice to prove the output is identical, validates each one, and
 confirms the pronunciation deck is untouched. It then writes the `.apkg` files
 and scan indexes. Import them into Anki ([anki-import.md](anki-import.md)).
 
-## 8. Record
+## 8. Commit
+
+You ask for a commit after every new lesson. Commit everything the lesson
+changed (notes are yours; commit them only as they are). Use one clear message,
+e.g. `Add DW A1 E2 L1 Zahlen von 1 bis 100`, and never push unless you ask.
+
+## 9. Record
 
 - New rules or decisions go to `AGENTS.md` and [decisions.md](decisions.md).
 - New useful links go to [links.md](links.md). If a course changes, rerun

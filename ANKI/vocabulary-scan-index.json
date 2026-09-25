@@ -1,101 +1,145 @@
 {
-  "updatedAt": "2026-09-24T23:42:01Z",
-  "qualityPolicy": "One lexical target per card; noun answer excludes article; sentence-pattern targets delegated; exact cross-lesson repeats merged; no audio.",
+  "deck": "German A1 — Vocabulary",
+  "revision": "2026-09-25T12:00:00Z",
+  "qualityPolicy": "One typed German word or fixed expression per card, in a verified context where one exists. No audio.",
+  "cards": 255,
   "sources": [
     {
-      "id": "a1-hallo",
+      "id": "dw-a1-e0-l1",
+      "course": "dw-nicos-weg",
       "title": "Hallo!",
-      "url": "https://learngerman.dw.com/en/hallo/l-37251017/lv",
-      "sourceEntries": 27,
-      "vocabularyCards": 24
+      "url": "https://learngerman.dw.com/en/hallo/l-37250531",
+      "notesFile": "DW Deutsch lernen/A1/01_Intro_zu_A1/01_Hallo/Hallo.md",
+      "capturedEntries": 35,
+      "cards": {
+        "vocabulary": 27,
+        "articles": 3,
+        "sentences": 6
+      }
     },
     {
-      "id": "a1-kein-problem",
+      "id": "dw-a1-e0-l2",
+      "course": "dw-nicos-weg",
       "title": "Kein Problem!",
-      "url": "https://learngerman.dw.com/en/kein-problem/l-37251054/lv",
-      "sourceEntries": 37,
-      "vocabularyCards": 36
+      "url": "https://learngerman.dw.com/en/kein-problem/l-37251054",
+      "notesFile": "DW Deutsch lernen/A1/01_Intro_zu_A1/02_Kein Problem/Kein_Problem.md",
+      "capturedEntries": 37,
+      "cards": {
+        "vocabulary": 37,
+        "articles": 32,
+        "sentences": 0
+      }
     },
     {
-      "id": "a1-tschuess",
+      "id": "dw-a1-e0-l3",
+      "course": "dw-nicos-weg",
       "title": "Tschüss!",
-      "url": "https://learngerman.dw.com/en/tsch%C3%BCss/l-37251033/lv",
-      "sourceEntries": 27,
-      "vocabularyCards": 19
+      "url": "https://learngerman.dw.com/en/tschüss/l-37251033",
+      "notesFile": "DW Deutsch lernen/A1/01_Intro_zu_A1/03_Tschüs/Tschüs.md",
+      "capturedEntries": 27,
+      "cards": {
+        "vocabulary": 20,
+        "articles": 5,
+        "sentences": 6
+      }
     },
     {
-      "id": "a1-von-a-bis-z",
+      "id": "dw-a1-e0-l4",
+      "course": "dw-nicos-weg",
       "title": "Von A bis Z",
-      "url": "https://learngerman.dw.com/en/von-a-bis-z/l-37256418/lv",
-      "sourceEntries": 23,
-      "vocabularyCards": 19
+      "url": "https://learngerman.dw.com/en/von-a-bis-z/l-37256418",
+      "notesFile": "DW Deutsch lernen/A1/01_Intro_zu_A1/04_Von A bis Z/Von A bis Z.md",
+      "capturedEntries": 28,
+      "cards": {
+        "vocabulary": 23,
+        "articles": 7,
+        "sentences": 5
+      }
     },
     {
-      "id": "a1-ich-heisse-emma",
+      "id": "dw-a1-e1-l1",
+      "course": "dw-nicos-weg",
       "title": "Ich heiße Emma",
-      "url": "https://learngerman.dw.com/en/ich-hei%C3%9Fe-emma/l-37262882/lv",
-      "sourceEntries": 17,
-      "vocabularyCards": 12
+      "url": "https://learngerman.dw.com/en/ich-heiße-emma/l-37262882",
+      "notesFile": "DW Deutsch lernen/A1/02_meeting_people/01_Lesson_01/Ich heiße Emma.md",
+      "capturedEntries": 21,
+      "cards": {
+        "vocabulary": 13,
+        "articles": 5,
+        "sentences": 8
+      }
     },
     {
-      "id": "a1-nico-hat-ein-problem",
+      "id": "dw-a1-e1-l2",
+      "course": "dw-nicos-weg",
+      "title": "Das ist Nico",
+      "url": "https://learngerman.dw.com/en/das-ist-nico/l-37262923",
+      "notesFile": "DW Deutsch lernen/A1/02_meeting_people/02_Lesson_02/Materials/Das ist Nico.md",
+      "capturedEntries": 22,
+      "cards": {
+        "vocabulary": 16,
+        "articles": 7,
+        "sentences": 6
+      }
+    },
+    {
+      "id": "dw-a1-e1-l3",
+      "course": "dw-nicos-weg",
+      "title": "Woher kommst du?",
+      "url": "https://learngerman.dw.com/en/woher-kommst-du/l-37263828",
+      "notesFile": "DW Deutsch lernen/A1/02_meeting_people/03_Lesson_03/Materials/Woher komst du.md",
+      "capturedEntries": 36,
+      "cards": {
+        "vocabulary": 27,
+        "articles": 8,
+        "sentences": 9
+      }
+    },
+    {
+      "id": "dw-a1-e1-l4",
+      "course": "dw-nicos-weg",
       "title": "Nico hat ein Problem",
-      "url": "https://learngerman.dw.com/en/nico-hat-ein-problem/l-37262889/lv",
-      "sourceEntries": 25,
-      "vocabularyCards": 24
+      "url": "https://learngerman.dw.com/en/nico-hat-ein-problem/l-37265543",
+      "notesFile": "DW Deutsch lernen/A1/02_meeting_people/04_Lesson_04/Nico hat Problem.md",
+      "capturedEntries": 26,
+      "cards": {
+        "vocabulary": 25,
+        "articles": 15,
+        "sentences": 1
+      }
+    },
+    {
+      "id": "vhs-a1-l02",
+      "course": "vhs-lernportal",
+      "title": "Lektion 2 · Meine Familie und ich",
+      "url": "https://a1.vhs-lernportal.de/",
+      "notesFile": "VHS-Lernportal/A1/Lesson_02/lektion_02.md",
+      "capturedEntries": 89,
+      "cards": {
+        "vocabulary": 86,
+        "articles": 31,
+        "sentences": 3
+      }
+    },
+    {
+      "id": "eg-seg-274",
+      "course": "easy-german",
+      "title": "Greetings & Farewells in Slow German (Super Easy German 274)",
+      "url": "https://www.youtube.com/watch?v=aRlakaPVrEw",
+      "notesFile": "EasyGerman/01LearnBasiGermanGreetings&Farewells.md",
+      "capturedEntries": 31,
+      "cards": {
+        "vocabulary": 30,
+        "articles": 0,
+        "sentences": 1
+      }
     }
   ],
-  "lastRun": {
-    "cumulative": {
-      "added": 0,
-      "removed": 0,
-      "retired": 0,
-      "notes": 128,
-      "cards": 128
-    },
-    "lessons": {
-      "Hallo!": {
-        "added": 0,
-        "removed": 0,
-        "retired": 0,
-        "notes": 24,
-        "cards": 24
-      },
-      "Kein Problem!": {
-        "added": 0,
-        "removed": 0,
-        "retired": 0,
-        "notes": 36,
-        "cards": 36
-      },
-      "Tschüss!": {
-        "added": 0,
-        "removed": 0,
-        "retired": 0,
-        "notes": 19,
-        "cards": 19
-      },
-      "Von A bis Z": {
-        "added": 0,
-        "removed": 0,
-        "retired": 0,
-        "notes": 19,
-        "cards": 19
-      },
-      "Ich heiße Emma": {
-        "added": 0,
-        "removed": 0,
-        "retired": 0,
-        "notes": 12,
-        "cards": 12
-      },
-      "Nico hat ein Problem": {
-        "added": 0,
-        "removed": 0,
-        "retired": 0,
-        "notes": 24,
-        "cards": 24
-      }
+  "packages": {
+    "ANKI/vocabulary.apkg": {
+      "notes": 255,
+      "cards": 255,
+      "sha256": "8ab57dd84a554eafbe54bf636eb78bb0dfd97c991e64b8b079d465b97da2736c"
     }
   }
 }

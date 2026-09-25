@@ -9,15 +9,11 @@
   wording in the portal exercises has not been captured yet.
 - **Easy German (D7): done.** 31 items captured and verified. Pending (no
   dictionary confirms them): *Man hört sich.*, *Wir hören wieder voneinander.*, *GuMo*.
-- **Pending yes/no items** (never built until you decide; see
-  `ANKI/review/preview.html`):
-  - from *Von A bis Z*: USA, DNA
-  - from *Ich heiße Emma*: das Personalpronomen, der Singular, der Plural
-  - from *Woher kommst du?*: das Verb, die Konjugation, das Präsens
-- **Lesson deck names for DW E1 L2 and E1 L3.** The rule names a lesson deck
-  after its notes file, so they are `Das ist Nico_Vocabulary.apkg` and
-  `Woher komst du_Vocabulary.apkg` (with your filename's typo), placed in the
-  lesson folders. The notes files stay in `Materials/` until you decide (Q3).
+- **Pending until a source confirms them:** *Man hört sich.* and *Wir hören
+  wieder voneinander.* (Easy German). Declined: USA, DNA, GuMo.
+- **Old lesson-deck files** (`Hallo_Vocabulary.apkg`, `Kein_Problem_Vocabulary.apkg`, …)
+  are the previous design. They are kept (no deletion without your go-ahead), but do
+  not import them; the new ones are named `DW A1 E… - Vocabulary.apkg`.
 
 ## Found and fixed in the v3 data
 

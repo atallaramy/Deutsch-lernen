@@ -1,7 +1,7 @@
 {
  "schemaVersion": 3,
  "revision": "2026-09-25T12:00:00Z",
- "policy": "Faithful capture of what the learner studied: official lesson glossaries plus items from the learner's notes. Official spelling is canonical; the learner's spelling is kept as learnerForm. Nothing captured is removed. pendingEntries wait for the learner's yes/no and are never built.",
+ "policy": "Faithful capture of what the learner studied: official lesson glossaries plus items from the learner's notes. Official spelling is canonical; the learner's spelling is kept as learnerForm. Nothing captured is removed. pendingEntries wait for the learner's yes/no and are never built; declinedEntries record a learner's no.",
  "courses": [
   {
    "id": "dw-nicos-weg",
@@ -1777,14 +1777,14 @@
        "home": "vocabulary"
       }
      ],
-     "pendingEntries": [
+     "declinedEntries": [
       {
        "german": "USA",
-       "reason": "Acronym written in the exercise notes without a meaning (decision D3: borderline)."
+       "decision": "no (2026-09-25): international acronym, no meaning in the notes"
       },
       {
        "german": "DNA",
-       "reason": "Acronym written in the exercise notes without a meaning (decision D3: borderline)."
+       "decision": "no (2026-09-25): international acronym, no meaning in the notes"
       }
      ]
     },
@@ -2035,20 +2035,49 @@
         "dw-glossary"
        ],
        "home": "vocabulary"
-      }
-     ],
-     "pendingEntries": [
+      },
       {
+       "id": "das-personalpronomen",
        "german": "das Personalpronomen",
-       "reason": "Grammar term under 'Grammatical terms in German' (D3 borderline)."
+       "english": "personal pronoun",
+       "pos": "noun",
+       "lemma": "Personalpronomen",
+       "sense": "personal-pronoun",
+       "plural": "die Personalpronomen",
+       "origin": [
+        "learner-notes"
+       ],
+       "articleSource": "de.wiktionary (Genus, Plural) and en.wiktionary (meaning)",
+       "note": "Grammar term (your notes: ich, du und Sie)",
+       "home": "vocabulary"
       },
       {
+       "id": "der-singular",
        "german": "der Singular",
-       "reason": "Grammar term (D3 borderline)."
+       "english": "singular",
+       "pos": "noun",
+       "lemma": "Singular",
+       "sense": "singular",
+       "origin": [
+        "learner-notes"
+       ],
+       "articleSource": "de.wiktionary (Genus, Plural) and en.wiktionary (meaning)",
+       "note": "Grammar term; the plural (Singulare) is rarely used",
+       "home": "vocabulary"
       },
       {
+       "id": "der-plural",
        "german": "der Plural",
-       "reason": "Grammar term (D3 borderline)."
+       "english": "plural",
+       "pos": "noun",
+       "lemma": "Plural",
+       "sense": "plural",
+       "origin": [
+        "learner-notes"
+       ],
+       "articleSource": "de.wiktionary (Genus, Plural) and en.wiktionary (meaning)",
+       "note": "Grammar term; the plural (Plurale) is rarely used",
+       "home": "vocabulary"
       }
      ]
     },
@@ -2841,20 +2870,50 @@
         "learner-notes"
        ],
        "learnerForm": "Ich wohen in Sevilla."
-      }
-     ],
-     "pendingEntries": [
+      },
       {
+       "id": "das-verb",
        "german": "das Verb",
-       "reason": "Grammar term (D3 borderline)."
+       "english": "verb",
+       "pos": "noun",
+       "lemma": "Verb",
+       "sense": "verb",
+       "plural": "die Verben",
+       "origin": [
+        "learner-notes"
+       ],
+       "articleSource": "de.wiktionary (Genus, Plural) and en.wiktionary (meaning)",
+       "note": "Grammar term",
+       "home": "vocabulary"
       },
       {
+       "id": "die-konjugation",
        "german": "die Konjugation",
-       "reason": "Grammar term (D3 borderline)."
+       "english": "conjugation",
+       "pos": "noun",
+       "lemma": "Konjugation",
+       "sense": "conjugation",
+       "plural": "die Konjugationen",
+       "origin": [
+        "learner-notes"
+       ],
+       "articleSource": "de.wiktionary (Genus, Plural) and en.wiktionary (meaning)",
+       "note": "Grammar term",
+       "home": "vocabulary"
       },
       {
+       "id": "das-prasens",
        "german": "das Präsens",
-       "reason": "Grammar term (D3 borderline)."
+       "english": "present tense",
+       "pos": "noun",
+       "lemma": "Präsens",
+       "sense": "present-tense",
+       "origin": [
+        "learner-notes"
+       ],
+       "articleSource": "de.wiktionary (Genus, Plural) and en.wiktionary (meaning)",
+       "note": "Grammar term; the plural (Präsentia) is rarely used",
+       "home": "vocabulary"
       }
      ]
     },
@@ -5115,10 +5174,12 @@
       {
        "german": "Wir hören wieder voneinander.",
        "reason": "No dictionary confirms the meaning (en.wiktionary, dict.cc)."
-      },
+      }
+     ],
+     "declinedEntries": [
       {
        "german": "GuMo",
-       "reason": "Slang for Guten Morgen; no dictionary confirms the abbreviation itself."
+       "decision": "no (2026-09-25): meme slang"
       }
      ]
     }
