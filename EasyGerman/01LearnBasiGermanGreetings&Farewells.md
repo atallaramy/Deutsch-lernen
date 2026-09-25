@@ -1,0 +1,90 @@
+# Learn Basic German Greetings & Farewells in Slow German
+
+**Video:** [Easy German - YouTube](http://www.youtube.com/watch?v=aRlakaPVrEw)
+
+---
+
+- **[00:00:00]** hallo halli Hallo ich bin Kari und ich bin Janusch und wir zeigen euch heute die wichtigsten Begrüßungen und Verabschiedungen
+- **[00:00:12]** in der deutschen Sprache los geht's
+- **[00:00:21]** wir haben heute ganz viele verschiedene Begrüßungen und Verabschiedung vorbereitet wir fangen an mit den wichtigsten die die man jeden
+- **[00:00:38]** Tag in Deutschland hört und am Ende zeigen wir euch noch die Umgangssprache die Abkürzungen die lustigen Verabschiedungen und Begrüßungen
+- **[00:00:52]** also bleibt bis zum Ende dran wir fangen an mit den wichtigsten Wörtern Hallo und Tschüss das sind die zwei
+- **[00:01:08]** häufigsten ein bisschen informell Hallo sagt man überall mit Freunden aber auch im Geschäft und Tschüss oder tschüss sagt man
+- **[00:01:23]** auch fast überall das probieren wir jetzt am Telefon
+- **[00:01:34]** hallo Erik hallo Kari wie geht's gut danke und dir auch gut schön okay tschüss tschüss was für ein schönes
+- **[00:01:55]** Telefonat sehr deutsch ja ich habe Tschüss gesagt und Erik hat Tschüss gesagt beides ist möglich was sagst du Janusch
+- **[00:02:10]** tschüss tschüss oder tschüss freie Wahl aber die Intonation ist wichtig weil ihr habt ja gehört es ist einmal tschüss
+- **[00:02:24]** tschüss es ist trotzdem auch wenn das das gleiche Wort ist es ist ein Dialog als nächstes haben wir guten
+- **[00:02:34]** Tag und auf Wiedersehen diese beiden sind ein bisschen formeller ja Janusch du rufst jetzt meine Mutter an und redest
+- **[00:02:49]** ein bisschen formeller guten Tag auf Wiedersehen am Telefon sagt man auch auf Wiederhören sehr formell benutzt du das äh
+- **[00:03:06]** nein aber ich kenne das hundertprozentig auf Wiederhören aber ich bin meistens sehr Informel okay bist du bereit ja
+- **[00:03:24]** albd Schmidt hier hallo guten Tag Ali ja guten Tag Janusch wie geht's dir mir geht es soweit gut danke
+- **[00:03:36]** der Nachfrage das freut mich mir geht es auch gut das ist schön gut zu hören auf Wiedersehen Ali ach
+- **[00:03:45]** wir verabschieden uns schon ja dann einen schönen Tag noch danke sehr Ciao tschüss tschüss Janusch du hast zu meinem
+- **[00:03:56]** Vater gesagt auf Wiedersehen und er hat gesagt schönen Tag noch danke auch eine schöne Verabschiedung man wünscht einen schönen
+- **[00:04:11]** Tag schönen Tag noch noch ein wichtiges Wort hi das kennt ihr das sagt man auch im englischen aber in
+- **[00:04:23]** Deutsch auch sehr populär und ciao ciao ist eigentlich aus dem italienischen im deutschen sagen wir auch ciao ciao oder
+- **[00:04:36]** die deutsche Schreibweise Ciao
+- **[00:04:43]** manuelmann hi Manuel hi Papa wie geht es dir mir geht es fantastisch und dir mir geht es auch sehr
+- **[00:04:56]** gut und das freut mich mich freut das auch Ciao Manuel bis bald Ciao tschüss
+- **[00:05:09]** jetzt habt ihr gehört ja Tschüss tschüss jetzt habt ihr gehört wie man mehrere Wörter benutzt Janusch hat gesagt Ciao
+- **[00:05:24]** Manuel hat gesagt bis bald noch mal gesagt ciao und Manuel hat gesagt was hat er gesagt t ichere tschüss
+- **[00:05:37]** tschüss also tschüss ist sehr populär tschüss also ciao bis bald C Ciao tschüss eine typisch deutsche Verabschiedung guckt mal
+- **[00:05:51]** mit solchen Karteikarten habe ich früher noch Vokabeln gelernt wenn ihr heute Deutsch lernt braucht ihr das alles es gar
+- **[00:06:00]** nicht mehr denn es gibt Vokabeln und alles was man zum Sprachenlernen braucht auf dem Handy und ich habe einen
+- **[00:06:08]** super Tipp für euch das ist unsere partnerapp seedleng seedleng hat wirklich alles was ihr zum Deutsch lernen braucht kleine
+- **[00:06:17]** Geschichten Vokabeln und viele Funktionen um sich Vokabeln und Grammatik anzueignen das tolle ist 100% interaktiv mit ganz vielen vide
+- **[00:06:30]** auch von Janusch und mir probiert das aus lad zedleng herunter es gibt zedleng im App Store und im Google
+- **[00:06:38]** Play Store und die Basisversion ist sogar kostenlos also worauf wartet Ihr lad zedleng mal jetzt herunter und probiert die
+- **[00:06:48]** App auf eurem Handy wen rufen wir noch an z.B wir könnten jetzt usel anrufen ich ruf meine Freundin ursela
+- **[00:07:01]** an ich begrüße Sie mit einem hey hey benutzt man auch und was sagen wir zur Verabschiedung mach's gut das
+- **[00:07:14]** ist was bedeutet das das ist hey Ciao mach's gut mach's gut ist ein Wunch mach nichts Falsches mach's gut
+- **[00:07:28]** heißt das mach nichts Falsches ich weiß es nicht ich weiß es auch nicht hey Kari hey Ursel Kari hey
+- **[00:07:42]** hallo alles klar ja alles klar und bei Dir ja auch alles gut soweit das ist schön ja sorry ich
+- **[00:07:54]** war h gerade noch im cffee am bezahlen deswegen habe ich es erst ja zu spät gehört macht nichts ja
+- **[00:08:01]** dann mach's gut ja ihr auch liebe Grüße nach Berlin Tschüss bis dann Ciao das ist so geil kurze aber
+- **[00:08:14]** effiziente Telefonate ihr seht viele Menschen benutzen mehrere Verabschiedungen um sicher zu gehen dass man wirklich tschüss sagt mit manchen
+- **[00:08:27]** Menschen mit denen ich spreche ich mich auch ze oder 20 mal kennst du das auch ja man sagt tschüss
+- **[00:08:36]** ja gut bis später ciao ciao tschüss ja okay und dann sagt man noch was und noch was so verabschiede
+- **[00:08:46]** ich mich immer mit Micha auch aber du bist sehr gut darin einfach aufzulegen ja Janusch sagt tschüss der andere
+- **[00:08:55]** sagt noch was und Janus drückt schon jetzt rufen wir noch mal bei meinen Eltern an vielleicht geht diesmal meine
+- **[00:09:05]** Mutter ran ja und welche Wörter soll ich gebraochen was sagen wir zu meiner Mutter wie wäre es mit hallih
+- **[00:09:14]** hallo wann sagt man hallih hallo zu einem Freund ich würde lieber zu deiner Mutter sagen
+- **[00:09:26]** guten Morgen es gibt guten Tag guten Morgen guten Abend wann sagt man guten Morgen komischerweise morgens und wann sagt
+- **[00:09:43]** man guten Abend wenn es anfängt zu dämmern okay jetzt ist es 16 Uhr beayanusch ist das noch morgen bei
+- **[00:09:54]** meiner Mutter schon Abend wir nehmen guten Abend okay und zur Verabschiedung bis die Tage bis die Tage es gibt
+- **[00:10:08]** mehrere Verabschiedungen mit bis bis später bis die Tage bis baldm
+- **[00:10:22]** guten Abend lieber Doro oh guten Abend lieber Janus das ist eine aschung wie geht's dir denn mir geht's sehr
+- **[00:10:32]** gut und wie geht's dir oh mir geht es auch sehr gut das freut mich zu hören wir hatten heute
+- **[00:10:43]** ein ganz ganz tolles Wetter endlich kommt die Sonne mal wieder raus aber der Schnee liegt noch oder Nein in
+- **[00:10:52]** Münst haben wir keinen Schnee mehr wow eh hab's gut habt ihr den in Berlin noch viel Schnee seh sehr
+- **[00:11:02]** viel Schnee in Berlin ja wie hoch lieg denn der Schnee wie viel Zentimeter ungefähr 3 cm manchmal 7 cm
+- **[00:11:16]** okay Doro ja das ist schön von dir zu hören Janus prima bis die Tage bis die Tage wir hören
+- **[00:11:26]** wieder voneinander mach es gut ciao ciao guck mal meine Mutter hat auch vier Verabschiedungen benutzt bis die Tage wir
+- **[00:11:41]** hören wieder voneinander tschüss und Ciao kann man alles kombinieren das war nett und typisch deutsch jetzt ist Isabel drin
+- **[00:11:55]** denn man redet über das Wetter easy okay hallo na hi Kari n du wie geht's ja ganz gut sage
+- **[00:12:12]** ich mal und dir auch gut sehr gut sehr gut freut mich das ist schön geht auch sehr gut dann
+- **[00:12:23]** man sieht sich wann denn die Tage die Tage dann freue ich mich man hört sich man hört sich und
+- **[00:12:37]** man sieht sich ja bis bald bis bald tschüss tschüss sehr interessant ich habe jetzt selber festgestellt wir sagen mindestens
+- **[00:12:52]** zweimal tschüss in Deutschland dieses Wort ist wichtig na n kann eine Begrüßung sein es ist aber auch eine Frage
+- **[00:13:06]** wie geht es Dir oder eine Anleitung zu einem Gespräch na na wenn du nicht weißt was Du sagen sollst
+- **[00:13:14]** sag einfach na na und na kann auch die Antwort sein na na na wir haben noch einige Begrüßungen auf
+- **[00:13:25]** dem Tisch es gibt nämlich auch regionale Begrüßungen z.B moin moin wo sagt man moin z.pi auf der Insel just
+- **[00:13:40]** im Norden von Deutschland sagt man moin manchmal auch moin moin genau das ist regional unterschiedlich eine umgangssprachliche Variante ist
+- **[00:13:55]** moinsen das liebe ich Mo moinsen Janosch moinsen dann haben wir noch servus sehr populär im Süden Deutschland und in
+- **[00:14:12]** Österreich und in der Schweiz überall servus in der Schweiz sagt man grüzi grüzi grüzi in der Schweiz servus in
+- **[00:14:24]** den bayerischen Dialektgruppen Matthias aus Wien der sagt servus
+- **[00:14:34]** hallo servus Matthias servus wie geht's euch uns geht's gut und dir mir geht's sehr gut heute fantastisch
+- **[00:14:51]** sagt man in Wien servus ja auch servus hallo habidere habidere was heißt das es ist eine Kurzform für ich
+- **[00:15:07]** habe die Ehre habere ich habe die Ehre genau okay ja dann
+- **[00:15:19]** tschüss Papa Papa
+- **[00:15:29]** was heißt vit die viert dich das ist die Verabschiedung eine dialektverabschiedung was bedeutet das ja gute Frage ich weiß
+- **[00:15:43]** es leider auch nicht und was bedeutet Papa also ich würd das mit weichen B machen also Papa ist einfach
+- **[00:15:53]** eine nicht förmliche Verabschiedung Papa in Polen sagt man auch Papa total ja aber weil Österreich uns ja für 127
+- **[00:16:04]** Jahre besetzt hat danke sehr
+- **[00:16:12]** okay dann sagen wir mal Papa Papa Papa tschüssü
+- **[00:16:25]** fantastisch Jan Jaen fast alles benutzt ja ich finde das gut das habe ich nicht gekannt es ist ein Scherz
+- **[00:16:35]** eigentlich GuMo GuMo steht für guten Morgen das kommt eigentlich von irgendeinem meme und hat sich ein bisschen als Slang
+- **[00:16:47]** durchgesetzt gut das war's mit Begrüßungen und Verabschiedungen ich sage jetzt Papa man sieht sich und
+- **[00:17:04]** bis später liebe leute danke fürs zusehen Papa Ciao tschüs wie würdest du dieses Wort auf Englisch übersetzen what's up
+- **[00:17:16]** ja na what's up what what's up man braucht keine Antwort einfach noch mal nah sagen

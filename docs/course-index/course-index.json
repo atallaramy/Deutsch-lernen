@@ -1,0 +1,2991 @@
+{
+ "generatedOn": "2026-09-25",
+ "courses": [
+  {
+   "id": "dw-nicos-weg-a1",
+   "title": "DW Nicos Weg A1",
+   "level": "A1",
+   "courseUrl": "https://learngerman.dw.com/en/nicos-weg/c-36519789",
+   "lessons": [
+    {
+     "unit": 0,
+     "lesson": 1,
+     "unitTitle": "Welcome to A1!",
+     "title": "Hallo!",
+     "goal": "Greetings",
+     "grammar": "Informal and formal",
+     "url": "https://learngerman.dw.com/en/hallo/l-37250531",
+     "script": "https://learngerman.dw.com/downloads/52718683/nicos-weg-a1-e0-l1-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 0,
+     "lesson": 2,
+     "unitTitle": "Welcome to A1!",
+     "title": "Kein Problem!",
+     "goal": "Basic words in German",
+     "grammar": null,
+     "url": "https://learngerman.dw.com/en/kein-problem/l-37251054",
+     "script": "https://learngerman.dw.com/downloads/52719054/nicos-weg-a1-e0-l2-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 0,
+     "lesson": 3,
+     "unitTitle": "Welcome to A1!",
+     "title": "Tschüss!",
+     "goal": "Saying goodbye",
+     "grammar": "Informal and formal",
+     "url": "https://learngerman.dw.com/en/tschüss/l-37251033",
+     "script": "https://learngerman.dw.com/downloads/52719087/nicos-weg-a1-e0-l3-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 0,
+     "lesson": 4,
+     "unitTitle": "Welcome to A1!",
+     "title": "Von A bis Z",
+     "goal": "Spelling",
+     "grammar": null,
+     "url": "https://learngerman.dw.com/en/von-a-bis-z/l-37256418",
+     "script": "https://learngerman.dw.com/downloads/52719090/nicos-weg-a1-e0-l4-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 1,
+     "lesson": 1,
+     "unitTitle": "1 Meeting people",
+     "title": "Ich heiße Emma",
+     "goal": "Introducing yourself",
+     "grammar": "Personal pronouns: ich, du",
+     "url": "https://learngerman.dw.com/en/ich-heiße-emma/l-37262882",
+     "script": "https://learngerman.dw.com/downloads/52719106/nicos-weg-a1-e1-l1-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 1,
+     "lesson": 2,
+     "unitTitle": "1 Meeting people",
+     "title": "Das ist Nico",
+     "goal": "Introducing others",
+     "grammar": null,
+     "url": "https://learngerman.dw.com/en/das-ist-nico/l-37262923",
+     "script": "https://learngerman.dw.com/downloads/52719126/nicos-weg-a1-e1-l2-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 1,
+     "lesson": 3,
+     "unitTitle": "1 Meeting people",
+     "title": "Woher kommst du?",
+     "goal": "Name and background",
+     "grammar": "Conjugation: present tense",
+     "url": "https://learngerman.dw.com/en/woher-kommst-du/l-37263828",
+     "script": "https://learngerman.dw.com/downloads/52719129/nicos-weg-a1-e1-l3-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 1,
+     "lesson": 4,
+     "unitTitle": "1 Meeting people",
+     "title": "Nico hat ein Problem",
+     "goal": "Finding out about other people",
+     "grammar": "Personal pronouns: er, sie",
+     "url": "https://learngerman.dw.com/en/nico-hat-ein-problem/l-37265543",
+     "script": "https://learngerman.dw.com/downloads/52719209/nicos-weg-a1-e1-l4-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 2,
+     "lesson": 1,
+     "unitTitle": "2 Contact details",
+     "title": "Zahlen von 1 bis 100",
+     "goal": "Numbers from 1 to 100",
+     "grammar": "Numbers from 11 to 19",
+     "url": "https://learngerman.dw.com/en/zahlen-von-1-bis-100/l-37265621",
+     "script": "https://learngerman.dw.com/downloads/52719212/nicos-weg-a1-e2-l1-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 2,
+     "lesson": 2,
+     "unitTitle": "2 Contact details",
+     "title": "Wichtige Nummern",
+     "goal": "Important numbers",
+     "grammar": null,
+     "url": "https://learngerman.dw.com/en/wichtige-nummern/l-37269501",
+     "script": "https://learngerman.dw.com/downloads/52719221/nicos-weg-a1-e2-l2-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 2,
+     "lesson": 3,
+     "unitTitle": "2 Contact details",
+     "title": "Adressen",
+     "goal": "Providing personal information",
+     "grammar": "W-questions",
+     "url": "https://learngerman.dw.com/en/adressen/l-37269671",
+     "script": "https://learngerman.dw.com/downloads/52719223/nicos-weg-a1-e2-l3-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 2,
+     "lesson": 4,
+     "unitTitle": "2 Contact details",
+     "title": "Auf dem Amt",
+     "goal": "Formal address",
+     "grammar": "Numbers over 100",
+     "url": "https://learngerman.dw.com/en/auf-dem-amt/l-37269629",
+     "script": "https://learngerman.dw.com/downloads/52719359/nicos-weg-a1-e2-l4-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 3,
+     "lesson": 1,
+     "unitTitle": "3 In company",
+     "title": "Was machst du hier?",
+     "goal": "Social situations",
+     "grammar": null,
+     "url": "https://learngerman.dw.com/en/was-machst-du-hier/l-37278679",
+     "script": "https://learngerman.dw.com/downloads/52719567/nicos-weg-a1-e3-l1-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 3,
+     "lesson": 2,
+     "unitTitle": "3 In company",
+     "title": "Was trinkst du?",
+     "goal": "Offering drinks",
+     "grammar": "Nouns: gender",
+     "url": "https://learngerman.dw.com/en/was-trinkst-du/l-37279418",
+     "script": "https://learngerman.dw.com/downloads/52719579/nicos-weg-a1-e3-l2-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 3,
+     "lesson": 3,
+     "unitTitle": "3 In company",
+     "title": "Eine Pizza bitte!",
+     "goal": "Placing an order",
+     "grammar": "Vowel change: e to i",
+     "url": "https://learngerman.dw.com/en/eine-pizza-bitte/l-37279261",
+     "script": "https://learngerman.dw.com/downloads/52719582/nicos-weg-a1-e3-l3-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 3,
+     "lesson": 4,
+     "unitTitle": "3 In company",
+     "title": "Zahlen bitte! ",
+     "goal": "Paying the bill",
+     "grammar": null,
+     "url": "https://learngerman.dw.com/en/zahlen-bitte/l-37280348",
+     "script": "https://learngerman.dw.com/downloads/52719590/nicos-weg-a1-e3-l4-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 4,
+     "lesson": 1,
+     "unitTitle": "4 Around the world",
+     "title": "Ich war schon in Berlin",
+     "goal": "Sightseeing attractions",
+     "grammar": "Simple past: sein",
+     "url": "https://learngerman.dw.com/en/ich-war-schon-in-berlin/l-37325550",
+     "script": "https://learngerman.dw.com/downloads/52719600/nicos-weg-a1-e4-l1-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 4,
+     "lesson": 2,
+     "unitTitle": "4 Around the world",
+     "title": "Wo liegt das?",
+     "goal": "Geographic info",
+     "grammar": "Questions and statements",
+     "url": "https://learngerman.dw.com/en/wo-liegt-das/l-37337877",
+     "script": "https://learngerman.dw.com/downloads/52719615/nicos-weg-a1-e4-l2-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 4,
+     "lesson": 3,
+     "unitTitle": "4 Around the world",
+     "title": "In Europa",
+     "goal": "Speaking about countries",
+     "grammar": "Indefinite pronouns: man",
+     "url": "https://learngerman.dw.com/en/in-europa/l-37328492",
+     "script": "https://learngerman.dw.com/downloads/52719617/nicos-weg-a1-e4-l3-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 4,
+     "lesson": 4,
+     "unitTitle": "4 Around the world",
+     "title": "Andere Länder",
+     "goal": "Languages",
+     "grammar": "Conjugation: sprechen",
+     "url": "https://learngerman.dw.com/en/andere-länder/l-37337244",
+     "script": "https://learngerman.dw.com/downloads/52719637/nicos-weg-a1-e4-l4-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 5,
+     "lesson": 1,
+     "unitTitle": "5 Things",
+     "title": "Was ist das?",
+     "goal": "Naming objects",
+     "grammar": "Articles: definite",
+     "url": "https://learngerman.dw.com/en/was-ist-das/l-37368285",
+     "script": "https://learngerman.dw.com/downloads/52719650/nicos-weg-a1-e5-l1-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 5,
+     "lesson": 2,
+     "unitTitle": "5 Things",
+     "title": "Wem gehört das?",
+     "goal": "Asking about objects",
+     "grammar": "Articles: indefinite",
+     "url": "https://learngerman.dw.com/en/wem-gehört-das/l-37372077",
+     "script": "https://learngerman.dw.com/downloads/52719652/nicos-weg-a1-e5-l2-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 5,
+     "lesson": 3,
+     "unitTitle": "5 Things",
+     "title": "Ich habe kein …",
+     "goal": "What you (do not) have",
+     "grammar": "Sentence construction: subject",
+     "url": "https://learngerman.dw.com/en/ich-habe-kein/l-37382992",
+     "script": "https://learngerman.dw.com/downloads/52719694/nicos-weg-a1-e5-l3-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 5,
+     "lesson": 4,
+     "unitTitle": "5 Things",
+     "title": "Das Auto ist rot",
+     "goal": "Naming objects",
+     "grammar": "Adjectives following \"sein\"",
+     "url": "https://learngerman.dw.com/en/das-auto-ist-rot/l-37401537",
+     "script": "https://learngerman.dw.com/downloads/52719956/nicos-weg-a1-e5-l4-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 6,
+     "lesson": 1,
+     "unitTitle": "6 Living",
+     "title": "So wohne ich",
+     "goal": "Living arrangements",
+     "grammar": "Articles",
+     "url": "https://learngerman.dw.com/en/so-wohne-ich/l-37425145",
+     "script": "https://learngerman.dw.com/downloads/52719959/nicos-weg-a1-e6-l1-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 6,
+     "lesson": 2,
+     "unitTitle": "6 Living",
+     "title": "Meine Wohnung",
+     "goal": "The rooms in an apartment",
+     "grammar": "Negatives: nicht",
+     "url": "https://learngerman.dw.com/en/meine-wohnung/l-37425763",
+     "script": "https://learngerman.dw.com/downloads/52719961/nicos-weg-a1-e6-l2-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 6,
+     "lesson": 3,
+     "unitTitle": "6 Living",
+     "title": "Sofa, Sessel und Tisch",
+     "goal": "Describing interiors",
+     "grammar": "zu + adjective",
+     "url": "https://learngerman.dw.com/en/sofa-sessel-und-tisch/l-37438475",
+     "script": "https://learngerman.dw.com/downloads/52719964/nicos-weg-a1-e6-l3-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 6,
+     "lesson": 4,
+     "unitTitle": "6 Living",
+     "title": "Unser Haus",
+     "goal": "Saying what is whose",
+     "grammar": "Possessive determiners",
+     "url": "https://learngerman.dw.com/en/unser-haus/l-37439097",
+     "script": "https://learngerman.dw.com/downloads/52719966/nicos-weg-a1-e6-l4-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 7,
+     "lesson": 1,
+     "unitTitle": "7 Days and times",
+     "title": "Emmas Tag",
+     "goal": "Talking about the day",
+     "grammar": "Time: 12-hour clock",
+     "url": "https://learngerman.dw.com/en/emmas-tag/l-37442425",
+     "script": "https://learngerman.dw.com/downloads/52719975/nicos-weg-a1-e7-l1-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 7,
+     "lesson": 2,
+     "unitTitle": "7 Days and times",
+     "title": "Tageszeiten",
+     "goal": "Describing the day",
+     "grammar": "Separable verbs",
+     "url": "https://learngerman.dw.com/en/tageszeiten/l-37445884",
+     "script": "https://learngerman.dw.com/downloads/52719984/nicos-weg-a1-e7-l2-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 7,
+     "lesson": 3,
+     "unitTitle": "7 Days and times",
+     "title": "Am Sonntag koche ich",
+     "goal": "Free time activities",
+     "grammar": "Prepositions of time: an",
+     "url": "https://learngerman.dw.com/en/am-sonntag-koche-ich/l-37452061",
+     "script": "https://learngerman.dw.com/downloads/52719997/nicos-weg-a1-e7-l3-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 7,
+     "lesson": 4,
+     "unitTitle": "7 Days and times",
+     "title": "Emmas Wochenende",
+     "goal": "The weekend",
+     "grammar": "Adverbs: sequence",
+     "url": "https://learngerman.dw.com/en/emmas-wochenende/l-37452629",
+     "script": "https://learngerman.dw.com/downloads/52720025/nicos-weg-a1-e7-l4-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 8,
+     "lesson": 1,
+     "unitTitle": "8 Appointments",
+     "title": "Wie spät ist es?",
+     "goal": "Understanding time and date",
+     "grammar": "Time specification: 24-hour clock",
+     "url": "https://learngerman.dw.com/en/wie-spät-ist-es/l-37453621",
+     "script": "https://learngerman.dw.com/downloads/52720041/nicos-weg-a1-e8-l1-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 8,
+     "lesson": 2,
+     "unitTitle": "8 Appointments",
+     "title": "Hast du morgen Zeit?",
+     "goal": "Planning dates",
+     "grammar": "Ordinal numbers",
+     "url": "https://learngerman.dw.com/en/hast-du-morgen-zeit/l-37461035",
+     "script": "https://learngerman.dw.com/downloads/52720053/nicos-weg-a1-e8-l2-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 8,
+     "lesson": 3,
+     "unitTitle": "8 Appointments",
+     "title": "Wann spielen wir?",
+     "goal": "Making arrangements",
+     "grammar": "Conjugation: können",
+     "url": "https://learngerman.dw.com/en/wann-spielen-wir/l-37468614",
+     "script": "https://learngerman.dw.com/downloads/52720062/nicos-weg-a1-e8-l3-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 8,
+     "lesson": 4,
+     "unitTitle": "8 Appointments",
+     "title": "Zu spät!?",
+     "goal": "Delays",
+     "grammar": "Simple past: haben",
+     "url": "https://learngerman.dw.com/en/zu-spät/l-37460778",
+     "script": "https://learngerman.dw.com/downloads/52720064/nicos-weg-a1-e8-l4-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 9,
+     "lesson": 1,
+     "unitTitle": "9 Working life",
+     "title": "Ich bin Lehrerin",
+     "goal": "Talking about professions",
+     "grammar": "Word formation: professions",
+     "url": "https://learngerman.dw.com/en/ich-bin-lehrerin/l-37469204",
+     "script": "https://learngerman.dw.com/downloads/52720077/nicos-weg-a1-e9-l1-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 9,
+     "lesson": 2,
+     "unitTitle": "9 Working life",
+     "title": "Mein Beruf",
+     "goal": "Describing activities",
+     "grammar": "Modal verbs",
+     "url": "https://learngerman.dw.com/en/mein-beruf/l-37475138",
+     "script": "https://learngerman.dw.com/downloads/52720088/nicos-weg-a1-e9-l2-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 9,
+     "lesson": 3,
+     "unitTitle": "9 Working life",
+     "title": "Wo ist der Aufzug?",
+     "goal": "Finding your way around a building",
+     "grammar": "The dative",
+     "url": "https://learngerman.dw.com/en/wo-ist-der-aufzug/l-37476734",
+     "script": "https://learngerman.dw.com/downloads/52720090/nicos-weg-a1-e9-l3-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 9,
+     "lesson": 4,
+     "unitTitle": "9 Working life",
+     "title": "Traumberufe",
+     "goal": "Career hopes",
+     "grammar": "Modal verbs: wollen",
+     "url": "https://learngerman.dw.com/en/traumberufe/l-37477568",
+     "script": "https://learngerman.dw.com/downloads/52720100/nicos-weg-a1-e9-l4-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 10,
+     "lesson": 1,
+     "unitTitle": "10 Orientation",
+     "title": "Wo ist der Bahnhof?",
+     "goal": "Living and working",
+     "grammar": "Prepositions: bei, von",
+     "url": "https://learngerman.dw.com/en/wo-ist-der-bahnhof/l-37594551",
+     "script": "https://learngerman.dw.com/downloads/52720113/nicos-weg-a1-e10-l1-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 10,
+     "lesson": 2,
+     "unitTitle": "10 Orientation",
+     "title": "An der Ampel links",
+     "goal": "Giving directions",
+     "grammar": "Prepositions of place",
+     "url": "https://learngerman.dw.com/en/an-der-ampel-links/l-37595076",
+     "script": "https://learngerman.dw.com/downloads/52720133/nicos-weg-a1-e10-l2-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 10,
+     "lesson": 3,
+     "unitTitle": "10 Orientation",
+     "title": "Mit Bus und Bahn",
+     "goal": "Commuting to work",
+     "grammar": "Prepositions: mit",
+     "url": "https://learngerman.dw.com/en/mit-bus-und-bahn/l-37595395",
+     "script": "https://learngerman.dw.com/downloads/52720248/nicos-weg-a1-e10-l3-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 10,
+     "lesson": 4,
+     "unitTitle": "10 Orientation",
+     "title": "Im Büro",
+     "goal": "Objects in the office",
+     "grammar": "Two-case prepositions ",
+     "url": "https://learngerman.dw.com/en/im-büro/l-37595501",
+     "script": "https://learngerman.dw.com/downloads/52720300/nicos-weg-a1-e10-l4-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 11,
+     "lesson": 1,
+     "unitTitle": "11 Eating and leisure",
+     "title": "Lebensmittel",
+     "goal": "Talking about food",
+     "grammar": "Negation: nicht/kein",
+     "url": "https://learngerman.dw.com/en/lebensmittel/l-37597045",
+     "script": "https://learngerman.dw.com/downloads/52720309/nicos-weg-a1-e11-l1-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 11,
+     "lesson": 2,
+     "unitTitle": "11 Eating and leisure",
+     "title": "Ich mag (nicht)!",
+     "goal": "Eating preferences",
+     "grammar": "Comparative",
+     "url": "https://learngerman.dw.com/en/ich-mag-nicht/l-37599970",
+     "script": "https://learngerman.dw.com/downloads/52720325/nicos-weg-a1-e11-l2-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 11,
+     "lesson": 3,
+     "unitTitle": "11 Eating and leisure",
+     "title": "Haushaltsarbeit",
+     "goal": "Preferences at home",
+     "grammar": "Comparison: wie/als",
+     "url": "https://learngerman.dw.com/en/haushaltsarbeit/l-37631238",
+     "script": "https://learngerman.dw.com/downloads/52720347/nicos-weg-a1-e11-l3-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 11,
+     "lesson": 4,
+     "unitTitle": "11 Eating and leisure",
+     "title": "Was macht dir Spaß?",
+     "goal": "Leisure activities",
+     "grammar": "gehen + infinitive",
+     "url": "https://learngerman.dw.com/en/was-macht-dir-spaß/l-37630630",
+     "script": "https://learngerman.dw.com/downloads/52720386/nicos-weg-a1-e11-l4-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 12,
+     "lesson": 1,
+     "unitTitle": "12 Food",
+     "title": "Mengen und Preise",
+     "goal": "Buying groceries",
+     "grammar": "Prepositions: in, auf",
+     "url": "https://learngerman.dw.com/en/mengen-und-preise/l-37628421",
+     "script": "https://learngerman.dw.com/downloads/52720402/nicos-weg-a1-e12-l1-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 12,
+     "lesson": 2,
+     "unitTitle": "12 Food",
+     "title": "Was darf es sein?",
+     "goal": "Shopping conversations",
+     "grammar": null,
+     "url": "https://learngerman.dw.com/en/was-darf-es-sein/l-37635620",
+     "script": "https://learngerman.dw.com/downloads/52720419/nicos-weg-a1-e12-l2-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 12,
+     "lesson": 3,
+     "unitTitle": "12 Food",
+     "title": "Sonst noch etwas?",
+     "goal": "Shopping at the market",
+     "grammar": "Question words: wie viel",
+     "url": "https://learngerman.dw.com/en/sonst-noch-etwas/l-37646611",
+     "script": "https://learngerman.dw.com/downloads/52720423/nicos-weg-a1-e12-l3-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 12,
+     "lesson": 4,
+     "unitTitle": "12 Food",
+     "title": "Wie viel Mehl?",
+     "goal": "Following a recipe",
+     "grammar": "Instructions",
+     "url": "https://learngerman.dw.com/en/wie-viel-mehl/l-37647289",
+     "script": "https://learngerman.dw.com/downloads/52720430/nicos-weg-a1-e12-l4-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 13,
+     "lesson": 1,
+     "unitTitle": "13 Weather and holiday",
+     "title": "Wie war dein Urlaub?",
+     "goal": "Talking about vacations",
+     "grammar": "Present perfect with \"haben\"",
+     "url": "https://learngerman.dw.com/en/wie-war-dein-urlaub/l-37648534",
+     "script": "https://learngerman.dw.com/downloads/52720463/nicos-weg-a1-e13-l1-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 13,
+     "lesson": 2,
+     "unitTitle": "13 Weather and holiday",
+     "title": "Jahreszeiten",
+     "goal": "Comparing the seasons",
+     "grammar": "Comparison",
+     "url": "https://learngerman.dw.com/en/jahreszeiten/l-37651758",
+     "script": "https://learngerman.dw.com/downloads/52720480/nicos-weg-a1-e13-l2-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 13,
+     "lesson": 3,
+     "unitTitle": "13 Weather and holiday",
+     "title": "Der Ausflug",
+     "goal": "Talking about the past",
+     "grammar": "Present perfect with \"sein\"",
+     "url": "https://learngerman.dw.com/en/der-ausflug/l-37651657",
+     "script": "https://learngerman.dw.com/downloads/52720497/nicos-weg-a1-e13-l3-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 13,
+     "lesson": 4,
+     "unitTitle": "13 Weather and holiday",
+     "title": "Wie wird das Wetter?",
+     "goal": "Talking about the weather",
+     "grammar": "Pronouns: es",
+     "url": "https://learngerman.dw.com/en/wie-wird-das-wetter/l-37653197",
+     "script": "https://learngerman.dw.com/downloads/52720999/nicos-weg-a1-e13-l4-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 14,
+     "lesson": 1,
+     "unitTitle": "14 Clothing",
+     "title": "Das ist jetzt modern",
+     "goal": "Talking about clothing",
+     "grammar": "Adjective declension",
+     "url": "https://learngerman.dw.com/en/das-ist-jetzt-modern/l-37655848",
+     "script": "https://learngerman.dw.com/downloads/52721057/nicos-weg-a1-e14-l1-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 14,
+     "lesson": 2,
+     "unitTitle": "14 Clothing",
+     "title": "Mein Lieblingspulli",
+     "goal": "Describing clothing",
+     "grammar": "Question words: welch-",
+     "url": "https://learngerman.dw.com/en/mein-lieblingspulli/l-37656274",
+     "script": "https://learngerman.dw.com/downloads/52721069/nicos-weg-a1-e14-l2-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 14,
+     "lesson": 3,
+     "unitTitle": "14 Clothing",
+     "title": "Das passt gut!",
+     "goal": "Shopping for clothes",
+     "grammar": "Verbs with a dative object",
+     "url": "https://learngerman.dw.com/en/das-passt-gut/l-37661740",
+     "script": "https://learngerman.dw.com/downloads/52721161/nicos-weg-a1-e14-l3-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 14,
+     "lesson": 4,
+     "unitTitle": "14 Clothing",
+     "title": "Schick!",
+     "goal": "Casual wear",
+     "grammar": null,
+     "url": "https://learngerman.dw.com/en/schick/l-37661765",
+     "script": "https://learngerman.dw.com/downloads/52721202/nicos-weg-a1-e14-l4-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 15,
+     "lesson": 1,
+     "unitTitle": "15 Family",
+     "title": "Meine Familie",
+     "goal": "Talking about family",
+     "grammar": "Adjective declension",
+     "url": "https://learngerman.dw.com/en/meine-familie/l-37661741",
+     "script": "https://learngerman.dw.com/downloads/52721211/nicos-weg-a1-e15-l1-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 15,
+     "lesson": 2,
+     "unitTitle": "15 Family",
+     "title": "Meine Eltern",
+     "goal": "Introducing parents",
+     "grammar": "Personal pronouns: accusative",
+     "url": "https://learngerman.dw.com/en/meine-eltern/l-37664246",
+     "script": "https://learngerman.dw.com/downloads/52721231/nicos-weg-a1-e15-l2-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 15,
+     "lesson": 3,
+     "unitTitle": "15 Family",
+     "title": "Meine Tante",
+     "goal": "Career choices",
+     "grammar": "The possessive determiner",
+     "url": "https://learngerman.dw.com/en/meine-tante/l-37664498",
+     "script": "https://learngerman.dw.com/downloads/52721246/nicos-weg-a1-e15-l3-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 15,
+     "lesson": 4,
+     "unitTitle": "15 Family",
+     "title": "Mein Bruder",
+     "goal": "Talking about siblings",
+     "grammar": "Modal verbs: sollen",
+     "url": "https://learngerman.dw.com/en/mein-bruder/l-37664164",
+     "script": "https://learngerman.dw.com/downloads/52721250/nicos-weg-a1-e15-l4-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 16,
+     "lesson": 1,
+     "unitTitle": "16 Sports and exercise",
+     "title": "Von Kopf bis Fuß",
+     "goal": "Sports",
+     "grammar": "Comparison",
+     "url": "https://learngerman.dw.com/en/von-kopf-bis-fuß/l-37664951",
+     "script": "https://learngerman.dw.com/downloads/52721261/nicos-weg-a1-e16-l1-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 16,
+     "lesson": 2,
+     "unitTitle": "16 Sports and exercise",
+     "title": "Bist du fit?",
+     "goal": "Sports and training",
+     "grammar": "Time specification: Wann ...?",
+     "url": "https://learngerman.dw.com/en/bist-du-fit/l-37668333",
+     "script": "https://learngerman.dw.com/downloads/52721282/nicos-weg-a1-e16-l2-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 16,
+     "lesson": 3,
+     "unitTitle": "16 Sports and exercise",
+     "title": "Fitness",
+     "goal": "Fitness tips",
+     "grammar": "Comparison",
+     "url": "https://learngerman.dw.com/en/fitness/l-37668815",
+     "script": "https://learngerman.dw.com/downloads/52721376/nicos-weg-a1-e16-l3-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 16,
+     "lesson": 4,
+     "unitTitle": "16 Sports and exercise",
+     "title": "Ist das gesund?",
+     "goal": "Talking about nutrition",
+     "grammar": "Imperative: informal",
+     "url": "https://learngerman.dw.com/en/ist-das-gesund/l-37670365",
+     "script": "https://learngerman.dw.com/downloads/52721397/nicos-weg-a1-e16-l4-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 17,
+     "lesson": 1,
+     "unitTitle": "17 Health",
+     "title": "Geht es dir gut?",
+     "goal": "Talking about illnesses",
+     "grammar": "Müssen or sollen?",
+     "url": "https://learngerman.dw.com/en/geht-es-dir-gut/l-37778457",
+     "script": "https://learngerman.dw.com/downloads/52721400/nicos-weg-a1-e17-l1-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 17,
+     "lesson": 2,
+     "unitTitle": "17 Health",
+     "title": "Beim Arzt",
+     "goal": "Checking in at the doctor's office",
+     "grammar": "Modal verbs: dürfen",
+     "url": "https://learngerman.dw.com/en/beim-arzt/l-37778169",
+     "script": "https://learngerman.dw.com/downloads/52721478/nicos-weg-a1-e17-l2-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 17,
+     "lesson": 3,
+     "unitTitle": "17 Health",
+     "title": "Gute Besserung!",
+     "goal": "Inquiring about patients",
+     "grammar": "Present perfect",
+     "url": "https://learngerman.dw.com/en/gute-besserung/l-37780308",
+     "script": "https://learngerman.dw.com/downloads/52721488/nicos-weg-a1-e17-l3-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 17,
+     "lesson": 4,
+     "unitTitle": "17 Health",
+     "title": "Nehmen Sie …",
+     "goal": "A visit to the doctor",
+     "grammar": "Prepositions: vor, nach",
+     "url": "https://learngerman.dw.com/en/nehmen-sie/l-37782214",
+     "script": "https://learngerman.dw.com/downloads/52721497/nicos-weg-a1-e17-l4-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 18,
+     "lesson": 1,
+     "unitTitle": "18 Home",
+     "title": "Meine Heimat",
+     "goal": "Talking about home",
+     "grammar": "Adjective declension",
+     "url": "https://learngerman.dw.com/en/meine-heimat/l-37776166",
+     "script": "https://learngerman.dw.com/downloads/52721499/nicos-weg-a1-e18-l1-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 18,
+     "lesson": 2,
+     "unitTitle": "18 Home",
+     "title": "Leben in Deutschland",
+     "goal": "To miss something",
+     "grammar": "Personal pronouns: dative",
+     "url": "https://learngerman.dw.com/en/leben-in-deutschland/l-37777069",
+     "script": "https://learngerman.dw.com/downloads/52721505/nicos-weg-a1-e18-l2-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 18,
+     "lesson": 3,
+     "unitTitle": "18 Home",
+     "title": "Anders als zu Hause",
+     "goal": "Comparisons",
+     "grammar": null,
+     "url": "https://learngerman.dw.com/en/anders-als-zu-hause/l-37779968",
+     "script": "https://learngerman.dw.com/downloads/52721519/nicos-weg-a1-e18-l3-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 18,
+     "lesson": 4,
+     "unitTitle": "18 Home",
+     "title": "Ich träume von …",
+     "goal": "Hopes and dreams",
+     "grammar": "Subjunctive: Wishes",
+     "url": "https://learngerman.dw.com/en/ich-träume-von/l-37783730",
+     "script": "https://learngerman.dw.com/downloads/52721527/nicos-weg-a1-e18-l4-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": null,
+     "lesson": null,
+     "unitTitle": "",
+     "title": "Final Test A1",
+     "goal": "Check your knowledge",
+     "grammar": null,
+     "url": "https://learngerman.dw.com/en/final-test-a1/l-44875550",
+     "script": null
+    }
+   ]
+  },
+  {
+   "id": "dw-nicos-weg-a2",
+   "title": "DW Nicos Weg A2",
+   "level": "A2",
+   "courseUrl": "https://learngerman.dw.com/en/nicos-weg/c-36519797",
+   "lessons": [
+    {
+     "unit": 0,
+     "lesson": 1,
+     "unitTitle": "Welcome to A2!",
+     "title": "Lebenslinien",
+     "goal": "Biographical information",
+     "grammar": "Prepositions: vor, seit",
+     "url": "https://learngerman.dw.com/en/lebenslinien/l-38051792",
+     "script": "https://learngerman.dw.com/downloads/52723388/nicos-weg-a2-e0-l1-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 0,
+     "lesson": 2,
+     "unitTitle": "Welcome to A2!",
+     "title": "Angekommen",
+     "goal": "Migration",
+     "grammar": "Compound conjunctions",
+     "url": "https://learngerman.dw.com/en/angekommen/l-38047077",
+     "script": "https://learngerman.dw.com/downloads/52723708/nicos-weg-a2-e0-l2-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 0,
+     "lesson": 3,
+     "unitTitle": "Welcome to A2!",
+     "title": "Pläne machen",
+     "goal": "Future plans",
+     "grammar": "Subordinate clauses: dass",
+     "url": "https://learngerman.dw.com/en/pläne-machen/l-38046791",
+     "script": "https://learngerman.dw.com/downloads/52723748/nicos-weg-a2-e0-l3-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 0,
+     "lesson": 4,
+     "unitTitle": "Welcome to A2!",
+     "title": "Sprichst du Deutsch?",
+     "goal": "Study habits",
+     "grammar": "Indirect interrogatives",
+     "url": "https://learngerman.dw.com/en/sprichst-du-deutsch/l-38047959",
+     "script": "https://learngerman.dw.com/downloads/52723802/nicos-weg-a2-e0-l4-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 1,
+     "lesson": 1,
+     "unitTitle": "1 Money",
+     "title": "Geld ist für mich …",
+     "goal": "Speaking about money",
+     "grammar": "Subordinate clauses",
+     "url": "https://learngerman.dw.com/en/geld-ist-für-mich/l-38178484",
+     "script": "https://learngerman.dw.com/downloads/52723977/nicos-weg-a2-e1-l1-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 1,
+     "lesson": 2,
+     "unitTitle": "1 Money",
+     "title": "Mein Bankkonto",
+     "goal": "Opening a bank account",
+     "grammar": null,
+     "url": "https://learngerman.dw.com/en/mein-bankkonto/l-38179694",
+     "script": "https://learngerman.dw.com/downloads/52724108/nicos-weg-a2-e1-l2-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 1,
+     "lesson": 3,
+     "unitTitle": "1 Money",
+     "title": "Rechnungen",
+     "goal": "Talking about bills",
+     "grammar": "Nouns ending in -ung",
+     "url": "https://learngerman.dw.com/en/rechnungen/l-38183655",
+     "script": "https://learngerman.dw.com/downloads/52724152/nicos-weg-a2-e1-l3-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 1,
+     "lesson": 4,
+     "unitTitle": "1 Money",
+     "title": "Am Bankautomaten",
+     "goal": "Using cash machines (ATMs)",
+     "grammar": null,
+     "url": "https://learngerman.dw.com/en/am-bankautomaten/l-38179296",
+     "script": "https://learngerman.dw.com/downloads/52724162/nicos-weg-a2-e1-l4-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 2,
+     "lesson": 1,
+     "unitTitle": "2 Family",
+     "title": "Familiengeschichten",
+     "goal": "Talking about family members",
+     "grammar": "Possessive determiners",
+     "url": "https://learngerman.dw.com/en/familiengeschichten/l-38180506",
+     "script": "https://learngerman.dw.com/downloads/52724170/nicos-weg-a2-e2-l1-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 2,
+     "lesson": 2,
+     "unitTitle": "2 Family",
+     "title": "Personen beschreiben",
+     "goal": "Talking about family",
+     "grammar": "Adjective declension",
+     "url": "https://learngerman.dw.com/en/personen-beschreiben/l-38182859",
+     "script": "https://learngerman.dw.com/downloads/52724184/nicos-weg-a2-e2-l2-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 2,
+     "lesson": 3,
+     "unitTitle": "2 Family",
+     "title": "Generationen",
+     "goal": "Talking about problems with aging",
+     "grammar": "Modal verbs: sollen",
+     "url": "https://learngerman.dw.com/en/generationen/l-38181252",
+     "script": "https://learngerman.dw.com/downloads/52724387/nicos-weg-a2-e2-l3-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 2,
+     "lesson": 4,
+     "unitTitle": "2 Family",
+     "title": "Alten- und Pflegeheim",
+     "goal": "One's condition",
+     "grammar": null,
+     "url": "https://learngerman.dw.com/en/alten-und-pflegeheim/l-38182711",
+     "script": "https://learngerman.dw.com/downloads/52724412/nicos-weg-a2-e2-l4-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 3,
+     "lesson": 1,
+     "unitTitle": "3 Living together",
+     "title": "Wohngemeinschaft",
+     "goal": "Household tasks",
+     "grammar": "Conjugation: bügeln",
+     "url": "https://learngerman.dw.com/en/wohngemeinschaft/l-38162937",
+     "script": "https://learngerman.dw.com/downloads/52724469/nicos-weg-a2-e3-l1-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 3,
+     "lesson": 2,
+     "unitTitle": "3 Living together",
+     "title": "Nachbarschaft",
+     "goal": "Problems in the neighborhood",
+     "grammar": "Verbs + preposition",
+     "url": "https://learngerman.dw.com/en/nachbarschaft/l-38179300",
+     "script": "https://learngerman.dw.com/downloads/52724491/nicos-weg-a2-e3-l2-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 3,
+     "lesson": 3,
+     "unitTitle": "3 Living together",
+     "title": "Kinder",
+     "goal": "Childcare options",
+     "grammar": null,
+     "url": "https://learngerman.dw.com/en/kinder/l-38185831",
+     "script": "https://learngerman.dw.com/downloads/52724582/nicos-weg-a2-e3-l3-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 3,
+     "lesson": 4,
+     "unitTitle": "3 Living together",
+     "title": "Anders als ihr",
+     "goal": "Living situations",
+     "grammar": "Comparison",
+     "url": "https://learngerman.dw.com/en/anders-als-ihr/l-38189274",
+     "script": "https://learngerman.dw.com/downloads/52724605/nicos-weg-a2-e3-l4-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 4,
+     "lesson": 1,
+     "unitTitle": "4 Mobility",
+     "title": "Unterwegs",
+     "goal": "Travel and transportation",
+     "grammar": "Conjunctions: aber",
+     "url": "https://learngerman.dw.com/en/unterwegs/l-38217733",
+     "script": "https://learngerman.dw.com/downloads/52724615/nicos-weg-a2-e4-l1-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 4,
+     "lesson": 2,
+     "unitTitle": "4 Mobility",
+     "title": "Im Hotel",
+     "goal": "Booking a room",
+     "grammar": "Conjunctions: oder",
+     "url": "https://learngerman.dw.com/en/im-hotel/l-38211535",
+     "script": "https://learngerman.dw.com/downloads/52724623/nicos-weg-a2-e4-l2-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 4,
+     "lesson": 3,
+     "unitTitle": "4 Mobility",
+     "title": "Bahnreisen",
+     "goal": "Organizing a train trip",
+     "grammar": "Separable verbs",
+     "url": "https://learngerman.dw.com/en/bahnreisen/l-38211137",
+     "script": "https://learngerman.dw.com/downloads/52724648/nicos-weg-a2-e4-l3-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 4,
+     "lesson": 4,
+     "unitTitle": "4 Mobility",
+     "title": "Der Ticketautomat",
+     "goal": "Buying a ticket",
+     "grammar": null,
+     "url": "https://learngerman.dw.com/en/der-ticketautomat/l-38214793",
+     "script": "https://learngerman.dw.com/downloads/52724653/nicos-weg-a2-e4-l4-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 5,
+     "lesson": 1,
+     "unitTitle": "5 So stressful!",
+     "title": "Alltag und Freizeit",
+     "goal": "Talking about leisure time",
+     "grammar": "Reflexive verbs",
+     "url": "https://learngerman.dw.com/en/alltag-und-freizeit/l-38052935",
+     "script": "https://learngerman.dw.com/downloads/52724689/nicos-weg-a2-e5-l1-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 5,
+     "lesson": 2,
+     "unitTitle": "5 So stressful!",
+     "title": "Freizeitstress",
+     "goal": " Free time and vacation plans",
+     "grammar": "Verbs + preposition",
+     "url": "https://learngerman.dw.com/en/freizeitstress/l-38056981",
+     "script": "https://learngerman.dw.com/downloads/52724739/nicos-weg-a2-e5-l2-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 5,
+     "lesson": 3,
+     "unitTitle": "5 So stressful!",
+     "title": "Das hört sich gut an!",
+     "goal": "Say how you feel",
+     "grammar": "Adjective + preposition",
+     "url": "https://learngerman.dw.com/en/das-hört-sich-gut-an/l-38062194",
+     "script": "https://learngerman.dw.com/downloads/52724776/nicos-weg-a2-e5-l3-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 5,
+     "lesson": 4,
+     "unitTitle": "5 So stressful!",
+     "title": "Das meinen Sie nicht ernst!",
+     "goal": "Understanding discussions",
+     "grammar": null,
+     "url": "https://learngerman.dw.com/en/das-meinen-sie-nicht-ernst/l-38188723",
+     "script": "https://learngerman.dw.com/downloads/52724779/nicos-weg-a2-e5-l4-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 6,
+     "lesson": 1,
+     "unitTitle": "6 Are you in a club?",
+     "title": "Das macht mir Spaß!",
+     "goal": "Interests and special preferences",
+     "grammar": "Expressions with the dative",
+     "url": "https://learngerman.dw.com/en/das-macht-mir-spaß/l-38153088",
+     "script": "https://learngerman.dw.com/downloads/52724844/nicos-weg-a2-e6-l1-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 6,
+     "lesson": 2,
+     "unitTitle": "6 Are you in a club?",
+     "title": "Im Verein",
+     "goal": "Talking about clubs",
+     "grammar": "Indefinite pronouns",
+     "url": "https://learngerman.dw.com/en/im-verein/l-38140479",
+     "script": "https://learngerman.dw.com/downloads/52724853/nicos-weg-a2-e6-l2-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 6,
+     "lesson": 3,
+     "unitTitle": "6 Are you in a club?",
+     "title": "Das macht mir Sorgen!",
+     "goal": "Expressing rejection and concerns",
+     "grammar": "Reflexive pronouns",
+     "url": "https://learngerman.dw.com/en/das-macht-mir-sorgen/l-38135982",
+     "script": "https://learngerman.dw.com/downloads/52724894/nicos-weg-a2-e6-l3-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 6,
+     "lesson": 4,
+     "unitTitle": "6 Are you in a club?",
+     "title": "Das ist mir wichtig!",
+     "goal": "Volunteer work",
+     "grammar": "Verbs with a dative object",
+     "url": "https://learngerman.dw.com/en/das-ist-mir-wichtig/l-38153033",
+     "script": "https://learngerman.dw.com/downloads/52725033/nicos-weg-a2-e6-l4-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 7,
+     "lesson": 1,
+     "unitTitle": "7 Digital life",
+     "title": "Immer und überall",
+     "goal": "Discussing media usage",
+     "grammar": "Time specification: Wie oft ...?",
+     "url": "https://learngerman.dw.com/en/immer-und-überall/l-38165451",
+     "script": "https://learngerman.dw.com/downloads/52725087/nicos-weg-a2-e7-l1-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 7,
+     "lesson": 2,
+     "unitTitle": "7 Digital life",
+     "title": "Das Internet",
+     "goal": "The internet",
+     "grammar": "Indirect questions: ob",
+     "url": "https://learngerman.dw.com/en/das-internet/l-38162325",
+     "script": "https://learngerman.dw.com/downloads/52725155/nicos-weg-a2-e7-l2-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 7,
+     "lesson": 3,
+     "unitTitle": "7 Digital life",
+     "title": "Mit freundlichen Grüßen",
+     "goal": "Talking about mobile phones",
+     "grammar": "Messages without a subject ",
+     "url": "https://learngerman.dw.com/en/mit-freundlichen-grüßen/l-38179728",
+     "script": "https://learngerman.dw.com/downloads/52725179/nicos-weg-a2-e7-l3-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 7,
+     "lesson": 4,
+     "unitTitle": "7 Digital life",
+     "title": "Reklamation",
+     "goal": "Making a complaint",
+     "grammar": "Indirect questions",
+     "url": "https://learngerman.dw.com/en/reklamation/l-38166784",
+     "script": "https://learngerman.dw.com/downloads/52725207/nicos-weg-a2-e7-l4-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 8,
+     "lesson": 1,
+     "unitTitle": "8 In a restaurant",
+     "title": "Essen gehen",
+     "goal": "Eating habits",
+     "grammar": "Relative clauses: nominative",
+     "url": "https://learngerman.dw.com/en/essen-gehen/l-38211308",
+     "script": "https://learngerman.dw.com/downloads/52725231/nicos-weg-a2-e8-l1-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 8,
+     "lesson": 2,
+     "unitTitle": "8 In a restaurant",
+     "title": "Die Karte bitte!",
+     "goal": "Talking about meals",
+     "grammar": "Relative clauses: interruptive",
+     "url": "https://learngerman.dw.com/en/die-karte-bitte/l-38211417",
+     "script": "https://learngerman.dw.com/downloads/52725348/nicos-weg-a2-e8-l2-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 8,
+     "lesson": 3,
+     "unitTitle": "8 In a restaurant",
+     "title": "Was darf es sein?",
+     "goal": "Ordering food at a restaurant",
+     "grammar": "Relative clauses: accusative",
+     "url": "https://learngerman.dw.com/en/was-darf-es-sein/l-38217319",
+     "script": "https://learngerman.dw.com/downloads/52725356/nicos-weg-a2-e8-l3-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 8,
+     "lesson": 4,
+     "unitTitle": "8 In a restaurant",
+     "title": "Ich bin Koch",
+     "goal": "Catering professions",
+     "grammar": "Linked relative clauses ",
+     "url": "https://learngerman.dw.com/en/ich-bin-koch/l-38214462",
+     "script": "https://learngerman.dw.com/downloads/52725386/nicos-weg-a2-e8-l4-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 9,
+     "lesson": 1,
+     "unitTitle": "9 Meeting people",
+     "title": "Bei uns oder bei euch?",
+     "goal": "Inviting friends over",
+     "grammar": null,
+     "url": "https://learngerman.dw.com/en/bei-uns-oder-bei-euch/l-38209600",
+     "script": "https://learngerman.dw.com/downloads/52725404/nicos-weg-a2-e9-l1-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 9,
+     "lesson": 2,
+     "unitTitle": "9 Meeting people",
+     "title": "Ich bin neu hier",
+     "goal": "Getting to know people",
+     "grammar": "Adverbs: gradable",
+     "url": "https://learngerman.dw.com/en/ich-bin-neu-hier/l-38213511",
+     "script": "https://learngerman.dw.com/downloads/52725430/nicos-weg-a2-e9-l2-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 9,
+     "lesson": 3,
+     "unitTitle": "9 Meeting people",
+     "title": " Mein Traumpartner",
+     "goal": "Partners and relationships",
+     "grammar": null,
+     "url": "https://learngerman.dw.com/en/mein-traumpartner/l-38218883",
+     "script": "https://learngerman.dw.com/downloads/52725432/nicos-weg-a2-e9-l3-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 9,
+     "lesson": 4,
+     "unitTitle": "9 Meeting people",
+     "title": "Alte und neue Freunde",
+     "goal": "Friends and friendship",
+     "grammar": "Reflexive pronouns",
+     "url": "https://learngerman.dw.com/en/alte-und-neue-freunde/l-38219715",
+     "script": "https://learngerman.dw.com/downloads/52725434/nicos-weg-a2-e9-l4-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 10,
+     "lesson": 1,
+     "unitTitle": "10 How do you live?",
+     "title": "Stadt oder Land?",
+     "goal": "City life and country life",
+     "grammar": null,
+     "url": "https://learngerman.dw.com/en/stadt-oder-land/l-38211402",
+     "script": "https://learngerman.dw.com/downloads/52725453/nicos-weg-a2-e10-l1-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 10,
+     "lesson": 2,
+     "unitTitle": "10 How do you live?",
+     "title": "Auf Wohnungssuche",
+     "goal": "Housing ads",
+     "grammar": null,
+     "url": "https://learngerman.dw.com/en/auf-wohnungssuche/l-38215057",
+     "script": "https://learngerman.dw.com/downloads/52725460/nicos-weg-a2-e10-l2-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 10,
+     "lesson": 3,
+     "unitTitle": "10 How do you live?",
+     "title": "Der Umzug",
+     "goal": "Organizing a move",
+     "grammar": "Two-case prepositions",
+     "url": "https://learngerman.dw.com/en/der-umzug/l-38219321",
+     "script": "https://learngerman.dw.com/downloads/52725483/nicos-weg-a2-e10-l3-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 10,
+     "lesson": 4,
+     "unitTitle": "10 How do you live?",
+     "title": "Unfälle im Haushalt",
+     "goal": "Talking about accidents",
+     "grammar": null,
+     "url": "https://learngerman.dw.com/en/unfälle-im-haushalt/l-38221093",
+     "script": "https://learngerman.dw.com/downloads/52725492/nicos-weg-a2-e10-l4-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 11,
+     "lesson": 1,
+     "unitTitle": "11 The past and today",
+     "title": "Das Leben heute und damals",
+     "goal": "Discussing life now and in the past",
+     "grammar": "Simple past: müssen, dürfen",
+     "url": "https://learngerman.dw.com/en/das-leben-heute-und-damals/l-38215128",
+     "script": "https://learngerman.dw.com/downloads/52725566/nicos-weg-a2-e11-l1-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 11,
+     "lesson": 2,
+     "unitTitle": "11 The past and today",
+     "title": "Alles anders?",
+     "goal": "Comparing life situations",
+     "grammar": "Impersonal verbs",
+     "url": "https://learngerman.dw.com/en/alles-anders/l-38212809",
+     "script": "https://learngerman.dw.com/downloads/52725586/nicos-weg-a2-e11-l2-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 11,
+     "lesson": 3,
+     "unitTitle": "11 The past and today",
+     "title": "Frauensache?",
+     "goal": "Men and women",
+     "grammar": "Simple past: können, wollen",
+     "url": "https://learngerman.dw.com/en/frauensache/l-38214849",
+     "script": "https://learngerman.dw.com/downloads/52725618/nicos-weg-a2-e11-l3-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 11,
+     "lesson": 4,
+     "unitTitle": "11 The past and today",
+     "title": "Damals",
+     "goal": "Talking about the past",
+     "grammar": "Simple past: regular verbs",
+     "url": "https://learngerman.dw.com/en/damals/l-38214756",
+     "script": "https://learngerman.dw.com/downloads/52725649/nicos-weg-a2-e11-l4-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 12,
+     "lesson": 1,
+     "unitTitle": "12 Working world",
+     "title": "Berufswahl",
+     "goal": "Professional biographies",
+     "grammar": "Conjunctions: denn",
+     "url": "https://learngerman.dw.com/en/berufswahl/l-38215363",
+     "script": "https://learngerman.dw.com/downloads/52725658/nicos-weg-a2-e12-l1-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 12,
+     "lesson": 2,
+     "unitTitle": "12 Working world",
+     "title": "Bewerbung",
+     "goal": "Writing a job application",
+     "grammar": "Nouns ending in -ung",
+     "url": "https://learngerman.dw.com/en/bewerbung/l-38227164",
+     "script": "https://learngerman.dw.com/downloads/52725669/nicos-weg-a2-e12-l2-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 12,
+     "lesson": 3,
+     "unitTitle": "12 Working world",
+     "title": "Ist die Stelle noch frei?",
+     "goal": "Talking about jobs",
+     "grammar": "Subjunctive: polite requests",
+     "url": "https://learngerman.dw.com/en/ist-die-stelle-noch-frei/l-38228687",
+     "script": "https://learngerman.dw.com/downloads/52725677/nicos-weg-a2-e12-l3-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 12,
+     "lesson": 4,
+     "unitTitle": "12 Working world",
+     "title": "Bewerbungsgespräch",
+     "goal": "The job interview",
+     "grammar": "Indirect questions",
+     "url": "https://learngerman.dw.com/en/bewerbungsgespräch/l-38224991",
+     "script": "https://learngerman.dw.com/downloads/52725704/nicos-weg-a2-e12-l4-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 13,
+     "lesson": 1,
+     "unitTitle": "13 Experience culture",
+     "title": "Kulturkalender",
+     "goal": "Talking about culture",
+     "grammar": null,
+     "url": "https://learngerman.dw.com/en/kulturkalender/l-38231735",
+     "script": "https://learngerman.dw.com/downloads/52725712/nicos-weg-a2-e13-l1-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 13,
+     "lesson": 2,
+     "unitTitle": "13 Experience culture",
+     "title": "Eine Stadtbesichtigung",
+     "goal": "Planning a sightseeing tour",
+     "grammar": "Modal verbs: sollen",
+     "url": "https://learngerman.dw.com/en/eine-stadtbesichtigung/l-38232941",
+     "script": "https://learngerman.dw.com/downloads/52725751/nicos-weg-a2-e13-l2-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 13,
+     "lesson": 3,
+     "unitTitle": "13 Experience culture",
+     "title": "Ein Bürger dieser Stadt",
+     "goal": "Biographies / written texts",
+     "grammar": "Simple past: regular verbs",
+     "url": "https://learngerman.dw.com/en/ein-bürger-dieser-stadt/l-38234674",
+     "script": "https://learngerman.dw.com/downloads/52725753/nicos-weg-a2-e13-l3-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 13,
+     "lesson": 4,
+     "unitTitle": "13 Experience culture",
+     "title": "Theater und Konzerte",
+     "goal": "Theater/concert visit",
+     "grammar": null,
+     "url": "https://learngerman.dw.com/en/theater-und-konzerte/l-38224911",
+     "script": "https://learngerman.dw.com/downloads/52725819/nicos-weg-a2-e13-l4-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 14,
+     "lesson": 1,
+     "unitTitle": "14 Celebrations",
+     "title": "Feste und Feiertage",
+     "goal": "Talking about celebrations",
+     "grammar": "Question words: case",
+     "url": "https://learngerman.dw.com/en/feste-und-feiertage/l-38263408",
+     "script": "https://learngerman.dw.com/downloads/52725823/nicos-weg-a2-e14-l1-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 14,
+     "lesson": 2,
+     "unitTitle": "14 Celebrations",
+     "title": "Ein Jahr – viele Feste",
+     "goal": "Festivals and small talk at parties",
+     "grammar": "Verbs + preposition",
+     "url": "https://learngerman.dw.com/en/ein-jahr-viele-feste/l-38240712",
+     "script": "https://learngerman.dw.com/downloads/52725850/nicos-weg-a2-e14-l2-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 14,
+     "lesson": 3,
+     "unitTitle": "14 Celebrations",
+     "title": "Was passiert, wenn …?",
+     "goal": "What, when, if ...?",
+     "grammar": "Subordinate clauses: wenn",
+     "url": "https://learngerman.dw.com/en/was-passiert-wenn/l-38263473",
+     "script": "https://learngerman.dw.com/downloads/52725861/nicos-weg-a2-e14-l3-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 14,
+     "lesson": 4,
+     "unitTitle": "14 Celebrations",
+     "title": "So feiern wir!",
+     "goal": "Celebrations and parties",
+     "grammar": "Verbs with a dative object",
+     "url": "https://learngerman.dw.com/en/so-feiern-wir/l-38230985",
+     "script": "https://learngerman.dw.com/downloads/52725934/nicos-weg-a2-e14-l4-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 15,
+     "lesson": 1,
+     "unitTitle": "15 Invitations",
+     "title": "Herzlichen Glückwunsch!",
+     "goal": "Parties and presents",
+     "grammar": "Verbs with two objects ",
+     "url": "https://learngerman.dw.com/en/herzlichen-glückwunsch/l-38260975",
+     "script": "https://learngerman.dw.com/downloads/52726036/nicos-weg-a2-e15-l1-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 15,
+     "lesson": 2,
+     "unitTitle": "15 Invitations",
+     "title": "Passende Geschenke",
+     "goal": "Presents",
+     "grammar": "Sentence construction: pronouns",
+     "url": "https://learngerman.dw.com/en/passende-geschenke/l-38265710",
+     "script": "https://learngerman.dw.com/downloads/52726047/nicos-weg-a2-e15-l2-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 15,
+     "lesson": 3,
+     "unitTitle": "15 Invitations",
+     "title": "Was sollen wir schenken?",
+     "goal": "Ideas for presents",
+     "grammar": "Making suggestions",
+     "url": "https://learngerman.dw.com/en/was-sollen-wir-schenken/l-38260999",
+     "script": "https://learngerman.dw.com/downloads/52726117/nicos-weg-a2-e15-l3-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 15,
+     "lesson": 4,
+     "unitTitle": "15 Invitations",
+     "title": "Lieblingsfeste",
+     "goal": "Talk about a holiday",
+     "grammar": null,
+     "url": "https://learngerman.dw.com/en/lieblingsfeste/l-38262458",
+     "script": "https://learngerman.dw.com/downloads/52726134/nicos-weg-a2-e15-l4-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 16,
+     "lesson": 1,
+     "unitTitle": "16 Film and TV",
+     "title": "Ein Praktikum beim Film",
+     "goal": "Talking about jobs in film",
+     "grammar": "Relative clauses",
+     "url": "https://learngerman.dw.com/en/ein-praktikum-beim-film/l-38241054",
+     "script": "https://learngerman.dw.com/downloads/52726151/nicos-weg-a2-e16-l1-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 16,
+     "lesson": 2,
+     "unitTitle": "16 Film and TV",
+     "title": "Der Film war toll!",
+     "goal": "Talking about films",
+     "grammar": "Genitive",
+     "url": "https://learngerman.dw.com/en/der-film-war-toll/l-38263639",
+     "script": "https://learngerman.dw.com/downloads/52726157/nicos-weg-a2-e16-l2-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 16,
+     "lesson": 3,
+     "unitTitle": "16 Film and TV",
+     "title": "Im Filmstudio",
+     "goal": "Positioning",
+     "grammar": null,
+     "url": "https://learngerman.dw.com/en/im-filmstudio/l-38270486",
+     "script": "https://learngerman.dw.com/downloads/52726204/nicos-weg-a2-e16-l3-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 16,
+     "lesson": 4,
+     "unitTitle": "16 Film and TV",
+     "title": "Ich bin Schauspieler",
+     "goal": "People and their lives",
+     "grammar": "Relative clauses + preposition",
+     "url": "https://learngerman.dw.com/en/ich-bin-schauspieler/l-38263738",
+     "script": "https://learngerman.dw.com/downloads/52726389/nicos-weg-a2-e16-l4-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 17,
+     "lesson": 1,
+     "unitTitle": "17 With feeling",
+     "title": "Einfach super!",
+     "goal": "Expressing emotions",
+     "grammar": null,
+     "url": "https://learngerman.dw.com/en/einfach-super/l-38232130",
+     "script": "https://learngerman.dw.com/downloads/52726468/nicos-weg-a2-e17-l1-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 17,
+     "lesson": 2,
+     "unitTitle": "17 With feeling",
+     "title": "Das regt mich auf!",
+     "goal": "Feelings: verbal and non-verbal",
+     "grammar": "Adjectives + preposition",
+     "url": "https://learngerman.dw.com/en/das-regt-mich-auf/l-38263737",
+     "script": "https://learngerman.dw.com/downloads/52726478/nicos-weg-a2-e17-l2-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 17,
+     "lesson": 3,
+     "unitTitle": "17 With feeling",
+     "title": "Meiner Meinung nach",
+     "goal": "Conflict and disagreement",
+     "grammar": null,
+     "url": "https://learngerman.dw.com/en/meiner-meinung-nach/l-38259877",
+     "script": "https://learngerman.dw.com/downloads/52726548/nicos-weg-a2-e17-l3-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 17,
+     "lesson": 4,
+     "unitTitle": "17 With feeling",
+     "title": "Ich bin Fußballfan",
+     "goal": "Strong emotions",
+     "grammar": "Adverbs: gradable",
+     "url": "https://learngerman.dw.com/en/ich-bin-fußballfan/l-38230508",
+     "script": "https://learngerman.dw.com/downloads/52726743/nicos-weg-a2-e17-l4-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 18,
+     "lesson": 1,
+     "unitTitle": "18 Good ideas",
+     "title": "Praktisch!",
+     "goal": "Inventions",
+     "grammar": "Relative clauses",
+     "url": "https://learngerman.dw.com/en/praktisch/l-38266034",
+     "script": "https://learngerman.dw.com/downloads/52726794/nicos-weg-a2-e18-l1-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 18,
+     "lesson": 2,
+     "unitTitle": "18 Good ideas",
+     "title": "Das funktioniert so!",
+     "goal": "Describing a process",
+     "grammar": "Passive",
+     "url": "https://learngerman.dw.com/en/das-funktioniert-so/l-38266521",
+     "script": "https://learngerman.dw.com/downloads/52726809/nicos-weg-a2-e18-l2-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 18,
+     "lesson": 3,
+     "unitTitle": "18 Good ideas",
+     "title": "Das brauche ich!",
+     "goal": "Technology in daily life",
+     "grammar": "Final clauses: um ... zu",
+     "url": "https://learngerman.dw.com/en/das-brauche-ich/l-38260879",
+     "script": "https://learngerman.dw.com/downloads/52726831/nicos-weg-a2-e18-l3-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": 18,
+     "lesson": 4,
+     "unitTitle": "18 Good ideas",
+     "title": "Wer hat’s erfunden?",
+     "goal": "Presenting a product",
+     "grammar": null,
+     "url": "https://learngerman.dw.com/en/wer-hats-erfunden/l-38260380",
+     "script": "https://learngerman.dw.com/downloads/52726834/nicos-weg-a2-e18-l4-manuskript-und-wortschatz-englisch.pdf"
+    },
+    {
+     "unit": null,
+     "lesson": null,
+     "unitTitle": "",
+     "title": "Final Test A2",
+     "goal": "Check your knowledge",
+     "grammar": null,
+     "url": "https://learngerman.dw.com/en/final-test-a2/l-44877174",
+     "script": null
+    }
+   ]
+  },
+  {
+   "id": "dw-nicos-weg-b1",
+   "title": "DW Nicos Weg B1",
+   "level": "B1",
+   "courseUrl": "https://learngerman.dw.com/de/nicos-weg/c-36519718",
+   "lessons": [
+    {
+     "unit": 0,
+     "lesson": 1,
+     "unitTitle": "Intro zu B1",
+     "title": "Berufsberatung",
+     "goal": "Berufliche Interessen",
+     "grammar": null,
+     "url": "https://learngerman.dw.com/de/berufsberatung/l-38462985",
+     "script": "https://learngerman.dw.com/downloads/53486820/nicos-weg-b1-e0-l1-manuskript-und-wortschatz-deutsch.pdf"
+    },
+    {
+     "unit": 0,
+     "lesson": 2,
+     "unitTitle": "Intro zu B1",
+     "title": "Meine Muttersprache",
+     "goal": "Sprachbiografien",
+     "grammar": null,
+     "url": "https://learngerman.dw.com/de/meine-muttersprache/l-38462119",
+     "script": "https://learngerman.dw.com/downloads/53486876/nicos-weg-b1-e0-l2-manuskript-und-wortschatz-deutsch.pdf"
+    },
+    {
+     "unit": 0,
+     "lesson": 3,
+     "unitTitle": "Intro zu B1",
+     "title": "Bei der Arbeit",
+     "goal": "Arbeitsbedingungen",
+     "grammar": "Indirekte Fragesätze: ob",
+     "url": "https://learngerman.dw.com/de/bei-der-arbeit/l-38463139",
+     "script": "https://learngerman.dw.com/downloads/53486926/nicos-weg-b1-e0-l3-manuskript-und-wortschatz-deutsch.pdf"
+    },
+    {
+     "unit": 0,
+     "lesson": 4,
+     "unitTitle": "Intro zu B1",
+     "title": "Zukunftspläne",
+     "goal": "Ziele und Pläne",
+     "grammar": "Modalverben",
+     "url": "https://learngerman.dw.com/de/zukunftspläne/l-38463290",
+     "script": "https://learngerman.dw.com/downloads/53486929/nicos-weg-b1-e0-l4-manuskript-und-wortschatz-deutsch.pdf"
+    },
+    {
+     "unit": 1,
+     "lesson": 1,
+     "unitTitle": "1 Zeitpunkte",
+     "title": "Zu wenig Zeit?",
+     "goal": "Über Zeit sprechen",
+     "grammar": "Nominalisierung",
+     "url": "https://learngerman.dw.com/de/zu-wenig-zeit/l-38464354",
+     "script": "https://learngerman.dw.com/downloads/53486959/nicos-weg-b1-e1-l1-manuskript-und-wortschatz-deutsch.pdf"
+    },
+    {
+     "unit": 1,
+     "lesson": 2,
+     "unitTitle": "1 Zeitpunkte",
+     "title": "Keine Zeit",
+     "goal": "Zeitmanagement",
+     "grammar": "Nebensätze: während",
+     "url": "https://learngerman.dw.com/de/keine-zeit/l-56006848",
+     "script": "https://learngerman.dw.com/downloads/53956978/nicos-weg-b1-e1-l2-manuskript-und-wortschatz-deutsch.pdf"
+    },
+    {
+     "unit": 1,
+     "lesson": 3,
+     "unitTitle": "1 Zeitpunkte",
+     "title": "Pünktlichkeit",
+     "goal": "Thema Pünktlichkeit ",
+     "grammar": null,
+     "url": "https://learngerman.dw.com/de/pünktlichkeit/l-38464021",
+     "script": "https://learngerman.dw.com/downloads/53486982/nicos-weg-b1-e1-l3-manuskript-und-wortschatz-deutsch.pdf"
+    },
+    {
+     "unit": 1,
+     "lesson": 4,
+     "unitTitle": "1 Zeitpunkte",
+     "title": "Jetzt oder nie",
+     "goal": "Zeitpunkte definieren",
+     "grammar": "Indirekte Rede",
+     "url": "https://learngerman.dw.com/de/jetzt-oder-nie/l-38462994",
+     "script": "https://learngerman.dw.com/downloads/53487014/nicos-weg-b1-e1-l4-manuskript-und-wortschatz-deutsch.pdf"
+    },
+    {
+     "unit": 2,
+     "lesson": 1,
+     "unitTitle": "2 Geschichte",
+     "title": "Heimat",
+     "goal": "Über Heimat sprechen",
+     "grammar": "Präteritum: unregelmäßig",
+     "url": "https://learngerman.dw.com/de/heimat/l-38463594",
+     "script": "https://learngerman.dw.com/downloads/53487027/nicos-weg-b1-e2-l1-manuskript-und-wortschatz-deutsch.pdf"
+    },
+    {
+     "unit": 2,
+     "lesson": 2,
+     "unitTitle": "2 Geschichte",
+     "title": "Krieg und Frieden",
+     "goal": "Persönliche Erlebnisse",
+     "grammar": null,
+     "url": "https://learngerman.dw.com/de/krieg-und-frieden/l-38462968",
+     "script": "https://learngerman.dw.com/downloads/53487030/nicos-weg-b1-e2-l2-manuskript-und-wortschatz-deutsch.pdf"
+    },
+    {
+     "unit": 2,
+     "lesson": 3,
+     "unitTitle": "2 Geschichte",
+     "title": "Die Mauer",
+     "goal": "Deutsche Geschichte",
+     "grammar": "Präteritum oder Perfekt?",
+     "url": "https://learngerman.dw.com/de/die-mauer/l-38463064",
+     "script": "https://learngerman.dw.com/downloads/53487541/nicos-weg-b1-e2-l3-manuskript-und-wortschatz-deutsch.pdf"
+    },
+    {
+     "unit": 2,
+     "lesson": 4,
+     "unitTitle": "2 Geschichte",
+     "title": "Wiedervereinigung",
+     "goal": "Über Geschichte sprechen",
+     "grammar": "Satzbau: Hauptsätze",
+     "url": "https://learngerman.dw.com/de/wiedervereinigung/l-38465597",
+     "script": "https://learngerman.dw.com/downloads/53487549/nicos-weg-b1-e2-l4-manuskript-und-wortschatz-deutsch.pdf"
+    },
+    {
+     "unit": 3,
+     "lesson": 1,
+     "unitTitle": "3 Alltag",
+     "title": "Alltagsprobleme",
+     "goal": "Über Probleme sprechen",
+     "grammar": null,
+     "url": "https://learngerman.dw.com/de/alltagsprobleme/l-38470438",
+     "script": "https://learngerman.dw.com/downloads/53487582/nicos-weg-b1-e3-l1-manuskript-und-wortschatz-deutsch.pdf"
+    },
+    {
+     "unit": 3,
+     "lesson": 2,
+     "unitTitle": "3 Alltag",
+     "title": "Geldprobleme",
+     "goal": "Begründungen",
+     "grammar": "Adverbien: Gründe",
+     "url": "https://learngerman.dw.com/de/geldprobleme/l-38466214",
+     "script": "https://learngerman.dw.com/downloads/53487614/nicos-weg-b1-e3-l2-manuskript-und-wortschatz-deutsch.pdf"
+    },
+    {
+     "unit": 3,
+     "lesson": 3,
+     "unitTitle": "3 Alltag",
+     "title": "Tipps und Ratschläge",
+     "goal": "Über Stress sprechen",
+     "grammar": "Konjunktiv II: Tipps",
+     "url": "https://learngerman.dw.com/de/tipps-und-ratschläge/l-38466970",
+     "script": "https://learngerman.dw.com/downloads/53487688/nicos-weg-b1-e3-l3-manuskript-und-wortschatz-deutsch.pdf"
+    },
+    {
+     "unit": 3,
+     "lesson": 4,
+     "unitTitle": "3 Alltag",
+     "title": "Alle haben Probleme",
+     "goal": "Ratschläge geben",
+     "grammar": null,
+     "url": "https://learngerman.dw.com/de/alle-haben-probleme/l-38467525",
+     "script": "https://learngerman.dw.com/downloads/53487707/nicos-weg-b1-e3-l4-manuskript-und-wortschatz-deutsch.pdf"
+    },
+    {
+     "unit": 4,
+     "lesson": 1,
+     "unitTitle": "4 Endlich Arbeit!",
+     "title": "Jobsuche",
+     "goal": "Über Fähigkeiten sprechen",
+     "grammar": "Doppelkonjunktionen",
+     "url": "https://learngerman.dw.com/de/jobsuche/l-38467171",
+     "script": "https://learngerman.dw.com/downloads/53491704/nicos-weg-b1-e4-l1-manuskript-und-wortschatz-deutsch.pdf"
+    },
+    {
+     "unit": 4,
+     "lesson": 2,
+     "unitTitle": "4 Endlich Arbeit!",
+     "title": "Stellenanzeigen",
+     "goal": "Stellenanzeigen verstehen",
+     "grammar": null,
+     "url": "https://learngerman.dw.com/de/stellenanzeigen/l-38467719",
+     "script": "https://learngerman.dw.com/downloads/53491708/nicos-weg-b1-e4-l2-manuskript-und-wortschatz-deutsch.pdf"
+    },
+    {
+     "unit": 4,
+     "lesson": 3,
+     "unitTitle": "4 Endlich Arbeit!",
+     "title": "Bewerbungen",
+     "goal": "Eine Bewerbung schreiben",
+     "grammar": null,
+     "url": "https://learngerman.dw.com/de/bewerbungen/l-38467622",
+     "script": "https://learngerman.dw.com/downloads/53491781/nicos-weg-b1-e4-l3-manuskript-und-wortschatz-deutsch.pdf"
+    },
+    {
+     "unit": 4,
+     "lesson": 4,
+     "unitTitle": "4 Endlich Arbeit!",
+     "title": "Der erste Eindruck",
+     "goal": "Das Bewerbungsgespräch",
+     "grammar": "Finalsätze: um ... zu",
+     "url": "https://learngerman.dw.com/de/der-erste-eindruck/l-38469854",
+     "script": "https://learngerman.dw.com/downloads/53491903/nicos-weg-b1-e4-l4-manuskript-und-wortschatz-deutsch.pdf"
+    },
+    {
+     "unit": 5,
+     "lesson": 1,
+     "unitTitle": "5 Männer und Frauen",
+     "title": "Typisch?",
+     "goal": "Über Klischees sprechen",
+     "grammar": null,
+     "url": "https://learngerman.dw.com/de/typisch/l-38470217",
+     "script": "https://learngerman.dw.com/downloads/53492030/nicos-weg-b1-e5-l1-manuskript-und-wortschatz-deutsch.pdf"
+    },
+    {
+     "unit": 5,
+     "lesson": 2,
+     "unitTitle": "5 Männer und Frauen",
+     "title": "Anders!",
+     "goal": "Personenbeschreibung",
+     "grammar": "Wortbildung: Adjektive",
+     "url": "https://learngerman.dw.com/de/anders/l-38470706",
+     "script": "https://learngerman.dw.com/downloads/53492065/nicos-weg-b1-e5-l2-manuskript-und-wortschatz-deutsch.pdf"
+    },
+    {
+     "unit": 5,
+     "lesson": 3,
+     "unitTitle": "5 Männer und Frauen",
+     "title": "Jobs und Gender",
+     "goal": "Über Jobs sprechen",
+     "grammar": "Kausale Verbindungen",
+     "url": "https://learngerman.dw.com/de/jobs-und-gender/l-38472135",
+     "script": "https://learngerman.dw.com/downloads/53956977/nicos-weg-b1-e5-l3-manuskript-und-wortschatz-deutsch.pdf"
+    },
+    {
+     "unit": 5,
+     "lesson": 4,
+     "unitTitle": "5 Männer und Frauen",
+     "title": "Rollenverteilung",
+     "goal": "Berufstätigkeit",
+     "grammar": "Nebensätze: obwohl",
+     "url": "https://learngerman.dw.com/de/rollenverteilung/l-38481220",
+     "script": "https://learngerman.dw.com/downloads/53492068/nicos-weg-b1-e5-l4-manuskript-und-wortschatz-deutsch.pdf"
+    },
+    {
+     "unit": 6,
+     "lesson": 1,
+     "unitTitle": "6 Paare",
+     "title": "Partnersuche",
+     "goal": "Partner suchen",
+     "grammar": "Konzessive Verbindungen",
+     "url": "https://learngerman.dw.com/de/partnersuche/l-38481290",
+     "script": "https://learngerman.dw.com/downloads/53492088/nicos-weg-b1-e6-l1-manuskript-und-wortschatz-deutsch.pdf"
+    },
+    {
+     "unit": 6,
+     "lesson": 2,
+     "unitTitle": "6 Paare",
+     "title": "Partnerschaft",
+     "goal": "Über Haushalt sprechen",
+     "grammar": "Nebensätze: zu + Infinitiv",
+     "url": "https://learngerman.dw.com/de/partnerschaft/l-38481801",
+     "script": "https://learngerman.dw.com/downloads/53492101/nicos-weg-b1-e6-l2-manuskript-und-wortschatz-deutsch.pdf"
+    },
+    {
+     "unit": 6,
+     "lesson": 3,
+     "unitTitle": "6 Paare",
+     "title": "Männer und Frauen",
+     "goal": "Kommunikationsprobleme",
+     "grammar": "Konjunktionen: sondern",
+     "url": "https://learngerman.dw.com/de/männer-und-frauen/l-38482861",
+     "script": "https://learngerman.dw.com/downloads/53492103/nicos-weg-b1-e6-l3-manuskript-und-wortschatz-deutsch.pdf"
+    },
+    {
+     "unit": 6,
+     "lesson": 4,
+     "unitTitle": "6 Paare",
+     "title": "Beziehungsprobleme",
+     "goal": "Über Beziehungen sprechen",
+     "grammar": "Doppelkonjunktionen",
+     "url": "https://learngerman.dw.com/de/beziehungsprobleme/l-38482841",
+     "script": "https://learngerman.dw.com/downloads/53492116/nicos-weg-b1-e6-l4-manuskript-und-wortschatz-deutsch.pdf"
+    },
+    {
+     "unit": 7,
+     "lesson": 1,
+     "unitTitle": "7 Arbeitswelt",
+     "title": "Mein Arbeitsplatz",
+     "goal": "Arbeitsplatz und Kollegen",
+     "grammar": null,
+     "url": "https://learngerman.dw.com/de/mein-arbeitsplatz/l-38482450",
+     "script": "https://learngerman.dw.com/downloads/53492133/nicos-weg-b1-e7-l1-manuskript-und-wortschatz-deutsch.pdf"
+    },
+    {
+     "unit": 7,
+     "lesson": 2,
+     "unitTitle": "7 Arbeitswelt",
+     "title": "Mein Gehalt?",
+     "goal": "Gehaltsabrechnungen",
+     "grammar": "Negation: nicht/kein",
+     "url": "https://learngerman.dw.com/de/mein-gehalt/l-38483260",
+     "script": "https://learngerman.dw.com/downloads/53492144/nicos-weg-b1-e7-l2-manuskript-und-wortschatz-deutsch.pdf"
+    },
+    {
+     "unit": 7,
+     "lesson": 3,
+     "unitTitle": "7 Arbeitswelt",
+     "title": "112",
+     "goal": "Notrufe machen",
+     "grammar": "Präteritum",
+     "url": "https://learngerman.dw.com/de/112/l-38483514",
+     "script": "https://learngerman.dw.com/downloads/53492323/nicos-weg-b1-e7-l3-manuskript-und-wortschatz-deutsch.pdf"
+    },
+    {
+     "unit": 7,
+     "lesson": 4,
+     "unitTitle": "7 Arbeitswelt",
+     "title": "Gut versichert",
+     "goal": "Unfälle und Versicherung",
+     "grammar": "Nebensätze: wenn",
+     "url": "https://learngerman.dw.com/de/gut-versichert/l-38484195",
+     "script": "https://learngerman.dw.com/downloads/53492334/nicos-weg-b1-e7-l4-manuskript-und-wortschatz-deutsch.pdf"
+    },
+    {
+     "unit": 8,
+     "lesson": 1,
+     "unitTitle": "8 Schule und Lernen",
+     "title": "Schule",
+     "goal": "Über Schule sprechen",
+     "grammar": "Ordnungszahlen",
+     "url": "https://learngerman.dw.com/de/schule/l-38483735",
+     "script": "https://learngerman.dw.com/downloads/53492343/nicos-weg-b1-e8-l1-manuskript-und-wortschatz-deutsch.pdf"
+    },
+    {
+     "unit": 8,
+     "lesson": 2,
+     "unitTitle": "8 Schule und Lernen",
+     "title": "Schulalltag",
+     "goal": "Wünsche äußern",
+     "grammar": "Konjunktiv II: Präsens",
+     "url": "https://learngerman.dw.com/de/schulalltag/l-38485158",
+     "script": "https://learngerman.dw.com/downloads/53492400/nicos-weg-b1-e8-l2-manuskript-und-wortschatz-deutsch.pdf"
+    },
+    {
+     "unit": 8,
+     "lesson": 3,
+     "unitTitle": "8 Schule und Lernen",
+     "title": "Lernen",
+     "goal": "Über das Lernen sprechen",
+     "grammar": null,
+     "url": "https://learngerman.dw.com/de/lernen/l-38484213",
+     "script": "https://learngerman.dw.com/downloads/53492438/nicos-weg-b1-e8-l3-manuskript-und-wortschatz-deutsch.pdf"
+    },
+    {
+     "unit": 8,
+     "lesson": 4,
+     "unitTitle": "8 Schule und Lernen",
+     "title": "Berufe an der Schule",
+     "goal": "Über Schulalltag sprechen",
+     "grammar": null,
+     "url": "https://learngerman.dw.com/de/berufe-an-der-schule/l-38485719",
+     "script": "https://learngerman.dw.com/downloads/53492439/nicos-weg-b1-e8-l4-manuskript-und-wortschatz-deutsch.pdf"
+    },
+    {
+     "unit": 9,
+     "lesson": 1,
+     "unitTitle": "9 Ausbildung",
+     "title": "Die Berufswahl",
+     "goal": "Berufswahl",
+     "grammar": "Fragewörter: wo(r)-",
+     "url": "https://learngerman.dw.com/de/die-berufswahl/l-38485694",
+     "script": "https://learngerman.dw.com/downloads/53492450/nicos-weg-b1-e9-l1-manuskript-und-wortschatz-deutsch.pdf"
+    },
+    {
+     "unit": 9,
+     "lesson": 2,
+     "unitTitle": "9 Ausbildung",
+     "title": "Weiterbildung",
+     "goal": "Informationen verstehen",
+     "grammar": null,
+     "url": "https://learngerman.dw.com/de/weiterbildung/l-38491718",
+     "script": "https://learngerman.dw.com/downloads/53492451/nicos-weg-b1-e9-l2-manuskript-und-wortschatz-deutsch.pdf"
+    },
+    {
+     "unit": 9,
+     "lesson": 3,
+     "unitTitle": "9 Ausbildung",
+     "title": "Praktikum",
+     "goal": "Übers Praktikum sprechen",
+     "grammar": null,
+     "url": "https://learngerman.dw.com/de/praktikum/l-38487433",
+     "script": "https://learngerman.dw.com/downloads/53492465/nicos-weg-b1-e9-l3-manuskript-und-wortschatz-deutsch.pdf"
+    },
+    {
+     "unit": 9,
+     "lesson": 4,
+     "unitTitle": "9 Ausbildung",
+     "title": "Studium und Beruf",
+     "goal": "Übers Studium sprechen",
+     "grammar": null,
+     "url": "https://learngerman.dw.com/de/studium-und-beruf/l-38487338",
+     "script": "https://learngerman.dw.com/downloads/53492475/nicos-weg-b1-e9-l4-manuskript-und-wortschatz-deutsch.pdf"
+    },
+    {
+     "unit": 10,
+     "lesson": 1,
+     "unitTitle": "10 Klima",
+     "title": "Wetter und Klima",
+     "goal": "Über das Wetter sprechen",
+     "grammar": null,
+     "url": "https://learngerman.dw.com/de/wetter-und-klima/l-38490530",
+     "script": "https://learngerman.dw.com/downloads/54963527/nicos-weg-b1-e10-l1-manuskript-und-wortschatz-deutsch.pdf"
+    },
+    {
+     "unit": 10,
+     "lesson": 2,
+     "unitTitle": "10 Klima",
+     "title": "Wieder so ein Wetter",
+     "goal": "Klima und Gesundheit",
+     "grammar": "Doppelkonjunktionen",
+     "url": "https://learngerman.dw.com/de/wieder-so-ein-wetter/l-38487801",
+     "script": "https://learngerman.dw.com/downloads/53492551/nicos-weg-b1-e10-l2-manuskript-und-wortschatz-deutsch.pdf"
+    },
+    {
+     "unit": 10,
+     "lesson": 3,
+     "unitTitle": "10 Klima",
+     "title": "Wegen des Wetters",
+     "goal": "Über das Klima sprechen",
+     "grammar": "Präpositionen: wegen",
+     "url": "https://learngerman.dw.com/de/wegen-des-wetters/l-38489408",
+     "script": null
+    },
+    {
+     "unit": 10,
+     "lesson": 4,
+     "unitTitle": "10 Klima",
+     "title": "Es wird wärmer",
+     "goal": "Klimawandel",
+     "grammar": "Futur I",
+     "url": "https://learngerman.dw.com/de/es-wird-wärmer/l-38496147",
+     "script": "https://learngerman.dw.com/downloads/53492591/nicos-weg-b1-e10-l4-manuskript-und-wortschatz-deutsch.pdf"
+    },
+    {
+     "unit": 11,
+     "lesson": 1,
+     "unitTitle": "11 Umwelt",
+     "title": "Mensch und Umwelt",
+     "goal": "Über die Umwelt sprechen",
+     "grammar": null,
+     "url": "https://learngerman.dw.com/de/mensch-und-umwelt/l-38507260",
+     "script": "https://learngerman.dw.com/downloads/53492597/nicos-weg-b1-e11-l1-manuskript-und-wortschatz-deutsch.pdf"
+    },
+    {
+     "unit": 11,
+     "lesson": 2,
+     "unitTitle": "11 Umwelt",
+     "title": "Umweltbelastungen",
+     "goal": "Die Umwelt schützen",
+     "grammar": null,
+     "url": "https://learngerman.dw.com/de/umweltbelastungen/l-38506132",
+     "script": "https://learngerman.dw.com/downloads/53492600/nicos-weg-b1-e11-l2-manuskript-und-wortschatz-deutsch.pdf"
+    },
+    {
+     "unit": 11,
+     "lesson": 3,
+     "unitTitle": "11 Umwelt",
+     "title": "Umweltschutz",
+     "goal": "Alternative Energien",
+     "grammar": null,
+     "url": "https://learngerman.dw.com/de/umweltschutz/l-38506134",
+     "script": "https://learngerman.dw.com/downloads/53492623/nicos-weg-b1-e11-l3-manuskript-und-wortschatz-deutsch.pdf"
+    },
+    {
+     "unit": 11,
+     "lesson": 4,
+     "unitTitle": "11 Umwelt",
+     "title": "Wertstoffe",
+     "goal": "Über Recycling sprechen",
+     "grammar": null,
+     "url": "https://learngerman.dw.com/de/wertstoffe/l-38513010",
+     "script": "https://learngerman.dw.com/downloads/53492651/nicos-weg-b1-e11-l4-manuskript-und-wortschatz-deutsch.pdf"
+    },
+    {
+     "unit": 12,
+     "lesson": 1,
+     "unitTitle": "12 Medien",
+     "title": "In der Zeitung steht",
+     "goal": "Zeitungen und Nachrichten",
+     "grammar": null,
+     "url": "https://learngerman.dw.com/de/in-der-zeitung-steht/l-38511153",
+     "script": "https://learngerman.dw.com/downloads/53492715/nicos-weg-b1-e12-l1-manuskript-und-wortschatz-deutsch.pdf"
+    },
+    {
+     "unit": 12,
+     "lesson": 2,
+     "unitTitle": "12 Medien",
+     "title": "In der Redaktion",
+     "goal": "Arbeit bei der Zeitung",
+     "grammar": null,
+     "url": "https://learngerman.dw.com/de/in-der-redaktion/l-38508289",
+     "script": "https://learngerman.dw.com/downloads/53492723/nicos-weg-b1-e12-l2-manuskript-und-wortschatz-deutsch.pdf"
+    },
+    {
+     "unit": 12,
+     "lesson": 3,
+     "unitTitle": "12 Medien",
+     "title": "Analog oder digital?",
+     "goal": "Alte und neue Medien",
+     "grammar": null,
+     "url": "https://learngerman.dw.com/de/analog-oder-digital/l-38509295",
+     "script": "https://learngerman.dw.com/downloads/53492751/nicos-weg-b1-e12-l3-manuskript-und-wortschatz-deutsch.pdf"
+    },
+    {
+     "unit": 12,
+     "lesson": 4,
+     "unitTitle": "12 Medien",
+     "title": "Kontaktanzeigen",
+     "goal": "Über Werbung sprechen",
+     "grammar": null,
+     "url": "https://learngerman.dw.com/de/kontaktanzeigen/l-38508270",
+     "script": "https://learngerman.dw.com/downloads/53492760/nicos-weg-b1-e12-l4-manuskript-und-wortschatz-deutsch.pdf"
+    },
+    {
+     "unit": 13,
+     "lesson": 1,
+     "unitTitle": "13 Wie peinlich!",
+     "title": "Peinlich?!",
+     "goal": "Ein Missgeschick schildern",
+     "grammar": null,
+     "url": "https://learngerman.dw.com/de/peinlich/l-38591182",
+     "script": "https://learngerman.dw.com/downloads/53492783/nicos-weg-b1-e13-l1-manuskript-und-wortschatz-deutsch.pdf"
+    },
+    {
+     "unit": 13,
+     "lesson": 2,
+     "unitTitle": "13 Wie peinlich!",
+     "title": "Richtiges Benehmen",
+     "goal": "Benehmen im Restaurant",
+     "grammar": "Modalverben: sollen",
+     "url": "https://learngerman.dw.com/de/richtiges-benehmen/l-38585076",
+     "script": "https://learngerman.dw.com/downloads/53492785/nicos-weg-b1-e13-l2-manuskript-und-wortschatz-deutsch.pdf"
+    },
+    {
+     "unit": 13,
+     "lesson": 3,
+     "unitTitle": "13 Wie peinlich!",
+     "title": "Benimmregeln",
+     "goal": "Verhaltensregeln ",
+     "grammar": "Partizip I",
+     "url": "https://learngerman.dw.com/de/benimmregeln/l-38582805",
+     "script": "https://learngerman.dw.com/downloads/53492806/nicos-weg-b1-e13-l3-manuskript-und-wortschatz-deutsch.pdf"
+    },
+    {
+     "unit": 13,
+     "lesson": 4,
+     "unitTitle": "13 Wie peinlich!",
+     "title": "Was tun, wenn …?",
+     "goal": "Beschwerden",
+     "grammar": "Plusquamperfekt",
+     "url": "https://learngerman.dw.com/de/was-tun-wenn/l-38585683",
+     "script": "https://learngerman.dw.com/downloads/53492834/nicos-weg-b1-e13-l4-manuskript-und-wortschatz-deutsch.pdf"
+    },
+    {
+     "unit": 14,
+     "lesson": 1,
+     "unitTitle": "14 Zu jung – zu alt?",
+     "title": "Endlich erwachsen",
+     "goal": "Mindestalter",
+     "grammar": "Doppelkonjunktionen",
+     "url": "https://learngerman.dw.com/de/endlich-erwachsen/l-38517253",
+     "script": "https://learngerman.dw.com/downloads/53492872/nicos-weg-b1-e14-l1-manuskript-und-wortschatz-deutsch.pdf"
+    },
+    {
+     "unit": 14,
+     "lesson": 2,
+     "unitTitle": "14 Zu jung – zu alt?",
+     "title": "Was Eltern erwarten",
+     "goal": "Über Erwartungen sprechen",
+     "grammar": "Nebensätze: seit",
+     "url": "https://learngerman.dw.com/de/was-eltern-erwarten/l-38507284",
+     "script": "https://learngerman.dw.com/downloads/53492879/nicos-weg-b1-e14-l2-manuskript-und-wortschatz-deutsch.pdf"
+    },
+    {
+     "unit": 14,
+     "lesson": 3,
+     "unitTitle": "14 Zu jung – zu alt?",
+     "title": "Lebenswege",
+     "goal": "Über Erfahrungen sprechen",
+     "grammar": "Nebensätze: bevor",
+     "url": "https://learngerman.dw.com/de/lebenswege/l-38515178",
+     "script": "https://learngerman.dw.com/downloads/53493012/nicos-weg-b1-e14-l3-manuskript-und-wortschatz-deutsch.pdf"
+    },
+    {
+     "unit": 14,
+     "lesson": 4,
+     "unitTitle": "14 Zu jung – zu alt?",
+     "title": "Noch mal anfangen",
+     "goal": "Über Neuanfänge sprechen",
+     "grammar": null,
+     "url": "https://learngerman.dw.com/de/noch-mal-anfangen/l-38515343",
+     "script": "https://learngerman.dw.com/downloads/53493325/nicos-weg-b1-e14-l4-manuskript-und-wortschatz-deutsch.pdf"
+    },
+    {
+     "unit": 15,
+     "lesson": 1,
+     "unitTitle": "15 Politik",
+     "title": "Bund und Länder",
+     "goal": "Bundesländer",
+     "grammar": "Genitiv",
+     "url": "https://learngerman.dw.com/de/bund-und-länder/l-38565710",
+     "script": "https://learngerman.dw.com/downloads/53495075/nicos-weg-b1-e15-l1-manuskript-und-wortschatz-deutsch.pdf"
+    },
+    {
+     "unit": 15,
+     "lesson": 2,
+     "unitTitle": "15 Politik",
+     "title": "Die EU",
+     "goal": "Politik und Europa",
+     "grammar": "brauchen + zu + Infinitiv",
+     "url": "https://learngerman.dw.com/de/die-eu/l-38573517",
+     "script": "https://learngerman.dw.com/downloads/53495109/nicos-weg-b1-e15-l2-manuskript-und-wortschatz-deutsch.pdf"
+    },
+    {
+     "unit": 15,
+     "lesson": 3,
+     "unitTitle": "15 Politik",
+     "title": "Gerechtigkeit? ",
+     "goal": "Steuer- und Sozialsystem ",
+     "grammar": "Nomen auf -heit/-keit ",
+     "url": "https://learngerman.dw.com/de/gerechtigkeit/l-38574938",
+     "script": "https://learngerman.dw.com/downloads/53495111/nicos-weg-b1-e15-l3-manuskript-und-wortschatz-deutsch.pdf"
+    },
+    {
+     "unit": 15,
+     "lesson": 4,
+     "unitTitle": "15 Politik",
+     "title": "Wir haben die Wahl",
+     "goal": "Über Wahlen sprechen",
+     "grammar": "Passiv",
+     "url": "https://learngerman.dw.com/de/wir-haben-die-wahl/l-38573876",
+     "script": "https://learngerman.dw.com/downloads/53495142/nicos-weg-b1-e15-l4-manuskript-und-wortschatz-deutsch.pdf"
+    },
+    {
+     "unit": 16,
+     "lesson": 1,
+     "unitTitle": "16 Region im Wandel",
+     "title": "Das Ruhrgebiet",
+     "goal": "Regionen beschreiben",
+     "grammar": "Nomen auf -chen",
+     "url": "https://learngerman.dw.com/de/das-ruhrgebiet/l-38594392",
+     "script": "https://learngerman.dw.com/downloads/53495144/nicos-weg-b1-e16-l1-manuskript-und-wortschatz-deutsch.pdf"
+    },
+    {
+     "unit": 16,
+     "lesson": 2,
+     "unitTitle": "16 Region im Wandel",
+     "title": "Industrie",
+     "goal": "Arbeitsbedingungen ",
+     "grammar": "Präpositionen: während",
+     "url": "https://learngerman.dw.com/de/industrie/l-38594827",
+     "script": "https://learngerman.dw.com/downloads/53495148/nicos-weg-b1-e16-l2-manuskript-und-wortschatz-deutsch.pdf"
+    },
+    {
+     "unit": 16,
+     "lesson": 3,
+     "unitTitle": "16 Region im Wandel",
+     "title": "Strukturwandel",
+     "goal": "Veränderungen im Leben",
+     "grammar": "Vergleiche: wie/als",
+     "url": "https://learngerman.dw.com/de/strukturwandel/l-38594866",
+     "script": "https://learngerman.dw.com/downloads/53495174/nicos-weg-b1-e16-l3-manuskript-und-wortschatz-deutsch.pdf"
+    },
+    {
+     "unit": 16,
+     "lesson": 4,
+     "unitTitle": "16 Region im Wandel",
+     "title": "Kultur",
+     "goal": "Über Kultur sprechen",
+     "grammar": null,
+     "url": "https://learngerman.dw.com/de/kultur/l-38594790",
+     "script": "https://learngerman.dw.com/downloads/53495262/nicos-weg-b1-e16-l4-manuskript-und-wortschatz-deutsch.pdf"
+    },
+    {
+     "unit": 17,
+     "lesson": 1,
+     "unitTitle": "17 Migration",
+     "title": "Nach Deutschland",
+     "goal": "Über Migration sprechen",
+     "grammar": "Temporale Präpositionen ",
+     "url": "https://learngerman.dw.com/de/nach-deutschland/l-38585038",
+     "script": "https://learngerman.dw.com/downloads/53495266/nicos-weg-b1-e17-l1-manuskript-und-wortschatz-deutsch.pdf"
+    },
+    {
+     "unit": 17,
+     "lesson": 2,
+     "unitTitle": "17 Migration",
+     "title": "Migrationsgründe",
+     "goal": "Migrationsgeschichten",
+     "grammar": null,
+     "url": "https://learngerman.dw.com/de/migrationsgründe/l-38586979",
+     "script": "https://learngerman.dw.com/downloads/53495272/nicos-weg-b1-e17-l2-manuskript-und-wortschatz-deutsch.pdf"
+    },
+    {
+     "unit": 17,
+     "lesson": 3,
+     "unitTitle": "17 Migration",
+     "title": "Hin und zurück?",
+     "goal": "Gründe für Migration",
+     "grammar": "Relativsätze: Genitiv",
+     "url": "https://learngerman.dw.com/de/hin-und-zurück/l-38585901",
+     "script": "https://learngerman.dw.com/downloads/53495284/nicos-weg-b1-e17-l3-manuskript-und-wortschatz-deutsch.pdf"
+    },
+    {
+     "unit": 17,
+     "lesson": 4,
+     "unitTitle": "17 Migration",
+     "title": "Existenzgründung",
+     "goal": "Geschäftsideen besprechen",
+     "grammar": "Adversative Verbindungen",
+     "url": "https://learngerman.dw.com/de/existenzgründung/l-38591272",
+     "script": "https://learngerman.dw.com/downloads/53495293/nicos-weg-b1-e17-l4-manuskript-und-wortschatz-deutsch.pdf"
+    },
+    {
+     "unit": 18,
+     "lesson": 1,
+     "unitTitle": "18 Neuanfang",
+     "title": "Neue Heimat",
+     "goal": "Vermutungen äußern",
+     "grammar": "Relativadverb: wo",
+     "url": "https://learngerman.dw.com/de/neue-heimat/l-38575949",
+     "script": "https://learngerman.dw.com/downloads/53495294/nicos-weg-b1-e18-l1-manuskript-und-wortschatz-deutsch.pdf"
+    },
+    {
+     "unit": 18,
+     "lesson": 2,
+     "unitTitle": "18 Neuanfang",
+     "title": "So geht’s! ",
+     "goal": "Abläufe beschreiben",
+     "grammar": "lassen + Infinitiv",
+     "url": "https://learngerman.dw.com/de/so-gehts/l-38575937",
+     "script": "https://learngerman.dw.com/downloads/53495342/nicos-weg-b1-e18-l2-manuskript-und-wortschatz-deutsch.pdf"
+    },
+    {
+     "unit": 18,
+     "lesson": 3,
+     "unitTitle": "18 Neuanfang",
+     "title": "Zukunftspläne",
+     "goal": "Gespräche in der Bank",
+     "grammar": "n-Deklination",
+     "url": "https://learngerman.dw.com/de/zukunftspläne/l-38574989",
+     "script": "https://learngerman.dw.com/downloads/53495349/nicos-weg-b1-e18-l3-manuskript-und-wortschatz-deutsch.pdf"
+    },
+    {
+     "unit": 18,
+     "lesson": 4,
+     "unitTitle": "18 Neuanfang",
+     "title": "Wünsche und Träume",
+     "goal": "Wünsche ausdrücken",
+     "grammar": "Wünsche ausdrücken",
+     "url": "https://learngerman.dw.com/de/wünsche-und-träume/l-38575043",
+     "script": "https://learngerman.dw.com/downloads/53495350/nicos-weg-b1-e18-l4-manuskript-und-wortschatz-deutsch.pdf"
+    },
+    {
+     "unit": null,
+     "lesson": null,
+     "unitTitle": "Abschlusstest",
+     "title": "Abschlusstest B1",
+     "goal": "Überprüfe dein Wissen",
+     "grammar": null,
+     "url": "https://learngerman.dw.com/de/abschlusstest-b1/l-44070818",
+     "script": null
+    }
+   ]
+  },
+  {
+   "id": "vhs-a1",
+   "title": "VHS-Lernportal Deutschkurs A1",
+   "level": "A1",
+   "grammar": "https://www.vhs-lernportal.de/wws/bin/4007530-4015506-1-dvv_grammatiklisten_a1.pdf",
+   "words": "https://www.vhs-lernportal.de/wws/bin/4007498-4014834-1-dvv_wortschatzlisten_a1.pdf",
+   "films": "https://www.vhs-lernportal.de/wws/bin/4007498-4014866-1-dvv_filmskripte_a1.pdf",
+   "portal": "https://a1.vhs-lernportal.de/",
+   "lessons": [
+    {
+     "lesson": 1,
+     "title": "Hallo! Wie geht’s?",
+     "topics": [
+      "\u0007sich vorstellen / Fragen stellen",
+      "\u0007Ländernamen und Sprachen",
+      "\u0007sich begrüßen / verabschieden",
+      "nach dem Befinden fragen"
+     ],
+     "grammar": [
+      "\u0007Verben – Präsens: kommen, heißen, sprechen, sein",
+      "Personalpronomen: ich, du / Sie, er / sie",
+      "Satzbau: Verbstellung in Aussagesätzen",
+      "W-Fragen",
+      "W-Fragen vs. Ja-/ Nein-Fragen",
+      "formell – informell: du vs. Sie, dir vs. Ihnen"
+     ]
+    },
+    {
+     "lesson": 2,
+     "title": "Meine Familie und ich",
+     "topics": [
+      "persönliche Informationen",
+      "\u0007sich vorstellen / Fragen stellen",
+      "Familie",
+      "Alphabet",
+      "Zahlen"
+     ],
+     "grammar": [
+      "Possessivartikel mein/e, dein/e, Ihr/e",
+      "formell – informell: du vs. Sie, dein/e vs. Ihr/e",
+      "\u0007Verben – Präsens: haben, wohnen, leben, sein",
+      "Personalpronomen: wir und sie (Pl.)",
+      "Wiederholung (review):",
+      "Personalpronomen: ich, du / Sie, er / sie",
+      "W-Fragen vs. Ja- / Nein-Fragen"
+     ]
+    },
+    {
+     "lesson": 3,
+     "title": "Deutsch lernen",
+     "topics": [
+      "Lernen",
+      "\u0007Kommunikation / richtig reagieren: Kommunikation im Klassenzimmer",
+      "Wochentage",
+      "\u0007Eigenschaften / Gegenteile",
+      "\u0007(Ländernamen und Sprachen)"
+     ],
+     "grammar": [
+      "\u0007Artikel: Indefinitartikel, Negationsartikel",
+      "Artikel: Definitartikel",
+      "Adjektive: prädikativ",
+      "Wortbildung (Komposita): Nomen + Nomen",
+      "Personalpronomen: ihr",
+      "\u0007Verben – Präsens: Konjugation mit allen Personalpronomen",
+      "Verben mit Vokalwechsel: sprechen",
+      "Negation – nicht / kein",
+      "\u0007Temporalangaben: heute, morgen, übermorgen, gestern, vorgestern, am Montag",
+      "Wiederholung (review):",
+      "Possessivartikel: mein/e, dein/e, Ihr/e",
+      "Personalpronomen: ich, du / Sie, er / sie wir und sie (Pl.)"
+     ]
+    },
+    {
+     "lesson": 4,
+     "title": "Essen und trinken",
+     "topics": [
+      "\u0007Einkaufen: Lebensmittel, Preise",
+      "Im Cafe / Restaurant",
+      "Vorlieben ausdrücken"
+     ],
+     "grammar": [
+      "Verben mit Vokalwechsel: nehmen, essen, mögen",
+      "Plural: Endungen; Nullartikel",
+      "\u0007Akkusativ (Verben mit Akkusativ): Definitartikel und Indefinitartikel",
+      "Demonstrativpronomen der, das, die Nom. Sg. / Pl."
+     ]
+    },
+    {
+     "lesson": 5,
+     "title": "Mein Tag",
+     "topics": [
+      "\u0007Tagesablauf und Alltagsaktivitäten",
+      "Vorlieben ausdrücken",
+      "Uhrzeiten und Tageszeiten",
+      "\u0007Termine und Verabre­dungen"
+     ],
+     "grammar": [
+      "trennbare Verben – Präsens",
+      "\u0007Temporalangaben: am Mittag, mittags, um 12 Uhr, montags, von 11 bis 12 Uhr, von Montag bis Mittwoch, immer, meistens, oft, manchmal, selten, nie",
+      "Satzbau: Inversion",
+      "Verben mit Vokalwechsel: schlafen, lesen",
+      "Wiederholung (review):",
+      "Verben mit Vokalwechsel: essen"
+     ]
+    },
+    {
+     "lesson": 6,
+     "title": "Meine Wohnung",
+     "topics": [
+      "Wohnung und Haushalt:",
+      "- Räume / Möbel - Hausarbeit",
+      "Wohnungssuche",
+      "Eigenschaften / Gegenteile",
+      "Zahlen"
+     ],
+     "grammar": [
+      "Personalpronomen: er, es, sie (für Gegenstände)",
+      "Possessivartikel: sein/e, ihr/e (Sg./Pl.), unser/e (Nom.)",
+      "Wortbildung (Komposita): Verb + Nomen",
+      "Wiederholung (review):",
+      "Possessivartikel: mein/e, dein/e, Ihr/e"
+     ]
+    },
+    {
+     "lesson": 7,
+     "title": "In der Stadt",
+     "topics": [
+      "(öffentliche) Verkehrsmittel",
+      "Orte / Gebäude in der Stadt",
+      "Weg- und Lagebeschreibung"
+     ],
+     "grammar": [
+      "\u0007Dativ (Präpositionen mit Dativ): Definitartikel (nach mit, bei, zu, nach und Wechselpräpositionen)",
+      "\u0007Präpositionen \u0007– lokal: bei, zu, nach",
+      "Imperativ: Sie- und Du-Form"
+     ]
+    },
+    {
+     "lesson": 8,
+     "title": "Arbeit und Beruf",
+     "topics": [
+      "Arbeit und Beruf:",
+      "- Berufsbilder - berufliche Kenntnisse, - \u0007Fähigkeiten und Wünsche - \u0007Kommunikation am Arbeitsplatz - Stellenangebote",
+      "Vorlieben ausdrücken"
+     ],
+     "grammar": [
+      "Modalverben: können, müssen, möchten",
+      "trennbare Verben – Präsens: anfangen"
+     ]
+    },
+    {
+     "lesson": 9,
+     "title": "Beim Arzt",
+     "topics": [
+      "Gesundheit",
+      "Körperteile und Befinden",
+      "Arztbesuch"
+     ],
+     "grammar": [
+      "\u0007Imperativ: ihr-Form",
+      "Modalverben: sollen, dürfen",
+      "Possessivartikel: euer / eure (Nom.)",
+      "Wiederholung (review):",
+      "Imperativ: Sie- und Du-Form"
+     ]
+    },
+    {
+     "lesson": 10,
+     "title": "Gestern und heute",
+     "topics": [
+      "\u0007über die Vergangenheit sprechen",
+      "Urlaub und Reisen",
+      "Feste und Unternehmungen",
+      "\u0007Tagesablauf und Alltagsaktivitäten"
+     ],
+     "grammar": [
+      "haben / sein – Präteritum",
+      "\u0007Verben – Perfekt schwache und starke Verben, Verben auf -ieren, haben und sein",
+      "\u0007Temporalangaben: letzte Woche, letzten Monat, heute Morgen",
+      "Wiederholung (review):",
+      "haben / sein – Präsens",
+      "Satzbau: Inversion, Temporalangaben"
+     ]
+    },
+    {
+     "lesson": 11,
+     "title": "Was ziehe ich an?",
+     "topics": [
+      "Kleidung und Farben",
+      "Kleidung kaufen / umtauschen",
+      "Eigenschaften / Gegenteile"
+     ],
+     "grammar": [
+      "\u0007Dativ (Präpositionen mit Dativ): Indefinitartikel (nach mit)",
+      "\u0007Personalpronomen: Dativ (nach gefallen, passen, stehen, helfen)",
+      "Komparativ / Superlativ",
+      "\u0007Demonstrativpronomen dies- / Fragepronomen welch-:",
+      "im Nom. und Akk.",
+      "Wiederholung (review):",
+      "\u0007Temporalangaben: immer, meistens, oft, manchmal, selten, nie"
+     ]
+    },
+    {
+     "lesson": 12,
+     "title": "Jahreszeiten und Wetter",
+     "topics": [
+      "Wetter und Jahreszeiten,",
+      "\u0007Kalender: Jahreszahlen, Monate, Datum",
+      "\u0007Tagesablauf und Alltags­aktivitäten",
+      "Feste und Unternehmungen"
+     ],
+     "grammar": [
+      "\u0007Modalverb: wollen",
+      "Ordinalzahlen"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "vhs-a2",
+   "title": "VHS-Lernportal Deutschkurs A2",
+   "level": "A2",
+   "grammar": "https://www.vhs-lernportal.de/wws/bin/4007530-4015506-2-dvv_grammatiklisten_a2.pdf",
+   "words": "https://www.vhs-lernportal.de/wws/bin/4007498-4014834-2-dvv_wortschatzlisten_a2.pdf",
+   "films": "https://www.vhs-lernportal.de/wws/bin/4007498-4014866-2-dvv_filmskripte_a2.pdf",
+   "portal": "https://a2.vhs-lernportal.de/",
+   "lessons": [
+    {
+     "lesson": 1,
+     "title": "Was machen wir am Wochenende",
+     "topics": [
+      "\u0007Medien / Mediennutzung",
+      "Wetter",
+      "Termine und Verabredungen",
+      "\u0007Unternehmungen / Veranstaltungen",
+      "Feste und Einladungen"
+     ],
+     "grammar": [
+      "\u0007Pronomen man",
+      "Personalpronomen: Akkusativ",
+      "Indefinitpronomen ein-: Akkusativ"
+     ]
+    },
+    {
+     "lesson": 2,
+     "title": "Unterwegs",
+     "topics": [
+      "(öffentliche) Verkehrsmittel",
+      "Reisebuchung",
+      "\u0007Weg- und Lage­beschreibung"
+     ],
+     "grammar": [
+      "Indefinitpronomen ein-: Nominativ",
+      "Sätze mit deshalb",
+      "Wiederholung (review):",
+      "\u0007Präpositionen – lokal: bei, zu, nach und Wechselpräpositionen mit Dativ",
+      "\u0007Komparativ / Superlativ",
+      "Präpositionen – gemischt: mit"
+     ]
+    },
+    {
+     "lesson": 3,
+     "title": "Wir ziehen um.",
+     "topics": [
+      "Wohnungssuche",
+      "Wohnungseinrichtung",
+      "Nachbarschaft"
+     ],
+     "grammar": [
+      "\u0007Wechselpräpositionen: Akkusativ vs. Dativ / Verben liegen, stehen, hängen, sitzen vs. legen, stellen, hängen",
+      "\u0007Temporalangaben: zuerst, dann, danach, später, schließlich, zuletzt",
+      "Wiederholung (review):",
+      "Wechselpräpositionen: Dativ",
+      "Personalpronomen: Dativ"
+     ]
+    },
+    {
+     "lesson": 4,
+     "title": "Ämter und Behörden",
+     "topics": [
+      "\u0007Orte und Institutionen: Ämter und ihre Zuständigkeiten",
+      "\u0007Dokumente / Formulare / offizielle Briefe",
+      "\u0007Kommunikation / richtig reagieren: telefonieren mit Behörden, Auskünfte erfragen",
+      "Familie"
+     ],
+     "grammar": [
+      "\u0007Nebensätze mit wenn",
+      "Genitiv bei Namen",
+      "Indefinitpronomen alles, etwas, nichts",
+      "Wiederholung (review):",
+      "Demonstrativpronomen dies-: Nominativ und Akkusativ"
+     ]
+    },
+    {
+     "lesson": 5,
+     "title": "Lebenswege",
+     "topics": [
+      "Biografische Ereignisse",
+      "\u0007Schule / Ausbildung / Lernen:",
+      "Berufsausbildung und Weiterbildung in Deutschland"
+     ],
+     "grammar": [
+      "Präpositionen – temporal: vor, seit",
+      "Perfekt – Mischverben",
+      "Perfekt – trennbare Verben",
+      "Perfekt – untrennbare Präfixverben",
+      "Wiederholung (review):",
+      "Perfekt – gemischt"
+     ]
+    },
+    {
+     "lesson": 6,
+     "title": "Jobsuche und Bewerbung",
+     "topics": [
+      "Arbeit und Beruf:",
+      "\u0007Berufserfahrung, Wünsche, berufliche Beratung",
+      "\u0007Arbeitssuche:",
+      "Stellenangebote",
+      "Bewerbung: Lebenslauf"
+     ],
+     "grammar": [
+      "Reflexive Verben (mit Präpositionen)",
+      "Sätze mit aber und denn",
+      "Nebensätze mit weil",
+      "Präpositionen – temporal: von … bis, ab, für"
+     ]
+    },
+    {
+     "lesson": 7,
+     "title": "Im Kaufhaus",
+     "topics": [
+      "Einkaufen",
+      "Kleidung und Farben",
+      "Personenbeschreibung",
+      "Im Café / Restaurant"
+     ],
+     "grammar": [
+      "\u0007Adjektivdeklination: Definit- und Indefinitartikel im Nominativ und Akkusativ",
+      "Demonstrativpronomen der, das, die: Akkusativ",
+      "Konjunktiv II: Ich hätte gern …",
+      "Wiederholung (review):",
+      "Demonstrativpronomen der, das, die: Nominativ"
+     ]
+    },
+    {
+     "lesson": 8,
+     "title": "Am Arbeitsplatz",
+     "topics": [
+      "Arbeit und Beruf:",
+      "- \u0007Tätigkeiten, Arbeits­abläufe - \u0007Kommunikation mit Kollegen und Vorgesetzten",
+      "Regeln und Vorschriften",
+      "\u0007Kommunikation / richtig reagieren: duzen und siezen"
+     ],
+     "grammar": [
+      "Possessivartikel: Dativ",
+      "Verbergänzungen: Dativ",
+      "Modalverben – Präsens: (nicht) dürfen vs. müssen",
+      "\u0007Konjunktiv II: Ratschläge (sollen), Bitten (mit können, würde-Form)"
+     ]
+    },
+    {
+     "lesson": 9,
+     "title": "Schulzeit",
+     "topics": [
+      "Schule / Ausbildung / lernen",
+      "\u0007(Arbeit und Beruf:",
+      "Berufswünsche)",
+      "Kinderbetreuung"
+     ],
+     "grammar": [
+      "\u0007Modalverben – Präteritum: wollen, können, müssen, sollen, dürfen",
+      "Nebensätze mit dass",
+      "Indefinitpronomen jed-",
+      "Wiederholung (review):",
+      "Modalverben – Präsens"
+     ]
+    },
+    {
+     "lesson": 10,
+     "title": "Gesund und fit",
+     "topics": [
+      "Gesundheit:",
+      "- Gesundheitstipps - Medikamente - (Krankenkasse)",
+      "Arztbesuch"
+     ],
+     "grammar": [
+      "Possessivartikel: Akkusativ",
+      "Präpositionen – gemischt: für, gegen",
+      "Nebensätze mit damit",
+      "Verbergänzungen: Dativ und Akkusativ",
+      "Wiederholung (review):",
+      "\u0007Possessivartikel: Nominativ",
+      "Verbergänzungen: Dativ",
+      "Personalpronomen: Dativ"
+     ]
+    },
+    {
+     "lesson": 11,
+     "title": "Mein Bankkonto",
+     "topics": [
+      "Bankgeschäfte",
+      "Geld"
+     ],
+     "grammar": [
+      "Relativsätze: Nominativ, Akkusativ, Dativ",
+      "Indirekte W-Fragen",
+      "Passiv – Präsens"
+     ]
+    },
+    {
+     "lesson": 12,
+     "title": "Sport, Spaß und Spiel",
+     "topics": [
+      "Freizeit und Hobbys",
+      "\u0007Unternehmen / Veranstaltungen",
+      "Termine und Verabredungen",
+      "Sport",
+      "Feste und Einladungen"
+     ],
+     "grammar": [
+      "Sätze mit trotzdem",
+      "Wiederholung (review):",
+      "\u0007Possessivartikel: Nominativ, Akkusativ",
+      "Reflexive Verben mit Präpositionen",
+      "\u0007Adjektivdeklination: Definit- und Indefinitartikel im Nominativ und Akkusativ",
+      "Indefinitpronomen ein-: Nominativ und Akkusativ",
+      "Sätze mit deshalb"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "vhs-b1",
+   "title": "VHS-Lernportal Deutschkurs B1",
+   "level": "B1",
+   "grammar": "https://www.vhs-lernportal.de/wws/bin/4007530-4015506-3-dvv_grammatiklisten_b1.pdf",
+   "words": "https://www.vhs-lernportal.de/wws/bin/4007498-4014834-3-dvv_wortschatzlisten_b1.pdf",
+   "films": "https://www.vhs-lernportal.de/wws/bin/4007498-4014866-3-dvv_filmskripte_b1.pdf",
+   "portal": "https://b1.vhs-lernportal.de/",
+   "lessons": [
+    {
+     "lesson": 1,
+     "title": "Rund um den Urlaub",
+     "topics": [
+      "\u0007Urlaub planen, buchen und bewerten",
+      "Regeln im Urlaub:",
+      "- \u0007Hausregeln von Unterkünften - \u0007(un)erwünschte Verhaltens- weisen in anderen Ländern",
+      "Am Flughafen",
+      "\u0007Kommunikation / richtig reagieren: Ärger ausdrücken"
+     ],
+     "grammar": [
+      "\u0007Adjektivdeklination: Definit- und Indefinitartikel im Dativ",
+      "\u0007zweiteilige Konjunktionen entweder … oder, zwar … aber und sowohl … als auch",
+      "Präposition wegen",
+      "\u0007Genitiv: Definitartikel, Indefinitartikel und Possessiv­artikel",
+      "Wiederholung (review):",
+      "\u0007Adjektivdeklination: Definit- und Indefinitartikel im Nominativ und Akkusativ",
+      "Modalverben: müssen, (nicht) dürfen"
+     ]
+    },
+    {
+     "lesson": 2,
+     "title": "Zur Miete wohnen",
+     "topics": [
+      "\u0007Zusammenleben im Mietshaus:",
+      "- Regeln \u0007- \u0007Kommunikation mit Vermieter*in",
+      "Reparaturen / Renovierung",
+      "Konflikte mit Nachbarn",
+      "\u0007Kommunikation / richtig reagieren:",
+      "- seine Meinung äußern - sich entschuldigen",
+      "Kündigung",
+      "\u0007Recht und Gesetz: Wider- spruch gegen etwas einlegen"
+     ],
+     "grammar": [
+      "Infinitiv mit zu",
+      "\u0007Gradpartikeln (z. B. ziemlich)",
+      "Nebensätze mit obwohl",
+      "Wiederholung (review):",
+      "\u0007Sätze mit trotzdem",
+      "\u0007Konjunktiv II: Ratschläge / Vorschläge (können / sollen)"
+     ]
+    },
+    {
+     "lesson": 3,
+     "title": "Unsere Kinder, unsere Umwelt",
+     "topics": [
+      "\u0007Umweltschutzprojekte in der Schule",
+      "Umwelt / Umweltschutz",
+      "Müll und Materialien",
+      "Kinderbetreuung"
+     ],
+     "grammar": [
+      "Infinitivsätze mit um zu, ohne zu, (an)statt zu",
+      "Nebensätze mit da",
+      "Futur",
+      "Wiederholung (review):",
+      "Nebensätze mit weil / Sätze mit deshalb, denn"
+     ]
+    },
+    {
+     "lesson": 4,
+     "title": "Bestellen und kaufen",
+     "topics": [
+      "\u0007(online) einkaufen",
+      "Waren und Herstellung",
+      "\u0007Bestellung und Zahlungs optionen",
+      "\u0007Versand und Rück- ­sen­dungen"
+     ],
+     "grammar": [
+      "\u0007Nebensätze mit falls",
+      "\u0007Personalpronomen: Stellung als Verbergänzungen",
+      "Passiv Präsens mit Modalverben",
+      "Wortbildung: Adjektiv + Nomen, Nomen + Adjektiv",
+      "Wiederholung (review):",
+      "Verbergänzungen: Akkusativ und Dativ",
+      "Passiv Präsens"
+     ]
+    },
+    {
+     "lesson": 5,
+     "title": "Medien im Alltag",
+     "topics": [
+      "\u0007Lieblingssendungen und Fernseh-gewohnheiten",
+      "Mit Medien lernen",
+      "(Statistik)",
+      "Sprachen lernen",
+      "Sportereignisse"
+     ],
+     "grammar": [
+      "\u0007zweiteilige Konjunktionen weder … noch, nicht nur … sondern auch",
+      "Relativsätze mit was",
+      "Wiederholung (review):",
+      "Finalsätze mit um … zu und damit"
+     ]
+    },
+    {
+     "lesson": 6,
+     "title": "Erinnerungen",
+     "topics": [
+      "\u0007Erinnerungen und Erzählungen",
+      "\u0007Geschichte / historische Ereignisse",
+      "Interkulturelle Erfahrungen",
+      "Sprachen lernen"
+     ],
+     "grammar": [
+      "\u0007Präteritum: regelmäßige, unregelmäßige und Mischverben",
+      "Passiv – Präteritum",
+      "Wiederholung (review):",
+      "Präteritum: Modalverben"
+     ]
+    },
+    {
+     "lesson": 7,
+     "title": "Alte Heimat, neue Heimat",
+     "topics": [
+      "Migrationsbiografien",
+      "Interkulturelle Erfahrungen",
+      "\u0007Kommunikation / richtig reagieren: Begrüßungen, Wünsche",
+      "Erfahrungen mit Ämtern",
+      "\u0007Anerkennung von Aus­bildungen:",
+      "\u0007Amtliche Unterlagen und Briefe"
+     ],
+     "grammar": [
+      "\u0007Nebensätze mit als und wenn: Präteritum / Perfekt",
+      "indirekte Ja- / Nein-Fragen",
+      "Verb lassen",
+      "Wiederholung (review):",
+      "Nebensätze mit wenn: Präsens",
+      "indirekte Fragen – gemischt: W-Fragen"
+     ]
+    },
+    {
+     "lesson": 8,
+     "title": "Eine erfolgreiche Bewerbung",
+     "topics": [
+      "\u0007Berufliche Pläne und Stellensuche",
+      "\u0007Bewerbung und Vorstellungsgespräch",
+      "\u0007Arbeitsvertrag und Einstellung"
+     ],
+     "grammar": [
+      "\u0007Konjunktiv II: Wünsche (Ich hätte / wäre / würde gern ...)",
+      "Präpositionen trotz und statt",
+      "Nebensätze mit bevor, während, seitdem, nachdem",
+      "\u0007Verben mit Präpositionen / Relativsätze mit Präpositionen",
+      "Wiederholung (review):",
+      "Indirekte Fragen – gemischt"
+     ]
+    },
+    {
+     "lesson": 9,
+     "title": "Wer macht was?",
+     "topics": [
+      "Energie sparen",
+      "\u0007Kommunikation / richtig reagieren: Besprechungen",
+      "Am Arbeitsplatz:",
+      "\u0007- \u0007Zuständigkeiten und Aufgaben \u0007- \u0007Kommunikation mit Kollegen und Vorgesetzten",
+      "Arbeitnehmerrechte",
+      "Kündigung: Bankkonto"
+     ],
+     "grammar": [
+      "Nebensätze mit indem",
+      "Konjunktiv II: Irreale Bedingungssätze",
+      "Konjunktiv II: wissen und müssen",
+      "Infinitiv mit zu nach nicht / nur brauchen",
+      "Wiederholung (review):",
+      "\u0007Konjunktiv II: Ratschläge / Vorschläge, Bitten (Erweiterung: Ich hätte eine Bitte. Ich würde Sie bitten. usw.)"
+     ]
+    },
+    {
+     "lesson": 10,
+     "title": "Ernährung und Bewegung",
+     "topics": [
+      "Ernährung",
+      "Fitness und Gesundheit",
+      "Statistik"
+     ],
+     "grammar": [
+      "\u0007Konjunktiv II – Vergangenheit: Irreale Bedingungssätze, Irreale Wunschätze mit Verberststellung",
+      "Präpositionaladverbien (z. B. wofür)",
+      "\u0007Wortbildung: Adjektive mit Präfixen und Suffixen (un-, -lich, , -reich, …)",
+      "Indefinitpronomen jemand, niemand",
+      "\u0007Indefinitpronomen mit irgend-"
+     ]
+    },
+    {
+     "lesson": 11,
+     "title": "Meine Versicherungen",
+     "topics": [
+      "Versicherungen",
+      "Versicherungsschäden",
+      "\u0007Autoversicherungen / Verkehrsunfälle"
+     ],
+     "grammar": [
+      "\u0007Partizip Perfekt als Adjektiv",
+      "Sätze mit je… desto / umso",
+      "Plusquamperfekt"
+     ]
+    },
+    {
+     "lesson": 12,
+     "title": "Die Sprachprüfung",
+     "topics": [
+      "Rund um die Prüfung",
+      "ehrenamtlich arbeiten",
+      "zusammen lernen"
+     ],
+     "grammar": [
+      "\u0007Prüfungsvorbereitung DTZ"
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1207 @@
+{
+ "revision": "2026-09-25T12:00:00Z",
+ "entries": {
+  "dw-a1-e0-l1:auch": [
+   "vocab:auch|also"
+  ],
+  "dw-a1-e0-l1:das-beispiel": [
+   "article:Beispiel|n",
+   "vocab:Beispiel|example"
+  ],
+  "dw-a1-e0-l1:danke": [
+   "vocab:danke|thanks"
+  ],
+  "dw-a1-e0-l1:es-geht-mir-gut": [
+   "sentence:doing-well"
+  ],
+  "dw-a1-e0-l1:es-ist-neun-uhr": [
+   "sentence:time-nine"
+  ],
+  "dw-a1-e0-l1:frau": [
+   "vocab:Frau|ms"
+  ],
+  "dw-a1-e0-l1:die-frau": [
+   "article:Frau|f",
+   "vocab:Frau|woman"
+  ],
+  "dw-a1-e0-l1:gut": [
+   "vocab:gut|well"
+  ],
+  "dw-a1-e0-l1:guten-abend": [
+   "vocab:Guten Abend.|good-evening"
+  ],
+  "dw-a1-e0-l1:guten-morgen": [
+   "vocab:Guten Morgen.|good-morning"
+  ],
+  "dw-a1-e0-l1:guten-tag": [
+   "vocab:Guten Tag.|hello"
+  ],
+  "dw-a1-e0-l1:hallo": [
+   "vocab:Hallo!|hello"
+  ],
+  "dw-a1-e0-l1:hey": [
+   "vocab:Hey!|hey"
+  ],
+  "dw-a1-e0-l1:hi": [
+   "vocab:Hi!|hi"
+  ],
+  "dw-a1-e0-l1:der-mann": [
+   "article:Mann|m",
+   "vocab:Mann|man"
+  ],
+  "dw-a1-e0-l1:nicht": [
+   "vocab:nicht|not"
+  ],
+  "dw-a1-e0-l1:nicht-so-gut": [
+   "vocab:nicht so gut|not-so-good"
+  ],
+  "dw-a1-e0-l1:oder": [
+   "vocab:oder|or"
+  ],
+  "dw-a1-e0-l1:schon": [
+   "vocab:schön|nice"
+  ],
+  "dw-a1-e0-l1:sehr-gut": [
+   "vocab:sehr gut|very-well"
+  ],
+  "dw-a1-e0-l1:super": [
+   "vocab:super|super"
+  ],
+  "dw-a1-e0-l1:uhr": [
+   "vocab:Uhr|oclock"
+  ],
+  "dw-a1-e0-l1:und": [
+   "vocab:und|and"
+  ],
+  "dw-a1-e0-l1:und-dir": [
+   "sentence:reply-informal"
+  ],
+  "dw-a1-e0-l1:und-ihnen": [
+   "sentence:reply-formal"
+  ],
+  "dw-a1-e0-l1:wie-geht-es-dir": [
+   "sentence:how-are-you-informal"
+  ],
+  "dw-a1-e0-l1:wie-geht-es-ihnen": [
+   "sentence:how-are-you-formal"
+  ],
+  "dw-a1-e0-l1:herr": [
+   "vocab:Herr|mr"
+  ],
+  "dw-a1-e0-l1:danke-sehr": [
+   "vocab:danke sehr|thank-you-very-much"
+  ],
+  "dw-a1-e0-l1:wie-gehts": [
+   "sentence:how-are-you-informal"
+  ],
+  "dw-a1-e0-l1:wie-gehts-dir": [
+   "sentence:how-are-you-informal"
+  ],
+  "dw-a1-e0-l1:servus": [
+   "vocab:Servus!|hello"
+  ],
+  "dw-a1-e0-l1:gru-gott": [
+   "vocab:Grüß Gott!|hello"
+  ],
+  "dw-a1-e0-l1:gruezi": [
+   "vocab:Grüezi!|hello"
+  ],
+  "dw-a1-e0-l1:moin": [
+   "vocab:Moin!|hello"
+  ],
+  "dw-a1-e0-l2:die-bank": [
+   "article:Bank|f",
+   "vocab:Bank|bank"
+  ],
+  "dw-a1-e0-l2:bitte": [
+   "vocab:bitte|please"
+  ],
+  "dw-a1-e0-l2:das-buro": [
+   "article:Büro|n",
+   "vocab:Büro|office"
+  ],
+  "dw-a1-e0-l2:der-bus": [
+   "article:Bus|m",
+   "vocab:Bus|bus"
+  ],
+  "dw-a1-e0-l2:der-computer": [
+   "article:Computer|m",
+   "vocab:Computer|computer"
+  ],
+  "dw-a1-e0-l2:die-e-mail": [
+   "article:E-Mail|f",
+   "vocab:E-Mail|email"
+  ],
+  "dw-a1-e0-l2:die-familie": [
+   "article:Familie|f",
+   "vocab:Familie|family"
+  ],
+  "dw-a1-e0-l2:der-flughafen": [
+   "article:Flughafen|m",
+   "vocab:Flughafen|airport"
+  ],
+  "dw-a1-e0-l2:die-gitarre": [
+   "article:Gitarre|f",
+   "vocab:Gitarre|guitar"
+  ],
+  "dw-a1-e0-l2:das-hobby": [
+   "article:Hobby|n",
+   "vocab:Hobby|hobby"
+  ],
+  "dw-a1-e0-l2:das-hotel": [
+   "article:Hotel|n",
+   "vocab:Hotel|hotel"
+  ],
+  "dw-a1-e0-l2:die-information": [
+   "article:Information|f",
+   "vocab:Information|information-desk"
+  ],
+  "dw-a1-e0-l2:der-kaffee": [
+   "article:Kaffee|m",
+   "vocab:Kaffee|coffee"
+  ],
+  "dw-a1-e0-l2:kein-problem": [
+   "vocab:Kein Problem.|no-problem"
+  ],
+  "dw-a1-e0-l2:das-kino": [
+   "article:Kino|n",
+   "vocab:Kino|movie-theater"
+  ],
+  "dw-a1-e0-l2:das-konzert": [
+   "article:Konzert|n",
+   "vocab:Konzert|concert"
+  ],
+  "dw-a1-e0-l2:die-kultur": [
+   "article:Kultur|f",
+   "vocab:Kultur|culture"
+  ],
+  "dw-a1-e0-l2:das-museum": [
+   "article:Museum|n",
+   "vocab:Museum|museum"
+  ],
+  "dw-a1-e0-l2:die-musik": [
+   "article:Musik|f",
+   "vocab:Musik|music"
+  ],
+  "dw-a1-e0-l2:okay": [
+   "vocab:okay|okay"
+  ],
+  "dw-a1-e0-l2:der-pilot": [
+   "article:Pilot|m",
+   "vocab:Pilot|pilot"
+  ],
+  "dw-a1-e0-l2:die-pilotin": [
+   "article:Pilotin|f",
+   "vocab:Pilotin|pilot"
+  ],
+  "dw-a1-e0-l2:die-pizza": [
+   "article:Pizza|f",
+   "vocab:Pizza|pizza"
+  ],
+  "dw-a1-e0-l2:das-problem": [
+   "article:Problem|n",
+   "vocab:Problem|problem"
+  ],
+  "dw-a1-e0-l2:das-restaurant": [
+   "article:Restaurant|n",
+   "vocab:Restaurant|restaurant"
+  ],
+  "dw-a1-e0-l2:die-spaghetti": [
+   "vocab:Spaghetti|spaghetti"
+  ],
+  "dw-a1-e0-l2:der-sport": [
+   "article:Sport|m",
+   "vocab:Sport|sports"
+  ],
+  "dw-a1-e0-l2:der-student": [
+   "article:Student|m",
+   "vocab:Student|student"
+  ],
+  "dw-a1-e0-l2:die-studentin": [
+   "article:Studentin|f",
+   "vocab:Studentin|student"
+  ],
+  "dw-a1-e0-l2:etwas-studieren": [
+   "vocab:studieren|to-study"
+  ],
+  "dw-a1-e0-l2:der-supermarkt": [
+   "article:Supermarkt|m",
+   "vocab:Supermarkt|supermarket"
+  ],
+  "dw-a1-e0-l2:das-taxi": [
+   "article:Taxi|n",
+   "vocab:Taxi|taxi"
+  ],
+  "dw-a1-e0-l2:das-telefon": [
+   "article:Telefon|n",
+   "vocab:Telefon|telephone"
+  ],
+  "dw-a1-e0-l2:das-theater": [
+   "article:Theater|n",
+   "vocab:Theater|theater"
+  ],
+  "dw-a1-e0-l2:die-toilette": [
+   "article:Toilette|f",
+   "vocab:Toilette|toilet"
+  ],
+  "dw-a1-e0-l2:die-universitat": [
+   "article:Universität|f",
+   "vocab:Universität|university"
+  ],
+  "dw-a1-e0-l2:das-zentrum": [
+   "article:Zentrum|n",
+   "vocab:Zentrum|city-centre"
+  ],
+  "dw-a1-e0-l3:auf-wiedersehen": [
+   "vocab:Auf Wiedersehen.|goodbye"
+  ],
+  "dw-a1-e0-l3:bis-bald": [
+   "vocab:Bis bald.|see-you-soon"
+  ],
+  "dw-a1-e0-l3:danke-schon": [
+   "vocab:danke schön|thank-you"
+  ],
+  "dw-a1-e0-l3:gute-reise": [
+   "vocab:Gute Reise.|have-a-good-trip"
+  ],
+  "dw-a1-e0-l3:die-hilfe": [
+   "article:Hilfe|f",
+   "vocab:Hilfe|help"
+  ],
+  "dw-a1-e0-l3:ja": [
+   "vocab:ja|yes"
+  ],
+  "dw-a1-e0-l3:machs-gut": [
+   "vocab:Mach’s gut!|so-long"
+  ],
+  "dw-a1-e0-l3:die-tasche": [
+   "article:Tasche|f",
+   "vocab:Tasche|bag"
+  ],
+  "dw-a1-e0-l3:tschuss": [
+   "vocab:Tschüss.|bye"
+  ],
+  "dw-a1-e0-l3:vielen-dank": [
+   "vocab:Vielen Dank!|many-thanks"
+  ],
+  "dw-a1-e0-l3:martina": [
+   "sentence:bye-martina"
+  ],
+  "dw-a1-e0-l3:herbert": [
+   "sentence:take-care-herbert"
+  ],
+  "dw-a1-e0-l3:herr": [
+   "vocab:Herr|mr"
+  ],
+  "dw-a1-e0-l3:frau": [
+   "vocab:Frau|ms"
+  ],
+  "dw-a1-e0-l3:alles-okay": [
+   "vocab:Alles okay?|everything-okay"
+  ],
+  "dw-a1-e0-l3:brauchst-du": [
+   "sentence:need-help"
+  ],
+  "dw-a1-e0-l3:wo-ist": [
+   "sentence:where-is-bag"
+  ],
+  "dw-a1-e0-l3:weg": [
+   "vocab:weg|gone"
+  ],
+  "dw-a1-e0-l3:in-dem": [
+   "sentence:gone-in-taxi"
+  ],
+  "dw-a1-e0-l3:das-taxi": [
+   "article:Taxi|n",
+   "vocab:Taxi|taxi"
+  ],
+  "dw-a1-e0-l3:wohin": [
+   "vocab:Wohin?|where-to"
+  ],
+  "dw-a1-e0-l3:willst-du": [
+   "sentence:want-to-centre"
+  ],
+  "dw-a1-e0-l3:ins-in-das": [
+   "sentence:want-to-centre"
+  ],
+  "dw-a1-e0-l3:das-zentrum": [
+   "article:Zentrum|n",
+   "vocab:Zentrum|city-centre"
+  ],
+  "dw-a1-e0-l3:die-situation": [
+   "article:Situation|f",
+   "vocab:Situation|situation"
+  ],
+  "dw-a1-e0-l3:informell": [
+   "vocab:informell|informal"
+  ],
+  "dw-a1-e0-l3:formell": [
+   "vocab:formell|formal"
+  ],
+  "dw-a1-e0-l4:die-adresse": [
+   "article:Adresse|f",
+   "vocab:Adresse|address"
+  ],
+  "dw-a1-e0-l4:bitte": [
+   "vocab:bitte|here-you-go"
+  ],
+  "dw-a1-e0-l4:der-buchstabe": [
+   "article:Buchstabe|m",
+   "vocab:Buchstabe|letter"
+  ],
+  "dw-a1-e0-l4:etwas-buchstabieren": [
+   "vocab:buchstabieren|to-spell"
+  ],
+  "dw-a1-e0-l4:bitte-buchstabiere-das": [
+   "sentence:spell-informal"
+  ],
+  "dw-a1-e0-l4:bitte-buchstabieren-sie-das": [
+   "sentence:spell-formal"
+  ],
+  "dw-a1-e0-l4:das": [
+   "vocab:das|that"
+  ],
+  "dw-a1-e0-l4:fliegen": [
+   "vocab:fliegen|to-fly"
+  ],
+  "dw-a1-e0-l4:die-hausnummer": [
+   "article:Hausnummer|f",
+   "vocab:Hausnummer|house-number"
+  ],
+  "dw-a1-e0-l4:langsam-bitte": [
+   "vocab:Langsam bitte.|slowly-please"
+  ],
+  "dw-a1-e0-l4:die-mama": [
+   "article:Mama|f",
+   "vocab:Mama|mom"
+  ],
+  "dw-a1-e0-l4:der-name": [
+   "article:Name|m",
+   "vocab:Name|name"
+  ],
+  "dw-a1-e0-l4:mein-name-ist": [
+   "sentence:my-name-is-nico"
+  ],
+  "dw-a1-e0-l4:wie-ist-dein-name": [
+   "sentence:your-name-informal"
+  ],
+  "dw-a1-e0-l4:wie-ist-ihr-name": [
+   "sentence:your-name-formal"
+  ],
+  "dw-a1-e0-l4:nein": [
+   "vocab:nein|no"
+  ],
+  "dw-a1-e0-l4:nicht": [
+   "vocab:nicht|not"
+  ],
+  "dw-a1-e0-l4:noch-einmal": [
+   "vocab:noch einmal|again"
+  ],
+  "dw-a1-e0-l4:noch-einmal-bitte": [
+   "vocab:Noch einmal bitte.|again-please"
+  ],
+  "dw-a1-e0-l4:die-strae": [
+   "article:Straße|f",
+   "vocab:Straße|street"
+  ],
+  "dw-a1-e0-l4:etwas-suchen": [
+   "vocab:suchen|to-search-for-something"
+  ],
+  "dw-a1-e0-l4:die-tante": [
+   "article:Tante|f",
+   "vocab:Tante|aunt"
+  ],
+  "dw-a1-e0-l4:wie-schreibt-man-das": [
+   "vocab:Wie schreibt man das?|how-do-you-write-spell-that"
+  ],
+  "dw-a1-e0-l4:lkw": [
+   "vocab:LKW|truck"
+  ],
+  "dw-a1-e0-l4:pkw": [
+   "vocab:PKW|passenger-car"
+  ],
+  "dw-a1-e0-l4:agb": [
+   "vocab:AGB|general-terms-and-conditions"
+  ],
+  "dw-a1-e0-l4:usb": [
+   "vocab:USB|usb"
+  ],
+  "dw-a1-e0-l4:drk": [
+   "vocab:DRK|german-red-cross"
+  ],
+  "dw-a1-e1-l1:aber": [
+   "vocab:aber|but"
+  ],
+  "dw-a1-e1-l1:das-ist-nico": [
+   "sentence:this-is-nico"
+  ],
+  "dw-a1-e1-l1:der-deutschlehrer": [
+   "article:Deutschlehrer|m",
+   "vocab:Deutschlehrer|german-teacher"
+  ],
+  "dw-a1-e1-l1:die-deutschlehrerin": [
+   "article:Deutschlehrerin|f",
+   "vocab:Deutschlehrerin|german-teacher"
+  ],
+  "dw-a1-e1-l1:du": [
+   "vocab:du|you"
+  ],
+  "dw-a1-e1-l1:du-bist-emma": [
+   "sentence:you-are-emma"
+  ],
+  "dw-a1-e1-l1:heien": [
+   "vocab:heißen|to-be-called"
+  ],
+  "dw-a1-e1-l1:ich": [
+   "vocab:ich|i"
+  ],
+  "dw-a1-e1-l1:ich-bin": [
+   "sentence:i-am-nico"
+  ],
+  "dw-a1-e1-l1:ich-heie-nico": [
+   "sentence:i-am-called-nico"
+  ],
+  "dw-a1-e1-l1:jetzt": [
+   "vocab:jetzt|now"
+  ],
+  "dw-a1-e1-l1:oder": [
+   "vocab:Oder?|or-not"
+  ],
+  "dw-a1-e1-l1:wer": [
+   "vocab:wer|who"
+  ],
+  "dw-a1-e1-l1:wer-bist-du": [
+   "sentence:who-are-you-informal"
+  ],
+  "dw-a1-e1-l1:wer-sind-sie": [
+   "sentence:who-are-you-formal"
+  ],
+  "dw-a1-e1-l1:wie-heien-sie": [
+   "sentence:name-formal-heissen"
+  ],
+  "dw-a1-e1-l1:wie-heit-du": [
+   "sentence:name-informal-heissen"
+  ],
+  "dw-a1-e1-l1:weg": [
+   "vocab:weg|gone"
+  ],
+  "dw-a1-e1-l2:das-beispiel": [
+   "article:Beispiel|n",
+   "vocab:Beispiel|example"
+  ],
+  "dw-a1-e1-l2:das-deutsch": [
+   "vocab:Deutsch|german"
+  ],
+  "dw-a1-e1-l2:er": [
+   "vocab:er|he"
+  ],
+  "dw-a1-e1-l2:der-familienname": [
+   "article:Familienname|m",
+   "vocab:Familienname|surname"
+  ],
+  "dw-a1-e1-l2:jemandem-helfen": [
+   "vocab:helfen|to-help-someone"
+  ],
+  "dw-a1-e1-l2:in": [
+   "vocab:in|in"
+  ],
+  "dw-a1-e1-l2:keine-ahnung": [
+   "vocab:Keine Ahnung.|no-idea"
+  ],
+  "dw-a1-e1-l2:der-kurs": [
+   "article:Kurs|m",
+   "vocab:Kurs|course"
+  ],
+  "dw-a1-e1-l2:etwas-lernen": [
+   "vocab:lernen|to-learn"
+  ],
+  "dw-a1-e1-l2:sie": [
+   "vocab:sie|she"
+  ],
+  "dw-a1-e1-l2:die-sprache": [
+   "article:Sprache|f",
+   "vocab:Sprache|language"
+  ],
+  "dw-a1-e1-l2:der-taxifahrer": [
+   "article:Taxifahrer|m",
+   "vocab:Taxifahrer|taxi-driver"
+  ],
+  "dw-a1-e1-l2:er-ist-taxifahrer": [
+   "sentence:he-is-taxi-driver"
+  ],
+  "dw-a1-e1-l2:die-taxifahrerin": [
+   "article:Taxifahrerin|f",
+   "vocab:Taxifahrerin|taxi-driver"
+  ],
+  "dw-a1-e1-l2:sie-ist-taxifahrerin": [
+   "sentence:she-is-taxi-driver"
+  ],
+  "dw-a1-e1-l2:der-vorname": [
+   "article:Vorname|m",
+   "vocab:Vorname|first-name"
+  ],
+  "dw-a1-e1-l2:woher": [
+   "vocab:woher|where-from"
+  ],
+  "dw-a1-e1-l2:welche": [
+   "vocab:welche|which"
+  ],
+  "dw-a1-e1-l2:sie-ist-im-computerkurs": [
+   "sentence:she-computer-course"
+  ],
+  "dw-a1-e1-l2:sie-sind-im-deutschkurs": [
+   "sentence:they-german-course"
+  ],
+  "dw-a1-e1-l2:sie-spricht-chinesisch": [
+   "sentence:she-speaks-chinese"
+  ],
+  "dw-a1-e1-l2:sie-sprechen-englisch": [
+   "sentence:they-speak-english"
+  ],
+  "dw-a1-e1-l3:aus": [
+   "vocab:aus|from"
+  ],
+  "dw-a1-e1-l3:das-berlin": [
+   "vocab:Berlin|berlin"
+  ],
+  "dw-a1-e1-l3:das-deutschland": [
+   "vocab:Deutschland|germany"
+  ],
+  "dw-a1-e1-l3:entschuldigung": [
+   "vocab:Entschuldigung|excuse-me"
+  ],
+  "dw-a1-e1-l3:hier": [
+   "vocab:hier|here"
+  ],
+  "dw-a1-e1-l3:ja": [
+   "vocab:ja|yes"
+  ],
+  "dw-a1-e1-l3:kommen": [
+   "vocab:kommen|to-come"
+  ],
+  "dw-a1-e1-l3:ich-komme-aus-spanien": [
+   "sentence:from-spain"
+  ],
+  "dw-a1-e1-l3:etwas-lernen": [
+   "vocab:lernen|to-learn"
+  ],
+  "dw-a1-e1-l3:etwas-machen": [
+   "vocab:machen|to-make-something"
+  ],
+  "dw-a1-e1-l3:nein": [
+   "vocab:nein|no"
+  ],
+  "dw-a1-e1-l3:die-polizei": [
+   "article:Polizei|f",
+   "vocab:Polizei|police"
+  ],
+  "dw-a1-e1-l3:sie": [
+   "vocab:Sie|you"
+  ],
+  "dw-a1-e1-l3:das-spanien": [
+   "vocab:Spanien|spain"
+  ],
+  "dw-a1-e1-l3:der-sprachkurs": [
+   "article:Sprachkurs|m",
+   "vocab:Sprachkurs|language-course"
+  ],
+  "dw-a1-e1-l3:sprechen": [
+   "vocab:sprechen|to-speak"
+  ],
+  "dw-a1-e1-l3:sie-sprechen-gut-deutsch": [
+   "sentence:compliment-german"
+  ],
+  "dw-a1-e1-l3:der-tourist": [
+   "article:Tourist|m",
+   "vocab:Tourist|tourist"
+  ],
+  "dw-a1-e1-l3:die-touristin": [
+   "article:Touristin|f",
+   "vocab:Touristin|tourist"
+  ],
+  "dw-a1-e1-l3:der-vater": [
+   "article:Vater|m",
+   "vocab:Vater|father"
+  ],
+  "dw-a1-e1-l3:was": [
+   "vocab:was|what"
+  ],
+  "dw-a1-e1-l3:was-machen-sie-hier": [
+   "sentence:what-doing-formal"
+  ],
+  "dw-a1-e1-l3:was-machst-du-hier": [
+   "sentence:what-doing-informal"
+  ],
+  "dw-a1-e1-l3:wie": [
+   "vocab:wie|how"
+  ],
+  "dw-a1-e1-l3:wir": [
+   "vocab:wir|we"
+  ],
+  "dw-a1-e1-l3:wo": [
+   "vocab:wo|where"
+  ],
+  "dw-a1-e1-l3:wo-wohnen-sie": [
+   "sentence:where-live-formal"
+  ],
+  "dw-a1-e1-l3:wo-wohnst-du": [
+   "sentence:where-live-informal"
+  ],
+  "dw-a1-e1-l3:woher": [
+   "vocab:woher|where-from"
+  ],
+  "dw-a1-e1-l3:woher-kommen-sie": [
+   "sentence:where-from-formal"
+  ],
+  "dw-a1-e1-l3:woher-kommst-du": [
+   "sentence:where-from-informal"
+  ],
+  "dw-a1-e1-l3:wohnen": [
+   "vocab:wohnen|to-live"
+  ],
+  "dw-a1-e1-l3:ich-wohne-in-sevilla": [
+   "sentence:live-in-sevilla"
+  ],
+  "dw-a1-e1-l4:die-arbeit": [
+   "article:Arbeit|f",
+   "vocab:Arbeit|work"
+  ],
+  "dw-a1-e1-l4:das-auto": [
+   "article:Auto|n",
+   "vocab:Auto|car"
+  ],
+  "dw-a1-e1-l4:das-cafe": [
+   "article:Café|n",
+   "vocab:Café|cafe"
+  ],
+  "dw-a1-e1-l4:es": [
+   "vocab:es|it"
+  ],
+  "dw-a1-e1-l4:das-fahrradgeschaft": [
+   "article:Fahrradgeschäft|n",
+   "vocab:Fahrradgeschäft|bicycle-store"
+  ],
+  "dw-a1-e1-l4:das-foto": [
+   "article:Foto|n",
+   "vocab:Foto|photo"
+  ],
+  "dw-a1-e1-l4:der-freund": [
+   "article:Freund|m",
+   "vocab:Freund|friend"
+  ],
+  "dw-a1-e1-l4:die-freundin": [
+   "article:Freundin|f",
+   "vocab:Freundin|friend"
+  ],
+  "dw-a1-e1-l4:etwas-haben": [
+   "vocab:haben|have"
+  ],
+  "dw-a1-e1-l4:hier-ist": [
+   "sentence:phone-hier-ist"
+  ],
+  "dw-a1-e1-l4:ihr": [
+   "vocab:ihr|you"
+  ],
+  "dw-a1-e1-l4:die-mutter": [
+   "article:Mutter|f",
+   "vocab:Mutter|mother"
+  ],
+  "dw-a1-e1-l4:die-nummer": [
+   "article:Nummer|f",
+   "vocab:Nummer|number"
+  ],
+  "dw-a1-e1-l4:der-papa": [
+   "article:Papa|m",
+   "vocab:Papa|dad"
+  ],
+  "dw-a1-e1-l4:der-pass": [
+   "article:Pass|m",
+   "vocab:Pass|passport"
+  ],
+  "dw-a1-e1-l4:der-polizist": [
+   "article:Polizist|m",
+   "vocab:Polizist|police-officer"
+  ],
+  "dw-a1-e1-l4:die-polizistin": [
+   "article:Polizistin|f",
+   "vocab:Polizistin|police-officer"
+  ],
+  "dw-a1-e1-l4:richtig": [
+   "vocab:richtig|correct"
+  ],
+  "dw-a1-e1-l4:sein": [
+   "vocab:sein|be"
+  ],
+  "dw-a1-e1-l4:sie": [
+   "vocab:sie|they"
+  ],
+  "dw-a1-e1-l4:sprechen": [
+   "vocab:sprechen|to-speak"
+  ],
+  "dw-a1-e1-l4:etwas-suchen": [
+   "vocab:suchen|to-search-for-something"
+  ],
+  "dw-a1-e1-l4:der-vater": [
+   "article:Vater|m",
+   "vocab:Vater|father"
+  ],
+  "dw-a1-e1-l4:kommen": [
+   "vocab:kommen|to-come"
+  ],
+  "dw-a1-e1-l4:arbeiten": [
+   "vocab:arbeiten|to-work"
+  ],
+  "dw-a1-e1-l4:die-familie": [
+   "article:Familie|f",
+   "vocab:Familie|family"
+  ],
+  "vhs-a1-l02:die-familie": [
+   "article:Familie|f",
+   "vocab:Familie|family"
+  ],
+  "vhs-a1-l02:das-kind": [
+   "article:Kind|n",
+   "vocab:Kind|child"
+  ],
+  "vhs-a1-l02:haben": [
+   "vocab:haben|have"
+  ],
+  "vhs-a1-l02:wir": [
+   "vocab:wir|we"
+  ],
+  "vhs-a1-l02:ihr": [
+   "vocab:ihr|you"
+  ],
+  "vhs-a1-l02:er": [
+   "vocab:er|he"
+  ],
+  "vhs-a1-l02:sie-she": [
+   "vocab:sie|she"
+  ],
+  "vhs-a1-l02:sein": [
+   "vocab:sein|be"
+  ],
+  "vhs-a1-l02:der-mann": [
+   "article:Mann|m",
+   "vocab:Mann|man"
+  ],
+  "vhs-a1-l02:die-frau": [
+   "article:Frau|f",
+   "vocab:Frau|woman"
+  ],
+  "vhs-a1-l02:der-sohn": [
+   "article:Sohn|m",
+   "vocab:Sohn|son"
+  ],
+  "vhs-a1-l02:die-tochter": [
+   "article:Tochter|f",
+   "vocab:Tochter|daughter"
+  ],
+  "vhs-a1-l02:die-eltern": [
+   "vocab:Eltern|parents"
+  ],
+  "vhs-a1-l02:der-vater": [
+   "article:Vater|m",
+   "vocab:Vater|father"
+  ],
+  "vhs-a1-l02:die-mutter": [
+   "article:Mutter|f",
+   "vocab:Mutter|mother"
+  ],
+  "vhs-a1-l02:die-schwester": [
+   "article:Schwester|f",
+   "vocab:Schwester|sister"
+  ],
+  "vhs-a1-l02:der-bruder": [
+   "article:Bruder|m",
+   "vocab:Bruder|brother"
+  ],
+  "vhs-a1-l02:mein-meine": [
+   "vocab:mein|my"
+  ],
+  "vhs-a1-l02:dein-deine": [
+   "vocab:dein|your"
+  ],
+  "vhs-a1-l02:ihr-ihre": [
+   "vocab:Ihr|your"
+  ],
+  "vhs-a1-l02:verheiratet": [
+   "vocab:verheiratet|married"
+  ],
+  "vhs-a1-l02:ledig": [
+   "vocab:ledig|single"
+  ],
+  "vhs-a1-l02:eins": [
+   "vocab:eins|1"
+  ],
+  "vhs-a1-l02:zwei": [
+   "vocab:zwei|2"
+  ],
+  "vhs-a1-l02:drei": [
+   "vocab:drei|3"
+  ],
+  "vhs-a1-l02:vier": [
+   "vocab:vier|4"
+  ],
+  "vhs-a1-l02:funf": [
+   "vocab:fünf|5"
+  ],
+  "vhs-a1-l02:sechs": [
+   "vocab:sechs|6"
+  ],
+  "vhs-a1-l02:sieben": [
+   "vocab:sieben|7"
+  ],
+  "vhs-a1-l02:acht": [
+   "vocab:acht|8"
+  ],
+  "vhs-a1-l02:neun": [
+   "vocab:neun|9"
+  ],
+  "vhs-a1-l02:zehn": [
+   "vocab:zehn|10"
+  ],
+  "vhs-a1-l02:elf": [
+   "vocab:elf|11"
+  ],
+  "vhs-a1-l02:zwolf": [
+   "vocab:zwölf|12"
+  ],
+  "vhs-a1-l02:siebzehn": [
+   "vocab:siebzehn|17"
+  ],
+  "vhs-a1-l02:zwanzig": [
+   "vocab:zwanzig|20"
+  ],
+  "vhs-a1-l02:sechzehn": [
+   "vocab:sechzehn|16"
+  ],
+  "vhs-a1-l02:null": [
+   "vocab:null|0"
+  ],
+  "vhs-a1-l02:dreizehn": [
+   "vocab:dreizehn|13"
+  ],
+  "vhs-a1-l02:vierzehn": [
+   "vocab:vierzehn|14"
+  ],
+  "vhs-a1-l02:funfzehn": [
+   "vocab:fünfzehn|15"
+  ],
+  "vhs-a1-l02:achtzehn": [
+   "vocab:achtzehn|18"
+  ],
+  "vhs-a1-l02:neunzehn": [
+   "vocab:neunzehn|19"
+  ],
+  "vhs-a1-l02:wohnen-in": [
+   "vocab:wohnen|to-live"
+  ],
+  "vhs-a1-l02:geschieden": [
+   "vocab:geschieden|divorced"
+  ],
+  "vhs-a1-l02:der-vorname": [
+   "article:Vorname|m",
+   "vocab:Vorname|first-name"
+  ],
+  "vhs-a1-l02:die-gromutter": [
+   "article:Großmutter|f",
+   "vocab:Großmutter|grandmother"
+  ],
+  "vhs-a1-l02:der-grovater": [
+   "article:Großvater|m",
+   "vocab:Großvater|grandfather"
+  ],
+  "vhs-a1-l02:die-tante": [
+   "article:Tante|f",
+   "vocab:Tante|aunt"
+  ],
+  "vhs-a1-l02:der-onkel": [
+   "article:Onkel|m",
+   "vocab:Onkel|uncle"
+  ],
+  "vhs-a1-l02:der-cousin": [
+   "article:Cousin|m",
+   "vocab:Cousin|cousin"
+  ],
+  "vhs-a1-l02:die-cousine": [
+   "article:Cousine|f",
+   "vocab:Cousine|cousin"
+  ],
+  "vhs-a1-l02:der-familienname": [
+   "article:Familienname|m",
+   "vocab:Familienname|surname"
+  ],
+  "vhs-a1-l02:der-nachname": [
+   "article:Nachname|m",
+   "vocab:Nachname|surname"
+  ],
+  "vhs-a1-l02:der-familienstand": [
+   "article:Familienstand|m",
+   "vocab:Familienstand|marital-status"
+  ],
+  "vhs-a1-l02:die-strae": [
+   "article:Straße|f",
+   "vocab:Straße|street"
+  ],
+  "vhs-a1-l02:die-hausnummer": [
+   "article:Hausnummer|f",
+   "vocab:Hausnummer|house-number"
+  ],
+  "vhs-a1-l02:die-stadt": [
+   "article:Stadt|f",
+   "vocab:Stadt|town"
+  ],
+  "vhs-a1-l02:die-postleitzahl": [
+   "article:Postleitzahl|f",
+   "vocab:Postleitzahl|post-code"
+  ],
+  "vhs-a1-l02:die-telefonnummer": [
+   "article:Telefonnummer|f",
+   "vocab:Telefonnummer|telephone-number"
+  ],
+  "vhs-a1-l02:einundzwanzig": [
+   "vocab:einundzwanzig|21"
+  ],
+  "vhs-a1-l02:dreiig": [
+   "vocab:dreißig|30"
+  ],
+  "vhs-a1-l02:siebzig": [
+   "vocab:siebzig|70"
+  ],
+  "vhs-a1-l02:hundert": [
+   "vocab:hundert|100"
+  ],
+  "vhs-a1-l02:die-adresse": [
+   "article:Adresse|f",
+   "vocab:Adresse|address"
+  ],
+  "vhs-a1-l02:das-alter": [
+   "article:Alter|n",
+   "vocab:Alter|age"
+  ],
+  "vhs-a1-l02:der-geburtsort": [
+   "article:Geburtsort|m",
+   "vocab:Geburtsort|place-of-birth"
+  ],
+  "vhs-a1-l02:der-wohnort": [
+   "article:Wohnort|m",
+   "vocab:Wohnort|place-of-residence"
+  ],
+  "vhs-a1-l02:die-groeltern": [
+   "vocab:Großeltern|grandparents"
+  ],
+  "vhs-a1-l02:die-schwiegereltern": [
+   "vocab:Schwiegereltern|parents-in-law"
+  ],
+  "vhs-a1-l02:die-schwiegermutter": [
+   "article:Schwiegermutter|f",
+   "vocab:Schwiegermutter|mother-in-law"
+  ],
+  "vhs-a1-l02:der-schwiegervater": [
+   "article:Schwiegervater|m",
+   "vocab:Schwiegervater|father-in-law"
+  ],
+  "vhs-a1-l02:die-geschwister": [
+   "vocab:Geschwister|siblings"
+  ],
+  "vhs-a1-l02:getrennt-lebend": [
+   "vocab:getrennt lebend|separated"
+  ],
+  "vhs-a1-l02:verwitwet": [
+   "vocab:verwitwet|widowed"
+  ],
+  "vhs-a1-l02:in-eingetragener-lebenspartnerschaft": [
+   "vocab:in eingetragener Lebenspartnerschaft|in-a-registered-partnership"
+  ],
+  "vhs-a1-l02:verpartnert": [
+   "vocab:verpartnert|in-a-registered-partnership"
+  ],
+  "vhs-a1-l02:eingetragene-lebenspartnerschaft-aufgeho": [
+   "vocab:eingetragene Lebenspartnerschaft aufgehoben|registered-partnership-annulled"
+  ],
+  "vhs-a1-l02:eingetragene-r-lebenspartner-in-verstorb": [
+   "vocab:eingetragene(r) Lebenspartner(in) verstorben|registered-life-partner-deceased"
+  ],
+  "vhs-a1-l02:zusammenleben": [
+   "vocab:zusammenleben|to-live-together"
+  ],
+  "vhs-a1-l02:in-einer-beziehung": [
+   "vocab:in einer Beziehung|in-a-relationship"
+  ],
+  "vhs-a1-l02:wie-viele-kinder-haben-sie": [
+   "sentence:how-many-children"
+  ],
+  "vhs-a1-l02:ich-buchstabiere": [
+   "sentence:i-spell"
+  ],
+  "vhs-a1-l02:buchstabieren-sie-das": [
+   "sentence:spell-formal"
+  ],
+  "vhs-a1-l02:vielen-dank": [
+   "vocab:Vielen Dank!|many-thanks"
+  ],
+  "vhs-a1-l02:verstehen": [
+   "vocab:verstehen|to-understand"
+  ],
+  "vhs-a1-l02:sie-they": [
+   "vocab:sie|they"
+  ],
+  "vhs-a1-l02:mein-mann": [
+   "vocab:Mann|husband"
+  ],
+  "vhs-a1-l02:meine-frau": [
+   "vocab:Frau|wife"
+  ],
+  "eg-seg-274:hallo": [
+   "vocab:Hallo!|hello"
+  ],
+  "eg-seg-274:tschuss": [
+   "vocab:Tschüss.|bye"
+  ],
+  "eg-seg-274:guten-tag": [
+   "vocab:Guten Tag.|hello"
+  ],
+  "eg-seg-274:auf-wiedersehen": [
+   "vocab:Auf Wiedersehen.|goodbye"
+  ],
+  "eg-seg-274:auf-wiederhoren": [
+   "vocab:Auf Wiederhören.|goodbye"
+  ],
+  "eg-seg-274:danke-der-nachfrage": [
+   "vocab:Danke der Nachfrage.|thanks-for-asking"
+  ],
+  "eg-seg-274:das-freut-mich": [
+   "vocab:Das freut mich.|i-m-pleased"
+  ],
+  "eg-seg-274:schonen-tag-noch": [
+   "vocab:Schönen Tag noch!|have-a-nice-day"
+  ],
+  "eg-seg-274:hi": [
+   "vocab:Hi!|hi"
+  ],
+  "eg-seg-274:ciao": [
+   "vocab:Ciao!|ciao"
+  ],
+  "eg-seg-274:hey": [
+   "vocab:Hey!|hey"
+  ],
+  "eg-seg-274:machs-gut": [
+   "vocab:Mach’s gut!|so-long"
+  ],
+  "eg-seg-274:alles-klar": [
+   "vocab:Alles klar?|all-right"
+  ],
+  "eg-seg-274:liebe-grue": [
+   "vocab:Liebe Grüße!|best-wishes"
+  ],
+  "eg-seg-274:bis-dann": [
+   "vocab:Bis dann!|see-you-then"
+  ],
+  "eg-seg-274:bis-spater": [
+   "vocab:Bis später.|see-you-later"
+  ],
+  "eg-seg-274:hallihallo": [
+   "vocab:Hallihallo!|hello"
+  ],
+  "eg-seg-274:guten-morgen": [
+   "vocab:Guten Morgen.|good-morning"
+  ],
+  "eg-seg-274:guten-abend": [
+   "vocab:Guten Abend.|good-evening"
+  ],
+  "eg-seg-274:bis-die-tage": [
+   "vocab:Bis die Tage!|see-you"
+  ],
+  "eg-seg-274:bis-bald": [
+   "vocab:Bis bald.|see-you-soon"
+  ],
+  "eg-seg-274:man-sieht-sich": [
+   "vocab:Man sieht sich.|be-seeing-you"
+  ],
+  "eg-seg-274:na": [
+   "vocab:Na?|hi-what-s-up"
+  ],
+  "eg-seg-274:moin": [
+   "vocab:Moin!|hello"
+  ],
+  "eg-seg-274:moinsen": [
+   "vocab:Moinsen!|hi"
+  ],
+  "eg-seg-274:servus": [
+   "vocab:Servus!|hello"
+  ],
+  "eg-seg-274:gruezi": [
+   "vocab:Grüezi!|hello"
+  ],
+  "eg-seg-274:habe-die-ehre": [
+   "vocab:Habe die Ehre!|good-day"
+  ],
+  "eg-seg-274:pfiat-di": [
+   "vocab:Pfiat di!|bye"
+  ],
+  "eg-seg-274:baba": [
+   "vocab:Baba!|bye-bye"
+  ],
+  "eg-seg-274:wie-gehts": [
+   "sentence:how-are-you-informal"
+  ]
+ },
+ "pending": [
+  {
+   "lesson": "dw-a1-e0-l4",
+   "german": "USA",
+   "reason": "Acronym written in the exercise notes without a meaning (decision D3: borderline)."
+  },
+  {
+   "lesson": "dw-a1-e0-l4",
+   "german": "DNA",
+   "reason": "Acronym written in the exercise notes without a meaning (decision D3: borderline)."
+  },
+  {
+   "lesson": "dw-a1-e1-l1",
+   "german": "das Personalpronomen",
+   "reason": "Grammar term under 'Grammatical terms in German' (D3 borderline)."
+  },
+  {
+   "lesson": "dw-a1-e1-l1",
+   "german": "der Singular",
+   "reason": "Grammar term (D3 borderline)."
+  },
+  {
+   "lesson": "dw-a1-e1-l1",
+   "german": "der Plural",
+   "reason": "Grammar term (D3 borderline)."
+  },
+  {
+   "lesson": "dw-a1-e1-l3",
+   "german": "das Verb",
+   "reason": "Grammar term (D3 borderline)."
+  },
+  {
+   "lesson": "dw-a1-e1-l3",
+   "german": "die Konjugation",
+   "reason": "Grammar term (D3 borderline)."
+  },
+  {
+   "lesson": "dw-a1-e1-l3",
+   "german": "das Präsens",
+   "reason": "Grammar term (D3 borderline)."
+  },
+  {
+   "lesson": "eg-seg-274",
+   "german": "Man hört sich.",
+   "reason": "No dictionary confirms the meaning (en.wiktionary, dict.cc)."
+  },
+  {
+   "lesson": "eg-seg-274",
+   "german": "Wir hören wieder voneinander.",
+   "reason": "No dictionary confirms the meaning (en.wiktionary, dict.cc)."
+  },
+  {
+   "lesson": "eg-seg-274",
+   "german": "GuMo",
+   "reason": "Slang for Guten Morgen; no dictionary confirms the abbreviation itself."
+  }
+ ]
+}

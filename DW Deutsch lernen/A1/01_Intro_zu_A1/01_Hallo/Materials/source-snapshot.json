@@ -1,0 +1,288 @@
+{
+ "description": "Official source text captured by ANKI/harvest_sources.py for offline context verification.",
+ "harvestedOn": "2026-09-25",
+ "sources": [
+  {
+   "id": "exercises",
+   "kind": "dw-exercises",
+   "url": "https://learngerman.dw.com/en/hallo/l-37250531",
+   "lessonUrl": "https://learngerman.dw.com/en/hallo/l-37250531",
+   "exercises": [
+    {
+     "id": "e-37252406",
+     "url": "https://learngerman.dw.com/en/asking-people-how-theyre-doing/l-37250531/e-37252406",
+     "title": "Asking people how they're doing",
+     "texts": [
+      "New words:\nWie geht es dir?\nWie geht es Ihnen?",
+      "Wie geht’s dir?",
+      "Wie geht es Ihnen?",
+      "Wähl die richtige Frage.",
+      "Wähl die richtige Frage."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37252610",
+     "url": "https://learngerman.dw.com/en/dialogues-greeting-someone/l-37250531/e-37252610",
+     "title": "Dialogues: Greeting someone",
+     "texts": [
+      "Beispiel:\nFrau Kamp: Guten Tag, Herr Schneider. Wie geht es Ihnen?\nHerr Schneider: Danke, gut. Und Ihnen?\nFrau Kamp: Auch gut.\nDavid: Hallo, Inga. Wie geht’s?\nInga: Super. Und dir?\nDavid: Nicht so gut."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37251360",
+     "url": "https://learngerman.dw.com/en/formal-and-informal-greetings/l-37250531/e-37251360",
+     "title": "Formal and informal greetings",
+     "texts": [
+      "Guten Tag.",
+      "Hallo!",
+      "Welche Begrüßung passt besser?",
+      "Welche Begrüßung passt besser?"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-42846796",
+     "url": "https://learngerman.dw.com/en/good-day-how-are-you-doing/l-37250531/e-42846796",
+     "title": "Good day, how are you doing?",
+     "texts": [
+      "Hi, wie geht’s?",
+      "Guten Morgen, wie geht es Ihnen?",
+      "Guten Abend."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37251751",
+     "url": "https://learngerman.dw.com/en/good-morning-good-afternoon-mr-brunner/l-37250531/e-37251751",
+     "title": "Good morning / Good afternoon, Mr Brunner!",
+     "texts": [
+      "New words:\nHerr\nFrau\noder",
+      "Herr",
+      "Frau",
+      "Frau",
+      "Herr",
+      "Herr oder Frau?",
+      "Guten Tag, #p# Brunner.",
+      "Herr oder Frau?",
+      "Guten Tag, #p# Kohlhaas.",
+      "Herr oder Frau?",
+      "Guten Tag, #p# Jacobi.",
+      "Herr oder Frau?",
+      "Guten Tag, #p# Stöpel."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-42655236",
+     "url": "https://learngerman.dw.com/en/good-morning/l-37250531/e-42655236",
+     "title": "Good morning",
+     "texts": [
+      "New words:\nGuten Morgen!\nGuten Tag!\nGuten Abend!",
+      "Deutschkurse | Nicos Weg | A1_E0_L1_S15_Foto1",
+      "Deutschkurse | Nicos Weg | A1_E0_L1_S15_Foto2",
+      "Deutschkurse | Nicos Weg | A1_E0_L1_S15_Foto3",
+      "Was passt zusammen? Ordne zu.",
+      "Guten Morgen.",
+      "Guten Tag.",
+      "Guten Abend."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37251955",
+     "url": "https://learngerman.dw.com/en/greetings-at-different-times-of-the-day/l-37250531/e-37251955",
+     "title": "Greetings at different times of the day",
+     "texts": [
+      "5:00 Uhr – 11:00 Uhr: Guten Morgen .\n11:00 Uhr – 18:00 Uhr: Guten Tag.\n18:00 – 22:00 Uhr: Guten Abend.\nBeispiel:\nEs ist 09:00 Uhr. – Guten Morgen.",
+      "Guten Morgen.",
+      "Guten Tag.",
+      "Guten Abend.",
+      "Guten Tag.",
+      "Guten Abend.",
+      "Guten Morgen.",
+      "Es ist 07:20 Uhr.",
+      "Es ist 15:00 Uhr.",
+      "Es ist 19:15 Uhr.",
+      "Es ist 14:15 Uhr.",
+      "Es ist 20:00 Uhr.",
+      "Es ist 08:15 Uhr."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37251124",
+     "url": "https://learngerman.dw.com/en/greetings-in-german/l-37250531/e-37251124",
+     "title": "Greetings in German",
+     "texts": [
+      "Hallo, Sarah. Wie geht’s dir?",
+      "Hi, Tom! Super, danke. Und dir?",
+      "Guten Tag! Wie geht es Ihnen?",
+      "Sehr gut, danke. Und Ihnen?",
+      "Was hörst du? Zwei Antworten sind richtig.",
+      "Was hörst du? Zwei Antworten sind richtig."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-42385068",
+     "url": "https://learngerman.dw.com/en/hello-howre-you/l-37250531/e-42385068",
+     "title": "Hello, how're you?",
+     "texts": [
+      "Guten Tag! Wie geht es Ihnen?",
+      "Hallo, Sarah. Wie geht’s dir?",
+      "Guten Tag, Herr Kaiser. Wie geht es Ihnen?",
+      "Hi. Wie geht’s?"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37252533",
+     "url": "https://learngerman.dw.com/en/i-am-well/l-37250531/e-37252533",
+     "title": "I am well",
+     "texts": [
+      "New words:\nEs geht mir gut.\nEs geht mir nicht so gut.\nSehr gut.\nSuper.\nGut.\nNicht gut.",
+      "Es geht mir gut.",
+      "Super.",
+      "Es geht mir nicht so gut.",
+      "Nicht so gut.",
+      "Wie geht es dir, Emma?",
+      "Wie geht es dir, Emma?"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-42382962",
+     "url": "https://learngerman.dw.com/en/nico-arrives-in-germany/l-37250531/e-42382962",
+     "title": "Nico arrives in Germany",
+     "texts": [
+      "Deutschkurse | Nicos Weg | A1_E0_L2_Stock_Flughafen_ohne_BU",
+      "Deutschkurse | Nicos Weg | A1_E1_L2_1994",
+      "Wo ist Nico?",
+      "Mit wem spricht Nico?"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37251246",
+     "url": "https://learngerman.dw.com/en/thanks-im-great/l-37250531/e-37251246",
+     "title": "'Thanks, I'm great!'",
+     "texts": [
+      "Guten Tag, Frau Mohr! Wie geht es Ihnen?",
+      "Guten Tag! Danke, gut. Und Ihnen?",
+      "Hallo, Peter! Wie geht’s?",
+      "Hallo! Gut. Und dir?"
+     ],
+     "vocabularyTags": []
+    }
+   ],
+   "pages": [
+    {
+     "id": "rs-39370662",
+     "url": "https://learngerman.dw.com/en/greetings-in-german/l-37250531/rs-39370662",
+     "title": "Greetings in German",
+     "texts": [
+      "Greetings in German",
+      "null iStockphoto\nFormal:\nGuten Tag\nThis is the most important formal greeting in German. You can use it throughout the day.\nDepending on the time of day, you can also use:\nGuten Morgen – until about 11 a.m.\nGuten Abend – as of about 6 p.m.\nWhen you greet another person, you offer your hand for a handshake and look them in the eye in a friendly way.\nInformal:\nHallo!\nThis is how you greet friends, acquaintances and young people. You can also just smile, offer a handshake, or nod to them.\nSome people hug or give each other a kiss on the cheek.\nEveryday language:\nHi!\nTach!\nHey!\nThere are lots of different options in everyday language.\nNa?\nYou can say this to people you know well and see on a regular basis. It more or less means: \"Hello, everything ok with you?\" or \"Hello, what's up?\" The easiest way to respond is to ask the same question back: \"Na?\"\nRegional variations:\nIn some regions there are particular greetings, such as:\nServus! – especially in Bavaria and Austria, informal\nGrüß Gott! – Southern Germany and Austria\nGrüezi! – Switzerland\nMoin! – Northern Germany"
+     ]
+    },
+    {
+     "id": "gr-38310488",
+     "url": "https://learngerman.dw.com/en/informal-and-formal-1/l-37250531/gr-38310488",
+     "title": "Informal and formal (1)",
+     "texts": [
+      "Informal and formal (1)",
+      "Informal forms of address\nnull DW\nHey, Lena! – Hallo, Opa!\nHallo, Sarah! – Hi, Tom!\nThe informal form of address is used within the family, among friends and acquaintances, and often also among colleagues.\nFriends, acquaintances and family members are addressed by their first name.\nChildren usually call their parents Mama and Papa, and their grandparents Oma and Opa.\nFormal forms of address\nnull DW\nGuten Tag, Frau Kamp! – Guten Tag!\nGuten Morgen, Herr Müller! – Guten Morgen, Frau Schneider!\nThe formal address is used with unfamiliar adults, in business situations, with officials, or when shopping.\nMen are addressed formally as Herr followed by their surname, women as Frau followed by their surname.\nIf you are unsure whether to be formal or informal, use the formal address.\nGuten Morgen!\nGreeting in the morning until approximately 11 o'clock.\nGuten Tag!\nGreeting during the day, approximately between 11 a.m. and 6 p.m.\nGuten Abend!\nGreeting in the evening from approximately 6 p.m. onwards.\nGrammatical terms in German:\ninformell: Informal language is used when talking to family and friends.\nformell: Formal language is used in formal situations."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "script",
+   "kind": "dw-script-pdf",
+   "url": "https://static.dw.com/downloads/52718683/nicos-weg-a1-e0-l1-manuskript-und-wortschatz-englisch.pdf",
+   "localFile": "DW Deutsch lernen/A1/01_Intro_zu_A1/01_Hallo/Materials/Script and vocabulary (English).pdf",
+   "sha256": "87cf336749ff8fa1b51b3e9f251bbe45199abbf93c0dc56c10d389fa5c27c83f",
+   "lines": [
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "Welcome to A1! | Hallo!",
+    "Nico, a young Spanish man, arrives at the airport in Germany. As he is",
+    "taking a look around, he listens to a language course on headphones, with",
+    "greetings in German. Then Emma comes up and starts talking to him.",
+    "Script",
+    "AUDIOKURS:",
+    "Frau: Guten Morgen, Herr Müller, wie geht es Ihnen?",
+    "Mann: Guten Morgen, Frau Schneider. Danke, gut! Und Ihnen?",
+    "Frau: Guten Morgen, Herr Müller, wie geht es Ihnen?",
+    "Mann: Guten Morgen, Frau Schneider. Danke, gut! Und Ihnen?",
+    "Mann: Guten Tag, Frau Kamp.",
+    "Frau: Guten Tag! Wie geht es Ihnen?",
+    "Mann: Sehr gut, danke. Und Ihnen?",
+    "Mann: Hey, Lena! Na, wie geht’s?",
+    "Frau: Hallo, Opa!",
+    "Mann: Hallo, Sarah. Wie geht’s dir?",
+    "Frau: Hi, Tom! Super, danke. Und dir?",
+    "EMMA:",
+    "Oh, schön!",
+    "NICO:",
+    "Hm?",
+    "EMMA:",
+    "Die Tasche ist schön!",
+    "NICO:",
+    "Entschuldigung? Schön?",
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "EMMA:",
+    "Ja, die Tasche!",
+    "LISA:",
+    "Emma, komm jetzt! Entschuldigung!",
+    "NICO:",
+    "Adalbert-Stifter-Straße …",
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "Vocabulary (from script and lesson)",
+    "auch – also",
+    "das Beispiel, die Beispiele – example",
+    "danke – thanks (abbreviated form of \"thank you\")",
+    "alternativ: danke schön / danke sehr",
+    "Es geht mir gut. – I’m doing well.",
+    "Es ist neun Uhr. – It is 9 o'clock.",
+    "Frau – Ms/Mrs",
+    "hier nur Singular, ohne Artikel",
+    "die Frau, die Frauen – woman",
+    "gut – well; good",
+    "besser, am besten",
+    "Guten Abend. – Good evening.",
+    "Guten Morgen. – Good morning.",
+    "Guten Tag. – Hello.; Good day.",
+    "Hallo! – Hello!",
+    "Herr – Mr",
+    "hier nur Singular, ohne Artikel",
+    "Hey! – Hey!",
+    "aus dem Englischen",
+    "Hi! – Hi!",
+    "aus dem Englischen",
+    "der Mann, die Männer – man",
+    "nicht – not",
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "nicht so gut – not so good",
+    "oder – or",
+    "schön – nice; beautiful; pretty",
+    "schöner, am schönsten",
+    "sehr gut – very well; very good",
+    "super – super; great",
+    "Uhr – o'clock",
+    "in Uhrzeiten: nur Singular",
+    "und – and",
+    "Und dir? – How about you? (informal)",
+    "Und Ihnen? – How about you? (formal)",
+    "Wie geht es dir? – How are you? (informal)",
+    "Varianten: Wie geht’s? / Wie geht’s dir?",
+    "Wie geht es Ihnen? – How are you? (formal)"
+   ]
+  }
+ ]
+}

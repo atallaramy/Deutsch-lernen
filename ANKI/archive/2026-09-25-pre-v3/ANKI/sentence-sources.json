@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 2,
+  "policy": "Each card is manually selected for one reusable production or grammar target. Audio, TTS, recognition mirrors, and multiple choice are excluded.",
+  "sources": [
+    {
+      "id": "a1-hallo",
+      "title": "Hallo!",
+      "url": "https://learngerman.dw.com/en/hallo/l-37251017/lv",
+      "transcriptSourceUrl": "https://static.dw.com/downloads/52718683/nicos-weg-a1-e0-l1-manuskript-und-wortschatz-englisch.pdf",
+      "sourceFile": "DW Deutsch lernen/A1/01_Intro_zu_A1/01_Hallo/Hallo.md",
+      "cards": [
+        {"id": "how-are-you-formal", "legacyKey": "a1-hallo:how-are-you-formal:type", "kind": "production", "skill": "formal register", "cue": "You greet an adult you do not know. Ask politely: “How are you?”", "answer": "Wie geht es Ihnen?", "meaning": "How are you? (formal)", "note": "Use Ihnen with formal Sie."},
+        {"id": "how-are-you-informal", "kind": "production", "skill": "informal register", "cue": "Ask a friend: “How are you?”", "answer": "Wie geht es dir?", "meaning": "How are you? (informal)", "note": "Use dir with informal du."},
+        {"id": "doing-well", "legacyKey": "a1-hallo:doing-well:type", "kind": "production", "skill": "conversation response", "cue": "Someone asks how you are. Reply: “I’m doing well.”", "answer": "Es geht mir gut.", "meaning": "I’m doing well.", "note": "To return the question informally, add: Und dir?"}
+      ]
+    },
+    {
+      "id": "a1-kein-problem",
+      "title": "Kein Problem!",
+      "url": "https://learngerman.dw.com/en/kein-problem/l-37251054/lv",
+      "transcriptSourceUrl": "https://static.dw.com/downloads/52719054/nicos-weg-a1-e0-l2-manuskript-und-wortschatz-englisch.pdf",
+      "sourceFile": "DW Deutsch lernen/A1/01_Intro_zu_A1/02_Kein Problem/Kein_Problem.md",
+      "cards": [
+        {"id": "arrived-safely", "legacyKey": "a1-kein-problem:arrived-safely:type", "kind": "production", "skill": "useful message", "cue": "After travelling, send the message: “I arrived safely.”", "answer": "Ich bin gut angekommen.", "meaning": "I arrived safely.", "note": "Learn angekommen here as part of the useful complete phrase."},
+        {"id": "to-centre", "legacyKey": "a1-kein-problem:to-centre:type", "kind": "production", "skill": "taxi request", "cue": "A taxi driver asks Wohin? Say: “To the city centre, please.”", "answer": "Ins Zentrum, bitte.", "meaning": "To the city centre, please.", "note": "ins = in das"},
+        {"id": "no-problem", "legacyKey": "a1-kein-problem:no-problem:type", "kind": "production", "skill": "conversation response", "cue": "A request is easy to fulfil. Reassure the person: “No problem.”", "answer": "Kein Problem.", "meaning": "No problem.", "note": "A fixed everyday response."},
+        {"id": "study-completion", "legacyKey": "a1-kein-problem:study-completion:completion", "kind": "completion", "skill": "verb in context", "prompt": "Eva ____ im achten Semester.", "answer": "studiert", "meaning": "Eva is studying in her eighth semester.", "note": "studieren → sie studiert"}
+      ]
+    },
+    {
+      "id": "a1-tschuess",
+      "title": "Tschüss!",
+      "url": "https://learngerman.dw.com/en/tsch%C3%BCss/l-37251040/lv",
+      "transcriptSourceUrl": "https://static.dw.com/downloads/52718807/nicos-weg-a1-e0-l3-manuskript-und-wortschatz-englisch.pdf",
+      "sourceFile": "DW Deutsch lernen/A1/01_Intro_zu_A1/03_Tschüs/Tschüs.md",
+      "cards": [
+        {"id": "take-care", "kind": "production", "skill": "farewell", "cue": "Say goodbye informally with: “Take care!”", "answer": "Mach’s gut!", "meaning": "Take care! / So long!", "note": "Informal singular."},
+        {"id": "good-trip", "kind": "production", "skill": "farewell", "cue": "Someone is leaving on a trip. Wish them: “Have a good trip!”", "answer": "Gute Reise!", "meaning": "Have a good trip!", "note": "A fixed expression."},
+        {"id": "see-you-soon", "kind": "production", "skill": "farewell", "cue": "You expect to meet the person again soon. Say: “See you soon.”", "answer": "Bis bald.", "meaning": "See you soon.", "note": "A fixed expression."},
+        {"id": "where-is-my-bag", "kind": "production", "skill": "reusable pattern", "cue": "Your bag is missing. Ask: “Where is my bag?”", "answer": "Wo ist meine Tasche?", "meaning": "Where is my bag?", "note": "Adapted from the lesson pattern Wo ist ...? and die Tasche."}
+      ]
+    },
+    {
+      "id": "a1-von-a-bis-z",
+      "title": "Von A bis Z",
+      "url": "https://learngerman.dw.com/en/von-a-bis-z/l-37256418/lv",
+      "transcriptSourceUrl": "https://static.dw.com/downloads/52719090/nicos-weg-a1-e0-l4-manuskript-und-wortschatz-englisch.pdf",
+      "sourceFile": "DW Deutsch lernen/A1/01_Intro_zu_A1/04_Von A bis Z/Von A bis Z.md",
+      "cards": [
+        {"id": "spell-formal", "kind": "production", "skill": "formal request", "cue": "Ask a stranger politely: “Please spell that.”", "answer": "Bitte buchstabieren Sie das.", "meaning": "Please spell that. (formal)", "note": "Formal request: infinitive + Sie."},
+        {"id": "spell-informal", "kind": "production", "skill": "informal request", "cue": "Ask a friend: “Please spell that.”", "answer": "Bitte buchstabiere das.", "meaning": "Please spell that. (informal singular)", "note": "Informal du-imperative: buchstabiere."},
+        {"id": "repeat-slowly", "kind": "production", "skill": "repair strategy", "cue": "You did not catch the spelling. Ask: “Again, slowly, please.”", "answer": "Noch einmal langsam, bitte.", "meaning": "Again, slowly, please.", "note": "A useful conversation-repair phrase from the lesson dialogue."},
+        {"id": "how-spell-that", "kind": "production", "skill": "repair strategy", "cue": "Ask: “How do you write/spell that?”", "answer": "Wie schreibt man das?", "meaning": "How do you write/spell that?", "note": "man is the general ‘one/you’ here."}
+      ]
+    },
+    {
+      "id": "a1-ich-heisse-emma",
+      "title": "Ich heiße Emma",
+      "url": "https://learngerman.dw.com/en/ich-hei%C3%9Fe-emma/l-37262882/lv",
+      "transcriptSourceUrl": "https://static.dw.com/downloads/52719106/nicos-weg-a1-e1-l1-manuskript-und-wortschatz-englisch.pdf",
+      "sourceFile": "DW Deutsch lernen/A1/02_meeting_people/01_Lesson_01/Ich heiße Emma.md",
+      "cards": [
+        {"id": "my-name-is-nico", "legacyKey": "a1-ich-heisse-emma:my-name-is-nico:type", "kind": "production", "skill": "self-introduction", "cue": "Introduce yourself as Nico: “My name is Nico.”", "answer": "Ich heiße Nico.", "meaning": "My name is Nico.", "note": "Replace Nico with your own name in real conversation."},
+        {"id": "name-question-informal-form", "kind": "completion", "skill": "verb in context", "prompt": "Wie ____ du?", "answer": "heißt", "meaning": "What is your name? (informal)", "note": "heißen → du heißt"},
+        {"id": "name-question-formal-form", "kind": "completion", "skill": "verb in context", "prompt": "Wie ____ Sie?", "answer": "heißen", "meaning": "What is your name? (formal)", "note": "Formal Sie uses the plural/infinitive form."},
+        {"id": "formal-are-completion", "legacyKey": "a1-ich-heisse-emma:formal-are-completion:completion", "kind": "completion", "skill": "verb in context", "prompt": "Wer ____ Sie?", "answer": "sind", "meaning": "Who are you? (formal)", "note": "sein → Sie sind"}
+      ]
+    },
+    {
+      "id": "a1-nico-hat-ein-problem",
+      "title": "Nico hat ein Problem",
+      "url": "https://learngerman.dw.com/en/nico-hat-ein-problem/l-37262889/lv",
+      "transcriptSourceUrl": "https://static.dw.com/downloads/52719209/nicos-weg-a1-e1-l4-manuskript-und-wortschatz-englisch.pdf",
+      "sourceFile": "DW Deutsch lernen/A1/02_meeting_people/04_Lesson_04/Nico hat Problem.md",
+      "cards": [
+        {"id": "nico-has-problem", "legacyKey": "a1-nico-hat-ein-problem:nico-has-problem:type", "kind": "completion", "skill": "verb in context", "prompt": "Nico ____ ein Problem.", "answer": "hat", "meaning": "Nico has a problem.", "note": "haben → er hat"},
+        {"id": "comes-from", "legacyKey": "a1-nico-hat-ein-problem:comes-from:completion", "kind": "completion", "skill": "verb in context", "prompt": "Er ____ aus Spanien.", "answer": "kommt", "meaning": "He comes from Spain.", "note": "kommen → er kommt; origin uses aus."},
+        {"id": "bag-is-gone", "legacyKey": "a1-nico-hat-ein-problem:bag-is-gone:type", "kind": "production", "skill": "useful message", "cue": "Explain: “His bag is gone.”", "answer": "Seine Tasche ist weg.", "meaning": "His bag is gone.", "note": "weg means gone/away in this context."},
+        {"id": "looking-for-address", "legacyKey": "a1-nico-hat-ein-problem:looking-for-address:type", "kind": "production", "skill": "useful message", "cue": "Explain: “We are looking for an address.”", "answer": "Wir suchen eine Adresse.", "meaning": "We are looking for an address.", "note": "suchen takes a direct object."},
+        {"id": "father-can-help", "legacyKey": "a1-nico-hat-ein-problem:father-can-help:type", "kind": "production", "skill": "modal word order", "cue": "Suggest: “Maybe my father can help us.”", "answer": "Vielleicht kann mein Vater uns helfen.", "meaning": "Maybe my father can help us.", "note": "With kann, helfen moves to the end."},
+        {"id": "speaks-not-well", "kind": "completion", "skill": "verb in context", "prompt": "Er ____ nicht gut Deutsch.", "answer": "spricht", "meaning": "He does not speak German well.", "note": "sprechen → er spricht"},
+        {"id": "have-problem-plural", "kind": "completion", "skill": "irregular verb form", "prompt": "____ ihr ein Problem?", "answer": "Habt", "meaning": "Do you all have a problem?", "note": "haben → ihr habt"},
+        {"id": "are-in-cafe-plural", "kind": "completion", "skill": "irregular verb form", "prompt": "Ihr ____ im Café.", "answer": "seid", "meaning": "You all are in the café.", "note": "sein → ihr seid"}
+      ]
+    }
+  ]
+}

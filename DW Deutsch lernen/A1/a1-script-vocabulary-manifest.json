@@ -1,0 +1,463 @@
+{
+  "updatedAt": "2026-09-19T19:24:19Z",
+  "description": "Official DW Nicos Weg A1 English script/vocabulary PDFs.",
+  "sourceList": "https://gist.githubusercontent.com/eduardvasilache/8d88ae7b549cc34a201bd8fc52520307/raw/50fdaa32e0ae6e6769973d5ae069001eeba4d90d/dw-scripts-nico-a1-a2-b1.txt",
+  "lessons": [
+    {
+      "unit": 0,
+      "lesson": 1,
+      "url": "https://static.dw.com/downloads/52718683/nicos-weg-a1-e0-l1-manuskript-und-wortschatz-englisch.pdf",
+      "file": "DW Deutsch lernen/A1/01_Intro_zu_A1/01_Hallo/Materials/Script and vocabulary (English).pdf"
+    },
+    {
+      "unit": 0,
+      "lesson": 2,
+      "url": "https://static.dw.com/downloads/52719054/nicos-weg-a1-e0-l2-manuskript-und-wortschatz-englisch.pdf",
+      "file": "DW Deutsch lernen/A1/01_Intro_zu_A1/02_Kein Problem/Materials/Script and vocabulary (English).pdf"
+    },
+    {
+      "unit": 0,
+      "lesson": 3,
+      "url": "https://static.dw.com/downloads/52719087/nicos-weg-a1-e0-l3-manuskript-und-wortschatz-englisch.pdf",
+      "file": "DW Deutsch lernen/A1/01_Intro_zu_A1/03_Tschüs/Materials/Script and vocabulary (English).pdf"
+    },
+    {
+      "unit": 0,
+      "lesson": 4,
+      "url": "https://static.dw.com/downloads/52719090/nicos-weg-a1-e0-l4-manuskript-und-wortschatz-englisch.pdf",
+      "file": "DW Deutsch lernen/A1/01_Intro_zu_A1/04_Von A bis Z/Materials/Script and vocabulary (English).pdf"
+    },
+    {
+      "unit": 1,
+      "lesson": 1,
+      "url": "https://static.dw.com/downloads/52719106/nicos-weg-a1-e1-l1-manuskript-und-wortschatz-englisch.pdf",
+      "file": "DW Deutsch lernen/A1/02/01_Lesson_01/Materials/Script and vocabulary (English).pdf"
+    },
+    {
+      "unit": 1,
+      "lesson": 2,
+      "url": "https://static.dw.com/downloads/52719126/nicos-weg-a1-e1-l2-manuskript-und-wortschatz-englisch.pdf",
+      "file": "DW Deutsch lernen/A1/02/02_Lesson_02/Materials/Script and vocabulary (English).pdf"
+    },
+    {
+      "unit": 1,
+      "lesson": 3,
+      "url": "https://static.dw.com/downloads/52719129/nicos-weg-a1-e1-l3-manuskript-und-wortschatz-englisch.pdf",
+      "file": "DW Deutsch lernen/A1/02/03_Lesson_03/Materials/Script and vocabulary (English).pdf"
+    },
+    {
+      "unit": 1,
+      "lesson": 4,
+      "url": "https://static.dw.com/downloads/52719209/nicos-weg-a1-e1-l4-manuskript-und-wortschatz-englisch.pdf",
+      "file": "DW Deutsch lernen/A1/02/04_Lesson_04/Materials/Script and vocabulary (English).pdf"
+    },
+    {
+      "unit": 2,
+      "lesson": 1,
+      "url": "https://static.dw.com/downloads/52719212/nicos-weg-a1-e2-l1-manuskript-und-wortschatz-englisch.pdf",
+      "file": "DW Deutsch lernen/A1/03/01_Lesson_01/Materials/Script and vocabulary (English).pdf"
+    },
+    {
+      "unit": 2,
+      "lesson": 2,
+      "url": "https://static.dw.com/downloads/52719221/nicos-weg-a1-e2-l2-manuskript-und-wortschatz-englisch.pdf",
+      "file": "DW Deutsch lernen/A1/03/02_Lesson_02/Materials/Script and vocabulary (English).pdf"
+    },
+    {
+      "unit": 2,
+      "lesson": 3,
+      "url": "https://static.dw.com/downloads/52719223/nicos-weg-a1-e2-l3-manuskript-und-wortschatz-englisch.pdf",
+      "file": "DW Deutsch lernen/A1/03/03_Lesson_03/Materials/Script and vocabulary (English).pdf"
+    },
+    {
+      "unit": 2,
+      "lesson": 4,
+      "url": "https://static.dw.com/downloads/52719359/nicos-weg-a1-e2-l4-manuskript-und-wortschatz-englisch.pdf",
+      "file": "DW Deutsch lernen/A1/03/04_Lesson_04/Materials/Script and vocabulary (English).pdf"
+    },
+    {
+      "unit": 3,
+      "lesson": 1,
+      "url": "https://static.dw.com/downloads/52719567/nicos-weg-a1-e3-l1-manuskript-und-wortschatz-englisch.pdf",
+      "file": "DW Deutsch lernen/A1/04/01_Lesson_01/Materials/Script and vocabulary (English).pdf"
+    },
+    {
+      "unit": 3,
+      "lesson": 2,
+      "url": "https://static.dw.com/downloads/52719579/nicos-weg-a1-e3-l2-manuskript-und-wortschatz-englisch.pdf",
+      "file": "DW Deutsch lernen/A1/04/02_Lesson_02/Materials/Script and vocabulary (English).pdf"
+    },
+    {
+      "unit": 3,
+      "lesson": 3,
+      "url": "https://static.dw.com/downloads/52719582/nicos-weg-a1-e3-l3-manuskript-und-wortschatz-englisch.pdf",
+      "file": "DW Deutsch lernen/A1/04/03_Lesson_03/Materials/Script and vocabulary (English).pdf"
+    },
+    {
+      "unit": 3,
+      "lesson": 4,
+      "url": "https://static.dw.com/downloads/52719590/nicos-weg-a1-e3-l4-manuskript-und-wortschatz-englisch.pdf",
+      "file": "DW Deutsch lernen/A1/04/04_Lesson_04/Materials/Script and vocabulary (English).pdf"
+    },
+    {
+      "unit": 4,
+      "lesson": 1,
+      "url": "https://static.dw.com/downloads/52719600/nicos-weg-a1-e4-l1-manuskript-und-wortschatz-englisch.pdf",
+      "file": "DW Deutsch lernen/A1/05/01_Lesson_01/Materials/Script and vocabulary (English).pdf"
+    },
+    {
+      "unit": 4,
+      "lesson": 2,
+      "url": "https://static.dw.com/downloads/52719615/nicos-weg-a1-e4-l2-manuskript-und-wortschatz-englisch.pdf",
+      "file": "DW Deutsch lernen/A1/05/02_Lesson_02/Materials/Script and vocabulary (English).pdf"
+    },
+    {
+      "unit": 4,
+      "lesson": 3,
+      "url": "https://static.dw.com/downloads/52719617/nicos-weg-a1-e4-l3-manuskript-und-wortschatz-englisch.pdf",
+      "file": "DW Deutsch lernen/A1/05/03_Lesson_03/Materials/Script and vocabulary (English).pdf"
+    },
+    {
+      "unit": 4,
+      "lesson": 4,
+      "url": "https://static.dw.com/downloads/52719637/nicos-weg-a1-e4-l4-manuskript-und-wortschatz-englisch.pdf",
+      "file": "DW Deutsch lernen/A1/05/04_Lesson_04/Materials/Script and vocabulary (English).pdf"
+    },
+    {
+      "unit": 5,
+      "lesson": 1,
+      "url": "https://static.dw.com/downloads/52719650/nicos-weg-a1-e5-l1-manuskript-und-wortschatz-englisch.pdf",
+      "file": "DW Deutsch lernen/A1/06/01_Lesson_01/Materials/Script and vocabulary (English).pdf"
+    },
+    {
+      "unit": 5,
+      "lesson": 2,
+      "url": "https://static.dw.com/downloads/52719652/nicos-weg-a1-e5-l2-manuskript-und-wortschatz-englisch.pdf",
+      "file": "DW Deutsch lernen/A1/06/02_Lesson_02/Materials/Script and vocabulary (English).pdf"
+    },
+    {
+      "unit": 5,
+      "lesson": 3,
+      "url": "https://static.dw.com/downloads/52719694/nicos-weg-a1-e5-l3-manuskript-und-wortschatz-englisch.pdf",
+      "file": "DW Deutsch lernen/A1/06/03_Lesson_03/Materials/Script and vocabulary (English).pdf"
+    },
+    {
+      "unit": 5,
+      "lesson": 4,
+      "url": "https://static.dw.com/downloads/52719956/nicos-weg-a1-e5-l4-manuskript-und-wortschatz-englisch.pdf",
+      "file": "DW Deutsch lernen/A1/06/04_Lesson_04/Materials/Script and vocabulary (English).pdf"
+    },
+    {
+      "unit": 6,
+      "lesson": 1,
+      "url": "https://static.dw.com/downloads/52719959/nicos-weg-a1-e6-l1-manuskript-und-wortschatz-englisch.pdf",
+      "file": "DW Deutsch lernen/A1/07/01_Lesson_01/Materials/Script and vocabulary (English).pdf"
+    },
+    {
+      "unit": 6,
+      "lesson": 2,
+      "url": "https://static.dw.com/downloads/52719961/nicos-weg-a1-e6-l2-manuskript-und-wortschatz-englisch.pdf",
+      "file": "DW Deutsch lernen/A1/07/02_Lesson_02/Materials/Script and vocabulary (English).pdf"
+    },
+    {
+      "unit": 6,
+      "lesson": 3,
+      "url": "https://static.dw.com/downloads/52719964/nicos-weg-a1-e6-l3-manuskript-und-wortschatz-englisch.pdf",
+      "file": "DW Deutsch lernen/A1/07/03_Lesson_03/Materials/Script and vocabulary (English).pdf"
+    },
+    {
+      "unit": 6,
+      "lesson": 4,
+      "url": "https://static.dw.com/downloads/52719966/nicos-weg-a1-e6-l4-manuskript-und-wortschatz-englisch.pdf",
+      "file": "DW Deutsch lernen/A1/07/04_Lesson_04/Materials/Script and vocabulary (English).pdf"
+    },
+    {
+      "unit": 7,
+      "lesson": 1,
+      "url": "https://static.dw.com/downloads/52719975/nicos-weg-a1-e7-l1-manuskript-und-wortschatz-englisch.pdf",
+      "file": "DW Deutsch lernen/A1/08/01_Lesson_01/Materials/Script and vocabulary (English).pdf"
+    },
+    {
+      "unit": 7,
+      "lesson": 2,
+      "url": "https://static.dw.com/downloads/52719984/nicos-weg-a1-e7-l2-manuskript-und-wortschatz-englisch.pdf",
+      "file": "DW Deutsch lernen/A1/08/02_Lesson_02/Materials/Script and vocabulary (English).pdf"
+    },
+    {
+      "unit": 7,
+      "lesson": 3,
+      "url": "https://static.dw.com/downloads/52719997/nicos-weg-a1-e7-l3-manuskript-und-wortschatz-englisch.pdf",
+      "file": "DW Deutsch lernen/A1/08/03_Lesson_03/Materials/Script and vocabulary (English).pdf"
+    },
+    {
+      "unit": 7,
+      "lesson": 4,
+      "url": "https://static.dw.com/downloads/52720025/nicos-weg-a1-e7-l4-manuskript-und-wortschatz-englisch.pdf",
+      "file": "DW Deutsch lernen/A1/08/04_Lesson_04/Materials/Script and vocabulary (English).pdf"
+    },
+    {
+      "unit": 8,
+      "lesson": 1,
+      "url": "https://static.dw.com/downloads/52720041/nicos-weg-a1-e8-l1-manuskript-und-wortschatz-englisch.pdf",
+      "file": "DW Deutsch lernen/A1/09/01_Lesson_01/Materials/Script and vocabulary (English).pdf"
+    },
+    {
+      "unit": 8,
+      "lesson": 2,
+      "url": "https://static.dw.com/downloads/52720053/nicos-weg-a1-e8-l2-manuskript-und-wortschatz-englisch.pdf",
+      "file": "DW Deutsch lernen/A1/09/02_Lesson_02/Materials/Script and vocabulary (English).pdf"
+    },
+    {
+      "unit": 8,
+      "lesson": 3,
+      "url": "https://static.dw.com/downloads/52720062/nicos-weg-a1-e8-l3-manuskript-und-wortschatz-englisch.pdf",
+      "file": "DW Deutsch lernen/A1/09/03_Lesson_03/Materials/Script and vocabulary (English).pdf"
+    },
+    {
+      "unit": 8,
+      "lesson": 4,
+      "url": "https://static.dw.com/downloads/52720064/nicos-weg-a1-e8-l4-manuskript-und-wortschatz-englisch.pdf",
+      "file": "DW Deutsch lernen/A1/09/04_Lesson_04/Materials/Script and vocabulary (English).pdf"
+    },
+    {
+      "unit": 9,
+      "lesson": 1,
+      "url": "https://static.dw.com/downloads/52720077/nicos-weg-a1-e9-l1-manuskript-und-wortschatz-englisch.pdf",
+      "file": "DW Deutsch lernen/A1/10/01_Lesson_01/Materials/Script and vocabulary (English).pdf"
+    },
+    {
+      "unit": 9,
+      "lesson": 2,
+      "url": "https://static.dw.com/downloads/52720088/nicos-weg-a1-e9-l2-manuskript-und-wortschatz-englisch.pdf",
+      "file": "DW Deutsch lernen/A1/10/02_Lesson_02/Materials/Script and vocabulary (English).pdf"
+    },
+    {
+      "unit": 9,
+      "lesson": 3,
+      "url": "https://static.dw.com/downloads/52720090/nicos-weg-a1-e9-l3-manuskript-und-wortschatz-englisch.pdf",
+      "file": "DW Deutsch lernen/A1/10/03_Lesson_03/Materials/Script and vocabulary (English).pdf"
+    },
+    {
+      "unit": 9,
+      "lesson": 4,
+      "url": "https://static.dw.com/downloads/52720100/nicos-weg-a1-e9-l4-manuskript-und-wortschatz-englisch.pdf",
+      "file": "DW Deutsch lernen/A1/10/04_Lesson_04/Materials/Script and vocabulary (English).pdf"
+    },
+    {
+      "unit": 10,
+      "lesson": 1,
+      "url": "https://static.dw.com/downloads/52720113/nicos-weg-a1-e10-l1-manuskript-und-wortschatz-englisch.pdf",
+      "file": "DW Deutsch lernen/A1/11/01_Lesson_01/Materials/Script and vocabulary (English).pdf"
+    },
+    {
+      "unit": 10,
+      "lesson": 2,
+      "url": "https://static.dw.com/downloads/52720133/nicos-weg-a1-e10-l2-manuskript-und-wortschatz-englisch.pdf",
+      "file": "DW Deutsch lernen/A1/11/02_Lesson_02/Materials/Script and vocabulary (English).pdf"
+    },
+    {
+      "unit": 10,
+      "lesson": 3,
+      "url": "https://static.dw.com/downloads/52720248/nicos-weg-a1-e10-l3-manuskript-und-wortschatz-englisch.pdf",
+      "file": "DW Deutsch lernen/A1/11/03_Lesson_03/Materials/Script and vocabulary (English).pdf"
+    },
+    {
+      "unit": 10,
+      "lesson": 4,
+      "url": "https://static.dw.com/downloads/52720300/nicos-weg-a1-e10-l4-manuskript-und-wortschatz-englisch.pdf",
+      "file": "DW Deutsch lernen/A1/11/04_Lesson_04/Materials/Script and vocabulary (English).pdf"
+    },
+    {
+      "unit": 11,
+      "lesson": 1,
+      "url": "https://static.dw.com/downloads/52720309/nicos-weg-a1-e11-l1-manuskript-und-wortschatz-englisch.pdf",
+      "file": "DW Deutsch lernen/A1/12/01_Lesson_01/Materials/Script and vocabulary (English).pdf"
+    },
+    {
+      "unit": 11,
+      "lesson": 2,
+      "url": "https://static.dw.com/downloads/52720325/nicos-weg-a1-e11-l2-manuskript-und-wortschatz-englisch.pdf",
+      "file": "DW Deutsch lernen/A1/12/02_Lesson_02/Materials/Script and vocabulary (English).pdf"
+    },
+    {
+      "unit": 11,
+      "lesson": 3,
+      "url": "https://static.dw.com/downloads/52720347/nicos-weg-a1-e11-l3-manuskript-und-wortschatz-englisch.pdf",
+      "file": "DW Deutsch lernen/A1/12/03_Lesson_03/Materials/Script and vocabulary (English).pdf"
+    },
+    {
+      "unit": 11,
+      "lesson": 4,
+      "url": "https://static.dw.com/downloads/52720386/nicos-weg-a1-e11-l4-manuskript-und-wortschatz-englisch.pdf",
+      "file": "DW Deutsch lernen/A1/12/04_Lesson_04/Materials/Script and vocabulary (English).pdf"
+    },
+    {
+      "unit": 12,
+      "lesson": 1,
+      "url": "https://static.dw.com/downloads/52720402/nicos-weg-a1-e12-l1-manuskript-und-wortschatz-englisch.pdf",
+      "file": "DW Deutsch lernen/A1/13/01_Lesson_01/Materials/Script and vocabulary (English).pdf"
+    },
+    {
+      "unit": 12,
+      "lesson": 2,
+      "url": "https://static.dw.com/downloads/52720419/nicos-weg-a1-e12-l2-manuskript-und-wortschatz-englisch.pdf",
+      "file": "DW Deutsch lernen/A1/13/02_Lesson_02/Materials/Script and vocabulary (English).pdf"
+    },
+    {
+      "unit": 12,
+      "lesson": 3,
+      "url": "https://static.dw.com/downloads/52720423/nicos-weg-a1-e12-l3-manuskript-und-wortschatz-englisch.pdf",
+      "file": "DW Deutsch lernen/A1/13/03_Lesson_03/Materials/Script and vocabulary (English).pdf"
+    },
+    {
+      "unit": 12,
+      "lesson": 4,
+      "url": "https://static.dw.com/downloads/52720430/nicos-weg-a1-e12-l4-manuskript-und-wortschatz-englisch.pdf",
+      "file": "DW Deutsch lernen/A1/13/04_Lesson_04/Materials/Script and vocabulary (English).pdf"
+    },
+    {
+      "unit": 13,
+      "lesson": 1,
+      "url": "https://static.dw.com/downloads/52720463/nicos-weg-a1-e13-l1-manuskript-und-wortschatz-englisch.pdf",
+      "file": "DW Deutsch lernen/A1/14/01_Lesson_01/Materials/Script and vocabulary (English).pdf"
+    },
+    {
+      "unit": 13,
+      "lesson": 2,
+      "url": "https://static.dw.com/downloads/52720480/nicos-weg-a1-e13-l2-manuskript-und-wortschatz-englisch.pdf",
+      "file": "DW Deutsch lernen/A1/14/02_Lesson_02/Materials/Script and vocabulary (English).pdf"
+    },
+    {
+      "unit": 13,
+      "lesson": 3,
+      "url": "https://static.dw.com/downloads/52720497/nicos-weg-a1-e13-l3-manuskript-und-wortschatz-englisch.pdf",
+      "file": "DW Deutsch lernen/A1/14/03_Lesson_03/Materials/Script and vocabulary (English).pdf"
+    },
+    {
+      "unit": 13,
+      "lesson": 4,
+      "url": "https://static.dw.com/downloads/52720999/nicos-weg-a1-e13-l4-manuskript-und-wortschatz-englisch.pdf",
+      "file": "DW Deutsch lernen/A1/14/04_Lesson_04/Materials/Script and vocabulary (English).pdf"
+    },
+    {
+      "unit": 14,
+      "lesson": 1,
+      "url": "https://static.dw.com/downloads/52721057/nicos-weg-a1-e14-l1-manuskript-und-wortschatz-englisch.pdf",
+      "file": "DW Deutsch lernen/A1/15/01_Lesson_01/Materials/Script and vocabulary (English).pdf"
+    },
+    {
+      "unit": 14,
+      "lesson": 2,
+      "url": "https://static.dw.com/downloads/52721069/nicos-weg-a1-e14-l2-manuskript-und-wortschatz-englisch.pdf",
+      "file": "DW Deutsch lernen/A1/15/02_Lesson_02/Materials/Script and vocabulary (English).pdf"
+    },
+    {
+      "unit": 14,
+      "lesson": 3,
+      "url": "https://static.dw.com/downloads/52721161/nicos-weg-a1-e14-l3-manuskript-und-wortschatz-englisch.pdf",
+      "file": "DW Deutsch lernen/A1/15/03_Lesson_03/Materials/Script and vocabulary (English).pdf"
+    },
+    {
+      "unit": 14,
+      "lesson": 4,
+      "url": "https://static.dw.com/downloads/52721202/nicos-weg-a1-e14-l4-manuskript-und-wortschatz-englisch.pdf",
+      "file": "DW Deutsch lernen/A1/15/04_Lesson_04/Materials/Script and vocabulary (English).pdf"
+    },
+    {
+      "unit": 15,
+      "lesson": 1,
+      "url": "https://static.dw.com/downloads/52721211/nicos-weg-a1-e15-l1-manuskript-und-wortschatz-englisch.pdf",
+      "file": "DW Deutsch lernen/A1/16/01_Lesson_01/Materials/Script and vocabulary (English).pdf"
+    },
+    {
+      "unit": 15,
+      "lesson": 2,
+      "url": "https://static.dw.com/downloads/52721231/nicos-weg-a1-e15-l2-manuskript-und-wortschatz-englisch.pdf",
+      "file": "DW Deutsch lernen/A1/16/02_Lesson_02/Materials/Script and vocabulary (English).pdf"
+    },
+    {
+      "unit": 15,
+      "lesson": 3,
+      "url": "https://static.dw.com/downloads/52721246/nicos-weg-a1-e15-l3-manuskript-und-wortschatz-englisch.pdf",
+      "file": "DW Deutsch lernen/A1/16/03_Lesson_03/Materials/Script and vocabulary (English).pdf"
+    },
+    {
+      "unit": 15,
+      "lesson": 4,
+      "url": "https://static.dw.com/downloads/52721250/nicos-weg-a1-e15-l4-manuskript-und-wortschatz-englisch.pdf",
+      "file": "DW Deutsch lernen/A1/16/04_Lesson_04/Materials/Script and vocabulary (English).pdf"
+    },
+    {
+      "unit": 16,
+      "lesson": 1,
+      "url": "https://static.dw.com/downloads/52721261/nicos-weg-a1-e16-l1-manuskript-und-wortschatz-englisch.pdf",
+      "file": "DW Deutsch lernen/A1/17/01_Lesson_01/Materials/Script and vocabulary (English).pdf"
+    },
+    {
+      "unit": 16,
+      "lesson": 2,
+      "url": "https://static.dw.com/downloads/52721282/nicos-weg-a1-e16-l2-manuskript-und-wortschatz-englisch.pdf",
+      "file": "DW Deutsch lernen/A1/17/02_Lesson_02/Materials/Script and vocabulary (English).pdf"
+    },
+    {
+      "unit": 16,
+      "lesson": 3,
+      "url": "https://static.dw.com/downloads/52721376/nicos-weg-a1-e16-l3-manuskript-und-wortschatz-englisch.pdf",
+      "file": "DW Deutsch lernen/A1/17/03_Lesson_03/Materials/Script and vocabulary (English).pdf"
+    },
+    {
+      "unit": 16,
+      "lesson": 4,
+      "url": "https://static.dw.com/downloads/52721397/nicos-weg-a1-e16-l4-manuskript-und-wortschatz-englisch.pdf",
+      "file": "DW Deutsch lernen/A1/17/04_Lesson_04/Materials/Script and vocabulary (English).pdf"
+    },
+    {
+      "unit": 17,
+      "lesson": 1,
+      "url": "https://static.dw.com/downloads/52721400/nicos-weg-a1-e17-l1-manuskript-und-wortschatz-englisch.pdf",
+      "file": "DW Deutsch lernen/A1/18/01_Lesson_01/Materials/Script and vocabulary (English).pdf"
+    },
+    {
+      "unit": 17,
+      "lesson": 2,
+      "url": "https://static.dw.com/downloads/52721478/nicos-weg-a1-e17-l2-manuskript-und-wortschatz-englisch.pdf",
+      "file": "DW Deutsch lernen/A1/18/02_Lesson_02/Materials/Script and vocabulary (English).pdf"
+    },
+    {
+      "unit": 17,
+      "lesson": 3,
+      "url": "https://static.dw.com/downloads/52721488/nicos-weg-a1-e17-l3-manuskript-und-wortschatz-englisch.pdf",
+      "file": "DW Deutsch lernen/A1/18/03_Lesson_03/Materials/Script and vocabulary (English).pdf"
+    },
+    {
+      "unit": 17,
+      "lesson": 4,
+      "url": "https://static.dw.com/downloads/52721497/nicos-weg-a1-e17-l4-manuskript-und-wortschatz-englisch.pdf",
+      "file": "DW Deutsch lernen/A1/18/04_Lesson_04/Materials/Script and vocabulary (English).pdf"
+    },
+    {
+      "unit": 18,
+      "lesson": 1,
+      "url": "https://static.dw.com/downloads/52721499/nicos-weg-a1-e18-l1-manuskript-und-wortschatz-englisch.pdf",
+      "file": "DW Deutsch lernen/A1/19/01_Lesson_01/Materials/Script and vocabulary (English).pdf"
+    },
+    {
+      "unit": 18,
+      "lesson": 2,
+      "url": "https://static.dw.com/downloads/52721505/nicos-weg-a1-e18-l2-manuskript-und-wortschatz-englisch.pdf",
+      "file": "DW Deutsch lernen/A1/19/02_Lesson_02/Materials/Script and vocabulary (English).pdf"
+    },
+    {
+      "unit": 18,
+      "lesson": 3,
+      "url": "https://static.dw.com/downloads/52721519/nicos-weg-a1-e18-l3-manuskript-und-wortschatz-englisch.pdf",
+      "file": "DW Deutsch lernen/A1/19/03_Lesson_03/Materials/Script and vocabulary (English).pdf"
+    },
+    {
+      "unit": 18,
+      "lesson": 4,
+      "url": "https://static.dw.com/downloads/52721527/nicos-weg-a1-e18-l4-manuskript-und-wortschatz-englisch.pdf",
+      "file": "DW Deutsch lernen/A1/19/04_Lesson_04/Materials/Script and vocabulary (English).pdf"
+    }
+  ]
+}
