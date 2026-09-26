@@ -1,0 +1,1058 @@
+{
+ "description": "Dictionary evidence for the grammar book. 'verbs' is written by docs/tools/check_grammar_book.py fetch; 'evidence' records one-off checks.",
+ "verbs": {
+  "arbeiten": {
+   "url": "https://de.wiktionary.org/wiki/Flexion:arbeiten",
+   "fetchedOn": "2026-09-26",
+   "praesens": {
+    "1s": [
+     "arbeite"
+    ],
+    "2s": [
+     "arbeitest"
+    ],
+    "3s": [
+     "arbeitet"
+    ],
+    "1p": [
+     "arbeiten"
+    ],
+    "2p": [
+     "arbeitet"
+    ],
+    "3p": [
+     "arbeiten"
+    ]
+   }
+  },
+  "haben": {
+   "url": "https://de.wiktionary.org/wiki/Flexion:haben",
+   "fetchedOn": "2026-09-26",
+   "praesens": {
+    "1s": [
+     "habe"
+    ],
+    "2s": [
+     "hast"
+    ],
+    "3s": [
+     "hat"
+    ],
+    "1p": [
+     "haben"
+    ],
+    "2p": [
+     "habt"
+    ],
+    "3p": [
+     "haben"
+    ]
+   }
+  },
+  "heißen": {
+   "url": "https://de.wiktionary.org/wiki/Flexion:heißen",
+   "fetchedOn": "2026-09-26",
+   "praesens": {
+    "1s": [
+     "heiße"
+    ],
+    "2s": [
+     "heißt"
+    ],
+    "3s": [
+     "heißt"
+    ],
+    "1p": [
+     "heißen"
+    ],
+    "2p": [
+     "heißt"
+    ],
+    "3p": [
+     "heißen"
+    ]
+   }
+  },
+  "helfen": {
+   "url": "https://de.wiktionary.org/wiki/Flexion:helfen",
+   "fetchedOn": "2026-09-26",
+   "praesens": {
+    "1s": [
+     "helfe"
+    ],
+    "2s": [
+     "hilfst"
+    ],
+    "3s": [
+     "hilft"
+    ],
+    "1p": [
+     "helfen"
+    ],
+    "2p": [
+     "helft"
+    ],
+    "3p": [
+     "helfen"
+    ]
+   }
+  },
+  "kommen": {
+   "url": "https://de.wiktionary.org/wiki/Flexion:kommen",
+   "fetchedOn": "2026-09-26",
+   "praesens": {
+    "1s": [
+     "komme"
+    ],
+    "2s": [
+     "kommst"
+    ],
+    "3s": [
+     "kommt"
+    ],
+    "1p": [
+     "kommen"
+    ],
+    "2p": [
+     "kommt"
+    ],
+    "3p": [
+     "kommen"
+    ]
+   }
+  },
+  "sein": {
+   "url": "https://de.wiktionary.org/wiki/Flexion:sein",
+   "fetchedOn": "2026-09-26",
+   "praesens": {
+    "1s": [
+     "bin"
+    ],
+    "2s": [
+     "bist"
+    ],
+    "3s": [
+     "ist"
+    ],
+    "1p": [
+     "sind"
+    ],
+    "2p": [
+     "seid"
+    ],
+    "3p": [
+     "sind"
+    ]
+   }
+  },
+  "sprechen": {
+   "url": "https://de.wiktionary.org/wiki/Flexion:sprechen",
+   "fetchedOn": "2026-09-26",
+   "praesens": {
+    "1s": [
+     "spreche"
+    ],
+    "2s": [
+     "sprichst"
+    ],
+    "3s": [
+     "spricht"
+    ],
+    "1p": [
+     "sprechen"
+    ],
+    "2p": [
+     "sprecht"
+    ],
+    "3p": [
+     "sprechen"
+    ]
+   }
+  },
+  "wohnen": {
+   "url": "https://de.wiktionary.org/wiki/Flexion:wohnen",
+   "fetchedOn": "2026-09-26",
+   "praesens": {
+    "1s": [
+     "wohn",
+     "wohne"
+    ],
+    "2s": [
+     "wohnst"
+    ],
+    "3s": [
+     "wohnt"
+    ],
+    "1p": [
+     "wohnen"
+    ],
+    "2p": [
+     "wohnt"
+    ],
+    "3p": [
+     "wohnen"
+    ]
+   }
+  }
+ },
+ "evidence": {
+  "fetchedOn": "2026-09-26",
+  "dwRulePages": [
+   {
+    "id": "gr-38307006",
+    "url": "https://learngerman.dw.com/en/numbers-from-11-to-19/l-37265621/gr-38307006",
+    "title": "Numbers from 11 to 19",
+    "texts": [
+     "Numbers from 11 to 19",
+     "The numbers 11 and 12 are irregular.\nFrom 13, the formation of the numbers is mostly regular. In German, the order of numbers is opposite to that in English. First comes the single digit (e.g. drei, vier, fünf...) and then the ten (zehn):\nnull DW\nThe numbers 16 and 17 are slightly irregular. The single digits (sechs, sieben) lose their endings.\n11\nelf\n12\nzwölf\n13\ndrei + zehn\ndreizehn\n14\nvier + zehn\nvierzehn\n15\nfünf + zehn\nfünfzehn\n16\nsechs + zehn\nsechzehn\n17\nsieben + zehn\nsiebzehn\n18\nacht + zehn\nachtzehn\n19\nneun + zehn\nneunzehn"
+    ],
+    "lesson": "dw-a1-e2-l1"
+   },
+   {
+    "id": "gr-38307981",
+    "url": "https://learngerman.dw.com/en/numbers-from-20-to-100/l-37265621/gr-38307981",
+    "title": "Numbers from 20 to 100",
+    "texts": [
+     "Numbers from 20 to 100",
+     "With numbers over 20, the single digit comes first, and then the multiple of ten. There are two special features to note:\nThe number eins loses the -s when it is combined with a ten.\nThere is an und between the single digit and the multiple of ten.\nnull DW\n21\neinundzwanzig\n22\nzweiundzwanzig\n23\ndreiundzwanzig\n24\nvierundzwanzig\n25\nfünfundzwanzig\n26\nsechsundzwanzig\n27\nsiebenundzwanzig\n28\nachtundzwanzig\n29\nneunundzwanzig\n30\ndreißig\nThe full multiple of ten is usually formed from the single digit + -zig. But there are some exceptions: 10, 20, 30, 60 and 70 have an irregular form.\n10\nzehn\n20\nzwanzig\n30\ndreißig\n40\nvierzig\n50\nfünfzig\n60\nsechzig\n70\nsiebzig\n80\nachtzig\n90\nneunzig\n100\neinhundert (short form: hundert)\nYou can form all the numbers from 21 to 99 from the following elements:\n(1) ein-\n(2) zwei-\n(3) drei-\n(4) vier-\n(5) fünf-\n(6) sechs-\n(7) sieben-\n(8) acht-\n(9) neun-\nund\n-zwanzig (20)\n-dreißig (30)\n-vierzig (40)\n-fünfzig (50)\n-sechzig (60)\n-siebzig (70)\n-achtzig (80)\n-neunzig (90)"
+    ],
+    "lesson": "dw-a1-e2-l1"
+   },
+   {
+    "id": "gr-38306976",
+    "url": "https://learngerman.dw.com/en/w-questions/l-37269671/gr-38306976",
+    "title": "W-questions",
+    "texts": [
+     "W-questions",
+     "W-questions are used when asking someone about an unknown fact. These questions cannot be answered with a simple \"yes\" or \"no\". They usually begin with the letter W, e.g.:\nWoher …?\nWo …?\nWie …?\nQuestion word\nConjugated verb\nSubject\nWie\nheißt\ndu?\nWie\nheißen\nSie?\nWoher\nkommst\ndu?\nWoher\nkommen\nSie?\nWo\nwohnst\ndu?\nWo\nwohnen\nSie?\nGrammatical terms in German:\ndie W-Frage: W-questions are open questions that cannot be answered with \"yes\" or \"no\". They are also called Ergänzungsfragen. At the beginning of a W-question there is a question word that usually begins with the letter W."
+    ],
+    "lesson": "dw-a1-e2-l3"
+   },
+   {
+    "id": "gr-38307071",
+    "url": "https://learngerman.dw.com/en/prepositions-of-place-aus/l-37269671/gr-38307071",
+    "title": "Prepositions of place: aus ",
+    "texts": [
+     "Prepositions of place: aus",
+     "Woher kommst du? – Ich komme aus …\nThere are various ways to answer the question: Where do you come from? You usually state your home country or town. The preposition aus comes before the country or town.:\nIch komme aus Spanien. (home country)\nIch komme aus Sevilla. (home town)\nWhen you are saying which town you come from, you say:\nIch komme aus + name of the town.\nIt is slightly more complicated with the names of countries. Usually you say:\nIch komme aus + name of the country.\nBut there are some exceptions. When the name of the country is masculine, feminine, or plural you usually need to use the article.\nYou do not need to know all the exceptions, but perhaps your home country is one of the following:\nIch komme …\naus dem Irak.*\naus dem Iran.*\naus dem Jemen.\naus dem Kongo.\naus dem Kosovo.\naus dem Libanon.\naus dem Niger.\naus dem Oman.\naus dem Senegal.\naus dem Sudan.\naus dem Tschad.\n*Masculine country names are sometimes also used without the article, particularly Irak and Iran.\nIch komme …\naus der Demokratischen Republik Kongo.\naus der Dominikanischen Republik.\naus der Elfenbeinküste.\naus der Mongolei.\naus der Schweiz.\naus der Slowakei.\naus der Türkei.\naus der Ukraine.\naus der Zentralafrikanischen Republik.\nIch komme …\naus den Bahamas.*\naus den Kapverdischen Inseln.*\naus den Komoren.*\naus den Malediven.*\naus den Niederlanden.\naus den Philippinen.*\naus den Salomonen.*\naus den Seychellen.*\naus den USA/aus den Vereinigten Staaten.\naus den Vereinigten Arabischen Emiraten.\n*If you come from a group of islands you can also say:\nIch komme von den Bahamas / den Kapverdischen Inseln / den Komoren / den Malediven / den Philippinen / den Salomonen / den Seychellen.\nGrammatical terms in German:\ndie Präposition: Prepositions are usually short words that connect words or groups of words together. They describe the relationship between people or things."
+    ],
+    "lesson": "dw-a1-e2-l3"
+   },
+   {
+    "id": "gr-38309222",
+    "url": "https://learngerman.dw.com/en/prepositions-of-place-in-an/l-37269671/gr-38309222",
+    "title": "Prepositions of place: in, an",
+    "texts": [
+     "Prepositions of place: in, an",
+     "Wo wohnst du? – Ich wohne in …\nIf somebody asks you where you live you can, for example, say the name of the town or street. The preposition in comes before the town or street name:\nIch wohne in Berlin.\nIch wohne in der Adalbert-Stifter-Straße.\nWhen you are saying what town you live in you say:\nIch wohne in + name of the town.\nWith street names you usually say:\nIch wohne in der + name of the street.\nSome street names do not end with the word -straße. Then you need to pay attention to the end of the name.\nIch wohne in der Adalbert-Stifter-Straße.\nIch wohne in der Adalbert-Stifter-Gasse.\nIch wohne in der Adalbert-Stifter-Allee.\nIch wohne im Adalbert-Stifter-Weg.\nIch wohne am Adalbert-Stifter-Platz."
+    ],
+    "lesson": "dw-a1-e2-l3"
+   },
+   {
+    "id": "gr-38306265",
+    "url": "https://learngerman.dw.com/en/questions-and-statements/l-37337877/gr-38306265",
+    "title": "Questions and statements",
+    "texts": [
+     "Questions and statements",
+     "Woher kommst du? – Ich komme aus Spanien.\nKommst du aus Italien? – Nein, ich komme aus Spanien.\nW-questions\nW-questions are asked when specific information is requested. These questions cannot be answered with a simple \"yes\" or \"no\". The W-questions are so-called because the first word in the question usually begins with the letter W, e.g., Woher …? Wo …? Wie …? This is followed by the conjugated verb and the subject.\nnull DW\nStatements\nIn a simple statement, the conjugated verb is always in second position. The subject is often in first position.\nnull DW\nYes-no questions\nThese are so-called because they can be answered with a simple \"yes\" or \"no\". Here the conjugated verb comes first. It is followed by the subject.\nnull DW\nThis means that a yes-no question can be formed by switching the positions of the subject and the conjugated verb in a statement.\nnull DW\nnull DW\nGrammatical terms in German:\ndas Subjekt: The subject is the person or thing that is active or central in the sentence. The subject is also known as \"der Satzgegenstand\". It is usually a noun or pronoun.\ndie W-Frage: W-questions are open questions that cannot be answered with \"yes\" or \"no\". At the beginning of a W-question, there is a question word that usually begins with the letter W.\nder Aussagesatz: In a statement, a fact is declared. The statement may give information or describe a situation.\ndie Satzfrage: This is a question that can be answered with \"yes\" or \"no\"."
+    ],
+    "lesson": "dw-a1-e4-l2"
+   }
+  ],
+  "numbers": {
+   "null": {
+    "url": "https://de.wiktionary.org/w/index.php?title=null",
+    "numerale": true
+   },
+   "eins": {
+    "url": "https://de.wiktionary.org/w/index.php?title=eins",
+    "numerale": true
+   },
+   "zwei": {
+    "url": "https://de.wiktionary.org/w/index.php?title=zwei",
+    "numerale": true
+   },
+   "drei": {
+    "url": "https://de.wiktionary.org/w/index.php?title=drei",
+    "numerale": true
+   },
+   "vier": {
+    "url": "https://de.wiktionary.org/w/index.php?title=vier",
+    "numerale": true
+   },
+   "fünf": {
+    "url": "https://de.wiktionary.org/w/index.php?title=f%C3%BCnf",
+    "numerale": true
+   },
+   "sechs": {
+    "url": "https://de.wiktionary.org/w/index.php?title=sechs",
+    "numerale": true
+   },
+   "sieben": {
+    "url": "https://de.wiktionary.org/w/index.php?title=sieben",
+    "numerale": true
+   },
+   "acht": {
+    "url": "https://de.wiktionary.org/w/index.php?title=acht",
+    "numerale": true
+   },
+   "neun": {
+    "url": "https://de.wiktionary.org/w/index.php?title=neun",
+    "numerale": true
+   },
+   "zehn": {
+    "url": "https://de.wiktionary.org/w/index.php?title=zehn",
+    "numerale": true
+   },
+   "elf": {
+    "url": "https://de.wiktionary.org/w/index.php?title=elf",
+    "numerale": true
+   },
+   "zwölf": {
+    "url": "https://de.wiktionary.org/w/index.php?title=zw%C3%B6lf",
+    "numerale": true
+   },
+   "dreizehn": {
+    "url": "https://de.wiktionary.org/w/index.php?title=dreizehn",
+    "numerale": true
+   },
+   "vierzehn": {
+    "url": "https://de.wiktionary.org/w/index.php?title=vierzehn",
+    "numerale": true
+   },
+   "fünfzehn": {
+    "url": "https://de.wiktionary.org/w/index.php?title=f%C3%BCnfzehn",
+    "numerale": true
+   },
+   "sechzehn": {
+    "url": "https://de.wiktionary.org/w/index.php?title=sechzehn",
+    "numerale": true
+   },
+   "siebzehn": {
+    "url": "https://de.wiktionary.org/w/index.php?title=siebzehn",
+    "numerale": true
+   },
+   "achtzehn": {
+    "url": "https://de.wiktionary.org/w/index.php?title=achtzehn",
+    "numerale": true
+   },
+   "neunzehn": {
+    "url": "https://de.wiktionary.org/w/index.php?title=neunzehn",
+    "numerale": true
+   },
+   "zwanzig": {
+    "url": "https://de.wiktionary.org/w/index.php?title=zwanzig",
+    "numerale": true
+   },
+   "einundzwanzig": {
+    "url": "https://de.wiktionary.org/w/index.php?title=einundzwanzig",
+    "numerale": true
+   },
+   "zweiundzwanzig": {
+    "url": "https://de.wiktionary.org/w/index.php?title=zweiundzwanzig",
+    "numerale": true
+   },
+   "dreißig": {
+    "url": "https://de.wiktionary.org/w/index.php?title=drei%C3%9Fig",
+    "numerale": true
+   },
+   "vierzig": {
+    "url": "https://de.wiktionary.org/w/index.php?title=vierzig",
+    "numerale": true
+   },
+   "fünfzig": {
+    "url": "https://de.wiktionary.org/w/index.php?title=f%C3%BCnfzig",
+    "numerale": true
+   },
+   "sechzig": {
+    "url": "https://de.wiktionary.org/w/index.php?title=sechzig",
+    "numerale": true
+   },
+   "siebzig": {
+    "url": "https://de.wiktionary.org/w/index.php?title=siebzig",
+    "numerale": true
+   },
+   "achtzig": {
+    "url": "https://de.wiktionary.org/w/index.php?title=achtzig",
+    "numerale": true
+   },
+   "neunzig": {
+    "url": "https://de.wiktionary.org/w/index.php?title=neunzig",
+    "numerale": true
+   },
+   "hundert": {
+    "url": "https://de.wiktionary.org/w/index.php?title=hundert",
+    "numerale": true
+   },
+   "einhundert": {
+    "url": "https://de.wiktionary.org/w/index.php?title=einhundert",
+    "numerale": true
+   }
+  },
+  "declension": {
+   "mein": {
+    "url": "https://de.wiktionary.org/wiki/mein",
+    "rows": [
+     [
+      "Nominativ",
+      "—",
+      "mein",
+      "—",
+      "meine",
+      "—",
+      "mein",
+      "—",
+      "meine"
+     ],
+     [
+      "Genitiv",
+      "—",
+      "meines",
+      "—",
+      "meiner",
+      "—",
+      "meines",
+      "—",
+      "meiner"
+     ],
+     [
+      "Dativ",
+      "—",
+      "meinem",
+      "—",
+      "meiner",
+      "—",
+      "meinem",
+      "—",
+      "meinen"
+     ],
+     [
+      "Akkusativ",
+      "—",
+      "meinen",
+      "—",
+      "meine",
+      "—",
+      "mein",
+      "—",
+      "meine"
+     ]
+    ]
+   },
+   "dein": {
+    "url": "https://de.wiktionary.org/wiki/dein",
+    "rows": [
+     [
+      "Nominativ",
+      "—",
+      "dein",
+      "—",
+      "deine",
+      "—",
+      "dein",
+      "—",
+      "deine"
+     ],
+     [
+      "Genitiv",
+      "—",
+      "deines",
+      "—",
+      "deiner",
+      "—",
+      "deines",
+      "—",
+      "deiner"
+     ],
+     [
+      "Dativ",
+      "—",
+      "deinem",
+      "—",
+      "deiner",
+      "—",
+      "deinem",
+      "—",
+      "deinen"
+     ],
+     [
+      "Akkusativ",
+      "—",
+      "deinen",
+      "—",
+      "deine",
+      "—",
+      "dein",
+      "—",
+      "deine"
+     ]
+    ]
+   },
+   "Ihr": {
+    "url": "https://de.wiktionary.org/wiki/Ihr",
+    "rows": [
+     [
+      "Nominativ",
+      "Ihr",
+      "Ihre",
+      "Ihr",
+      "Ihre"
+     ],
+     [
+      "Genitiv",
+      "Ihres",
+      "Ihrer",
+      "Ihres",
+      "Ihrer"
+     ],
+     [
+      "Dativ",
+      "Ihrem",
+      "Ihrer",
+      "Ihrem",
+      "Ihren"
+     ],
+     [
+      "Akkusativ",
+      "Ihren",
+      "Ihre",
+      "Ihr",
+      "Ihre"
+     ]
+    ]
+   },
+   "sein": {
+    "url": "https://de.wiktionary.org/wiki/sein",
+    "rows": [
+     [
+      "Nominativ",
+      "—",
+      "sein",
+      "—",
+      "seine",
+      "—",
+      "sein",
+      "—",
+      "seine"
+     ],
+     [
+      "Genitiv",
+      "—",
+      "seines",
+      "—",
+      "seiner",
+      "—",
+      "seines",
+      "—",
+      "seiner"
+     ],
+     [
+      "Dativ",
+      "—",
+      "seinem",
+      "—",
+      "seiner",
+      "—",
+      "seinem",
+      "—",
+      "seinen"
+     ],
+     [
+      "Akkusativ",
+      "—",
+      "seinen",
+      "—",
+      "seine",
+      "—",
+      "sein",
+      "—",
+      "seine"
+     ]
+    ]
+   },
+   "ihr": {
+    "url": "https://de.wiktionary.org/wiki/ihr",
+    "rows": [
+     [
+      "Nominativ",
+      "ihr",
+      "ihre",
+      "ihr",
+      "ihre"
+     ],
+     [
+      "Genitiv",
+      "ihres",
+      "ihrer",
+      "ihres",
+      "ihrer"
+     ],
+     [
+      "Dativ",
+      "ihrem",
+      "ihrer",
+      "ihrem",
+      "ihren"
+     ],
+     [
+      "Akkusativ",
+      "ihren",
+      "ihre",
+      "ihr",
+      "ihre"
+     ]
+    ]
+   },
+   "unser": {
+    "url": "https://de.wiktionary.org/wiki/unser",
+    "rows": [
+     [
+      "Nominativ",
+      "unser",
+      "unsere unsre",
+      "unser",
+      "unsere unsre"
+     ],
+     [
+      "Genitiv",
+      "unseres unsres",
+      "unserer unsrer",
+      "unseres unsres",
+      "unsrer unserer"
+     ],
+     [
+      "Dativ",
+      "unserem unsrem",
+      "unserer unsrer",
+      "unserem unsrem",
+      "unseren unsren"
+     ],
+     [
+      "Akkusativ",
+      "unseren unsren",
+      "unsere unsre",
+      "unser",
+      "unsere unsre"
+     ]
+    ]
+   },
+   "euer": {
+    "url": "https://de.wiktionary.org/wiki/euer",
+    "rows": [
+     [
+      "Nominativ",
+      "euer",
+      "eure euere",
+      "euer",
+      "eure euere"
+     ],
+     [
+      "Genitiv",
+      "eures eueres",
+      "eurer euerer",
+      "eures eueres",
+      "eurer euerer"
+     ],
+     [
+      "Dativ",
+      "eurem euerem",
+      "eurer euerer",
+      "eurem euerem",
+      "euren eueren"
+     ],
+     [
+      "Akkusativ",
+      "euren eueren",
+      "eure euere",
+      "euer",
+      "eure euere"
+     ]
+    ]
+   },
+   "der": {
+    "url": "https://de.wiktionary.org/wiki/der",
+    "rows": [
+     [
+      "Nominativ",
+      "der",
+      "die",
+      "das",
+      "die"
+     ],
+     [
+      "Genitiv",
+      "des",
+      "der",
+      "des",
+      "der"
+     ],
+     [
+      "Dativ",
+      "dem",
+      "der",
+      "dem",
+      "den"
+     ],
+     [
+      "Akkusativ",
+      "den",
+      "die",
+      "das",
+      "die"
+     ]
+    ]
+   },
+   "ein": {
+    "url": "https://de.wiktionary.org/wiki/ein",
+    "rows": [
+     [
+      "Nominativ",
+      "ein",
+      "eine",
+      "ein",
+      "—"
+     ],
+     [
+      "Genitiv",
+      "eines",
+      "einer",
+      "eines",
+      "—"
+     ],
+     [
+      "Dativ",
+      "einem",
+      "einer",
+      "einem",
+      "—"
+     ],
+     [
+      "Akkusativ",
+      "einen",
+      "eine",
+      "ein",
+      "—"
+     ]
+    ]
+   }
+  },
+  "genus": {
+   "Infinitiv": {
+    "url": "https://de.wiktionary.org/w/index.php?title=Infinitiv",
+    "genus": [
+     "m"
+    ]
+   },
+   "Verbstamm": {
+    "url": "https://de.wiktionary.org/w/index.php?title=Verbstamm",
+    "genus": [
+     "m"
+    ]
+   },
+   "Endung": {
+    "url": "https://de.wiktionary.org/w/index.php?title=Endung",
+    "genus": [
+     "f"
+    ]
+   },
+   "Konjugation": {
+    "url": "https://de.wiktionary.org/w/index.php?title=Konjugation",
+    "genus": [
+     "f"
+    ]
+   },
+   "Präsens": {
+    "url": "https://de.wiktionary.org/w/index.php?title=Pr%C3%A4sens",
+    "genus": [
+     "n"
+    ]
+   },
+   "Verb": {
+    "url": "https://de.wiktionary.org/w/index.php?title=Verb",
+    "genus": [
+     "n"
+    ]
+   },
+   "Personalpronomen": {
+    "url": "https://de.wiktionary.org/w/index.php?title=Personalpronomen",
+    "genus": [
+     "n"
+    ]
+   },
+   "Singular": {
+    "url": "https://de.wiktionary.org/w/index.php?title=Singular",
+    "genus": [
+     "m"
+    ]
+   },
+   "Plural": {
+    "url": "https://de.wiktionary.org/w/index.php?title=Plural",
+    "genus": [
+     "m"
+    ]
+   },
+   "Possessivartikel": {
+    "url": "https://de.wiktionary.org/w/index.php?title=Possessivartikel",
+    "genus": [
+     "m"
+    ]
+   },
+   "Fragewort": {
+    "url": "https://de.wiktionary.org/w/index.php?title=Fragewort",
+    "genus": [
+     "n"
+    ]
+   },
+   "W-Frage": {
+    "url": "https://de.wiktionary.org/w/index.php?title=W-Frage",
+    "genus": [
+     "f"
+    ]
+   },
+   "Ergänzungsfrage": {
+    "url": "https://de.wiktionary.org/w/index.php?title=Erg%C3%A4nzungsfrage",
+    "genus": [
+     "f"
+    ]
+   },
+   "Satzfrage": {
+    "url": "https://de.wiktionary.org/w/index.php?title=Satzfrage",
+    "genus": [
+     "f"
+    ]
+   },
+   "Aussagesatz": {
+    "url": "https://de.wiktionary.org/w/index.php?title=Aussagesatz",
+    "genus": [
+     "m"
+    ]
+   },
+   "Subjekt": {
+    "url": "https://de.wiktionary.org/w/index.php?title=Subjekt",
+    "genus": [
+     "n"
+    ]
+   },
+   "Zahl": {
+    "url": "https://de.wiktionary.org/w/index.php?title=Zahl",
+    "genus": [
+     "f"
+    ]
+   },
+   "Begrüßung": {
+    "url": "https://de.wiktionary.org/w/index.php?title=Begr%C3%BC%C3%9Fung",
+    "genus": [
+     "f"
+    ]
+   },
+   "Verabschiedung": {
+    "url": "https://de.wiktionary.org/w/index.php?title=Verabschiedung",
+    "genus": [
+     "f"
+    ]
+   },
+   "Höflichkeitsform": {
+    "url": "https://de.wiktionary.org/w/index.php?title=H%C3%B6flichkeitsform",
+    "genus": [
+     "f"
+    ]
+   },
+   "Präposition": {
+    "url": "https://de.wiktionary.org/w/index.php?title=Pr%C3%A4position",
+    "genus": [
+     "f"
+    ]
+   },
+   "Bruder": {
+    "url": "https://de.wiktionary.org/w/index.php?title=Bruder",
+    "genus": [
+     "m"
+    ]
+   },
+   "Schwester": {
+    "url": "https://de.wiktionary.org/w/index.php?title=Schwester",
+    "genus": [
+     "f"
+    ]
+   },
+   "Hund": {
+    "url": "https://de.wiktionary.org/w/index.php?title=Hund",
+    "genus": [
+     "m"
+    ]
+   },
+   "Katze": {
+    "url": "https://de.wiktionary.org/w/index.php?title=Katze",
+    "genus": [
+     "f"
+    ]
+   },
+   "Buch": {
+    "url": "https://de.wiktionary.org/w/index.php?title=Buch",
+    "genus": [
+     "n"
+    ]
+   },
+   "Tasche": {
+    "url": "https://de.wiktionary.org/w/index.php?title=Tasche",
+    "genus": [
+     "f"
+    ]
+   },
+   "Vater": {
+    "url": "https://de.wiktionary.org/w/index.php?title=Vater",
+    "genus": [
+     "m"
+    ]
+   },
+   "Mutter": {
+    "url": "https://de.wiktionary.org/w/index.php?title=Mutter",
+    "genus": [
+     "f"
+    ]
+   },
+   "Kind": {
+    "url": "https://de.wiktionary.org/w/index.php?title=Kind",
+    "genus": [
+     "n"
+    ]
+   },
+   "Lehrer": {
+    "url": "https://de.wiktionary.org/w/index.php?title=Lehrer",
+    "genus": [
+     "m"
+    ]
+   },
+   "Lehrerin": {
+    "url": "https://de.wiktionary.org/w/index.php?title=Lehrerin",
+    "genus": [
+     "f"
+    ]
+   },
+   "Haus": {
+    "url": "https://de.wiktionary.org/w/index.php?title=Haus",
+    "genus": [
+     "n"
+    ]
+   },
+   "Name": {
+    "url": "https://de.wiktionary.org/w/index.php?title=Name",
+    "genus": [
+     "m"
+    ]
+   },
+   "Adresse": {
+    "url": "https://de.wiktionary.org/w/index.php?title=Adresse",
+    "genus": [
+     "f"
+    ]
+   }
+  },
+  "labels": {
+   "servus": {
+    "url": "https://en.wiktionary.org/wiki/servus",
+    "definitions": [
+     "# [[hello]], [[hi]]",
+     "# [[goodbye]], [[bye]], [[farewell]]",
+     "# {{lb|de|as a toast}} [[cheers]]"
+    ]
+   },
+   "grüß Gott": {
+    "url": "https://en.wiktionary.org/wiki/gr%C3%BC%C3%9F%20Gott",
+    "definitions": [
+     "# {{lb|de|southern Germany|Austria}} [[hello]]"
+    ]
+   },
+   "grüezi": {
+    "url": "https://en.wiktionary.org/wiki/gr%C3%BCezi",
+    "definitions": [
+     "# {{lb|de|Eastern|_|Switzerland|polite}} [[hello]]"
+    ]
+   },
+   "moin": {
+    "url": "https://en.wiktionary.org/wiki/moin",
+    "definitions": [
+     "# {{lb|de|colloquial|originally|Northern Germany|nautical}} [[hi]]"
+    ]
+   },
+   "moinsen": {
+    "url": "https://en.wiktionary.org/wiki/moinsen",
+    "definitions": [
+     "# {{alt form|from=idiosyncratic|from2=slang|de|moin|t=hi}}"
+    ]
+   },
+   "pfiat di": {
+    "url": "https://en.wiktionary.org/wiki/pfiat%20di",
+    "definitions": [
+     "# {{lb|de|chiefly|Austria|Bavaria|informal}} [[bye]]"
+    ]
+   },
+   "baba": {
+    "url": "https://en.wiktionary.org/wiki/baba",
+    "definitions": [
+     "# {{lb|de|informal|Austria}} [[bye-bye]], [[see you]], [[so long]]",
+     "# {{tlb|de|slang}} [[boss]], [[rad]], [[fly]]"
+    ]
+   },
+   "habe die Ehre": {
+    "url": "https://en.wiktionary.org/wiki/habe%20die%20Ehre",
+    "definitions": [
+     "# {{lb|de|Austria|Bavaria}} {{ngd|a polite greeting}}: [[hello]], [[good day]]",
+     "# {{lb|de|Austria|usually preceded by {{m|de|na}}}} {{ngd|expression of surprise}}: [[wow]], [[man]]"
+    ]
+   },
+   "tschüss": {
+    "url": "https://en.wiktionary.org/wiki/tsch%C3%BCss",
+    "definitions": [
+     "# {{lb|de|informal}} [[bye]], [[cheers]], [[ciao]]"
+    ]
+   },
+   "hallihallo": {
+    "url": "https://en.wiktionary.org/wiki/hallihallo",
+    "definitions": [
+     "# {{lb|de|colloquial}} [[hello]], [[hey hey]], [[hideehi]]"
+    ]
+   },
+   "bis dann": {
+    "url": "https://en.wiktionary.org/wiki/bis%20dann",
+    "definitions": [
+     "# [[see you then]], [[see you later]]"
+    ]
+   },
+   "bis später": {
+    "url": "https://en.wiktionary.org/wiki/bis%20sp%C3%A4ter",
+    "definitions": [
+     "# [[see you later]]"
+    ]
+   },
+   "auf Wiederhören": {
+    "url": "https://en.wiktionary.org/wiki/auf%20Wiederh%C3%B6ren",
+    "definitions": [
+     "# {{lb|de|telephone}} [[goodbye]]"
+    ]
+   },
+   "heißen": {
+    "url": "https://en.wiktionary.org/wiki/hei%C3%9Fen",
+    "definitions": [
+     "# {{lb|de|copulative}} to have a [[name]]; to be [[named]]; to [[be called]]; {{n-g|but implying that one “owns” this name, not necessarily that one goes by it}}",
+     "# {{lb|de|intransitive|or|transitive}} to [[mean]], to [[signify]]; to have a meaning",
+     "# {{lb|de|impersonal}} to [[say]], to be said; to [[go]], [[run]] (like)",
+     "# {{lb|de|transitive|archaic|_|except in fixed expressions}} to [[call]] (someone something)",
+     "#: {{ux|de|Was [or: Wie] '''heißt''' „Auto“ auf Englisch?|What '''is''' ‘Auto’ in English?}}"
+    ]
+   },
+   "dwds: bis die Tage": {
+    "url": "https://www.dwds.de/wb/bis%20die%20Tage",
+    "definitions": [
+     "Bedeutung DWDS 2023 salopp Abschiedsformel, die ein Wiedersehen, eine weitere Begegnung zu einem nicht näher bestimmten, wahrscheinlich aber in naher Zukunft liegenden Zeitpunkt ankündigt siehe auch m"
+    ]
+   },
+   "dwds: man sieht sich": {
+    "url": "https://www.dwds.de/wb/man%20sieht%20sich",
+    "definitions": [
+     "Bedeutung DWDS 2023 salopp unverbindliche Abschiedsformel, die eine eventuelle neue Begegnung zu einem nicht näher bestimmten Zeitpunkt ankündigt siehe auch bis die Tage , bis dann (1) , auf Wiederseh"
+    ]
+   }
+  }
+ }
+}

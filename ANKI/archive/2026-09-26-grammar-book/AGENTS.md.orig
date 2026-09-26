@@ -23,8 +23,6 @@ confirmation here (decision log: `docs/decisions.md`).
 - `docs/` holds the reference library: every useful link, the lesson-by-lesson
   course index (`docs/course-index/`), the learning roadmap, research notes and
   the decision log.
-- `Grammatik/` is the learner's grammar book (see *Grammar book*).
-- `Spickzettel/` belongs to the learner (see *Cheatsheets*).
 
 ## Capture records
 
@@ -145,11 +143,9 @@ studied it. Follow `docs/processing-a-lesson.md`:
 4. Curate contexts, cues and sentence cards; only verbatim source contexts.
 5. Run `python3 ANKI/build_all.py check`; fix every error; open the preview.
 6. After the learner approves, run `python3 ANKI/build_all.py package`.
-7. Update the grammar book (`docs/processing-a-lesson.md` §8) and run
-   `python3 docs/tools/check_grammar_book.py`.
-8. Run `python3 -m unittest discover -s ANKI/tests`. Report checks as passed
+7. Run `python3 -m unittest discover -s ANKI/tests`. Report checks as passed
    only when the actual results support it.
-9. Commit to git when the learner asks (they ask after every new lesson).
+8. Commit to git when the learner asks (they ask after every new lesson).
    Never push without being asked.
 
 ## Card-quality gate
@@ -175,38 +171,6 @@ Before adding a card, confirm all of the following:
 Most short lessons should contribute a handful of curated Sentences cards
 beyond the ones needed for coverage; adding none is fine. Vocabulary and
 Articles have no quotas: every captured entry is covered.
-
-## Grammar book (`Grammatik/`)
-
-- A personal reference that grows with the studied lessons, not a deck.
-  Sentences cards stay the home of grammar practice.
-- One short Markdown page per topic, grouped by level (`Grammatik/A1/…`) and
-  indexed in `Grammatik/README.md`. Only topics from studied lessons get a page;
-  later topics are listed there as coming (from `docs/course-index/`).
-- Each page: the rule in simple English with the German terms; a table;
-  examples copied verbatim from studied lessons' snapshots, with the source
-  named; common mistakes, the learner's own quoted exactly from the notes; links
-  to the official DW/VHS pages; the Sentences card keys that practise the topic;
-  and a "My rule in my own words" line. That line is the learner's; agents never
-  write it.
-- Verification: rules and tables come from official DW/VHS material first, then
-  dictionaries (Wiktionary conjugation tables in
-  `Grammatik/Materials/wiktionary-snapshot.json`). A DW grammar page from a
-  later lesson may confirm a rule, but examples come only from studied lessons.
-  `python3 docs/tools/check_grammar_book.py` must report no errors.
-- No audio. The grammar book never changes the decks. If a grammar check finds
-  a card error, fix the card through check → approve → package.
-
-## Cheatsheets (`Spickzettel/`) and printing
-
-- `Spickzettel/` is the learner's folder. A cheatsheet holds the keys to the
-  knowledge in the learner's head. It is minimal and built to the learner's own
-  taste and way of understanding. When it holds too much, it is no longer a
-  cheatsheet (learner's philosophy, 2026-09-26).
-- Agents do not create, edit or restructure cheatsheets on their own. An agent
-  may suggest one, but asks first, and writes only what the learner decides.
-- When the learner asks, collect grammar pages or lessons into a printable
-  file. Do this only on request.
 
 ## Development status
 

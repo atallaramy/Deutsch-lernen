@@ -10,7 +10,6 @@ learning.
 - Start only when you say you have studied a specific lesson, or you ask for
   it. For a lesson you have not studied, answer questions from
   [`course-index/`](course-index/) and [links.md](links.md) and do not build cards.
-  For grammar you have studied, start from [`Grammatik/`](../Grammatik/README.md).
 - Do not move, rename or delete existing notes, folders, PDFs or legacy
   packages. If a notes file lives somewhere unusual (for example inside
   `Materials/`), leave it there and ask before changing anything.
@@ -104,31 +103,13 @@ every package twice to prove the output is identical, validates each one, and
 confirms the pronunciation deck is untouched. It then writes the `.apkg` files
 and scan indexes. Import them into Anki ([anki-import.md](anki-import.md)).
 
-## 8. Update the grammar book
-
-The rules are in `AGENTS.md` → *Grammar book*; the layout is in
-[`Grammatik/README.md`](../Grammatik/README.md).
-
-- Topics: the lesson's grammar (its course-index row and its DW grammar pages or
-  VHS grammar list). Add to the existing topic page, or start a new page with the
-  layout of an existing one, list it in the index and remove it from *coming*.
-- Examples: add useful new ones, copied verbatim from the new snapshot, with a
-  source label such as `DW A1 E2 L1 · script`.
-- Mistakes: quote your new errors exactly from your notes and link the notes file.
-- Cards: add the lesson's new Sentences card keys.
-- Leave "My rule in my own words" and `Spickzettel/` to you.
-- A new verb in a verb table needs `python3 docs/tools/check_grammar_book.py fetch`
-  (network) first.
-- Run `python3 docs/tools/check_grammar_book.py` and fix every error. If a grammar
-  check shows a card is wrong, fix the card through steps 5–7.
-
-## 9. Commit
+## 8. Commit
 
 You ask for a commit after every new lesson. Commit everything the lesson
 changed (notes are yours; commit them only as they are). Use one clear message,
 e.g. `Add DW A1 E2 L1 Zahlen von 1 bis 100`, and never push unless you ask.
 
-## 10. Record
+## 9. Record
 
 - New rules or decisions go to `AGENTS.md` and [decisions.md](decisions.md).
 - New useful links go to [links.md](links.md). If a course changes, rerun

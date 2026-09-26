@@ -142,21 +142,6 @@ goethe.de and coe.int block scripts but open normally in a browser.
 - Wiktionary (declension tables): <https://de.wiktionary.org/wiki/Tasche>
 - dict.cc (second dictionary for phrases, used by `harvest_sources.py --glosses`): <https://www.dict.cc/?s=Schönen+Tag+noch>
 - en.wiktionary definition API (used by `harvest_sources.py --glosses` to check meanings): <https://en.wiktionary.org/api/rest_v1/page/definition/Tochter>. German Wiktionary raw text (German definitions, translation tables): `https://de.wiktionary.org/w/index.php?title=<Wort>&action=raw`
-- Wiktionary conjugation tables (checked 2026-09-26; used by `docs/tools/check_grammar_book.py fetch`): <https://de.wiktionary.org/wiki/Flexion:kommen> (swap the verb)
-- Register and region labels (checked 2026-09-26): en.wiktionary, e.g. <https://en.wiktionary.org/wiki/pfiat_di> (*chiefly Austria, Bavaria, informal*); DWDS style labels, e.g. <https://www.dwds.de/wb/bis%20die%20Tage> (*salopp*)
-
-## Grammar references (checked 2026-09-26)
-
-Used by the grammar book ([`Grammatik/`](../Grammatik/README.md)). These DW grammar
-pages belong to lessons not studied yet. They confirm rules only; examples always
-come from studied lessons.
-
-| DW page | Lesson | Confirms |
-|---|---|---|
-| [Numbers from 11 to 19](https://learngerman.dw.com/en/numbers-from-11-to-19/l-37265621/gr-38307006) · [Numbers from 20 to 100](https://learngerman.dw.com/en/numbers-from-20-to-100/l-37265621/gr-38307981) | A1 E2 L1 | 13–19, *sechzehn/siebzehn*, *-zig*, *einundzwanzig* |
-| [W-questions](https://learngerman.dw.com/en/w-questions/l-37269671/gr-38306976) | A1 E2 L3 | question word – verb – subject |
-| [Prepositions of place: aus](https://learngerman.dw.com/en/prepositions-of-place-aus/l-37269671/gr-38307071) · [in, an](https://learngerman.dw.com/en/prepositions-of-place-in-an/l-37269671/gr-38309222) | A1 E2 L3 | *kommen aus*, *wohnen in*, countries with an article |
-| [Questions and statements](https://learngerman.dw.com/en/questions-and-statements/l-37337877/gr-38306265) | A1 E4 L2 | verb second in statements, verb first in yes/no questions |
 
 ## Anki
 

@@ -3,17 +3,6 @@
 Confirmed decisions, newest first. The binding rules they produce live in
 `AGENTS.md`; this file records why and when.
 
-## 2026-09-26 — grammar book
-
-| Topic | Decision |
-|---|---|
-| Grammar book | Yes, as proposed: `Grammatik/README.md` index by level and topic, one short Markdown page per studied topic in `Grammatik/A1/`, Markdown only. A check script verifies examples, quoted mistakes, card keys and verb tables whenever the book is updated. It is reference material; the Sentences deck stays the home of grammar practice. |
-| Cheatsheets | Changed from the proposal: no Claude-made A1 cheatsheet. `Spickzettel/` is the learner's own folder. In the learner's words: a cheatsheet is "the keys to the knowledge in my head"; built to the learner's taste and understanding; minimal; "when it is too much, it is no longer cheatsheet." Claude may suggest a cheatsheet but asks first. |
-| Printing | The learner may ask at any time for lessons or pages collected in a printable format, "to stay away from the computer". Made on request only. |
-| After-lesson routine | "Update the grammar book" is step 8 of `docs/processing-a-lesson.md` (step 7 in `AGENTS.md`). |
-| Cases | Not an A1-now topic; listed as coming (DW A1 E9+, VHS A1 Lektion 4 for the accusative). The learner's case table and possessive table were checked against Wiktionary and are correct. |
-| Sources | Interpretation, applied: DW grammar pages from lessons not yet studied may confirm a rule. Examples come only from studied lessons' snapshots. The in-progress DW E2 L1 notes are not used until the learner says the lesson is studied. |
-
 ## 2026-09-25 — build and version control
 
 | Topic | Decision |

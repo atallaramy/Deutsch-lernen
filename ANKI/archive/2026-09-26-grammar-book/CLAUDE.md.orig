@@ -27,9 +27,6 @@ adds Claude-specific working rules only.
   (`dw-nicos-weg-a1.md`, `…-a2.md`, `…-b1.md`, `vhs-a1.md`, `vhs-a2.md`,
   `vhs-b1.md`) and `docs/links.md`. Then open the official lesson page or PDF
   linked there for detail, and cite the links you used.
-- For a grammar question, also read the topic page in the grammar book
-  (`Grammatik/README.md` is the index). It holds the verified rule, examples and
-  the learner's own mistakes.
 - For a lesson the learner has studied, also use its notes and its
   `Materials/source-snapshot.json`.
 - Answering questions never builds cards.
@@ -53,7 +50,6 @@ adds Claude-specific working rules only.
   - `python3 ANKI/harvest_sources.py --lesson ID` — network: snapshot official sources
   - `python3 ANKI/harvest_sources.py --glosses` — network: dictionary check of meanings no glossary supplies
   - `python3 docs/tools/build_course_index.py` — network: rebuild the lesson index
-  - `python3 docs/tools/check_grammar_book.py` — check the grammar book (`fetch`: network, Wiktionary verb tables)
 - Run `approve` only for the cards the learner explicitly approves in the
   current conversation; otherwise point them to the preview and stop.
 - Never weaken or skip a check to make a build pass: fix the data, or ask.

@@ -14,7 +14,6 @@
 | `review/approvals.json` | Content hashes of the cards you approved. A card whose content changes needs approval again. |
 | `*-scan-index.json` | Written by `package`: lessons, counts, package hashes. |
 | `archive/2026-09-25-pre-v3/` | Backup of every file replaced by the v3 redesign, with a SHA-256 manifest. |
-| `archive/2026-09-26-grammar-book/` | Backup of the instruction and doc files edited when the grammar book was added, with a SHA-256 manifest. |
 
 ## Code
 
@@ -31,17 +30,6 @@
 | `download_nicos_weg_a1_materials.py` | Old DW PDF downloader; do not rerun without the fix listed in [known-issues.md](known-issues.md). |
 
 `docs/tools/build_course_index.py` (network) rebuilds `docs/course-index/`.
-
-## Grammar book (`Grammatik/`)
-
-| File | Role |
-|---|---|
-| `Grammatik/README.md` | Index by level and topic, the *coming* list and the page conventions. |
-| `Grammatik/<level>/<Topic>.md` | One page per studied topic. |
-| `Grammatik/Materials/wiktionary-snapshot.json` | `verbs`: de.wiktionary present-tense tables, written by `check_grammar_book.py fetch`. `evidence`: one-off checks (DW grammar pages from later lessons, numbers, declension tables, genders, register labels). |
-| `docs/tools/check_grammar_book.py` | Offline check. Quotes in *Source* tables must be verbatim in the named lesson snapshot; *Wrong … From* rows linking to notes must quote them; *Person* tables must match the verb snapshot; card keys must be live; links must resolve; every page must be in the index. Tested in `ANKI/tests/test_grammar_book.py`. |
-
-`Spickzettel/` holds the learner's own cheatsheets. No tool reads or writes it.
 
 ## Capture entry (schema 3)
 

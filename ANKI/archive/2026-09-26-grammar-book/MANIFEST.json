@@ -1,0 +1,41 @@
+{
+  "createdAt": "2026-09-26",
+  "reason": "Backup before adding the grammar book (Grammatik/), the learner-owned Spickzettel/ folder and their rules. Restore by copying each backup to its original path.",
+  "files": [
+    {
+      "original": "AGENTS.md",
+      "backup": "ANKI/archive/2026-09-26-grammar-book/AGENTS.md.orig",
+      "sha256": "e87cb1045b3eab1eaff4b75d851640c5b2c769ec2d8a5b94a118c80361943848"
+    },
+    {
+      "original": "CLAUDE.md",
+      "backup": "ANKI/archive/2026-09-26-grammar-book/CLAUDE.md.orig",
+      "sha256": "7aba858ed6e2e0ceaf12cc93cd41a00d6013d6b666f003fe170b1efe70c7919f"
+    },
+    {
+      "original": "docs/processing-a-lesson.md",
+      "backup": "ANKI/archive/2026-09-26-grammar-book/docs/processing-a-lesson.md",
+      "sha256": "dca5db2500e9aa3e4993c27f6ffe963a2ca574c4e00f974e30e48877c131a8cc"
+    },
+    {
+      "original": "docs/README.md",
+      "backup": "ANKI/archive/2026-09-26-grammar-book/docs/README.md",
+      "sha256": "99348f4a7c75c09064028d02835c2617acf5e1f60c199c33ac88b6833cedd30e"
+    },
+    {
+      "original": "docs/decisions.md",
+      "backup": "ANKI/archive/2026-09-26-grammar-book/docs/decisions.md",
+      "sha256": "29831ee0149a7a4c4e15c63c69e3dc75e5d5b4e1468185ec16a04bd3bcce6377"
+    },
+    {
+      "original": "docs/data-model.md",
+      "backup": "ANKI/archive/2026-09-26-grammar-book/docs/data-model.md",
+      "sha256": "9219819f8125a258085c926e08ef5f5acb2bd2cb506efd8f0747b2d8abd5275d"
+    },
+    {
+      "original": "docs/links.md",
+      "backup": "ANKI/archive/2026-09-26-grammar-book/docs/links.md",
+      "sha256": "6ad32e985768e3fd6ebbee1bab952081582e70ff1c185b1352c9e20acbd2c347"
+    }
+  ]
+}
