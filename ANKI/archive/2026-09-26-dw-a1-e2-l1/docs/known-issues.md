@@ -46,7 +46,8 @@
 - `04_Von A bis Z/Materials/README.md` mentions a `Phonetic alphabet audio/`
   folder that is not in the workspace. It belongs to the pronunciation resource,
   which is deliberately untouched.
-- Empty notes: `EasyGerman/02.md`–`07.md`, and the VHS Lektion 1 and 3–7 folders. They will be
+- Empty notes: `03_contact_details/01_Lesson_01/Materials/Zahlen von 1 bis 100.md`,
+  `EasyGerman/02.md`–`07.md`, and the VHS Lektion 1 and 3–7 folders. They will be
   processed when you study them.
 - The phonetic-alphabet builder copies its Anki schema from
   `Von A bis Z_Vocabulary.apkg` when its own package is missing. The v3 lesson

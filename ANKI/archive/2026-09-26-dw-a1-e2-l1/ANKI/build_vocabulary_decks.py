@@ -37,9 +37,7 @@ def card_key(lemma: str, sense: str) -> str:
 def default_cue(entry: Entry) -> str:
     english = entry.raw["english"].strip().rstrip(".")
     if entry.pos == "number":
-        # Number senses are digits ("8"); DW glosses spell them out, VHS gives digits.
-        prompt = entry.sense if entry.sense.isdigit() else english
-        return f"{prompt} — write the number as a word"
+        return f"{english} — write the number as a word"
     if entry.pos == "abbreviation":
         return f"{english} — the German abbreviation"
     if entry.pos == "place":

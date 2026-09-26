@@ -15,28 +15,6 @@ learning.
   packages. If a notes file lives somewhere unusual (for example inside
   `Materials/`), leave it there and ask before changing anything.
 
-## Before step 1: your mistake rounds (default)
-
-Your decision (2026-09-26). If you say something else in a session, for example
-"correct the spelling and finalize", that wins for the session: Claude saves the
-mistakes, corrects the notes itself and continues.
-
-1. Claude checks your notes against the lesson's official script, exercises and
-   glossary, then dictionaries. It counts spelling, capitals, umlauts, missing or
-   wrong words, word forms, articles, and punctuation that changes the sentence
-   (a missing question mark, a stray comma or full stop). A line from audio with no
-   official transcript is listed separately when it cannot be checked.
-2. **Round 1:** Claude saves the list in the lesson's `Materials/mistakes.md`, then
-   shows you the wrong words exactly as you wrote them, with line numbers. No
-   comments.
-3. You fix your notes and say so.
-4. **Round 2:** Claude checks again and adds what is still wrong to `mistakes.md`
-   as *wrong → correct*, and shows you that list.
-5. You fix those and say so. Then step 1 starts.
-
-Cards (`learnerForm`) and the grammar book quote your mistakes from
-`mistakes.md`, so correcting the notes loses nothing.
-
 ## 1. Read
 
 - Your Markdown notes for the lesson, all of it: vocabulary lists, glossed
@@ -68,7 +46,7 @@ For each item, add an entry with:
 - `pos`, `lemma` and `sense`
 - `plural`, `forms` and `note` from the glossary
 - `origin`
-- `learnerForm` when your spelling differs (from `Materials/mistakes.md`)
+- `learnerForm` when your spelling differs
 
 English meanings: use the official gloss when there is one. Otherwise run
 `python3 ANKI/harvest_sources.py --glosses`. The build accepts only meanings
@@ -136,8 +114,7 @@ The rules are in `AGENTS.md` → *Grammar book*; the layout is in
   layout of an existing one, list it in the index and remove it from *coming*.
 - Examples: add useful new ones, copied verbatim from the new snapshot, with a
   source label such as `DW A1 E2 L1 · script`.
-- Mistakes: quote your new errors exactly from `Materials/mistakes.md` (or your
-  notes) and link that file.
+- Mistakes: quote your new errors exactly from your notes and link the notes file.
 - Cards: add the lesson's new Sentences card keys.
 - Leave "My rule in my own words" and `Spickzettel/` to you.
 - A new verb in a verb table needs `python3 docs/tools/check_grammar_book.py fetch`

@@ -46,8 +46,7 @@ confirmation here (decision log: `docs/decisions.md`).
   card text.
 - Never remove a captured entry. Official spelling is canonical; the learner's
   own spelling is kept as `learnerForm` and shown as feedback, never as the
-  answer. The mistake rounds save the learner's original errors in the lesson's
-  `Materials/mistakes.md` before the notes are corrected.
+  answer.
 - Keep each course/lesson record separate even when cumulative cards merge.
 
 ## Deck types
@@ -140,14 +139,6 @@ confirmation here (decision log: `docs/decisions.md`).
 Build gradually. Process a lesson only after the learner says they have
 studied it. Follow `docs/processing-a-lesson.md`:
 
-0. Mistake rounds (default; learner decision 2026-09-26). Check the lesson
-   notes against the official sources and dictionaries and save each round in
-   the lesson's `Materials/mistakes.md`. Round 1: the wrong words exactly as
-   written, with line numbers, no comments. After the learner's fixes, round 2:
-   what is still wrong as *wrong → correct*. Start step 1 only after the
-   learner's second fix. An instruction from the learner in the session replaces
-   this routine for that session (e.g. "correct the spelling and finalize":
-   save the mistakes, correct the notes, continue).
 1. Read the lesson Markdown and the lesson's official materials.
 2. Snapshot the official sources (`python3 ANKI/harvest_sources.py --lesson <id>`).
 3. Capture the entries in `ANKI/lesson-vocabulary.json` with provenance.
@@ -194,9 +185,9 @@ Articles have no quotas: every captured entry is covered.
   later topics are listed there as coming (from `docs/course-index/`).
 - Each page: the rule in simple English with the German terms; a table;
   examples copied verbatim from studied lessons' snapshots, with the source
-  named; common mistakes, the learner's own quoted exactly from the notes or the
-  lesson's `Materials/mistakes.md`; links to the official DW/VHS pages; the
-  Sentences card keys that practise the topic; and a "My rule in my own words" line. That line is the learner's; agents never
+  named; common mistakes, the learner's own quoted exactly from the notes; links
+  to the official DW/VHS pages; the Sentences card keys that practise the topic;
+  and a "My rule in my own words" line. That line is the learner's; agents never
   write it.
 - Verification: rules and tables come from official DW/VHS material first, then
   dictionaries (Wiktionary conjugation tables in

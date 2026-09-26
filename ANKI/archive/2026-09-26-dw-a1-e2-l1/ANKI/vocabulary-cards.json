@@ -54,15 +54,6 @@
   "Bis die Tage!|see-you": {
    "cue": "see you in the next few days (colloquial)"
   },
-  "Bis morgen!|see-you-tomorrow": {
-   "context": {
-    "lesson": "dw-a1-e2-l1",
-    "source": "script",
-    "text": "Tschüss, Nico! Bis morgen!",
-    "target": "Bis morgen"
-   },
-   "note": "morgen (tomorrow) is written small; der Morgen (morning), as in Guten Morgen, is capitalised."
-  },
   "Bis später.|see-you-later": {
    "cue": "see you later (today)"
   },
@@ -106,13 +97,6 @@
     "lesson": "dw-a1-e1-l2",
     "source": "exercises",
     "text": "Er lernt Deutsch."
-   }
-  },
-  "Einladung|invitation": {
-   "context": {
-    "lesson": "dw-a1-e2-l1",
-    "source": "script",
-    "text": "Eine Einladung zum Geburtstag von Charlotte."
    }
   },
   "Entschuldigung|excuse-me": {
@@ -183,13 +167,6 @@
    "interferesWith": [
     "Freundin|friend"
    ]
-  },
-  "Geschenk|gift": {
-   "context": {
-    "lesson": "dw-a1-e2-l1",
-    "source": "script",
-    "text": "Ja, und das hier ist ein Geschenk."
-   }
   },
   "Gitarre|guitar": {
    "context": {
@@ -277,9 +254,6 @@
     "source": "exercises",
     "text": "Guten Tag, Herr Kaiser."
    }
-  },
-  "Herzlichen Glückwunsch zum Geburtstag|happy-birthday": {
-   "cue": "Happy birthday! — the traditional German wish"
   },
   "Hey!|hey": {
    "cue": "hey (very casual greeting)",
@@ -419,9 +393,6 @@
   },
   "Noch einmal bitte.|again-please": {
    "cue": "Again, please. (asking someone to repeat)"
-  },
-  "Nummer|number": {
-   "cue": "number — an ID (phone, house or passport number)"
   },
   "Oder?|or-not": {
    "cue": "…, right? (tag question at the end)",
@@ -672,9 +643,6 @@
     "target": "Wohin"
    }
   },
-  "Zahl|number": {
-   "cue": "number — a numeral (1, 2, 3 …), for counting"
-  },
   "Zentrum|city-centre": {
    "cue": "city centre / downtown",
    "context": {
@@ -758,9 +726,6 @@
   "eingetragene(r) Lebenspartner(in) verstorben|registered-life-partner-deceased": {
    "cue": "Familienstand on a form: registered life partner deceased"
   },
-  "einhundert|100": {
-   "cue": "100 — the full form"
-  },
   "er|he": {
    "context": {
     "lesson": "dw-a1-e1-l3",
@@ -802,10 +767,6 @@
     "source": "script",
     "text": "Nicos Tante wohnt hier in Deutschland."
    }
-  },
-  "hundert|100": {
-   "cue": "100 — the short form",
-   "note": "Full form: einhundert"
   },
   "ich|i": {
    "context": {
@@ -1000,14 +961,6 @@
     "lesson": "dw-a1-e1-l4",
     "source": "exercises",
     "text": "Und wer ist das?"
-   }
-  },
-  "wie viele|how-many": {
-   "context": {
-    "lesson": "dw-a1-e2-l1",
-    "source": "script",
-    "text": "Wie viele Zahlen sind das?",
-    "target": "Wie viele"
    }
   },
   "wie|how": {

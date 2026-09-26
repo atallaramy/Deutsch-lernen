@@ -1,0 +1,363 @@
+{
+ "description": "Official source text captured by ANKI/harvest_sources.py for offline context verification.",
+ "harvestedOn": "2026-09-26",
+ "sources": [
+  {
+   "id": "exercises",
+   "kind": "dw-exercises",
+   "url": "https://learngerman.dw.com/en/zahlen-von-1-bis-100/l-37265621",
+   "lessonUrl": "https://learngerman.dw.com/en/zahlen-von-1-bis-100/l-37265621",
+   "exercises": [
+    {
+     "id": "e-37271074",
+     "url": "https://learngerman.dw.com/en/an-invitation/l-37265621/e-37271074",
+     "title": "An invitation",
+     "texts": [
+      "EINLADUNG\nLiebe Emma!\nIch habe Geburtstag und mache eine Party. Ich werde 8! Kommst du auch?\nIch feiere am Samstag um 17:00 Uhr in der Friedrichstraße 11. Du kannst bei mir übernachten.\nSag bitte Bescheid, ob du kommen kannst. Meine Telefonnummer ist 43 87 55 62.\nLotte",
+      "Lotte hat Geburtstag.",
+      "Lotte wohnt in der Friedrichstraße.",
+      "Lottes Telefonnummer ist dreiundvierzig siebenundachtzig fünfundfünfzig zweiundsechzig.",
+      "Was ist richtig?"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37266390",
+     "url": "https://learngerman.dw.com/en/counting-from-1-to-12/l-37265621/e-37266390",
+     "title": "Counting from 1 to 12",
+     "texts": [
+      "1, 2, 3, 4, 5, 6",
+      "eins – zwei – drei – vier – fünf – sechs",
+      "7, 8, 9, 10, 11, 12",
+      "sieben – acht – neun – zehn – elf – zwölf"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37271006",
+     "url": "https://learngerman.dw.com/en/introducing-jürgen/l-37265621/e-37271006",
+     "title": "Introducing Jürgen",
+     "texts": [
+      "Wer ist das?",
+      "Wie alt ist Jürgen?",
+      "Wo wohnt er?",
+      "Wie ist seine Telefonnummer?"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37266180",
+     "url": "https://learngerman.dw.com/en/nico-and-numbers/l-37265621/e-37266180",
+     "title": "Nico and numbers",
+     "texts": [
+      "Nico lernt mit Emma Zahlen.",
+      "Lisa sucht eine Adresse.",
+      "Emma hat eine Einladung.",
+      "Emma und Lisa suchen die Hausnummer 11.",
+      "Was ist richtig?"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37270806",
+     "url": "https://learngerman.dw.com/en/noting-information-about-people/l-37265621/e-37270806",
+     "title": "Noting information about people",
+     "texts": [
+      "Example:\nDas ist Yara. Sie ist 41 Jahre alt. Sie wohnt in der Adalbert-Stifter-Straße 43. Ihre Telefonnummer ist 40 45 33 70.",
+      "8",
+      "67",
+      "50",
+      "39",
+      "11",
+      "98",
+      "13",
+      "Das ist Emma. Sie ist #ps# Jahre alt. Sie wohnt in der Bachstraße #ps#. Ihre Telefonnummer ist 73 #ps# 65 42.",
+      "Ergänze die Zahlen.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "Das ist Katrin. Sie ist #ps# Jahre alt. Sie wohnt in der Seilstraße #ps#. Ihre Telefonnummer ist #ps# 57 #ps# 69.",
+      "Ergänze die Zahlen.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37266238",
+     "url": "https://learngerman.dw.com/en/numbers-from-1-to-12/l-37265621/e-37266238",
+     "title": "Numbers from 1 to 12",
+     "texts": [
+      "eins, zwei, …",
+      "sechs, sieben, acht, neun, …"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37267260",
+     "url": "https://learngerman.dw.com/en/numbers-from-13-to-99/l-37265621/e-37267260",
+     "title": "Numbers from 13 to 99",
+     "texts": [
+      "13: dreizehn, 14: vierzehn, 15: fünfzehn, 16: sechzehn, 17: siebzehn, 18: achtzehn, 19: neunzehn",
+      "20: zwanzig, 21: einundzwanzig, 30: dreißig, 32: zweiunddreißig, 40: vierzig, 43: dreiundvierzig, 50: fünfzig, 54: vierundfünfzig",
+      "60: sechzig, 65: fünfundsechzig, 70: siebzig, 77: siebenundsiebzig, 80: achtzig, 88: achtundachtzig, 90: neunzig"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37270185",
+     "url": "https://learngerman.dw.com/en/specifying-numbers/l-37265621/e-37270185",
+     "title": "Specifying numbers",
+     "texts": [
+      "Wie ist die Flugnummer von Nico?",
+      "Wie ist die Sitznummer von Nico?",
+      "Wie ist die Kontonummer von Lisa?",
+      "Wie ist die Kartennummer von Lisa?"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37266957",
+     "url": "https://learngerman.dw.com/en/there-are-three-people/l-37265621/e-37266957",
+     "title": "There are three people",
+     "texts": [
+      "Lisa, Emma, Nico: Das sind drei Personen.",
+      "Emma, Lisa, Nico, Max: Das sind vier Personen.",
+      "Das sind zehn Buchstaben.",
+      "Das sind zwölf Buchstaben.",
+      "Wie viele Personen sind das?",
+      "Wie viele Personen sind das?",
+      "Wie viele Buchstaben sind das?",
+      "Wie viele Buchstaben sind das?"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37269446",
+     "url": "https://learngerman.dw.com/en/which-house-are-they-looking-for-1/l-37265621/e-37269446",
+     "title": "Which house are they looking for? (1)",
+     "texts": [
+      "Sie suchen die Hausnummer 11.",
+      "Welche Hausnummer suchen Lisa und Emma?"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37269603",
+     "url": "https://learngerman.dw.com/en/which-house-are-they-looking-for-2/l-37265621/e-37269603",
+     "title": "Which house are they looking for? (2)",
+     "texts": [
+      "26",
+      "67",
+      "98"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37266637",
+     "url": "https://learngerman.dw.com/en/writing-numbers-1/l-37265621/e-37266637",
+     "title": "Writing numbers (1)",
+     "texts": [
+      "zwei",
+      "vier",
+      "sechs",
+      "sieben",
+      "zehn",
+      "elf",
+      "1 eins\n2 #ps#\n3 drei\n4 #ps#\n5 fünf\n6 #ps#\n7 #ps#\n8 acht\n9 neun\n10 #ps#\n11 #ps#\n12 zwölf",
+      "Schreib die fehlenden Zahlen als Wörter.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37267594",
+     "url": "https://learngerman.dw.com/en/writing-numbers-2/l-37265621/e-37267594",
+     "title": "Writing numbers (2)",
+     "texts": [
+      "28",
+      "41",
+      "64",
+      "96"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37269733",
+     "url": "https://learngerman.dw.com/en/writing-numbers-3/l-37265621/e-37269733",
+     "title": "Writing numbers (3)\n",
+     "texts": [
+      "Beispiel:\n20 = zwanzig",
+      "achtzig",
+      "zwanzig",
+      "dreiunddreißig",
+      "einundneunzig",
+      "sechsundsechzig",
+      "siebenundvierzig",
+      "neunundsechzig",
+      "neunzehn",
+      "Flugnummer: #ps# #pm#\nGate: D #ps#\nSitz: #pl# F",
+      "Schreib die Zahlen.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "Kontonummer: dreizehn #pl# dreiundfünfzig #pl# fünfzehn\nKartennummer: #pl# achtzig #pl# einundzwanzig",
+      "Schreib die Zahlen.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT"
+     ],
+     "vocabularyTags": []
+    }
+   ],
+   "pages": [
+    {
+     "id": "rs-40966362",
+     "url": "https://learngerman.dw.com/en/celebrating-birthdays-in-the-office/l-37265621/rs-40966362",
+     "title": "Celebrating birthdays in the office",
+     "texts": [
+      "Celebrating birthdays in the office",
+      "Birthdays at a workplace - Every company has its own rules, depending on the company's size. It's best to ask around to see how birthdays are celebrated in the company. Sometimes the birthdays of individual employees within a department or work group are available in a public calendar. You can wish your colleagues a happy birthday. They often bring a treat for everyone, like a cake, which is eaten together during a break."
+     ]
+    },
+    {
+     "id": "rs-39370325",
+     "url": "https://learngerman.dw.com/en/happy-birthday/l-37265621/rs-39370325",
+     "title": "Happy Birthday!",
+     "texts": [
+      "Happy Birthday!",
+      "null iStockphoto\nBirthdays are important in Germany. Adults as well as children celebrate their birthday with family and friends. The person celebrating his or her birthday receives flowers, a cake with candles, and gifts.\nIf it's your friend's birthday, you should wish them a \"Happy Birthday!\". You buy a present only for good friends, or if you've been invited to a party. If you don't know what you should get the person, it's okay to ask them if they have a particular wish. Many Germans use the English expression \"Happy Birthday!\" rather than the German \"Herzlichen Glückwunsch zum Geburtstag\"."
+     ]
+    },
+    {
+     "id": "gr-38307006",
+     "url": "https://learngerman.dw.com/en/numbers-from-11-to-19/l-37265621/gr-38307006",
+     "title": "Numbers from 11 to 19",
+     "texts": [
+      "Numbers from 11 to 19",
+      "The numbers 11 and 12 are irregular.\nFrom 13, the formation of the numbers is mostly regular. In German, the order of numbers is opposite to that in English. First comes the single digit (e.g. drei, vier, fünf...) and then the ten (zehn):\nnull DW\nThe numbers 16 and 17 are slightly irregular. The single digits (sechs, sieben) lose their endings.\n11\nelf\n12\nzwölf\n13\ndrei + zehn\ndreizehn\n14\nvier + zehn\nvierzehn\n15\nfünf + zehn\nfünfzehn\n16\nsechs + zehn\nsechzehn\n17\nsieben + zehn\nsiebzehn\n18\nacht + zehn\nachtzehn\n19\nneun + zehn\nneunzehn"
+     ]
+    },
+    {
+     "id": "gr-38307981",
+     "url": "https://learngerman.dw.com/en/numbers-from-20-to-100/l-37265621/gr-38307981",
+     "title": "Numbers from 20 to 100",
+     "texts": [
+      "Numbers from 20 to 100",
+      "With numbers over 20, the single digit comes first, and then the multiple of ten. There are two special features to note:\nThe number eins loses the -s when it is combined with a ten.\nThere is an und between the single digit and the multiple of ten.\nnull DW\n21\neinundzwanzig\n22\nzweiundzwanzig\n23\ndreiundzwanzig\n24\nvierundzwanzig\n25\nfünfundzwanzig\n26\nsechsundzwanzig\n27\nsiebenundzwanzig\n28\nachtundzwanzig\n29\nneunundzwanzig\n30\ndreißig\nThe full multiple of ten is usually formed from the single digit + -zig. But there are some exceptions: 10, 20, 30, 60 and 70 have an irregular form.\n10\nzehn\n20\nzwanzig\n30\ndreißig\n40\nvierzig\n50\nfünfzig\n60\nsechzig\n70\nsiebzig\n80\nachtzig\n90\nneunzig\n100\neinhundert (short form: hundert)\nYou can form all the numbers from 21 to 99 from the following elements:\n(1) ein-\n(2) zwei-\n(3) drei-\n(4) vier-\n(5) fünf-\n(6) sechs-\n(7) sieben-\n(8) acht-\n(9) neun-\nund\n-zwanzig (20)\n-dreißig (30)\n-vierzig (40)\n-fünfzig (50)\n-sechzig (60)\n-siebzig (70)\n-achtzig (80)\n-neunzig (90)"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "script",
+   "kind": "dw-script-pdf",
+   "url": "https://static.dw.com/downloads/52719212/nicos-weg-a1-e2-l1-manuskript-und-wortschatz-englisch.pdf",
+   "localFile": "DW Deutsch lernen/A1/03_contact_details/01_Lesson_01/Materials/Script and vocabulary (English).pdf",
+   "sha256": "a8a8e6cfdbf948a96f64c0866cb7346ed2217da075d8e1c86cb3258a629fd456",
+   "lines": [
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "(2) Contact details | Zahlen von 1 bis 100",
+    "Before going to the police station, Lisa and Nico take Emma to a children’s",
+    "birthday party. On the way there, Nico draws Emma a picture with",
+    "numbers, and Emma teaches Nico how to count to 12 in German.",
+    "Script",
+    "LISA:",
+    "Wie ist die Hausnummer, Emma? 38 oder 83?",
+    "EMMA:",
+    "Moment … elf.",
+    "LISA:",
+    "Ah, ja. Dann sind wir richtig hier.",
+    "NICO:",
+    "Da.",
+    "EMMA:",
+    "Wie viele Zahlen sind das?",
+    "NICO:",
+    "Wie viele?",
+    "EMMA:",
+    "Das sind 31 Zahlen.",
+    "NICO:",
+    "31 …",
+    "EMMA:",
+    "Eins, zwei, drei, vier, fünf …",
+    "NICO:",
+    "Eins, zwei, drei, vier, fünf.",
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "EMMA:",
+    "... sechs, sieben, acht, neun, zehn, elf, zwölf.",
+    "NICO:",
+    "Sechs, sieben, acht, neun, zehn, elf, zwölf.",
+    "Was ist das?",
+    "EMMA:",
+    "Eine Einladung zum Geburtstag von Charlotte.",
+    "NICO:",
+    "Geburtstag?",
+    "EMMA:",
+    "Happy birthday to you …",
+    "NICO:",
+    "Ah, Geburtstag!",
+    "LISA:",
+    "Ja, und das hier ist ein Geschenk.",
+    "EMMA:",
+    "Tschüss, Nico! Bis morgen!",
+    "NICO:",
+    "Tschüss, Emma!",
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "Vocabulary (from script and lesson)",
+    "acht – eight",
+    "achtzig – eighty",
+    "Bis morgen! – See you tomorrow",
+    "der Buchstabe, die Buchstaben – letter (of the alphabet)",
+    "drei – three",
+    "dreißig – thirty",
+    "einhundert – one hundred",
+    "die Einladung, die Einladungen – invitation",
+    "eins – one",
+    "elf – eleven",
+    "Emma ist acht Jahre alt. – Emma is eight years old.",
+    "Kurzform: Emma ist acht.",
+    "feiern – to celebrate",
+    "feiert, feierte, hat gefeiert",
+    "fünf – five",
+    "fünfzig – fifty",
+    "der Geburtstag, die Geburtstage – birthday",
+    "das Geschenk, die Geschenke – gift; present",
+    "die Hausnummer, die Hausnummern – street number",
+    "Ich werde acht Jahre alt. – I am turning/going to be eight years old",
+    "Kurzform: Ich werde acht.",
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "Lotte wird acht Jahre alt. – Lotte is turning eight.",
+    "Kurzform: Lotte wird acht.",
+    "neun – nine",
+    "neunzig – ninety",
+    "die Person, die Personen – person",
+    "sechs – six",
+    "sechzig – sixty",
+    "sieben – seven",
+    "siebzig – seventy",
+    "vier – four",
+    "vierzig – fourty",
+    "Wie alt ist Emma? – How old is Emma?",
+    "wie viele – how many",
+    "die Zahl, die Zahlen – number",
+    "zehn – ten",
+    "zwanzig – twenty",
+    "zwei – two",
+    "zwölf – twelve"
+   ]
+  }
+ ]
+}

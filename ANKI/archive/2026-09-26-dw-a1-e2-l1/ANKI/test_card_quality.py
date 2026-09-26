@@ -34,12 +34,6 @@ class RealData(unittest.TestCase):
         self.assertIn("dw-a1-e0-l4:die-tante", tante.covers)
         self.assertIn("vhs-a1-l02:die-tante", tante.covers)
 
-    def test_number_cue_shows_the_digit_whichever_lesson_is_first(self):
-        acht = self.card("vocab:acht|8")
-        self.assertIn("dw-a1-e2-l1:acht", acht.covers)
-        self.assertIn("vhs-a1-l02:acht", acht.covers)
-        self.assertEqual(acht.cue, "8 — write the number as a word")
-
     def test_distinct_senses_stay_separate(self):
         self.assertNotEqual(self.card("vocab:Mann|man").covers, self.card("vocab:Mann|husband").covers)
         self.assertNotEqual(self.card("vocab:bitte|please").covers, self.card("vocab:bitte|here-you-go").covers)

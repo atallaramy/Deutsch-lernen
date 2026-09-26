@@ -1,6 +1,6 @@
 # haben: to have
 
-*das Verb haben* · irregular in two forms · A1 · from DW A1 E1 L4 *Nico hat ein Problem*, DW A1 E2 L1 and VHS A1 Lektion 2 · checked 2026-09-26
+*das Verb haben* · irregular in two forms · A1 · from DW A1 E1 L4 *Nico hat ein Problem* and VHS A1 Lektion 2 · checked 2026-09-26
 
 ## The rule
 
@@ -36,8 +36,6 @@ Source: DW grammar page *Conjugation: haben*; VHS Lektion 2 word list
 | Nein, sie **haben** die Adresse nicht. | [DW A1 E1 L4 · exercise](https://learngerman.dw.com/en/do-you-have-a-passport/l-37265543/e-37269072) |
 | Seine Tante **hat** ein Geschäft, ein Fahrradgeschäft. | [DW A1 E1 L4 · script](https://static.dw.com/downloads/52719209/nicos-weg-a1-e1-l4-manuskript-und-wortschatz-englisch.pdf) |
 | **Haben** Sie Kinder? **Hast** du Kinder? | [VHS A1 L2 · phrase trainer](https://a1.vhs-lernportal.de/) |
-| Ich **habe** Geburtstag und mache eine Party. | [DW A1 E2 L1 · exercise](https://learngerman.dw.com/en/an-invitation/l-37265621/e-37271074) |
-| Lotte **hat** Geburtstag. | [DW A1 E2 L1 · exercise](https://learngerman.dw.com/en/an-invitation/l-37265621/e-37271074) |
 
 ## Common mistakes
 
@@ -57,7 +55,7 @@ Source: DW grammar page *Conjugation: haben*; VHS Lektion 2 word list
 
 ## Sentences cards
 
-- `nico-has-problem`, `have-problem-plural`, `how-many-children`, `lotte-has-birthday`
+- `nico-has-problem`, `have-problem-plural`, `how-many-children`
 
 ## My rule in my own words
 

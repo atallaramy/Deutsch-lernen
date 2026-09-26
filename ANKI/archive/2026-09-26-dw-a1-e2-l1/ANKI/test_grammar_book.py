@@ -88,7 +88,7 @@ class GrammarBook(unittest.TestCase):
         self.assertOneError(page, "not verbatim")
 
     def test_unstudied_lesson_cannot_be_quoted(self):
-        page = GOOD_PAGE.replace("DW A1 E1 L3 · script", "DW B1 E1 L1 · script")
+        page = GOOD_PAGE.replace("DW A1 E1 L3 · script", "DW A1 E2 L1 · script")
         self.assertOneError(page, "not a captured lesson")
 
     def test_learner_quote_must_be_in_the_linked_notes(self):

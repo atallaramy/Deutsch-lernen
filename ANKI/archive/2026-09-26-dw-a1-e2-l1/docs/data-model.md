@@ -15,7 +15,6 @@
 | `*-scan-index.json` | Written by `package`: lessons, counts, package hashes. |
 | `archive/2026-09-25-pre-v3/` | Backup of every file replaced by the v3 redesign, with a SHA-256 manifest. |
 | `archive/2026-09-26-grammar-book/` | Backup of the instruction and doc files edited when the grammar book was added, with a SHA-256 manifest. |
-| `archive/2026-09-26-dw-a1-e2-l1/` | Backup of the data, builder, test, grammar and doc files edited when DW A1 E2 L1 was processed, with a SHA-256 manifest. |
 
 ## Code
 

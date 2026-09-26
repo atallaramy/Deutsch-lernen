@@ -1,5 +1,5 @@
 {
- "revision": "2026-09-25T12:00:00Z",
+ "revision": "2026-09-26T12:00:00Z",
  "entries": {
   "dw-a1-e0-l1:auch": [
    "vocab:auch|also"
@@ -778,6 +778,121 @@
   "dw-a1-e1-l4:die-familie": [
    "article:Familie|f",
    "vocab:Familie|family"
+  ],
+  "dw-a1-e2-l1:acht": [
+   "vocab:acht|8"
+  ],
+  "dw-a1-e2-l1:achtzig": [
+   "vocab:achtzig|80"
+  ],
+  "dw-a1-e2-l1:bis-morgen": [
+   "vocab:Bis morgen!|see-you-tomorrow"
+  ],
+  "dw-a1-e2-l1:der-buchstabe": [
+   "article:Buchstabe|m",
+   "vocab:Buchstabe|letter"
+  ],
+  "dw-a1-e2-l1:drei": [
+   "vocab:drei|3"
+  ],
+  "dw-a1-e2-l1:dreissig": [
+   "vocab:dreißig|30"
+  ],
+  "dw-a1-e2-l1:einhundert": [
+   "vocab:einhundert|100"
+  ],
+  "dw-a1-e2-l1:die-einladung": [
+   "article:Einladung|f",
+   "vocab:Einladung|invitation"
+  ],
+  "dw-a1-e2-l1:eins": [
+   "vocab:eins|1"
+  ],
+  "dw-a1-e2-l1:elf": [
+   "vocab:elf|11"
+  ],
+  "dw-a1-e2-l1:emma-ist-acht-jahre-alt": [
+   "sentence:emma-is-eight"
+  ],
+  "dw-a1-e2-l1:feiern": [
+   "vocab:feiern|to-celebrate"
+  ],
+  "dw-a1-e2-l1:funf": [
+   "vocab:fünf|5"
+  ],
+  "dw-a1-e2-l1:funfzig": [
+   "vocab:fünfzig|50"
+  ],
+  "dw-a1-e2-l1:der-geburtstag": [
+   "article:Geburtstag|m",
+   "vocab:Geburtstag|birthday"
+  ],
+  "dw-a1-e2-l1:das-geschenk": [
+   "article:Geschenk|n",
+   "vocab:Geschenk|gift"
+  ],
+  "dw-a1-e2-l1:die-hausnummer": [
+   "article:Hausnummer|f",
+   "vocab:Hausnummer|house-number"
+  ],
+  "dw-a1-e2-l1:ich-werde-acht-jahre-alt": [
+   "sentence:turning-eight"
+  ],
+  "dw-a1-e2-l1:lotte-wird-acht-jahre-alt": [
+   "sentence:lotte-turns-eight"
+  ],
+  "dw-a1-e2-l1:neun": [
+   "vocab:neun|9"
+  ],
+  "dw-a1-e2-l1:neunzig": [
+   "vocab:neunzig|90"
+  ],
+  "dw-a1-e2-l1:die-person": [
+   "article:Person|f",
+   "vocab:Person|person"
+  ],
+  "dw-a1-e2-l1:sechs": [
+   "vocab:sechs|6"
+  ],
+  "dw-a1-e2-l1:sechzig": [
+   "vocab:sechzig|60"
+  ],
+  "dw-a1-e2-l1:sieben": [
+   "vocab:sieben|7"
+  ],
+  "dw-a1-e2-l1:siebzig": [
+   "vocab:siebzig|70"
+  ],
+  "dw-a1-e2-l1:vier": [
+   "vocab:vier|4"
+  ],
+  "dw-a1-e2-l1:vierzig": [
+   "vocab:vierzig|40"
+  ],
+  "dw-a1-e2-l1:wie-alt-ist-emma": [
+   "sentence:how-old-emma"
+  ],
+  "dw-a1-e2-l1:wie-viele": [
+   "vocab:wie viele|how-many"
+  ],
+  "dw-a1-e2-l1:die-zahl": [
+   "article:Zahl|f",
+   "vocab:Zahl|number"
+  ],
+  "dw-a1-e2-l1:zehn": [
+   "vocab:zehn|10"
+  ],
+  "dw-a1-e2-l1:zwanzig": [
+   "vocab:zwanzig|20"
+  ],
+  "dw-a1-e2-l1:zwei": [
+   "vocab:zwei|2"
+  ],
+  "dw-a1-e2-l1:zwolf": [
+   "vocab:zwölf|12"
+  ],
+  "dw-a1-e2-l1:herzlichen-gluckwunsch-zum-geburtstag": [
+   "vocab:Herzlichen Glückwunsch zum Geburtstag|happy-birthday"
   ],
   "vhs-a1-l02:die-familie": [
    "article:Familie|f",

@@ -3,18 +3,6 @@
 Confirmed decisions, newest first. The binding rules they produce live in
 `AGENTS.md`; this file records why and when.
 
-## 2026-09-26 — mistake rounds
-
-| Topic | Decision |
-|---|---|
-| Mistake rounds | The learner's proposal, confirmed: the default first step for every finished lesson. Claude checks the notes against the official sources and dictionaries. Round 1 lists the wrong words exactly as written (with line numbers), no comments; the learner fixes them. Round 2 lists what is still wrong as *wrong → correct*; the learner fixes those. Only then does lesson processing start. |
-| Session override | The learner's instruction in a session wins for that session, e.g. "I finished the lesson, correct spelling and start finalizing": Claude saves the mistakes, corrects the notes and continues. |
-| Record | Each round is saved in the lesson's `Materials/mistakes.md` before the notes change. Cards (`learnerForm`) and the grammar book quote that file. |
-| Checking work | The mistake rounds are the learner's own study exercise; they do not conflict with "the learner does no checking work". |
-| What counts | Interpretation, applied: spelling, capitals, umlauts, missing or wrong words, word forms, articles, and punctuation that changes the sentence. Audio lines with no official transcript are listed as uncheckable instead of guessed. |
-| First use | DW A1 E2 L1 *Zahlen von 1 bis 100*, before its cards are approved. |
-| DW A1 E2 L1 build | The learner approved all 49 new and changed cards after two mistake rounds; the decks were built (270 Vocabulary, 102 Articles, 59 Sentences, 11 lesson decks). |
-
 ## 2026-09-26 — grammar book
 
 | Topic | Decision |

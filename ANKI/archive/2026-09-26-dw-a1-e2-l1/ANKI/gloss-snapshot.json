@@ -1,0 +1,2899 @@
+{
+ "description": "Dictionary definitions (en.wiktionary, else dict.cc) for meanings that no official course glossary supplies (captured by ANKI/harvest_sources.py --glosses).",
+ "terms": {
+  "AGB": {
+   "url": "https://en.wiktionary.org/wiki/AGB#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "initialism of Allgemeine Geschäftsbedingungen"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "Adresse": {
+   "url": "https://en.wiktionary.org/wiki/Adresse#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "address"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "Alles okay": {
+   "url": "https://en.wiktionary.org/api/rest_v1/page/definition/Alles_okay",
+   "status": 404,
+   "definitions": [],
+   "fetchedOn": "2026-09-25"
+  },
+  "Allgemeine Geschäftsbedingungen": {
+   "url": "https://en.wiktionary.org/wiki/Allgemeine_Gesch%C3%A4ftsbedingungen#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "general business conditions, terms and conditions"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "Alter": {
+   "url": "https://en.wiktionary.org/wiki/Alter#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "age, old age"
+    },
+    {
+     "pos": "Noun",
+     "text": "antiquity"
+    },
+    {
+     "pos": "Noun",
+     "text": "epoch, age"
+    },
+    {
+     "pos": "Noun",
+     "text": "nominalization of alt (“someone or something old or bygone”)"
+    },
+    {
+     "pos": "Noun",
+     "text": "old man; old person"
+    },
+    {
+     "pos": "Noun",
+     "text": "mate, bloke ; dude, guy ; a somewhat intimate or mildly dismissive word for a man, especially but not exclusively used as a vocative"
+    },
+    {
+     "pos": "Interjection",
+     "text": "man, dude, mate; used for emphasis"
+    },
+    {
+     "pos": "Noun",
+     "text": "inflection of Alte:\nstrong genitive/dative singular\nstrong genitive plural"
+    },
+    {
+     "pos": "Noun",
+     "text": "strong genitive/dative singular"
+    },
+    {
+     "pos": "Noun",
+     "text": "strong genitive plural"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "Auf Wiedersehen": {
+   "url": "https://www.dict.cc/?s=Auf+Wiedersehen",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "",
+     "text": "Goodbye!"
+    },
+    {
+     "pos": "",
+     "text": "Au revoir!"
+    },
+    {
+     "pos": "",
+     "text": "Bye!"
+    },
+    {
+     "pos": "",
+     "text": "Good bye!"
+    },
+    {
+     "pos": "",
+     "text": "Goodby!"
+    },
+    {
+     "pos": "",
+     "text": "See you!"
+    },
+    {
+     "pos": "",
+     "text": "Cheerio!"
+    },
+    {
+     "pos": "",
+     "text": "Ooroo!"
+    },
+    {
+     "pos": "",
+     "text": "See you again!"
+    },
+    {
+     "pos": "",
+     "text": "So long!"
+    },
+    {
+     "pos": "",
+     "text": "Tata!"
+    },
+    {
+     "pos": "",
+     "text": "Hoo Roo!"
+    },
+    {
+     "pos": "",
+     "text": "Ta-ra!"
+    },
+    {
+     "pos": "",
+     "text": "Good-by!"
+    },
+    {
+     "pos": "",
+     "text": "Ta-ta!"
+    },
+    {
+     "pos": "",
+     "text": "Bye-bye!"
+    }
+   ],
+   "dictionary": "dict.cc",
+   "fetchedOn": "2026-09-25"
+  },
+  "Aufhebung": {
+   "url": "https://en.wiktionary.org/wiki/Aufhebung#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "abolition, nullification, abrogation"
+    },
+    {
+     "pos": "Noun",
+     "text": "annulment"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "Beziehung": {
+   "url": "https://en.wiktionary.org/wiki/Beziehung#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "relation, relationship, connection .mw-parser-output .object-usage-tag{font-style:italic}.mw-parser-output .deprecated{color:var(--wikt-palette-grey-lime-8,olivedrab)}[with zu (+ dative) ‘with something’]"
+    },
+    {
+     "pos": "Noun",
+     "text": "interpersonal relationship, terms, relations"
+    },
+    {
+     "pos": "Noun",
+     "text": "romantic relationship"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "Bis bald": {
+   "url": "https://www.dict.cc/?s=Bis+bald",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "",
+     "text": "Bye for now!"
+    },
+    {
+     "pos": "",
+     "text": "See you soon!"
+    },
+    {
+     "pos": "",
+     "text": "C ya!"
+    }
+   ],
+   "dictionary": "dict.cc",
+   "fetchedOn": "2026-09-25"
+  },
+  "Brauchst du": {
+   "url": "https://www.dict.cc/?s=Brauchst+du",
+   "status": 404,
+   "definitions": [],
+   "dictionary": "dict.cc",
+   "fetchedOn": "2026-09-25"
+  },
+  "Bruder": {
+   "url": "https://en.wiktionary.org/wiki/Bruder#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "brother"
+    },
+    {
+     "pos": "Noun",
+     "text": "Brother (title of respect)"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "Buchstabieren Sie das": {
+   "url": "https://www.dict.cc/?s=Buchstabieren+Sie+das",
+   "status": 404,
+   "definitions": [],
+   "dictionary": "dict.cc",
+   "fetchedOn": "2026-09-25"
+  },
+  "Cousin": {
+   "url": "https://en.wiktionary.org/wiki/Cousin#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "male cousin"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "Cousine": {
+   "url": "https://en.wiktionary.org/wiki/Cousine#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "female cousin"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "DRK": {
+   "url": "https://en.wiktionary.org/wiki/DRK#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Proper noun",
+     "text": "initialism of Deutsches Rotes Kreuz"
+    },
+    {
+     "pos": "Proper noun",
+     "text": "initialism of Demokratische Republik Kongo"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "Danke der Nachfrage": {
+   "url": "https://www.dict.cc/?s=Danke+der+Nachfrage",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "",
+     "text": "Thank you for your concern."
+    },
+    {
+     "pos": "",
+     "text": "Thanks for asking."
+    },
+    {
+     "pos": "",
+     "text": "Thanks for the inquiry."
+    },
+    {
+     "pos": "",
+     "text": "Kind of you to ask!"
+    },
+    {
+     "pos": "",
+     "text": "Nice of you to ask!"
+    }
+   ],
+   "dictionary": "dict.cc",
+   "fetchedOn": "2026-09-25"
+  },
+  "Das freut mich": {
+   "url": "https://www.dict.cc/?s=Das+freut+mich",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "",
+     "text": "I'm really pleased."
+    }
+   ],
+   "dictionary": "dict.cc",
+   "fetchedOn": "2026-09-25"
+  },
+  "Eltern": {
+   "url": "https://en.wiktionary.org/wiki/Eltern#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "parents"
+    },
+    {
+     "pos": "Noun",
+     "text": "When a singular is required, the term Elternteil is used in everyday language. In certain fields such as psychology and genetics, however, the back-formed singular Elter is also used."
+    },
+    {
+     "pos": "Noun",
+     "text": "When the word numeral “two” was still declined by gender (zween m, zwo f, zwei n), the masculine form was predominantly used, less often the neuter one."
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "Familie": {
+   "url": "https://en.wiktionary.org/wiki/Familie#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "family"
+    },
+    {
+     "pos": "Noun",
+     "text": "family"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "Familienname": {
+   "url": "https://en.wiktionary.org/wiki/Familienname#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "surname, family name, last name"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "Familienstand": {
+   "url": "https://en.wiktionary.org/wiki/Familienstand#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "marital status"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "Frau": {
+   "url": "https://en.wiktionary.org/wiki/Frau#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "woman (adult female human)"
+    },
+    {
+     "pos": "Noun",
+     "text": "wife (married woman, especially in relation to her spouse)"
+    },
+    {
+     "pos": "Noun",
+     "text": "a title of courtesy, equivalent to Mrs/Ms, which has nearly replaced Fräulein in the function of Miss"
+    },
+    {
+     "pos": "Noun",
+     "text": "madam (polite form of address for a woman or lady)"
+    },
+    {
+     "pos": "Noun",
+     "text": "lady; noblewoman (woman of breeding or higher class)"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "Geburtsort": {
+   "url": "https://en.wiktionary.org/wiki/Geburtsort#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "birthplace, place of birth"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "Geschwister": {
+   "url": "https://en.wiktionary.org/wiki/Geschwister#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "sibling"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "Geschäftsbedingung": {
+   "url": "https://en.wiktionary.org/wiki/Gesch%C3%A4ftsbedingung#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "conditions of trading"
+    },
+    {
+     "pos": "Noun",
+     "text": "terms of business"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "Großeltern": {
+   "url": "https://en.wiktionary.org/wiki/Gro%C3%9Feltern#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "grandparents"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "Großmutter": {
+   "url": "https://en.wiktionary.org/wiki/Gro%C3%9Fmutter#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "grandmother"
+    },
+    {
+     "pos": "Noun",
+     "text": "old woman, elderly woman, old lady"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "Großvater": {
+   "url": "https://en.wiktionary.org/wiki/Gro%C3%9Fvater#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "grandfather"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "Grüezi": {
+   "url": "https://www.dict.cc/?s=Gr%C3%BCezi",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "",
+     "text": "Hello!"
+    },
+    {
+     "pos": "",
+     "text": "Hi!"
+    }
+   ],
+   "dictionary": "dict.cc",
+   "fetchedOn": "2026-09-25"
+  },
+  "Guten Abend": {
+   "url": "https://www.dict.cc/?s=Guten+Abend",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "",
+     "text": "Good evening!"
+    }
+   ],
+   "dictionary": "dict.cc",
+   "fetchedOn": "2026-09-25"
+  },
+  "Guten Morgen": {
+   "url": "https://www.dict.cc/?s=Guten+Morgen",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "",
+     "text": "Good morning!"
+    },
+    {
+     "pos": "",
+     "text": "Good morrow!"
+    },
+    {
+     "pos": "",
+     "text": "Good morning!"
+    }
+   ],
+   "dictionary": "dict.cc",
+   "fetchedOn": "2026-09-25"
+  },
+  "Guten Tag": {
+   "url": "https://www.dict.cc/?s=Guten+Tag",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "",
+     "text": "G'day!"
+    },
+    {
+     "pos": "",
+     "text": "Gidday!"
+    },
+    {
+     "pos": "",
+     "text": "Hello!"
+    },
+    {
+     "pos": "",
+     "text": "How do you do?"
+    },
+    {
+     "pos": "",
+     "text": "Good afternoon!"
+    },
+    {
+     "pos": "",
+     "text": "Good morning!"
+    },
+    {
+     "pos": "",
+     "text": "Good day!"
+    }
+   ],
+   "dictionary": "dict.cc",
+   "fetchedOn": "2026-09-25"
+  },
+  "Habe die Ehre": {
+   "url": "https://www.dict.cc/?s=Habe+die+Ehre",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "",
+     "text": "Good day!"
+    },
+    {
+     "pos": "",
+     "text": "Farewell!"
+    }
+   ],
+   "dictionary": "dict.cc",
+   "fetchedOn": "2026-09-25"
+  },
+  "Hallo": {
+   "url": "https://en.wiktionary.org/wiki/Hallo#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "hullabaloo, cheering"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-09-25"
+  },
+  "Hausnummer": {
+   "url": "https://en.wiktionary.org/wiki/Hausnummer#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "house number"
+    },
+    {
+     "pos": "Noun",
+     "text": "ballpark figure"
+    },
+    {
+     "pos": "Noun",
+     "text": "a place in a statute by its number as relevant for answering a legal question"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "Hey": {
+   "url": "https://www.dict.cc/?s=Hey",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "",
+     "text": "Hey!"
+    },
+    {
+     "pos": "",
+     "text": "Yo!"
+    }
+   ],
+   "dictionary": "dict.cc",
+   "fetchedOn": "2026-09-25"
+  },
+  "Hi": {
+   "url": "https://www.dict.cc/?s=Hi",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "",
+     "text": "Hi!"
+    }
+   ],
+   "dictionary": "dict.cc",
+   "fetchedOn": "2026-09-25"
+  },
+  "Ich buchstabiere": {
+   "url": "https://www.dict.cc/?s=Ich+buchstabiere",
+   "status": 404,
+   "definitions": [],
+   "dictionary": "dict.cc",
+   "fetchedOn": "2026-09-25"
+  },
+  "Ihr": {
+   "url": "https://en.wiktionary.org/wiki/Ihr#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Pronoun",
+     "text": "you"
+    },
+    {
+     "pos": "Determiner",
+     "text": "your (that belongs to you )"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "Kind": {
+   "url": "https://en.wiktionary.org/wiki/Kind#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "kid; child (young person)"
+    },
+    {
+     "pos": "Noun",
+     "text": "child; offspring (person with regard to his or her parents; also a baby animal or young animal, especially as the second component in numerous compound nouns)"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "Konjugation": {
+   "url": "https://en.wiktionary.org/wiki/Konjugation#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "conjugation (verb inflection)"
+    },
+    {
+     "pos": "Noun",
+     "text": "conjugation"
+    },
+    {
+     "pos": "Noun",
+     "text": "conjugation (negation of non-real part)"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-09-25"
+  },
+  "LKW": {
+   "url": "https://en.wiktionary.org/wiki/LKW#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "initialism of Lastkraftwagen (“truck”)"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "Lastkraftwagen": {
+   "url": "https://en.wiktionary.org/wiki/Lastkraftwagen#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "truck, lorry (motor vehicle for transporting goods)"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "Lebenspartner": {
+   "url": "https://en.wiktionary.org/wiki/Lebenspartner#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "life partner"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "Lebenspartnerschaft": {
+   "url": "https://en.wiktionary.org/api/rest_v1/page/definition/Lebenspartnerschaft",
+   "status": 404,
+   "definitions": [],
+   "fetchedOn": "2026-09-25"
+  },
+  "Liebe Grüße": {
+   "url": "https://www.dict.cc/?s=Liebe+Gr%C3%BC%C3%9Fe",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "",
+     "text": "best wishes"
+    },
+    {
+     "pos": "",
+     "text": "kind regards"
+    },
+    {
+     "pos": "",
+     "text": "Lots of love"
+    },
+    {
+     "pos": "",
+     "text": "Kind regards"
+    }
+   ],
+   "dictionary": "dict.cc",
+   "fetchedOn": "2026-09-25"
+  },
+  "Mach’s gut": {
+   "url": "https://www.dict.cc/?s=Mach%E2%80%99s+gut",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "",
+     "text": "Take care!"
+    },
+    {
+     "pos": "",
+     "text": "So long!"
+    },
+    {
+     "pos": "",
+     "text": "Mind yourself!"
+    },
+    {
+     "pos": "",
+     "text": "Take it easy!"
+    },
+    {
+     "pos": "",
+     "text": "Cheerio!"
+    },
+    {
+     "pos": "",
+     "text": "Cheers!"
+    }
+   ],
+   "dictionary": "dict.cc",
+   "fetchedOn": "2026-09-25"
+  },
+  "Man sieht sich": {
+   "url": "https://www.dict.cc/?s=Man+sieht+sich",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "",
+     "text": "See ya!"
+    },
+    {
+     "pos": "",
+     "text": "Be seeing you."
+    },
+    {
+     "pos": "",
+     "text": "See you on the flipside!"
+    }
+   ],
+   "dictionary": "dict.cc",
+   "fetchedOn": "2026-09-25"
+  },
+  "Mann": {
+   "url": "https://en.wiktionary.org/wiki/Mann#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "man, male human being"
+    },
+    {
+     "pos": "Noun",
+     "text": "husband"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "Moin": {
+   "url": "https://www.dict.cc/?s=Moin",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "",
+     "text": "Hello!"
+    }
+   ],
+   "dictionary": "dict.cc",
+   "fetchedOn": "2026-09-25"
+  },
+  "Mutter": {
+   "url": "https://en.wiktionary.org/wiki/Mutter#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "mother"
+    },
+    {
+     "pos": "Proper noun",
+     "text": "Mother; Mum; Mom: one's mother"
+    },
+    {
+     "pos": "Noun",
+     "text": "nut"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "Nachname": {
+   "url": "https://en.wiktionary.org/wiki/Nachname#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "last name, surname"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "Onkel": {
+   "url": "https://en.wiktionary.org/wiki/Onkel#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "uncle"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "PKW": {
+   "url": "https://en.wiktionary.org/wiki/PKW#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "abbreviation of Personenkraftwagen (“passenger car”)"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "Partnerschaft": {
+   "url": "https://en.wiktionary.org/wiki/Partnerschaft#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "partnership (state of joint association in conducting affairs)"
+    },
+    {
+     "pos": "Noun",
+     "text": "partnership, relationship (state of being associated with another person)"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "Personalpronomen": {
+   "url": "https://en.wiktionary.org/wiki/Personalpronomen#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "personal pronoun"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-09-25"
+  },
+  "Personenkraftwagen": {
+   "url": "https://en.wiktionary.org/wiki/Personenkraftwagen#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "car; passenger car"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "Plural": {
+   "url": "https://en.wiktionary.org/wiki/Plural#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "plural"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-09-25"
+  },
+  "Postleitzahl": {
+   "url": "https://en.wiktionary.org/wiki/Postleitzahl#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "postal code"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "Präsens": {
+   "url": "https://en.wiktionary.org/wiki/Pr%C3%A4sens#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "present tense"
+    },
+    {
+     "pos": "Noun",
+     "text": "verb in the present tense"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-09-25"
+  },
+  "Rotes Kreuz": {
+   "url": "https://en.wiktionary.org/wiki/Rotes_Kreuz#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Proper noun",
+     "text": "Red Cross"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "Schwester": {
+   "url": "https://en.wiktionary.org/wiki/Schwester#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "sister"
+    },
+    {
+     "pos": "Noun",
+     "text": "nurse; by extension used to refer to any medical staff that is not a doctor (usually, but not necessarily, confined to female staff)"
+    },
+    {
+     "pos": "Noun",
+     "text": "nurse; used as a title of address for nurses"
+    },
+    {
+     "pos": "Noun",
+     "text": "sister; nun; used particularly, but not only, as a title of address"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "Schwiegereltern": {
+   "url": "https://en.wiktionary.org/wiki/Schwiegereltern#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "parents-in-law"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "Schwiegermutter": {
+   "url": "https://en.wiktionary.org/wiki/Schwiegermutter#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "mother-in-law"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "Schwiegervater": {
+   "url": "https://en.wiktionary.org/wiki/Schwiegervater#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "father-in-law"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "Schönen Tag noch": {
+   "url": "https://www.dict.cc/?s=Sch%C3%B6nen+Tag+noch",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "",
+     "text": "Have a good one!"
+    },
+    {
+     "pos": "",
+     "text": "Have a nice day."
+    }
+   ],
+   "dictionary": "dict.cc",
+   "fetchedOn": "2026-09-25"
+  },
+  "Servus": {
+   "url": "https://www.dict.cc/?s=Servus",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "",
+     "text": "Hello!"
+    },
+    {
+     "pos": "",
+     "text": "Goodbye!"
+    },
+    {
+     "pos": "",
+     "text": "Hi!"
+    },
+    {
+     "pos": "",
+     "text": "Cheerio!"
+    },
+    {
+     "pos": "",
+     "text": "So long!"
+    },
+    {
+     "pos": "",
+     "text": "Tata!"
+    }
+   ],
+   "dictionary": "dict.cc",
+   "fetchedOn": "2026-09-25"
+  },
+  "Sie ist im Computerkurs": {
+   "url": "https://www.dict.cc/?s=Sie+ist+im+Computerkurs",
+   "status": 404,
+   "definitions": [],
+   "dictionary": "dict.cc",
+   "fetchedOn": "2026-09-25"
+  },
+  "Sie sind im Deutschkurs": {
+   "url": "https://www.dict.cc/?s=Sie+sind+im+Deutschkurs",
+   "status": 404,
+   "definitions": [],
+   "dictionary": "dict.cc",
+   "fetchedOn": "2026-09-25"
+  },
+  "Sie sprechen Englisch": {
+   "url": "https://www.dict.cc/?s=Sie+sprechen+Englisch",
+   "status": 404,
+   "definitions": [],
+   "dictionary": "dict.cc",
+   "fetchedOn": "2026-09-25"
+  },
+  "Sie spricht Chinesisch": {
+   "url": "https://www.dict.cc/?s=Sie+spricht+Chinesisch",
+   "status": 404,
+   "definitions": [],
+   "dictionary": "dict.cc",
+   "fetchedOn": "2026-09-25"
+  },
+  "Singular": {
+   "url": "https://en.wiktionary.org/wiki/Singular#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "singular"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-09-25"
+  },
+  "Situation": {
+   "url": "https://en.wiktionary.org/wiki/Situation#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "situation, circumstances"
+    },
+    {
+     "pos": "Noun",
+     "text": "setting (background, atmosphere)"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "Sohn": {
+   "url": "https://en.wiktionary.org/wiki/Sohn#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "son"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "Stadt": {
+   "url": "https://en.wiktionary.org/wiki/Stadt#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "city (a large settlement)"
+    },
+    {
+     "pos": "Noun",
+     "text": "town (a settlement larger than a village)"
+    },
+    {
+     "pos": "Noun",
+     "text": "city center (a central business area of a city)"
+    },
+    {
+     "pos": "Noun",
+     "text": "city, town, town council, city council (a governing body of people elected to oversee management of a municipality)"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "Straße": {
+   "url": "https://en.wiktionary.org/wiki/Stra%C3%9Fe#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "street; road (a way wide enough to be passable for vehicles, generally paved, in or outside a settlement)"
+    },
+    {
+     "pos": "Noun",
+     "text": "carriageway (the part of a road or street used by vehicles, excluding the pavement, etc.)"
+    },
+    {
+     "pos": "Noun",
+     "text": "public, any area accessible to anyone"
+    },
+    {
+     "pos": "Noun",
+     "text": "general public, using the locale to describe people not part of a specific group"
+    },
+    {
+     "pos": "Noun",
+     "text": "the streets, areas or groups of people of no income or criminal affiliation, or the leading of a life associated with these"
+    },
+    {
+     "pos": "Noun",
+     "text": "strait (channel of water)"
+    },
+    {
+     "pos": "Noun",
+     "text": "straight"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "Tante": {
+   "url": "https://en.wiktionary.org/wiki/Tante#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "aunt"
+    },
+    {
+     "pos": "Noun",
+     "text": "woman, broad"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "Taxi": {
+   "url": "https://en.wiktionary.org/wiki/Taxi#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "taxi, cab"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "Telefonnummer": {
+   "url": "https://en.wiktionary.org/wiki/Telefonnummer#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "telephone number"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "Tochter": {
+   "url": "https://en.wiktionary.org/wiki/Tochter#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "daughter"
+    },
+    {
+     "pos": "Noun",
+     "text": "subsidiary (company)"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "Tschüss": {
+   "url": "https://www.dict.cc/?s=Tsch%C3%BCss",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "",
+     "text": "Bye!"
+    },
+    {
+     "pos": "",
+     "text": "Cheers!"
+    },
+    {
+     "pos": "",
+     "text": "Cheerio!"
+    },
+    {
+     "pos": "",
+     "text": "Toodles!"
+    },
+    {
+     "pos": "",
+     "text": "Tata!"
+    },
+    {
+     "pos": "",
+     "text": "T'rah!"
+    },
+    {
+     "pos": "",
+     "text": "Tarah!"
+    },
+    {
+     "pos": "",
+     "text": "Odabo!"
+    },
+    {
+     "pos": "",
+     "text": "Bye-bye!"
+    },
+    {
+     "pos": "",
+     "text": "So long!"
+    },
+    {
+     "pos": "",
+     "text": "Toodle-oo!"
+    },
+    {
+     "pos": "",
+     "text": "Toodle-pip!"
+    },
+    {
+     "pos": "",
+     "text": "See you later!"
+    },
+    {
+     "pos": "",
+     "text": "Mind how you go!"
+    },
+    {
+     "pos": "",
+     "text": "Ta ta for now!"
+    }
+   ],
+   "dictionary": "dict.cc",
+   "fetchedOn": "2026-09-25"
+  },
+  "USB": {
+   "url": "https://en.wiktionary.org/wiki/USB#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "USB"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "Vater": {
+   "url": "https://en.wiktionary.org/wiki/Vater#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "father"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "Verb": {
+   "url": "https://en.wiktionary.org/wiki/Verb#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "verb"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-09-25"
+  },
+  "Vielen Dank": {
+   "url": "https://www.dict.cc/?s=Vielen+Dank",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "",
+     "text": "Ta ever so much ..."
+    },
+    {
+     "pos": "",
+     "text": "Many thanks!"
+    },
+    {
+     "pos": "",
+     "text": "Mercy buckets!"
+    },
+    {
+     "pos": "",
+     "text": "Thank you very much!"
+    },
+    {
+     "pos": "",
+     "text": "Thanks a bunch!"
+    },
+    {
+     "pos": "",
+     "text": "Thanks a lot!"
+    },
+    {
+     "pos": "",
+     "text": "Thanks a ton!"
+    }
+   ],
+   "dictionary": "dict.cc",
+   "fetchedOn": "2026-09-25"
+  },
+  "Vorname": {
+   "url": "https://en.wiktionary.org/wiki/Vorname#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "given name (name chosen for a child by its parents)"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "Wie geht’s": {
+   "url": "https://www.dict.cc/?s=Wie+geht%E2%80%99s",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "",
+     "text": "How are the bots biting?"
+    },
+    {
+     "pos": "",
+     "text": "How are things going?"
+    },
+    {
+     "pos": "",
+     "text": "How are things?"
+    },
+    {
+     "pos": "",
+     "text": "How are you?"
+    },
+    {
+     "pos": "",
+     "text": "How ya doin?"
+    },
+    {
+     "pos": "",
+     "text": "How's it going?"
+    },
+    {
+     "pos": "",
+     "text": "How's it hangin'?"
+    },
+    {
+     "pos": "",
+     "text": "How's things?"
+    },
+    {
+     "pos": "",
+     "text": "How goes it?"
+    },
+    {
+     "pos": "",
+     "text": "What about ya?"
+    },
+    {
+     "pos": "",
+     "text": "What's up?"
+    },
+    {
+     "pos": "",
+     "text": "What's cracking?"
+    }
+   ],
+   "dictionary": "dict.cc",
+   "fetchedOn": "2026-09-25"
+  },
+  "Wie viele Kinder haben Sie": {
+   "url": "https://www.dict.cc/?s=Wie+viele+Kinder+haben+Sie",
+   "status": 404,
+   "definitions": [],
+   "dictionary": "dict.cc",
+   "fetchedOn": "2026-09-25"
+  },
+  "Willst du": {
+   "url": "https://www.dict.cc/?s=Willst+du",
+   "status": 404,
+   "definitions": [],
+   "dictionary": "dict.cc",
+   "fetchedOn": "2026-09-25"
+  },
+  "Wo ist": {
+   "url": "https://www.dict.cc/?s=Wo+ist",
+   "status": 404,
+   "definitions": [],
+   "dictionary": "dict.cc",
+   "fetchedOn": "2026-09-25"
+  },
+  "Wohin": {
+   "url": "https://en.wiktionary.org/api/rest_v1/page/definition/Wohin",
+   "status": 404,
+   "definitions": [],
+   "fetchedOn": "2026-09-25"
+  },
+  "Wohnort": {
+   "url": "https://en.wiktionary.org/wiki/Wohnort#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "place of residence"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "Zentrum": {
+   "url": "https://en.wiktionary.org/wiki/Zentrum#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "center, centre\ncentral point, the middle, e.g. of a circle"
+    },
+    {
+     "pos": "Noun",
+     "text": "central point, the middle, e.g. of a circle"
+    },
+    {
+     "pos": "Noun",
+     "text": "focus, core, the main point"
+    },
+    {
+     "pos": "Noun",
+     "text": "a place (or group of people) that dominates and influences its surroundings, e.g. a capital"
+    },
+    {
+     "pos": "Noun",
+     "text": "a place set aside for some function or activity"
+    },
+    {
+     "pos": "Noun",
+     "text": "the moderate political parties, the mainstream"
+    },
+    {
+     "pos": "Noun",
+     "text": "the centre of a group, ring, Lie algebra, etc."
+    },
+    {
+     "pos": "Noun",
+     "text": "the spaces d4, d5, e4, e5 on a chessboard"
+    },
+    {
+     "pos": "Proper noun",
+     "text": "the Centre Party, a Catholic political party, chiefly in Imperial Germany and the Weimar Republic"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "acht": {
+   "url": "https://en.wiktionary.org/wiki/acht#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Numeral",
+     "text": "eight (numerical value represented by the Arabic numeral 8; or describing a set with eight elements)"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "achtzehn": {
+   "url": "https://en.wiktionary.org/wiki/achtzehn#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Numeral",
+     "text": "eighteen"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "alles": {
+   "url": "https://en.wiktionary.org/wiki/alles#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Pronoun",
+     "text": "everything; all"
+    },
+    {
+     "pos": "Pronoun",
+     "text": "all (as in \"we all\" etc.)"
+    },
+    {
+     "pos": "Pronoun",
+     "text": "Used with an interrogative to express that the answer probably covers more than one item, like dialectal English all."
+    },
+    {
+     "pos": "Determiner",
+     "text": "form of all"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "alles klar": {
+   "url": "https://en.wiktionary.org/wiki/alles_klar#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Interjection",
+     "text": "all right; okay (used either as a question or answer/agreement)"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-09-25"
+  },
+  "arbeiten": {
+   "url": "https://en.wiktionary.org/wiki/arbeiten#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Verb",
+     "text": "to work (to do a specific task by employing physical or mental powers) .mw-parser-output .object-usage-tag{font-style:italic}.mw-parser-output .deprecated{color:var(--wikt-palette-grey-lime-8,olivedrab)}[with an (+ dative)]"
+    },
+    {
+     "pos": "Verb",
+     "text": "to work, function, run, operate (to be operative, in action)"
+    },
+    {
+     "pos": "Verb",
+     "text": "to ferment (to react, using fermentation)"
+    },
+    {
+     "pos": "Verb",
+     "text": "to work, execute (to set into action)"
+    },
+    {
+     "pos": "Verb",
+     "text": "to make, produce (to create)"
+    },
+    {
+     "pos": "Verb",
+     "text": "to do, perform (to carry out or execute, especially something involving work)"
+    },
+    {
+     "pos": "Verb",
+     "text": "to work oneself (to) (to make oneself (a certain state) by working)"
+    },
+    {
+     "pos": "Verb",
+     "text": "to work one's way (to attain through work, by gradual degrees)"
+    },
+    {
+     "pos": "Verb",
+     "text": "to work (translated by rephrasing to use a general “you” or with the gerund, “working”) (to do a specific task by employing physical or mental powers)"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "auf Wiederhören": {
+   "url": "https://en.wiktionary.org/wiki/auf_Wiederh%C3%B6ren#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Interjection",
+     "text": "goodbye"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-09-25"
+  },
+  "aufheben": {
+   "url": "https://en.wiktionary.org/wiki/aufheben#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Verb",
+     "text": "to pick up (something lying on the ground)"
+    },
+    {
+     "pos": "Verb",
+     "text": "to keep something for the future"
+    },
+    {
+     "pos": "Verb",
+     "text": "to abolish (rule, law, etc.)"
+    },
+    {
+     "pos": "Verb",
+     "text": "to sublate (preserve and cancel simultaneously)"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "baba": {
+   "url": "https://en.wiktionary.org/wiki/baba#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Interjection",
+     "text": "bye-bye, see you, so long"
+    },
+    {
+     "pos": "Adjective",
+     "text": "boss, rad, fly"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-09-25"
+  },
+  "bis dann": {
+   "url": "https://en.wiktionary.org/wiki/bis_dann#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Interjection",
+     "text": "see you then, see you later"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-09-25"
+  },
+  "bis die Tage": {
+   "url": "https://www.dict.cc/?s=bis+die+Tage",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "",
+     "text": "See you later!"
+    }
+   ],
+   "dictionary": "dict.cc",
+   "fetchedOn": "2026-09-25"
+  },
+  "bis später": {
+   "url": "https://en.wiktionary.org/wiki/bis_sp%C3%A4ter#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Interjection",
+     "text": "see you later"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-09-25"
+  },
+  "ciao": {
+   "url": "https://en.wiktionary.org/wiki/ciao#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Interjection",
+     "text": "ciao"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-09-25"
+  },
+  "dein": {
+   "url": "https://en.wiktionary.org/wiki/dein#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Pronoun",
+     "text": "genitive singular of du"
+    },
+    {
+     "pos": "Determiner",
+     "text": "thy, your ."
+    },
+    {
+     "pos": "Determiner",
+     "text": "nominative/accusative neuter singular of dein"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "deutsch": {
+   "url": "https://en.wiktionary.org/wiki/deutsch#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Adjective",
+     "text": "German (of or pertaining to the German people)"
+    },
+    {
+     "pos": "Adjective",
+     "text": "German (of or pertaining to Germany)"
+    },
+    {
+     "pos": "Adjective",
+     "text": "German (of or pertaining to the German language)"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "drei": {
+   "url": "https://en.wiktionary.org/wiki/drei#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Numeral",
+     "text": "three (numerical value represented by the Arabic numeral 3; or describing a set with three elements)"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "dreizehn": {
+   "url": "https://en.wiktionary.org/wiki/dreizehn#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Numeral",
+     "text": "thirteen"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "dreißig": {
+   "url": "https://en.wiktionary.org/wiki/drei%C3%9Fig#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Numeral",
+     "text": "thirty"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "eingetragen": {
+   "url": "https://en.wiktionary.org/wiki/eingetragen#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Participle",
+     "text": "past participle of eintragen"
+    },
+    {
+     "pos": "Participle",
+     "text": "registered (past participle of eintragen)"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "eingetragene Lebenspartnerschaft": {
+   "url": "https://en.wiktionary.org/api/rest_v1/page/definition/eingetragene_Lebenspartnerschaft",
+   "status": 404,
+   "definitions": [],
+   "fetchedOn": "2026-09-25"
+  },
+  "eingetragene Lebenspartnerschaft aufgehoben": {
+   "url": "https://en.wiktionary.org/api/rest_v1/page/definition/eingetragene_Lebenspartnerschaft_aufgehoben",
+   "status": 404,
+   "definitions": [],
+   "fetchedOn": "2026-09-25"
+  },
+  "eingetragene(r) Lebenspartner(in) verstorben": {
+   "url": "https://en.wiktionary.org/api/rest_v1/page/definition/eingetragene%28r%29_Lebenspartner%28in%29_verstorben",
+   "status": 404,
+   "definitions": [],
+   "fetchedOn": "2026-09-25"
+  },
+  "eins": {
+   "url": "https://en.wiktionary.org/wiki/eins#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Numeral",
+     "text": "one (numerical value represented by the Arabic numeral 1; first positive number in the set of natural numbers)"
+    },
+    {
+     "pos": "Numeral",
+     "text": "one, one o'clock"
+    },
+    {
+     "pos": "Pronoun",
+     "text": "alternative form of eines: strong nominative/accusative neuter singular of einer"
+    },
+    {
+     "pos": "Adverb",
+     "text": "only used in (sich) eins sein (“to agree”) and (sich) eins werden (“to arrive at an agreement”)"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "einundzwanzig": {
+   "url": "https://en.wiktionary.org/wiki/einundzwanzig#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Numeral",
+     "text": "twenty-one"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "elf": {
+   "url": "https://en.wiktionary.org/wiki/elf#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Numeral",
+     "text": "eleven"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "er": {
+   "url": "https://en.wiktionary.org/wiki/er#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Pronoun",
+     "text": "he"
+    },
+    {
+     "pos": "Pronoun",
+     "text": "it (when the grammatical gender of the object/article/thing/animal etc., being referred to, is masculine (der))"
+    },
+    {
+     "pos": "Pronoun",
+     "text": "she (when the grammatical gender of the noun being referred to and designating a female person, is masculine (der))"
+    },
+    {
+     "pos": "Pronoun",
+     "text": "Used in reference to a computer or other machine when personifying it; it"
+    },
+    {
+     "pos": "Pronoun",
+     "text": "alternative spelling of Er (you (polite))"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "formell": {
+   "url": "https://en.wiktionary.org/wiki/formell#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Adjective",
+     "text": "formal (official)"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "fünf": {
+   "url": "https://en.wiktionary.org/wiki/f%C3%BCnf#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Numeral",
+     "text": "five (numerical value represented by the Arabic numeral 5; or describing a set with five elements)"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "fünfzehn": {
+   "url": "https://en.wiktionary.org/wiki/f%C3%BCnfzehn#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Numeral",
+     "text": "fifteen"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "geschieden": {
+   "url": "https://en.wiktionary.org/wiki/geschieden#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Participle",
+     "text": "past participle of scheiden"
+    },
+    {
+     "pos": "Adjective",
+     "text": "divorced"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "getrennt": {
+   "url": "https://en.wiktionary.org/wiki/getrennt#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Participle",
+     "text": "past participle of trennen"
+    },
+    {
+     "pos": "Adjective",
+     "text": "separate, apart"
+    },
+    {
+     "pos": "Adjective",
+     "text": "split"
+    },
+    {
+     "pos": "Adverb",
+     "text": "separately"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "getrennt lebend": {
+   "url": "https://en.wiktionary.org/api/rest_v1/page/definition/getrennt_lebend",
+   "status": 404,
+   "definitions": [],
+   "fetchedOn": "2026-09-25"
+  },
+  "haben": {
+   "url": "https://en.wiktionary.org/wiki/haben#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Verb",
+     "text": "forms the perfect aspect (have) .mw-parser-output .object-usage-tag{font-style:italic}.mw-parser-output .deprecated{color:var(--wikt-palette-grey-lime-8,olivedrab)}[with past participle]"
+    },
+    {
+     "pos": "Verb",
+     "text": "to have; to own (to possess, have ownership of; to possess a certain characteristic)"
+    },
+    {
+     "pos": "Verb",
+     "text": "to have; to hold (to contain within itself/oneself)"
+    },
+    {
+     "pos": "Verb",
+     "text": "to have, get (to obtain, acquire)"
+    },
+    {
+     "pos": "Verb",
+     "text": "to get (to receive)"
+    },
+    {
+     "pos": "Verb",
+     "text": "to have (to be scheduled to attend)"
+    },
+    {
+     "pos": "Verb",
+     "text": "to have (to be afflicted with, suffer from)"
+    },
+    {
+     "pos": "Verb",
+     "text": "to contain, be composed of, equal"
+    },
+    {
+     "pos": "Verb",
+     "text": "there be, there is, there are"
+    },
+    {
+     "pos": "Verb",
+     "text": "to make a fuss"
+    },
+    {
+     "pos": "Verb",
+     "text": "to be occupied with, to like, to be into [with es and mit (+ dative) ‘something/someone’]"
+    },
+    {
+     "pos": "Verb",
+     "text": "to talk [with es, along with von (+ dative) or über (+ accusative) ‘about someone/something’]"
+    },
+    {
+     "pos": "Verb",
+     "text": "to have to, must [with zu (+ infinitive) ‘do something’]"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "hallihallo": {
+   "url": "https://en.wiktionary.org/wiki/hallihallo#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Interjection",
+     "text": "hello, hey hey, hideehi"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-09-25"
+  },
+  "hundert": {
+   "url": "https://en.wiktionary.org/wiki/hundert#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Numeral",
+     "text": "one hundred"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "ihr": {
+   "url": "https://en.wiktionary.org/wiki/ihr#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Pronoun",
+     "text": "you, ye"
+    },
+    {
+     "pos": "Pronoun",
+     "text": "dative of sie"
+    },
+    {
+     "pos": "Determiner",
+     "text": "her"
+    },
+    {
+     "pos": "Determiner",
+     "text": "its"
+    },
+    {
+     "pos": "Determiner",
+     "text": "their"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "in dem": {
+   "url": "https://www.dict.cc/?s=in+dem",
+   "status": 404,
+   "definitions": [],
+   "dictionary": "dict.cc",
+   "fetchedOn": "2026-09-25"
+  },
+  "in einer Beziehung": {
+   "url": "https://en.wiktionary.org/api/rest_v1/page/definition/in_einer_Beziehung",
+   "status": 404,
+   "definitions": [],
+   "fetchedOn": "2026-09-25"
+  },
+  "in eingetragener Lebenspartnerschaft": {
+   "url": "https://en.wiktionary.org/api/rest_v1/page/definition/in_eingetragener_Lebenspartnerschaft",
+   "status": 404,
+   "definitions": [],
+   "fetchedOn": "2026-09-25"
+  },
+  "informell": {
+   "url": "https://en.wiktionary.org/wiki/informell#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Adjective",
+     "text": "informal"
+    },
+    {
+     "pos": "Adverb",
+     "text": "informally"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "ins": {
+   "url": "https://en.wiktionary.org/wiki/ins#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Contraction",
+     "text": "contraction of in (“(in)to”) +‎ das (“the”)"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "kommen": {
+   "url": "https://en.wiktionary.org/wiki/kommen#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Verb",
+     "text": "to come; to arrive"
+    },
+    {
+     "pos": "Verb",
+     "text": "to come to; to come over (go somewhere so as to join someone else)"
+    },
+    {
+     "pos": "Verb",
+     "text": "to get; to make it (go somewhere in a way that implies an obstacle or difficulty to be overcome)"
+    },
+    {
+     "pos": "Verb",
+     "text": "to go to; to be put in (go somewhere in a way that is predetermined or prearranged)"
+    },
+    {
+     "pos": "Verb",
+     "text": "to come on"
+    },
+    {
+     "pos": "Verb",
+     "text": "to occur; to happen; to come to be .mw-parser-output .object-usage-tag{font-style:italic}.mw-parser-output .deprecated{color:var(--wikt-palette-grey-lime-8,olivedrab)}[with clause or zu (+ dative)]"
+    },
+    {
+     "pos": "Verb",
+     "text": "to be played"
+    },
+    {
+     "pos": "Verb",
+     "text": "to be due to; to be the result of [with von (+ dative) or durch (+ accusative) ‘something’]"
+    },
+    {
+     "pos": "Verb",
+     "text": "to come from (to have a social or geographic background) [with aus (+ dative)]"
+    },
+    {
+     "pos": "Verb",
+     "text": "to orgasm; to cum"
+    },
+    {
+     "pos": "Verb",
+     "text": "to orgasm; for there to be cumming [with dative ‘by someone’]"
+    },
+    {
+     "pos": "Verb",
+     "text": "to be statistically equivalent to; to be there for [with auf (+ accusative)]"
+    },
+    {
+     "pos": "Verb",
+     "text": "to obtain, to arrive at [with auf (+ accusative) ‘a solution or result’]"
+    },
+    {
+     "pos": "Verb",
+     "text": "to get an idea; to think of; to remember; to imagine [with auf (+ accusative)]"
+    },
+    {
+     "pos": "Verb",
+     "text": "to lose; to forfeit; not to get [with um (+ accusative)]"
+    },
+    {
+     "pos": "Verb",
+     "text": "to touch inadvertently [with an (+ accusative) or gegen (+ accusative) ‘something’]"
+    },
+    {
+     "pos": "Verb",
+     "text": "to manage to reach (something high up etc.) [with an (+ accusative)]"
+    },
+    {
+     "pos": "Verb",
+     "text": "to (try to) bring up, to come up with (and try to convince others of) [with mit (+ dative) ‘an idea, proposal’]"
+    },
+    {
+     "pos": "Verb",
+     "text": "to turn out [with gut or in Ordnung ‘well’]"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "leben": {
+   "url": "https://en.wiktionary.org/wiki/leben#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Verb",
+     "text": "to live, to be alive"
+    },
+    {
+     "pos": "Verb",
+     "text": "to dwell, to reside"
+    },
+    {
+     "pos": "Verb",
+     "text": "to live, to exist, to occupy a place"
+    },
+    {
+     "pos": "Verb",
+     "text": "to live off, subsist (on), to survive (off) .mw-parser-output .object-usage-tag{font-style:italic}.mw-parser-output .deprecated{color:var(--wikt-palette-grey-lime-8,olivedrab)}[with von (+ dative) ‘a diet or prey’]"
+    },
+    {
+     "pos": "Verb",
+     "text": "to live off, to depend on [with von (+ dative) ‘someone's support’]"
+    },
+    {
+     "pos": "Verb",
+     "text": "to cope with, to live with, to deal with [with mit (+ dative)]"
+    },
+    {
+     "pos": "Verb",
+     "text": "to live, to lead"
+    },
+    {
+     "pos": "Verb",
+     "text": "to fulfill, to live out"
+    },
+    {
+     "pos": "Verb",
+     "text": "to put into practice, to routinely follow"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "ledig": {
+   "url": "https://en.wiktionary.org/wiki/ledig#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Adjective",
+     "text": "unmarried"
+    },
+    {
+     "pos": "Adjective",
+     "text": "never having been married"
+    },
+    {
+     "pos": "Adjective",
+     "text": "free; rid .mw-parser-output .object-usage-tag{font-style:italic}.mw-parser-output .deprecated{color:var(--wikt-palette-grey-lime-8,olivedrab)}[with genitive ‘of someone/something’]"
+    },
+    {
+     "pos": "Adjective",
+     "text": "born out of wedlock"
+    },
+    {
+     "pos": "Adjective",
+     "text": "empty"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "mein": {
+   "url": "https://en.wiktionary.org/wiki/mein#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Determiner",
+     "text": "my"
+    },
+    {
+     "pos": "Pronoun",
+     "text": "genitive of ich"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "moinsen": {
+   "url": "https://en.wiktionary.org/wiki/moinsen#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Interjection",
+     "text": "idiosyncratic and slang form of moin (“hi”)"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-09-25"
+  },
+  "neun": {
+   "url": "https://en.wiktionary.org/wiki/neun#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Numeral",
+     "text": "nine"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "neunzehn": {
+   "url": "https://en.wiktionary.org/wiki/neunzehn#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Numeral",
+     "text": "nineteen"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "null": {
+   "url": "https://en.wiktionary.org/wiki/null#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Numeral",
+     "text": "zero; nil; nought; love (integer number between −1 and 1, denoting no quantity at all)"
+    },
+    {
+     "pos": "Numeral",
+     "text": "zero; no"
+    },
+    {
+     "pos": "Adjective",
+     "text": "null, null and void (invalid)"
+    },
+    {
+     "pos": "Adverb",
+     "text": "not at all"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "okay": {
+   "url": "https://en.wiktionary.org/wiki/okay#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Interjection",
+     "text": "OK"
+    },
+    {
+     "pos": "Adjective",
+     "text": "OK"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "pfiat di": {
+   "url": "https://en.wiktionary.org/wiki/pfiat_di#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Interjection",
+     "text": "bye"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-09-25"
+  },
+  "sechs": {
+   "url": "https://en.wiktionary.org/wiki/sechs#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Numeral",
+     "text": "six (numerical value represented by the Arabic numeral 6; or describing a set with six elements)"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "sechzehn": {
+   "url": "https://en.wiktionary.org/wiki/sechzehn#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Numeral",
+     "text": "sixteen"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "sein": {
+   "url": "https://en.wiktionary.org/wiki/sein#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Verb",
+     "text": "forms the present perfect and past perfect tenses of certain verbs"
+    },
+    {
+     "pos": "Verb",
+     "text": "As a copulative verb:\nto be"
+    },
+    {
+     "pos": "Verb",
+     "text": "to be"
+    },
+    {
+     "pos": "Verb",
+     "text": "Used to indicate dates, times of day, time periods, etc., be"
+    },
+    {
+     "pos": "Verb",
+     "text": "Used to indicate temperatures in degrees, be"
+    },
+    {
+     "pos": "Verb",
+     "text": "Used to indicate ambient conditions such as temperature, weather, light, noise or air quality, be"
+    },
+    {
+     "pos": "Verb",
+     "text": "there be"
+    },
+    {
+     "pos": "Verb",
+     "text": "translated with to feel (to experience a condition) .mw-parser-output .object-usage-tag{font-style:italic}.mw-parser-output .deprecated{color:var(--wikt-palette-grey-lime-8,olivedrab)}[with dative ‘someone’ and adjective ‘in some way’ ]"
+    },
+    {
+     "pos": "Verb",
+     "text": "translated with to feel like, to be in the mood for [with dative ‘someone’, along with nach (+ dative) ‘something desired’ or danach ‘that thing’, along with zumute]"
+    },
+    {
+     "pos": "Verb",
+     "text": "As an intransitive verb:\nto exist, be, be alive"
+    },
+    {
+     "pos": "Verb",
+     "text": "to exist, be, be alive"
+    },
+    {
+     "pos": "Verb",
+     "text": "to have the next turn"
+    },
+    {
+     "pos": "Verb",
+     "text": "to be \"it\"; to be the tagger in a game of tag"
+    },
+    {
+     "pos": "Determiner",
+     "text": "his"
+    },
+    {
+     "pos": "Determiner",
+     "text": "its"
+    },
+    {
+     "pos": "Determiner",
+     "text": "Used to express an approximate number, often with so."
+    },
+    {
+     "pos": "Determiner",
+     "text": "one's"
+    },
+    {
+     "pos": "Pronoun",
+     "text": "genitive of er"
+    },
+    {
+     "pos": "Pronoun",
+     "text": "genitive of es"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "sie": {
+   "url": "https://en.wiktionary.org/wiki/sie#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Pronoun",
+     "text": "she; her"
+    },
+    {
+     "pos": "Pronoun",
+     "text": "it (with grammatically feminine antecedents, i.e. those for which the article die is used)"
+    },
+    {
+     "pos": "Pronoun",
+     "text": "he (when a grammatically feminine word is used to refer to a person, regardless of their sex)"
+    },
+    {
+     "pos": "Pronoun",
+     "text": "they; them"
+    },
+    {
+     "pos": "Pronoun",
+     "text": "misspelling of Sie"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "sieben": {
+   "url": "https://en.wiktionary.org/wiki/sieben#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Numeral",
+     "text": "seven (numerical value represented by the Arabic numeral 7; or describing a set with seven elements)"
+    },
+    {
+     "pos": "Verb",
+     "text": "to sift; to sieve"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "siebzehn": {
+   "url": "https://en.wiktionary.org/wiki/siebzehn#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Numeral",
+     "text": "seventeen"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "siebzig": {
+   "url": "https://en.wiktionary.org/wiki/siebzig#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Numeral",
+     "text": "seventy (70)"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "verheiratet": {
+   "url": "https://en.wiktionary.org/wiki/verheiratet#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Participle",
+     "text": "past participle of verheiraten"
+    },
+    {
+     "pos": "Adjective",
+     "text": "married (in a state of marriage; having a wife or a husband)"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "verpartnern": {
+   "url": "https://www.dict.cc/?s=verpartnern",
+   "status": 404,
+   "definitions": [],
+   "dictionary": "dict.cc",
+   "fetchedOn": "2026-09-25"
+  },
+  "verpartnert": {
+   "url": "https://en.wiktionary.org/api/rest_v1/page/definition/verpartnert",
+   "status": 404,
+   "definitions": [],
+   "fetchedOn": "2026-09-25"
+  },
+  "verstehen": {
+   "url": "https://en.wiktionary.org/wiki/verstehen#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Verb",
+     "text": "to understand\nto hear and interpret"
+    },
+    {
+     "pos": "Verb",
+     "text": "to hear and interpret"
+    },
+    {
+     "pos": "Verb",
+     "text": "to comprehend, to make sense of"
+    },
+    {
+     "pos": "Verb",
+     "text": "to take, to interpret, to gather (to impute what is not explicitly stated)"
+    },
+    {
+     "pos": "Verb",
+     "text": "to understand, to consider, to take .mw-parser-output .object-usage-tag{font-style:italic}.mw-parser-output .deprecated{color:var(--wikt-palette-grey-lime-8,olivedrab)}[with als ‘as being something’]"
+    },
+    {
+     "pos": "Verb",
+     "text": "to know, to have knowledge or understanding of [with accusative ‘much, little, nothing’ and von ‘about something’]"
+    },
+    {
+     "pos": "Verb",
+     "text": "to understand oneself, to understand each other, to be understood\nto see oneself, to think of oneself [with als ‘as someone/something’]"
+    },
+    {
+     "pos": "Verb",
+     "text": "to see oneself, to think of oneself [with als ‘as someone/something’]"
+    },
+    {
+     "pos": "Verb",
+     "text": "to understand one another, be able to communicate"
+    },
+    {
+     "pos": "Verb",
+     "text": "to get along [with mit (+ dative) ‘with someone’]"
+    },
+    {
+     "pos": "Verb",
+     "text": "to be an expert [with auf (+ accusative) ‘at something’]"
+    },
+    {
+     "pos": "Verb",
+     "text": "to be meant, to have to be interpreted"
+    },
+    {
+     "pos": "Verb",
+     "text": "to go without saying, to be obvious"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "verstorben": {
+   "url": "https://en.wiktionary.org/wiki/verstorben#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Participle",
+     "text": "past participle of versterben"
+    },
+    {
+     "pos": "Adjective",
+     "text": "deceased, late"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "verwitwet": {
+   "url": "https://en.wiktionary.org/wiki/verwitwet#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Adjective",
+     "text": "widowed"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "vier": {
+   "url": "https://en.wiktionary.org/wiki/vier#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Numeral",
+     "text": "four (numerical value represented by the Arabic numeral 4; or describing a set with four elements)"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "vierzehn": {
+   "url": "https://en.wiktionary.org/wiki/vierzehn#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Numeral",
+     "text": "fourteen"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "weg": {
+   "url": "https://en.wiktionary.org/wiki/weg#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Adverb",
+     "text": "away"
+    },
+    {
+     "pos": "Adverb",
+     "text": "gone, not there"
+    },
+    {
+     "pos": "Adverb",
+     "text": "from"
+    },
+    {
+     "pos": "Conjunction",
+     "text": "minus"
+    },
+    {
+     "pos": "Adjective",
+     "text": "unconscious; passed out"
+    },
+    {
+     "pos": "Adjective",
+     "text": "hammered; so drunk as being close to unconsciousness"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "welche": {
+   "url": "https://en.wiktionary.org/wiki/welche#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Determiner",
+     "text": "inflection of welcher:\nnominative/accusative feminine singular\nnominative/accusative plural"
+    },
+    {
+     "pos": "Determiner",
+     "text": "nominative/accusative feminine singular"
+    },
+    {
+     "pos": "Determiner",
+     "text": "nominative/accusative plural"
+    },
+    {
+     "pos": "Pronoun",
+     "text": "inflection of welcher:\nnominative/accusative feminine singular\nnominative/accusative plural"
+    },
+    {
+     "pos": "Pronoun",
+     "text": "nominative/accusative feminine singular"
+    },
+    {
+     "pos": "Pronoun",
+     "text": "nominative/accusative plural"
+    },
+    {
+     "pos": "Pronoun",
+     "text": "some"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "welcher": {
+   "url": "https://en.wiktionary.org/wiki/welcher#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Determiner",
+     "text": "which; what"
+    },
+    {
+     "pos": "Determiner",
+     "text": "which"
+    },
+    {
+     "pos": "Pronoun",
+     "text": "which (one)"
+    },
+    {
+     "pos": "Pronoun",
+     "text": "that; which; who; whom"
+    },
+    {
+     "pos": "Pronoun",
+     "text": "some (an unspecified amount of)"
+    },
+    {
+     "pos": "Pronoun",
+     "text": "1 2 https://www.deutschplus.net/pages/Fragepronomen_welcher"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "wir": {
+   "url": "https://en.wiktionary.org/wiki/wir#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Pronoun",
+     "text": "we"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "wohin": {
+   "url": "https://en.wiktionary.org/wiki/wohin#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Adverb",
+     "text": "where to, whither"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "wohnen": {
+   "url": "https://en.wiktionary.org/wiki/wohnen#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Verb",
+     "text": "to live, reside, dwell (to remain or be settled permanently, or for a considerable time)"
+    },
+    {
+     "pos": "Verb",
+     "text": "to stay (to remain in a place for a definite or short period of time, though typically for more than a few days)"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "zehn": {
+   "url": "https://en.wiktionary.org/wiki/zehn#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Numeral",
+     "text": "ten (numerical value represented in Arabic numerals as 10)"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "zusammenleben": {
+   "url": "https://en.wiktionary.org/wiki/zusammenleben#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Verb",
+     "text": "to live together"
+    },
+    {
+     "pos": "Verb",
+     "text": "to adapt to each other"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "zwanzig": {
+   "url": "https://en.wiktionary.org/wiki/zwanzig#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Numeral",
+     "text": "twenty"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "zwei": {
+   "url": "https://en.wiktionary.org/wiki/zwei#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Numeral",
+     "text": "two (numerical value represented by the Arabic numeral 2; or describing a set with two components)"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  },
+  "zwölf": {
+   "url": "https://en.wiktionary.org/wiki/zw%C3%B6lf#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Numeral",
+     "text": "twelve"
+    }
+   ],
+   "fetchedOn": "2026-09-25"
+  }
+ }
+}

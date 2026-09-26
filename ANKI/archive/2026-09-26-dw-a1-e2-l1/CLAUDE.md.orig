@@ -18,8 +18,7 @@ adds Claude-specific working rules only.
   work (meanings, spellings, sources, card lists). Verify it yourself: official
   course material, dictionaries (`python3 ANKI/harvest_sources.py --glosses`),
   or a peer consult when online sources fall short. Ask only for real decisions,
-  with concrete examples. Exception, by their choice: the mistake rounds on their
-  own lesson notes (`docs/processing-a-lesson.md`) are a study exercise.
+  with concrete examples.
 
 ## Questions about a lesson
 
@@ -46,8 +45,6 @@ adds Claude-specific working rules only.
 
 - Read `docs/processing-a-lesson.md` in full before capturing or building any
   lesson. Process a lesson only after the learner says they have studied it.
-- Start every finished lesson with the mistake rounds, unless the learner says
-  otherwise in that session; their instruction in the session wins.
 - Commands:
   - `python3 ANKI/build_all.py check` — validate, verify sources, write `ANKI/review/preview.html`
   - `python3 ANKI/build_all.py approve --all|--lesson ID|--deck NAME` — the learner's approval

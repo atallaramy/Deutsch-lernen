@@ -5,7 +5,7 @@ It is for looking things up. Practice stays in the Anki Sentences deck.
 
 Each page has: the rule in simple English with the German terms · a table ·
 examples copied word for word from my lessons, with the source · common mistakes
-(mine link to my notes or a lesson's mistakes list; *rule* marks a typical error the rule prevents) · the
+(mine link to my notes; *rule* marks a typical error the rule prevents) · the
 official DW/VHS pages · the Sentences cards that practise it · my rule in my own words
 (my part).
 
@@ -18,12 +18,12 @@ official DW/VHS pages · the Sentences cards that practise it · my rule in my o
 | Personal pronouns | [Personalpronomen](A1/Personalpronomen.md) | DW E1 L1, E1 L4 · VHS L2 |
 | Present tense of regular verbs | [Praesens](A1/Praesens.md) | DW E1 L3, E1 L4 · VHS L2 |
 | sein | [sein](A1/sein.md) | DW E1 L1–L4 · VHS L2 |
-| haben | [haben](A1/haben.md) | DW E1 L4, E2 L1 · VHS L2 |
+| haben | [haben](A1/haben.md) | DW E1 L4 · VHS L2 |
 | heißen: saying your name | [heissen](A1/heissen.md) | DW E0 L4, E1 L1, E1 L4 |
-| W-questions: wer, wie, wo, woher, was | [W-Fragen](A1/W-Fragen.md) | DW E1 L3, E2 L1 · VHS L2 |
+| W-questions: wer, wie, wo, woher, was | [W-Fragen](A1/W-Fragen.md) | DW E1 L3 · VHS L2 |
 | Yes/no questions and W-questions | [Ja-Nein-Fragen](A1/Ja-Nein-Fragen.md) | VHS L2 · DW E1 |
 | mein, dein, Ihr | [Possessivartikel](A1/Possessivartikel.md) | VHS L2 · DW E0 L4, E1 L3 |
-| Numbers 0–100 | [Zahlen](A1/Zahlen.md) | VHS L2 · DW E2 L1 |
+| Numbers 0–100 | [Zahlen](A1/Zahlen.md) | VHS L2 |
 | wohnen in, kommen aus | [wohnen-in](A1/wohnen-in.md) | DW E1 L3 · VHS L2 |
 
 ## A1: coming
@@ -36,7 +36,7 @@ Built when I have studied the lesson. Topics from
   [Nico hat ein Problem](<../DW Deutsch lernen/A1/02_meeting_people/04_Lesson_04/Nico hat Problem.md>);
   its articles match Wiktionary.
 - **DW Nicos Weg A1** ([index](../docs/course-index/dw-nicos-weg-a1.md)):
-  - E2: W-questions, *aus* and *in* (L3) · numbers over 100 (L4)
+  - E2: numbers 11–19 and 20–100 (L1, studying now) · W-questions, *aus* and *in* (L3) · numbers over 100 (L4)
   - E3: noun gender (L2) · vowel change e → i (L3)
   - E4: simple past of *sein* (L1) · questions and statements (L2) · *man* (L3) · *sprechen* (L4)
   - E5: definite and indefinite articles (L1, L2) · sentence construction: subject (L3) · adjectives after *sein* (L4)
@@ -80,11 +80,11 @@ See [docs/learning-roadmap.md](../docs/learning-roadmap.md) and the A2/B1 files 
   [processing-a-lesson.md](../docs/processing-a-lesson.md)).
 - `python3 docs/tools/check_grammar_book.py` checks every page. Examples must be
   word for word in a studied lesson's `Materials/source-snapshot.json`. My quoted
-  mistakes must be in the linked notes or mistakes list. Card keys must exist. Verb tables must match
+  mistakes must be in the linked notes. Card keys must exist. Verb tables must match
   Wiktionary, saved in [Materials/wiktionary-snapshot.json](Materials/wiktionary-snapshot.json).
 - Page conventions the check relies on: a table ending in a *Source* column quotes
-  German in its *German…* columns; a *Wrong … From* table quotes the file its *From*
-  column links to (my notes or a lesson's `Materials/mistakes.md`); a table starting with *Person* is a verb table.
+  German in its *German…* columns; a *Wrong … From* table quotes my notes when *From*
+  links to them; a table starting with *Person* is a verb table.
 - Rules come from official DW/VHS material first, then dictionaries. A DW grammar
   page from a later lesson may confirm a rule, but examples come only from lessons I
   have studied.

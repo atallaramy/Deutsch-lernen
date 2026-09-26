@@ -28,18 +28,6 @@
     "text": "Die Frau hat ein Fahrradgeschäft."
    }
   },
-  "Geschenk": {
-   "hints": [
-    "Your notes had “eine Gechenk”: it is das Geschenk, so ein Geschenk (script: “das hier ist ein Geschenk”)."
-   ]
-  },
-  "Hausnummer": {
-   "context": {
-    "lesson": "dw-a1-e2-l1",
-    "source": "exercises",
-    "text": "Emma und Lisa suchen die Hausnummer 11."
-   }
-  },
   "Nummer": {
    "context": {
     "lesson": "dw-a1-e1-l3",

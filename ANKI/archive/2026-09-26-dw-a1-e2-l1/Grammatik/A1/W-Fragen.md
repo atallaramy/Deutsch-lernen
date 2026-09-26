@@ -1,6 +1,6 @@
 # W-Fragen: wer, wie, wo, woher, was
 
-*die W-Frage* (W-question) · A1 · from DW A1 E0 L1 to E2 L1 (mostly E1 L3 *Woher kommst du?*) and VHS A1 Lektion 2 · checked 2026-09-26
+*die W-Frage* (W-question) · A1 · from DW A1 E0 L1 to E1 L4 (mostly E1 L3 *Woher kommst du?*) and VHS A1 Lektion 2 · checked 2026-09-26
 
 ## The rule
 
@@ -23,8 +23,6 @@ DW explains the order on two grammar pages in later lessons:
 | wer | who | Wer ist Yara? | [DW A1 E0 L4 · script](https://static.dw.com/downloads/52719090/nicos-weg-a1-e0-l4-manuskript-und-wortschatz-englisch.pdf) |
 | wie | how | Wie geht es dir? | [DW A1 E0 L1 · script](https://static.dw.com/downloads/52718683/nicos-weg-a1-e0-l1-manuskript-und-wortschatz-englisch.pdf) |
 | wie | a name (with heißen) | Wie heißt du? | [DW A1 E1 L1 · script](https://static.dw.com/downloads/52719106/nicos-weg-a1-e1-l1-manuskript-und-wortschatz-englisch.pdf) |
-| wie alt | age | Wie alt ist Emma? | [DW A1 E2 L1 · script](https://static.dw.com/downloads/52719212/nicos-weg-a1-e2-l1-manuskript-und-wortschatz-englisch.pdf) |
-| wie viele | how many | Wie viele Zahlen sind das? | [DW A1 E2 L1 · script](https://static.dw.com/downloads/52719212/nicos-weg-a1-e2-l1-manuskript-und-wortschatz-englisch.pdf) |
 | wo | where | Wo ist die Tasche? | [DW A1 E0 L3 · script](https://static.dw.com/downloads/52719087/nicos-weg-a1-e0-l3-manuskript-und-wortschatz-englisch.pdf) |
 | woher | where from | Woher kommst du? | [DW A1 E1 L3 · script](https://static.dw.com/downloads/52719129/nicos-weg-a1-e1-l3-manuskript-und-wortschatz-englisch.pdf) |
 | was | what | Was machst du hier? | [DW A1 E1 L3 · script](https://static.dw.com/downloads/52719129/nicos-weg-a1-e1-l3-manuskript-und-wortschatz-englisch.pdf) |
@@ -36,7 +34,7 @@ DW explains the order on two grammar pages in later lessons:
 | Was | machst | du | hier? |
 
 Also met, full topics later: *wohin* (where to), *welche* (which; DW A1 E14 L2
-*welch-*). *wie viel* (how much) comes in DW A1 E12 L3.
+*welch-*), *wie viele* (how many; DW A1 E12 L3 *wie viel*).
 
 ## Examples from my lessons
 
@@ -72,13 +70,11 @@ Also met, full topics later: *wohin* (where to), *welche* (which; DW A1 E14 L2
 - woher, wo: `where-from-informal`, `where-from-formal`, `where-live-informal`, `where-live-formal`, `where-is-bag`
 - was, wer: `what-doing-informal`, `what-doing-formal`, `who-are-you-informal`, `who-are-you-formal`
 - wie: `how-are-you-informal`, `how-are-you-formal`, `name-informal-heissen`, `name-formal-heissen`,
-  `your-name-informal`, `your-name-formal`, `how-many-children`, `how-old-emma`, `emma-is-eight`,
-  `how-many-people`
+  `your-name-informal`, `your-name-formal`, `how-many-children`
 
 ## My rule in my own words
 
 > …
 
 My notes: [Woher kommst du?](<../../DW Deutsch lernen/A1/02_meeting_people/03_Lesson_03/Materials/Woher komst du.md>) ·
-[Das ist Nico](<../../DW Deutsch lernen/A1/02_meeting_people/02_Lesson_02/Materials/Das ist Nico.md>) ·
-[Zahlen von 1 bis 100](<../../DW Deutsch lernen/A1/03_contact_details/01_Lesson_01/Materials/Zahlen von 1 bis 100.md>)
+[Das ist Nico](<../../DW Deutsch lernen/A1/02_meeting_people/02_Lesson_02/Materials/Das ist Nico.md>)
