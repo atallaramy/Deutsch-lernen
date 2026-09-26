@@ -53,7 +53,7 @@ Also met, full topics later: *wohin* (where to), *welche* (which; DW A1 E14 L2
 
 | Wrong | Right | Why | From |
 |---|---|---|---|
-| Wo kommen Sie? | Woher kommen Sie? | "Where from" is *woher*, with *kommen aus*. | [my notes: Woher kommst du?](<../../DW Deutsch lernen/A1/02_meeting_people/03_Lesson_03/Woher komst du.md>) |
+| Wo kommen Sie? | Woher kommen Sie? | "Where from" is *woher*, with *kommen aus*. | [my notes: Woher kommst du?](<../../DW Deutsch lernen/A1/02_meeting_people/03_Lesson_03/Materials/Woher komst du.md>) |
 | Woher wohnst du? | Wo wohnst du? | *wohnen* goes with *wo*. | rule |
 | Wo du wohnst? | Wo wohnst du? | The verb comes straight after the question word. | rule |
 | Was heißt du? | Wie heißt du? | Names go with *wie* ([heißen](heissen.md)). | rule |
@@ -79,6 +79,6 @@ Also met, full topics later: *wohin* (where to), *welche* (which; DW A1 E14 L2
 
 > …
 
-My notes: [Woher kommst du?](<../../DW Deutsch lernen/A1/02_meeting_people/03_Lesson_03/Woher komst du.md>) ·
-[Das ist Nico](<../../DW Deutsch lernen/A1/02_meeting_people/02_Lesson_02/Das ist Nico.md>) ·
-[Zahlen von 1 bis 100](<../../DW Deutsch lernen/A1/03_contact_details/01_Lesson_01/Zahlen von 1 bis 100.md>)
+My notes: [Woher kommst du?](<../../DW Deutsch lernen/A1/02_meeting_people/03_Lesson_03/Materials/Woher komst du.md>) ·
+[Das ist Nico](<../../DW Deutsch lernen/A1/02_meeting_people/02_Lesson_02/Materials/Das ist Nico.md>) ·
+[Zahlen von 1 bis 100](<../../DW Deutsch lernen/A1/03_contact_details/01_Lesson_01/Materials/Zahlen von 1 bis 100.md>)

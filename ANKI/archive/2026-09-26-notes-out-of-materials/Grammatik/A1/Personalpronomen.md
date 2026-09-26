@@ -72,5 +72,5 @@ VHS Lektion 2 vocabulary trainer (*wir* = we, *sie* = she / they).
 > …
 
 My notes: [Ich heiße Emma](<../../DW Deutsch lernen/A1/02_meeting_people/01_Lesson_01/Ich heiße Emma.md>) ·
-[Das ist Nico](<../../DW Deutsch lernen/A1/02_meeting_people/02_Lesson_02/Das ist Nico.md>) ·
+[Das ist Nico](<../../DW Deutsch lernen/A1/02_meeting_people/02_Lesson_02/Materials/Das ist Nico.md>) ·
 [Nico hat ein Problem](<../../DW Deutsch lernen/A1/02_meeting_people/04_Lesson_04/Nico hat Problem.md>)

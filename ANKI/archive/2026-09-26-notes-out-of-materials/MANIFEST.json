@@ -1,0 +1,71 @@
+{
+  "createdAt": "2026-09-26",
+  "reason": "Backup before moving three lesson notes files out of Materials/ into their lesson folders and updating every link to them. Restore by copying each backup to its original path.",
+  "files": [
+    {
+      "original": "AGENTS.md",
+      "backup": "ANKI/archive/2026-09-26-notes-out-of-materials/AGENTS.md.orig",
+      "sha256": "12a183b5085bb7a1f2f6f1f4b76f5664c413e9c0c5a7475f81c02eadba36b6fe"
+    },
+    {
+      "original": "ANKI/lesson-vocabulary.json",
+      "backup": "ANKI/archive/2026-09-26-notes-out-of-materials/ANKI/lesson-vocabulary.json",
+      "sha256": "0a55ff35c9f5aa8b9dc18976fb933ce384f745260acee1669544c8313ad70cd8"
+    },
+    {
+      "original": "docs/processing-a-lesson.md",
+      "backup": "ANKI/archive/2026-09-26-notes-out-of-materials/docs/processing-a-lesson.md",
+      "sha256": "7014eeef794a31d7d142985db597e4feb7e32ab5c9c72160d23bfc65ddcd49d5"
+    },
+    {
+      "original": "docs/decisions.md",
+      "backup": "ANKI/archive/2026-09-26-notes-out-of-materials/docs/decisions.md",
+      "sha256": "3ae29d43c96a9be9d2320bef42c855b47f4d1cb4760a34681213ab0667a38fcb"
+    },
+    {
+      "original": "docs/links.md",
+      "backup": "ANKI/archive/2026-09-26-notes-out-of-materials/docs/links.md",
+      "sha256": "ba1a4e6cea29b2400ed716097e6d0ef28caa8eccfc9f41adf0d439576ebfb609"
+    },
+    {
+      "original": "DW Deutsch lernen/A1/03_contact_details/01_Lesson_01/Materials/mistakes.md",
+      "backup": "ANKI/archive/2026-09-26-notes-out-of-materials/DW Deutsch lernen/A1/03_contact_details/01_Lesson_01/Materials/mistakes.md",
+      "sha256": "ada6d3d055ef25e55db590b2103a7d6f11f2e1cf18fecd00377d5aa1cd3c3310"
+    },
+    {
+      "original": "Grammatik/A1/Personalpronomen.md",
+      "backup": "ANKI/archive/2026-09-26-notes-out-of-materials/Grammatik/A1/Personalpronomen.md",
+      "sha256": "e2e759d7dfa9ac5918af63bb2e804e12b5588125ef1ba3423d36e68466958f24"
+    },
+    {
+      "original": "Grammatik/A1/wohnen-in.md",
+      "backup": "ANKI/archive/2026-09-26-notes-out-of-materials/Grammatik/A1/wohnen-in.md",
+      "sha256": "1f62f786ddf5729140285691f0f4c2ba97c2bb6de7630678b09d256e5ba24ef0"
+    },
+    {
+      "original": "Grammatik/A1/sein.md",
+      "backup": "ANKI/archive/2026-09-26-notes-out-of-materials/Grammatik/A1/sein.md",
+      "sha256": "fc2e52b45690edb433a368b6395655c826f2fc59cd0da11ecec5c831474080cd"
+    },
+    {
+      "original": "Grammatik/A1/Praesens.md",
+      "backup": "ANKI/archive/2026-09-26-notes-out-of-materials/Grammatik/A1/Praesens.md",
+      "sha256": "1bc28f344020639ff9288b108d57e98022c0f7f923033bb5d0c2510a386111fd"
+    },
+    {
+      "original": "Grammatik/A1/Ja-Nein-Fragen.md",
+      "backup": "ANKI/archive/2026-09-26-notes-out-of-materials/Grammatik/A1/Ja-Nein-Fragen.md",
+      "sha256": "55c0fc849193890d2966eae5037c4f1c9c8d49c830caf2999394c978e05a23e8"
+    },
+    {
+      "original": "Grammatik/A1/Zahlen.md",
+      "backup": "ANKI/archive/2026-09-26-notes-out-of-materials/Grammatik/A1/Zahlen.md",
+      "sha256": "cffa9c56f2b14c05e40048a4cd56e9c4dd1a4204884f1d5e852c89caff09a7b9"
+    },
+    {
+      "original": "Grammatik/A1/W-Fragen.md",
+      "backup": "ANKI/archive/2026-09-26-notes-out-of-materials/Grammatik/A1/W-Fragen.md",
+      "sha256": "3bf67c4393c6d6532a157dd7bd095da04c0dd0aa3d69ab652c377e537e9ecf71"
+    }
+  ]
+}

@@ -12,7 +12,6 @@ ROOT = Path(__file__).resolve().parents[2]
 sys.path.insert(0, str(ROOT / "ANKI"))
 sys.path.insert(0, str(ROOT / "docs" / "tools"))
 
-import build_grammar_pdf  # noqa: E402
 import check_grammar_book  # noqa: E402
 from deck_data import load  # noqa: E402
 
@@ -122,30 +121,6 @@ class GrammarBook(unittest.TestCase):
     def test_page_must_be_in_the_index(self):
         (self.book / "README.md").write_text("# empty\n", encoding="utf-8")
         self.assertOneError(GOOD_PAGE, "not listed in Grammatik/README.md")
-
-
-class GrammarPdf(unittest.TestCase):
-    def test_pdf_matches_the_pages(self):
-        self.assertIsNone(build_grammar_pdf.stale_reason(),
-                          "rebuild with: python3 docs/tools/build_grammar_pdf.py")
-
-    def test_every_studied_page_is_in_the_pdf_once(self):
-        pages = build_grammar_pdf.book_pages()
-        self.assertTrue(pages)
-        self.assertEqual(len({page.slug for page in pages}), len(pages))
-        self.assertTrue(all(page.path.exists() for page in pages))
-
-    def test_links_in_the_pdf(self):
-        book = check_grammar_book.BOOK
-        page = build_grammar_pdf.Page("A1", "Test", book / "A1" / "Test.md", "")
-        slugs = {(book / "A1" / "heissen.md").resolve(): "A1-heissen"}
-        fragment = ('<a href="heissen.md">heißen</a> <a href="https://learngerman.dw.com/x">DW</a> '
-                    '<a href="../../notes/my%20notes.md">my notes</a> <a href="#table">table</a>')
-        result = build_grammar_pdf.rewrite_links(fragment, page, slugs)
-        self.assertIn('<a href="#A1-heissen">heißen</a>', result)
-        self.assertIn('<a href="https://learngerman.dw.com/x">DW</a>', result)
-        self.assertIn('<span class="local">my notes</span>', result)
-        self.assertIn('<a href="#A1-Test-table">table</a>', result)
 
 
 if __name__ == "__main__":

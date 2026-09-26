@@ -16,10 +16,6 @@ confirmation here (decision log: `docs/decisions.md`).
   learner's Markdown notes, its lesson-specific deck and a `Materials/`
   subfolder. Download the official DW script/vocabulary PDF for every DW lesson
   into `Materials/`; keep other verified official lesson PDFs there too.
-- The notes sit directly in the lesson folder, never inside `Materials/`.
-  `Materials/` holds official materials, `source-snapshot.json` and
-  `mistakes.md` (learner decision 2026-09-26). A notes file found inside
-  `Materials/` is moved up only after the learner's yes.
 - New verified materials (official PDFs, `source-snapshot.json` files made by
   `ANKI/harvest_sources.py`) may be added inside a `Materials/` folder.
 - Do not move, rename or delete existing folders, Markdown notes, legacy

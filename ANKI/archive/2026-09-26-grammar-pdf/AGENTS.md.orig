@@ -16,10 +16,6 @@ confirmation here (decision log: `docs/decisions.md`).
   learner's Markdown notes, its lesson-specific deck and a `Materials/`
   subfolder. Download the official DW script/vocabulary PDF for every DW lesson
   into `Materials/`; keep other verified official lesson PDFs there too.
-- The notes sit directly in the lesson folder, never inside `Materials/`.
-  `Materials/` holds official materials, `source-snapshot.json` and
-  `mistakes.md` (learner decision 2026-09-26). A notes file found inside
-  `Materials/` is moved up only after the learner's yes.
 - New verified materials (official PDFs, `source-snapshot.json` files made by
   `ANKI/harvest_sources.py`) may be added inside a `Materials/` folder.
 - Do not move, rename or delete existing folders, Markdown notes, legacy
@@ -158,9 +154,8 @@ studied it. Follow `docs/processing-a-lesson.md`:
 4. Curate contexts, cues and sentence cards; only verbatim source contexts.
 5. Run `python3 ANKI/build_all.py check`; fix every error; open the preview.
 6. After the learner approves, run `python3 ANKI/build_all.py package`.
-7. Update the grammar book (`docs/processing-a-lesson.md` §8), run
-   `python3 docs/tools/check_grammar_book.py`, then rebuild the PDF with
-   `python3 docs/tools/build_grammar_pdf.py`.
+7. Update the grammar book (`docs/processing-a-lesson.md` §8) and run
+   `python3 docs/tools/check_grammar_book.py`.
 8. Run `python3 -m unittest discover -s ANKI/tests`. Report checks as passed
    only when the actual results support it.
 9. Commit to git when the learner asks (they ask after every new lesson).
@@ -201,8 +196,8 @@ Articles have no quotas: every captured entry is covered.
   examples copied verbatim from studied lessons' snapshots, with the source
   named; common mistakes, the learner's own quoted exactly from the notes or the
   lesson's `Materials/mistakes.md`; links to the official DW/VHS pages; the
-  Sentences card keys that practise the topic; and a "My rule in my own words"
-  line. That line is the learner's; agents never write it.
+  Sentences card keys that practise the topic; and a "My rule in my own words" line. That line is the learner's; agents never
+  write it.
 - Verification: rules and tables come from official DW/VHS material first, then
   dictionaries (Wiktionary conjugation tables in
   `Grammatik/Materials/wiktionary-snapshot.json`). A DW grammar page from a
@@ -210,11 +205,6 @@ Articles have no quotas: every captured entry is covered.
   `python3 docs/tools/check_grammar_book.py` must report no errors.
 - No audio. The grammar book never changes the decks. If a grammar check finds
   a card error, fix the card through check → approve → package.
-- `Grammatik/Grammatik.pdf` is the whole book in one printable, clickable file
-  (learner decision 2026-09-26). The Markdown pages stay the source; page order
-  follows the index. `python3 docs/tools/build_grammar_pdf.py` rebuilds it (only
-  after the grammar check passes, byte-identical for the same pages), and the
-  tests fail while it lags the pages.
 
 ## Cheatsheets (`Spickzettel/`) and printing
 
@@ -225,8 +215,7 @@ Articles have no quotas: every captured entry is covered.
 - Agents do not create, edit or restructure cheatsheets on their own. An agent
   may suggest one, but asks first, and writes only what the learner decides.
 - When the learner asks, collect grammar pages or lessons into a printable
-  file. Do this only on request. The grammar-book PDF is the standing exception:
-  it is rebuilt after every lesson.
+  file. Do this only on request.
 
 ## Development status
 

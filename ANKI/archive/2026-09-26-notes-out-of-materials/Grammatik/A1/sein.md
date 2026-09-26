@@ -46,7 +46,7 @@ Source: DW grammar page *Conjugation: present tense (2)*; VHS Lektion 2 word lis
 
 | Wrong | Right | Why | From |
 |---|---|---|---|
-| ich bin, du bist, er/sie/es sind, Sie sind | ich bin, du bist, er/sie/es ist, Sie sind | er/sie/es → **ist**. *sind* is for wir, sie and Sie. | [my notes: Woher kommst du?](<../../DW Deutsch lernen/A1/02_meeting_people/03_Lesson_03/Woher komst du.md>) |
+| ich bin, du bist, er/sie/es sind, Sie sind | ich bin, du bist, er/sie/es ist, Sie sind | er/sie/es → **ist**. *sind* is for wir, sie and Sie. | [my notes: Woher kommst du?](<../../DW Deutsch lernen/A1/02_meeting_people/03_Lesson_03/Materials/Woher komst du.md>) |
 | ihr sind | ihr seid | The ihr form is irregular too. | rule |
 | Das ist Nico und Emma. | Das sind Nico und Emma. | Two people → *sind*. | rule |
 
@@ -70,5 +70,5 @@ Source: DW grammar page *Conjugation: present tense (2)*; VHS Lektion 2 word lis
 
 > …
 
-My notes: [Woher kommst du?](<../../DW Deutsch lernen/A1/02_meeting_people/03_Lesson_03/Woher komst du.md>) ·
+My notes: [Woher kommst du?](<../../DW Deutsch lernen/A1/02_meeting_people/03_Lesson_03/Materials/Woher komst du.md>) ·
 [Nico hat ein Problem](<../../DW Deutsch lernen/A1/02_meeting_people/04_Lesson_04/Nico hat Problem.md>)

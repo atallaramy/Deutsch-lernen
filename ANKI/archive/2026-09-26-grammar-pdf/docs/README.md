@@ -6,7 +6,7 @@ VHS Lektion 4 cover?"). The answer starts from here.
 
 | File | What it is for |
 |---|---|
-| [../Grammatik/](../Grammatik/README.md) | My grammar book: one short page per studied topic (rule, table, verified examples, my mistakes, official links, Sentences cards). Start here for grammar questions. All pages in one file: [Grammatik.pdf](../Grammatik/Grammatik.pdf). |
+| [../Grammatik/](../Grammatik/README.md) | My grammar book: one short page per studied topic (rule, table, verified examples, my mistakes, official links, Sentences cards). Start here for grammar questions. |
 | [../Spickzettel/](../Spickzettel/) | My cheatsheets. My folder; Claude writes there only when I ask. |
 | [links.md](links.md) | Every useful link, checked 2026-09-25 (grammar sources 2026-09-26): DW, VHS, Easy German, Goethe word lists, CEFR, dictionaries, Anki, research. |
 | [course-index/](course-index/) | Lesson by lesson: title, goal, grammar topic, lesson page, script PDF for DW Nicos Weg A1, A2, B1; topics and grammar per lesson for VHS A1, A2, B1. |
@@ -24,7 +24,6 @@ VHS Lektion 4 cover?"). The answer starts from here.
 | [maintenance/](maintenance/) | Notes on changes to the project instructions. |
 | [tools/build_course_index.py](tools/build_course_index.py) | Rebuilds `course-index/` from the official course pages (network). |
 | [tools/check_grammar_book.py](tools/check_grammar_book.py) | Checks the grammar book against the lesson snapshots, my notes, the Sentences cards and Wiktionary (`fetch`: network). |
-| [tools/build_grammar_pdf.py](tools/build_grammar_pdf.py) | Rebuilds `Grammatik/Grammatik.pdf`, the whole grammar book in one printable file (pandoc + Chrome, offline; `--check`: is it current?). |
 
 The binding rules for the decks are in `../AGENTS.md`; Claude-specific working
 rules are in `../CLAUDE.md`.

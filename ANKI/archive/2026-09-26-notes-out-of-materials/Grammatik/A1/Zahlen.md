@@ -83,4 +83,4 @@ In the first example the phone number is said one digit at a time; Lotte's numbe
 > …
 
 My notes: [VHS Lektion 2](<../../VHS-Lernportal/A1/Lesson_02/lektion_02.md>) ·
-[Zahlen von 1 bis 100](<../../DW Deutsch lernen/A1/03_contact_details/01_Lesson_01/Zahlen von 1 bis 100.md>)
+[Zahlen von 1 bis 100](<../../DW Deutsch lernen/A1/03_contact_details/01_Lesson_01/Materials/Zahlen von 1 bis 100.md>)

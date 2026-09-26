@@ -57,7 +57,6 @@ adds Claude-specific working rules only.
   - `python3 ANKI/harvest_sources.py --glosses` — network: dictionary check of meanings no glossary supplies
   - `python3 docs/tools/build_course_index.py` — network: rebuild the lesson index
   - `python3 docs/tools/check_grammar_book.py` — check the grammar book (`fetch`: network, Wiktionary verb tables)
-  - `python3 docs/tools/build_grammar_pdf.py` — rebuild `Grammatik/Grammatik.pdf` after the check (`--check`: is it current?)
 - Run `approve` only for the cards the learner explicitly approves in the
   current conversation; otherwise point them to the preview and stop.
 - Never weaken or skip a check to make a build pass: fix the data, or ask.

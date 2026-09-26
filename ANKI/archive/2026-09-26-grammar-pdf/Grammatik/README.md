@@ -3,9 +3,6 @@
 Short reference pages for the grammar I have studied, built from my own lessons.
 It is for looking things up. Practice stays in the Anki Sentences deck.
 
-**The whole book in one file: [Grammatik.pdf](Grammatik.pdf)** (contents, bookmarks,
-printable; rebuilt after every lesson).
-
 Each page has: the rule in simple English with the German terms · a table ·
 examples copied word for word from my lessons, with the source · common mistakes
 (mine link to my notes or a lesson's mistakes list; *rule* marks a typical error the rule prevents) · the
@@ -75,9 +72,7 @@ See [docs/learning-roadmap.md](../docs/learning-roadmap.md) and the A2/B1 files 
 
 - My cheatsheets live in [Spickzettel](../Spickzettel/), my own folder. They are
   mine to write.
-- [Grammatik.pdf](Grammatik.pdf) is this whole book, rebuilt after every lesson.
-  The box under *My rule in my own words* is for writing by hand.
-- Ask Claude any time to collect other pages or lessons into a printable file.
+- Ask Claude any time to collect pages or lessons into a printable file.
 
 ## How the book is kept correct
 
@@ -90,9 +85,6 @@ See [docs/learning-roadmap.md](../docs/learning-roadmap.md) and the A2/B1 files 
 - Page conventions the check relies on: a table ending in a *Source* column quotes
   German in its *German…* columns; a *Wrong … From* table quotes the file its *From*
   column links to (my notes or a lesson's `Materials/mistakes.md`); a table starting with *Person* is a verb table.
-- `python3 docs/tools/build_grammar_pdf.py` rebuilds [Grammatik.pdf](Grammatik.pdf)
-  from the pages in the order of the *studied* tables above; a new page joins by being
-  listed there. The same pages always give the same file.
 - Rules come from official DW/VHS material first, then dictionaries. A DW grammar
   page from a later lesson may confirm a rule, but examples come only from lessons I
   have studied.

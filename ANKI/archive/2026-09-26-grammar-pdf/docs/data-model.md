@@ -15,7 +15,6 @@
 | `*-scan-index.json` | Written by `package`: lessons, counts, package hashes. |
 | `archive/2026-09-25-pre-v3/` | Backup of every file replaced by the v3 redesign, with a SHA-256 manifest. |
 | `archive/2026-09-26-grammar-book/` | Backup of the instruction and doc files edited when the grammar book was added, with a SHA-256 manifest. |
-| `archive/2026-09-26-grammar-pdf/` | Backup of the instruction, doc and test files edited when the grammar-book PDF was added, with a SHA-256 manifest. |
 | `archive/2026-09-26-dw-a1-e2-l1/` | Backup of the data, builder, test, grammar and doc files edited when DW A1 E2 L1 was processed, with a SHA-256 manifest. |
 
 ## Code
@@ -41,9 +40,6 @@
 | `Grammatik/README.md` | Index by level and topic, the *coming* list and the page conventions. |
 | `Grammatik/<level>/<Topic>.md` | One page per studied topic. |
 | `Grammatik/Materials/wiktionary-snapshot.json` | `verbs`: de.wiktionary present-tense tables, written by `check_grammar_book.py fetch`. `evidence`: one-off checks (DW grammar pages from later lessons, numbers, declension tables, genders, register labels). |
-| `Grammatik/Grammatik.pdf` | The whole book in one printable, clickable PDF (contents, bookmarks, a box for *My rule in my own words*). Built, never edited by hand. |
-| `Grammatik/Materials/pdf-build.json` | Written by `build_grammar_pdf.py`: fingerprint of the builder, index and pages, the PDF's SHA-256, page order and tool versions. The tests compare it with the current pages. |
-| `docs/tools/build_grammar_pdf.py` | Builds the PDF with pandoc (Markdown → HTML) and headless Chrome (HTML → PDF), offline. Refuses while the grammar check has errors; builds twice and requires identical bytes (Chrome's build time is replaced by the newest *checked* date). `--check` reports whether the PDF is current. Tested in `ANKI/tests/test_grammar_book.py`. |
 | `docs/tools/check_grammar_book.py` | Offline check. Quotes in *Source* tables must be verbatim in the named lesson snapshot; *Wrong … From* rows linking to notes must quote them; *Person* tables must match the verb snapshot; card keys must be live; links must resolve; every page must be in the index. Tested in `ANKI/tests/test_grammar_book.py`. |
 
 `Spickzettel/` holds the learner's own cheatsheets. No tool reads or writes it.

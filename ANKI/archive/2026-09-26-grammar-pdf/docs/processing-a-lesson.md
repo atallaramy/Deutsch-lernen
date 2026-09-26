@@ -12,8 +12,8 @@ learning.
   [`course-index/`](course-index/) and [links.md](links.md) and do not build cards.
   For grammar you have studied, start from [`Grammatik/`](../Grammatik/README.md).
 - Do not move, rename or delete existing notes, folders, PDFs or legacy
-  packages. Your notes belong directly in the lesson folder, not in
-  `Materials/`. If a notes file is somewhere else, ask before moving it.
+  packages. If a notes file lives somewhere unusual (for example inside
+  `Materials/`), leave it there and ask before changing anything.
 
 ## Before step 1: your mistake rounds (default)
 
@@ -144,9 +144,6 @@ The rules are in `AGENTS.md` → *Grammar book*; the layout is in
   (network) first.
 - Run `python3 docs/tools/check_grammar_book.py` and fix every error. If a grammar
   check shows a card is wrong, fix the card through steps 5–7.
-- Rebuild the PDF: `python3 docs/tools/build_grammar_pdf.py`. It refuses while the
-  grammar check has errors, and the tests fail if the PDF lags the pages. A new
-  topic page joins the PDF by being listed in the index's *studied* table.
 
 ## 9. Commit
 

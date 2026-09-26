@@ -70,11 +70,11 @@ later: DW A1 E3 L3 *Vowel change: e to i* and E4 L4 *Conjugation: sprechen*.
 
 | Wrong | Right | Why | From |
 |---|---|---|---|
-| ich kommer aus Deutschland | ich komme aus Deutschland | After ich the ending is always **-e**. | [my notes: Woher kommst du?](<../../DW Deutsch lernen/A1/02_meeting_people/03_Lesson_03/Woher komst du.md>) |
-| Ich wohen in Sevilla. | Ich wohne in Sevilla. | Stem *wohn-* + ending *-e*. | [my notes: Woher kommst du?](<../../DW Deutsch lernen/A1/02_meeting_people/03_Lesson_03/Woher komst du.md>) |
-| sprechen: sprecht | sprechen: spricht | The glossary line gives the er/sie/es form: *spricht*. *sprecht* is the ihr form. | [my notes: Woher kommst du?](<../../DW Deutsch lernen/A1/02_meeting_people/03_Lesson_03/Woher komst du.md>) |
-| Sie spracht Chinesisch. | Sie spricht Chinesisch. | *sprach* is the past tense. Present: e → i, *sie spricht*. | [my notes: Das ist Nico](<../../DW Deutsch lernen/A1/02_meeting_people/02_Lesson_02/Das ist Nico.md>) |
-| Sie sprachen Englisch. | Sie sprechen Englisch. | *sprachen* means "they spoke" (past tense). | [my notes: Das ist Nico](<../../DW Deutsch lernen/A1/02_meeting_people/02_Lesson_02/Das ist Nico.md>) |
+| ich kommer aus Deutschland | ich komme aus Deutschland | After ich the ending is always **-e**. | [my notes: Woher kommst du?](<../../DW Deutsch lernen/A1/02_meeting_people/03_Lesson_03/Materials/Woher komst du.md>) |
+| Ich wohen in Sevilla. | Ich wohne in Sevilla. | Stem *wohn-* + ending *-e*. | [my notes: Woher kommst du?](<../../DW Deutsch lernen/A1/02_meeting_people/03_Lesson_03/Materials/Woher komst du.md>) |
+| sprechen: sprecht | sprechen: spricht | The glossary line gives the er/sie/es form: *spricht*. *sprecht* is the ihr form. | [my notes: Woher kommst du?](<../../DW Deutsch lernen/A1/02_meeting_people/03_Lesson_03/Materials/Woher komst du.md>) |
+| Sie spracht Chinesisch. | Sie spricht Chinesisch. | *sprach* is the past tense. Present: e → i, *sie spricht*. | [my notes: Das ist Nico](<../../DW Deutsch lernen/A1/02_meeting_people/02_Lesson_02/Materials/Das ist Nico.md>) |
+| Sie sprachen Englisch. | Sie sprechen Englisch. | *sprachen* means "they spoke" (past tense). | [my notes: Das ist Nico](<../../DW Deutsch lernen/A1/02_meeting_people/02_Lesson_02/Materials/Das ist Nico.md>) |
 | Er helft. | Er hilft. | *helfen* changes e → i, like *sprechen*. | [my notes: Nico hat ein Problem (copy)](<../../DW Deutsch lernen/A1/02_meeting_people/04_Lesson_04/copy.md>) |
 | du heißst | du heißt | The stem ends in -ß, so du adds only -t. | rule |
 | du arbeitst | du arbeitest | The stem ends in -t, so add -e- first. | rule |
@@ -99,5 +99,5 @@ later: DW A1 E3 L3 *Vowel change: e to i* and E4 L4 *Conjugation: sprechen*.
 
 > …
 
-My notes: [Woher kommst du?](<../../DW Deutsch lernen/A1/02_meeting_people/03_Lesson_03/Woher komst du.md>) ·
+My notes: [Woher kommst du?](<../../DW Deutsch lernen/A1/02_meeting_people/03_Lesson_03/Materials/Woher komst du.md>) ·
 [Nico hat ein Problem](<../../DW Deutsch lernen/A1/02_meeting_people/04_Lesson_04/Nico hat Problem.md>)

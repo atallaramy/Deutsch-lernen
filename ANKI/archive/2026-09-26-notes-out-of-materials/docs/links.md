@@ -68,13 +68,13 @@ not the status code.
 - Script and vocabulary PDF: <https://static.dw.com/downloads/52719106/nicos-weg-a1-e1-l1-manuskript-und-wortschatz-englisch.pdf>
 
 ### DW Nicos Weg A1 · Das ist Nico (E1 L2)
-- Lesson page: <https://learngerman.dw.com/en/das-ist-nico/l-37262923> · notes: `DW Deutsch lernen/A1/02_meeting_people/02_Lesson_02/Das ist Nico.md`
+- Lesson page: <https://learngerman.dw.com/en/das-ist-nico/l-37262923> · notes: `DW Deutsch lernen/A1/02_meeting_people/02_Lesson_02/Materials/Das ist Nico.md`
 - Culture: [And what's your name?](https://learngerman.dw.com/en/and-whats-your-name/l-37262923/rs-39371008)
 - Exercises (8), e.g. [Here are Nico and Emma](https://learngerman.dw.com/en/here-are-nico-and-emma/l-37262923/e-37264626)
 - Script and vocabulary PDF: <https://static.dw.com/downloads/52719126/nicos-weg-a1-e1-l2-manuskript-und-wortschatz-englisch.pdf>
 
 ### DW Nicos Weg A1 · Woher kommst du? (E1 L3)
-- Lesson page: <https://learngerman.dw.com/en/woher-kommst-du/l-37263828> · notes: `DW Deutsch lernen/A1/02_meeting_people/03_Lesson_03/Woher komst du.md`
+- Lesson page: <https://learngerman.dw.com/en/woher-kommst-du/l-37263828> · notes: `DW Deutsch lernen/A1/02_meeting_people/03_Lesson_03/Materials/Woher komst du.md`
 - Grammar: [Conjugation: present tense (1)](https://learngerman.dw.com/en/conjugation-present-tense-1/l-37263828/gr-38320838)
 - Culture: [My name is Müller](https://learngerman.dw.com/en/my-name-is-müller/l-37263828/rs-39371127) · [Name changes after marriage](https://learngerman.dw.com/en/name-changes-after-marriage/l-37263828/rs-40965959)
 - Exercises (12), e.g. [How, where, from where or what?](https://learngerman.dw.com/en/how-where-from-where-or-what/l-37263828/e-37268049)

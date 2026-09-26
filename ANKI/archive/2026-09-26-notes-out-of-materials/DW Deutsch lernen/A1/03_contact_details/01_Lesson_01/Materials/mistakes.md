@@ -1,6 +1,6 @@
 # My mistakes: Zahlen von 1 bis 100
 
-DW A1 E2 L1 · notes: [Zahlen von 1 bis 100.md](<../Zahlen von 1 bis 100.md>) · checked against the
+DW A1 E2 L1 · notes: [Zahlen von 1 bis 100.md](<Zahlen von 1 bis 100.md>) · checked against the
 DW script, exercises and glossary, then dictionaries.
 
 ## Round 1 · 2026-09-26

@@ -3,22 +3,6 @@
 Confirmed decisions, newest first. The binding rules they produce live in
 `AGENTS.md`; this file records why and when.
 
-## 2026-09-26 — lesson folder layout
-
-| Topic | Decision |
-|---|---|
-| `Materials/` | Kept (flat lesson folders were considered). Official materials, `source-snapshot.json` and `mistakes.md` go there. |
-| Notes | The learner's notes sit directly in the lesson folder. `Das ist Nico.md`, `Woher komst du.md` and `Zahlen von 1 bis 100.md` were moved up with the learner's yes (resolves Q3); every link to them was updated. |
-
-## 2026-09-26 — printable grammar book
-
-| Topic | Decision |
-|---|---|
-| Grammar PDF | The learner asked for one browsable, printable file, updated after every lesson, keeping the Markdown pages. `Grammatik/Grammatik.pdf`: cover, clickable contents, one topic per page in index order, PDF bookmarks, page numbers, a lined box for *My rule in my own words*. |
-| No fluctuations | The same pages always give byte-identical output; a new page joins by being listed in the index; the build refuses while the grammar check fails; the tests fail while the PDF lags the pages. |
-| Tools | pandoc and Google Chrome, both already installed; no network. Links to local notes print as plain text, web links stay clickable. |
-| Scope | One PDF for all levels (A2 and B1 will be added as parts), rather than the `Grammatik-A1.pdf` first mentioned. |
-
 ## 2026-09-26 — mistake rounds
 
 | Topic | Decision |
@@ -93,7 +77,7 @@ reviewed and approved with these choices.
 | D8 | Anki reset | Applied default **A**: new versioned note types and GUIDs; delete the old decks in Anki before importing ([anki-import.md](anki-import.md)). |
 | Q1 | Lessons with empty notes | Do not build now; build each lesson when you say you studied it. |
 | Q2 | "verstehr" | Captured as *verstehen* (to understand); you confirmed "mostly yes". |
-| Q3 | Moving `Das ist Nico.md` / `Woher komst du.md` out of `Materials/` | Ask first. Not moved; their lesson decks go in the lesson folder under the current filenames. Resolved 2026-09-26: moved up (see *lesson folder layout*). |
+| Q3 | Moving `Das ist Nico.md` / `Woher komst du.md` out of `Materials/` | Ask first. Not moved; their lesson decks go in the lesson folder under the current filenames. |
 | Q4 | Legacy packages and duplicate PDFs | Keep. Removing clear duplicates needs your explicit go-ahead for each file ([known-issues.md](known-issues.md)). |
 | Q5 | Keyboard | Mac German-Standard layout. Punctuation and capitalisation stay strict; typed answers use the keyboard apostrophe `'`. |
 

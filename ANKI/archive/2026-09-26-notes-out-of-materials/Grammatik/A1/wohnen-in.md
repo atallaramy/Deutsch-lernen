@@ -39,7 +39,7 @@ Source for the patterns: VHS Lektion 2 word list (*wohnen (in)*) and vocabulary 
 
 | Wrong | Right | Why | From |
 |---|---|---|---|
-| Wo kommen Sie? | Woher kommen Sie? | *kommen aus* goes with *woher*. | [my notes: Woher kommst du?](<../../DW Deutsch lernen/A1/02_meeting_people/03_Lesson_03/Woher komst du.md>) |
+| Wo kommen Sie? | Woher kommen Sie? | *kommen aus* goes with *woher*. | [my notes: Woher kommst du?](<../../DW Deutsch lernen/A1/02_meeting_people/03_Lesson_03/Materials/Woher komst du.md>) |
 | Woher wohnst du? | Wo wohnst du? | *wohnen in* goes with *wo*. | rule |
 | Ich wohne aus Spanien. | Ich wohne in Spanien. | *wohnen* takes *in*. *aus* is for where you come from. | rule |
 
@@ -60,5 +60,5 @@ Source for the patterns: VHS Lektion 2 word list (*wohnen (in)*) and vocabulary 
 
 > …
 
-My notes: [Woher kommst du?](<../../DW Deutsch lernen/A1/02_meeting_people/03_Lesson_03/Woher komst du.md>) ·
+My notes: [Woher kommst du?](<../../DW Deutsch lernen/A1/02_meeting_people/03_Lesson_03/Materials/Woher komst du.md>) ·
 [VHS Lektion 2](<../../VHS-Lernportal/A1/Lesson_02/lektion_02.md>)
