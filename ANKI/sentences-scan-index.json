@@ -1,8 +1,8 @@
 {
   "deck": "German A1 — Sentences",
-  "revision": "2026-09-27T12:00:00Z",
+  "revision": "2026-09-27T18:00:00Z",
   "qualityPolicy": "Productive sentences, replies, register switches and contextual forms from the lessons. No audio.",
-  "cards": 59,
+  "cards": 65,
   "sources": [
     {
       "id": "dw-a1-e0-l1",
@@ -122,6 +122,19 @@
       }
     },
     {
+      "id": "dw-a1-e2-l2",
+      "course": "dw-nicos-weg",
+      "title": "Wichtige Nummern",
+      "url": "https://learngerman.dw.com/en/wichtige-nummern/l-37269501",
+      "notesFile": "DW Deutsch lernen/A1/03_contact_details/02_Lesson_02/Wichtige Nummern.md",
+      "capturedEntries": 34,
+      "cards": {
+        "vocabulary": 28,
+        "articles": 9,
+        "sentences": 6
+      }
+    },
+    {
       "id": "vhs-a1-l02",
       "course": "vhs-lernportal",
       "title": "Lektion 2 · Meine Familie und ich",
@@ -150,9 +163,9 @@
   ],
   "packages": {
     "ANKI/sentences.apkg": {
-      "notes": 59,
-      "cards": 59,
-      "sha256": "dd6c24b64389ba1704e18b4f15eba94485d4fdd360524cb5faa909fad6cbc385"
+      "notes": 65,
+      "cards": 65,
+      "sha256": "35c27e82cc0ce0c54d141c0ea3c926f58641244c47ae1958404dbb827acf9abf"
     }
   }
 }

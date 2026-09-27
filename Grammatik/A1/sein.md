@@ -1,6 +1,6 @@
 # sein: to be
 
-*das Verb sein* · irregular · A1 · from DW A1 E0 L3 to E1 L4 and VHS A1 Lektion 2 · checked 2026-09-26
+*das Verb sein* · irregular · A1 · from DW A1 E0 L3 to E2 L2 and VHS A1 Lektion 2 · checked 2026-09-27
 
 ## The rule
 
@@ -12,6 +12,7 @@
    - where someone is from: *Ich bin aus Frankfurt.*
    - someone's job, without *ein*: *Er ist Taxifahrer.* (English: *a* taxi driver)
    - how something is: *Nicos Tasche ist weg.*
+   - how old someone is: *Ich bin 23 Jahre alt.*
 
 ## Table
 
@@ -40,6 +41,8 @@ Source: DW grammar page *Conjugation: present tense (2)*; VHS Lektion 2 word lis
 | Nicos Tasche **ist** weg. | [DW A1 E1 L2 · exercise](https://learngerman.dw.com/en/upper-and-lower-cases/l-37262923/e-37264861) |
 | Ja. Ich **bin** aus Frankfurt. | [DW A1 E1 L3 · exercise](https://learngerman.dw.com/en/nico-is-learning-german-verb-conjugation/l-37263828/e-37267180) |
 | Wir **sind** Touristen! | [DW A1 E1 L3 · exercise](https://learngerman.dw.com/en/verb-conjugation-when-using-the-formal-sie/l-37263828/e-37268148) |
+| Wie alt **sind** Sie? | [DW A1 E2 L2 · exercise](https://learngerman.dw.com/en/pronunciation-training-how-old-are-you/l-37269501/e-37272394) |
+| Ich **bin** 15 Jahre alt. | [DW A1 E2 L2 · exercise](https://learngerman.dw.com/en/pronunciation-training-how-old-are-you/l-37269501/e-37272394) |
 | Wo **ist** die Tasche? | [DW A1 E0 L3 · script](https://static.dw.com/downloads/52719087/nicos-weg-a1-e0-l3-manuskript-und-wortschatz-englisch.pdf) |
 
 ## Common mistakes
@@ -65,10 +68,12 @@ Source: DW grammar page *Conjugation: present tense (2)*; VHS Lektion 2 word lis
 - who: `i-am-nico`, `you-are-emma`, `who-are-you-informal`, `who-are-you-formal`, `this-is-nico`
 - jobs and courses: `he-is-taxi-driver`, `she-is-taxi-driver`, `she-computer-course`, `they-german-course`
 - where and how: `where-is-bag`, `his-bag-gone`, `time-nine`
+- age: `age-informal`, `age-formal`, `i-am-23`
 
 ## My rule in my own words
 
 > …
 
 My notes: [Woher kommst du?](<../../DW Deutsch lernen/A1/02_meeting_people/03_Lesson_03/Woher komst du.md>) ·
-[Nico hat ein Problem](<../../DW Deutsch lernen/A1/02_meeting_people/04_Lesson_04/Nico hat Problem.md>)
+[Nico hat ein Problem](<../../DW Deutsch lernen/A1/02_meeting_people/04_Lesson_04/Nico hat Problem.md>) ·
+[Wichtige Nummern](<../../DW Deutsch lernen/A1/03_contact_details/02_Lesson_02/Wichtige Nummern.md>)

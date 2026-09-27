@@ -1,8 +1,8 @@
 {
   "deck": "German A1 — Articles",
-  "revision": "2026-09-27T12:00:00Z",
+  "revision": "2026-09-27T18:00:00Z",
   "qualityPolicy": "Typed der/die/das for singular nouns. Plural and dependable gender patterns after answering. No audio.",
-  "cards": 141,
+  "cards": 149,
   "sources": [
     {
       "id": "dw-a1-e0-l1",
@@ -122,6 +122,19 @@
       }
     },
     {
+      "id": "dw-a1-e2-l2",
+      "course": "dw-nicos-weg",
+      "title": "Wichtige Nummern",
+      "url": "https://learngerman.dw.com/en/wichtige-nummern/l-37269501",
+      "notesFile": "DW Deutsch lernen/A1/03_contact_details/02_Lesson_02/Wichtige Nummern.md",
+      "capturedEntries": 34,
+      "cards": {
+        "vocabulary": 28,
+        "articles": 9,
+        "sentences": 6
+      }
+    },
+    {
       "id": "vhs-a1-l02",
       "course": "vhs-lernportal",
       "title": "Lektion 2 · Meine Familie und ich",
@@ -150,9 +163,9 @@
   ],
   "packages": {
     "ANKI/articles.apkg": {
-      "notes": 141,
-      "cards": 141,
-      "sha256": "0e4401c56b4499a0ea9c5b2f76b42eda25a8570c3d5d978e92162852564cc3da"
+      "notes": 149,
+      "cards": 149,
+      "sha256": "9261988c065704fc57efc53b836dc48813cc6edfbcfc58857cc79a583384f7fa"
     }
   }
 }

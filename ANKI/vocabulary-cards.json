@@ -261,6 +261,13 @@
     "Freundin|friend"
    ]
   },
+  "Fundbüro|lost-and-found": {
+   "context": {
+    "lesson": "dw-a1-e2-l2",
+    "source": "script",
+    "text": "Im Fundbüro."
+   }
+  },
   "Fußball|soccer": {
    "context": {
     "lesson": "dw-a1-e0-l2",
@@ -352,6 +359,13 @@
     "Hi!|hi",
     "Hey!|hey"
    ]
+  },
+  "Handynummer|cell-phone-number": {
+   "context": {
+    "lesson": "dw-a1-e2-l2",
+    "source": "exercises",
+    "text": "Meine Handynummer ist 0134720304."
+   }
   },
   "Hausnummer|house-number": {
    "cue": "house number / street number",
@@ -498,6 +512,13 @@
   },
   "Langsam bitte.|slowly-please": {
    "cue": "Slowly, please. (asking someone to slow down)"
+  },
+  "Leben|life": {
+   "context": {
+    "lesson": "dw-a1-e2-l2",
+    "source": "script",
+    "text": "Er hat mein Leben verändert und ich würde mich gerne bedanken."
+   }
   },
   "Mach’s gut!|so-long": {
    "cue": "take care! / so long! (informal goodbye)"
@@ -666,6 +687,13 @@
   "Präsens|present-tense": {
    "cue": "present tense (grammar term)"
   },
+  "Radio|radio": {
+   "context": {
+    "lesson": "dw-a1-e2-l2",
+    "source": "exercises",
+    "text": "Nico hört Radio."
+   }
+  },
   "Reihenfolge|order": {
    "context": {
     "lesson": "dw-a1-e0-l2",
@@ -686,6 +714,13 @@
     "source": "script",
     "text": "Sag mal, spinnst du?",
     "target": "Sag mal"
+   }
+  },
+  "Schlafsack|sleeping-bag": {
+   "context": {
+    "lesson": "dw-a1-e2-l2",
+    "source": "script",
+    "text": "Ich hab hier Emmas Schlafsack und ihre Isomatte."
    }
   },
   "Schwester|sister": {
@@ -870,6 +905,15 @@
     "text": "Ciao, Nico. Viel Erfolg!"
    }
   },
+  "Viel Spaß!|have-fun": {
+   "context": {
+    "lesson": "dw-a1-e2-l2",
+    "source": "script",
+    "text": "Hab viel Spaß, ja!",
+    "target": "viel Spaß"
+   },
+   "cue": "Have fun! (to someone going to a party)"
+  },
   "Vielen Dank!|many-thanks": {
    "cue": "many thanks!"
   },
@@ -878,6 +922,13 @@
     "lesson": "dw-a1-e1-l4",
     "source": "script",
     "text": "Was ist los? Geht es Emma nicht gut?"
+   }
+  },
+  "Werbung|advertising": {
+   "context": {
+    "lesson": "dw-a1-e2-l2",
+    "source": "script",
+    "text": "Wir machen kurz Werbung und dann wollen wir wissen, wen ihr sucht!"
    }
   },
   "Wie schreibt man das?|how-do-you-write-spell-that": {
@@ -936,6 +987,14 @@
     "lesson": "dw-a1-e1-l3",
     "source": "exercises",
     "text": "Georgi lernt auch Deutsch."
+   }
+  },
+  "auf gar keinen Fall|no-way": {
+   "context": {
+    "lesson": "dw-a1-e2-l2",
+    "source": "script",
+    "text": "Nein, auf gar keinen Fall.",
+    "target": "auf gar keinen Fall"
    }
   },
   "aus|from": {
@@ -1013,6 +1072,13 @@
   },
   "dein|your": {
    "cue": "your (informal, du) — the form before der or das nouns"
+  },
+  "dreimal|three-times": {
+   "context": {
+    "lesson": "dw-a1-e2-l2",
+    "source": "script",
+    "text": "Und noch mal: 0800, dann dreimal die Sieben, zweimal die Drei, zweimal die Vier."
+   }
   },
   "du|you": {
    "cue": "you (informal, one person)",
@@ -1147,6 +1213,13 @@
     "source": "exercises",
     "text": "Schreib in jede Lücke das richtige Verb.",
     "target": "jede"
+   }
+  },
+  "jemand|somebody": {
+   "context": {
+    "lesson": "dw-a1-e2-l2",
+    "source": "script",
+    "text": "Hat sie jemand abgegeben?"
    }
   },
   "jetzt|now": {
@@ -1332,6 +1405,13 @@
     "lesson": "dw-a1-e1-l2",
     "source": "exercises",
     "text": "Das sind Nico und Emma."
+   }
+  },
+  "unser|our": {
+   "context": {
+    "lesson": "dw-a1-e2-l2",
+    "source": "script",
+    "text": "Dieser Mann war unser Amor."
    }
   },
   "verheiratet|married": {

@@ -1,6 +1,6 @@
 # du or Sie: informal and formal
 
-*informell / formell* · A1 · from DW A1 E0 L1 *Hallo!*, E0 L3 *Tschüss!*, E0 L4 *Von A bis Z*, E1 L1 *Ich heiße Emma*, E1 L3 *Woher kommst du?* and VHS A1 Lektion 2 · checked 2026-09-26
+*informell / formell* · A1 · from DW A1 E0 L1 *Hallo!*, E0 L3 *Tschüss!*, E0 L4 *Von A bis Z*, E1 L1 *Ich heiße Emma*, E1 L3 *Woher kommst du?*, E2 L2 *Wichtige Nummern* and VHS A1 Lektion 2 · checked 2026-09-27
 
 ## The rule
 
@@ -31,6 +31,8 @@ German terms: *informell* (informal), *formell* (formal), *die Höflichkeitsform
 | Was machst du hier? | Was machen Sie hier? | [DW A1 E1 L3 · script](https://static.dw.com/downloads/52719129/nicos-weg-a1-e1-l3-manuskript-und-wortschatz-englisch.pdf) |
 | Hast du Kinder? | Haben Sie Kinder? | [VHS A1 L2 · phrase trainer](https://a1.vhs-lernportal.de/) |
 | Wie ist deine Adresse? | Wie ist Ihre Adresse? | [VHS A1 L2 · phrase trainer](https://a1.vhs-lernportal.de/) |
+| Wie ist deine Telefonnummer? | Wie ist Ihre Telefonnummer? | [DW A1 E2 L2 · script](https://static.dw.com/downloads/52719221/nicos-weg-a1-e2-l2-manuskript-und-wortschatz-englisch.pdf) |
+| Wie alt bist du? | Wie alt sind Sie? | [DW A1 E2 L2 · exercise](https://learngerman.dw.com/en/pronunciation-training-how-old-are-you/l-37269501/e-37272394) |
 | Tschüss, Martina. Gute Reise! | Auf Wiedersehen, Herr Tillmanns. Gute Reise! | [DW A1 E0 L3 · script](https://static.dw.com/downloads/52719087/nicos-weg-a1-e0-l3-manuskript-und-wortschatz-englisch.pdf) |
 
 ## Examples from my lessons
@@ -66,7 +68,8 @@ German terms: *informell* (informal), *formell* (formal), *die Höflichkeitsform
 - Asking: `how-are-you-informal`, `how-are-you-formal`, `name-informal-heissen`, `name-formal-heissen`,
   `your-name-informal`, `your-name-formal`, `who-are-you-informal`, `who-are-you-formal`
 - More questions: `where-from-informal`, `where-from-formal`, `where-live-informal`, `where-live-formal`,
-  `what-doing-informal`, `what-doing-formal`, `how-many-children`
+  `what-doing-informal`, `what-doing-formal`, `how-many-children`, `age-informal`, `age-formal`,
+  `phone-number-informal`, `phone-number-formal`
 - Replying and asking back: `reply-informal`, `reply-formal`
 - Requests and compliments: `spell-informal`, `spell-formal`, `compliment-german`
 - Names and goodbyes: `bye-martina`, `take-care-herbert`
@@ -78,4 +81,5 @@ German terms: *informell* (informal), *formell* (formal), *die Höflichkeitsform
 My notes: [Hallo!](<../../DW Deutsch lernen/A1/01_Intro_zu_A1/01_Hallo/Hallo.md>) ·
 [Tschüss!](<../../DW Deutsch lernen/A1/01_Intro_zu_A1/03_Tschüs/Tschüs.md>) ·
 [Ich heiße Emma](<../../DW Deutsch lernen/A1/02_meeting_people/01_Lesson_01/Ich heiße Emma.md>) ·
-[VHS Lektion 2](<../../VHS-Lernportal/A1/Lesson_02/lektion_02.md>)
+[VHS Lektion 2](<../../VHS-Lernportal/A1/Lesson_02/lektion_02.md>) ·
+[Wichtige Nummern](<../../DW Deutsch lernen/A1/03_contact_details/02_Lesson_02/Wichtige Nummern.md>)

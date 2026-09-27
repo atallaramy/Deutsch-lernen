@@ -1,6 +1,6 @@
 # Präsens: regular verbs
 
-*das Präsens* (present tense) · A1 · from DW A1 E1 L3 *Woher kommst du?*, DW A1 E1 L4 *Nico hat ein Problem* and VHS A1 Lektion 2 · checked 2026-09-26
+*das Präsens* (present tense) · A1 · from DW A1 E1 L3 *Woher kommst du?*, DW A1 E1 L4 *Nico hat ein Problem*, DW A1 E2 L2 *Wichtige Nummern* and VHS A1 Lektion 2 · checked 2026-09-27
 
 ## The rule
 
@@ -64,6 +64,8 @@ later: DW A1 E3 L3 *Vowel change: e to i* and E4 L4 *Conjugation: sprechen*.
 | Was **machen** Sie hier? | [DW A1 E1 L3 · script](https://static.dw.com/downloads/52719129/nicos-weg-a1-e1-l3-manuskript-und-wortschatz-englisch.pdf) |
 | Meine Mama ... fliegt nach Amerika. Sie **arbeitet** da. | [DW A1 E0 L4 · script](https://static.dw.com/downloads/52719090/nicos-weg-a1-e0-l4-manuskript-und-wortschatz-englisch.pdf) |
 | Er **spricht** nicht gut Deutsch. | [DW A1 E1 L4 · exercise](https://learngerman.dw.com/en/nicos-problem/l-37265543/e-37266140) |
+| Nico **hört** Radio. | [DW A1 E2 L2 · exercise](https://learngerman.dw.com/en/what-are-lisa-and-nico-doing/l-37269501/e-37270313) |
+| Lisa **spricht** mit Lottes Mama. | [DW A1 E2 L2 · exercise](https://learngerman.dw.com/en/what-are-lisa-and-nico-doing/l-37269501/e-37270313) |
 | Wo **wohnen** Sie? Wo **wohnst** du? | [VHS A1 L2 · phrase trainer](https://a1.vhs-lernportal.de/) |
 
 ## Common mistakes
@@ -76,6 +78,8 @@ later: DW A1 E3 L3 *Vowel change: e to i* and E4 L4 *Conjugation: sprechen*.
 | Sie spracht Chinesisch. | Sie spricht Chinesisch. | *sprach* is the past tense. Present: e → i, *sie spricht*. | [my notes: Das ist Nico](<../../DW Deutsch lernen/A1/02_meeting_people/02_Lesson_02/Das ist Nico.md>) |
 | Sie sprachen Englisch. | Sie sprechen Englisch. | *sprachen* means "they spoke" (past tense). | [my notes: Das ist Nico](<../../DW Deutsch lernen/A1/02_meeting_people/02_Lesson_02/Das ist Nico.md>) |
 | Er helft. | Er hilft. | *helfen* changes e → i, like *sprechen*. | [my notes: Nico hat ein Problem (copy)](<../../DW Deutsch lernen/A1/02_meeting_people/04_Lesson_04/copy.md>) |
+| ihr erreichet | ihr erreicht | ihr adds only **-t**, like *ihr gebt*. *erreichet* is a Konjunktiv form. | [my mistakes: Wichtige Nummern](<../../DW Deutsch lernen/A1/03_contact_details/02_Lesson_02/Materials/mistakes.md>) |
+| wie erreichen | wir erreichen | The pronoun is *wir* (we); *wie* (how) is a question word. | [my mistakes: Wichtige Nummern](<../../DW Deutsch lernen/A1/03_contact_details/02_Lesson_02/Materials/mistakes.md>) |
 | du heißst | du heißt | The stem ends in -ß, so du adds only -t. | rule |
 | du arbeitst | du arbeitest | The stem ends in -t, so add -e- first. | rule |
 | sie kommen (to one stranger) | Sie kommen | The formal Sie always has a capital S. | rule |
@@ -100,4 +104,5 @@ later: DW A1 E3 L3 *Vowel change: e to i* and E4 L4 *Conjugation: sprechen*.
 > …
 
 My notes: [Woher kommst du?](<../../DW Deutsch lernen/A1/02_meeting_people/03_Lesson_03/Woher komst du.md>) ·
-[Nico hat ein Problem](<../../DW Deutsch lernen/A1/02_meeting_people/04_Lesson_04/Nico hat Problem.md>)
+[Nico hat ein Problem](<../../DW Deutsch lernen/A1/02_meeting_people/04_Lesson_04/Nico hat Problem.md>) ·
+[Wichtige Nummern](<../../DW Deutsch lernen/A1/03_contact_details/02_Lesson_02/Wichtige Nummern.md>)

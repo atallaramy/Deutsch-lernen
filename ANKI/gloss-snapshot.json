@@ -1049,6 +1049,18 @@
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-27"
   },
+  "Isomatte": {
+   "url": "https://en.wiktionary.org/wiki/Isomatte#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "clipping of Isoliermatte (sleeping pad)"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-09-27"
+  },
   "Jahr": {
    "url": "https://en.wiktionary.org/wiki/Jahr#German",
    "status": 200,
@@ -1217,6 +1229,70 @@
     }
    ],
    "fetchedOn": "2026-09-25"
+  },
+  "Leben": {
+   "url": "https://en.wiktionary.org/wiki/Leben#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "gerund of leben: living"
+    },
+    {
+     "pos": "Noun",
+     "text": "life; being alive\na state in which organic entities such as animals, plants and bacteria have properties like metabolism, adaptation and replication"
+    },
+    {
+     "pos": "Noun",
+     "text": "a state in which organic entities such as animals, plants and bacteria have properties like metabolism, adaptation and replication"
+    },
+    {
+     "pos": "Noun",
+     "text": "the entirety of those who are in this state"
+    },
+    {
+     "pos": "Noun",
+     "text": "the time period in which one is in this state; the time between birth and death"
+    },
+    {
+     "pos": "Noun",
+     "text": "a state of being in touch or in line with certain metaphysical forces and principles by which biological life is governed"
+    },
+    {
+     "pos": "Noun",
+     "text": "life; way of life (a particular manner of behaving and passing one’s time, whether real or ideal, and whether self-chosen or not)"
+    },
+    {
+     "pos": "Noun",
+     "text": "biography; life; life story (an account of a person’s life, whether real or virtual)"
+    },
+    {
+     "pos": "Noun",
+     "text": "existence; life (a position one has created for oneself, often manifested in success, prosperity, and standing)"
+    },
+    {
+     "pos": "Noun",
+     "text": "life; precious or beloved thing that someone considers fundamental to their existence"
+    },
+    {
+     "pos": "Noun",
+     "text": "a measure of successful play\nlife; numbers of times a game can be played"
+    },
+    {
+     "pos": "Noun",
+     "text": "life; numbers of times a game can be played"
+    },
+    {
+     "pos": "Noun",
+     "text": "health; hit points"
+    },
+    {
+     "pos": "Noun",
+     "text": "used as the object of certain verbs, often ones that are per se intransitive, for emphasis"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-09-27"
   },
   "Lebenspartner": {
    "url": "https://en.wiktionary.org/wiki/Lebenspartner#German",
@@ -1826,6 +1902,18 @@
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-27"
   },
+  "Schlafsack": {
+   "url": "https://en.wiktionary.org/wiki/Schlafsack#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "sleeping bag (padded or insulated bag)"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-09-27"
+  },
   "Schwester": {
    "url": "https://en.wiktionary.org/wiki/Schwester#German",
    "status": 200,
@@ -2039,6 +2127,26 @@
     {
      "pos": "Noun",
      "text": "mammary intercourse, the sexual practice or act of stimulating the penis by rubbing it between breasts"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-09-27"
+  },
+  "Spaß": {
+   "url": "https://en.wiktionary.org/wiki/Spa%C3%9F#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "fun"
+    },
+    {
+     "pos": "Noun",
+     "text": "joke"
+    },
+    {
+     "pos": "Noun",
+     "text": "Stands in for an often well-delimited or well-established process or transaction, often sarcastically to imply that the price or effort outweighs the fun or positive effect"
     }
    ],
    "dictionary": "en.wiktionary",
@@ -2579,6 +2687,26 @@
    "dictionary": "dict.cc",
    "fetchedOn": "2026-09-27"
   },
+  "Werbung": {
+   "url": "https://en.wiktionary.org/wiki/Werbung#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "promotion, solicitation, recruitment"
+    },
+    {
+     "pos": "Noun",
+     "text": "commercial advertisement"
+    },
+    {
+     "pos": "Noun",
+     "text": "advertising"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-09-27"
+  },
   "Wie geht’s": {
    "url": "https://www.dict.cc/?s=Wie+geht%E2%80%99s",
    "status": 200,
@@ -2775,6 +2903,90 @@
     }
    ],
    "fetchedOn": "2026-09-25"
+  },
+  "abgeben": {
+   "url": "https://en.wiktionary.org/wiki/abgeben#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Verb",
+     "text": "to give up, relinquish, let go, concede, hand over, etc. (power, money, valuable objects, etc.)"
+    },
+    {
+     "pos": "Verb",
+     "text": "to give away, give out (samples, promotional goods, bags, etc., also items for charity)"
+    },
+    {
+     "pos": "Verb",
+     "text": "to hand in, to turn in, to drop off, to deliver, to return .mw-parser-output .object-usage-tag{font-style:italic}.mw-parser-output .deprecated{color:var(--wikt-palette-grey-lime-8,olivedrab)}[with accusative ‘something’ and bei (+ dative) ‘to its owner or a responsible party’]"
+    },
+    {
+     "pos": "Verb",
+     "text": "to turn in [with accusative ‘schoolwork, an application, anything that requires evaluation’ and bei (+ dative) ‘to a teacher/professor/etc.’]"
+    },
+    {
+     "pos": "Verb",
+     "text": "to sell (cheaply or at a reduced price)"
+    },
+    {
+     "pos": "Verb",
+     "text": "to deposit (for storage or similar purpose, something in a designated storage area or receptacle)"
+    },
+    {
+     "pos": "Verb",
+     "text": "to lose (value or according to some numerical measure, especially gains made in the recent past)"
+    },
+    {
+     "pos": "Verb",
+     "text": "to give (a part of), to share (with) [with dative ‘to someone’ and accusative ‘something’]"
+    },
+    {
+     "pos": "Verb",
+     "text": "to give up (a point, round, goal, etc. to an opponent)"
+    },
+    {
+     "pos": "Verb",
+     "text": "to emit, to give off, to release, to radiate"
+    },
+    {
+     "pos": "Verb",
+     "text": "to pass on (a responsibility or duty)"
+    },
+    {
+     "pos": "Verb",
+     "text": "to bother oneself with someone/something, to associate with someone/something, to mess around with someone"
+    },
+    {
+     "pos": "Verb",
+     "text": "to pass (a ball)"
+    },
+    {
+     "pos": "Verb",
+     "text": "to make (constitute, develop into, prove to be)"
+    },
+    {
+     "pos": "Verb",
+     "text": "to submit (a report)"
+    },
+    {
+     "pos": "Verb",
+     "text": "to give (an opinion, statement, explanation),"
+    },
+    {
+     "pos": "Verb",
+     "text": "to fire (a shot)"
+    },
+    {
+     "pos": "Verb",
+     "text": "to cast (a vote)"
+    },
+    {
+     "pos": "Verb",
+     "text": "to provide (plot, background, exposition, etc. in a work of fiction)"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-09-27"
   },
   "ach so": {
    "url": "https://en.wiktionary.org/wiki/ach_so#German",
@@ -3036,6 +3248,18 @@
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-25"
   },
+  "auf keinen Fall": {
+   "url": "https://en.wiktionary.org/wiki/auf_keinen_Fall#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Prepositional phrase",
+     "text": "under no circumstances, no way, by no means, no chance, absolutely not"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-09-27"
+  },
   "aufheben": {
    "url": "https://en.wiktionary.org/wiki/aufheben#German",
    "status": 200,
@@ -3090,6 +3314,22 @@
     {
      "pos": "Adverb",
      "text": "indicates a rapid alternation of states; now ..., now ...; sometimes ..., sometimes ..."
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-09-27"
+  },
+  "bedanken": {
+   "url": "https://en.wiktionary.org/wiki/bedanken#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Verb",
+     "text": "to thank, to express thanks [with bei (+ dative) ‘(to) someone’ and für (+ accusative) ‘for something’]"
+    },
+    {
+     "pos": "Verb",
+     "text": "to thank for (something)"
     }
    ],
    "dictionary": "en.wiktionary",
@@ -3587,6 +3827,30 @@
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-27"
   },
+  "erreichen": {
+   "url": "https://en.wiktionary.org/wiki/erreichen#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Verb",
+     "text": "to reach (to attain by stretching)"
+    },
+    {
+     "pos": "Verb",
+     "text": "to reach, to get to, to arrive at (a place)"
+    },
+    {
+     "pos": "Verb",
+     "text": "to reach (to establish contact with)"
+    },
+    {
+     "pos": "Verb",
+     "text": "to accomplish"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-09-27"
+  },
   "erzählen": {
    "url": "https://en.wiktionary.org/wiki/erz%C3%A4hlen#German",
    "status": 200,
@@ -3964,6 +4228,54 @@
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-27"
   },
+  "gut": {
+   "url": "https://en.wiktionary.org/wiki/gut#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Adjective",
+     "text": "good (acting in the interest of what is beneficial, ethical, or moral)"
+    },
+    {
+     "pos": "Adjective",
+     "text": "good (effective; useful)"
+    },
+    {
+     "pos": "Adjective",
+     "text": "good (fortunate)"
+    },
+    {
+     "pos": "Adjective",
+     "text": "good (having a particularly pleasant taste)"
+    },
+    {
+     "pos": "Adjective",
+     "text": "all right, fair, proper (satisfactory)"
+    },
+    {
+     "pos": "Adjective",
+     "text": "good (full; entire; at least as much as)"
+    },
+    {
+     "pos": "Adverb",
+     "text": "well (accurately, competently, satisfactorily)"
+    },
+    {
+     "pos": "Adverb",
+     "text": "a little more than"
+    },
+    {
+     "pos": "Adverb",
+     "text": "easily, likely"
+    },
+    {
+     "pos": "Interjection",
+     "text": "okay, all right, now then"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-09-27"
+  },
   "haben": {
    "url": "https://en.wiktionary.org/wiki/haben#German",
    "status": 200,
@@ -4214,6 +4526,18 @@
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-27"
   },
+  "jemand": {
+   "url": "https://en.wiktionary.org/wiki/jemand#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Pronoun",
+     "text": "someone, somebody"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-09-27"
+  },
   "kein": {
    "url": "https://en.wiktionary.org/wiki/kein#German",
    "status": 200,
@@ -4233,6 +4557,22 @@
     {
      "pos": "Verb",
      "text": "to know; to be acquainted with; to be familiar with"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-09-27"
+  },
+  "kennenlernen": {
+   "url": "https://en.wiktionary.org/wiki/kennenlernen#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Verb",
+     "text": "to get to know, become acquainted with (a person, place, thing); to befriend."
+    },
+    {
+     "pos": "Verb",
+     "text": "to meet; introduce oneself to; to present."
     }
    ],
    "dictionary": "en.wiktionary",
@@ -5443,6 +5783,22 @@
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-27"
   },
+  "unser": {
+   "url": "https://en.wiktionary.org/wiki/unser#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Pronoun",
+     "text": "genitive of wir"
+    },
+    {
+     "pos": "Determiner",
+     "text": "our"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-09-27"
+  },
   "verheiratet": {
    "url": "https://en.wiktionary.org/wiki/verheiratet#German",
    "status": 200,
@@ -5555,6 +5911,46 @@
     }
    ],
    "fetchedOn": "2026-09-25"
+  },
+  "verändern": {
+   "url": "https://en.wiktionary.org/wiki/ver%C3%A4ndern#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Verb",
+     "text": "to alter, to change"
+    },
+    {
+     "pos": "Verb",
+     "text": "to change"
+    },
+    {
+     "pos": "Verb",
+     "text": "to change job"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-09-27"
+  },
+  "viel": {
+   "url": "https://en.wiktionary.org/wiki/viel#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Pronoun",
+     "text": "much, a lot"
+    },
+    {
+     "pos": "Determiner",
+     "text": "much, many"
+    },
+    {
+     "pos": "Adverb",
+     "text": "much, a lot"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-09-27"
   },
   "vielleicht": {
    "url": "https://en.wiktionary.org/wiki/vielleicht#German",

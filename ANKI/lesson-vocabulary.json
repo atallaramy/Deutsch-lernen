@@ -1,6 +1,6 @@
 {
  "schemaVersion": 3,
- "revision": "2026-09-27T12:00:00Z",
+ "revision": "2026-09-27T18:00:00Z",
  "policy": "Faithful capture of what the learner studied: official lesson glossaries, useful words and phrases from the official scripts and exercises, and items from the learner's notes. Official spelling is canonical; the learner's spelling is kept as learnerForm. Nothing captured is removed. pendingEntries wait for the learner's yes/no and are never built; declinedEntries record a learner's no.",
  "courses": [
   {
@@ -5490,6 +5490,523 @@
        ],
        "home": "vocabulary",
        "inLessonDeck": false
+      }
+     ]
+    },
+    {
+     "id": "dw-a1-e2-l2",
+     "legacyId": null,
+     "level": "A1",
+     "title": "Wichtige Nummern",
+     "unit": 2,
+     "lesson": 2,
+     "url": "https://learngerman.dw.com/en/wichtige-nummern/l-37269501",
+     "notesFile": "DW Deutsch lernen/A1/03_contact_details/02_Lesson_02/Wichtige Nummern.md",
+     "lessonDeck": {
+      "file": "DW Deutsch lernen/A1/03_contact_details/02_Lesson_02/DW A1 E2L2 Wichtige Nummern - Vocabulary.apkg",
+      "deck": "Lessons::DW A1::E2 L2 Wichtige Nummern"
+     },
+     "snapshot": "DW Deutsch lernen/A1/03_contact_details/02_Lesson_02/Materials/source-snapshot.json",
+     "sources": [
+      {
+       "id": "script",
+       "kind": "dw-script-pdf",
+       "url": "https://static.dw.com/downloads/52719221/nicos-weg-a1-e2-l2-manuskript-und-wortschatz-englisch.pdf",
+       "localFile": "DW Deutsch lernen/A1/03_contact_details/02_Lesson_02/Materials/Script and vocabulary (English).pdf"
+      },
+      {
+       "id": "exercises",
+       "kind": "dw-exercises",
+       "url": "https://learngerman.dw.com/en/wichtige-nummern/l-37269501"
+      }
+     ],
+     "entries": [
+      {
+       "id": "antworten",
+       "german": "antworten",
+       "english": "to answer something; to return a call",
+       "pos": "verb",
+       "lemma": "antworten",
+       "sense": "to-answer",
+       "forms": "antwortet, antwortete, hat geantwortet",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "dreimal",
+       "german": "dreimal",
+       "english": "three times; thrice",
+       "pos": "word",
+       "lemma": "dreimal",
+       "sense": "three-times",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "fragen",
+       "german": "fragen",
+       "english": "to ask",
+       "pos": "verb",
+       "lemma": "fragen",
+       "sense": "to-ask",
+       "forms": "fragt, fragte, hat gefragt",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "learnerForm": "fragen: fragt, fragte, gefragt",
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-fundburo",
+       "german": "das Fundbüro",
+       "plural": "die Fundbüros",
+       "english": "lost and found",
+       "pos": "noun",
+       "lemma": "Fundbüro",
+       "sense": "lost-and-found",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-handy",
+       "german": "das Handy",
+       "plural": "die Handys",
+       "english": "cell phone; mobile phone",
+       "pos": "noun",
+       "lemma": "Handy",
+       "sense": "cell-phone",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "learnerForm": "eine Handy",
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-handynummer",
+       "german": "die Handynummer",
+       "plural": "die Handynummern",
+       "english": "cell phone number; mobile phone number",
+       "pos": "noun",
+       "lemma": "Handynummer",
+       "sense": "cell-phone-number",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "etwas-horen",
+       "german": "(etwas) hören",
+       "english": "to listen to; to hear",
+       "pos": "verb",
+       "lemma": "hören",
+       "sense": "to-hear",
+       "forms": "hört, hörte, hat gehört",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "ich-bin-23-jahre-alt",
+       "german": "Ich bin 23 Jahre alt.",
+       "english": "I am 23 years old.",
+       "pos": "expression",
+       "lemma": "Ich bin 23 Jahre alt.",
+       "sense": "i-am-23-years-old",
+       "origin": [
+        "dw-glossary"
+       ],
+       "note": "Kurzform: Ich bin 23.",
+       "home": "sentences"
+      },
+      {
+       "id": "null",
+       "german": "null",
+       "english": "zero",
+       "pos": "number",
+       "lemma": "null",
+       "sense": "0",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-radio",
+       "german": "das Radio",
+       "plural": "die Radios",
+       "english": "radio",
+       "pos": "noun",
+       "lemma": "Radio",
+       "sense": "radio",
+       "origin": [
+        "dw-glossary"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "mit-jemandem-sprechen",
+       "german": "mit jemandem sprechen",
+       "english": "to speak with someone",
+       "pos": "verb",
+       "lemma": "sprechen",
+       "sense": "to-speak",
+       "forms": "spricht, sprach, hat gesprochen",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "note": "with someone: mit jemandem sprechen",
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-telefonnummer",
+       "german": "die Telefonnummer",
+       "plural": "die Telefonnummern",
+       "english": "telephone number",
+       "pos": "noun",
+       "lemma": "Telefonnummer",
+       "sense": "telephone-number",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "meine-telefonnummer-ist",
+       "german": "Meine Telefonnummer ist ...",
+       "english": "My telephone number is ...",
+       "pos": "expression",
+       "lemma": "Meine Telefonnummer ist ...",
+       "sense": "my-telephone-number-is",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "home": "sentences"
+      },
+      {
+       "id": "wie-ist-deine-telefonnummer",
+       "german": "Wie ist deine Telefonnummer?",
+       "english": "What is your telephone number? (informal)",
+       "pos": "expression",
+       "lemma": "Wie ist deine Telefonnummer?",
+       "sense": "what-is-your-telephone-number",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "home": "sentences"
+      },
+      {
+       "id": "wie-ist-ihre-telefonnummer",
+       "german": "Wie ist Ihre Telefonnummer?",
+       "english": "What is your telephone number? (formal)",
+       "pos": "expression",
+       "lemma": "Wie ist Ihre Telefonnummer?",
+       "sense": "what-is-your-telephone-number",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "home": "sentences"
+      },
+      {
+       "id": "etwas-verlieren",
+       "german": "etwas verlieren",
+       "english": "to lose something",
+       "pos": "verb",
+       "lemma": "verlieren",
+       "sense": "to-lose-something",
+       "forms": "verliert, verlor, hat verloren",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "wichtig",
+       "german": "wichtig",
+       "english": "important",
+       "pos": "word",
+       "lemma": "wichtig",
+       "sense": "important",
+       "forms": "wichtiger, am wichtigsten",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "learnerForm": "wichtig; vichtiger, am wichtigsten",
+       "home": "vocabulary"
+      },
+      {
+       "id": "wie-alt-bist-du",
+       "german": "Wie alt bist du?",
+       "english": "How old are you? (informal)",
+       "pos": "expression",
+       "lemma": "Wie alt bist du?",
+       "sense": "how-old-are-you",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "home": "sentences"
+      },
+      {
+       "id": "wie-alt-sind-sie",
+       "german": "Wie alt sind Sie?",
+       "english": "How old are you? (formal)",
+       "pos": "expression",
+       "lemma": "Wie alt sind Sie?",
+       "sense": "how-old-are-you",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "home": "sentences"
+      },
+      {
+       "id": "zweimal",
+       "german": "zweimal",
+       "english": "twice",
+       "pos": "word",
+       "lemma": "zweimal",
+       "sense": "twice",
+       "origin": [
+        "dw-glossary"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "gut",
+       "german": "gut",
+       "english": "well",
+       "pos": "word",
+       "lemma": "gut",
+       "sense": "well",
+       "forms": "besser, am besten",
+       "origin": [
+        "learner-notes"
+       ],
+       "learnerForm": "gut besser, am besten",
+       "home": "vocabulary"
+      },
+      {
+       "id": "etwas-abgeben",
+       "german": "(etwas) abgeben",
+       "english": "to hand in; to turn in",
+       "pos": "verb",
+       "lemma": "abgeben",
+       "sense": "to-hand-in",
+       "forms": "gibt ab, gab ab, hat abgegeben",
+       "present": "ich gebe ab, du gibst ab, er/sie/es gibt ab, wir geben ab, ihr gebt ab, sie/Sie geben ab",
+       "origin": [
+        "dw-script",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "jemanden-erreichen",
+       "german": "(jemanden) erreichen",
+       "english": "to reach (someone, e.g. by phone)",
+       "pos": "verb",
+       "lemma": "erreichen",
+       "sense": "to-reach",
+       "forms": "erreicht, erreichte, hat erreicht",
+       "present": "ich erreiche, du erreichst, er/sie/es erreicht, wir erreichen, ihr erreicht, sie/Sie erreichen",
+       "origin": [
+        "learner-notes"
+       ],
+       "learnerForm": "erreichen: ich erreiche, du erreichst, er erreicht, wie erreichen, ihr erreichet, sie erreichen.",
+       "home": "vocabulary"
+      },
+      {
+       "id": "kennenlernen",
+       "german": "kennenlernen",
+       "english": "to get to know; to meet",
+       "pos": "verb",
+       "lemma": "kennenlernen",
+       "sense": "to-get-to-know",
+       "forms": "lernt kennen, lernte kennen, hat kennengelernt",
+       "origin": [
+        "dw-script"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "jemand",
+       "german": "jemand",
+       "english": "somebody; someone",
+       "pos": "pronoun",
+       "lemma": "jemand",
+       "sense": "somebody",
+       "origin": [
+        "dw-script"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "auf-gar-keinen-fall",
+       "german": "auf gar keinen Fall",
+       "english": "no way; under no circumstances",
+       "pos": "expression",
+       "lemma": "auf gar keinen Fall",
+       "sense": "no-way",
+       "origin": [
+        "dw-script"
+       ],
+       "glossLookup": [
+        "auf keinen Fall"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "unser-unsere",
+       "german": "unser, unsere",
+       "english": "our",
+       "pos": "word",
+       "lemma": "unser",
+       "sense": "our",
+       "origin": [
+        "dw-script"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-leben",
+       "german": "das Leben",
+       "plural": "die Leben",
+       "english": "life",
+       "pos": "noun",
+       "lemma": "Leben",
+       "sense": "life",
+       "origin": [
+        "dw-script"
+       ],
+       "genderEvidence": "https://de.wiktionary.org/wiki/Leben (Genus n, Plural Leben)",
+       "home": "vocabulary"
+      },
+      {
+       "id": "verandern",
+       "german": "verändern",
+       "english": "to change; to alter",
+       "pos": "verb",
+       "lemma": "verändern",
+       "sense": "to-change",
+       "forms": "verändert, veränderte, hat verändert",
+       "origin": [
+        "dw-script"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "sich-bedanken",
+       "german": "sich bedanken",
+       "english": "to thank; to say thank you",
+       "pos": "verb",
+       "lemma": "bedanken",
+       "sense": "to-thank",
+       "forms": "bedankt sich, bedankte sich, hat sich bedankt",
+       "origin": [
+        "dw-script"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-werbung",
+       "german": "die Werbung",
+       "plural": "die Werbungen",
+       "english": "advertising; commercials",
+       "pos": "noun",
+       "lemma": "Werbung",
+       "sense": "advertising",
+       "origin": [
+        "dw-script"
+       ],
+       "learnerForm": "Webung",
+       "genderEvidence": "https://de.wiktionary.org/wiki/Werbung (Genus f, Plural Werbungen)",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-schlafsack",
+       "german": "der Schlafsack",
+       "plural": "die Schlafsäcke",
+       "english": "sleeping bag",
+       "pos": "noun",
+       "lemma": "Schlafsack",
+       "sense": "sleeping-bag",
+       "origin": [
+        "dw-script"
+       ],
+       "learnerForm": "Schalfsack",
+       "genderEvidence": "https://de.wiktionary.org/wiki/Schlafsack (Genus m, Plural Schlafsäcke)",
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-isomatte",
+       "german": "die Isomatte",
+       "plural": "die Isomatten",
+       "english": "sleeping pad; sleeping mat",
+       "pos": "noun",
+       "lemma": "Isomatte",
+       "sense": "sleeping-mat",
+       "origin": [
+        "dw-script"
+       ],
+       "level": "beyond-A1",
+       "genderEvidence": "https://de.wiktionary.org/wiki/Isomatte (Genus f, Plural Isomatten)",
+       "home": "vocabulary"
+      },
+      {
+       "id": "viel-spass",
+       "german": "Viel Spaß!",
+       "english": "Have fun!; a lot of fun",
+       "pos": "expression",
+       "lemma": "Viel Spaß!",
+       "sense": "have-fun",
+       "origin": [
+        "dw-script"
+       ],
+       "glossLookup": [
+        "viel",
+        "Spaß"
+       ],
+       "home": "vocabulary"
+      }
+     ],
+     "declinedEntries": [
+      {
+       "german": "der Indikativ",
+       "decision": "no (2026-09-27): looked up in a dictionary to prepare for later courses"
+      },
+      {
+       "german": "der Konjunktiv",
+       "decision": "no (2026-09-27): looked up in a dictionary to prepare for later courses"
+      },
+      {
+       "german": "der Imperativ",
+       "decision": "no (2026-09-27): looked up in a dictionary to prepare for later courses"
       }
      ]
     }

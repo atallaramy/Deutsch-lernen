@@ -929,6 +929,103 @@
    "answer": "zweiundsechzig",
    "covers": [],
    "note": "One word: zwei + und + sechzig; sechzig drops the s of sechs. In your notes: “vier und sechszig” for 64 (vierundsechzig)."
+  },
+  {
+   "key": "phone-number-informal",
+   "kind": "production",
+   "lesson": "dw-a1-e2-l2",
+   "skill": "informal question",
+   "scene": "Ask a friend (du) for their phone number.",
+   "answer": "Wie ist deine Telefonnummer?",
+   "answerSource": {
+    "lesson": "dw-a1-e2-l2",
+    "source": "script"
+   },
+   "covers": [
+    "dw-a1-e2-l2:wie-ist-deine-telefonnummer"
+   ]
+  },
+  {
+   "key": "phone-number-formal",
+   "kind": "production",
+   "lesson": "dw-a1-e2-l2",
+   "skill": "formal question",
+   "scene": "Ask a stranger (Sie) for their phone number.",
+   "answer": "Wie ist Ihre Telefonnummer?",
+   "answerSource": {
+    "lesson": "dw-a1-e2-l2",
+    "source": "script"
+   },
+   "covers": [
+    "dw-a1-e2-l2:wie-ist-ihre-telefonnummer"
+   ]
+  },
+  {
+   "key": "age-informal",
+   "kind": "production",
+   "lesson": "dw-a1-e2-l2",
+   "skill": "informal question",
+   "scene": "Ask a classmate (du) how old they are.",
+   "answer": "Wie alt bist du?",
+   "answerSource": {
+    "lesson": "dw-a1-e2-l2",
+    "source": "exercises"
+   },
+   "covers": [
+    "dw-a1-e2-l2:wie-alt-bist-du"
+   ]
+  },
+  {
+   "key": "age-formal",
+   "kind": "production",
+   "lesson": "dw-a1-e2-l2",
+   "skill": "formal question",
+   "scene": "Ask a stranger (Sie) how old they are.",
+   "answer": "Wie alt sind Sie?",
+   "answerSource": {
+    "lesson": "dw-a1-e2-l2",
+    "source": "exercises"
+   },
+   "covers": [
+    "dw-a1-e2-l2:wie-alt-sind-sie"
+   ]
+  },
+  {
+   "key": "i-am-23",
+   "kind": "response",
+   "lesson": "dw-a1-e2-l2",
+   "skill": "giving your age",
+   "scene": "You are 23. Answer with a full sentence.",
+   "prompt": {
+    "lesson": "dw-a1-e2-l2",
+    "source": "exercises",
+    "text": "Wie alt bist du?"
+   },
+   "answer": "Ich bin 23 Jahre alt.",
+   "answerSource": {
+    "lesson": "dw-a1-e2-l2",
+    "source": "exercises"
+   },
+   "covers": [
+    "dw-a1-e2-l2:ich-bin-23-jahre-alt"
+   ],
+   "note": "Kurzform: Ich bin 23."
+  },
+  {
+   "key": "my-phone-number",
+   "kind": "production",
+   "lesson": "dw-a1-e2-l2",
+   "skill": "giving your phone number",
+   "scene": "Your phone number is 02253429. Tell someone.",
+   "answer": "Meine Telefonnummer ist 02253429.",
+   "answerSource": {
+    "lesson": "dw-a1-e2-l2",
+    "source": "exercises"
+   },
+   "covers": [
+    "dw-a1-e2-l2:meine-telefonnummer-ist"
+   ],
+   "note": "In your notes: 02263429 (the exercise has 02253429)."
   }
  ]
 }

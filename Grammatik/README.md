@@ -16,17 +16,17 @@ official DW/VHS pages · the Sentences cards that practise it · my rule in my o
 
 | Topic | Page | From |
 |---|---|---|
-| du or Sie: informal and formal | [du-und-Sie](A1/du-und-Sie.md) | DW E0 L1–E1 L3 · VHS L2 |
+| du or Sie: informal and formal | [du-und-Sie](A1/du-und-Sie.md) | DW E0 L1–E2 L2 · VHS L2 |
 | Greetings and goodbyes: who says what, when | [Begruessungen](A1/Begruessungen.md) | DW E0 L1, E0 L3 · Easy German SEG 274 |
 | Personal pronouns | [Personalpronomen](A1/Personalpronomen.md) | DW E1 L1, E1 L4 · VHS L2 |
-| Present tense of regular verbs | [Praesens](A1/Praesens.md) | DW E1 L3, E1 L4 · VHS L2 |
-| sein | [sein](A1/sein.md) | DW E1 L1–L4 · VHS L2 |
+| Present tense of regular verbs | [Praesens](A1/Praesens.md) | DW E1 L3, E1 L4, E2 L2 · VHS L2 |
+| sein | [sein](A1/sein.md) | DW E1 L1–L4, E2 L2 · VHS L2 |
 | haben | [haben](A1/haben.md) | DW E1 L4, E2 L1 · VHS L2 |
 | heißen: saying your name | [heissen](A1/heissen.md) | DW E0 L4, E1 L1, E1 L4 |
-| W-questions: wer, wie, wo, woher, was | [W-Fragen](A1/W-Fragen.md) | DW E1 L3, E2 L1 · VHS L2 |
+| W-questions: wer, wie, wo, woher, was | [W-Fragen](A1/W-Fragen.md) | DW E1 L3, E2 L1, E2 L2 · VHS L2 |
 | Yes/no questions and W-questions | [Ja-Nein-Fragen](A1/Ja-Nein-Fragen.md) | VHS L2 · DW E1 |
-| mein, dein, Ihr | [Possessivartikel](A1/Possessivartikel.md) | VHS L2 · DW E0 L4, E1 L3 |
-| Numbers 0–100 | [Zahlen](A1/Zahlen.md) | VHS L2 · DW E2 L1 |
+| mein, dein, Ihr | [Possessivartikel](A1/Possessivartikel.md) | VHS L2 · DW E0 L4, E1 L3, E2 L2 |
+| Numbers 0–100 | [Zahlen](A1/Zahlen.md) | VHS L2 · DW E2 L1, E2 L2 |
 | wohnen in, kommen aus | [wohnen-in](A1/wohnen-in.md) | DW E1 L3 · VHS L2 |
 
 ## A1: coming

@@ -18,6 +18,7 @@
 | `archive/2026-09-26-grammar-pdf/` | Backup of the instruction, doc and test files edited when the grammar-book PDF was added, with a SHA-256 manifest. |
 | `archive/2026-09-26-dw-a1-e2-l1/` | Backup of the data, builder, test, grammar and doc files edited when DW A1 E2 L1 was processed, with a SHA-256 manifest. |
 | `archive/2026-09-26-notes-out-of-materials/` | Backup of the data, grammar and doc files edited when three notes files moved out of `Materials/`, with a SHA-256 manifest. |
+| `archive/2026-09-27-dw-a1-e2-l2/` | Backup of the data, grammar and doc files edited when DW A1 E2 L2 was processed, with a SHA-256 manifest. |
 | `archive/2026-09-27-official-materials-capture/` | Backup of the data, builder, test and doc files edited when the official scripts and exercises became a capture source, with a SHA-256 manifest. |
 
 ## Code

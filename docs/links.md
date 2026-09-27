@@ -87,6 +87,19 @@ not the status code.
 - Exercises (11), e.g. [A call for Lisa](https://learngerman.dw.com/en/a-call-for-lisa/l-37265543/e-37266248)
 - Script and vocabulary PDF: <https://static.dw.com/downloads/52719209/nicos-weg-a1-e1-l4-manuskript-und-wortschatz-englisch.pdf>
 
+### DW Nicos Weg A1 · Zahlen von 1 bis 100 (E2 L1)
+- Lesson page: <https://learngerman.dw.com/en/zahlen-von-1-bis-100/l-37265621> · notes: `DW Deutsch lernen/A1/03_contact_details/01_Lesson_01/Zahlen von 1 bis 100.md`
+- Grammar: [Numbers from 11 to 19](https://learngerman.dw.com/en/numbers-from-11-to-19/l-37265621/gr-38307006) · [Numbers from 20 to 100](https://learngerman.dw.com/en/numbers-from-20-to-100/l-37265621/gr-38307981)
+- Culture: [Happy Birthday!](https://learngerman.dw.com/en/happy-birthday/l-37265621/rs-39370325) · [Celebrating birthdays in the office](https://learngerman.dw.com/en/celebrating-birthdays-in-the-office/l-37265621/rs-40966362)
+- Exercises (14), e.g. [An invitation](https://learngerman.dw.com/en/an-invitation/l-37265621/e-37271074)
+- Script and vocabulary PDF: <https://static.dw.com/downloads/52719212/nicos-weg-a1-e2-l1-manuskript-und-wortschatz-englisch.pdf>
+
+### DW Nicos Weg A1 · Wichtige Nummern (E2 L2) · checked 2026-09-27
+- Lesson page: <https://learngerman.dw.com/en/wichtige-nummern/l-37269501> · notes: `DW Deutsch lernen/A1/03_contact_details/02_Lesson_02/Wichtige Nummern.md`
+- Culture: [Lost and found](https://learngerman.dw.com/en/lost-and-found/l-37269501/rs-39370411)
+- Exercises (12), e.g. [Understanding phone numbers (1)](https://learngerman.dw.com/en/understanding-phone-numbers-1/l-37269501/e-37272723)
+- Script and vocabulary PDF: <https://static.dw.com/downloads/52719221/nicos-weg-a1-e2-l2-manuskript-und-wortschatz-englisch.pdf>
+
 ### VHS A1 · Lektion 2 (Meine Familie und ich)
 - Vocabulary trainer with English, inside the portal: *Mein A1 → Vokabeltrainer → Lektion 2 → English* (captured 2026-09-25 into `VHS-Lernportal/A1/Materials/source-snapshot.json`)
 - Portal (login): <https://a1.vhs-lernportal.de/> · notes: `VHS-Lernportal/A1/Lesson_02/lektion_02.md`

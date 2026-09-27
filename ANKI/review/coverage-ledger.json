@@ -1,5 +1,5 @@
 {
- "revision": "2026-09-27T12:00:00Z",
+ "revision": "2026-09-27T18:00:00Z",
  "entries": {
   "dw-a1-e0-l1:auch": [
    "vocab:auch|also"
@@ -1292,6 +1292,117 @@
   ],
   "dw-a1-e2-l1:morgen": [
    "vocab:morgen|tomorrow"
+  ],
+  "dw-a1-e2-l2:antworten": [
+   "vocab:antworten|to-answer"
+  ],
+  "dw-a1-e2-l2:dreimal": [
+   "vocab:dreimal|three-times"
+  ],
+  "dw-a1-e2-l2:fragen": [
+   "vocab:fragen|to-ask"
+  ],
+  "dw-a1-e2-l2:das-fundburo": [
+   "article:Fundbüro|n",
+   "vocab:Fundbüro|lost-and-found"
+  ],
+  "dw-a1-e2-l2:das-handy": [
+   "article:Handy|n",
+   "vocab:Handy|cell-phone"
+  ],
+  "dw-a1-e2-l2:die-handynummer": [
+   "article:Handynummer|f",
+   "vocab:Handynummer|cell-phone-number"
+  ],
+  "dw-a1-e2-l2:etwas-horen": [
+   "vocab:hören|to-hear"
+  ],
+  "dw-a1-e2-l2:ich-bin-23-jahre-alt": [
+   "sentence:i-am-23"
+  ],
+  "dw-a1-e2-l2:null": [
+   "vocab:null|0"
+  ],
+  "dw-a1-e2-l2:das-radio": [
+   "article:Radio|n",
+   "vocab:Radio|radio"
+  ],
+  "dw-a1-e2-l2:mit-jemandem-sprechen": [
+   "vocab:sprechen|to-speak"
+  ],
+  "dw-a1-e2-l2:die-telefonnummer": [
+   "article:Telefonnummer|f",
+   "vocab:Telefonnummer|telephone-number"
+  ],
+  "dw-a1-e2-l2:meine-telefonnummer-ist": [
+   "sentence:my-phone-number"
+  ],
+  "dw-a1-e2-l2:wie-ist-deine-telefonnummer": [
+   "sentence:phone-number-informal"
+  ],
+  "dw-a1-e2-l2:wie-ist-ihre-telefonnummer": [
+   "sentence:phone-number-formal"
+  ],
+  "dw-a1-e2-l2:etwas-verlieren": [
+   "vocab:verlieren|to-lose-something"
+  ],
+  "dw-a1-e2-l2:wichtig": [
+   "vocab:wichtig|important"
+  ],
+  "dw-a1-e2-l2:wie-alt-bist-du": [
+   "sentence:age-informal"
+  ],
+  "dw-a1-e2-l2:wie-alt-sind-sie": [
+   "sentence:age-formal"
+  ],
+  "dw-a1-e2-l2:zweimal": [
+   "vocab:zweimal|twice"
+  ],
+  "dw-a1-e2-l2:gut": [
+   "vocab:gut|well"
+  ],
+  "dw-a1-e2-l2:etwas-abgeben": [
+   "vocab:abgeben|to-hand-in"
+  ],
+  "dw-a1-e2-l2:jemanden-erreichen": [
+   "vocab:erreichen|to-reach"
+  ],
+  "dw-a1-e2-l2:kennenlernen": [
+   "vocab:kennenlernen|to-get-to-know"
+  ],
+  "dw-a1-e2-l2:jemand": [
+   "vocab:jemand|somebody"
+  ],
+  "dw-a1-e2-l2:auf-gar-keinen-fall": [
+   "vocab:auf gar keinen Fall|no-way"
+  ],
+  "dw-a1-e2-l2:unser-unsere": [
+   "vocab:unser|our"
+  ],
+  "dw-a1-e2-l2:das-leben": [
+   "article:Leben|n",
+   "vocab:Leben|life"
+  ],
+  "dw-a1-e2-l2:verandern": [
+   "vocab:verändern|to-change"
+  ],
+  "dw-a1-e2-l2:sich-bedanken": [
+   "vocab:bedanken|to-thank"
+  ],
+  "dw-a1-e2-l2:die-werbung": [
+   "article:Werbung|f",
+   "vocab:Werbung|advertising"
+  ],
+  "dw-a1-e2-l2:der-schlafsack": [
+   "article:Schlafsack|m",
+   "vocab:Schlafsack|sleeping-bag"
+  ],
+  "dw-a1-e2-l2:die-isomatte": [
+   "article:Isomatte|f",
+   "vocab:Isomatte|sleeping-mat"
+  ],
+  "dw-a1-e2-l2:viel-spass": [
+   "vocab:Viel Spaß!|have-fun"
   ],
   "vhs-a1-l02:die-familie": [
    "article:Familie|f",

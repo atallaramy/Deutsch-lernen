@@ -1,0 +1,91 @@
+{
+  "createdAt": "2026-09-27",
+  "reason": "Backup before processing DW A1 E2 L2 Wichtige Nummern. Restore by copying each backup to its original path.",
+  "files": [
+    {
+      "original": "ANKI/lesson-vocabulary.json",
+      "backup": "ANKI/archive/2026-09-27-dw-a1-e2-l2/ANKI/lesson-vocabulary.json",
+      "sha256": "058872e6c91b6c523a348be278d2eec89cd0ee067cd45bdd3c18535e2a1ce64b"
+    },
+    {
+      "original": "ANKI/vocabulary-cards.json",
+      "backup": "ANKI/archive/2026-09-27-dw-a1-e2-l2/ANKI/vocabulary-cards.json",
+      "sha256": "b851df64112411883e6f25650952767ca3ed8d513b3a98f7e4cee18e26bb8337"
+    },
+    {
+      "original": "ANKI/articles-cards.json",
+      "backup": "ANKI/archive/2026-09-27-dw-a1-e2-l2/ANKI/articles-cards.json",
+      "sha256": "f83296903985b348cafc7e78f768e5e72f79967e9cf9954feb7128396263e989"
+    },
+    {
+      "original": "ANKI/sentence-sources.json",
+      "backup": "ANKI/archive/2026-09-27-dw-a1-e2-l2/ANKI/sentence-sources.json",
+      "sha256": "c9f1bcb23e7dee7cc6c60f261005c25322f4ddafb26212b10eae48712926ebc2"
+    },
+    {
+      "original": "ANKI/gloss-snapshot.json",
+      "backup": "ANKI/archive/2026-09-27-dw-a1-e2-l2/ANKI/gloss-snapshot.json",
+      "sha256": "55868a5c21b537fe22772ae5b49da80c4d3c16e4df50124f3db93450c0455db8"
+    },
+    {
+      "original": "ANKI/review/approvals.json",
+      "backup": "ANKI/archive/2026-09-27-dw-a1-e2-l2/ANKI/review/approvals.json",
+      "sha256": "87bc73d9c0af79fb447aa09b82897cb197880b0aa2a5f3252ff364fdb1bfe9d0"
+    },
+    {
+      "original": "Grammatik/A1/du-und-Sie.md",
+      "backup": "ANKI/archive/2026-09-27-dw-a1-e2-l2/Grammatik/A1/du-und-Sie.md",
+      "sha256": "4f096ef601a7f07a62e25dcc58cf6de2c565c912a33e6c87c6fb7765b21e787a"
+    },
+    {
+      "original": "Grammatik/A1/W-Fragen.md",
+      "backup": "ANKI/archive/2026-09-27-dw-a1-e2-l2/Grammatik/A1/W-Fragen.md",
+      "sha256": "6136cefaca86ef7609f646bf5e6bf98feff8fb1f45e699a727cecdd456a4cc6a"
+    },
+    {
+      "original": "Grammatik/A1/Possessivartikel.md",
+      "backup": "ANKI/archive/2026-09-27-dw-a1-e2-l2/Grammatik/A1/Possessivartikel.md",
+      "sha256": "438101cf680c08efaab2880eb479e291372f96366ed804e9e79d9075cf95f631"
+    },
+    {
+      "original": "Grammatik/A1/Zahlen.md",
+      "backup": "ANKI/archive/2026-09-27-dw-a1-e2-l2/Grammatik/A1/Zahlen.md",
+      "sha256": "7614ff55daadd5ee79e34f67d67f927da31ce4d29f7831d1b6da5a608c079745"
+    },
+    {
+      "original": "Grammatik/A1/sein.md",
+      "backup": "ANKI/archive/2026-09-27-dw-a1-e2-l2/Grammatik/A1/sein.md",
+      "sha256": "337f1dc4e991e200f52ae91ff3b4415acef9ae73d1f651af09753f513dd730d7"
+    },
+    {
+      "original": "Grammatik/A1/Praesens.md",
+      "backup": "ANKI/archive/2026-09-27-dw-a1-e2-l2/Grammatik/A1/Praesens.md",
+      "sha256": "daa02178acea8b3e6e998ea9fb5eefa244cc00bfe73a54f74a730f92234aec05"
+    },
+    {
+      "original": "Grammatik/README.md",
+      "backup": "ANKI/archive/2026-09-27-dw-a1-e2-l2/Grammatik/README.md",
+      "sha256": "f969cb75a5cb6336bb5ebe23a98bfb22b48b3f9b8af459d706bfb59eb2f0d831"
+    },
+    {
+      "original": "Grammatik/Materials/pdf-build.json",
+      "backup": "ANKI/archive/2026-09-27-dw-a1-e2-l2/Grammatik/Materials/pdf-build.json",
+      "sha256": "733f99ae0c15bd95dc9e3ef77eb1ed0def6df7e06140c1bde23eb3fdc91ec2d3"
+    },
+    {
+      "original": "docs/decisions.md",
+      "backup": "ANKI/archive/2026-09-27-dw-a1-e2-l2/docs/decisions.md",
+      "sha256": "a751a6d45fc270d347df1e3dcd5d9c20cadc05ba4a3625f2e871e71b67feb67e"
+    },
+    {
+      "original": "docs/links.md",
+      "backup": "ANKI/archive/2026-09-27-dw-a1-e2-l2/docs/links.md",
+      "sha256": "cba53ad9556e59e2a2a2e850763cb1d9e4c183126a6ba0307a79b3e6e9c46289"
+    },
+    {
+      "original": "docs/data-model.md",
+      "backup": "ANKI/archive/2026-09-27-dw-a1-e2-l2/docs/data-model.md",
+      "sha256": "891d5bf7c5c907109d74c352d5fc5c0f4636d57c8105cd190b48c294fcceed90"
+    }
+  ]
+}

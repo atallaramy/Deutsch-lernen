@@ -1,6 +1,6 @@
 # Zahlen: numbers 0–100
 
-*die Zahl* (number) · A1 · from VHS A1 Lektion 2 and DW A1 E2 L1 *Zahlen von 1 bis 100* · checked 2026-09-26
+*die Zahl* (number) · A1 · from VHS A1 Lektion 2 and DW A1 E2 L1 *Zahlen von 1 bis 100*, E2 L2 *Wichtige Nummern* · checked 2026-09-27
 
 ## The rule
 
@@ -44,10 +44,13 @@ Source: VHS Lektion 2 word list (1–12, 16, 17, 20, 21, 30, 70, 100); DW E2 L1 
 | Es ist neun Uhr. | [DW A1 E0 L1 · script](https://static.dw.com/downloads/52718683/nicos-weg-a1-e0-l1-manuskript-und-wortschatz-englisch.pdf) |
 | Lottes Telefonnummer ist dreiundvierzig siebenundachtzig fünfundfünfzig zweiundsechzig. | [DW A1 E2 L1 · exercise](https://learngerman.dw.com/en/an-invitation/l-37265621/e-37271074) |
 | Lisa, Emma, Nico: Das sind drei Personen. | [DW A1 E2 L1 · exercise](https://learngerman.dw.com/en/there-are-three-people/l-37265621/e-37266957) |
+| Die Telefonnummer ist 08007773344. | [DW A1 E2 L2 · exercise](https://learngerman.dw.com/en/understanding-phone-numbers-1/l-37269501/e-37272723) |
+| Und noch mal: 0800, dann dreimal die Sieben, zweimal die Drei, zweimal die Vier. | [DW A1 E2 L2 · script](https://static.dw.com/downloads/52719221/nicos-weg-a1-e2-l2-manuskript-und-wortschatz-englisch.pdf) |
 | Emma ist acht Jahre alt. | [DW A1 E2 L1 · script](https://static.dw.com/downloads/52719212/nicos-weg-a1-e2-l1-manuskript-und-wortschatz-englisch.pdf) |
 
 In the first example the phone number is said one digit at a time; Lotte's number
-(43 87 55 62) is said in pairs. *Uhr* stays singular in times (DW glossary:
+(43 87 55 62) is said in pairs. Repeated digits: *zweimal* (twice), *dreimal*
+(three times) + *die* + the digit: *dreimal die Sieben* = 777 (DW E2 L2). *Uhr* stays singular in times (DW glossary:
 *in Uhrzeiten: nur Singular*).
 
 ## Common mistakes
@@ -75,7 +78,7 @@ In the first example the phone number is said one digit at a time; Lotte's numbe
 
 ## Sentences cards
 
-- `time-nine`, `phone-number-pairs`, `how-many-people`. The number words themselves are in
+- `time-nine`, `phone-number-pairs`, `how-many-people`, `my-phone-number`. The number words themselves are in
   the Vocabulary deck (VHS Lektion 2, DW E2 L1).
 
 ## My rule in my own words
@@ -83,4 +86,5 @@ In the first example the phone number is said one digit at a time; Lotte's numbe
 > …
 
 My notes: [VHS Lektion 2](<../../VHS-Lernportal/A1/Lesson_02/lektion_02.md>) ·
-[Zahlen von 1 bis 100](<../../DW Deutsch lernen/A1/03_contact_details/01_Lesson_01/Zahlen von 1 bis 100.md>)
+[Zahlen von 1 bis 100](<../../DW Deutsch lernen/A1/03_contact_details/01_Lesson_01/Zahlen von 1 bis 100.md>) ·
+[Wichtige Nummern](<../../DW Deutsch lernen/A1/03_contact_details/02_Lesson_02/Wichtige Nummern.md>)

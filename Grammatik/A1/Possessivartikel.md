@@ -1,6 +1,6 @@
 # Possessivartikel: mein, dein, Ihr
 
-*der Possessivartikel* (possessive article; DW: possessive determiner) · A1 · from VHS A1 Lektion 2 and DW A1 E0 L4 *Von A bis Z*, E1 L1 *Ich heiße Emma*, E1 L3 *Woher kommst du?* · checked 2026-09-26
+*der Possessivartikel* (possessive article; DW: possessive determiner) · A1 · from VHS A1 Lektion 2 and DW A1 E0 L4 *Von A bis Z*, E1 L1 *Ich heiße Emma*, E1 L3 *Woher kommst du?*, E2 L2 *Wichtige Nummern* · checked 2026-09-27
 
 ## The rule
 
@@ -35,6 +35,8 @@ Source: VHS Lektion 2 word list (*mein, meine · dein, deine · Ihr, Ihre*); Wik
 | Kann **dein** Vater nicht helfen? | der Vater | [DW A1 E1 L3 · script](https://static.dw.com/downloads/52719129/nicos-weg-a1-e1-l3-manuskript-und-wortschatz-englisch.pdf) |
 | Wie ist **dein** Name? | der Name | [DW A1 E0 L4 · script](https://static.dw.com/downloads/52719090/nicos-weg-a1-e0-l4-manuskript-und-wortschatz-englisch.pdf) |
 | Wie ist **Ihre** Adresse? Wie ist **deine** Adresse? | die Adresse | [VHS A1 L2 · phrase trainer](https://a1.vhs-lernportal.de/) |
+| Wie ist **deine** Telefonnummer? | die Telefonnummer | [DW A1 E2 L2 · script](https://static.dw.com/downloads/52719221/nicos-weg-a1-e2-l2-manuskript-und-wortschatz-englisch.pdf) |
+| **Meine** Telefonnummer ist 02253429. | die Telefonnummer | [DW A1 E2 L2 · exercise](https://learngerman.dw.com/en/understanding-phone-numbers-2/l-37269501/e-37273380) |
 | Ich bin **Ihre** Deutschlehrerin. | die Deutschlehrerin | [DW A1 E1 L1 · exercise](https://learngerman.dw.com/en/nico-is-learning-german-introduction/l-37262882/e-37263816) |
 
 ## Common mistakes
@@ -58,11 +60,13 @@ Its other rows come later: *sein/seine*, *ihr/ihre*, *unser/unsere* (VHS A1 Lekt
 
 ## Sentences cards
 
-- `my-name-is-nico`, `your-name-informal`, `your-name-formal`, `father-can-help`
+- `my-name-is-nico`, `your-name-informal`, `your-name-formal`, `father-can-help`, `phone-number-informal`,
+  `phone-number-formal`, `my-phone-number`
 
 ## My rule in my own words
 
 > …
 
 My notes: [Ich heiße Emma](<../../DW Deutsch lernen/A1/02_meeting_people/01_Lesson_01/Ich heiße Emma.md>) ·
-[VHS Lektion 2](<../../VHS-Lernportal/A1/Lesson_02/lektion_02.md>)
+[VHS Lektion 2](<../../VHS-Lernportal/A1/Lesson_02/lektion_02.md>) ·
+[Wichtige Nummern](<../../DW Deutsch lernen/A1/03_contact_details/02_Lesson_02/Wichtige Nummern.md>)

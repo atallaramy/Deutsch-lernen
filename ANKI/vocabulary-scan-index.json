@@ -1,8 +1,8 @@
 {
   "deck": "German A1 — Vocabulary",
-  "revision": "2026-09-27T12:00:00Z",
+  "revision": "2026-09-27T18:00:00Z",
   "qualityPolicy": "One typed German word or fixed expression per card, in a verified context where one exists. No audio.",
-  "cards": 404,
+  "cards": 427,
   "sources": [
     {
       "id": "dw-a1-e0-l1",
@@ -122,6 +122,19 @@
       }
     },
     {
+      "id": "dw-a1-e2-l2",
+      "course": "dw-nicos-weg",
+      "title": "Wichtige Nummern",
+      "url": "https://learngerman.dw.com/en/wichtige-nummern/l-37269501",
+      "notesFile": "DW Deutsch lernen/A1/03_contact_details/02_Lesson_02/Wichtige Nummern.md",
+      "capturedEntries": 34,
+      "cards": {
+        "vocabulary": 28,
+        "articles": 9,
+        "sentences": 6
+      }
+    },
+    {
       "id": "vhs-a1-l02",
       "course": "vhs-lernportal",
       "title": "Lektion 2 · Meine Familie und ich",
@@ -150,9 +163,9 @@
   ],
   "packages": {
     "ANKI/vocabulary.apkg": {
-      "notes": 404,
-      "cards": 404,
-      "sha256": "9dfb8b3cc893ae7dedd2193b2ecb405670f2f45b27df69e0d1436b4a064854c5"
+      "notes": 427,
+      "cards": 427,
+      "sha256": "ffea09a2d21c5a2f0741ba1c7713a85c30b08110e2a230acac88d1dddb5d0418"
     }
   }
 }

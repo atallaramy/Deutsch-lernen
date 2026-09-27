@@ -3,6 +3,16 @@
 Confirmed decisions, newest first. The binding rules they produce live in
 `AGENTS.md`; this file records why and when.
 
+## 2026-09-27 — DW A1 E2 L2 Wichtige Nummern
+
+| Topic | Decision |
+|---|---|
+| Notes | Moved up from `Materials/` with the learner's yes ("yes move the notes up"). |
+| Mistake rounds | Two rounds, saved in the lesson's `Materials/mistakes.md`; three items still open after round 2. |
+| Grammar terms | No to *der Indikativ, der Konjunktiv, der Imperativ*: the learner looked them up "preparing for future courses". Recorded as `declinedEntries`. |
+| Mistake feedback | The learner will test the "In your notes: …" line on the card backs before deciding whether to keep it. No change yet. |
+| Build | The learner approved all 43 new and changed cards; decks built (427 Vocabulary, 149 Articles, 65 Sentences, 12 lesson decks). |
+
 ## 2026-09-27 — capture from official materials
 
 | Topic | Decision |

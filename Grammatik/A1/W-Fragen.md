@@ -1,6 +1,6 @@
 # W-Fragen: wer, wie, wo, woher, was
 
-*die W-Frage* (W-question) · A1 · from DW A1 E0 L1 to E2 L1 (mostly E1 L3 *Woher kommst du?*) and VHS A1 Lektion 2 · checked 2026-09-26
+*die W-Frage* (W-question) · A1 · from DW A1 E0 L1 to E2 L2 (mostly E1 L3 *Woher kommst du?*) and VHS A1 Lektion 2 · checked 2026-09-27
 
 ## The rule
 
@@ -47,6 +47,8 @@ Also met, full topics later: *wohin* (where to), *welche* (which; DW A1 E14 L2
 | **Wer** ist das? | [DW A1 E1 L2 · exercise](https://learngerman.dw.com/en/here-are-nico-and-emma/l-37262923/e-37264626) |
 | **Was** machen Sie in Deutschland? | [DW A1 E1 L4 · exercise](https://learngerman.dw.com/en/nico-reflects/l-37265543/e-37269418) |
 | **Wohin** willst du? | [DW A1 E0 L3 · script](https://static.dw.com/downloads/52719087/nicos-weg-a1-e0-l3-manuskript-und-wortschatz-englisch.pdf) |
+| **Wie** ist deine Telefonnummer? | [DW A1 E2 L2 · script](https://static.dw.com/downloads/52719221/nicos-weg-a1-e2-l2-manuskript-und-wortschatz-englisch.pdf) |
+| **Wie alt** sind Sie? | [DW A1 E2 L2 · exercise](https://learngerman.dw.com/en/pronunciation-training-how-old-are-you/l-37269501/e-37272394) |
 | **Welche** Sprachen spricht er? | [DW A1 E1 L2 · exercise](https://learngerman.dw.com/en/this-is-nico/l-37262923/e-37265408) |
 
 ## Common mistakes
@@ -57,6 +59,7 @@ Also met, full topics later: *wohin* (where to), *welche* (which; DW A1 E14 L2
 | Woher wohnst du? | Wo wohnst du? | *wohnen* goes with *wo*. | rule |
 | Wo du wohnst? | Wo wohnst du? | The verb comes straight after the question word. | rule |
 | Was heißt du? | Wie heißt du? | Names go with *wie* ([heißen](heissen.md)). | rule |
+| erreichen. | erreichen? | *Wie kann ich dich denn erreichen?* is a W-question, so it ends with **?**. | [my mistakes: Wichtige Nummern](<../../DW Deutsch lernen/A1/03_contact_details/02_Lesson_02/Materials/mistakes.md>) |
 
 ## Official pages
 
@@ -73,7 +76,8 @@ Also met, full topics later: *wohin* (where to), *welche* (which; DW A1 E14 L2
 - was, wer: `what-doing-informal`, `what-doing-formal`, `who-are-you-informal`, `who-are-you-formal`
 - wie: `how-are-you-informal`, `how-are-you-formal`, `name-informal-heissen`, `name-formal-heissen`,
   `your-name-informal`, `your-name-formal`, `how-many-children`, `how-old-emma`, `emma-is-eight`,
-  `how-many-people`
+  `how-many-people`, `age-informal`, `age-formal`, `i-am-23`, `phone-number-informal`,
+  `phone-number-formal`
 
 ## My rule in my own words
 
@@ -81,4 +85,5 @@ Also met, full topics later: *wohin* (where to), *welche* (which; DW A1 E14 L2
 
 My notes: [Woher kommst du?](<../../DW Deutsch lernen/A1/02_meeting_people/03_Lesson_03/Woher komst du.md>) ·
 [Das ist Nico](<../../DW Deutsch lernen/A1/02_meeting_people/02_Lesson_02/Das ist Nico.md>) ·
-[Zahlen von 1 bis 100](<../../DW Deutsch lernen/A1/03_contact_details/01_Lesson_01/Zahlen von 1 bis 100.md>)
+[Zahlen von 1 bis 100](<../../DW Deutsch lernen/A1/03_contact_details/01_Lesson_01/Zahlen von 1 bis 100.md>) ·
+[Wichtige Nummern](<../../DW Deutsch lernen/A1/03_contact_details/02_Lesson_02/Wichtige Nummern.md>)
