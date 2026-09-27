@@ -3,6 +3,18 @@
 Confirmed decisions, newest first. The binding rules they produce live in
 `AGENTS.md`; this file records why and when.
 
+## 2026-09-27 — vocabulary and grammar pages
+
+| Topic | Decision |
+|---|---|
+| Goal | The learner: "the idea is to record anything new in those pages [the lesson's grammar page and vocabulary page on the web] and add them to the proper Exercises. this is the goal of your help." Interpretation, applied: "the proper Exercises" means the right deck (Vocabulary, Articles, Sentences) through the usual capture, and the grammar book for a grammar rule. |
+| Vocabulary page | Every item on a studied DW lesson's vocabulary page (`/lv`) is recorded in that lesson (entry, pending or declined). `build_all.py check` reports any item that is not. `vocabularyPageForm` links an entry the page writes differently. |
+| Grammar pages | Every DW grammar page of a studied lesson is covered by a grammar-book topic page and linked from it; `check_grammar_book.py` reports any that is not. New words and phrases on grammar pages are captured like script items (`origin`: `dw-grammar-page`). |
+| Saved copies | The learner: "it is a good idea to save what you see in grammar page and vocabulary page if you think this is useful (in the materials folder)". Applied: the snapshot now holds the vocabulary page, and each DW lesson's `Materials/lesson-pages.md` is a readable copy of its vocabulary, grammar and culture pages (tables and bold endings kept, no audio). |
+| Studied lessons | All 10 studied DW lessons were checked: every vocabulary-page item and every grammar page was already recorded, so no cards changed. One item is written differently on the page (`Es ist 09:00 Uhr.`; the PDF and the entry: `Es ist neun Uhr.`) and got `vocabularyPageForm`. |
+| Snapshots | Re-harvested; exercise, grammar and culture texts are unchanged apart from dropped photo credits (`null DW`). |
+| VHS | Unchanged: the word list, the vocabulary trainer and the grammar list are the VHS equivalents; content inside the portal stays under D6. |
+
 ## 2026-09-27 — DW A1 E2 L2 Wichtige Nummern
 
 | Topic | Decision |

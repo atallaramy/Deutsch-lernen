@@ -1,12 +1,215 @@
 {
  "description": "Official source text captured by ANKI/harvest_sources.py for offline context verification.",
- "harvestedOn": "2026-09-25",
+ "harvestedOn": "2026-09-27",
  "sources": [
   {
    "id": "exercises",
    "kind": "dw-exercises",
    "url": "https://learngerman.dw.com/en/woher-kommst-du/l-37263828",
    "lessonUrl": "https://learngerman.dw.com/en/woher-kommst-du/l-37263828",
+   "vocabulary": {
+    "url": "https://learngerman.dw.com/en/woher-kommst-du/l-37263828/lv",
+    "items": [
+     {
+      "id": 37364432,
+      "german": "aus",
+      "english": "from",
+      "forms": ""
+     },
+     {
+      "id": 37366068,
+      "german": "(das) Berlin",
+      "english": "Berlin",
+      "forms": "nur Singular, selten mit Artikel"
+     },
+     {
+      "id": 37366127,
+      "german": "(das) Deutschland",
+      "english": "Germany",
+      "forms": "nur Singular, selten mit Artikel"
+     },
+     {
+      "id": 37389272,
+      "german": "Entschuldigung, ...",
+      "english": "Excuse me, ...",
+      "forms": ""
+     },
+     {
+      "id": 37367224,
+      "german": "hier",
+      "english": "here",
+      "forms": ""
+     },
+     {
+      "id": 37362937,
+      "german": "ja",
+      "english": "yes",
+      "forms": ""
+     },
+     {
+      "id": 37365215,
+      "german": "kommen",
+      "english": "come",
+      "forms": "kommt, kam, ist gekommen"
+     },
+     {
+      "id": 37366512,
+      "german": "Ich komme aus Spanien.",
+      "english": "I am from Spain.",
+      "forms": ""
+     },
+     {
+      "id": 37367067,
+      "german": "(etwas) lernen",
+      "english": "to learn (something)",
+      "forms": "lernt, lernte, hat gelernt"
+     },
+     {
+      "id": 37366263,
+      "german": "etwas machen",
+      "english": "to make something; to do something; to be doing something",
+      "forms": "macht, machte, hat gemacht"
+     },
+     {
+      "id": 37365135,
+      "german": "nein",
+      "english": "no",
+      "forms": ""
+     },
+     {
+      "id": 37366374,
+      "german": "die Polizei",
+      "english": "police",
+      "forms": "nur Singular"
+     },
+     {
+      "id": 39691719,
+      "german": "Sie",
+      "english": "you (formal)",
+      "forms": "Singular und Plural"
+     },
+     {
+      "id": 37367222,
+      "german": "(das) Spanien",
+      "english": "Spain",
+      "forms": "nur Singular, selten mit Artikel"
+     },
+     {
+      "id": 37367250,
+      "german": "der Sprachkurs, die Sprachkurse",
+      "english": "language course",
+      "forms": ""
+     },
+     {
+      "id": 37367265,
+      "german": "sprechen",
+      "english": "to speak",
+      "forms": "spricht, sprach, hat gesprochen"
+     },
+     {
+      "id": 40875135,
+      "german": "Sie sprechen gut Deutsch.",
+      "english": "You speak German well.",
+      "forms": ""
+     },
+     {
+      "id": 37368022,
+      "german": "der Tourist, die Touristen",
+      "english": "Tourist (male)",
+      "forms": ""
+     },
+     {
+      "id": 37368045,
+      "german": "die Touristin, die Touristinnen",
+      "english": "tourist (female)",
+      "forms": ""
+     },
+     {
+      "id": 37368190,
+      "german": "der Vater, die Väter",
+      "english": "father",
+      "forms": ""
+     },
+     {
+      "id": 37366466,
+      "german": "was",
+      "english": "what",
+      "forms": ""
+     },
+     {
+      "id": 40875127,
+      "german": "Was machen Sie hier?",
+      "english": "What do you do here? (formal)",
+      "forms": ""
+     },
+     {
+      "id": 37395320,
+      "german": "Was machst du hier?",
+      "english": "What are you doing here? (informal)",
+      "forms": ""
+     },
+     {
+      "id": 37366494,
+      "german": "wie",
+      "english": "how",
+      "forms": ""
+     },
+     {
+      "id": 37366501,
+      "german": "wir",
+      "english": "we",
+      "forms": ""
+     },
+     {
+      "id": 37367321,
+      "german": "wo",
+      "english": "where",
+      "forms": ""
+     },
+     {
+      "id": 37396818,
+      "german": "Wo wohnen Sie?",
+      "english": "Where do you live? (formal)",
+      "forms": ""
+     },
+     {
+      "id": 37366916,
+      "german": "Wo wohnst du?",
+      "english": "Where do you live? (informal)",
+      "forms": ""
+     },
+     {
+      "id": 37363828,
+      "german": "woher",
+      "english": "where; from where",
+      "forms": ""
+     },
+     {
+      "id": 37396992,
+      "german": "Woher kommen Sie?",
+      "english": "Where are you from? (formal)",
+      "forms": ""
+     },
+     {
+      "id": 37366967,
+      "german": "Woher kommst du?",
+      "english": "Where are you from? (informal)",
+      "forms": ""
+     },
+     {
+      "id": 37366509,
+      "german": "wohnen",
+      "english": "to live",
+      "forms": "wohnt, wohnte, hat gewohnt"
+     },
+     {
+      "id": 37366909,
+      "german": "Ich wohne in Sevilla.",
+      "english": "I live in Sevilla.",
+      "forms": ""
+     }
+    ]
+   },
    "exercises": [
     {
      "id": "e-37268049",
@@ -253,7 +456,8 @@
      "texts": [
       "Conjugation: present tense (1)",
       "In conjugation, the endings of the verbs often change. The ending depends on which person is doing the action. The ending comes after the verb stem.\nExample: kommen\nWoher kommst du, Nico? – Ich komme aus Spanien.\nWoher kommen Sie, Herr González? – Ich komme aus Spanien.\nMost verbs are conjugated in the present tense as follows:\nkommen\nSingular\n1st person\nich komme\nSingular\n2nd person\ndu kommst\nSingular and plural\nformal address\nSie kommen\nExample: heißen\nWhen the verb stem ends in -s, -ß, -z or -x , the second-person singular form only adds a -t :\nheißen\nSingular\n1st person\nich heiße\nSingular\n2nd person\ndu heißt\nSingular and plural\nformal address\nSie heißen\nExample: sein\nIch bin Nico. Und wer bist du? – Ich bin Emma.\nIch bin Lisa Brunner. Und wer sind Sie? – Ich bin Sigi Körner.\nThe verb sein and other important German verbs are irregular. So always learn the verb forms as well!\nsein\nSingular\n1st person\nich bin\nSingular\n2nd person\ndu bist\nSingular and plural\nformal address\nSie sind\nGrammatical terms in German:\ndas Verb: Verbs are words that describe activities, occurrences or a situation, e.g. walk, eat, play. German verbs usually end with -en in the infinitive, e.g. kommen, heißen, lernen.\ndie Konjugation: When a verb is used in a different tense, or with a different person, it changes. It often gets a specific ending. This change in the verb form is known as conjugation.\ndas Präsens: The present is a verb tense. It is used when speaking about events, activities or situations that happen in the present or are continuing to happen."
-     ]
+     ],
+     "html": "<p>In conjugation, the endings of the verbs often change. The ending depends on which person is doing the action. The ending comes after the verb&#160;stem.</p>\n\n\n\n<p>&#160;</p>\n\n<p>Example: <em>kommen</em></p>\n\n<p><em>Woher komm<strong>st</strong> <strong>du</strong>, Nico? – <strong>Ich</strong> komm<strong>e</strong> aus Spanien.</em></p>\n\n<p><em>Woher komm<strong>en</strong> <strong>Sie</strong>, Herr González? – <strong>Ich</strong> komm<strong>e</strong> aus Spanien.</em></p>\n\n<p><br>\nMost verbs are conjugated in the present tense as follows:</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>&#160;</td>\n\t\t\t<td>&#160;</td>\n\t\t\t<td>kommen</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Singular</td>\n\t\t\t<td>1st person</td>\n\t\t\t<td><strong>ich</strong> komm<strong>e</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Singular</td>\n\t\t\t<td>2nd person</td>\n\t\t\t<td><strong>du</strong> komm<strong>st</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Singular and plural</td>\n\t\t\t<td>formal address</td>\n\t\t\t<td><strong>Sie</strong> komm<strong>en</strong></td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&#160;</p>\n\n<p>Example: <em>heißen</em></p>\n\n<p>When the verb stem ends in<em> -s, -ß, -z</em> or <em>-x</em> , the second-person singular form only adds a <strong>-t</strong> :</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>&#160;</td>\n\t\t\t<td>&#160;</td>\n\t\t\t<td>heißen</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Singular</td>\n\t\t\t<td>1st person</td>\n\t\t\t<td><strong>ich </strong>heiß<strong>e</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Singular</td>\n\t\t\t<td>2nd person</td>\n\t\t\t<td><strong>du</strong> heiß<strong>t</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Singular and plural&#160;</td>\n\t\t\t<td>formal address</td>\n\t\t\t<td><strong>Sie </strong>heiß<strong>en</strong></td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&#160;</p>\n\n<p>Example: <em>sein</em></p>\n\n<p><strong><em>Ich</em></strong><em> <strong>bin</strong> Nico. Und wer <strong>bist du</strong>? – <strong>Ich</strong> <strong>bin</strong> Emma.</em></p>\n\n<p><strong><em>Ich bin</em></strong><em> Lisa Brunner. Und wer <strong>sind Sie</strong>? – <strong>Ich</strong> <strong>bin</strong> Sigi Körner.</em></p>\n\n<p>The verb <em>sein</em> and other important German verbs&#160;are irregular. So always learn the verb forms as well!</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>&#160;</td>\n\t\t\t<td>&#160;</td>\n\t\t\t<td>sein</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Singular</td>\n\t\t\t<td>1st person</td>\n\t\t\t<td><strong>ich</strong> <strong>bin</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Singular</td>\n\t\t\t<td>2nd person</td>\n\t\t\t<td><strong>du</strong> <strong>bist</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Singular and plural</td>\n\t\t\t<td>formal address</td>\n\t\t\t<td><strong>Sie</strong> <strong>sind</strong></td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&#160;</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>Grammatical terms in German:</p>\n\n\t\t\t<p>das Verb: Verbs are words that describe activities, occurrences or a situation, e.g. walk, eat, play. German verbs usually end with <em>-en </em>in<em> </em>the infinitive, e.g.<em> kommen, heißen, lernen</em>.</p>\n\n\t\t\t<p>die Konjugation: When a verb is used in a different tense, or with a different person, it changes. It often gets a specific ending. This change in the verb form is known as conjugation.</p>\n\t\t\tdas Präsens: The present is a verb tense. It is used when speaking about events, activities or situations that happen in the present or are continuing to happen.</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">\n\t<tbody>\n\t</tbody>\n</table>\n\n<p>&#160;</p>\n"
     },
     {
      "id": "rs-39371127",
@@ -261,8 +465,9 @@
      "title": "My name is Müller",
      "texts": [
       "My name is Müller",
-      "null iStockphoto\nUntil the 12th century, people were only called by their first names. From then on, descriptive titles or \"bynames\" were given, like Heinrich the Great, or Anna the Industrious One. Family names, or surnames, became widespread from the 15th century.\nTypical German surnames mainly stem from the Middle Ages, and are derived from artisanal trades. The most important occupations then are the most common family names now. The last name Müller (miller) is the most common, but there are also lots of Schneiders (tailor), Fischers (fisherman), Schusters (cobbler) and Webers (weaver). Some names have also been modified: Schmied (blacksmith) has become Schmidt; Bäcker (baker) has become Becker.\nThe family or last name is very important in formal communication in Germany. You address adults with \"Frau Müller\" or \"Herr Schuster\", as well as with the \"Sie\" form. Teachers must also address high school students 16 years and older with \"Sie\" if they are asked to."
-     ]
+      "Until the 12th century, people were only called by their first names. From then on, descriptive titles or \"bynames\" were given, like Heinrich the Great, or Anna the Industrious One. Family names, or surnames, became widespread from the 15th century.\nTypical German surnames mainly stem from the Middle Ages, and are derived from artisanal trades. The most important occupations then are the most common family names now. The last name Müller (miller) is the most common, but there are also lots of Schneiders (tailor), Fischers (fisherman), Schusters (cobbler) and Webers (weaver). Some names have also been modified: Schmied (blacksmith) has become Schmidt; Bäcker (baker) has become Becker.\nThe family or last name is very important in formal communication in Germany. You address adults with \"Frau Müller\" or \"Herr Schuster\", as well as with the \"Sie\" form. Teachers must also address high school students 16 years and older with \"Sie\" if they are asked to."
+     ],
+     "html": "\n\n<p>Until the 12th century, people were only called by their first names. From then on, descriptive titles or \"bynames\"&#160;were given, like Heinrich the Great, or Anna the Industrious One. Family names, or surnames, became widespread from the 15th century.</p>\n\n<p>Typical German surnames mainly stem from the Middle Ages, and are derived from artisanal trades. The most important occupations then are the most common family names now. The last name Müller (miller) is the most common, but there are also lots of Schneiders (tailor), Fischers (fisherman), Schusters (cobbler) and Webers (weaver). Some names have also been modified: Schmied (blacksmith) has become Schmidt; Bäcker (baker) has become Becker.&#160;</p>\n\n<p>The family or last name is very important in formal communication in Germany. You address adults with \"Frau Müller\" or \"Herr Schuster\", as well as with the \"Sie\" form. Teachers must also address high school students 16 years and older with \"Sie\" if they are asked to.</p>\n"
     },
     {
      "id": "rs-40965959",
@@ -271,7 +476,8 @@
      "texts": [
       "Name changes after marriage",
       "It used to be common for women to take their husband's name when they got married. This is no longer the case. Today, men can also take the names of their wives, or both can keep their own name. Married couples can also take double names; they keep their own last name and add on that of their partner. But for children, a decision has to be made: even if the couple has different names or double-barreled names, the children are only allowed to have one name."
-     ]
+     ],
+     "html": "<p>It used to be common for women to take their husband's name when they got married. This is no longer the case. Today, men can also take the names of their wives, or both can keep their own name. Married couples can also take double names; they keep their own last name and add on that of their partner. But for children, a decision has to be made: even if the couple has different names or double-barreled names, the children are only allowed to have one name.</p>\n"
     }
    ]
   },

@@ -1,0 +1,255 @@
+{
+ "description": "Official source text captured by ANKI/harvest_sources.py for offline context verification.",
+ "harvestedOn": "2026-09-25",
+ "sources": [
+  {
+   "id": "exercises",
+   "kind": "dw-exercises",
+   "url": "https://learngerman.dw.com/en/von-a-bis-z/l-37256418",
+   "lessonUrl": "https://learngerman.dw.com/en/von-a-bis-z/l-37256418",
+   "exercises": [
+    {
+     "id": "e-37262583",
+     "url": "https://learngerman.dw.com/en/here-are-nico-emma-and-lisa/l-37256418/e-37262583",
+     "title": "Here are Nico, Emma, and Lisa",
+     "texts": [
+      "Lisa ist Emmas Tante.",
+      "Nico sucht Yara.",
+      "Emmas Mama fliegt nach Amerika.",
+      "Das ist Lisa.",
+      "Das ist Nico.",
+      "Das ist Emma."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-42258457",
+     "url": "https://learngerman.dw.com/en/how-do-you-write-this-1/l-37256418/e-42258457",
+     "title": "How do you write this? (1)",
+     "texts": [],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37262494",
+     "url": "https://learngerman.dw.com/en/how-do-you-write-this-2/l-37256418/e-37262494",
+     "title": "How do you write this? (2)",
+     "texts": [
+      "Play audio",
+      "Play audio",
+      "Play audio"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37257758",
+     "url": "https://learngerman.dw.com/en/how-do-you-write-this-3/l-37256418/e-37257758",
+     "title": "How do you write this? (3)",
+     "texts": [
+      "Bring die Buchstaben in die richtige Reihenfolge.",
+      "Bring die Buchstaben in die richtige Reihenfolge."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-42257624",
+     "url": "https://learngerman.dw.com/en/lisa-and-emma-help-nico/l-37256418/e-42257624",
+     "title": "Lisa and Emma help Nico",
+     "texts": [
+      "Deutschkurse | Nicos Weg | A1_E0_L4_S10_Foto1",
+      "Deutschkurse | Nicos Weg | A1_E0_L4_S10_Foto2",
+      "Deutschkurse | Nicos Weg | A1_E0_L4_S10_Foto4",
+      "Was sieht man im Video?"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37262413",
+     "url": "https://learngerman.dw.com/en/nico-learns-german-could-you-please-say-that-again/l-37256418/e-37262413",
+     "title": "Nico learns German: Could you please say that again?",
+     "texts": [
+      "wie ist dein Name",
+      "Mein Name ist Lennard",
+      "L-E-N-N-A-R-D",
+      "Bitte buchstabieren Sie das",
+      "Noch einmal",
+      "Danke",
+      "Julia: Hallo, #p#?\nLennard: #p#.\nJulia: Lennard? Bitte buchstabiere das.\nLennard: L-E-N-N-A-R-D.\nJulia: Noch einmal bitte.\nLennard: #p#.\nJulia: Ah ja. Danke.",
+      "Bring die Wörter und Sätze in die richtige Reihenfolge.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "Herr Lübken: Hallo, wie ist Ihr Name?\nSophie: Mein Name ist Sophie Meier.\nHerr Lübken: Sophie Meier? #p#.\nSophie: S-O-P-H-I-E M-E-I-E-R.\nHerr Lübken: #p#. Langsam bitte.\nSophie: S-O-P-H-I-E M-E-I-E-R.\nHerr Lübken: Okay. #p#.",
+      "Bring die Wörter und Sätze in die richtige Reihenfolge.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37262329",
+     "url": "https://learngerman.dw.com/en/nico-learns-german-what-is-your-name/l-37256418/e-37262329",
+     "title": "Nico learns German: What is your name?",
+     "texts": [
+      "Mein Name ist Lennard.",
+      "Mein Name ist Sophie Meier.",
+      "Hallo, wie ist dein Name?",
+      "Hallo, wie ist Ihr Name?"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37257557",
+     "url": "https://learngerman.dw.com/en/nico-learns-the-german-alphabet/l-37256418/e-37257557",
+     "title": "Nico learns the German alphabet",
+     "texts": [
+      "A - B - C - D - E",
+      "F - G - H - I - J - K",
+      "L - M - N - O - P - Q",
+      "R – S – T – U – V – W",
+      "X - Y - Z",
+      "Ä – Ö – Ü – ß"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-42258525",
+     "url": "https://learngerman.dw.com/en/spelling-names/l-37256418/e-42258525",
+     "title": "Spelling names",
+     "texts": [
+      "Emma? Wie schreibt man das?",
+      "Lisa? Wie schreibt man das?",
+      "Nico? Wie schreibt man das?",
+      "Max? Wie schreibt man das?",
+      "Nina? Wie schreibt man das?"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37257676",
+     "url": "https://learngerman.dw.com/en/understanding-abbreviations/l-37256418/e-37257676",
+     "title": "Understanding abbreviations",
+     "texts": [
+      "LKW",
+      "AGB",
+      "USB",
+      "DNA",
+      "Play audio",
+      "Play audio",
+      "Play audio",
+      "Play audio"
+     ],
+     "vocabularyTags": []
+    }
+   ],
+   "pages": [
+    {
+     "id": "rs-40965828",
+     "url": "https://learngerman.dw.com/en/hows-it-going/l-37256418/rs-40965828",
+     "title": "How's it going?",
+     "texts": [
+      "How's it going?",
+      "The question \"Wie geht es dir?\" (\"How are you?\" – informal) or \"Wie geht es Ihnen?\" (\"How are you?\" – formal) often comes immediately after a greeting. It is a standard part of the conversation, as it is considered polite to ask someone how they are doing or feeling. But be careful: sometimes people are not really interested in the answer. In a conversation with someone you don't know that well, your answer should be very brief, for example, \"Danke, gut\" (\"Very well, thanks)\".\nBut if a friend asks you the question, you may respond honestly and in detail, since that person really wants to know how you are."
+     ]
+    },
+    {
+     "id": "rs-39371795",
+     "url": "https://learngerman.dw.com/en/the-phonetic-alphabet/l-37256418/rs-39371795",
+     "title": "The phonetic alphabet",
+     "texts": [
+      "The phonetic alphabet",
+      "null colourbox.de\nIn German, the alphabet letters with city names have only been in use since 2022. The previous alphabet letter system was primarily made up of first names. Many people still use it today.\nA\nAachen\nÄ\nUmlaut Aachen\nB\nBerlin\nC\nChemnitz\nCh\nChemnitz – Hamburg\nD\nDüsseldorf\nE\nEssen\nF\nFrankfurt\nG\nGoslar\nH\nHamburg\nI\nIngelheim\nJ\nJena\nK\nKöln\nL\nLeipzig\nM\nMünchen\nN\nNürnberg\nO\nOffenbach\nÖ\nUmlaut Offenbach\nP\nPotsdam\nQ\nQuickborn\nR\nRostock\nS\nSalzwedel\nSch\nSalzwedel – Chemnitz –\nHamburg\nß\nEszett\nT\nTübingen\nU\nUnna\nÜ\nUmlaut Unna\nV\nVölklingen\nW\nWuppertal\nX\nXanten\nY\nYpsilon\nZ\nZwickau\n.\nPunkt\n-\nMinus\n_\nUnterstrich\n/\nSchrägstrich\n\\\numgekehrter\nSchrägstrich\n@\nEtt\nNico would spell out his name like this: Nürnberg – Ingelheim – Chemnitz – Offenbach"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "script",
+   "kind": "dw-script-pdf",
+   "url": "https://static.dw.com/downloads/52719090/nicos-weg-a1-e0-l4-manuskript-und-wortschatz-englisch.pdf",
+   "localFile": "DW Deutsch lernen/A1/01_Intro_zu_A1/04_Von A bis Z/Materials/Script and vocabulary (English).pdf",
+   "sha256": "aae890dd78c9582562e12ff29c05c78be2dfa78b6156b3f8fcc9652127f37582",
+   "lines": [
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "Welcome to A1! | Von A bis Z",
+    "Lisa and Emma hear from Nico why he has come to Germany, and they give",
+    "him a ride into town. In the car, Emma arranges alphabet cookies to form",
+    "her name and teaches Nico how to introduce himself in German.",
+    "Script",
+    "NICO:",
+    "Yara.",
+    "LISA:",
+    "Wer ist Yara?",
+    "NICO:",
+    "Meine ... aunt?",
+    "EMMA:",
+    "Deine Tante?",
+    "LISA:",
+    "Nicht schlecht! Du willst zu deiner Tante? Zu Yara? Hast du die Adresse? Adresse:",
+    "Straße, Hausnummer?",
+    "NICO:",
+    "Andel … Adelschiffstraße?",
+    "LISA:",
+    "Die kenn ich nicht … Komm, wir helfen dir!",
+    "EMMA:",
+    "Yippie!",
+    "NICO:",
+    "Emma!",
+    "EMMA:",
+    "Mein Name ist Emma! Und das ist meine Tante.",
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "NICO:",
+    "Deine Mama?",
+    "EMMA:",
+    "Nein, Lisa ist nicht meine Mama. Sie ist meine Tante. Meine Mama ... fliegt nach",
+    "Amerika. Sie arbeitet da.",
+    "Bitte!",
+    "NICO:",
+    "Danke.",
+    "EMMA:",
+    "Nico.",
+    "NICO:",
+    "Mein Name ist Nico.",
+    "EMMA:",
+    "Hallo, Nico.",
+    "NICO:",
+    "Hallo, Emma.",
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "Vocabulary (from script and lesson)",
+    "die Adresse, die Adressen – address",
+    "bitte – here you go; please; if you please",
+    "Kurzform von: bitte schön",
+    "der Buchstabe, die Buchstaben – letter (of the alphabet)",
+    "(etwas) buchstabieren – to spell (something)",
+    "buchstabiert, buchstabierte, hat buchstabiert",
+    "Bitte buchstabiere das. – Could you please spell that?",
+    "Bitte buchstabieren Sie das. – Could you please spell that?",
+    "das – that",
+    "fliegen – to fly; to fly in an airplane",
+    "fliegt, flog, ist geflogen",
+    "die Hausnummer, die Hausnummern – street number",
+    "Langsam bitte. – Slowly, please.",
+    "die Mama, die Mamas – mom; mother",
+    "der Name, die Namen – name",
+    "Mein Name ist ... – My name is ...",
+    "Wie ist dein Name? – What is your name? (informal)",
+    "Wie ist Ihr Name? – What is your name? (formal)",
+    "nein – no",
+    "nicht – not",
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "noch einmal – again",
+    "Kurzform: noch mal",
+    "Noch einmal bitte. – Again, please.",
+    "die Straße, die Straßen – street; road",
+    "etwas suchen – to search for something; to look for something",
+    "sucht, suchte, hat gesucht",
+    "die Tante, die Tanten – aunt",
+    "Wie schreibt man das? – How do you write/spell that?"
+   ]
+  }
+ ]
+}

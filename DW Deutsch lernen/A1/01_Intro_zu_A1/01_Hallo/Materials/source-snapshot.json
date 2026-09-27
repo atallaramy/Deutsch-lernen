@@ -1,12 +1,185 @@
 {
  "description": "Official source text captured by ANKI/harvest_sources.py for offline context verification.",
- "harvestedOn": "2026-09-25",
+ "harvestedOn": "2026-09-27",
  "sources": [
   {
    "id": "exercises",
    "kind": "dw-exercises",
    "url": "https://learngerman.dw.com/en/hallo/l-37250531",
    "lessonUrl": "https://learngerman.dw.com/en/hallo/l-37250531",
+   "vocabulary": {
+    "url": "https://learngerman.dw.com/en/hallo/l-37250531/lv",
+    "items": [
+     {
+      "id": 37350821,
+      "german": "auch",
+      "english": "also",
+      "forms": ""
+     },
+     {
+      "id": 37367069,
+      "german": "das Beispiel, die Beispiele",
+      "english": "example",
+      "forms": ""
+     },
+     {
+      "id": 37346375,
+      "german": "danke",
+      "english": "thanks\n(abbreviated form of \"thank you\")",
+      "forms": "alternativ: danke schön / danke sehr"
+     },
+     {
+      "id": 37348919,
+      "german": "Es geht mir gut.",
+      "english": "I’m doing well.",
+      "forms": ""
+     },
+     {
+      "id": 40930857,
+      "german": "Es ist 09:00 Uhr.",
+      "english": "It is 9 o'clock.",
+      "forms": ""
+     },
+     {
+      "id": 37346567,
+      "german": "Frau",
+      "english": "Ms/Mrs",
+      "forms": "hier nur Singular, ohne Artikel"
+     },
+     {
+      "id": 39488494,
+      "german": "die Frau, die Frauen",
+      "english": "woman",
+      "forms": ""
+     },
+     {
+      "id": 37346779,
+      "german": "gut",
+      "english": "well; good",
+      "forms": "besser, am besten"
+     },
+     {
+      "id": 37350507,
+      "german": "Guten Abend.",
+      "english": "Good evening.",
+      "forms": ""
+     },
+     {
+      "id": 37350525,
+      "german": "Guten Morgen.",
+      "english": "Good morning.",
+      "forms": ""
+     },
+     {
+      "id": 37350536,
+      "german": "Guten Tag.",
+      "english": "Hello.; Good day.",
+      "forms": ""
+     },
+     {
+      "id": 37350541,
+      "german": "Hallo!",
+      "english": "Hello!",
+      "forms": ""
+     },
+     {
+      "id": 37346837,
+      "german": "Herr",
+      "english": "Mr",
+      "forms": "hier nur Singular, ohne Artikel"
+     },
+     {
+      "id": 37350581,
+      "german": "Hey!",
+      "english": "Hey!",
+      "forms": "aus dem Englischen"
+     },
+     {
+      "id": 37350621,
+      "german": "Hi!",
+      "english": "Hi!",
+      "forms": "aus dem Englischen"
+     },
+     {
+      "id": 37362938,
+      "german": "der Mann, die Männer",
+      "english": "man",
+      "forms": ""
+     },
+     {
+      "id": 37365446,
+      "german": "nicht",
+      "english": "not",
+      "forms": ""
+     },
+     {
+      "id": 37346856,
+      "german": "nicht so gut",
+      "english": "not so good",
+      "forms": ""
+     },
+     {
+      "id": 37381373,
+      "german": "oder",
+      "english": "or",
+      "forms": ""
+     },
+     {
+      "id": 37350994,
+      "german": "schön",
+      "english": "nice; beautiful; pretty",
+      "forms": "schöner, am schönsten"
+     },
+     {
+      "id": 37346875,
+      "german": "sehr gut",
+      "english": "very well; very good",
+      "forms": ""
+     },
+     {
+      "id": 37347545,
+      "german": "super",
+      "english": "super; great",
+      "forms": ""
+     },
+     {
+      "id": 40930880,
+      "german": "Uhr",
+      "english": "o'clock",
+      "forms": "in Uhrzeiten: nur Singular"
+     },
+     {
+      "id": 37347554,
+      "german": "und",
+      "english": "and",
+      "forms": ""
+     },
+     {
+      "id": 37350654,
+      "german": "Und dir?",
+      "english": "How about you? (informal)",
+      "forms": ""
+     },
+     {
+      "id": 37350672,
+      "german": "Und Ihnen?",
+      "english": "How about you? (formal)",
+      "forms": ""
+     },
+     {
+      "id": 37350710,
+      "german": "Wie geht es dir?",
+      "english": "How are you? (informal)",
+      "forms": "Varianten: Wie geht’s? / Wie geht’s dir?"
+     },
+     {
+      "id": 37350786,
+      "german": "Wie geht es Ihnen?",
+      "english": "How are you? (formal)",
+      "forms": ""
+     }
+    ]
+   },
    "exercises": [
     {
      "id": "e-37252406",
@@ -184,8 +357,9 @@
      "title": "Greetings in German",
      "texts": [
       "Greetings in German",
-      "null iStockphoto\nFormal:\nGuten Tag\nThis is the most important formal greeting in German. You can use it throughout the day.\nDepending on the time of day, you can also use:\nGuten Morgen – until about 11 a.m.\nGuten Abend – as of about 6 p.m.\nWhen you greet another person, you offer your hand for a handshake and look them in the eye in a friendly way.\nInformal:\nHallo!\nThis is how you greet friends, acquaintances and young people. You can also just smile, offer a handshake, or nod to them.\nSome people hug or give each other a kiss on the cheek.\nEveryday language:\nHi!\nTach!\nHey!\nThere are lots of different options in everyday language.\nNa?\nYou can say this to people you know well and see on a regular basis. It more or less means: \"Hello, everything ok with you?\" or \"Hello, what's up?\" The easiest way to respond is to ask the same question back: \"Na?\"\nRegional variations:\nIn some regions there are particular greetings, such as:\nServus! – especially in Bavaria and Austria, informal\nGrüß Gott! – Southern Germany and Austria\nGrüezi! – Switzerland\nMoin! – Northern Germany"
-     ]
+      "Formal:\nGuten Tag\nThis is the most important formal greeting in German. You can use it throughout the day.\nDepending on the time of day, you can also use:\nGuten Morgen – until about 11 a.m.\nGuten Abend – as of about 6 p.m.\nWhen you greet another person, you offer your hand for a handshake and look them in the eye in a friendly way.\nInformal:\nHallo!\nThis is how you greet friends, acquaintances and young people. You can also just smile, offer a handshake, or nod to them.\nSome people hug or give each other a kiss on the cheek.\nEveryday language:\nHi!\nTach!\nHey!\nThere are lots of different options in everyday language.\nNa?\nYou can say this to people you know well and see on a regular basis. It more or less means: \"Hello, everything ok with you?\" or \"Hello, what's up?\" The easiest way to respond is to ask the same question back: \"Na?\"\nRegional variations:\nIn some regions there are particular greetings, such as:\nServus! – especially in Bavaria and Austria, informal\nGrüß Gott! – Southern Germany and Austria\nGrüezi! – Switzerland\nMoin! – Northern Germany"
+     ],
+     "html": "<p><strong><br>\nFormal:</strong></p>\n\n<p><em>Guten Tag</em></p>\n\n<p>This is the most important formal greeting in German. You can use it throughout the day.</p>\n\n<p>Depending on the time of day, you can also use:</p>\n\n<p><em>Guten Morgen</em> – until about 11 a.m.</p>\n\n<p><em>Guten Abend</em> – as of about 6&#160;p.m.</p>\n\n<p>When you greet another person, you offer your hand for a handshake and look them in the eye in a friendly way.</p>\n\n<p>&#160;</p>\n\n<p><strong>Informal:</strong></p>\n\n<p><em>Hallo!</em></p>\n\n<p>This is how you greet friends, acquaintances and young people. You can also just smile, offer a handshake, or nod to them.</p>\n\n<p>Some people hug or give each other a kiss on the cheek.</p>\n\n<p>&#160;</p>\n\n<p><strong>Everyday language:</strong></p>\n\n<p><em>Hi!</em></p>\n\n<p><em>Tach!</em></p>\n\n<p><em>Hey!</em></p>\n\n<p>There are lots of different options in everyday language.</p>\n\n<p><em>Na?</em></p>\n\n<p>You can say this to people you know well and see on a regular basis. It more or less means: \"Hello, everything ok with you?\" or \"Hello, what's up?\" The easiest way to respond is to ask the same question back: \"<em>Na?</em>\"</p>\n\n<p>&#160;</p>\n\n<p><strong>Regional variations:</strong></p>\n\n<p>In some regions there are particular greetings, such as:</p>\n\n<p><em>Servus!</em> – especially in Bavaria and Austria, informal</p>\n\n<p><em>Grüß Gott!</em> – Southern Germany and Austria</p>\n\n<p><em>Grüezi!</em> – Switzerland</p>\n\n<p><em>Moin!</em> – Northern Germany</p>\n"
     },
     {
      "id": "gr-38310488",
@@ -193,8 +367,9 @@
      "title": "Informal and formal (1)",
      "texts": [
       "Informal and formal (1)",
-      "Informal forms of address\nnull DW\nHey, Lena! – Hallo, Opa!\nHallo, Sarah! – Hi, Tom!\nThe informal form of address is used within the family, among friends and acquaintances, and often also among colleagues.\nFriends, acquaintances and family members are addressed by their first name.\nChildren usually call their parents Mama and Papa, and their grandparents Oma and Opa.\nFormal forms of address\nnull DW\nGuten Tag, Frau Kamp! – Guten Tag!\nGuten Morgen, Herr Müller! – Guten Morgen, Frau Schneider!\nThe formal address is used with unfamiliar adults, in business situations, with officials, or when shopping.\nMen are addressed formally as Herr followed by their surname, women as Frau followed by their surname.\nIf you are unsure whether to be formal or informal, use the formal address.\nGuten Morgen!\nGreeting in the morning until approximately 11 o'clock.\nGuten Tag!\nGreeting during the day, approximately between 11 a.m. and 6 p.m.\nGuten Abend!\nGreeting in the evening from approximately 6 p.m. onwards.\nGrammatical terms in German:\ninformell: Informal language is used when talking to family and friends.\nformell: Formal language is used in formal situations."
-     ]
+      "Informal forms of address\nHey, Lena! – Hallo, Opa!\nHallo, Sarah! – Hi, Tom!\nThe informal form of address is used within the family, among friends and acquaintances, and often also among colleagues.\nFriends, acquaintances and family members are addressed by their first name.\nChildren usually call their parents Mama and Papa, and their grandparents Oma and Opa.\nFormal forms of address\nGuten Tag, Frau Kamp! – Guten Tag!\nGuten Morgen, Herr Müller! – Guten Morgen, Frau Schneider!\nThe formal address is used with unfamiliar adults, in business situations, with officials, or when shopping.\nMen are addressed formally as Herr followed by their surname, women as Frau followed by their surname.\nIf you are unsure whether to be formal or informal, use the formal address.\nGuten Morgen!\nGreeting in the morning until approximately 11 o'clock.\nGuten Tag!\nGreeting during the day, approximately between 11 a.m. and 6 p.m.\nGuten Abend!\nGreeting in the evening from approximately 6 p.m. onwards.\nGrammatical terms in German:\ninformell: Informal language is used when talking to family and friends.\nformell: Formal language is used in formal situations."
+     ],
+     "html": "<p><strong>Informal forms of address</strong></p>\n\n<p></p>\n\n<p><em>Hey, Lena!</em> – <em>Hallo, Opa!</em></p>\n\n<p><em>Hallo, Sarah!</em> – <em>Hi, Tom!</em></p>\n\n<ul>\n\t<li>The informal form of address is used within the family, among&#160;friends and acquaintances, and often also among colleagues.</li>\n\t<li>Friends, acquaintances and family members are addressed by their first name.</li>\n\t<li>Children usually call their parents <em>Mama</em> and <em>Papa</em>, and their grandparents&#160;<em>Oma</em> and <em>Opa</em>.</li>\n</ul>\n\n<p>&#160;</p>\n\n<p><strong>Formal forms of address</strong></p>\n\n<p></p>\n\n<p><em>Guten Tag, Frau Kamp! – Guten Tag!</em></p>\n\n<p><em>Guten Morgen, Herr Müller! </em>–<em> Guten Morgen, Frau Schneider!</em></p>\n\n<ul>\n\t<li>The formal address is used with unfamiliar adults, in business situations, with officials, or when shopping.</li>\n\t<li>Men are addressed formally as <em>Herr</em> followed by their surname, women as <em>Frau</em> followed by their surname.</li>\n\t<li>If you are unsure whether to be formal or informal, use the formal address.</li>\n</ul>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><em>Guten Morgen!</em></td>\n\t\t\t<td>Greeting in the morning until approximately 11 o'clock.</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><em>Guten Tag!</em></td>\n\t\t\t<td>Greeting during the day, approximately between 11 a.m. and 6 p.m.</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><em>Guten Abend!</em></td>\n\t\t\t<td>Greeting in the evening from approximately 6 p.m. onwards.</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&#160;</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>Grammatical terms in German:</p>\n\n\t\t\t<p>informell: Informal language is used when talking to family and friends.<br>\n\t\t\tformell: Formal language is used in formal situations.</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&#160;</p>\n"
     }
    ]
   },

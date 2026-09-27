@@ -31,8 +31,9 @@ adds Claude-specific working rules only.
 - For a grammar question, also read the topic page in the grammar book
   (`Grammatik/README.md` is the index). It holds the verified rule, examples and
   the learner's own mistakes.
-- For a lesson the learner has studied, also use its notes and its
-  `Materials/source-snapshot.json`.
+- For a lesson the learner has studied, also use its notes, its
+  `Materials/lesson-pages.md` (DW vocabulary, grammar and culture pages) and
+  its `Materials/source-snapshot.json`.
 - Answering questions never builds cards.
 - When you find a new useful source, add it to `docs/links.md` with the date
   you checked it.
@@ -53,7 +54,8 @@ adds Claude-specific working rules only.
   - `python3 ANKI/build_all.py approve --all|--lesson ID|--deck NAME` — the learner's approval
   - `python3 ANKI/build_all.py package` — build packages (refuses without approval)
   - `python3 -m unittest discover -s ANKI/tests`
-  - `python3 ANKI/harvest_sources.py --lesson ID` — network: snapshot official sources
+  - `python3 ANKI/harvest_sources.py --lesson ID` — network: snapshot official sources and write `Materials/lesson-pages.md`
+  - `python3 ANKI/harvest_sources.py --pages` — offline: rewrite the DW `lesson-pages.md` copies from their snapshots
   - `python3 ANKI/harvest_sources.py --glosses` — network: dictionary check of meanings no glossary supplies
   - `python3 docs/tools/build_course_index.py` — network: rebuild the lesson index
   - `python3 docs/tools/check_grammar_book.py` — check the grammar book (`fetch`: network, Wiktionary verb tables)

@@ -163,6 +163,7 @@ def check(data: Data, cards: list[Card]) -> tuple[list[str], dict[str, list[str]
         if unknown or unknown_nouns:
             warnings[card.key].append("words not yet captured: " + ", ".join(unknown + unknown_nouns))
     errors.extend(check_glosses(data, cards))
+    errors.extend(check_vocabulary_pages(data))
 
     # Curated settings must still point at a card (a changed sense would otherwise drop a context silently).
     vocabulary_keys = {card.key.removeprefix("vocab:") for card in by_deck["vocabulary"]}
@@ -174,6 +175,31 @@ def check(data: Data, cards: list[Card]) -> tuple[list[str], dict[str, list[str]
         if key not in article_lemmas:
             errors.append(f"articles-cards.json: {key!r} matches no Articles card")
     return errors, warnings
+
+
+def vocabulary_page_key(text: str) -> str:
+    """Comparison form of a DW vocabulary-page item or a captured form: no article, plural, placeholder or end punctuation."""
+    text = re.sub(r"\s*\((?:Plural|Singular)\)", "", normalize(text))
+    text = re.split(r",\s*die\s", text)[0]
+    text = re.sub(r"^(?:der|die|das)\s+|\((?:etwas|jemanden|jemandem)\)\s*|^(?:etwas|jemanden|jemandem)\s+", "", text)
+    return re.sub(r"[\s.,!?]+$", "", text).strip()
+
+
+def check_vocabulary_pages(data: Data) -> list[str]:
+    """Every item on a studied lesson's DW vocabulary page is recorded in that lesson (entry, pending or declined)."""
+    errors = []
+    for lesson in data.lessons:
+        page = data.snapshots.vocabulary.get(lesson.id)
+        if not page:
+            continue
+        recorded = {vocabulary_page_key(item.get(field) or "")
+                    for bucket in ("entries", "pendingEntries", "declinedEntries") for item in lesson.record.get(bucket, [])
+                    for field in ("german", "lemma", "vocabularyPageForm")} - {""}
+        for item in page["items"]:
+            if vocabulary_page_key(item["german"]) not in recorded:
+                errors.append(f"Vocabulary page: {lesson.id} {item['german']!r} ({item['english']}) is not captured; "
+                              f"add an entry, or set vocabularyPageForm on the entry it matches ({page['url']})")
+    return errors
 
 
 # --- English meanings that no official glossary supplies are checked against the en.wiktionary snapshot ---

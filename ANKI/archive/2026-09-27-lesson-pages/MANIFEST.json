@@ -1,0 +1,126 @@
+{
+  "createdAt": "2026-09-27",
+  "reason": "Backup before the DW vocabulary page, grammar and culture pages became checked capture sources (snapshot, readable Materials/lesson-pages.md, vocabulary-page and grammar-page checks). Restore by copying each backup to its original path.",
+  "files": [
+    {
+      "original": "AGENTS.md",
+      "backup": "ANKI/archive/2026-09-27-lesson-pages/AGENTS.md.orig",
+      "sha256": "c8c6724fa602008b45ad096d236199ebeb33c454d52d229da212c4547db37fef"
+    },
+    {
+      "original": "CLAUDE.md",
+      "backup": "ANKI/archive/2026-09-27-lesson-pages/CLAUDE.md.orig",
+      "sha256": "71073de9bcd1fd8e4d4407b9201f4ff5d9a09a0ae495b91df98d9eb99c5fa064"
+    },
+    {
+      "original": "docs/processing-a-lesson.md",
+      "backup": "ANKI/archive/2026-09-27-lesson-pages/docs/processing-a-lesson.md",
+      "sha256": "8594fd12a2423624dadc973f5143e803c8a8b66af191526f4950d54a28b400a4"
+    },
+    {
+      "original": "docs/decisions.md",
+      "backup": "ANKI/archive/2026-09-27-lesson-pages/docs/decisions.md",
+      "sha256": "8dc9257f1b37b0ab72dd4c72ba33cb86ef470c6afc3b7c20fb738d8fa939c6a9"
+    },
+    {
+      "original": "docs/data-model.md",
+      "backup": "ANKI/archive/2026-09-27-lesson-pages/docs/data-model.md",
+      "sha256": "4ca320933e2217d569df8fa3bcab85efa09e01aac21790ef0ff3064db1aa25c3"
+    },
+    {
+      "original": "docs/links.md",
+      "backup": "ANKI/archive/2026-09-27-lesson-pages/docs/links.md",
+      "sha256": "1cd5c87a38cce08ef9ecd1be4e689ef3abaae96ca11770b7fc60ff904bae769e"
+    },
+    {
+      "original": "ANKI/README.md",
+      "backup": "ANKI/archive/2026-09-27-lesson-pages/ANKI/README.md",
+      "sha256": "705181b47abaf6e2a161da6121c369c312eab7f912750ec26567c595111119da"
+    },
+    {
+      "original": "ANKI/harvest_sources.py",
+      "backup": "ANKI/archive/2026-09-27-lesson-pages/ANKI/harvest_sources.py",
+      "sha256": "01b754bea197e60c7f0c3614327359722bff9f94b8bb94de9b0a7f18efab936f"
+    },
+    {
+      "original": "ANKI/deck_data.py",
+      "backup": "ANKI/archive/2026-09-27-lesson-pages/ANKI/deck_data.py",
+      "sha256": "c3fa17bfe5b2525bedc3f070475b301a786a6fe7f7b3773c6c9b755af3b8fe54"
+    },
+    {
+      "original": "ANKI/card_quality.py",
+      "backup": "ANKI/archive/2026-09-27-lesson-pages/ANKI/card_quality.py",
+      "sha256": "272e55e6c7b2750c1383b2e618118ca5e021509c2b0cd272374a7dc572151ed4"
+    },
+    {
+      "original": "docs/tools/check_grammar_book.py",
+      "backup": "ANKI/archive/2026-09-27-lesson-pages/docs/tools/check_grammar_book.py",
+      "sha256": "e8e06aef4404732beeef79596386a2afb2e6772df34644dde632906b425e2fca"
+    },
+    {
+      "original": "ANKI/tests/test_card_quality.py",
+      "backup": "ANKI/archive/2026-09-27-lesson-pages/ANKI/tests/test_card_quality.py",
+      "sha256": "5d5d87496844551770f180003ee99d7e745f0032d9006bc5081c0d96efe8a036"
+    },
+    {
+      "original": "ANKI/tests/test_grammar_book.py",
+      "backup": "ANKI/archive/2026-09-27-lesson-pages/ANKI/tests/test_grammar_book.py",
+      "sha256": "56a5b041b67b656debd877c50ef02a27c845eafd950329827e86676e7bb50448"
+    },
+    {
+      "original": "ANKI/lesson-vocabulary.json",
+      "backup": "ANKI/archive/2026-09-27-lesson-pages/ANKI/lesson-vocabulary.json",
+      "sha256": "3b71467b473ea4fe69e104a9c8683be089c985b1aa182abc8944aa37b7392a05"
+    },
+    {
+      "original": "DW Deutsch lernen/A1/01_Intro_zu_A1/01_Hallo/Materials/source-snapshot.json",
+      "backup": "ANKI/archive/2026-09-27-lesson-pages/DW Deutsch lernen/A1/01_Intro_zu_A1/01_Hallo/Materials/source-snapshot.json",
+      "sha256": "0b551d3050345401202c284296e692fa0f24c1df9370d2edbbd5733c0cc04539"
+    },
+    {
+      "original": "DW Deutsch lernen/A1/01_Intro_zu_A1/02_Kein Problem/Materials/source-snapshot.json",
+      "backup": "ANKI/archive/2026-09-27-lesson-pages/DW Deutsch lernen/A1/01_Intro_zu_A1/02_Kein Problem/Materials/source-snapshot.json",
+      "sha256": "738f6e0a1dbcc3f94273aae69d96a646be39b1ebae8f0e457179d7170ba6788b"
+    },
+    {
+      "original": "DW Deutsch lernen/A1/01_Intro_zu_A1/03_Tschüs/Materials/source-snapshot.json",
+      "backup": "ANKI/archive/2026-09-27-lesson-pages/DW Deutsch lernen/A1/01_Intro_zu_A1/03_Tschüs/Materials/source-snapshot.json",
+      "sha256": "1913d899667cc3ad11634cfb50d8e22c527ff9d454abedb65a3409c4c0a3228f"
+    },
+    {
+      "original": "DW Deutsch lernen/A1/01_Intro_zu_A1/04_Von A bis Z/Materials/source-snapshot.json",
+      "backup": "ANKI/archive/2026-09-27-lesson-pages/DW Deutsch lernen/A1/01_Intro_zu_A1/04_Von A bis Z/Materials/source-snapshot.json",
+      "sha256": "61a0fc863ada73ba338d19ad0a16f3721de36fcd3d970aec149da7f57d0e74a7"
+    },
+    {
+      "original": "DW Deutsch lernen/A1/02_meeting_people/01_Lesson_01/Materials/source-snapshot.json",
+      "backup": "ANKI/archive/2026-09-27-lesson-pages/DW Deutsch lernen/A1/02_meeting_people/01_Lesson_01/Materials/source-snapshot.json",
+      "sha256": "ab5c14614b18f2a4924a3fc74685e344fa8368873b14051078ff3d8132aa98bc"
+    },
+    {
+      "original": "DW Deutsch lernen/A1/02_meeting_people/02_Lesson_02/Materials/source-snapshot.json",
+      "backup": "ANKI/archive/2026-09-27-lesson-pages/DW Deutsch lernen/A1/02_meeting_people/02_Lesson_02/Materials/source-snapshot.json",
+      "sha256": "efb8bc015b98fb3a977184538a75afede169e95daf0a8b633da2f7cb677b40f1"
+    },
+    {
+      "original": "DW Deutsch lernen/A1/02_meeting_people/03_Lesson_03/Materials/source-snapshot.json",
+      "backup": "ANKI/archive/2026-09-27-lesson-pages/DW Deutsch lernen/A1/02_meeting_people/03_Lesson_03/Materials/source-snapshot.json",
+      "sha256": "082ea6f38d50b8628b6351a64f8d94f6c13e428d4a56cb08dcb992aac2e35e43"
+    },
+    {
+      "original": "DW Deutsch lernen/A1/02_meeting_people/04_Lesson_04/Materials/source-snapshot.json",
+      "backup": "ANKI/archive/2026-09-27-lesson-pages/DW Deutsch lernen/A1/02_meeting_people/04_Lesson_04/Materials/source-snapshot.json",
+      "sha256": "f57854935439a355befb539b7201de66b91a6b83549f018aa2904b17b65568d0"
+    },
+    {
+      "original": "DW Deutsch lernen/A1/03_contact_details/01_Lesson_01/Materials/source-snapshot.json",
+      "backup": "ANKI/archive/2026-09-27-lesson-pages/DW Deutsch lernen/A1/03_contact_details/01_Lesson_01/Materials/source-snapshot.json",
+      "sha256": "00d33dd448b6ac11648bd255bd919d9f4bb02e56ce8786e298dbc8e4ba3de5e2"
+    },
+    {
+      "original": "DW Deutsch lernen/A1/03_contact_details/02_Lesson_02/Materials/source-snapshot.json",
+      "backup": "ANKI/archive/2026-09-27-lesson-pages/DW Deutsch lernen/A1/03_contact_details/02_Lesson_02/Materials/source-snapshot.json",
+      "sha256": "e1b613d3e6f627a630888f175004b996c6cc60edbdada8931c2e38f8371b581e"
+    }
+  ]
+}

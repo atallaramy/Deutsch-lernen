@@ -33,6 +33,7 @@ ORIGIN_LABEL = {
     "dw-glossary": "official glossary", "learner-notes": "your notes", "dw-culture-page": "DW culture page",
     "vhs-wordlist": "VHS word list", "vhs-vocabulary-trainer": "VHS vocabulary trainer (English)", "easy-german-video": "Easy German video",
     "dw-script": "DW script", "dw-exercises": "DW exercises", "vhs-film-script": "VHS film script",
+    "dw-grammar-page": "DW grammar page",
 }
 
 
@@ -104,6 +105,8 @@ class Entry:
 class Snapshots:
     texts: dict[tuple[str, str], str] = field(default_factory=dict)
     labels: dict[tuple[str, str], str] = field(default_factory=dict)
+    vocabulary: dict[str, dict] = field(default_factory=dict)  # lesson id → DW vocabulary page {url, items}
+    pages: dict[str, list[dict]] = field(default_factory=dict)  # lesson id → DW grammar/culture pages {id, url, title}
 
     def contains(self, lesson_id: str, source_id: str, text: str) -> bool:
         haystack = self.texts.get((lesson_id, source_id))
@@ -158,6 +161,10 @@ def load_snapshots(lessons: list[Lesson]) -> Snapshots:
                 text = " ¶ ".join(line for item in items for line in item.split("\n"))
             snapshots.texts[(lesson.id, source["id"])] = normalize(text)
             snapshots.labels[(lesson.id, source["id"])] = source.get("url", "")
+            if "vocabulary" in source:
+                snapshots.vocabulary[lesson.id] = source["vocabulary"]
+            snapshots.pages.setdefault(lesson.id, []).extend(
+                {key: page[key] for key in ("id", "url", "title")} for page in source.get("pages", []))
     return snapshots
 
 

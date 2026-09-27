@@ -21,6 +21,7 @@ python3 ANKI/build_all.py approve --all         # after you have reviewed the pr
 python3 ANKI/build_all.py package               # build all packages; refuses unless checks pass and every card is approved
 python3 -m unittest discover -s ANKI/tests      # tests
 python3 ANKI/harvest_sources.py --lesson ID     # network: snapshot a lesson's official sources into Materials/
+python3 ANKI/harvest_sources.py --pages         # offline: rewrite each DW lesson's Materials/lesson-pages.md
 ```
 
 `package` builds every deck twice and requires identical bytes. It validates

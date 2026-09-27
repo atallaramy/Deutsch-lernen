@@ -1,12 +1,227 @@
 {
  "description": "Official source text captured by ANKI/harvest_sources.py for offline context verification.",
- "harvestedOn": "2026-09-26",
+ "harvestedOn": "2026-09-27",
  "sources": [
   {
    "id": "exercises",
    "kind": "dw-exercises",
    "url": "https://learngerman.dw.com/en/zahlen-von-1-bis-100/l-37265621",
    "lessonUrl": "https://learngerman.dw.com/en/zahlen-von-1-bis-100/l-37265621",
+   "vocabulary": {
+    "url": "https://learngerman.dw.com/en/zahlen-von-1-bis-100/l-37265621/lv",
+    "items": [
+     {
+      "id": 37383372,
+      "german": "acht",
+      "english": "eight",
+      "forms": ""
+     },
+     {
+      "id": 37383419,
+      "german": "achtzig",
+      "english": "eighty",
+      "forms": ""
+     },
+     {
+      "id": 37387884,
+      "german": "Bis morgen!",
+      "english": "See you tomorrow!",
+      "forms": ""
+     },
+     {
+      "id": 37384898,
+      "german": "der Buchstabe, die Buchstaben",
+      "english": "letter (of the alphabet)",
+      "forms": ""
+     },
+     {
+      "id": 37383447,
+      "german": "drei",
+      "english": "three",
+      "forms": ""
+     },
+     {
+      "id": 37383448,
+      "german": "dreißig",
+      "english": "thirty",
+      "forms": ""
+     },
+     {
+      "id": 37394547,
+      "german": "einhundert",
+      "english": "one hundred",
+      "forms": ""
+     },
+     {
+      "id": 37385135,
+      "german": "die Einladung, die Einladungen",
+      "english": "invitation",
+      "forms": ""
+     },
+     {
+      "id": 37383451,
+      "german": "eins",
+      "english": "one",
+      "forms": ""
+     },
+     {
+      "id": 37383513,
+      "german": "elf",
+      "english": "eleven",
+      "forms": ""
+     },
+     {
+      "id": 37386526,
+      "german": "Emma ist acht Jahre alt.",
+      "english": "Emma is eight years old.",
+      "forms": "Kurzform: Emma ist acht."
+     },
+     {
+      "id": 37397177,
+      "german": "feiern",
+      "english": "to celebrate",
+      "forms": "feiert, feierte, hat gefeiert"
+     },
+     {
+      "id": 37383526,
+      "german": "fünf",
+      "english": "five",
+      "forms": ""
+     },
+     {
+      "id": 37383528,
+      "german": "fünfzig",
+      "english": "fifty",
+      "forms": ""
+     },
+     {
+      "id": 37385254,
+      "german": "der Geburtstag, die Geburtstage",
+      "english": "birthday",
+      "forms": ""
+     },
+     {
+      "id": 37385320,
+      "german": "das Geschenk, die Geschenke",
+      "english": "gift; present",
+      "forms": ""
+     },
+     {
+      "id": 37365007,
+      "german": "die Hausnummer, die Hausnummern",
+      "english": "house number",
+      "forms": ""
+     },
+     {
+      "id": 40974773,
+      "german": "Ich werde acht Jahre alt.",
+      "english": "I am turning/going to be eight years old",
+      "forms": "Kurzform: Ich werde acht."
+     },
+     {
+      "id": 37384493,
+      "german": "Lotte wird acht Jahre alt.",
+      "english": "Lotte is turning eight.",
+      "forms": "Kurzform: Lotte wird acht."
+     },
+     {
+      "id": 37383560,
+      "german": "neun",
+      "english": "nine",
+      "forms": ""
+     },
+     {
+      "id": 37383585,
+      "german": "neunzig",
+      "english": "ninety",
+      "forms": ""
+     },
+     {
+      "id": 37367382,
+      "german": "die Person, die Personen",
+      "english": "person",
+      "forms": ""
+     },
+     {
+      "id": 37383595,
+      "german": "sechs",
+      "english": "six",
+      "forms": ""
+     },
+     {
+      "id": 37383628,
+      "german": "sechzig",
+      "english": "sixty",
+      "forms": ""
+     },
+     {
+      "id": 37383634,
+      "german": "sieben",
+      "english": "seven",
+      "forms": ""
+     },
+     {
+      "id": 37383668,
+      "german": "siebzig",
+      "english": "seventy",
+      "forms": ""
+     },
+     {
+      "id": 37383720,
+      "german": "vier",
+      "english": "four",
+      "forms": ""
+     },
+     {
+      "id": 37383758,
+      "german": "vierzig",
+      "english": "forty",
+      "forms": ""
+     },
+     {
+      "id": 37386820,
+      "german": "Wie alt ist Emma?",
+      "english": "How old is Emma?",
+      "forms": ""
+     },
+     {
+      "id": 40974032,
+      "german": "wie viele",
+      "english": "how many",
+      "forms": ""
+     },
+     {
+      "id": 37383795,
+      "german": "die Zahl, die Zahlen",
+      "english": "number",
+      "forms": ""
+     },
+     {
+      "id": 37384096,
+      "german": "zehn",
+      "english": "ten",
+      "forms": ""
+     },
+     {
+      "id": 37384191,
+      "german": "zwanzig",
+      "english": "twenty",
+      "forms": ""
+     },
+     {
+      "id": 37384234,
+      "german": "zwei",
+      "english": "two",
+      "forms": ""
+     },
+     {
+      "id": 37384275,
+      "german": "zwölf",
+      "english": "twelve",
+      "forms": ""
+     }
+    ]
+   },
    "exercises": [
     {
      "id": "e-37271074",
@@ -227,7 +442,8 @@
      "texts": [
       "Celebrating birthdays in the office",
       "Birthdays at a workplace - Every company has its own rules, depending on the company's size. It's best to ask around to see how birthdays are celebrated in the company. Sometimes the birthdays of individual employees within a department or work group are available in a public calendar. You can wish your colleagues a happy birthday. They often bring a treat for everyone, like a cake, which is eaten together during a break."
-     ]
+     ],
+     "html": "<p>Birthdays at a workplace - Every company has its own rules, depending on the company's size. It's best to ask around to see how birthdays are celebrated in the company. Sometimes the birthdays of individual employees within a department or work group are available in a public calendar. You can wish your colleagues a happy birthday. They often bring a treat for everyone, like a cake, which is eaten together during a break.</p>\n"
     },
     {
      "id": "rs-39370325",
@@ -235,8 +451,9 @@
      "title": "Happy Birthday!",
      "texts": [
       "Happy Birthday!",
-      "null iStockphoto\nBirthdays are important in Germany. Adults as well as children celebrate their birthday with family and friends. The person celebrating his or her birthday receives flowers, a cake with candles, and gifts.\nIf it's your friend's birthday, you should wish them a \"Happy Birthday!\". You buy a present only for good friends, or if you've been invited to a party. If you don't know what you should get the person, it's okay to ask them if they have a particular wish. Many Germans use the English expression \"Happy Birthday!\" rather than the German \"Herzlichen Glückwunsch zum Geburtstag\"."
-     ]
+      "Birthdays are important in Germany. Adults as well as children celebrate their birthday with family and friends. The person celebrating his or her birthday receives flowers, a cake with candles, and gifts.\nIf it's your friend's birthday, you should wish them a \"Happy Birthday!\". You buy a present only for good friends, or if you've been invited to a party. If you don't know what you should get the person, it's okay to ask them if they have a particular wish. Many Germans use the English expression \"Happy Birthday!\" rather than the German \"Herzlichen Glückwunsch zum Geburtstag\"."
+     ],
+     "html": "\n\n<p>Birthdays are important in Germany. Adults as well as children celebrate their birthday with family and friends. The person celebrating his or her birthday receives flowers, a cake with candles, and gifts.</p>\n\n<p>If it's your friend's birthday, you should wish them a \"Happy Birthday!\". You buy a present only for good friends, or if you've been invited to a party. If you don't know what you should get the person, it's okay to ask them if they have a particular wish. Many Germans use the English expression \"Happy Birthday!\" rather than the German \"<em>Herzlichen Glückwunsch zum Geburtstag</em>\".</p>\n"
     },
     {
      "id": "gr-38307006",
@@ -244,8 +461,9 @@
      "title": "Numbers from 11 to 19",
      "texts": [
       "Numbers from 11 to 19",
-      "The numbers 11 and 12 are irregular.\nFrom 13, the formation of the numbers is mostly regular. In German, the order of numbers is opposite to that in English. First comes the single digit (e.g. drei, vier, fünf...) and then the ten (zehn):\nnull DW\nThe numbers 16 and 17 are slightly irregular. The single digits (sechs, sieben) lose their endings.\n11\nelf\n12\nzwölf\n13\ndrei + zehn\ndreizehn\n14\nvier + zehn\nvierzehn\n15\nfünf + zehn\nfünfzehn\n16\nsechs + zehn\nsechzehn\n17\nsieben + zehn\nsiebzehn\n18\nacht + zehn\nachtzehn\n19\nneun + zehn\nneunzehn"
-     ]
+      "The numbers 11 and 12 are irregular.\nFrom 13, the formation of the numbers is mostly regular. In German, the order of numbers is opposite to that in English. First comes the single digit (e.g. drei, vier, fünf...) and then the ten (zehn):\nThe numbers 16 and 17 are slightly irregular. The single digits (sechs, sieben) lose their endings.\n11\nelf\n12\nzwölf\n13\ndrei + zehn\ndreizehn\n14\nvier + zehn\nvierzehn\n15\nfünf + zehn\nfünfzehn\n16\nsechs + zehn\nsechzehn\n17\nsieben + zehn\nsiebzehn\n18\nacht + zehn\nachtzehn\n19\nneun + zehn\nneunzehn"
+     ],
+     "html": "<p>The numbers <em>11</em> and <em>12</em> are irregular.</p>\n\n<p>From&#160;<em>13,</em> the formation of the numbers is mostly regular. In German, the order of numbers is opposite to that in English. First comes the single digit (e.g. drei, vier, fünf...) and then the ten (<em>zehn</em>):</p>\n\n\n\n<p>&#160;</p>\n\n<p>The numbers <em>16</em> and <em>17</em> are slightly irregular. The single digits&#160;(<em>sechs, sieben</em>) lose their endings.</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:100%\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>11</td>\n\t\t\t<td>&#160;</td>\n\t\t\t<td><strong>elf</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>12</td>\n\t\t\t<td>&#160;</td>\n\t\t\t<td><strong>zwölf</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>13</td>\n\t\t\t<td>drei + zehn</td>\n\t\t\t<td>dreizehn</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>14</td>\n\t\t\t<td>vier + zehn</td>\n\t\t\t<td>vierzehn</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>15</td>\n\t\t\t<td>fünf + zehn</td>\n\t\t\t<td>fünfzehn</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>16</td>\n\t\t\t<td><strong>sechs </strong>+ zehn</td>\n\t\t\t<td><strong>sech</strong>zehn</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>17</td>\n\t\t\t<td><strong>sieben </strong>+ zehn</td>\n\t\t\t<td><strong>sieb</strong>zehn</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>18</td>\n\t\t\t<td>acht + zehn</td>\n\t\t\t<td>achtzehn</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>19</td>\n\t\t\t<td>neun + zehn</td>\n\t\t\t<td>neunzehn</td>\n\t\t</tr>\n\t</tbody>\n</table>\n"
     },
     {
      "id": "gr-38307981",
@@ -253,8 +471,9 @@
      "title": "Numbers from 20 to 100",
      "texts": [
       "Numbers from 20 to 100",
-      "With numbers over 20, the single digit comes first, and then the multiple of ten. There are two special features to note:\nThe number eins loses the -s when it is combined with a ten.\nThere is an und between the single digit and the multiple of ten.\nnull DW\n21\neinundzwanzig\n22\nzweiundzwanzig\n23\ndreiundzwanzig\n24\nvierundzwanzig\n25\nfünfundzwanzig\n26\nsechsundzwanzig\n27\nsiebenundzwanzig\n28\nachtundzwanzig\n29\nneunundzwanzig\n30\ndreißig\nThe full multiple of ten is usually formed from the single digit + -zig. But there are some exceptions: 10, 20, 30, 60 and 70 have an irregular form.\n10\nzehn\n20\nzwanzig\n30\ndreißig\n40\nvierzig\n50\nfünfzig\n60\nsechzig\n70\nsiebzig\n80\nachtzig\n90\nneunzig\n100\neinhundert (short form: hundert)\nYou can form all the numbers from 21 to 99 from the following elements:\n(1) ein-\n(2) zwei-\n(3) drei-\n(4) vier-\n(5) fünf-\n(6) sechs-\n(7) sieben-\n(8) acht-\n(9) neun-\nund\n-zwanzig (20)\n-dreißig (30)\n-vierzig (40)\n-fünfzig (50)\n-sechzig (60)\n-siebzig (70)\n-achtzig (80)\n-neunzig (90)"
-     ]
+      "With numbers over 20, the single digit comes first, and then the multiple of ten. There are two special features to note:\nThe number eins loses the -s when it is combined with a ten.\nThere is an und between the single digit and the multiple of ten.\n21\neinundzwanzig\n22\nzweiundzwanzig\n23\ndreiundzwanzig\n24\nvierundzwanzig\n25\nfünfundzwanzig\n26\nsechsundzwanzig\n27\nsiebenundzwanzig\n28\nachtundzwanzig\n29\nneunundzwanzig\n30\ndreißig\nThe full multiple of ten is usually formed from the single digit + -zig. But there are some exceptions: 10, 20, 30, 60 and 70 have an irregular form.\n10\nzehn\n20\nzwanzig\n30\ndreißig\n40\nvierzig\n50\nfünfzig\n60\nsechzig\n70\nsiebzig\n80\nachtzig\n90\nneunzig\n100\neinhundert (short form: hundert)\nYou can form all the numbers from 21 to 99 from the following elements:\n(1) ein-\n(2) zwei-\n(3) drei-\n(4) vier-\n(5) fünf-\n(6) sechs-\n(7) sieben-\n(8) acht-\n(9) neun-\nund\n-zwanzig (20)\n-dreißig (30)\n-vierzig (40)\n-fünfzig (50)\n-sechzig (60)\n-siebzig (70)\n-achtzig (80)\n-neunzig (90)"
+     ],
+     "html": "<p>With numbers over <em>20, </em>the single digit&#160;comes&#160;first, and then the multiple&#160;of ten. There are two special features to note:</p>\n\n<ul>\n\t<li>The number <em>eins</em> loses the <em>-s&#160;</em>when it is combined with a ten.</li>\n\t<li>There is an <em>und</em> between the single digit&#160;and the multiple&#160;of ten.</li>\n</ul>\n\n\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:100%\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>21</td>\n\t\t\t<td>einundzwanzig</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>22</td>\n\t\t\t<td>zweiundzwanzig</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>23</td>\n\t\t\t<td>dreiundzwanzig</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>24</td>\n\t\t\t<td>vierundzwanzig</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>25</td>\n\t\t\t<td>fünfundzwanzig</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>26</td>\n\t\t\t<td>sechsundzwanzig</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>27</td>\n\t\t\t<td>siebenundzwanzig</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>28</td>\n\t\t\t<td>achtundzwanzig</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>29</td>\n\t\t\t<td>neunundzwanzig</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>30</td>\n\t\t\t<td>dreißig</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&#160;</p>\n\n<p>The full multiple of ten is usually formed from the single digit + <em>-zig. </em>But there are some exceptions: <em>10</em>, <em>20</em>, <em>30, 60</em> and <em>70</em> have an irregular form.</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:100%\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>10</td>\n\t\t\t<td><strong>zehn</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>20</td>\n\t\t\t<td><strong>zwanzig</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>30</td>\n\t\t\t<td><strong>dreißig</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>40</td>\n\t\t\t<td>vierzig</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>50</td>\n\t\t\t<td>fünfzig</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>60</td>\n\t\t\t<td><strong>sechzig</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>70</td>\n\t\t\t<td><strong>siebzig</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>80</td>\n\t\t\t<td>achtzig</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>90</td>\n\t\t\t<td>neunzig</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>100</td>\n\t\t\t<td>einhundert (short form: <em>hundert</em>)</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&#160;</p>\n\n<p>You can form all the numbers from <em>21</em> to <em>99</em> from the following elements:</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:100%\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p><strong>(1) ein-</strong><br>\n\t\t\t(2) zwei-<br>\n\t\t\t(3) drei-<br>\n\t\t\t(4) vier-<br>\n\t\t\t(5) fünf-<br>\n\t\t\t(6) sechs-<br>\n\t\t\t(7) sieben-<br>\n\t\t\t(8) acht-<br>\n\t\t\t(9) neun-</p>\n\t\t\t</td>\n\t\t\t<td><strong>und</strong></td>\n\t\t\t<td><br>\n\t\t\t<strong>-zwanzig (20)<br>\n\t\t\t-dreißig (30)</strong><br>\n\t\t\t-vierzig (40)<br>\n\t\t\t-fünfzig (50)<br>\n\t\t\t<strong>-sechzig (60)</strong><br>\n\t\t\t<strong>-siebzig (70)</strong><br>\n\t\t\t-achtzig (80)<br>\n\t\t\t-neunzig (90)</td>\n\t\t</tr>\n\t</tbody>\n</table>\n"
     }
    ]
   },

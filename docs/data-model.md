@@ -20,6 +20,14 @@
 | `archive/2026-09-26-notes-out-of-materials/` | Backup of the data, grammar and doc files edited when three notes files moved out of `Materials/`, with a SHA-256 manifest. |
 | `archive/2026-09-27-dw-a1-e2-l2/` | Backup of the data, grammar and doc files edited when DW A1 E2 L2 was processed, with a SHA-256 manifest. |
 | `archive/2026-09-27-official-materials-capture/` | Backup of the data, builder, test and doc files edited when the official scripts and exercises became a capture source, with a SHA-256 manifest. |
+| `archive/2026-09-27-lesson-pages/` | Backup of the data, snapshot, builder, test, instruction and doc files edited when the DW vocabulary, grammar and culture pages became checked sources, with a SHA-256 manifest. |
+
+## Files in a lesson's `Materials/` (written by `harvest_sources.py`)
+
+| File | Role |
+|---|---|
+| `source-snapshot.json` | Official source text. DW `script`: the PDF's lines. DW `exercises`: `vocabulary` (the vocabulary page `/lv`: `url`, `items` with `id`, `german`, `english`, `forms`), `exercises` (correct texts) and `pages` (grammar `gr-` and culture `rs-` pages: `texts`, plus `html` for the readable copy). Contexts are verified against the script, exercise and page texts; vocabulary items are not contexts. |
+| `lesson-pages.md` | DW only: readable copy of the vocabulary page (German, English, forms) and the grammar and culture pages, rendered with pandoc from the snapshot. Never edited by hand; `harvest_sources.py --pages` rewrites it offline, and the tests fail while it lags the snapshot. |
 
 ## Code
 
@@ -28,10 +36,10 @@
 | `build_all.py` | CLI: `check`, `approve`, `package`. |
 | `deck_data.py` | Loads data and snapshots; verification helpers; shared card style. |
 | `build_vocabulary_decks.py`, `build_articles_deck.py`, `build_sentences_deck.py` | Card construction for each deck (lesson decks reuse Vocabulary and Sentences cards). |
-| `card_quality.py` | Cross-deck gate: coverage, preservation of the v2 records, leakage, ambiguity, the front-sentence registry, sentence priming, known words. |
+| `card_quality.py` | Cross-deck gate: coverage, preservation of the v2 records, leakage, ambiguity, the front-sentence registry, sentence priming, known words, and every DW vocabulary-page item recorded in its lesson. |
 | `review_preview.py` | Renders the preview. |
 | `anki_package_utils.py` | Deterministic `.apkg` writer (embedded schema 11) and validator. |
-| `harvest_sources.py` | Network step: snapshots official sources into `Materials/source-snapshot.json`. |
+| `harvest_sources.py` | Network step: snapshots official sources into `Materials/source-snapshot.json` and writes a DW lesson's `Materials/lesson-pages.md` (`--pages`: rewrite those offline; `--glosses`: dictionary check). |
 | `tests/` | `python3 -m unittest discover -s ANKI/tests` |
 | `download_nicos_weg_a1_materials.py` | Old DW PDF downloader; do not rerun without the fix listed in [known-issues.md](known-issues.md). |
 
@@ -47,7 +55,7 @@
 | `Grammatik/Grammatik.pdf` | The whole book in one printable, clickable PDF (contents, bookmarks, a box for *My rule in my own words*). Built, never edited by hand. |
 | `Grammatik/Materials/pdf-build.json` | Written by `build_grammar_pdf.py`: fingerprint of the builder, index and pages, the PDF's SHA-256, page order and tool versions. The tests compare it with the current pages. |
 | `docs/tools/build_grammar_pdf.py` | Builds the PDF with pandoc (Markdown → HTML) and headless Chrome (HTML → PDF), offline. Refuses while the grammar check has errors; builds twice and requires identical bytes (Chrome's build time is replaced by the newest *checked* date). `--check` reports whether the PDF is current. Tested in `ANKI/tests/test_grammar_book.py`. |
-| `docs/tools/check_grammar_book.py` | Offline check. Quotes in *Source* tables must be verbatim in the named lesson snapshot; *Wrong … From* rows linking to notes must quote them; *Person* tables must match the verb snapshot; card keys must be live; links must resolve; every page must be in the index. Tested in `ANKI/tests/test_grammar_book.py`. |
+| `docs/tools/check_grammar_book.py` | Offline check. Quotes in *Source* tables must be verbatim in the named lesson snapshot; *Wrong … From* rows linking to notes must quote them; *Person* tables must match the verb snapshot; card keys must be live; links must resolve; every page must be in the index; every DW grammar page of a studied lesson must be linked from a topic page. Tested in `ANKI/tests/test_grammar_book.py`. |
 
 `Spickzettel/` holds the learner's own cheatsheets. No tool reads or writes it.
 
@@ -71,6 +79,7 @@ Optional fields:
 - `ref` (VHS item number), `answer`, `learnerError {wrong, why}`
 - `glossLookup` (dictionary terms to check, e.g. component words of a phrase), `glossEvidence` (extra source note)
 - `inLessonDeck: false` (added after the lesson deck was built: cumulative decks only), `genderEvidence` (dictionary page for a noun's gender and plural when no glossary gives them)
+- `vocabularyPageForm` (the DW vocabulary page's own wording of this item when it differs from `german`, e.g. `Es ist 09:00 Uhr.`; the vocabulary-page check matches it)
 
 Merge key for Vocabulary: `lemma` (case-sensitive) + `sense`.
 

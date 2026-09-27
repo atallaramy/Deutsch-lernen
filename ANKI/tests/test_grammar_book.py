@@ -61,9 +61,9 @@ class GrammarBook(unittest.TestCase):
         (self.tmp / "notes" / "my notes.md").write_text("- Wo kommen Sie? \n", encoding="utf-8")
         (self.book / "README.md").write_text("[Test](A1/Test.md)\n", encoding="utf-8")
 
-    def errors(self, page, data=None):
+    def errors(self, page, data=None, grammar_pages=False):
         (self.book / "A1" / "Test.md").write_text(textwrap.dedent(page), encoding="utf-8")
-        return check_grammar_book.check(self.book, data or self.data).errors
+        return check_grammar_book.check(self.book, data or self.data, grammar_pages=grammar_pages).errors
 
     def assertOneError(self, page, fragment, data=None):
         errors = self.errors(page, data)
@@ -122,6 +122,12 @@ class GrammarBook(unittest.TestCase):
     def test_page_must_be_in_the_index(self):
         (self.book / "README.md").write_text("# empty\n", encoding="utf-8")
         self.assertOneError(GOOD_PAGE, "not listed in Grammatik/README.md")
+
+    def test_every_studied_dw_grammar_page_is_linked(self):
+        linked = GOOD_PAGE + "\n[haben](https://learngerman.dw.com/en/conjugation-haben/l-37265543/gr-38310825)\n"
+        errors = self.errors(linked, grammar_pages=True)
+        self.assertFalse(any("gr-38310825" in error for error in errors), errors)
+        self.assertTrue(any("'Numbers from 11 to 19'" in error and "gr-38307006" in error for error in errors), errors)
 
 
 class GrammarPdf(unittest.TestCase):

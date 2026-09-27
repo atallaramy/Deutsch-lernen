@@ -98,6 +98,38 @@ class GlossRules(unittest.TestCase):
         self.assertIsNotNone(card_quality.gloss_check(wrong, snapshot))
 
 
+class VocabularyPageRules(unittest.TestCase):
+    def setUp(self):
+        self.data = load()
+
+    def test_every_studied_dw_lesson_has_its_vocabulary_page(self):
+        dw = {lesson.id for lesson in self.data.lessons if lesson.course["id"] == "dw-nicos-weg"}
+        self.assertEqual(dw - set(self.data.snapshots.vocabulary), set())
+        self.assertEqual(card_quality.check_vocabulary_pages(self.data), [])
+
+    def test_uncaptured_item_is_reported(self):
+        page = self.data.snapshots.vocabulary["dw-a1-e2-l2"]
+        page["items"] = page["items"] + [{"id": 0, "german": "das Testwort, die Testwörter", "english": "test word"}]
+        errors = card_quality.check_vocabulary_pages(self.data)
+        self.assertEqual(len(errors), 1, errors)
+        self.assertIn("'das Testwort, die Testwörter'", errors[0])
+
+    def test_vocabulary_page_form_links_a_differently_written_entry(self):
+        entry = next(item for item in self.data.lesson("dw-a1-e0-l1").record["entries"] if item["id"] == "es-ist-neun-uhr")
+        del entry["vocabularyPageForm"]
+        errors = card_quality.check_vocabulary_pages(self.data)
+        self.assertEqual(len(errors), 1, errors)
+        self.assertIn("Es ist 09:00 Uhr.", errors[0])
+
+    def test_page_and_capture_forms_compare_without_article_plural_or_placeholder(self):
+        key = card_quality.vocabulary_page_key
+        self.assertEqual(key("die Spaghetti (Plural)"), key("die Spaghetti"))
+        self.assertEqual(key("das Handy, die Handys"), "Handy")
+        self.assertEqual(key("(etwas) hören"), key("hören"))
+        self.assertEqual(key("Hier ist …"), key("Hier ist ..."))
+        self.assertNotEqual(key("Sie"), key("sie"))
+
+
 class ContextRules(unittest.TestCase):
     @classmethod
     def setUpClass(cls):

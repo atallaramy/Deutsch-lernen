@@ -7,6 +7,131 @@
    "kind": "dw-exercises",
    "url": "https://learngerman.dw.com/en/wichtige-nummern/l-37269501",
    "lessonUrl": "https://learngerman.dw.com/en/wichtige-nummern/l-37269501",
+   "vocabulary": {
+    "url": "https://learngerman.dw.com/en/wichtige-nummern/l-37269501/lv",
+    "items": [
+     {
+      "id": 37389062,
+      "german": "antworten",
+      "english": "to answer something; to return a call",
+      "forms": "antwortet, antwortete, hat geantwortet"
+     },
+     {
+      "id": 37387012,
+      "german": "dreimal",
+      "english": "three times; thrice",
+      "forms": ""
+     },
+     {
+      "id": 37424986,
+      "german": "fragen",
+      "english": "to ask",
+      "forms": "fragt, fragte, hat gefragt"
+     },
+     {
+      "id": 37387055,
+      "german": "das Fundbüro, die Fundbüros",
+      "english": "lost and found",
+      "forms": ""
+     },
+     {
+      "id": 37387062,
+      "german": "das Handy, die Handys",
+      "english": "cell phone; mobile phone",
+      "forms": ""
+     },
+     {
+      "id": 37387064,
+      "german": "die Handynummer, die Handynummern",
+      "english": "cell phone number; mobile phone number",
+      "forms": ""
+     },
+     {
+      "id": 37387086,
+      "german": "(etwas) hören",
+      "english": "to listen to; to hear",
+      "forms": "hört, hörte, hat gehört"
+     },
+     {
+      "id": 41387443,
+      "german": "Ich bin 23 Jahre alt.",
+      "english": "I am 23 years old.",
+      "forms": "Kurzform: Ich bin 23."
+     },
+     {
+      "id": 37387341,
+      "german": "null",
+      "english": "zero",
+      "forms": ""
+     },
+     {
+      "id": 37399111,
+      "german": "das Radio, die Radios",
+      "english": "radio",
+      "forms": ""
+     },
+     {
+      "id": 37887720,
+      "german": "mit jemandem sprechen",
+      "english": "to speak with someone",
+      "forms": "spricht, sprach, hat gesprochen"
+     },
+     {
+      "id": 37388241,
+      "german": "die Telefonnummer, die Telefonnummern",
+      "english": "telephone number",
+      "forms": ""
+     },
+     {
+      "id": 41387551,
+      "german": "Meine Telefonnummer ist ...",
+      "english": "My telephone number is...",
+      "forms": ""
+     },
+     {
+      "id": 37388822,
+      "german": "Wie ist deine Telefonnummer?",
+      "english": "What is your telephone number? (informal)",
+      "forms": ""
+     },
+     {
+      "id": 37396739,
+      "german": "Wie ist Ihre Telefonnummer?",
+      "english": "What is your telephone number? (formal)",
+      "forms": ""
+     },
+     {
+      "id": 37388242,
+      "german": "etwas verlieren",
+      "english": "to lose something",
+      "forms": "verliert, verlor, hat verloren"
+     },
+     {
+      "id": 38073128,
+      "german": "wichtig",
+      "english": "important",
+      "forms": "wichtiger, am wichtigsten"
+     },
+     {
+      "id": 37387544,
+      "german": "Wie alt bist du?",
+      "english": "How old are you? (informal)",
+      "forms": ""
+     },
+     {
+      "id": 37387424,
+      "german": "Wie alt sind Sie?",
+      "english": "How old are you? (formal)",
+      "forms": ""
+     },
+     {
+      "id": 37388373,
+      "german": "zweimal",
+      "english": "twice",
+      "forms": ""
+     }
+    ]
+   },
    "exercises": [
     {
      "id": "e-37272268",
@@ -163,8 +288,9 @@
      "title": "Lost and found",
      "texts": [
       "Lost and found",
-      "null iStockphoto\nIf you are in Germany and have lost something, you can make inquiries at the Lost and Found office. Maybe someone has handed the item in. There are official Lost and Found offices in all major cities. Transport companies also have such offices for objects left behind in buses or trains. The service is free. For valuable objects, it's common to offer a finder's reward.\nIf you have found something yourself, you are obligated to turn it in if it is worth more than 10 euros. You do not necessarily have to go to the Lost and Found office, however. If you find a wallet in a bus, for instance, you can hand it in to the driver. At agencies, museums or swimming pools, you can also hand it in to the office. The owner will probably be pleased, especially if it's a valuable object."
-     ]
+      "If you are in Germany and have lost something, you can make inquiries at the Lost and Found office. Maybe someone has handed the item in. There are official Lost and Found offices in all major cities. Transport companies also have such offices for objects left behind in buses or trains. The service is free. For valuable objects, it's common to offer a finder's reward.\nIf you have found something yourself, you are obligated to turn it in if it is worth more than 10 euros. You do not necessarily have to go to the Lost and Found office, however. If you find a wallet in a bus, for instance, you can hand it in to the driver. At agencies, museums or swimming pools, you can also hand it in to the office. The owner will probably be pleased, especially if it's a valuable object."
+     ],
+     "html": "\n\n<p>If you are in Germany and have lost something, you can make inquiries at the Lost and Found office. Maybe someone has handed the item in. There are official Lost and Found offices in all major cities. Transport companies also have such offices for objects left behind in buses or trains. The service is free. For valuable objects, it's common to offer a finder's reward.</p>\n\n<p>If you have found something yourself, you are obligated to turn it in if it is worth more than 10 euros. You do not necessarily have to go to the Lost and Found office, however. If you find a wallet in a bus, for instance, you can hand it in to the driver. At agencies, museums or swimming pools, you can also hand it in to the office. The owner will probably be pleased, especially if it's a valuable object.</p>\n"
     }
    ]
   },

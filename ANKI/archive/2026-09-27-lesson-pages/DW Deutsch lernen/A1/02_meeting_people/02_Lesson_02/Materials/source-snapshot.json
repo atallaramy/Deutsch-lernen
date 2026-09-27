@@ -1,0 +1,263 @@
+{
+ "description": "Official source text captured by ANKI/harvest_sources.py for offline context verification.",
+ "harvestedOn": "2026-09-25",
+ "sources": [
+  {
+   "id": "exercises",
+   "kind": "dw-exercises",
+   "url": "https://learngerman.dw.com/en/das-ist-nico/l-37262923",
+   "lessonUrl": "https://learngerman.dw.com/en/das-ist-nico/l-37262923",
+   "exercises": [
+    {
+     "id": "e-37264626",
+     "url": "https://learngerman.dw.com/en/here-are-nico-and-emma/l-37262923/e-37264626",
+     "title": "Here are Nico and Emma",
+     "texts": [
+      "If you are speaking about only one person, you use the singular, \"ist\". If there are two or more people, you use the plural, \"sind\".",
+      "Das ist Emma.",
+      "Das sind Nico und Emma.",
+      "Das sind Nico, Lisa und Emma.",
+      "Das ist Nico.",
+      "Wer ist das?",
+      "Wer ist das?",
+      "Wer ist das?",
+      "Wer ist das?"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37263665",
+     "url": "https://learngerman.dw.com/en/introducing-yourself-and-others/l-37262923/e-37263665",
+     "title": "Introducing yourself and others",
+     "texts": [
+      "ich bin",
+      "Das ist",
+      "mein Name ist",
+      "das ist",
+      "das ist",
+      "ich heiße",
+      "Hallo, #pm# Lisa Brunner. #pm# Nico. Nico sucht seine Tasche.",
+      "Was sagt Lisa?",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "Hallo, #pm# Nico und #pm# Emma. E-M-M-A.",
+      "Was sagt Nico?",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "Hallo, #pm# Lisa. Lisa ist meine Tante. Und #pm# Emma.",
+      "Was sagt Emma?",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37265028",
+     "url": "https://learngerman.dw.com/en/nico-gonzález/l-37262923/e-37265028",
+     "title": "Nico González",
+     "texts": [
+      "Das ist Nico González. Er kommt aus Spanien und er spricht Spanisch und Englisch. Nico macht einen Sprachkurs. Er lernt Deutsch. Nicos Hobbys sind Fußball und Musik.",
+      "Nico",
+      "Spanien",
+      "Spanisch und Englisch",
+      "Fußball und Musik",
+      "Vorname: #p#\nFamilienname: González\nLand: #p#\nSprachen: #p#\nKurs: Deutsch\nHobbys: #p#",
+      "Lies den Text und ergänze die Informationen.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37265222",
+     "url": "https://learngerman.dw.com/en/nico-is-learning-german-introducing-people/l-37262923/e-37265222",
+     "title": "Nico is learning German: Introducing people",
+     "texts": [
+      "Eva",
+      "Peru",
+      "Deutsch",
+      "Ying Xie",
+      "Chinesisch",
+      "China",
+      "Computerkurs",
+      "Jenny",
+      "Deutschkurs",
+      "England",
+      "Englisch",
+      "Devi",
+      "Indien",
+      "Spanischkurs",
+      "Hindi",
+      "Das ist #ps#. Sie kommt aus #ps#. Eva spricht Spanisch und #ps#. Sie ist im Yogakurs.",
+      "Name: Eva – Land: Peru – Sprachen: Spanisch und Deutsch – Kurs: Yoga",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "Das ist #pm#. Sie spricht #pm# und Deutsch. Ying Xie kommt aus #ps#. Sie ist im #pl#.",
+      "Name: Ying Xie – Land: China – Sprachen: Chinesisch und Deutsch – Kurs: Computerkurs",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "Das sind Paul und #ps#. Sie sind im #pm#. Paul und Jenny kommen aus #pm#. Sie sprechen #pm#.",
+      "Name: Paul und Jenny – Land: England – Sprache: Englisch – Kurs: Deutschkurs",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "Das sind Rahul und #ps# aus #ps#. Sie sind im #pm#. Rahul und Devi sprechen #ps#, Englisch und Deutsch.",
+      "Name: Rahul und Devi – Land: Indien – Sprachen: Hindi, Englisch und Deutsch – Kurs: Spanisch",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37263488",
+     "url": "https://learngerman.dw.com/en/nico/l-37262923/e-37263488",
+     "title": "Nico",
+     "texts": [
+      "Yara ist Nicos Tante.",
+      "Lisa und Emma helfen Nico.",
+      "Lies die Aussagen und wähl zwei richtige Antworten aus."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37264955",
+     "url": "https://learngerman.dw.com/en/the-taxi-driver/l-37262923/e-37264955",
+     "title": "The taxi driver",
+     "texts": [
+      "Das ist Sigi Körner. Er ist Taxifahrer von Beruf. Er kommt aus Deutschland und er spricht Deutsch und Englisch. Sein Hobby ist Fußball.",
+      "Körner",
+      "Deutschland",
+      "Deutsch und Englisch",
+      "Fußball",
+      "Vorname: Sigi\nFamilienname: #p#\nLand: #p#\nBeruf: Taxifahrer\nSprachen: #p#\nHobby: #p#",
+      "Lies den Text und wähl aus.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37265408",
+     "url": "https://learngerman.dw.com/en/this-is-nico/l-37262923/e-37265408",
+     "title": "This is Nico",
+     "texts": [
+      "Wer ist das?",
+      "Woher kommt Nico?",
+      "Welche Sprachen spricht er?",
+      "Welche Sprache lernt er?",
+      "Welche Hobbys hat er?"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37264861",
+     "url": "https://learngerman.dw.com/en/upper-and-lower-cases/l-37262923/e-37264861",
+     "title": "Upper and lower cases",
+     "texts": [
+      "Beispiel:\nDASSINDNICO, LISAUNDEMMA.\nDas sind Nico, Lisa und Emma.",
+      "Das sind Lisa und Emma. Lisa ist Emmas Tante. Sie helfen Nico.",
+      "DASSINDLISAUNDEMMA. LISAISTEMMASTANTE. SIEHELFENNICO.",
+      "Das ist Nico. Er kommt aus Spanien. Nicos Tasche ist weg.",
+      "DASISTNICO. ERKOMMTAUSSPANIEN. NICOSTASCHEISTWEG."
+     ],
+     "vocabularyTags": []
+    }
+   ],
+   "pages": [
+    {
+     "id": "rs-39371008",
+     "url": "https://learngerman.dw.com/en/and-whats-your-name/l-37262923/rs-39371008",
+     "title": "And what's your name?",
+     "texts": [
+      "And what's your name?",
+      "null iStockphoto\nAt any given time, some names are more fashionable than others, and Germany is no exception. If you ask people who were born in the 1960s what their names are, the women will often be Elisabeth, Petra, Claudia, Sabine or Karin. At that time, men were often called Stefan, Thomas, Michael, Frank, Martin and Christian.\nToday, names are completely different. In the past few years, the names Laura, Anna, Lara, and Lea have topped the list for girls. For boys, it's Jonas, Luca, Elias, and Tim.\nInterestingly, children are now given names that were popular a long time ago, like Marie, Sophie, Alexander and Paul. So, many German children now share the same names as their great-grandparents.\nOther names have always been fashionable: given names like Max and Anna, for example, are common in any generation."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "script",
+   "kind": "dw-script-pdf",
+   "url": "https://static.dw.com/downloads/52719126/nicos-weg-a1-e1-l2-manuskript-und-wortschatz-englisch.pdf",
+   "localFile": "DW Deutsch lernen/A1/02_meeting_people/02_Lesson_02/Materials/Script and vocabulary (English).pdf",
+   "sha256": "7a962164cecb644935176bb9ab732ef820614c9bb818c2d639af5602b838fdad",
+   "lines": [
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "(1) Meeting people | Das ist Nico",
+    "At the gas station, Nico stops the cab which he thinks has his bag inside.",
+    "Lisa tries to calm the angry cab driver and introduces herself and Nico.",
+    "Meanwhile Nico opens the trunk…",
+    "Script",
+    "LISA:",
+    "Nico!",
+    "NICO:",
+    "Stopp!",
+    "TAXIFAHRER:",
+    "Sag mal, spinnst du? Was ist denn?",
+    "NICO:",
+    "Die Tasche!",
+    "EMMA:",
+    "Oh, oh …",
+    "TAXIFAHRER:",
+    "Die Tasche? Welche Tasche?",
+    "LISA:",
+    "Warte, Emma!",
+    "NICO:",
+    "Die … die Tasche in there!",
+    "TAXIFAHRER:",
+    "Da ist keine Tasche.",
+    "LISA:",
+    "Hallo, ich bin Lisa Brunner. Das ist Nico. Nico sucht seine Tasche.",
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "TAXIFAHRER:",
+    "Und?",
+    "LISA:",
+    "Ist Nicos Tasche in Ihrem Taxi?",
+    "TAXIFAHRER:",
+    "Nicos Tasche? Nein. Die Tasche ist nicht im Taxi.",
+    "NICO:",
+    "Nein. Wo?",
+    "TAXIFAHRER:",
+    "Keine Ahnung, wo deine Tasche ist. Hier ist die Tasche nicht.",
+    "LISA:",
+    "Komm, wir suchen die Tasche! Suchen. Komm, Nico!",
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "Vocabulary (from script and lesson)",
+    "das Beispiel, die Beispiele – example",
+    "(das) Deutsch – German (language)",
+    "nur Singular, selten mit Artikel",
+    "er – he",
+    "der Familienname, die Familiennamen – last name; surname",
+    "(jemandem) helfen – to help someone",
+    "hilft, half, hat geholfen",
+    "in – in",
+    "Keine Ahnung. – no idea",
+    "Kurzform von: Ich habe keine Ahnung.",
+    "der Kurs, die Kurse – course",
+    "(etwas) lernen – to learn (something)",
+    "lernt, lernte, hat gelernt",
+    "sie – she",
+    "die Sprache, die Sprachen – language",
+    "der Taxifahrer, die Taxifahrer – taxi driver (male)",
+    "Er ist Taxifahrer. – He is a cabdriver/taxi driver.",
+    "die Taxifahrerin, die Taxifahrerinnen – taxi driver (female)",
+    "Sie ist Taxifahrerin. – She is a cabdriver/taxi driver.",
+    "der Vorname, die Vornamen – first name; given name",
+    "woher – where; from where"
+   ]
+  }
+ ]
+}

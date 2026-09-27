@@ -1,0 +1,277 @@
+{
+ "description": "Official source text captured by ANKI/harvest_sources.py for offline context verification.",
+ "harvestedOn": "2026-09-25",
+ "sources": [
+  {
+   "id": "exercises",
+   "kind": "dw-exercises",
+   "url": "https://learngerman.dw.com/en/tschüss/l-37251033",
+   "lessonUrl": "https://learngerman.dw.com/en/tschüss/l-37251033",
+   "exercises": [
+    {
+     "id": "e-37255725",
+     "url": "https://learngerman.dw.com/en/and-how-are-you-1/l-37251033/e-37255725",
+     "title": "And how are you? (1)",
+     "texts": [
+      "Hallo, wie geht’s dir?"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37255843",
+     "url": "https://learngerman.dw.com/en/and-how-are-you-2/l-37251033/e-37255843",
+     "title": "And how are you? (2)",
+     "texts": [
+      "Guten Morgen. Wie geht es Ihnen?"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37251452",
+     "url": "https://learngerman.dw.com/en/farewell-scenarios-1/l-37251033/e-37251452",
+     "title": "Farewell scenarios (1)",
+     "texts": [
+      "formell:\nAuf Wiedersehen!\ninformell:\nTschüss!",
+      "Die Situation ist informell.",
+      "Die Situation ist formell.",
+      "Wähl die richtige Antwort.",
+      "Wähl die richtige Antwort."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37252960",
+     "url": "https://learngerman.dw.com/en/farewell-scenarios-2/l-37251033/e-37252960",
+     "title": "Farewell scenarios (2)",
+     "texts": [
+      "Auf Wiedersehen!",
+      "Auf Wiedersehen!",
+      "Tschüss!",
+      "Wähl die richtige Antwort.",
+      "Wähl die richtige Antwort.",
+      "Wähl die richtige Antwort."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37255608",
+     "url": "https://learngerman.dw.com/en/good-morning-good-afternoon-how-are-you/l-37251033/e-37255608",
+     "title": "Good morning / Good afternoon! How are you?",
+     "texts": [
+      "Wie geht es Ihnen?",
+      "Danke, sehr gut.",
+      "Und Ihnen?",
+      "Gut, danke.",
+      "Auf Wiedersehen und gute Reise!",
+      "Danke. Auf Wiedersehen.",
+      "Mann 1: Guten Tag! #p#\nMann 2: #p#",
+      "Wähl die fehlenden Wörter in der richtigen Reihenfolge aus.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "Mann 1: Guten Tag! Wie geht es Ihnen?\nMann 2: Danke, sehr gut. #p#\nMann 1: #p#",
+      "Wähl die fehlenden Wörter in der richtigen Reihenfolge aus.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "Mann 1: Guten Tag! Wie geht es Ihnen?\nMann 2: Danke, sehr gut. Und Ihnen?\nMann 1: Gut, danke. #p#\nMann 2: #p#",
+      "Wähl die fehlenden Wörter in der richtigen Reihenfolge aus.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-42252724",
+     "url": "https://learngerman.dw.com/en/goodbye/l-37251033/e-42252724",
+     "title": "Goodbye",
+     "texts": [
+      "Play audio",
+      "Play audio",
+      "Play audio"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37251275",
+     "url": "https://learngerman.dw.com/en/have-a-nice-trip/l-37251033/e-37251275",
+     "title": "Have a nice trip",
+     "texts": [
+      "Auf Wiedersehen, Herr Tillmanns. Gute Reise!",
+      "Mach’s gut, Herbert. Bis bald.",
+      "Welcher Text passt zum Bild?",
+      "Welcher Text passt zum Bild?"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37255274",
+     "url": "https://learngerman.dw.com/en/hello-how-are-you/l-37251033/e-37255274",
+     "title": "Hello! How are you?",
+     "texts": [
+      "Wie geht’s dir?",
+      "Gut.",
+      "Und dir?",
+      "Danke, auch gut.",
+      "Bis bald!",
+      "Ja, bis bald. Tschüss!",
+      "Frau 1: Hallo! #p#\nFrau 2: #p#",
+      "Wähl die fehlenden Wörter in der richtigen Reihenfolge aus.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "Frau 1: Hallo! Wie geht’s dir?\nFrau 2: Gut. #p#\nFrau 1: #p#",
+      "Wähl die fehlenden Wörter in der richtigen Reihenfolge aus.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "Frau 1: Hallo! Wie geht’s dir?\nFrau 2: Gut. Und dir?\nFrau 1: Danke, auch gut. #p#\nFrau 2: #p#",
+      "Wähl die fehlenden Wörter in der richtigen Reihenfolge aus.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37254344",
+     "url": "https://learngerman.dw.com/en/pronunciation-practice-saying-goodbye/l-37251033/e-37254344",
+     "title": "Pronunciation practice: Saying goodbye",
+     "texts": [
+      "Auf Wiedersehen!",
+      "Bis bald!",
+      "Mach’s gut!",
+      "Gute Reise!",
+      "Tschüss!"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37253605",
+     "url": "https://learngerman.dw.com/en/take-care-1/l-37251033/e-37253605",
+     "title": "Take care! (1)",
+     "texts": [
+      "New words:\nTschüss!\nBis bald!\nMach’s gut!\nAuf Wiedersehen!\nGute Reise!",
+      "Tschüss",
+      "Gute Reise",
+      "Mach’s gut",
+      "Bis bald",
+      "Auf Wiedersehen",
+      "Gute Reise",
+      "Auf Wiedersehen",
+      "Mann: #ps#, Martina. #ps#!\nFrau: #ps#, Herbert . #ps#!",
+      "Wähl die fehlenden Wörter in der richtigen Reihenfolge aus.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "Frau: #p#, Herr Tillmanns. #p#.\nMann: Danke schön! #p#, Frau Scholl.",
+      "Wähl die fehlenden Wörter in der richtigen Reihenfolge aus.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-42251928",
+     "url": "https://learngerman.dw.com/en/take-care-2/l-37251033/e-42251928",
+     "title": "Take care! (2)",
+     "texts": [
+      "Bis bald",
+      "gute Reise",
+      "Auf Wiedersehen",
+      "Tom: Tschüss, Martha. Gute Reise.\nMartha: #pm#. Mach’s gut, Tom.\nHerr Finner: Auf Wiedersehen und #pm#, Frau Baier.\nFrau Baier: Danke. #p#.",
+      "Wähl die fehlenden Wörter in der richtigen Reihenfolge aus.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37255932",
+     "url": "https://learngerman.dw.com/en/writing-short-sentences/l-37251033/e-37255932",
+     "title": "Writing short sentences",
+     "texts": [
+      "Wie geht es dir?",
+      "Play audio",
+      "Es geht mir sehr gut.",
+      "Play audio",
+      "Es geht mir nicht so gut.",
+      "Play audio"
+     ],
+     "vocabularyTags": []
+    }
+   ],
+   "pages": [
+    {
+     "id": "gr-38310645",
+     "url": "https://learngerman.dw.com/en/informal-and-formal-2/l-37251033/gr-38310645",
+     "title": "Informal and formal (2)",
+     "texts": [
+      "Informal and formal (2)",
+      "Saying goodbye: informal\nnull DW\nTschüss, Martina! – Mach's gut!\nBis bald! – Tschüss!\nThe informal expressions for saying goodbye are used with family, friends and acquaintances, and often with colleagues.\nFriends, acquaintances and family members are addressed by their first names.\nSaying goodbye: formal\nnull DW\nAuf Wiedersehen, Herr Tillmanns! – Auf Wiedersehen!\nThe formal expression for saying goodbye is used with unfamiliar adults, in business situations, with officials, and when shopping.\nMen are addressed formally as Herr followed by their surname, women as Frau followed by their surname.\nIf you are unsure whether to be formal or informal, use the formal expression for saying goodbye.\nGrammatical terms in German:\ninformell: Informal language is used when talking to family and friends.\nformell: Formal language is used in formal situations."
+     ]
+    },
+    {
+     "id": "rs-39371009",
+     "url": "https://learngerman.dw.com/en/saying-goodbye/l-37251033/rs-39371009",
+     "title": "Saying goodbye",
+     "texts": [
+      "Saying goodbye",
+      "null iStockphoto\nFormal:\nAuf Wiedersehen!\nWhen you say farewell or goodbye in a formal way, you can also shake hands, just as you might when you greet someone.\nDepending on the context, if you want to be very polite you can also say Vielen Dank (thank you). For example:\nVielen Dank für Ihre Hilfe – when someone has helped you\nVielen Dank für den netten Abend – when you've had a nice evening together\nInformal:\nTschüss!\nThis is the most common way of saying goodbye. These days it is used throughout Germany.\nMost people say goodbye informally in various ways:\nCiao! – especially popular among young people\nBis bald! – when you will see someone again soon\nWir sehen uns! – what friends say to each other when they see each other regularly\nMach's gut! – a relaxed way of saying goodbye when you want to wish the other person luck\nSpecial cases:\nEinen schönen Tag noch! – a polite goodbye, especially used in shops\nAuf Wiederhören! – a formal goodbye on the telephone\nRegional variations:\nServus! – In southern Germany and Austria, it's not only used to say \"hello\", but also to say \"goodbye\"\nTschö! – in the Rhineland in western Germany"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "script",
+   "kind": "dw-script-pdf",
+   "url": "https://static.dw.com/downloads/52719087/nicos-weg-a1-e0-l3-manuskript-und-wortschatz-englisch.pdf",
+   "localFile": "DW Deutsch lernen/A1/01_Intro_zu_A1/03_Tschüs/Materials/Script and vocabulary (English).pdf",
+   "sha256": "f8dba468f910d5c08e9ec493c8334f096cf112b3debfbabb05efd9c97cacddf7",
+   "lines": [
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "Welcome to A1! | Tschüss!",
+    "With people coming and going and saying goodbye to each other around",
+    "him, Nico doesn’t know what he should do. Then Emma and her aunt Lisa",
+    "return and offer to help him.",
+    "Script",
+    "MANN:",
+    "Tschüss, Martina. Gute Reise!",
+    "FRAU:",
+    "Mach’s gut, Herbert. Bis bald!",
+    "MANN:",
+    "Tschüss!",
+    "FRAU:",
+    "Auf Wiedersehen, Herr Tillmanns. Gute Reise!",
+    "MANN:",
+    "Danke schön! Auf Wiedersehen, Frau Scholl.",
+    "LISA:",
+    "Alles okay? Brauchst du Hilfe? Hilfe, help? Do you need help?",
+    "NICO:",
+    "Ja! Hilfe!",
+    "EMMA:",
+    "Wo ist die Tasche?",
+    "NICO:",
+    "Die Tasche ist … gone … in the ... Taxi!",
+    "LISA:",
+    "Die Tasche ist weg in dem Taxi? Wohin willst du? Wohin? Willst du ins Zentrum?",
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "NICO:",
+    "Zentrum, ja!",
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "Vocabulary (from script and lesson)",
+    "Auf Wiedersehen. – Goodbye.",
+    "Bis bald. – See you soon.",
+    "danke schön – Thank you!",
+    "Gute Reise. – Have a good trip!",
+    "die Hilfe, die Hilfen – help",
+    "ja – yes",
+    "Mach’s gut! – So long!; Take care!",
+    "die Tasche, die Taschen – bag",
+    "Tschüss. – Bye",
+    "Vielen Dank. – Many thanks!"
+   ]
+  }
+ ]
+}

@@ -25,8 +25,11 @@ of every VHS A1–B1 lesson.
 | Teacher guide + exercises, *Von A bis Z* | <https://static.dw.com/downloads/52719092/nicos-weg-a1-e0-l4-lehrerhandreichung-und-uebungen.pdf> | Saved in that lesson's `Materials/` |
 
 How DW pages are built (useful for tooling): lesson pages end in `/l-<id>`.
-Each lesson has exercise pages (`/e-<id>`), grammar pages (`/gr-<id>`) and
-culture pages (`/rs-<id>`). Their data sits in `window.__APOLLO_STATE__`. Exercise
+Each lesson has a vocabulary page (`/l-<id>/lv`), exercise pages (`/e-<id>`),
+grammar pages (`/gr-<id>`) and culture pages (`/rs-<id>`). Their data sits in
+`window.__APOLLO_STATE__`. On the vocabulary page, the lesson's `vocabularies`
+list points to `Knowledge` records: `name` (German), `text` (official English),
+`subTitle` (plural note or principal parts); checked 2026-09-27. Exercise
 sentences are tagged with the glossary entry they practise, so the official exercises are
 the best context source. Correct answers are marked with `isCorrect`. DW's
 server returns HTTP 200 even for wrong lesson IDs, so check the page content,

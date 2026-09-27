@@ -42,7 +42,8 @@ Cards (`learnerForm`) and the grammar book quote your mistakes from
 - Your Markdown notes for the lesson, all of it: vocabulary lists, glossed
   items, exercise answers, errors.
 - The official materials. For DW, the script/vocabulary PDF in `Materials/`
-  (download it if missing). For VHS, the word list, film script and grammar list
+  (download it if missing), and after step 2 the vocabulary, grammar and culture
+  pages in `Materials/lesson-pages.md`. For VHS, the word list, film script and grammar list
   ([links.md](links.md)). For Easy German, the method in
   [easy-german-transcripts.md](easy-german-transcripts.md) (auto-generated
   captions locate items but are never used as contexts).
@@ -54,9 +55,11 @@ Cards (`learnerForm`) and the grammar book quote your mistakes from
    notes file, lesson-deck file, snapshot path, sources) with an empty entry
    list.
 2. Run `python3 ANKI/harvest_sources.py --lesson <lesson-id>`.
-   - For DW this snapshots the script PDF text plus every exercise, grammar and culture page.
+   - For DW this snapshots the script PDF text, the vocabulary page (German, official English, forms) and every
+     exercise, grammar and culture page. It also writes `Materials/lesson-pages.md`, a readable copy of the
+     vocabulary, grammar and culture pages (never edited by hand; `--pages` rewrites it offline).
    - For VHS it downloads the course PDFs into `VHS-Lernportal/<level>/Materials/` and snapshots them.
-3. Check the snapshot contains the lesson's script and exercises.
+3. Check the snapshot contains the lesson's script, exercises and (DW) vocabulary page. Read `lesson-pages.md`.
 4. For VHS, also capture the lesson's vocabulary trainer with English (official
    meanings) through the browser ([access.md](access.md)).
 
@@ -76,7 +79,9 @@ the dictionary confirms. For phrases, set `glossLookup` to their component
 words, and use the dictionary's wording.
 
 Which items to capture:
-- **Captured:** items in a vocabulary list in your notes, items you wrote with a meaning, the official lesson glossary, and the words and fixed phrases worth learning from the lesson's official script and exercises (`origin`: `dw-script`, `dw-exercises`, `vhs-film-script`). Their sentences are used as contexts.
+- **Captured:** items in a vocabulary list in your notes, items you wrote with a meaning, the official lesson glossary and vocabulary page, and the words and fixed phrases worth learning from the lesson's official script, exercises, grammar pages and culture pages (`origin`: `dw-script`, `dw-exercises`, `dw-grammar-page`, `dw-culture-page`, `vhs-film-script`). Their sentences are used as contexts.
+- **Vocabulary page:** every item on it is recorded in this lesson, even when an earlier lesson already has it (the cards merge). The PDF glossary and the page usually list the same items; when the page writes one differently (`Es ist 09:00 Uhr.` for `Es ist neun Uhr.`), set `vocabularyPageForm` on the entry. `build_all.py check` reports every page item that is not recorded yet, so run it once right after capturing.
+- **Grammar pages:** new words, forms and example phrases from them are captured like script items; their rule goes to the grammar book (§8) and, when useful, to Sentences cards.
 - **Borderline:** put in `pendingEntries` with a reason and ask you yes or no.
 - **Home deck:** fixed formulas → `home: vocabulary`; patterns and grammatical choices (du/Sie, verb forms, W-questions) → `home: sentences`. Names → Sentences.
 - **Merging:** a new sense of a known word gets its own `sense`. Identical lemma + sense merges automatically.
@@ -134,6 +139,9 @@ The rules are in `AGENTS.md` → *Grammar book*; the layout is in
 - Topics: the lesson's grammar (its course-index row and its DW grammar pages or
   VHS grammar list). Add to the existing topic page, or start a new page with the
   layout of an existing one, list it in the index and remove it from *coming*.
+- Every DW grammar page of the lesson (in `Materials/lesson-pages.md`) is covered by
+  a topic page and linked from it under *Official pages*; the grammar check fails
+  while one is missing.
 - Examples: add useful new ones, copied verbatim from the new snapshot, with a
   source label such as `DW A1 E2 L1 · script`.
 - Mistakes: quote your new errors exactly from `Materials/mistakes.md` (or your

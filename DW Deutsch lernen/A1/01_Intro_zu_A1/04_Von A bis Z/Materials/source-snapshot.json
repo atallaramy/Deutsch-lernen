@@ -1,12 +1,155 @@
 {
  "description": "Official source text captured by ANKI/harvest_sources.py for offline context verification.",
- "harvestedOn": "2026-09-25",
+ "harvestedOn": "2026-09-27",
  "sources": [
   {
    "id": "exercises",
    "kind": "dw-exercises",
    "url": "https://learngerman.dw.com/en/von-a-bis-z/l-37256418",
    "lessonUrl": "https://learngerman.dw.com/en/von-a-bis-z/l-37256418",
+   "vocabulary": {
+    "url": "https://learngerman.dw.com/en/von-a-bis-z/l-37256418/lv",
+    "items": [
+     {
+      "id": 37364732,
+      "german": "die Adresse, die Adressen",
+      "english": "address",
+      "forms": ""
+     },
+     {
+      "id": 37364778,
+      "german": "bitte",
+      "english": "here you go; please; if you please",
+      "forms": "Kurzform von: bitte schön"
+     },
+     {
+      "id": 37384898,
+      "german": "der Buchstabe, die Buchstaben",
+      "english": "letter (of the alphabet)",
+      "forms": ""
+     },
+     {
+      "id": 37364871,
+      "german": "(etwas) buchstabieren",
+      "english": "to spell (something)",
+      "forms": "buchstabiert, buchstabierte, hat buchstabiert"
+     },
+     {
+      "id": 37372179,
+      "german": "Bitte buchstabiere das.",
+      "english": "Could you please spell that?",
+      "forms": ""
+     },
+     {
+      "id": 37365019,
+      "german": "Bitte buchstabieren Sie das.",
+      "english": "Please spell that",
+      "forms": ""
+     },
+     {
+      "id": 40875097,
+      "german": "das",
+      "english": "that",
+      "forms": ""
+     },
+     {
+      "id": 37365337,
+      "german": "fliegen",
+      "english": "to fly; to fly in an airplane",
+      "forms": "fliegt, flog, ist geflogen"
+     },
+     {
+      "id": 37365007,
+      "german": "die Hausnummer, die Hausnummern",
+      "english": "house number",
+      "forms": ""
+     },
+     {
+      "id": 37365120,
+      "german": "Langsam bitte.",
+      "english": "Slowly, please.",
+      "forms": ""
+     },
+     {
+      "id": 37365437,
+      "german": "die Mama, die Mamas",
+      "english": "mom; mother",
+      "forms": ""
+     },
+     {
+      "id": 37365443,
+      "german": "der Name, die Namen",
+      "english": "name",
+      "forms": ""
+     },
+     {
+      "id": 37365125,
+      "german": "Mein Name ist ...",
+      "english": "My name is ...",
+      "forms": ""
+     },
+     {
+      "id": 37365159,
+      "german": "Wie ist dein Name?",
+      "english": "What is your name? (informal)",
+      "forms": ""
+     },
+     {
+      "id": 37365175,
+      "german": "Wie ist Ihr Name?",
+      "english": "What is your name? (formal)",
+      "forms": ""
+     },
+     {
+      "id": 37365135,
+      "german": "nein",
+      "english": "no",
+      "forms": ""
+     },
+     {
+      "id": 37365446,
+      "german": "nicht",
+      "english": "not",
+      "forms": ""
+     },
+     {
+      "id": 37362378,
+      "german": "noch einmal",
+      "english": "again",
+      "forms": "Kurzform: noch mal"
+     },
+     {
+      "id": 37365151,
+      "german": "Noch einmal bitte.",
+      "english": "Again, please.",
+      "forms": ""
+     },
+     {
+      "id": 37351106,
+      "german": "die Straße, die Straßen",
+      "english": "street; road",
+      "forms": ""
+     },
+     {
+      "id": 37367267,
+      "german": "etwas suchen",
+      "english": "to search for something; to look for something",
+      "forms": "sucht, suchte, hat gesucht"
+     },
+     {
+      "id": 37365634,
+      "german": "die Tante, die Tanten",
+      "english": "aunt",
+      "forms": ""
+     },
+     {
+      "id": 37365877,
+      "german": "Wie schreibt man das?",
+      "english": "How do you write/spell that?",
+      "forms": ""
+     }
+    ]
+   },
    "exercises": [
     {
      "id": "e-37262583",
@@ -150,7 +293,8 @@
      "texts": [
       "How's it going?",
       "The question \"Wie geht es dir?\" (\"How are you?\" – informal) or \"Wie geht es Ihnen?\" (\"How are you?\" – formal) often comes immediately after a greeting. It is a standard part of the conversation, as it is considered polite to ask someone how they are doing or feeling. But be careful: sometimes people are not really interested in the answer. In a conversation with someone you don't know that well, your answer should be very brief, for example, \"Danke, gut\" (\"Very well, thanks)\".\nBut if a friend asks you the question, you may respond honestly and in detail, since that person really wants to know how you are."
-     ]
+     ],
+     "html": "<p>The question \"Wie geht es dir?\" (\"How are you?\" – informal) or \"Wie geht es Ihnen?\" (\"How are you?\" – formal) often comes immediately after a greeting. It is a standard part of the conversation, as it is considered polite to ask someone how they are doing or feeling. But be careful: sometimes people are not really interested in the answer. In a conversation with someone you don't know that well, your answer should be very brief, for example, \"Danke, gut\" (\"Very well, thanks)\".</p>\n\n<p>But if a friend asks you the question, you may respond honestly and in detail, since that person really wants to know how you are.</p>\n\n<p>&#160;</p>\n"
     },
     {
      "id": "rs-39371795",
@@ -158,8 +302,9 @@
      "title": "The phonetic alphabet",
      "texts": [
       "The phonetic alphabet",
-      "null colourbox.de\nIn German, the alphabet letters with city names have only been in use since 2022. The previous alphabet letter system was primarily made up of first names. Many people still use it today.\nA\nAachen\nÄ\nUmlaut Aachen\nB\nBerlin\nC\nChemnitz\nCh\nChemnitz – Hamburg\nD\nDüsseldorf\nE\nEssen\nF\nFrankfurt\nG\nGoslar\nH\nHamburg\nI\nIngelheim\nJ\nJena\nK\nKöln\nL\nLeipzig\nM\nMünchen\nN\nNürnberg\nO\nOffenbach\nÖ\nUmlaut Offenbach\nP\nPotsdam\nQ\nQuickborn\nR\nRostock\nS\nSalzwedel\nSch\nSalzwedel – Chemnitz –\nHamburg\nß\nEszett\nT\nTübingen\nU\nUnna\nÜ\nUmlaut Unna\nV\nVölklingen\nW\nWuppertal\nX\nXanten\nY\nYpsilon\nZ\nZwickau\n.\nPunkt\n-\nMinus\n_\nUnterstrich\n/\nSchrägstrich\n\\\numgekehrter\nSchrägstrich\n@\nEtt\nNico would spell out his name like this: Nürnberg – Ingelheim – Chemnitz – Offenbach"
-     ]
+      "In German, the alphabet letters with city names have only been in use since 2022. The previous alphabet letter system was primarily made up of first names. Many people still use it today.\nA\nAachen\nÄ\nUmlaut Aachen\nB\nBerlin\nC\nChemnitz\nCh\nChemnitz – Hamburg\nD\nDüsseldorf\nE\nEssen\nF\nFrankfurt\nG\nGoslar\nH\nHamburg\nI\nIngelheim\nJ\nJena\nK\nKöln\nL\nLeipzig\nM\nMünchen\nN\nNürnberg\nO\nOffenbach\nÖ\nUmlaut Offenbach\nP\nPotsdam\nQ\nQuickborn\nR\nRostock\nS\nSalzwedel\nSch\nSalzwedel – Chemnitz –\nHamburg\nß\nEszett\nT\nTübingen\nU\nUnna\nÜ\nUmlaut Unna\nV\nVölklingen\nW\nWuppertal\nX\nXanten\nY\nYpsilon\nZ\nZwickau\n.\nPunkt\n-\nMinus\n_\nUnterstrich\n/\nSchrägstrich\n\\\numgekehrter\nSchrägstrich\n@\nEtt\nNico would spell out his name like this: Nürnberg – Ingelheim – Chemnitz – Offenbach"
+     ],
+     "html": "\n\n<p>In German, the alphabet letters with city names have only been in use since 2022. The previous alphabet letter system was primarily made up of first names. Many people still use it today.</p>\n\n<p>&#160;</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><strong>A</strong></td>\n\t\t\t<td>&#160; &#160;&#160;</td>\n\t\t\t<td>Aachen</td>\n\t\t\t<td>&#160; &#160;&#160;</td>\n\t\t\t<td><strong>Ä</strong></td>\n\t\t\t<td>&#160; &#160;</td>\n\t\t\t<td>Umlaut Aachen</td>\n\t\t\t<td>&#160; &#160;</td>\n\t\t\t<td><strong>B</strong></td>\n\t\t\t<td>Berlin</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><strong>C</strong></td>\n\t\t\t<td>&#160;</td>\n\t\t\t<td>Chemnitz</td>\n\t\t\t<td>&#160;</td>\n\t\t\t<td><strong>Ch</strong></td>\n\t\t\t<td>&#160;</td>\n\t\t\t<td>Chemnitz – Hamburg</td>\n\t\t\t<td>&#160;</td>\n\t\t\t<td><strong>D</strong></td>\n\t\t\t<td>Düsseldorf</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><strong>E</strong></td>\n\t\t\t<td>&#160;</td>\n\t\t\t<td>Essen</td>\n\t\t\t<td>&#160;</td>\n\t\t\t<td><strong>F</strong></td>\n\t\t\t<td>&#160;</td>\n\t\t\t<td>Frankfurt</td>\n\t\t\t<td>&#160;</td>\n\t\t\t<td><strong>G</strong></td>\n\t\t\t<td>Goslar</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><strong>H</strong></td>\n\t\t\t<td>&#160;</td>\n\t\t\t<td>Hamburg</td>\n\t\t\t<td>&#160;</td>\n\t\t\t<td><strong>I</strong></td>\n\t\t\t<td>&#160;</td>\n\t\t\t<td>Ingelheim</td>\n\t\t\t<td>&#160;</td>\n\t\t\t<td><strong>J</strong></td>\n\t\t\t<td>Jena</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><strong>K</strong></td>\n\t\t\t<td>&#160;</td>\n\t\t\t<td>Köln</td>\n\t\t\t<td>&#160;</td>\n\t\t\t<td><strong>L</strong></td>\n\t\t\t<td>&#160;</td>\n\t\t\t<td>Leipzig</td>\n\t\t\t<td>&#160;</td>\n\t\t\t<td><strong>M</strong></td>\n\t\t\t<td>München</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><strong>N</strong></td>\n\t\t\t<td>&#160;</td>\n\t\t\t<td>Nürnberg</td>\n\t\t\t<td>&#160;</td>\n\t\t\t<td><strong>O</strong></td>\n\t\t\t<td>&#160;</td>\n\t\t\t<td>Offenbach</td>\n\t\t\t<td>&#160;</td>\n\t\t\t<td><strong>Ö</strong></td>\n\t\t\t<td>Umlaut Offenbach</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><strong>P</strong></td>\n\t\t\t<td>&#160;</td>\n\t\t\t<td>Potsdam</td>\n\t\t\t<td>&#160;</td>\n\t\t\t<td><strong>Q</strong></td>\n\t\t\t<td>&#160;</td>\n\t\t\t<td>Quickborn</td>\n\t\t\t<td>&#160;</td>\n\t\t\t<td><strong>R</strong></td>\n\t\t\t<td>Rostock</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><strong>S</strong></td>\n\t\t\t<td>&#160;</td>\n\t\t\t<td>Salzwedel</td>\n\t\t\t<td>&#160;</td>\n\t\t\t<td><strong>Sch</strong></td>\n\t\t\t<td>&#160;</td>\n\t\t\t<td>Salzwedel – Chemnitz –<br>\n\t\t\tHamburg</td>\n\t\t\t<td>&#160;</td>\n\t\t\t<td><strong>ß</strong></td>\n\t\t\t<td>Eszett</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><strong>T</strong></td>\n\t\t\t<td>&#160;</td>\n\t\t\t<td>Tübingen</td>\n\t\t\t<td>&#160;</td>\n\t\t\t<td><strong>U</strong></td>\n\t\t\t<td>&#160;</td>\n\t\t\t<td>Unna</td>\n\t\t\t<td>&#160;</td>\n\t\t\t<td><strong>Ü</strong></td>\n\t\t\t<td>Umlaut Unna</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><strong>V</strong></td>\n\t\t\t<td>&#160;</td>\n\t\t\t<td>Völklingen</td>\n\t\t\t<td>&#160;</td>\n\t\t\t<td><strong>W</strong></td>\n\t\t\t<td>&#160;</td>\n\t\t\t<td>Wuppertal</td>\n\t\t\t<td>&#160;</td>\n\t\t\t<td><strong>X</strong></td>\n\t\t\t<td>Xanten</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><strong>Y</strong></td>\n\t\t\t<td>&#160;</td>\n\t\t\t<td>Ypsilon</td>\n\t\t\t<td>&#160;</td>\n\t\t\t<td><strong>Z</strong></td>\n\t\t\t<td>&#160;</td>\n\t\t\t<td>Zwickau</td>\n\t\t\t<td>&#160;</td>\n\t\t\t<td>&#160;</td>\n\t\t\t<td>&#160;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><strong>.</strong></td>\n\t\t\t<td>&#160;</td>\n\t\t\t<td>Punkt</td>\n\t\t\t<td>&#160;</td>\n\t\t\t<td><strong>-</strong></td>\n\t\t\t<td>&#160;</td>\n\t\t\t<td>Minus</td>\n\t\t\t<td>&#160;</td>\n\t\t\t<td><strong>_</strong></td>\n\t\t\t<td>Unterstrich</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><strong>/</strong></td>\n\t\t\t<td>&#160;</td>\n\t\t\t<td>Schrägstrich</td>\n\t\t\t<td>&#160;</td>\n\t\t\t<td><strong>\\</strong></td>\n\t\t\t<td>&#160;</td>\n\t\t\t<td>\n\t\t\t<p>umgekehrter<br>\n\t\t\tSchrägstrich</p>\n\t\t\t</td>\n\t\t\t<td>&#160;</td>\n\t\t\t<td><strong>@</strong></td>\n\t\t\t<td>Ett</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&#160;</p>\n\n<p>Nico would spell out his name like this: Nürnberg – Ingelheim – Chemnitz – Offenbach<span id=\"ck_editor_caret_marker\" style=\"display:none\"></span></p>\n"
     }
    ]
   },

@@ -11,6 +11,7 @@ Page conventions the check relies on (see Grammatik/README.md):
 - A table with "Wrong" and "From" columns quotes the learner's own error from the notes file linked in "From".
 - A table whose first column is "Person" is a conjugation table; each verb column must match Wiktionary.
 - Backticked keys under "## Sentences cards" must be live cards in ANKI/sentence-sources.json.
+- Every DW grammar page (gr-) in a studied lesson's snapshot must be linked from some topic page.
 """
 
 from __future__ import annotations
@@ -198,17 +199,29 @@ def check_cards(page: str, cards: dict, where: str, report: Report) -> None:
             report.errors.append(f"{where}: Sentences card {key!r} is retired")
 
 
-def check(book: Path = BOOK, data: deck_data.Data | None = None, snapshot: Path | None = None) -> Report:
+def check_grammar_pages(data: deck_data.Data, linked: set[str], report: Report) -> None:
+    """Every DW grammar page (gr-) of a studied lesson is linked from a topic page."""
+    for lesson in data.lessons:
+        for page in data.snapshots.pages.get(lesson.id, []):
+            if page["id"].startswith("gr-") and page["id"] not in linked:
+                report.errors.append(f"DW grammar page {page['title'].strip()!r} of {lesson.id} is not linked from any "
+                                     f"topic page: {page['url']}")
+
+
+def check(book: Path = BOOK, data: deck_data.Data | None = None, snapshot: Path | None = None,
+          grammar_pages: bool = True) -> Report:
     data = data or deck_data.load()
     snapshot = snapshot or book / "Materials" / "wiktionary-snapshot.json"
     verbs = json.loads(snapshot.read_text(encoding="utf-8")).get("verbs", {}) if snapshot.exists() else {}
     labels, cards = lesson_labels(data), {card["key"]: card for card in data.sentence_cards}
     report = Report()
     index = (book / "README.md").read_text(encoding="utf-8") if (book / "README.md").exists() else ""
+    linked: set[str] = set()
     for page_path in sorted(book.rglob("*.md")):
         if "Materials" in page_path.relative_to(book).parts:
             continue
         page, where = page_path.read_text(encoding="utf-8"), str(page_path.relative_to(book))
+        linked |= set(re.findall(r"/(gr-\d+)\b", " ".join(target for _, target in LINK_RE.findall(page))))
         report.counts["pages"] += 1
         if page_path.name != "README.md" and where not in {urllib.parse.unquote(t.strip("<>")) for _, t in LINK_RE.findall(index)}:
             report.errors.append(f"{where}: not listed in Grammatik/README.md")
@@ -221,6 +234,8 @@ def check(book: Path = BOOK, data: deck_data.Data | None = None, snapshot: Path 
                 check_conjugation(table, verbs, where, report)
         check_links(page, page_path, where, report)
         check_cards(page, cards, where, report)
+    if grammar_pages:
+        check_grammar_pages(data, linked, report)
     return report
 
 

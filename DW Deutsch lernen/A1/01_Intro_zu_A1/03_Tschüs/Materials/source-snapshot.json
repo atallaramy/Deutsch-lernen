@@ -1,12 +1,77 @@
 {
  "description": "Official source text captured by ANKI/harvest_sources.py for offline context verification.",
- "harvestedOn": "2026-09-25",
+ "harvestedOn": "2026-09-27",
  "sources": [
   {
    "id": "exercises",
    "kind": "dw-exercises",
    "url": "https://learngerman.dw.com/en/tschüss/l-37251033",
    "lessonUrl": "https://learngerman.dw.com/en/tschüss/l-37251033",
+   "vocabulary": {
+    "url": "https://learngerman.dw.com/en/tschüss/l-37251033/lv",
+    "items": [
+     {
+      "id": 37351735,
+      "german": "Auf Wiedersehen.",
+      "english": "Goodbye.",
+      "forms": ""
+     },
+     {
+      "id": 37362640,
+      "german": "Bis bald.",
+      "english": "See you soon.",
+      "forms": ""
+     },
+     {
+      "id": 37363702,
+      "german": "danke schön",
+      "english": "Thank you!",
+      "forms": ""
+     },
+     {
+      "id": 37362641,
+      "german": "Gute Reise.",
+      "english": "Have a good trip!",
+      "forms": ""
+     },
+     {
+      "id": 37365386,
+      "german": "die Hilfe, die Hilfen",
+      "english": "help",
+      "forms": ""
+     },
+     {
+      "id": 37362937,
+      "german": "ja",
+      "english": "yes",
+      "forms": ""
+     },
+     {
+      "id": 37362644,
+      "german": "Mach’s gut!",
+      "english": "So long!; Take care!",
+      "forms": ""
+     },
+     {
+      "id": 37363547,
+      "german": "die Tasche, die Taschen",
+      "english": "bag",
+      "forms": ""
+     },
+     {
+      "id": 37362645,
+      "german": "Tschüss.",
+      "english": "Bye.",
+      "forms": ""
+     },
+     {
+      "id": 37363808,
+      "german": "Vielen Dank!",
+      "english": "Many thanks!",
+      "forms": ""
+     }
+    ]
+   },
    "exercises": [
     {
      "id": "e-37255725",
@@ -206,8 +271,9 @@
      "title": "Informal and formal (2)",
      "texts": [
       "Informal and formal (2)",
-      "Saying goodbye: informal\nnull DW\nTschüss, Martina! – Mach's gut!\nBis bald! – Tschüss!\nThe informal expressions for saying goodbye are used with family, friends and acquaintances, and often with colleagues.\nFriends, acquaintances and family members are addressed by their first names.\nSaying goodbye: formal\nnull DW\nAuf Wiedersehen, Herr Tillmanns! – Auf Wiedersehen!\nThe formal expression for saying goodbye is used with unfamiliar adults, in business situations, with officials, and when shopping.\nMen are addressed formally as Herr followed by their surname, women as Frau followed by their surname.\nIf you are unsure whether to be formal or informal, use the formal expression for saying goodbye.\nGrammatical terms in German:\ninformell: Informal language is used when talking to family and friends.\nformell: Formal language is used in formal situations."
-     ]
+      "Saying goodbye: informal\nTschüss, Martina! – Mach's gut!\nBis bald! – Tschüss!\nThe informal expressions for saying goodbye are used with family, friends and acquaintances, and often with colleagues.\nFriends, acquaintances and family members are addressed by their first names.\nSaying goodbye: formal\nAuf Wiedersehen, Herr Tillmanns! – Auf Wiedersehen!\nThe formal expression for saying goodbye is used with unfamiliar adults, in business situations, with officials, and when shopping.\nMen are addressed formally as Herr followed by their surname, women as Frau followed by their surname.\nIf you are unsure whether to be formal or informal, use the formal expression for saying goodbye.\nGrammatical terms in German:\ninformell: Informal language is used when talking to family and friends.\nformell: Formal language is used in formal situations."
+     ],
+     "html": "<p><strong>Saying goodbye: informal</strong></p>\n\n\n\n<p><em>Tschüss, Martina!</em> – <em>Mach's gut!</em></p>\n\n<p><em>Bis bald! – Tschüss!</em></p>\n\n<ul>\n\t<li>The informal expressions for saying goodbye are used with family, friends and acquaintances, and often with colleagues.</li>\n\t<li>Friends, acquaintances and family members are addressed by their first names.</li>\n</ul>\n\n<p>&#160;</p>\n\n<p><strong>Saying goodbye: formal</strong></p>\n\n\n\n<p><strong><span id=\"ck_editor_caret_marker\" style=\"display:none\"></span></strong></p>\n\n<p><em>Auf Wiedersehen, Herr Tillmanns! – Auf Wiedersehen!</em></p>\n\n<ul>\n\t<li>The formal expression for saying goodbye is used with unfamiliar adults, in business situations, with officials, and when shopping.</li>\n\t<li>Men are addressed formally as <em>Herr</em> followed by their surname, women as <em>Frau</em> followed by their surname.</li>\n\t<li>If you are unsure whether to be formal or informal, use the formal expression for saying goodbye.</li>\n</ul>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>Grammatical terms in German:</p>\n\n\t\t\t<p>informell:&#160;Informal language is used when talking to family and friends.</p>\n\n\t\t\t<p>formell:&#160;Formal language is used in formal situations.</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n"
     },
     {
      "id": "rs-39371009",
@@ -215,8 +281,9 @@
      "title": "Saying goodbye",
      "texts": [
       "Saying goodbye",
-      "null iStockphoto\nFormal:\nAuf Wiedersehen!\nWhen you say farewell or goodbye in a formal way, you can also shake hands, just as you might when you greet someone.\nDepending on the context, if you want to be very polite you can also say Vielen Dank (thank you). For example:\nVielen Dank für Ihre Hilfe – when someone has helped you\nVielen Dank für den netten Abend – when you've had a nice evening together\nInformal:\nTschüss!\nThis is the most common way of saying goodbye. These days it is used throughout Germany.\nMost people say goodbye informally in various ways:\nCiao! – especially popular among young people\nBis bald! – when you will see someone again soon\nWir sehen uns! – what friends say to each other when they see each other regularly\nMach's gut! – a relaxed way of saying goodbye when you want to wish the other person luck\nSpecial cases:\nEinen schönen Tag noch! – a polite goodbye, especially used in shops\nAuf Wiederhören! – a formal goodbye on the telephone\nRegional variations:\nServus! – In southern Germany and Austria, it's not only used to say \"hello\", but also to say \"goodbye\"\nTschö! – in the Rhineland in western Germany"
-     ]
+      "Formal:\nAuf Wiedersehen!\nWhen you say farewell or goodbye in a formal way, you can also shake hands, just as you might when you greet someone.\nDepending on the context, if you want to be very polite you can also say Vielen Dank (thank you). For example:\nVielen Dank für Ihre Hilfe – when someone has helped you\nVielen Dank für den netten Abend – when you've had a nice evening together\nInformal:\nTschüss!\nThis is the most common way of saying goodbye. These days it is used throughout Germany.\nMost people say goodbye informally in various ways:\nCiao! – especially popular among young people\nBis bald! – when you will see someone again soon\nWir sehen uns! – what friends say to each other when they see each other regularly\nMach's gut! – a relaxed way of saying goodbye when you want to wish the other person luck\nSpecial cases:\nEinen schönen Tag noch! – a polite goodbye, especially used in shops\nAuf Wiederhören! – a formal goodbye on the telephone\nRegional variations:\nServus! – In southern Germany and Austria, it's not only used to say \"hello\", but also to say \"goodbye\"\nTschö! – in the Rhineland in western Germany"
+     ],
+     "html": "<p></p>\n\n<p><strong>Formal:</strong></p>\n\n<p><em>Auf Wiedersehen!</em></p>\n\n<p>When you say farewell or goodbye in a formal way, you can also shake hands, just as you might when you greet someone.</p>\n\n<p>Depending on the context, if you want to be very polite you can also say <em>Vielen Dank</em> (thank you). For example:</p>\n\n<p><em>Vielen Dank für Ihre Hilfe</em> – when someone has helped you</p>\n\n<p><em>Vielen Dank für den netten Abend</em> – when you've had a nice evening together</p>\n\n<p>&#160;</p>\n\n<p><strong>Informal:</strong></p>\n\n<p><em>Tschüss!</em></p>\n\n<p>This is the most common way of saying goodbye. These days it is used throughout Germany.</p>\n\n<p>Most people say goodbye informally in various ways:</p>\n\n<p><em>Ciao!</em> – especially popular among young people</p>\n\n<p><em>Bis bald!</em> – when you will see someone again soon</p>\n\n<p><em>Wir sehen uns!</em> – what friends say to each other when they see each other regularly</p>\n\n<p><em>Mach's gut!</em> – a relaxed way of saying goodbye when you want to wish the other person luck</p>\n\n<p>&#160;</p>\n\n<p><strong>Special cases:</strong></p>\n\n<p><em>Einen schönen Tag noch!</em> – a polite goodbye, especially used in shops</p>\n\n<p><em>Auf Wiederhören!</em> – a formal goodbye on the telephone</p>\n\n<p>&#160;</p>\n\n<p><strong>Regional variations:</strong></p>\n\n<p><em>Servus!</em> – In southern Germany and Austria, it's not only used to say \"hello\", but also to say \"goodbye\"</p>\n\n<p><em>Tschö!</em> – in the Rhineland in western Germany</p>\n"
     }
    ]
   },

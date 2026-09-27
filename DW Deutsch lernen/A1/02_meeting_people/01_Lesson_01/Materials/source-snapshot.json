@@ -1,12 +1,125 @@
 {
  "description": "Official source text captured by ANKI/harvest_sources.py for offline context verification.",
- "harvestedOn": "2026-09-25",
+ "harvestedOn": "2026-09-27",
  "sources": [
   {
    "id": "exercises",
    "kind": "dw-exercises",
    "url": "https://learngerman.dw.com/en/ich-heiße-emma/l-37262882",
    "lessonUrl": "https://learngerman.dw.com/en/ich-heiße-emma/l-37262882",
+   "vocabulary": {
+    "url": "https://learngerman.dw.com/en/ich-heiße-emma/l-37262882/lv",
+    "items": [
+     {
+      "id": 37364739,
+      "german": "aber",
+      "english": "but",
+      "forms": ""
+     },
+     {
+      "id": 37368899,
+      "german": "Das ist Nico.",
+      "english": "That/this is Nico.",
+      "forms": ""
+     },
+     {
+      "id": 37364780,
+      "german": "der Deutschlehrer, die Deutschlehrer",
+      "english": "German teacher (male)",
+      "forms": ""
+     },
+     {
+      "id": 37364803,
+      "german": "die Deutschlehrerin, die Deutschlehrerinnen",
+      "english": "German teacher (female)",
+      "forms": ""
+     },
+     {
+      "id": 37364610,
+      "german": "du",
+      "english": "you (informal)",
+      "forms": ""
+     },
+     {
+      "id": 40875165,
+      "german": "Du bist Emma.",
+      "english": "You are Emma.",
+      "forms": ""
+     },
+     {
+      "id": 37364618,
+      "german": "heißen",
+      "english": "to be called; to be named",
+      "forms": "heißt, hieß, hat geheißen"
+     },
+     {
+      "id": 37364670,
+      "german": "ich",
+      "english": "I",
+      "forms": ""
+     },
+     {
+      "id": 37364683,
+      "german": "Ich bin …",
+      "english": "I am ...",
+      "forms": ""
+     },
+     {
+      "id": 37364688,
+      "german": "Ich heiße Nico.",
+      "english": "My name is Nico.",
+      "forms": ""
+     },
+     {
+      "id": 37365084,
+      "german": "jetzt",
+      "english": "now",
+      "forms": ""
+     },
+     {
+      "id": 37386743,
+      "german": "Oder?",
+      "english": "Or not?; Isn't that right?",
+      "forms": ""
+     },
+     {
+      "id": 37363566,
+      "german": "weg",
+      "english": "gone",
+      "forms": ""
+     },
+     {
+      "id": 37365763,
+      "german": "wer",
+      "english": "who",
+      "forms": ""
+     },
+     {
+      "id": 37364709,
+      "german": "Wer bist du?",
+      "english": "Who are you? (informal)",
+      "forms": ""
+     },
+     {
+      "id": 37364713,
+      "german": "Wer sind Sie?",
+      "english": "Who are you? (formal)",
+      "forms": ""
+     },
+     {
+      "id": 37364730,
+      "german": "Wie heißen Sie?",
+      "english": "What is your name? (formal)",
+      "forms": ""
+     },
+     {
+      "id": 37364731,
+      "german": "Wie heißt du?",
+      "english": "What is your name? (informal)",
+      "forms": ""
+     }
+    ]
+   },
    "exercises": [
     {
      "id": "e-43702442",
@@ -150,8 +263,9 @@
      "title": "Meeting Germans",
      "texts": [
       "Meeting Germans",
-      "null iStockphoto\nIn Germany, if you don't know someone, then it is polite to maintain your distance and respect the person's space. Of course, it also depends what sort of person you are dealing with; young people are often more open than older people. Generally speaking, people do not necessarily become acquainted or make friends on the street, in the park, or at the bus stop.\nIt's more common for people to get to know each other if they are doing an activity together, at work or in their leisure time. People get acquainted while doing an internship, for example, or participating in a soccer club, at a neighborhood or work party, and these meetings can develop into friendships. In Germany, that sometimes takes a while, but shared interests and liking each other help, and it's worth the effort."
-     ]
+      "In Germany, if you don't know someone, then it is polite to maintain your distance and respect the person's space. Of course, it also depends what sort of person you are dealing with; young people are often more open than older people. Generally speaking, people do not necessarily become acquainted or make friends on the street, in the park, or at the bus stop.\nIt's more common for people to get to know each other if they are doing an activity together, at work or in their leisure time. People get acquainted while doing an internship, for example, or participating in a soccer club, at a neighborhood or work party, and these meetings can develop into friendships. In Germany, that sometimes takes a while, but shared interests and liking each other help, and it's worth the effort."
+     ],
+     "html": "\n\n<p>In Germany, if you don't know someone, then it is polite to maintain your distance and respect the person's space. Of course, it also depends what sort of person you are dealing with; young people are often more open than older people. Generally speaking, people do not necessarily become acquainted or make friends on the street, in the park, or at the bus stop.</p>\n\n<p>It's more common for people to get to know each other if they are doing an activity together, at work or in their leisure time. People get acquainted while doing an internship, for example, or participating in a soccer club, at a neighborhood or work party, and these meetings can develop into friendships. In Germany, that sometimes takes a while, but shared interests and liking each other help, and it's worth the effort.</p>\n"
     },
     {
      "id": "gr-38320451",
@@ -159,8 +273,9 @@
      "title": "Personal pronouns: ich, du",
      "texts": [
       "Personal pronouns: ich, du",
-      "null DW\nHallo, ich heiße Nico. Und wie heißt du? – Ich heiße Emma.\nSingular\n1st person\nich heiße\nnull DW\nHallo, ich heiße Nico. Und wie heißt du? – Ich heiße Emma.\nSingular\n2nd person\ndu heißt"
-     ]
+      "Hallo, ich heiße Nico. Und wie heißt du? – Ich heiße Emma.\nSingular\n1st person\nich heiße\nHallo, ich heiße Nico. Und wie heißt du? – Ich heiße Emma.\nSingular\n2nd person\ndu heißt"
+     ],
+     "html": "\n\n<p><em>Hallo,<strong> ich</strong> heiße Nico. Und wie heißt du? – <strong>Ich</strong> heiße Emma.</em></p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>Singular</td>\n\t\t\t<td>1st person</td>\n\t\t\t<td><strong>ich </strong>heiße</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&#160;</p>\n\n\n\n<p><em>Hallo,<strong> </strong>ich heiße Nico. Und wie heißt <strong>du</strong>? – Ich heiße Emma.</em></p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>Singular</td>\n\t\t\t<td>2nd person</td>\n\t\t\t<td><strong>du </strong>heißt</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&#160;</p>\n\n\n"
     },
     {
      "id": "gr-38320692",
@@ -169,7 +284,8 @@
      "texts": [
       "Personal pronouns: Sie",
       "Unfamiliar adults are addressed in the first instance with Sie.\nThis formal address is also used in different formal situations, e.g. at the doctor's or with officials.\nIch heiße Lisa Brunner. Und wie heißen Sie? – Ich heiße Sigi Körner.\nThe formal address is the same in the singular and plural:\nSingular\nformal address\nSie heißen\nPlural\nformal address\nSie heißen\nWie heißen Sie? – Ich heiße Sigi Körner.\nWie heißen Sie? – Ich heiße Lisa Brunner, und das ist Nicolás González.\nThe formal address is always written with a capital letter.\nGrammatical terms in German:\ndas Personalpronomen: Personal pronouns refer to people or things. The words ich, du and Sie are examples of personal pronouns.\nder Singular: The singular is used when we are talking about one individual person or thing.\nder Plural: The plural is used when we are talking about several people or things."
-     ]
+     ],
+     "html": "<p>Unfamiliar adults are addressed in the first instance with&#160;<em>Sie</em>.</p>\n\n<p>This formal address is also used in different formal situations, e.g. at the doctor's or with officials.</p>\n\n\n\n<p><em>Ich heiße Lisa Brunner. Und wie heißen <strong>Sie</strong>? – Ich heiße Sigi Körner.</em></p>\n\n<p>&#160;</p>\n\n<p>The formal address is the same in the singular and plural:</p>\n\n\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>Singular</td>\n\t\t\t<td>formal address</td>\n\t\t\t<td><strong>Sie </strong>heißen</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Plural</td>\n\t\t\t<td>formal address</td>\n\t\t\t<td><strong>Sie </strong>heißen</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&#160;</p>\n\n<p><em>Wie heißen <strong>Sie</strong>? – Ich heiße Sigi Körner.</em></p>\n\n<p><em>Wie heißen <strong>Sie</strong>? – Ich heiße Lisa Brunner, und das ist Nicolás González.</em></p>\n\n<p>The formal address is always written with a capital letter.</p>\n\n<p>&#160;</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>Grammatical terms in German:</p>\n\n\t\t\t<p>das Personalpronomen: Personal pronouns refer to people or things. The words <em>ich,</em> <em>du</em> and <em>Sie</em> are examples of personal pronouns.</p>\n\n\t\t\t<p>der Singular: The singular is used when we are talking about one individual person or thing.</p>\n\t\t\tder Plural: The plural is used when we are talking about several people or things.</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&#160;</p>\n"
     }
    ]
   },

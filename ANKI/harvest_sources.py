@@ -2,7 +2,8 @@
 """Snapshot official lesson sources into Materials/ so deck builds can verify contexts offline.
 
 Network step, run manually: `python3 ANKI/harvest_sources.py --lesson <lesson-id>` (or `--all`).
-Needs `pdftotext` (poppler) for PDF sources. Builders never use the network.
+Needs `pdftotext` (poppler) for PDF sources and `pandoc` for a DW lesson's readable `Materials/lesson-pages.md`.
+Builders never use the network.
 """
 
 from __future__ import annotations
@@ -24,6 +25,8 @@ ROOT = Path(__file__).resolve().parent.parent
 LESSONS = ROOT / "ANKI" / "lesson-vocabulary.json"
 USER_AGENT = "Mozilla/5.0 (German-learning source snapshot)"
 APOLLO_RE = re.compile(r"window.__APOLLO_STATE__\s*=\s*(\{.*?\});?\s*</script>", re.S)
+FIGURE_RE = re.compile(r"<figure\b.*?</figure>", re.S)  # images; their caption is only a photo credit ("null DW")
+LESSON_PAGES = "lesson-pages.md"
 
 
 def fetch(url: str) -> bytes:
@@ -33,7 +36,7 @@ def fetch(url: str) -> bytes:
 
 
 def clean_text(fragment: str) -> str:
-    text = re.sub(r"<br\s*/?>|</p>|</li>", "\n", fragment)
+    text = re.sub(r"<br\s*/?>|</p>|</li>", "\n", FIGURE_RE.sub("", fragment))
     text = html.unescape(re.sub(r"<[^>]+>", "", text))
     return "\n".join(re.sub(r"[ \t ]+", " ", line).strip() for line in text.splitlines() if line.strip())
 
@@ -48,27 +51,46 @@ def pdf_lines(path: Path) -> list[str]:
     return lines
 
 
-def apollo(url: str) -> dict:
-    match = APOLLO_RE.search(fetch(url).decode("utf-8", "ignore"))
+def parse_apollo(page: str, url: str) -> dict:
+    match = APOLLO_RE.search(page)
     if not match:
         raise RuntimeError(f"No embedded data at {url}")
     return json.loads(match.group(1))
 
 
+def apollo(url: str) -> dict:
+    return parse_apollo(fetch(url).decode("utf-8", "ignore"), url)
+
+
 def dw_knowledge_page(url: str) -> dict:
-    """Grammar (gr-) and culture (rs-) pages: the page's own Knowledge text."""
+    """Grammar (gr-) and culture (rs-) pages: the page's own Knowledge text, plus its HTML for lesson-pages.md."""
     page_id = url.rsplit("-", 1)[-1]
     state = apollo(url)
     knowledge = state.get(f"Knowledge:{page_id}", {})
     texts = [clean_text(knowledge[field]) for field in ("name", "teaser", "text") if isinstance(knowledge.get(field), str)]
-    return {"id": url.rsplit("/", 1)[-1], "url": url, "title": knowledge.get("name") or "", "texts": [t for t in texts if t]}
+    return {"id": url.rsplit("/", 1)[-1], "url": url, "title": knowledge.get("name") or "", "texts": [t for t in texts if t],
+            "html": FIGURE_RE.sub("", knowledge.get("text") or "")}
 
 
-def dw_exercises(lesson_url: str) -> dict:
-    """Collect correct exercise texts, grammar and culture pages from a DW lesson."""
+def dw_vocabulary(state: dict) -> list[dict]:
+    """The lesson's vocabulary page (/lv) in page order: German, official English, and forms (plural or principal parts)."""
+    lesson = next(value for key, value in state.items() if key.startswith("Lesson:"))
+    items = []
+    for ref in lesson.get("vocabularies") or []:
+        knowledge = state[ref["__ref"]]
+        items.append({"id": knowledge["id"], "german": clean_text(knowledge.get("name") or ""),
+                      "english": clean_text(knowledge.get("text") or ""), "forms": clean_text(knowledge.get("subTitle") or "")})
+    return items
+
+
+def dw_lesson(lesson_url: str) -> dict:
+    """Collect a DW lesson's vocabulary page, correct exercise texts, grammar and culture pages."""
     base = lesson_url.rstrip("/")
     lesson_id = re.search(r"/l-(\d+)", base).group(1)
     page = fetch(base + "/lv").decode("utf-8", "ignore")
+    vocabulary = {"url": base + "/lv", "items": dw_vocabulary(parse_apollo(page, base + "/lv"))}
+    if not vocabulary["items"]:
+        raise RuntimeError(f"No vocabulary items at {vocabulary['url']}; check the lesson URL")
     paths = sorted(set(re.findall(rf'/en/[^"\s]*/l-{lesson_id}/e-\d+', page)))
     knowledge_paths = sorted(set(re.findall(rf'/en/[^"\s]*/l-{lesson_id}/(?:gr|rs)-\d+', page)))
     pages = [dw_knowledge_page("https://learngerman.dw.com" + path) for path in knowledge_paths]
@@ -91,7 +113,57 @@ def dw_exercises(lesson_url: str) -> dict:
         exercises.append({"id": path.rsplit("/", 1)[-1], "url": url, "title": exercise.get("name", ""),
                           "texts": [text for text in texts if text], "vocabularyTags": tags})
         time.sleep(0.3)
-    return {"lessonUrl": base, "exercises": exercises, "pages": pages}
+    return {"lessonUrl": base, "vocabulary": vocabulary, "exercises": exercises, "pages": pages}
+
+
+def markdown_cell(text: str) -> str:
+    return text.replace("|", "\\|").replace("\n", " ")
+
+
+def html_to_markdown(fragment: str) -> str:
+    """Pandoc GFM; paragraphs inside table cells are joined with " · " so pandoc can emit a pipe table, not raw HTML."""
+    fragment = re.sub(r'<span id="ck_editor_caret_marker"[^>]*></span>', "", fragment)
+    fragment = re.sub(r"<td([^>]*)>(.*?)</td>", lambda m: "<td%s>%s</td>" % (m.group(1), " · ".join(
+        part.strip() for part in re.split(r"</?p[^>]*>", re.sub(r"<br\s*/?>", " ", m.group(2))) if part.strip())),
+        fragment, flags=re.S)
+    result = subprocess.run(["pandoc", "-f", "html", "-t", "gfm", "--wrap=none", "--shift-heading-level-by=2"],
+                            input=fragment, check=True, capture_output=True, text=True)
+    return result.stdout.strip()
+
+
+def lesson_pages_markdown(label: str, record: dict, harvested_on: str) -> str:
+    """Readable copy of a DW lesson's vocabulary, grammar and culture pages (the snapshot holds the same text)."""
+    parts = [f"# {label}: vocabulary, grammar and culture pages", "",
+             f"Copied from learngerman.dw.com on {harvested_on} by `ANKI/harvest_sources.py`; do not edit, rerun it. "
+             "The same text is in `source-snapshot.json`.", "",
+             "## Vocabulary", "", f"<{record['vocabulary']['url']}>", "",
+             "| German | English | Forms |", "|---|---|---|"]
+    parts += [f"| {markdown_cell(item['german'])} | {markdown_cell(item['english'])} | {markdown_cell(item['forms'])} |"
+              for item in record["vocabulary"]["items"]]
+    for prefix, heading in (("gr-", "Grammar"), ("rs-", "Culture")):
+        for page in record["pages"]:
+            if page["id"].startswith(prefix):
+                parts += ["", f"## {heading}: {page['title'].strip()}", "", f"<{page['url']}>", "", html_to_markdown(page["html"])]
+    return "\n".join(parts) + "\n"
+
+
+def lesson_pages_for(lesson: dict) -> tuple[Path, str] | None:
+    """(path, content) of a DW lesson's Materials/lesson-pages.md, rendered from its saved snapshot."""
+    target = ROOT / lesson["snapshot"]
+    snapshot = json.loads(target.read_text(encoding="utf-8")) if target.exists() else {"sources": []}
+    record = next((source for source in snapshot.get("sources", []) if source.get("kind") == "dw-exercises"), None)
+    if not record or "vocabulary" not in record:
+        return None
+    label = f"DW {lesson['level']} E{lesson['unit']} L{lesson['lesson']} · {lesson['title']}"
+    return target.parent / LESSON_PAGES, lesson_pages_markdown(label, record, snapshot["harvestedOn"])
+
+
+def write_lesson_pages(lesson: dict) -> None:
+    rendered = lesson_pages_for(lesson)
+    if rendered:
+        path, content = rendered
+        path.write_text(content, encoding="utf-8")
+        print(f"readable copy {path.relative_to(ROOT)}")
 
 
 def snapshot_source(source: dict) -> dict:
@@ -109,7 +181,7 @@ def snapshot_source(source: dict) -> dict:
         record["sha256"] = hashlib.sha256(local.read_bytes()).hexdigest()
         record["lines"] = pdf_lines(local)
     elif kind == "dw-exercises":
-        record.update(dw_exercises(source["url"]))
+        record.update(dw_lesson(source["url"]))
     else:
         raise RuntimeError(f"Unknown source kind: {kind}")
     return record
@@ -188,19 +260,29 @@ def main() -> None:
     group.add_argument("--lesson", action="append", help="lesson id from lesson-vocabulary.json")
     group.add_argument("--all", action="store_true", help="every lesson that declares sources")
     group.add_argument("--glosses", action="store_true", help="check non-official English meanings against en.wiktionary")
+    group.add_argument("--pages", action="store_true",
+                       help="offline: rewrite each DW lesson's Materials/lesson-pages.md from its saved snapshot")
     args = parser.parse_args()
 
     data = json.loads(LESSONS.read_text(encoding="utf-8"))
     if args.glosses:
         snapshot_glosses(data)
         return
+    if args.pages:
+        for course in data["courses"]:
+            for lesson in course["lessons"]:
+                if course["id"] == "dw-nicos-weg":
+                    write_lesson_pages(lesson)
+        return
     snapshots: dict[str, list[dict]] = {}
+    harvested: list[dict] = []
     lesson_ids = set(args.lesson or [])
     for course in data["courses"]:
         for lesson in course["lessons"]:
             if args.all or lesson["id"] in lesson_ids:
                 bucket = snapshots.setdefault(lesson["snapshot"], [])
                 bucket.extend(source for source in lesson.get("sources", []) if source not in bucket)
+                harvested.append(lesson)
     missing = lesson_ids - {lesson["id"] for course in data["courses"] for lesson in course["lessons"]}
     if missing:
         sys.exit(f"Unknown lesson id(s): {', '.join(sorted(missing))}")
@@ -218,6 +300,8 @@ def main() -> None:
             "harvestedOn": time.strftime("%Y-%m-%d"),
             "sources": [by_id[key] for key in sorted(by_id)],
         }, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+    for lesson in harvested:
+        write_lesson_pages(lesson)
 
 
 if __name__ == "__main__":

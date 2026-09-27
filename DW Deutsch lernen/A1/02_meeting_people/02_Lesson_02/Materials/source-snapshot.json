@@ -1,12 +1,119 @@
 {
  "description": "Official source text captured by ANKI/harvest_sources.py for offline context verification.",
- "harvestedOn": "2026-09-25",
+ "harvestedOn": "2026-09-27",
  "sources": [
   {
    "id": "exercises",
    "kind": "dw-exercises",
    "url": "https://learngerman.dw.com/en/das-ist-nico/l-37262923",
    "lessonUrl": "https://learngerman.dw.com/en/das-ist-nico/l-37262923",
+   "vocabulary": {
+    "url": "https://learngerman.dw.com/en/das-ist-nico/l-37262923/lv",
+    "items": [
+     {
+      "id": 37367069,
+      "german": "das Beispiel, die Beispiele",
+      "english": "example",
+      "forms": ""
+     },
+     {
+      "id": 37364669,
+      "german": "(das) Deutsch",
+      "english": "German (language)",
+      "forms": "nur Singular, selten mit Artikel"
+     },
+     {
+      "id": 37364712,
+      "german": "er",
+      "english": "he",
+      "forms": ""
+     },
+     {
+      "id": 37364724,
+      "german": "der Familienname, die Familiennamen",
+      "english": "last name; surname",
+      "forms": ""
+     },
+     {
+      "id": 37364890,
+      "german": "(jemandem) helfen",
+      "english": "to help someone",
+      "forms": "hilft, half, hat geholfen"
+     },
+     {
+      "id": 37365006,
+      "german": "in",
+      "english": "in",
+      "forms": ""
+     },
+     {
+      "id": 38083347,
+      "german": "Keine Ahnung.",
+      "english": "no idea",
+      "forms": "Kurzform von: Ich habe keine Ahnung."
+     },
+     {
+      "id": 37365236,
+      "german": "der Kurs, die Kurse",
+      "english": "course",
+      "forms": ""
+     },
+     {
+      "id": 37367067,
+      "german": "(etwas) lernen",
+      "english": "to learn (something)",
+      "forms": "lernt, lernte, hat gelernt"
+     },
+     {
+      "id": 37367221,
+      "german": "sie",
+      "english": "she",
+      "forms": ""
+     },
+     {
+      "id": 37367245,
+      "german": "die Sprache, die Sprachen",
+      "english": "language",
+      "forms": ""
+     },
+     {
+      "id": 37362758,
+      "german": "der Taxifahrer, die Taxifahrer",
+      "english": "taxi driver (male)",
+      "forms": ""
+     },
+     {
+      "id": 40875121,
+      "german": "Er ist Taxifahrer.",
+      "english": "He is a cabdriver/taxi driver.",
+      "forms": ""
+     },
+     {
+      "id": 37362408,
+      "german": "die Taxifahrerin, die Taxifahrerinnen",
+      "english": "taxi driver (female)",
+      "forms": ""
+     },
+     {
+      "id": 40875125,
+      "german": "Sie ist Taxifahrerin.",
+      "english": "She is a cabdriver/taxi driver.",
+      "forms": ""
+     },
+     {
+      "id": 37367314,
+      "german": "der Vorname, die Vornamen",
+      "english": "first name; given name",
+      "forms": ""
+     },
+     {
+      "id": 37363828,
+      "german": "woher",
+      "english": "where; from where",
+      "forms": ""
+     }
+    ]
+   },
    "exercises": [
     {
      "id": "e-37264626",
@@ -180,8 +287,9 @@
      "title": "And what's your name?",
      "texts": [
       "And what's your name?",
-      "null iStockphoto\nAt any given time, some names are more fashionable than others, and Germany is no exception. If you ask people who were born in the 1960s what their names are, the women will often be Elisabeth, Petra, Claudia, Sabine or Karin. At that time, men were often called Stefan, Thomas, Michael, Frank, Martin and Christian.\nToday, names are completely different. In the past few years, the names Laura, Anna, Lara, and Lea have topped the list for girls. For boys, it's Jonas, Luca, Elias, and Tim.\nInterestingly, children are now given names that were popular a long time ago, like Marie, Sophie, Alexander and Paul. So, many German children now share the same names as their great-grandparents.\nOther names have always been fashionable: given names like Max and Anna, for example, are common in any generation."
-     ]
+      "At any given time, some names are more fashionable than others, and Germany is no exception. If you ask people who were born in the 1960s what their names are, the women will often be Elisabeth, Petra, Claudia, Sabine or Karin. At that time, men were often called Stefan, Thomas, Michael, Frank, Martin and Christian.\nToday, names are completely different. In the past few years, the names Laura, Anna, Lara, and Lea have topped the list for girls. For boys, it's Jonas, Luca, Elias, and Tim.\nInterestingly, children are now given names that were popular a long time ago, like Marie, Sophie, Alexander and Paul. So, many German children now share the same names as their great-grandparents.\nOther names have always been fashionable: given names like Max and Anna, for example, are common in any generation."
+     ],
+     "html": "\n\n<p>At any given time, some names are more fashionable than others, and Germany is no exception. If you ask people who were born in the 1960s what their names are, the women will often be Elisabeth, Petra, Claudia, Sabine or Karin. At that time, men were often called Stefan, Thomas, Michael, Frank, Martin and Christian.</p>\n\n<p>Today, names are completely different. In the past few years, the names Laura, Anna, Lara, and Lea have topped the list for girls. For boys, it's Jonas, Luca, Elias, and Tim.</p>\n\n<p>Interestingly, children are now given names that were popular a long time ago, like Marie, Sophie, Alexander and Paul. So, many German children now share the same names as their great-grandparents.</p>\n\n<p>Other names have always been fashionable: given names like Max and Anna, for example, are common in any generation.</p>\n"
     }
    ]
   },

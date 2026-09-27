@@ -1,12 +1,161 @@
 {
  "description": "Official source text captured by ANKI/harvest_sources.py for offline context verification.",
- "harvestedOn": "2026-09-25",
+ "harvestedOn": "2026-09-27",
  "sources": [
   {
    "id": "exercises",
    "kind": "dw-exercises",
    "url": "https://learngerman.dw.com/en/nico-hat-ein-problem/l-37265543",
    "lessonUrl": "https://learngerman.dw.com/en/nico-hat-ein-problem/l-37265543",
+   "vocabulary": {
+    "url": "https://learngerman.dw.com/en/nico-hat-ein-problem/l-37265543/lv",
+    "items": [
+     {
+      "id": 40974829,
+      "german": "die Arbeit",
+      "english": "work; a job",
+      "forms": "hier nur Singular"
+     },
+     {
+      "id": 37364473,
+      "german": "das Auto, die Autos",
+      "english": "car; automobile",
+      "forms": ""
+     },
+     {
+      "id": 37368978,
+      "german": "das Café, die Cafés",
+      "english": "cafe",
+      "forms": ""
+     },
+     {
+      "id": 40021299,
+      "german": "es",
+      "english": "it",
+      "forms": ""
+     },
+     {
+      "id": 37368826,
+      "german": "das Fahrradgeschäft, die Fahrradgeschäfte",
+      "english": "bicycle store",
+      "forms": ""
+     },
+     {
+      "id": 37362367,
+      "german": "die Familie, die Familien",
+      "english": "family",
+      "forms": ""
+     },
+     {
+      "id": 37369036,
+      "german": "das Foto, die Fotos",
+      "english": "photo",
+      "forms": ""
+     },
+     {
+      "id": 37369068,
+      "german": "der Freund, die Freunde",
+      "english": "friend (male)",
+      "forms": ""
+     },
+     {
+      "id": 37369119,
+      "german": "die Freundin, die Freundinnen",
+      "english": "friend (female)",
+      "forms": ""
+     },
+     {
+      "id": 37365345,
+      "german": "etwas haben",
+      "english": "to have something",
+      "forms": "hat, hatte, hat gehabt"
+     },
+     {
+      "id": 44853718,
+      "german": "Hier ist …",
+      "english": "This is...",
+      "forms": ""
+     },
+     {
+      "id": 39693556,
+      "german": "ihr",
+      "english": "you (plural, informal)",
+      "forms": ""
+     },
+     {
+      "id": 37367320,
+      "german": "die Mutter, die Mütter",
+      "english": "mother",
+      "forms": ""
+     },
+     {
+      "id": 37367365,
+      "german": "die Nummer, die Nummern",
+      "english": "number",
+      "forms": ""
+     },
+     {
+      "id": 37365514,
+      "german": "der Papa, die Papas",
+      "english": "dad",
+      "forms": ""
+     },
+     {
+      "id": 37369380,
+      "german": "der Pass, die Pässe",
+      "english": "passport",
+      "forms": "Kurzform von: Reisepass"
+     },
+     {
+      "id": 37379168,
+      "german": "der Polizist, die Polizisten",
+      "english": "police officer (male)",
+      "forms": ""
+     },
+     {
+      "id": 44287478,
+      "german": "die Polizistin, die Polizistinnen",
+      "english": "police officer (female)",
+      "forms": ""
+     },
+     {
+      "id": 37368827,
+      "german": "richtig",
+      "english": "correct; right",
+      "forms": ""
+     },
+     {
+      "id": 37365141,
+      "german": "sein",
+      "english": "to be",
+      "forms": "ist, war, ist gewesen"
+     },
+     {
+      "id": 40930798,
+      "german": "sie",
+      "english": "they",
+      "forms": ""
+     },
+     {
+      "id": 37367265,
+      "german": "sprechen",
+      "english": "to speak",
+      "forms": "spricht, sprach, hat gesprochen"
+     },
+     {
+      "id": 37367267,
+      "german": "etwas suchen",
+      "english": "to search for something; to look for something",
+      "forms": "sucht, suchte, hat gesucht"
+     },
+     {
+      "id": 37368190,
+      "german": "der Vater, die Väter",
+      "english": "father",
+      "forms": ""
+     }
+    ]
+   },
    "exercises": [
     {
      "id": "e-37266248",
@@ -281,8 +430,9 @@
      "title": "Communication at offices and agencies",
      "texts": [
       "Communication at offices and agencies",
-      "null picture-alliance/dpa\nIf you have some business to do at an administration office, like the employment office or the local residents' registration office, then very polite language is called for. Here you greet an official or clerk with \"Guten Tag\". You shake hands only when the person offers his or her hand; otherwise, you do not.\nYou must address that person with \"Sie\" and you will also be addressed formally. Eye contact is also very important. When you say hello and goodbye, you look the person in the eye. You should ask your questions and make your requests politely, and you should thank the clerk for the information or help that they have given you. You say goodbye by saying \"Auf Wiedersehen!\"."
-     ]
+      "If you have some business to do at an administration office, like the employment office or the local residents' registration office, then very polite language is called for. Here you greet an official or clerk with \"Guten Tag\". You shake hands only when the person offers his or her hand; otherwise, you do not.\nYou must address that person with \"Sie\" and you will also be addressed formally. Eye contact is also very important. When you say hello and goodbye, you look the person in the eye. You should ask your questions and make your requests politely, and you should thank the clerk for the information or help that they have given you. You say goodbye by saying \"Auf Wiedersehen!\"."
+     ],
+     "html": "\n\n<p>If you have some business to do at an administration office, like the employment office or the local residents' registration office, then very polite language is called for. Here you greet an official or clerk with \"<em>Guten Tag</em>\". You shake hands only when the person offers his or her hand; otherwise, you do not.</p>\n\n<p>You must address that person with \"<em>Sie</em>\" and you will also be addressed formally. Eye contact is also very important. When you say hello and goodbye, you look the person in the eye. You should ask your questions and make your requests politely, and you should thank the clerk for the information or help that they have given you. You say goodbye by saying \"<em>Auf Wiedersehen!</em>\".</p>\n"
     },
     {
      "id": "gr-38310825",
@@ -290,8 +440,9 @@
      "title": "Conjugation: haben",
      "texts": [
       "Conjugation: haben",
-      "Welche Nummer hast du? – Ich habe die Nummer vier, eins, acht, sieben.\nnull colourbox.de\nConjugation of the verb haben\nThe verb haben is irregular in the second- and third-person singular: the b is omitted.\nSingular\n1st person\nich habe\n2nd person\ndu hast\n3rd person\ner/sie/es hat\nPlural\n1st person\nwir haben\n2nd person\nihr habt\n3rd person\nsie haben\nFormal:\nSie haben"
-     ]
+      "Welche Nummer hast du? – Ich habe die Nummer vier, eins, acht, sieben.\nConjugation of the verb haben\nThe verb haben is irregular in the second- and third-person singular: the b is omitted.\nSingular\n1st person\nich habe\n2nd person\ndu hast\n3rd person\ner/sie/es hat\nPlural\n1st person\nwir haben\n2nd person\nihr habt\n3rd person\nsie haben\nFormal:\nSie haben"
+     ],
+     "html": "<p><em>Welche Nummer <strong>hast</strong> du? – Ich <strong>habe</strong> die Nummer vier, eins, acht, sieben.</em></p>\n\n\n\n<p><strong>Conjugation of the verb <em>haben</em></strong></p>\n\n<p>The verb <em>haben</em> is irregular in the second-&#160;and third-person singular: the <em>b</em> is omitted.</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><em>Singular</em></td>\n\t\t\t<td>&#160;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>1st person</td>\n\t\t\t<td>ich habe</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>2nd person</td>\n\t\t\t<td>du <strong>hast</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>3rd person</td>\n\t\t\t<td>er/sie/es <strong>hat</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><em>Plural</em></td>\n\t\t\t<td>&#160;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>1st person</td>\n\t\t\t<td>wir haben</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>2nd person</td>\n\t\t\t<td>ihr habt</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>3rd person</td>\n\t\t\t<td>sie haben</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><em>Formal:</em></td>\n\t\t\t<td>Sie haben</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&#160;</p>\n\n<p>&#160;</p>\n\n<p>&#160;</p>\n"
     },
     {
      "id": "gr-38321810",
@@ -300,7 +451,8 @@
      "texts": [
       "Conjugation: present tense (2)",
       "The Präsens is the verb form used for the present tense. Most verbs are conjugated in the present tense as follows:\nExample: kommen\nSingular\n1st person\nich komme\n2nd person\ndu kommst\n3rd person\ner/sie/es kommt\nPlural\n1st person\nwir kommen\n2nd person\nihr kommt\n3rd person\nsie kommen\nFormal (singular und plural)\nSie kommen\nThe only difference between the third-person plural and the formal address is that the formal Sie is written with a capital letter.\nIf the stem of a verb ends with -d or -t, the conjugation in second and third person singular and the second person plural takes an additional -e-.\nFor example: arbeiten (to work)\nSingular\n1st person\nich arbeite\n2nd person\ndu arbeitest\n3rd person\ner/sie/es arbeitet\nPlural\n1st person\nwir arbeiten\n2nd person\nihr arbeitet\n3rd person\nsie arbeiten\nFormal (singular und plural)\nSie arbeiten\nSome verbs have an irregular conjugation.\nExample: sein\nSingular\n1st person\nich bin\n2nd person\ndu bist\n3rd person\ner/sie/es ist\nPlural\n1st person\nwir sind\n2nd person\nihr seid\n3rd person\nsie sind\nFormal (singular and plural)\nSie sind"
-     ]
+     ],
+     "html": "<p>The <em>Präsens</em>&#160;is the verb form used for the present tense. Most verbs are conjugated in the present tense as follows:</p>\n\n<p>Example: <em>kommen</em></p>\n\n<p>&#160;</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>Singular</td>\n\t\t\t<td>1st person</td>\n\t\t\t<td><strong>ich</strong> komm<strong>e</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>&#160;</td>\n\t\t\t<td>2nd person</td>\n\t\t\t<td><strong>du</strong> komm<strong>st</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>&#160;</td>\n\t\t\t<td>3rd person</td>\n\t\t\t<td><strong>er</strong>/<strong>sie</strong>/<strong>es </strong>komm<strong>t</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Plural</td>\n\t\t\t<td>1st person</td>\n\t\t\t<td><strong>wir </strong>komm<strong>en</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>&#160;</td>\n\t\t\t<td>2nd person</td>\n\t\t\t<td><strong>ihr</strong> komm<strong>t</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>&#160;</td>\n\t\t\t<td>3rd person</td>\n\t\t\t<td><strong>sie </strong>komm<strong>en</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Formal (singular und plural)</td>\n\t\t\t<td>&#160;</td>\n\t\t\t<td><strong>Sie </strong>komm<strong>en</strong></td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&#160;</p>\n\n<p><br>\nThe only difference between the third-person plural and the formal address is that the formal <em>Sie</em> is written with a capital letter.</p>\n\n<p>If the stem of a verb ends with -d or -t, the conjugation in second and third person singular and the second person plural takes an additional -e-.</p>\n\n<p>&#160;</p>\n\n<p>For example: <em>arbeiten</em> (to work)</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>Singular</td>\n\t\t\t<td>1st person</td>\n\t\t\t<td><strong>ich</strong> arbeit<strong>e</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>&#160;</td>\n\t\t\t<td>2nd person</td>\n\t\t\t<td><strong>du</strong> arbeit<strong>e</strong><strong>st</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>&#160;</td>\n\t\t\t<td>3rd person</td>\n\t\t\t<td><strong>er</strong>/<strong>sie</strong>/<strong>es </strong>arbeit<em><strong>e</strong></em><strong>t</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Plural</td>\n\t\t\t<td>1st person</td>\n\t\t\t<td><strong>wir </strong>arbeit<strong>en</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>&#160;</td>\n\t\t\t<td>2nd person</td>\n\t\t\t<td><strong>ihr</strong> arbeit<em><strong>e</strong></em><strong>t</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>&#160;</td>\n\t\t\t<td>3rd person</td>\n\t\t\t<td><strong>sie </strong>arbeit<strong>en</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Formal (singular und plural)</td>\n\t\t\t<td>&#160;</td>\n\t\t\t<td><strong>Sie </strong>arbeit<strong>en</strong></td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&#160;</p>\n\n<p>&#160;</p>\n\n<p>Some verbs have an irregular conjugation.</p>\n\n<p>Example: <em>sein</em></p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>Singular</td>\n\t\t\t<td>1st person</td>\n\t\t\t<td><strong>ich bin</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>&#160;</td>\n\t\t\t<td>2nd person</td>\n\t\t\t<td><strong>du bist</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>&#160;</td>\n\t\t\t<td>3rd person</td>\n\t\t\t<td><strong>er/sie/es ist</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Plural</td>\n\t\t\t<td>1st person</td>\n\t\t\t<td><strong>wir sind</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>&#160;</td>\n\t\t\t<td>2nd person</td>\n\t\t\t<td><strong>ihr seid</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>&#160;</td>\n\t\t\t<td>3rd person</td>\n\t\t\t<td><strong>sie sind</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Formal (singular and plural)</td>\n\t\t\t<td>&#160;</td>\n\t\t\t<td><strong>Sie sind</strong></td>\n\t\t</tr>\n\t</tbody>\n</table>\n"
     },
     {
      "id": "gr-38320906",
@@ -308,8 +460,9 @@
      "title": "Personal pronouns: er, sie",
      "texts": [
       "Personal pronouns: er, sie",
-      "null DW\nEr heißt Nico.\nnull DW\nSie heißt Lisa.\nThird person singular:\nmasculine\ner heißt\nfeminine\nsie heißt"
-     ]
+      "Er heißt Nico.\nSie heißt Lisa.\nThird person singular:\nmasculine\ner heißt\nfeminine\nsie heißt"
+     ],
+     "html": "\n\n<p><strong><em>Er</em></strong><em> heißt Nico.</em></p>\n\n<p>&#160;</p>\n\n\n\n<p><strong><em>Sie</em></strong><em> heißt Lisa.</em></p>\n\n<p>&#160;</p>\n\n<p>Third person singular:</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>masculine</td>\n\t\t\t<td><strong>er </strong>heißt</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>feminine</td>\n\t\t\t<td><strong>sie </strong>heißt</td>\n\t\t</tr>\n\t</tbody>\n</table>\n"
     },
     {
      "id": "gr-38321282",
@@ -317,8 +470,9 @@
      "title": "Personal pronouns: plural",
      "texts": [
       "Personal pronouns: plural",
-      "Nico says: Wir heißen Nico und Emma.\nnull DW\nNico asks: Wie heißt ihr?\nnull DW\nNico says: Sie heißen Pepe und Emma.\nPlural\n1st person\nwir heißen\n2nd person\nihr heißt\n3rd person\nsie heißen"
-     ]
+      "Nico says: Wir heißen Nico und Emma.\nNico asks: Wie heißt ihr?\nNico says: Sie heißen Pepe und Emma.\nPlural\n1st person\nwir heißen\n2nd person\nihr heißt\n3rd person\nsie heißen"
+     ],
+     "html": "\n\n<p>Nico says:<strong><em> Wir</em></strong><em> heißen Nico und Emma.</em></p>\n\n<p>&#160;</p>\n\n\n\n<p>Nico asks: <em>Wie heißt <strong>ihr</strong>?</em></p>\n\n<p>&#160;</p>\n\n\n\n<p>Nico says:<strong><em> Sie</em></strong><em> heißen Pepe und Emma.</em></p>\n\n<p>&#160;</p>\n\n<p>Plural</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:100%\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>1st person</td>\n\t\t\t<td><strong>wir </strong>heißen</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>2nd person</td>\n\t\t\t<td><strong>ihr </strong>heißt</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>3rd person</td>\n\t\t\t<td><strong>sie </strong>heißen</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&#160;</p>\n"
     }
    ]
   },

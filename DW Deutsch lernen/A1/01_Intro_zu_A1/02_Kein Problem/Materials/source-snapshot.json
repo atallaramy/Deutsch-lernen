@@ -1,12 +1,239 @@
 {
  "description": "Official source text captured by ANKI/harvest_sources.py for offline context verification.",
- "harvestedOn": "2026-09-25",
+ "harvestedOn": "2026-09-27",
  "sources": [
   {
    "id": "exercises",
    "kind": "dw-exercises",
    "url": "https://learngerman.dw.com/en/kein-problem/l-37251054",
    "lessonUrl": "https://learngerman.dw.com/en/kein-problem/l-37251054",
+   "vocabulary": {
+    "url": "https://learngerman.dw.com/en/kein-problem/l-37251054/lv",
+    "items": [
+     {
+      "id": 37362346,
+      "german": "die Bank, die Banken",
+      "english": "bank",
+      "forms": ""
+     },
+     {
+      "id": 40349297,
+      "german": "bitte",
+      "english": "please",
+      "forms": ""
+     },
+     {
+      "id": 37352667,
+      "german": "das Büro, die Büros",
+      "english": "office",
+      "forms": ""
+     },
+     {
+      "id": 37352760,
+      "german": "der Bus, die Busse",
+      "english": "bus",
+      "forms": ""
+     },
+     {
+      "id": 37352923,
+      "german": "der Computer, die Computer",
+      "english": "computer",
+      "forms": ""
+     },
+     {
+      "id": 37362358,
+      "german": "die E-Mail, die E-Mails",
+      "english": "email",
+      "forms": ""
+     },
+     {
+      "id": 37362367,
+      "german": "die Familie, die Familien",
+      "english": "family",
+      "forms": ""
+     },
+     {
+      "id": 37355090,
+      "german": "der Flughafen, die Flughäfen",
+      "english": "airport",
+      "forms": ""
+     },
+     {
+      "id": 37355357,
+      "german": "die Gitarre, die Gitarren",
+      "english": "guitar",
+      "forms": ""
+     },
+     {
+      "id": 37362377,
+      "german": "das Hobby, die Hobbys",
+      "english": "hobby",
+      "forms": ""
+     },
+     {
+      "id": 37356054,
+      "german": "das Hotel, die Hotels",
+      "english": "hotel",
+      "forms": ""
+     },
+     {
+      "id": 40149681,
+      "german": "die Information",
+      "english": "information",
+      "forms": "Kurzform von: der Informationsschalter, hier nur Singular"
+     },
+     {
+      "id": 37361898,
+      "german": "der Kaffee, die Kaffees (nach Zahl: Kaffee)",
+      "english": "coffee",
+      "forms": ""
+     },
+     {
+      "id": 37362345,
+      "german": "Kein Problem.",
+      "english": "No problem.",
+      "forms": ""
+     },
+     {
+      "id": 37361928,
+      "german": "das Kino, die Kinos",
+      "english": "movie theater",
+      "forms": ""
+     },
+     {
+      "id": 37361929,
+      "german": "das Konzert, die Konzerte",
+      "english": "concert",
+      "forms": ""
+     },
+     {
+      "id": 40974874,
+      "german": "die Kultur",
+      "english": "culture",
+      "forms": "hier nur Singular"
+     },
+     {
+      "id": 37361946,
+      "german": "das Museum, die Museen",
+      "english": "museum",
+      "forms": ""
+     },
+     {
+      "id": 37361947,
+      "german": "die Musik",
+      "english": "music",
+      "forms": "nur Singular"
+     },
+     {
+      "id": 37394023,
+      "german": "okay",
+      "english": "okay",
+      "forms": "aus dem Englischen"
+     },
+     {
+      "id": 37362383,
+      "german": "der Pilot, die Piloten",
+      "english": "pilot (male)",
+      "forms": ""
+     },
+     {
+      "id": 37362384,
+      "german": "die Pilotin, die Pilotinnen",
+      "english": "pilot (female)",
+      "forms": ""
+     },
+     {
+      "id": 37361948,
+      "german": "die Pizza, die Pizzen",
+      "english": "pizza",
+      "forms": "alternativer Plural: die Pizzas"
+     },
+     {
+      "id": 37361951,
+      "german": "das Problem, die Probleme",
+      "english": "problem",
+      "forms": ""
+     },
+     {
+      "id": 37362213,
+      "german": "das Restaurant, die Restaurants",
+      "english": "restaurant",
+      "forms": ""
+     },
+     {
+      "id": 37362291,
+      "german": "die Spaghetti (Plural)",
+      "english": "spaghetti",
+      "forms": "nur Plural"
+     },
+     {
+      "id": 37362292,
+      "german": "der Sport",
+      "english": "sports; exercise",
+      "forms": "nur Singular"
+     },
+     {
+      "id": 37888770,
+      "german": "der Student, die Studenten",
+      "english": "student (male)",
+      "forms": ""
+     },
+     {
+      "id": 37362406,
+      "german": "die Studentin, die Studentinnen",
+      "english": "student (female)",
+      "forms": ""
+     },
+     {
+      "id": 37362407,
+      "german": "(etwas) studieren",
+      "english": "to study (something, at a college or university)",
+      "forms": "studiert, studierte, hat studiert"
+     },
+     {
+      "id": 37362300,
+      "german": "der Supermarkt, die Supermärkte",
+      "english": "supermarket",
+      "forms": ""
+     },
+     {
+      "id": 37362335,
+      "german": "das Taxi, die Taxis",
+      "english": "taxi",
+      "forms": "alternativ: die Taxe, die Taxen"
+     },
+     {
+      "id": 37362413,
+      "german": "das Telefon, die Telefone",
+      "english": "telephone",
+      "forms": ""
+     },
+     {
+      "id": 37362336,
+      "german": "das Theater, die Theater",
+      "english": "theater",
+      "forms": ""
+     },
+     {
+      "id": 37362343,
+      "german": "die Toilette, die Toiletten",
+      "english": "toilet",
+      "forms": ""
+     },
+     {
+      "id": 37362431,
+      "german": "die Universität, die Universitäten",
+      "english": "university; college",
+      "forms": "Kurzform: die Uni, die Unis"
+     },
+     {
+      "id": 37362344,
+      "german": "das Zentrum, die Zentren",
+      "english": "downtown; city center",
+      "forms": ""
+     }
+    ]
+   },
    "exercises": [
     {
      "id": "e-37255144",
@@ -208,8 +435,9 @@
      "title": "International words in German",
      "texts": [
       "International words in German",
-      "null iStockphoto\nHotel, Taxi, Bank … get it?\nSome German words are easy to understand because they are international. They are the same in other languages, and are hardly ever different in meaning from the original.\nMany of these words have Latin or Greek roots and were first adopted into European languages before they spread around the world.\nThese words, which exist in various languages and which have similar meanings everywhere, are called international words. Many of them stem from English, like Computer and Hobby. Others, like Restaurant, come from French, or Kaffee from Arabic. Some German words are also used in other languages, like Kitsch."
-     ]
+      "Hotel, Taxi, Bank … get it?\nSome German words are easy to understand because they are international. They are the same in other languages, and are hardly ever different in meaning from the original.\nMany of these words have Latin or Greek roots and were first adopted into European languages before they spread around the world.\nThese words, which exist in various languages and which have similar meanings everywhere, are called international words. Many of them stem from English, like Computer and Hobby. Others, like Restaurant, come from French, or Kaffee from Arabic. Some German words are also used in other languages, like Kitsch."
+     ],
+     "html": "\n\n<p>Hotel, Taxi, Bank … get it?</p>\n\n<p>Some German words are easy to understand because they are international. They are the same in other languages, and are hardly ever different in meaning from the original.</p>\n\n<p>Many of these words have Latin or Greek roots and were first adopted into European languages before they spread around the world.</p>\n\n<p>These words, which exist in various languages and which have similar meanings everywhere, are called international words. Many of them stem from English, like Computer and Hobby. Others, like Restaurant, come from French, or Kaffee from Arabic. Some German words are also used in other languages, like Kitsch.</p>\n"
     }
    ]
   },

@@ -17,11 +17,14 @@ confirmation here (decision log: `docs/decisions.md`).
   subfolder. Download the official DW script/vocabulary PDF for every DW lesson
   into `Materials/`; keep other verified official lesson PDFs there too.
 - The notes sit directly in the lesson folder, never inside `Materials/`.
-  `Materials/` holds official materials, `source-snapshot.json` and
-  `mistakes.md` (learner decision 2026-09-26). A notes file found inside
+  `Materials/` holds official materials, `source-snapshot.json`,
+  `lesson-pages.md` and `mistakes.md` (learner decisions 2026-09-26 and
+  2026-09-27). `lesson-pages.md` is the harvester's readable copy of a DW
+  lesson's vocabulary, grammar and culture pages; it is never edited by hand. A notes file found inside
   `Materials/` is moved up only after the learner's yes.
-- New verified materials (official PDFs, `source-snapshot.json` files made by
-  `ANKI/harvest_sources.py`) may be added inside a `Materials/` folder.
+- New verified materials (official PDFs, `source-snapshot.json` and
+  `lesson-pages.md` files made by `ANKI/harvest_sources.py`) may be added
+  inside a `Materials/` folder.
 - Do not move, rename or delete existing folders, Markdown notes, legacy
   packages or PDFs without the learner's explicit approval for that item.
 - `docs/` holds the reference library: every useful link, the lesson-by-lesson
@@ -39,11 +42,19 @@ confirmation here (decision log: `docs/decisions.md`).
   and the source URLs.
 - A captured entry is: an item in a vocabulary/Wortschatz list in the
   learner's notes; an item the learner wrote with a meaning; an item of the
-  official glossary/word list of a lesson the learner has notes for; or a word
-  or fixed phrase worth learning at the lesson's level from that lesson's
-  official script or exercises (learner decision 2026-09-27). Their sentences
-  stay context candidates. Borderline items go to `pendingEntries` until the
-  learner says yes or no; pending items are never built.
+  official glossary, vocabulary page or word list of a lesson the learner has
+  notes for; or a word or fixed phrase worth learning at the lesson's level
+  from that lesson's official script, exercises, grammar pages or culture pages
+  (learner decisions 2026-09-27). Their sentences stay context candidates.
+  Borderline items go to `pendingEntries` until the learner says yes or no;
+  pending items are never built.
+- Nothing new on a studied lesson's vocabulary page or grammar pages is left
+  out (learner decision 2026-09-27). Every item on a DW vocabulary page is
+  recorded in that lesson: as an entry, pending or declined, with
+  `vocabularyPageForm` when the page writes it differently from the entry.
+  Every DW grammar page is covered by a grammar-book topic page that links to
+  it. `build_all.py check` and `check_grammar_book.py` fail otherwise. For VHS
+  the equivalents are the word list, the vocabulary trainer and the grammar list.
 - Every English meaning comes from an official course source (DW glossary or
   culture page, VHS vocabulary trainer) or is verified against a dictionary
   snapshot (`ANKI/gloss-snapshot.json`: en.wiktionary, else dict.cc, made by
@@ -158,11 +169,15 @@ studied it. Follow `docs/processing-a-lesson.md`:
    save the mistakes, correct the notes, continue).
 1. Read the lesson Markdown and the lesson's official materials.
 2. Snapshot the official sources (`python3 ANKI/harvest_sources.py --lesson <id>`).
-3. Capture the entries in `ANKI/lesson-vocabulary.json` with provenance.
+   For DW this includes the vocabulary, grammar and culture pages, and writes
+   the lesson's `Materials/lesson-pages.md`; read it.
+3. Capture the entries in `ANKI/lesson-vocabulary.json` with provenance,
+   including everything new on the vocabulary page and the grammar pages.
 4. Curate contexts, cues and sentence cards; only verbatim source contexts.
 5. Run `python3 ANKI/build_all.py check`; fix every error; open the preview.
 6. After the learner approves, run `python3 ANKI/build_all.py package`.
-7. Update the grammar book (`docs/processing-a-lesson.md` §8), run
+7. Update the grammar book (`docs/processing-a-lesson.md` §8): cover and link
+   every DW grammar page of the lesson. Run
    `python3 docs/tools/check_grammar_book.py`, then rebuild the PDF with
    `python3 docs/tools/build_grammar_pdf.py`.
 8. Run `python3 -m unittest discover -s ANKI/tests`. Report checks as passed
@@ -211,7 +226,9 @@ Articles have no quotas: every captured entry is covered.
   dictionaries (Wiktionary conjugation tables in
   `Grammatik/Materials/wiktionary-snapshot.json`). A DW grammar page from a
   later lesson may confirm a rule, but examples come only from studied lessons.
-  `python3 docs/tools/check_grammar_book.py` must report no errors.
+  `python3 docs/tools/check_grammar_book.py` must report no errors. It also
+  requires every DW grammar page of a studied lesson to be linked from a
+  topic page.
 - No audio. The grammar book never changes the decks. If a grammar check finds
   a card error, fix the card through check → approve → package.
 - `Grammatik/Grammatik.pdf` is the whole book in one printable, clickable file
