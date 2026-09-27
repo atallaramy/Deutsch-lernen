@@ -51,17 +51,6 @@ class Packaging(unittest.TestCase):
             queue = sqlite3.connect(Path(temp) / "c").execute("SELECT queue FROM cards").fetchone()[0]
         self.assertEqual(queue, -1)
 
-    def test_entries_outside_lesson_deck_stay_in_cumulative_deck(self):
-        data = load()
-        cards, _, _ = build_all.collect(data)
-        refs = {f"{lesson.id}:{entry['id']}": (lesson, entry) for lesson in data.lessons for entry in lesson.record.get("entries", [])}
-        card = next(card for card in cards if card.deck == "vocabulary" and len(card.covers) == 1)
-        lesson, entry = refs[card.covers[0]]
-        entry["inLessonDeck"] = False
-        specs = {spec.guid_namespace: {note.key for note in spec.notes} for spec in build_all.deck_specs(data, cards)}
-        self.assertIn(card.key, specs["cumulative:vocabulary"])
-        self.assertNotIn(card.key, specs.get(f"lesson:{lesson.id}", set()))
-
     def test_package_refuses_unapproved_cards(self):
         data = load()
         cards, _, _ = build_all.collect(data)

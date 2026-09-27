@@ -1,8 +1,8 @@
 {
   "deck": "German A1 — Vocabulary",
-  "revision": "2026-09-26T12:00:00Z",
+  "revision": "2026-09-27T12:00:00Z",
   "qualityPolicy": "One typed German word or fixed expression per card, in a verified context where one exists. No audio.",
-  "cards": 270,
+  "cards": 404,
   "sources": [
     {
       "id": "dw-a1-e0-l1",
@@ -10,10 +10,10 @@
       "title": "Hallo!",
       "url": "https://learngerman.dw.com/en/hallo/l-37250531",
       "notesFile": "DW Deutsch lernen/A1/01_Intro_zu_A1/01_Hallo/Hallo.md",
-      "capturedEntries": 35,
+      "capturedEntries": 46,
       "cards": {
-        "vocabulary": 27,
-        "articles": 3,
+        "vocabulary": 38,
+        "articles": 8,
         "sentences": 6
       }
     },
@@ -23,10 +23,10 @@
       "title": "Kein Problem!",
       "url": "https://learngerman.dw.com/en/kein-problem/l-37251054",
       "notesFile": "DW Deutsch lernen/A1/01_Intro_zu_A1/02_Kein Problem/Kein_Problem.md",
-      "capturedEntries": 37,
+      "capturedEntries": 54,
       "cards": {
-        "vocabulary": 37,
-        "articles": 32,
+        "vocabulary": 54,
+        "articles": 38,
         "sentences": 0
       }
     },
@@ -36,10 +36,10 @@
       "title": "Tschüss!",
       "url": "https://learngerman.dw.com/en/tschüss/l-37251033",
       "notesFile": "DW Deutsch lernen/A1/01_Intro_zu_A1/03_Tschüs/Tschüs.md",
-      "capturedEntries": 27,
+      "capturedEntries": 43,
       "cards": {
-        "vocabulary": 20,
-        "articles": 5,
+        "vocabulary": 36,
+        "articles": 11,
         "sentences": 6
       }
     },
@@ -49,10 +49,10 @@
       "title": "Von A bis Z",
       "url": "https://learngerman.dw.com/en/von-a-bis-z/l-37256418",
       "notesFile": "DW Deutsch lernen/A1/01_Intro_zu_A1/04_Von A bis Z/Von A bis Z.md",
-      "capturedEntries": 28,
+      "capturedEntries": 39,
       "cards": {
-        "vocabulary": 23,
-        "articles": 7,
+        "vocabulary": 34,
+        "articles": 11,
         "sentences": 5
       }
     },
@@ -62,10 +62,10 @@
       "title": "Ich heiße Emma",
       "url": "https://learngerman.dw.com/en/ich-heiße-emma/l-37262882",
       "notesFile": "DW Deutsch lernen/A1/02_meeting_people/01_Lesson_01/Ich heiße Emma.md",
-      "capturedEntries": 21,
+      "capturedEntries": 29,
       "cards": {
-        "vocabulary": 13,
-        "articles": 5,
+        "vocabulary": 21,
+        "articles": 7,
         "sentences": 8
       }
     },
@@ -75,10 +75,10 @@
       "title": "Das ist Nico",
       "url": "https://learngerman.dw.com/en/das-ist-nico/l-37262923",
       "notesFile": "DW Deutsch lernen/A1/02_meeting_people/02_Lesson_02/Das ist Nico.md",
-      "capturedEntries": 22,
+      "capturedEntries": 37,
       "cards": {
-        "vocabulary": 16,
-        "articles": 7,
+        "vocabulary": 31,
+        "articles": 10,
         "sentences": 6
       }
     },
@@ -88,10 +88,10 @@
       "title": "Woher kommst du?",
       "url": "https://learngerman.dw.com/en/woher-kommst-du/l-37263828",
       "notesFile": "DW Deutsch lernen/A1/02_meeting_people/03_Lesson_03/Woher komst du.md",
-      "capturedEntries": 36,
+      "capturedEntries": 49,
       "cards": {
-        "vocabulary": 27,
-        "articles": 8,
+        "vocabulary": 40,
+        "articles": 10,
         "sentences": 9
       }
     },
@@ -101,10 +101,10 @@
       "title": "Nico hat ein Problem",
       "url": "https://learngerman.dw.com/en/nico-hat-ein-problem/l-37265543",
       "notesFile": "DW Deutsch lernen/A1/02_meeting_people/04_Lesson_04/Nico hat Problem.md",
-      "capturedEntries": 26,
+      "capturedEntries": 40,
       "cards": {
-        "vocabulary": 25,
-        "articles": 15,
+        "vocabulary": 39,
+        "articles": 19,
         "sentences": 1
       }
     },
@@ -114,10 +114,10 @@
       "title": "Zahlen von 1 bis 100",
       "url": "https://learngerman.dw.com/en/zahlen-von-1-bis-100/l-37265621",
       "notesFile": "DW Deutsch lernen/A1/03_contact_details/01_Lesson_01/Zahlen von 1 bis 100.md",
-      "capturedEntries": 36,
+      "capturedEntries": 51,
       "cards": {
-        "vocabulary": 32,
-        "articles": 7,
+        "vocabulary": 47,
+        "articles": 14,
         "sentences": 4
       }
     },
@@ -127,9 +127,9 @@
       "title": "Lektion 2 · Meine Familie und ich",
       "url": "https://a1.vhs-lernportal.de/",
       "notesFile": "VHS-Lernportal/A1/Lesson_02/lektion_02.md",
-      "capturedEntries": 89,
+      "capturedEntries": 103,
       "cards": {
-        "vocabulary": 86,
+        "vocabulary": 100,
         "articles": 31,
         "sentences": 3
       }
@@ -150,9 +150,9 @@
   ],
   "packages": {
     "ANKI/vocabulary.apkg": {
-      "notes": 270,
-      "cards": 270,
-      "sha256": "dfc5ce32eb091da202b4e83aebc8cd48a1d4c59f7d46ac5179137ff20dd045eb"
+      "notes": 404,
+      "cards": 404,
+      "sha256": "9dfb8b3cc893ae7dedd2193b2ecb405670f2f45b27df69e0d1436b4a064854c5"
     }
   }
 }

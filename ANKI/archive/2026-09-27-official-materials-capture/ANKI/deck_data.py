@@ -32,7 +32,6 @@ POS_INSTRUCTION = {
 ORIGIN_LABEL = {
     "dw-glossary": "official glossary", "learner-notes": "your notes", "dw-culture-page": "DW culture page",
     "vhs-wordlist": "VHS word list", "vhs-vocabulary-trainer": "VHS vocabulary trainer (English)", "easy-german-video": "Easy German video",
-    "dw-script": "DW script", "dw-exercises": "DW exercises", "vhs-film-script": "VHS film script",
 }
 
 

@@ -35,15 +35,13 @@ confirmation here (decision log: `docs/decisions.md`).
 - `ANKI/lesson-vocabulary.json` (schema 3) is the faithful record of what the
   learner studied, grouped course → lesson → entry. Every entry keeps its
   provenance (`origin`: official glossary, VHS word list, DW culture page, the
-  official script or exercises, the learner's notes), the lesson it came from
-  and the source URLs.
+  learner's notes), the lesson it came from and the source URLs.
 - A captured entry is: an item in a vocabulary/Wortschatz list in the
-  learner's notes; an item the learner wrote with a meaning; an item of the
-  official glossary/word list of a lesson the learner has notes for; or a word
-  or fixed phrase worth learning at the lesson's level from that lesson's
-  official script or exercises (learner decision 2026-09-27). Their sentences
-  stay context candidates. Borderline items go to `pendingEntries` until the
-  learner says yes or no; pending items are never built.
+  learner's notes; an item the learner wrote with a meaning; or an item of the
+  official glossary/word list of a lesson the learner has notes for. Exercise
+  sentences without a meaning are context candidates, not entries. Borderline
+  items go to `pendingEntries` until the learner says yes or no; pending items
+  are never built.
 - Every English meaning comes from an official course source (DW glossary or
   culture page, VHS vocabulary trainer) or is verified against a dictionary
   snapshot (`ANKI/gloss-snapshot.json`: en.wiktionary, else dict.cc, made by
@@ -118,9 +116,7 @@ confirmation here (decision log: `docs/decisions.md`).
 - A lesson deck covers every captured entry of its lesson with the same card
   content as the cumulative decks (its Vocabulary cards plus the Sentences
   cards for its phrases). It is a typed introduction, not a second long-term
-  queue. Exception: entries added to a lesson after its deck was built (marked
-  `inLessonDeck: false`, e.g. the 2026-09-27 backfill from official materials)
-  go into the cumulative decks only (learner decision 2026-09-27).
+  queue.
 
 ## Identity and scheduling
 

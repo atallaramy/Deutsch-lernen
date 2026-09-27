@@ -2,13 +2,6 @@
  "schemaVersion": 1,
  "policy": "Curated cues and verified contexts for Vocabulary cards, keyed by lemma|sense. Contexts must be verbatim source text; the typed answer is exactly the blanked target.",
  "cards": {
-  "Abend|evening": {
-   "context": {
-    "lesson": "dw-a1-e0-l3",
-    "source": "exercises",
-    "text": "Vielen Dank für den netten Abend"
-   }
-  },
   "Adresse|address": {
    "context": {
     "lesson": "dw-a1-e1-l3",
@@ -41,22 +34,8 @@
     "target": "Auf Wiedersehen"
    }
   },
-  "Ausweis|identity-card": {
-   "context": {
-    "lesson": "dw-a1-e1-l4",
-    "source": "script",
-    "text": "Einen Ausweis oder einen Pass?"
-   }
-  },
   "Baba!|bye-bye": {
    "cue": "bye-bye — Austrian, informal"
-  },
-  "Begrüßung|greeting": {
-   "context": {
-    "lesson": "dw-a1-e0-l1",
-    "source": "exercises",
-    "text": "Welche Begrüßung passt besser?"
-   }
   },
   "Berlin|berlin": {
    "cue": "Berlin",
@@ -64,20 +43,6 @@
     "lesson": "dw-a1-e1-l3",
     "source": "exercises",
     "text": "Sonia wohnt in Berlin und lernt Deutsch."
-   }
-  },
-  "Beruf|occupation": {
-   "context": {
-    "lesson": "dw-a1-e1-l2",
-    "source": "exercises",
-    "text": "Beruf: Taxifahrer"
-   }
-  },
-  "Bild|picture": {
-   "context": {
-    "lesson": "dw-a1-e0-l3",
-    "source": "exercises",
-    "text": "Welcher Text passt zum Bild?"
    }
   },
   "Bis bald.|see-you-soon": {
@@ -101,13 +66,6 @@
   "Bis später.|see-you-later": {
    "cue": "see you later (today)"
   },
-  "Chinesisch|chinese": {
-   "context": {
-    "lesson": "dw-a1-e1-l2",
-    "source": "exercises",
-    "text": "Name: Ying Xie – Land: China – Sprachen: Chinesisch und Deutsch – Kurs: Computerkurs"
-   }
-  },
   "Ciao!|ciao": {
    "cue": "bye — the informal one borrowed from Italian"
   },
@@ -119,13 +77,6 @@
    "interferesWith": [
     "Cousine|cousin"
    ]
-  },
-  "Deutschkurs|german-course": {
-   "context": {
-    "lesson": "dw-a1-e1-l3",
-    "source": "exercises",
-    "text": "Ja, ich mache einen Deutschkurs."
-   }
   },
   "Deutschland|germany": {
    "cue": "Germany (the country)",
@@ -162,13 +113,6 @@
     "lesson": "dw-a1-e2-l1",
     "source": "script",
     "text": "Eine Einladung zum Geburtstag von Charlotte."
-   }
-  },
-  "Englisch|english": {
-   "context": {
-    "lesson": "dw-a1-e1-l2",
-    "source": "exercises",
-    "text": "Name: Paul und Jenny – Land: England – Sprache: Englisch – Kurs: Deutschkurs"
    }
   },
   "Entschuldigung|excuse-me": {
@@ -211,32 +155,11 @@
     "text": "Nico war auch am Flughafen."
    }
   },
-  "Flugnummer|flight-number": {
-   "context": {
-    "lesson": "dw-a1-e2-l1",
-    "source": "exercises",
-    "text": "Wie ist die Flugnummer von Nico?"
-   }
-  },
   "Foto|photo": {
    "context": {
     "lesson": "dw-a1-e1-l4",
     "source": "exercises",
     "text": "Nico hat ein Foto von Yara."
-   }
-  },
-  "Frage|question": {
-   "context": {
-    "lesson": "dw-a1-e0-l1",
-    "source": "exercises",
-    "text": "Wähl die richtige Frage."
-   }
-  },
-  "Frankreich|france": {
-   "context": {
-    "lesson": "dw-a1-e1-l3",
-    "source": "exercises",
-    "text": "Sonia, kommst du aus Frankreich?"
    }
   },
   "Frau|ms": {
@@ -261,25 +184,11 @@
     "Freundin|friend"
    ]
   },
-  "Fußball|soccer": {
-   "context": {
-    "lesson": "dw-a1-e0-l2",
-    "source": "exercises",
-    "text": "Peters Hobbys sind Fußball und Theater."
-   }
-  },
   "Geschenk|gift": {
    "context": {
     "lesson": "dw-a1-e2-l1",
     "source": "script",
     "text": "Ja, und das hier ist ein Geschenk."
-   }
-  },
-  "Geschäft|shop": {
-   "context": {
-    "lesson": "dw-a1-e1-l4",
-    "source": "script",
-    "text": "Seine Tante hat ein Geschäft"
    }
   },
   "Gitarre|guitar": {
@@ -369,13 +278,6 @@
     "text": "Guten Tag, Herr Kaiser."
    }
   },
-  "Herzlich willkommen!|welcome": {
-   "context": {
-    "lesson": "vhs-a1-l02",
-    "source": "vhs-a1-filmskripte",
-    "text": "Herzlich willkommen bei „Nasrins Welt“!"
-   }
-  },
   "Herzlichen Glückwunsch zum Geburtstag|happy-birthday": {
    "cue": "Happy birthday! — the traditional German wish"
   },
@@ -415,22 +317,8 @@
     "text": "Ins Restaurant Königshof oder zum Hotel Königshof?"
    }
   },
-  "Idee|idea": {
-   "context": {
-    "lesson": "dw-a1-e1-l3",
-    "source": "script",
-    "text": "Gute Idee!"
-   }
-  },
   "Ihr|your": {
    "cue": "your (formal, Sie) — the form before der or das nouns"
-  },
-  "Indien|india": {
-   "context": {
-    "lesson": "dw-a1-e1-l3",
-    "source": "exercises",
-    "text": "Sie kommt aus Indien."
-   }
   },
   "Information|information-desk": {
    "cue": "information desk (e.g. at the airport) — short form, singular"
@@ -453,14 +341,6 @@
     "target": "Keine Ahnung"
    }
   },
-  "Keine Sorge!|dont-worry": {
-   "context": {
-    "lesson": "dw-a1-e1-l4",
-    "source": "script",
-    "text": "Doch, keine Sorge! Emma geht es gut.",
-    "target": "keine Sorge"
-   }
-  },
   "Kino|movie-theater": {
    "cue": "cinema / movie theater",
    "context": {
@@ -472,13 +352,6 @@
   "Konjugation|conjugation": {
    "cue": "conjugation (grammar term)"
   },
-  "Kontonummer|account-number": {
-   "context": {
-    "lesson": "dw-a1-e2-l1",
-    "source": "exercises",
-    "text": "Wie ist die Kontonummer von Lisa?"
-   }
-  },
   "Konzert|concert": {
    "context": {
     "lesson": "dw-a1-e0-l2",
@@ -488,13 +361,6 @@
   },
   "Kurs|course": {
    "cue": "course (e.g. a German course)"
-  },
-  "Land|country": {
-   "context": {
-    "lesson": "dw-a1-e1-l2",
-    "source": "exercises",
-    "text": "Name: Eva – Land: Peru – Sprachen: Spanisch und Deutsch – Kurs: Yoga"
-   }
   },
   "Langsam bitte.|slowly-please": {
    "cue": "Slowly, please. (asking someone to slow down)"
@@ -525,13 +391,6 @@
   },
   "Moinsen!|hi": {
    "cue": "hi — the playful northern slang variant"
-  },
-  "Moment|moment": {
-   "context": {
-    "lesson": "dw-a1-e2-l1",
-    "source": "script",
-    "text": "Moment … elf."
-   }
   },
   "Museum|museum": {
    "context": {
@@ -591,13 +450,6 @@
     "Vater|father"
    ]
   },
-  "Party|party": {
-   "context": {
-    "lesson": "dw-a1-e2-l1",
-    "source": "exercises",
-    "text": "Ich habe Geburtstag und mache eine Party."
-   }
-  },
   "Pass|passport": {
    "context": {
     "lesson": "dw-a1-e1-l4",
@@ -627,13 +479,6 @@
   },
   "Plural|plural": {
    "cue": "plural (grammar term)"
-  },
-  "Polizeirevier|police-station": {
-   "context": {
-    "lesson": "dw-a1-e1-l4",
-    "source": "script",
-    "text": "Polizeirevier Ost, Brunner hier."
-   }
   },
   "Polizei|police": {
    "context": {
@@ -666,28 +511,6 @@
   "Präsens|present-tense": {
    "cue": "present tense (grammar term)"
   },
-  "Reihenfolge|order": {
-   "context": {
-    "lesson": "dw-a1-e0-l2",
-    "source": "exercises",
-    "text": "Bring die Buchstaben in die richtige Reihenfolge."
-   }
-  },
-  "Russland|russia": {
-   "context": {
-    "lesson": "dw-a1-e1-l3",
-    "source": "exercises",
-    "text": "Ich komme aus Russland."
-   }
-  },
-  "Sag mal|say-tell-me": {
-   "context": {
-    "lesson": "dw-a1-e1-l2",
-    "source": "script",
-    "text": "Sag mal, spinnst du?",
-    "target": "Sag mal"
-   }
-  },
   "Schwester|sister": {
    "context": {
     "lesson": "vhs-a1-l02",
@@ -706,13 +529,6 @@
   "Singular|singular": {
    "cue": "singular (grammar term)"
   },
-  "Sitznummer|seat-number": {
-   "context": {
-    "lesson": "dw-a1-e2-l1",
-    "source": "exercises",
-    "text": "Wie ist die Sitznummer von Nico?"
-   }
-  },
   "Sohn|son": {
    "context": {
     "lesson": "vhs-a1-l02",
@@ -722,13 +538,6 @@
   },
   "Spanien|spain": {
    "cue": "Spain (German name)"
-  },
-  "Spanisch|spanish": {
-   "context": {
-    "lesson": "dw-a1-e1-l2",
-    "source": "exercises",
-    "text": "Er kommt aus Spanien und er spricht Spanisch und Englisch."
-   }
   },
   "Sprache|language": {
    "context": {
@@ -746,14 +555,6 @@
   },
   "Stadt|town": {
    "cue": "town / city"
-  },
-  "Stopp!|stop": {
-   "context": {
-    "lesson": "dw-a1-e0-l2",
-    "source": "script",
-    "text": "Hey, stopp!",
-    "target": "stopp"
-   }
   },
   "Straße|street": {
    "cue": "street"
@@ -845,13 +646,6 @@
     "text": "Es ist 15:00 Uhr."
    }
   },
-  "Unterlagen|documents": {
-   "context": {
-    "lesson": "dw-a1-e0-l2",
-    "source": "script",
-    "text": "Du kannst mir die Unterlagen für das Meeting im Hotel hinterlegen."
-   }
-  },
   "Vater|father": {
    "cue": "father (the neutral word)",
    "context": {
@@ -863,22 +657,8 @@
   "Verb|verb": {
    "cue": "verb (grammar term)"
   },
-  "Viel Erfolg!|good-luck": {
-   "context": {
-    "lesson": "dw-a1-e1-l4",
-    "source": "script",
-    "text": "Ciao, Nico. Viel Erfolg!"
-   }
-  },
   "Vielen Dank!|many-thanks": {
    "cue": "many thanks!"
-  },
-  "Was ist los?|whats-the-matter": {
-   "context": {
-    "lesson": "dw-a1-e1-l4",
-    "source": "script",
-    "text": "Was ist los? Geht es Emma nicht gut?"
-   }
   },
   "Wie schreibt man das?|how-do-you-write-spell-that": {
    "cue": "How do you spell that? (asked with “one/you” in general)"
@@ -910,27 +690,6 @@
     "text": "Sie wohnt auch hier in Deutschland, aber Nico hat die Adresse nicht."
    }
   },
-  "also|so": {
-   "context": {
-    "lesson": "dw-a1-e1-l4",
-    "source": "script",
-    "text": "Wir suchen also eine Adresse."
-   }
-  },
-  "alt|old": {
-   "context": {
-    "lesson": "dw-a1-e2-l1",
-    "source": "exercises",
-    "text": "Sie ist 41 Jahre alt."
-   }
-  },
-  "anrufen|to-call-someone": {
-   "context": {
-    "lesson": "dw-a1-e1-l3",
-    "source": "script",
-    "text": "Kannst du deine Tante anrufen?"
-   }
-  },
   "auch|also": {
    "context": {
     "lesson": "dw-a1-e1-l3",
@@ -945,13 +704,6 @@
     "text": "Er kommt aus Deutschland und er spricht Deutsch und Englisch."
    }
   },
-  "bei|at": {
-   "context": {
-    "lesson": "dw-a1-e1-l3",
-    "source": "script",
-    "text": "Er ist doch bei der Polizei."
-   }
-  },
   "bitte|here-you-go": {
    "cue": "here you go (handing something over)"
   },
@@ -961,13 +713,6 @@
     "lesson": "dw-a1-e1-l1",
     "source": "script",
     "text": "Moment bitte."
-   }
-  },
-  "daneben|next-to-it": {
-   "context": {
-    "lesson": "vhs-a1-l02",
-    "source": "vhs-a1-filmskripte",
-    "text": "Und daneben ist meine Tante."
    }
   },
   "danke schön|thank-you": {
@@ -988,27 +733,12 @@
     "danke sehr|thank-you-very-much"
    ]
   },
-  "dann|then": {
-   "context": {
-    "lesson": "dw-a1-e2-l1",
-    "source": "script",
-    "text": "Dann sind wir richtig hier.",
-    "target": "Dann"
-   }
-  },
   "das|that": {
    "cue": "that / this (pointing: “that is …”)",
    "context": {
     "lesson": "dw-a1-e0-l4",
     "source": "script",
     "text": "Und das ist meine Tante."
-   }
-  },
-  "da|there": {
-   "context": {
-    "lesson": "dw-a1-e0-l4",
-    "source": "script",
-    "text": "Sie arbeitet da."
    }
   },
   "dein|your": {
@@ -1031,33 +761,11 @@
   "einhundert|100": {
    "cue": "100 — the full form"
   },
-  "erzählen|to-tell": {
-   "context": {
-    "lesson": "vhs-a1-l02",
-    "source": "vhs-a1-filmskripte",
-    "text": "Heute möchte ich Euch etwas über meine Familie erzählen."
-   },
-   "cue": "to tell (a story, about something); to narrate"
-  },
   "er|he": {
    "context": {
     "lesson": "dw-a1-e1-l3",
     "source": "exercises",
     "text": "Woher kommt er?"
-   }
-  },
-  "genau|exactly": {
-   "context": {
-    "lesson": "dw-a1-e1-l4",
-    "source": "script",
-    "text": "Ja, genau."
-   }
-  },
-  "gerade|at-the-moment": {
-   "context": {
-    "lesson": "dw-a1-e1-l1",
-    "source": "script",
-    "text": "Emma spinnt gerade."
    }
   },
   "geschieden|divorced": {
@@ -1141,27 +849,11 @@
     "text": "Julia: Ah ja."
    }
   },
-  "jeder|each": {
-   "context": {
-    "lesson": "dw-a1-e1-l3",
-    "source": "exercises",
-    "text": "Schreib in jede Lücke das richtige Verb.",
-    "target": "jede"
-   }
-  },
   "jetzt|now": {
    "context": {
     "lesson": "dw-a1-e1-l3",
     "source": "script",
     "text": "Und was machst du jetzt?"
-   }
-  },
-  "kein|not-a": {
-   "context": {
-    "lesson": "dw-a1-e1-l2",
-    "source": "script",
-    "text": "Da ist keine Tasche.",
-    "target": "keine"
    }
   },
   "kommen|to-come": {
@@ -1185,31 +877,8 @@
     "text": "Was machen Sie in Deutschland?"
    }
   },
-  "man|one-you": {
-   "context": {
-    "lesson": "dw-a1-e0-l4",
-    "source": "exercises",
-    "text": "Was sieht man im Video?"
-   }
-  },
   "mein|my": {
    "cue": "my — the form before der or das nouns"
-  },
-  "mit|with": {
-   "context": {
-    "lesson": "dw-a1-e0-l1",
-    "source": "exercises",
-    "text": "Mit wem spricht Nico?",
-    "target": "Mit"
-   }
-  },
-  "nach|to-country-or-city": {
-   "context": {
-    "lesson": "dw-a1-e0-l4",
-    "source": "exercises",
-    "text": "Emmas Mama fliegt nach Amerika."
-   },
-   "cue": "to (a country or a city)"
   },
   "nein|no": {
    "context": {
@@ -1236,35 +905,11 @@
   "noch einmal|again": {
    "cue": "again — one more time (full form, two words)"
   },
-  "ob|whether": {
-   "context": {
-    "lesson": "dw-a1-e2-l1",
-    "source": "exercises",
-    "text": "Sag bitte Bescheid, ob du kommen kannst."
-   }
-  },
   "oder|or": {
    "context": {
     "lesson": "dw-a1-e0-l1",
     "source": "exercises",
     "text": "Herr oder Frau?"
-   }
-  },
-  "sagen|to-say": {
-   "cue": "to say (something)"
-  },
-  "schlecht|bad": {
-   "context": {
-    "lesson": "dw-a1-e0-l4",
-    "source": "script",
-    "text": "Nicht schlecht!"
-   }
-  },
-  "schon|already": {
-   "context": {
-    "lesson": "vhs-a1-l02",
-    "source": "vhs-a1-filmskripte",
-    "text": "Jamal, Mina und Arian kennt ihr schon"
    }
   },
   "schön|nice": {
@@ -1296,13 +941,6 @@
     "text": "Nein, sie haben die Adresse nicht."
    }
   },
-  "spielen|to-play": {
-   "context": {
-    "lesson": "dw-a1-e0-l2",
-    "source": "exercises",
-    "text": "Evas Hobbys sind Tennis und Gitarre spielen."
-   }
-  },
   "studieren|to-study": {
    "cue": "to study at a university (≠ lernen, to learn)"
   },
@@ -1311,20 +949,6 @@
     "lesson": "dw-a1-e1-l2",
     "source": "script",
     "text": "Komm, wir suchen die Tasche!"
-   }
-  },
-  "tanken|to-refuel": {
-   "context": {
-    "lesson": "dw-a1-e1-l1",
-    "source": "script",
-    "text": "Ich muss noch kurz tanken."
-   }
-  },
-  "um|at-time": {
-   "context": {
-    "lesson": "dw-a1-e2-l1",
-    "source": "exercises",
-    "text": "Ich feiere am Samstag um 17:00 Uhr in der Friedrichstraße 11."
    }
   },
   "und|and": {
@@ -1354,21 +978,6 @@
   },
   "verwitwet|widowed": {
    "cue": "Familienstand on a form: widowed"
-  },
-  "vielleicht|maybe": {
-   "context": {
-    "lesson": "dw-a1-e1-l3",
-    "source": "script",
-    "text": "Vielleicht hilft er uns.",
-    "target": "Vielleicht"
-   }
-  },
-  "von|of": {
-   "context": {
-    "lesson": "dw-a1-e1-l4",
-    "source": "exercises",
-    "text": "Das ist ein Freund von Lisa."
-   }
   },
   "weg|gone": {
    "cue": "gone / away",
@@ -1432,35 +1041,6 @@
   },
   "zusammenleben|to-live-together": {
    "cue": "to live together (one verb)"
-  },
-  "zusammen|together": {
-   "context": {
-    "lesson": "dw-a1-e0-l1",
-    "source": "exercises",
-    "text": "Was passt zusammen?"
-   }
-  },
-  "zu|to-towards": {
-   "context": {
-    "lesson": "dw-a1-e0-l4",
-    "source": "script",
-    "text": "Du willst zu deiner Tante?"
-   },
-   "cue": "to (a person or a place)"
-  },
-  "übernachten|to-stay-overnight": {
-   "context": {
-    "lesson": "dw-a1-e2-l1",
-    "source": "exercises",
-    "text": "Du kannst bei mir übernachten."
-   }
-  },
-  "über|more-than": {
-   "context": {
-    "lesson": "vhs-a1-l02",
-    "source": "vhs-a1-filmskripte",
-    "text": "Wenn die sich treffen, sind es über 20 Personen."
-   }
   }
  }
 }

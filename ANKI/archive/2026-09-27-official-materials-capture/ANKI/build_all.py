@@ -112,8 +112,7 @@ def deck_specs(data: Data, cards: list[Card]) -> list[DeckSpec]:
             specs.append(DeckSpec(name=f"German {level} — {title}", description=description, output=output,
                                   guid_namespace=f"cumulative:{deck}", notes=to_notes(deck_cards)))
     for lesson in data.lessons:
-        # inLessonDeck: false = captured after the lesson deck shipped; cumulative decks only (learner, 2026-09-27).
-        refs = {f"{lesson.id}:{entry['id']}" for entry in lesson.record.get("entries", []) if entry.get("inLessonDeck", True)}
+        refs = {f"{lesson.id}:{entry['id']}" for entry in lesson.record.get("entries", [])}
         lesson_cards = [card for card in cards if card.deck in {"vocabulary", "sentences"} and refs & set(card.covers)]
         if not lesson_cards:
             continue

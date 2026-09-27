@@ -76,7 +76,7 @@ the dictionary confirms. For phrases, set `glossLookup` to their component
 words, and use the dictionary's wording.
 
 Which items to capture:
-- **Captured:** items in a vocabulary list in your notes, items you wrote with a meaning, the official lesson glossary, and the words and fixed phrases worth learning from the lesson's official script and exercises (`origin`: `dw-script`, `dw-exercises`, `vhs-film-script`). Their sentences are used as contexts.
+- **Captured:** items in a vocabulary list in your notes, items you wrote with a meaning, and the official lesson glossary.
 - **Borderline:** put in `pendingEntries` with a reason and ask you yes or no.
 - **Home deck:** fixed formulas → `home: vocabulary`; patterns and grammatical choices (du/Sie, verb forms, W-questions) → `home: sentences`. Names → Sentences.
 - **Merging:** a new sense of a known word gets its own `sense`. Identical lemma + sense merges automatically.

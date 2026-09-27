@@ -3,15 +3,6 @@
 Confirmed decisions, newest first. The binding rules they produce live in
 `AGENTS.md`; this file records why and when.
 
-## 2026-09-27 — capture from official materials
-
-| Topic | Decision |
-|---|---|
-| Capture scope | Changes D3. The learner: "the official materials are also a good source of the decks". Words and fixed phrases worth learning at the lesson's level in a studied lesson's official script and exercises become entries, next to the notes and the glossary. Their meanings go through the dictionary check. Unclear items go to `pendingEntries`. |
-| Contexts | Unchanged: script and exercise sentences are the verbatim contexts on the cards. |
-| Backfill | The learner: update the cumulative decks for the lessons already studied; "maybe the individual lessons deck do not need that update". New entries there carry `inLessonDeck: false`. Interpretation, applied: each new word is recorded once, in the first lesson where it appears. Words already captured are not recorded again, so approved cards stay as they are. |
-| Backfill build | The learner approved all 176 new and changed cards ("approve all"): 134 entries from the scripts and exercises of 10 studied lessons; decks built (404 Vocabulary, 141 Articles, 59 Sentences); lesson decks keep their cards. |
-
 ## 2026-09-26 — lesson folder layout
 
 | Topic | Decision |
@@ -94,7 +85,7 @@ reviewed and approved with these choices.
 | — | Reference | Keep every useful link in `docs/`, so the learner can ask about any lesson. |
 | D1 | Cumulative scope | **A** — one cumulative system for all courses (`German A1 — …`), provenance in tags. |
 | D2 | Data layout | **A** — one capture file (`lesson-vocabulary.json`) grouped by course → lesson, plus curated card files. |
-| D3 | What counts as captured | **A** — vocabulary lists in the notes, items written with a meaning, and the official glossary of studied lessons. Borderline items wait for a yes/no. Widened 2026-09-27 to the official script and exercises (see *capture from official materials*). |
+| D3 | What counts as captured | **A** — vocabulary lists in the notes, items written with a meaning, and the official glossary of studied lessons. Borderline items wait for a yes/no. |
 | D4 | Proper names | **A** — Sentences cards that practise how the name is used (first name ↔ du/Tschüss; Herr/Frau + surname ↔ Sie). |
 | D5 | Home of whole utterances | **A** — fixed formulas in Vocabulary; patterns and grammatical choices in Sentences. |
 | D6 | VHS content behind the login | *Open.* Default until decided: public PDFs only. Items from inside the portal keep "your notes" provenance and have bare cues. |

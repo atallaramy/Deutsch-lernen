@@ -1,5 +1,5 @@
 {
- "revision": "2026-09-26T12:00:00Z",
+ "revision": "2026-09-27T12:00:00Z",
  "entries": {
   "dw-a1-e0-l1:auch": [
    "vocab:auch|also"
@@ -108,6 +108,44 @@
   ],
   "dw-a1-e0-l1:moin": [
    "vocab:Moin!|hello"
+  ],
+  "dw-a1-e0-l1:der-opa": [
+   "article:Opa|m",
+   "vocab:Opa|grandpa"
+  ],
+  "dw-a1-e0-l1:die-oma": [
+   "article:Oma|f",
+   "vocab:Oma|grandma"
+  ],
+  "dw-a1-e0-l1:tach": [
+   "vocab:Tach!|good-day"
+  ],
+  "dw-a1-e0-l1:die-frage": [
+   "article:Frage|f",
+   "vocab:Frage|question"
+  ],
+  "dw-a1-e0-l1:die-antwort": [
+   "article:Antwort|f",
+   "vocab:Antwort|answer"
+  ],
+  "dw-a1-e0-l1:horen": [
+   "vocab:hören|to-hear"
+  ],
+  "dw-a1-e0-l1:passen": [
+   "vocab:passen|to-fit"
+  ],
+  "dw-a1-e0-l1:die-begrussung": [
+   "article:Begrüßung|f",
+   "vocab:Begrüßung|greeting"
+  ],
+  "dw-a1-e0-l1:zusammen": [
+   "vocab:zusammen|together"
+  ],
+  "dw-a1-e0-l1:mit": [
+   "vocab:mit|with"
+  ],
+  "dw-a1-e0-l1:wahlen": [
+   "vocab:wählen|to-choose"
   ],
   "dw-a1-e0-l2:die-bank": [
    "article:Bank|f",
@@ -252,6 +290,63 @@
    "article:Zentrum|n",
    "vocab:Zentrum|city-centre"
   ],
+  "dw-a1-e0-l2:ankommen": [
+   "vocab:ankommen|to-arrive"
+  ],
+  "dw-a1-e0-l2:konnen": [
+   "vocab:können|can"
+  ],
+  "dw-a1-e0-l2:fur": [
+   "vocab:für|for"
+  ],
+  "dw-a1-e0-l2:das-meeting": [
+   "article:Meeting|n",
+   "vocab:Meeting|meeting"
+  ],
+  "dw-a1-e0-l2:die-unterlagen": [
+   "vocab:Unterlagen|documents"
+  ],
+  "dw-a1-e0-l2:stopp": [
+   "vocab:Stopp!|stop"
+  ],
+  "dw-a1-e0-l2:mist": [
+   "vocab:Mist!|darn"
+  ],
+  "dw-a1-e0-l2:spielen": [
+   "vocab:spielen|to-play"
+  ],
+  "dw-a1-e0-l2:das-tennis": [
+   "article:Tennis|n",
+   "vocab:Tennis|tennis"
+  ],
+  "dw-a1-e0-l2:der-fussball": [
+   "article:Fußball|m",
+   "vocab:Fußball|soccer"
+  ],
+  "dw-a1-e0-l2:bei": [
+   "vocab:bei|at"
+  ],
+  "dw-a1-e0-l2:sein-seine": [
+   "vocab:sein|his"
+  ],
+  "dw-a1-e0-l2:das-semester": [
+   "article:Semester|n",
+   "vocab:Semester|semester"
+  ],
+  "dw-a1-e0-l2:das-wort": [
+   "article:Wort|n",
+   "vocab:Wort|word"
+  ],
+  "dw-a1-e0-l2:fehlen": [
+   "vocab:fehlen|to-be-missing"
+  ],
+  "dw-a1-e0-l2:die-reihenfolge": [
+   "article:Reihenfolge|f",
+   "vocab:Reihenfolge|order"
+  ],
+  "dw-a1-e0-l2:bringen": [
+   "vocab:bringen|to-bring"
+  ],
   "dw-a1-e0-l3:auf-wiedersehen": [
    "vocab:Auf Wiedersehen.|goodbye"
   ],
@@ -337,6 +432,60 @@
   ],
   "dw-a1-e0-l3:formell": [
    "vocab:formell|formal"
+  ],
+  "dw-a1-e0-l3:etwas-brauchen": [
+   "vocab:brauchen|to-need"
+  ],
+  "dw-a1-e0-l3:wollen": [
+   "vocab:wollen|to-want"
+  ],
+  "dw-a1-e0-l3:alles": [
+   "vocab:alles|everything"
+  ],
+  "dw-a1-e0-l3:bis": [
+   "vocab:bis|until"
+  ],
+  "dw-a1-e0-l3:bald": [
+   "vocab:bald|soon"
+  ],
+  "dw-a1-e0-l3:die-reise": [
+   "article:Reise|f",
+   "vocab:Reise|journey"
+  ],
+  "dw-a1-e0-l3:der-tag": [
+   "article:Tag|m",
+   "vocab:Tag|day"
+  ],
+  "dw-a1-e0-l3:der-morgen": [
+   "article:Morgen|m",
+   "vocab:Morgen|morning"
+  ],
+  "dw-a1-e0-l3:der-abend": [
+   "article:Abend|m",
+   "vocab:Abend|evening"
+  ],
+  "dw-a1-e0-l3:sehr": [
+   "vocab:sehr|very"
+  ],
+  "dw-a1-e0-l3:der-text": [
+   "article:Text|m",
+   "vocab:Text|text"
+  ],
+  "dw-a1-e0-l3:das-bild": [
+   "article:Bild|n",
+   "vocab:Bild|picture"
+  ],
+  "dw-a1-e0-l3:nett": [
+   "vocab:nett|nice"
+  ],
+  "dw-a1-e0-l3:etwas-sehen": [
+   "vocab:sehen|to-see"
+  ],
+  "dw-a1-e0-l3:wir-sehen-uns": [
+   "vocab:Wir sehen uns!|see-you"
+  ],
+  "dw-a1-e0-l3:tscho": [
+   "vocab:Tschö!|bye"
   ],
   "dw-a1-e0-l4:die-adresse": [
    "article:Adresse|f",
@@ -429,6 +578,43 @@
   "dw-a1-e0-l4:drk": [
    "vocab:DRK|german-red-cross"
   ],
+  "dw-a1-e0-l4:schlecht": [
+   "vocab:schlecht|bad"
+  ],
+  "dw-a1-e0-l4:zu": [
+   "vocab:zu|to-towards"
+  ],
+  "dw-a1-e0-l4:jemanden-etwas-kennen": [
+   "vocab:kennen|to-know"
+  ],
+  "dw-a1-e0-l4:nach": [
+   "vocab:nach|to-country-or-city"
+  ],
+  "dw-a1-e0-l4:da": [
+   "vocab:da|there"
+  ],
+  "dw-a1-e0-l4:man": [
+   "vocab:man|one-you"
+  ],
+  "dw-a1-e0-l4:das-video": [
+   "article:Video|n",
+   "vocab:Video|video"
+  ],
+  "dw-a1-e0-l4:der-satz": [
+   "article:Satz|m",
+   "vocab:Satz|sentence"
+  ],
+  "dw-a1-e0-l4:der-punkt": [
+   "article:Punkt|m",
+   "vocab:Punkt|dot"
+  ],
+  "dw-a1-e0-l4:der-umlaut": [
+   "article:Umlaut|m",
+   "vocab:Umlaut|umlaut"
+  ],
+  "dw-a1-e0-l4:amerika": [
+   "vocab:Amerika|america"
+  ],
   "dw-a1-e1-l1:aber": [
    "vocab:aber|but"
   ],
@@ -496,6 +682,32 @@
   "dw-a1-e1-l1:der-plural": [
    "article:Plural|m",
    "vocab:Plural|plural"
+  ],
+  "dw-a1-e1-l1:also": [
+   "vocab:also|so"
+  ],
+  "dw-a1-e1-l1:gerade": [
+   "vocab:gerade|at-the-moment"
+  ],
+  "dw-a1-e1-l1:der-moment": [
+   "article:Moment|m",
+   "vocab:Moment|moment"
+  ],
+  "dw-a1-e1-l1:mussen": [
+   "vocab:müssen|to-have-to"
+  ],
+  "dw-a1-e1-l1:noch": [
+   "vocab:noch|still"
+  ],
+  "dw-a1-e1-l1:kurz": [
+   "vocab:kurz|briefly"
+  ],
+  "dw-a1-e1-l1:tanken": [
+   "vocab:tanken|to-refuel"
+  ],
+  "dw-a1-e1-l1:der-deutschkurs": [
+   "article:Deutschkurs|m",
+   "vocab:Deutschkurs|german-course"
   ],
   "dw-a1-e1-l2:das-beispiel": [
    "article:Beispiel|n",
@@ -569,6 +781,54 @@
   ],
   "dw-a1-e1-l2:sie-sprechen-englisch": [
    "sentence:they-speak-english"
+  ],
+  "dw-a1-e1-l2:sag-mal": [
+   "vocab:Sag mal|say-tell-me"
+  ],
+  "dw-a1-e1-l2:spinnst-du": [
+   "vocab:Spinnst du?|are-you-crazy"
+  ],
+  "dw-a1-e1-l2:warten": [
+   "vocab:warten|to-wait"
+  ],
+  "dw-a1-e1-l2:kein-keine": [
+   "vocab:kein|not-a"
+  ],
+  "dw-a1-e1-l2:etwas-sagen": [
+   "vocab:sagen|to-say"
+  ],
+  "dw-a1-e1-l2:englisch": [
+   "vocab:Englisch|english"
+  ],
+  "dw-a1-e1-l2:spanisch": [
+   "vocab:Spanisch|spanish"
+  ],
+  "dw-a1-e1-l2:chinesisch": [
+   "vocab:Chinesisch|chinese"
+  ],
+  "dw-a1-e1-l2:indien": [
+   "vocab:Indien|india"
+  ],
+  "dw-a1-e1-l2:das-land": [
+   "article:Land|n",
+   "vocab:Land|country"
+  ],
+  "dw-a1-e1-l2:der-beruf": [
+   "article:Beruf|m",
+   "vocab:Beruf|occupation"
+  ],
+  "dw-a1-e1-l2:etwas-lesen": [
+   "vocab:lesen|to-read"
+  ],
+  "dw-a1-e1-l2:etwas-erganzen": [
+   "vocab:ergänzen|to-complete"
+  ],
+  "dw-a1-e1-l2:die-aussage": [
+   "article:Aussage|f",
+   "vocab:Aussage|statement"
+  ],
+  "dw-a1-e1-l2:china": [
+   "vocab:China|china"
   ],
   "dw-a1-e1-l3:aus": [
    "vocab:aus|from"
@@ -686,6 +946,47 @@
    "article:Präsens|n",
    "vocab:Präsens|present-tense"
   ],
+  "dw-a1-e1-l3:genau": [
+   "vocab:genau|exactly"
+  ],
+  "dw-a1-e1-l3:jemanden-anrufen": [
+   "vocab:anrufen|to-call-someone"
+  ],
+  "dw-a1-e1-l3:vielleicht": [
+   "vocab:vielleicht|maybe"
+  ],
+  "dw-a1-e1-l3:die-idee": [
+   "article:Idee|f",
+   "vocab:Idee|idea"
+  ],
+  "dw-a1-e1-l3:ich-auch": [
+   "vocab:Ich auch.|me-too"
+  ],
+  "dw-a1-e1-l3:ach-so": [
+   "vocab:Ach so.|oh-i-see"
+  ],
+  "dw-a1-e1-l3:etwas-schreiben": [
+   "vocab:schreiben|to-write"
+  ],
+  "dw-a1-e1-l3:frankreich": [
+   "vocab:Frankreich|france"
+  ],
+  "dw-a1-e1-l3:russland": [
+   "vocab:Russland|russia"
+  ],
+  "dw-a1-e1-l3:australien": [
+   "vocab:Australien|australia"
+  ],
+  "dw-a1-e1-l3:brasilien": [
+   "vocab:Brasilien|brazil"
+  ],
+  "dw-a1-e1-l3:jeder-jede-jedes": [
+   "vocab:jeder|each"
+  ],
+  "dw-a1-e1-l3:der-backer": [
+   "article:Bäcker|m",
+   "vocab:Bäcker|baker"
+  ],
   "dw-a1-e1-l4:die-arbeit": [
    "article:Arbeit|f",
    "vocab:Arbeit|work"
@@ -778,6 +1079,52 @@
   "dw-a1-e1-l4:die-familie": [
    "article:Familie|f",
    "vocab:Familie|family"
+  ],
+  "dw-a1-e1-l4:das-polizeirevier": [
+   "article:Polizeirevier|n",
+   "vocab:Polizeirevier|police-station"
+  ],
+  "dw-a1-e1-l4:was-ist-los": [
+   "vocab:Was ist los?|whats-the-matter"
+  ],
+  "dw-a1-e1-l4:doch": [
+   "vocab:doch|yes-to-a-negative-question"
+  ],
+  "dw-a1-e1-l4:keine-sorge": [
+   "vocab:Keine Sorge!|dont-worry"
+  ],
+  "dw-a1-e1-l4:das-papier": [
+   "article:Papier|n",
+   "vocab:Papier|document"
+  ],
+  "dw-a1-e1-l4:der-ausweis": [
+   "article:Ausweis|m",
+   "vocab:Ausweis|identity-card"
+  ],
+  "dw-a1-e1-l4:von": [
+   "vocab:von|of"
+  ],
+  "dw-a1-e1-l4:das-geschaft": [
+   "article:Geschäft|n",
+   "vocab:Geschäft|shop"
+  ],
+  "dw-a1-e1-l4:dann": [
+   "vocab:dann|then"
+  ],
+  "dw-a1-e1-l4:gerne": [
+   "vocab:gerne|youre-welcome"
+  ],
+  "dw-a1-e1-l4:viel-erfolg": [
+   "vocab:Viel Erfolg!|good-luck"
+  ],
+  "dw-a1-e1-l4:als": [
+   "vocab:als|as"
+  ],
+  "dw-a1-e1-l4:schon": [
+   "vocab:schon|already"
+  ],
+  "dw-a1-e1-l4:der-irak": [
+   "vocab:Irak|iraq"
   ],
   "dw-a1-e2-l1:acht": [
    "vocab:acht|8"
@@ -893,6 +1240,58 @@
   ],
   "dw-a1-e2-l1:herzlichen-gluckwunsch-zum-geburtstag": [
    "vocab:Herzlichen Glückwunsch zum Geburtstag|happy-birthday"
+  ],
+  "dw-a1-e2-l1:um": [
+   "vocab:um|at-time"
+  ],
+  "dw-a1-e2-l1:jemandem-bescheid-sagen": [
+   "vocab:Bescheid sagen|to-let-someone-know"
+  ],
+  "dw-a1-e2-l1:ob": [
+   "vocab:ob|whether"
+  ],
+  "dw-a1-e2-l1:ubernachten": [
+   "vocab:übernachten|to-stay-overnight"
+  ],
+  "dw-a1-e2-l1:werden": [
+   "vocab:werden|to-become"
+  ],
+  "dw-a1-e2-l1:alt": [
+   "vocab:alt|old"
+  ],
+  "dw-a1-e2-l1:das-jahr": [
+   "article:Jahr|n",
+   "vocab:Jahr|year"
+  ],
+  "dw-a1-e2-l1:ihr-ihre": [
+   "vocab:ihr|her"
+  ],
+  "dw-a1-e2-l1:die-party": [
+   "article:Party|f",
+   "vocab:Party|party"
+  ],
+  "dw-a1-e2-l1:der-samstag": [
+   "article:Samstag|m",
+   "vocab:Samstag|saturday"
+  ],
+  "dw-a1-e2-l1:die-flugnummer": [
+   "article:Flugnummer|f",
+   "vocab:Flugnummer|flight-number"
+  ],
+  "dw-a1-e2-l1:die-sitznummer": [
+   "article:Sitznummer|f",
+   "vocab:Sitznummer|seat-number"
+  ],
+  "dw-a1-e2-l1:die-kontonummer": [
+   "article:Kontonummer|f",
+   "vocab:Kontonummer|account-number"
+  ],
+  "dw-a1-e2-l1:die-kartennummer": [
+   "article:Kartennummer|f",
+   "vocab:Kartennummer|card-number"
+  ],
+  "dw-a1-e2-l1:morgen": [
+   "vocab:morgen|tomorrow"
   ],
   "vhs-a1-l02:die-familie": [
    "article:Familie|f",
@@ -1191,6 +1590,48 @@
   ],
   "vhs-a1-l02:meine-frau": [
    "vocab:Frau|wife"
+  ],
+  "vhs-a1-l02:herzlich-willkommen": [
+   "vocab:Herzlich willkommen!|welcome"
+  ],
+  "vhs-a1-l02:heute": [
+   "vocab:heute|today"
+  ],
+  "vhs-a1-l02:mochten": [
+   "vocab:möchten|would-like"
+  ],
+  "vhs-a1-l02:etwas-erzahlen": [
+   "vocab:erzählen|to-tell"
+  ],
+  "vhs-a1-l02:uber": [
+   "vocab:über|about"
+  ],
+  "vhs-a1-l02:uber-2": [
+   "vocab:über|more-than"
+  ],
+  "vhs-a1-l02:wissen": [
+   "vocab:wissen|to-know"
+  ],
+  "vhs-a1-l02:daneben": [
+   "vocab:daneben|next-to-it"
+  ],
+  "vhs-a1-l02:bestehen-aus": [
+   "vocab:bestehen|to-consist-of"
+  ],
+  "vhs-a1-l02:gross": [
+   "vocab:groß|big"
+  ],
+  "vhs-a1-l02:wenn": [
+   "vocab:wenn|when"
+  ],
+  "vhs-a1-l02:sich-treffen": [
+   "vocab:treffen|to-meet"
+  ],
+  "vhs-a1-l02:ganz": [
+   "vocab:ganz|whole"
+  ],
+  "vhs-a1-l02:euer-eure": [
+   "vocab:euer|your"
   ],
   "eg-seg-274:hallo": [
    "vocab:Hallo!|hello"

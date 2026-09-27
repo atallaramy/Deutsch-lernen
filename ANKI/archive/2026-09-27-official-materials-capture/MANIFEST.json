@@ -1,0 +1,66 @@
+{
+  "createdAt": "2026-09-27",
+  "reason": "Backup before widening the capture rule (words and phrases from a studied lesson's official script and exercises become entries) and backfilling them into the cumulative decks only. Restore by copying each backup to its original path.",
+  "files": [
+    {
+      "original": "AGENTS.md",
+      "backup": "ANKI/archive/2026-09-27-official-materials-capture/AGENTS.md.orig",
+      "sha256": "07b71f17e71e7fd4e5b4df909d53d5c58da964841ad6aeaf2264bc60acad1326"
+    },
+    {
+      "original": "ANKI/lesson-vocabulary.json",
+      "backup": "ANKI/archive/2026-09-27-official-materials-capture/ANKI/lesson-vocabulary.json",
+      "sha256": "0ff53f4e666369e3c331ca212aaa69cf1f70a67ee404f8c022d3e4d7201291f4"
+    },
+    {
+      "original": "ANKI/deck_data.py",
+      "backup": "ANKI/archive/2026-09-27-official-materials-capture/ANKI/deck_data.py",
+      "sha256": "ea2ef175aba753006765155412b506cd0bbeaa1d331130a762f2d259c38f24fe"
+    },
+    {
+      "original": "docs/processing-a-lesson.md",
+      "backup": "ANKI/archive/2026-09-27-official-materials-capture/docs/processing-a-lesson.md",
+      "sha256": "49f2c5b00f6be9be2bcb98384fdca33e540c1ce787300445d449cfcec890233a"
+    },
+    {
+      "original": "docs/decisions.md",
+      "backup": "ANKI/archive/2026-09-27-official-materials-capture/docs/decisions.md",
+      "sha256": "44508c5d494a10271698976403716fd7674c54f4d32cb827f303cb48eb87749a"
+    },
+    {
+      "original": "ANKI/build_all.py",
+      "backup": "ANKI/archive/2026-09-27-official-materials-capture/ANKI/build_all.py",
+      "sha256": "22730491cd42e3df012082d84dd350bff64b89da19fbb9b519c70c82256082c2"
+    },
+    {
+      "original": "ANKI/tests/test_packaging.py",
+      "backup": "ANKI/archive/2026-09-27-official-materials-capture/ANKI/tests/test_packaging.py",
+      "sha256": "fce3615755fb71433549f8e0250ea5c79d8ff622a9394dbbf35ecfce1cfd7777"
+    },
+    {
+      "original": "ANKI/vocabulary-cards.json",
+      "backup": "ANKI/archive/2026-09-27-official-materials-capture/ANKI/vocabulary-cards.json",
+      "sha256": "a4394b7720d308f50c5688846f03bf1f94aabff9ce49f57824f0979f8c64cf60"
+    },
+    {
+      "original": "ANKI/articles-cards.json",
+      "backup": "ANKI/archive/2026-09-27-official-materials-capture/ANKI/articles-cards.json",
+      "sha256": "c35e718c29274faecacff0018d0c5509004f35b346a739d2a43470e64084f8f6"
+    },
+    {
+      "original": "ANKI/gloss-snapshot.json",
+      "backup": "ANKI/archive/2026-09-27-official-materials-capture/ANKI/gloss-snapshot.json",
+      "sha256": "ca40e940da4d47ba70b3e418f4a6cb5eadd9cbc51fdfb8a9e68c830a1d96ed48"
+    },
+    {
+      "original": "ANKI/review/approvals.json",
+      "backup": "ANKI/archive/2026-09-27-official-materials-capture/ANKI/review/approvals.json",
+      "sha256": "4d0cafde85734eb1cee866db4fab9addd50ae0df451d6e2287da30cdf2597d2d"
+    },
+    {
+      "original": "docs/data-model.md",
+      "backup": "ANKI/archive/2026-09-27-official-materials-capture/docs/data-model.md",
+      "sha256": "6528c5a2d82c0ed51b7e9027a4796c81e3818e4caf8770d356395f30d1027ea3"
+    }
+  ]
+}
