@@ -41,6 +41,21 @@ class VocabularyPage(unittest.TestCase):
         self.assertEqual(harvest_sources.clean_text(html), "Hallo!")
 
 
+class ExerciseTexts(unittest.TestCase):
+    def test_read_aloud_lines_tips_and_correct_answers_are_kept(self):
+        state = {
+            "Exercise:1": {"name": "I live in ...", "inputText": None},
+            "Inquiry:2": {"inquiryText": "Play audio", "inquiryDescription": "Ich wohne in Hamburg."},
+            "Inquiry:3": {"inquiryText": "Wo ist die Polizei?",
+                          "inquiryDescription": "<p>Careful! &quot;Ich wohne am Markt.&quot;</p>\n"},
+            "Alternative:4": {"isCorrect": True, "alternativeText": "Die Hausnummer ist 144."},
+            "Alternative:5": {"isCorrect": False, "alternativeText": "Die Hausnummer ist 44."},
+        }
+        self.assertEqual(harvest_sources.exercise_texts(state),
+                         ["Die Hausnummer ist 144.", "Play audio", "Ich wohne in Hamburg.", "Wo ist die Polizei?",
+                          'Careful! "Ich wohne am Markt."'])
+
+
 @unittest.skipUnless(shutil.which("pandoc"), "pandoc is needed for lesson-pages.md")
 class LessonPages(unittest.TestCase):
     def test_vocabulary_table_grammar_before_culture(self):

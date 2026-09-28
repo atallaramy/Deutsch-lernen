@@ -6,6 +6,13 @@ update this file when the learner adds or changes a rule. Do not infer a
 permanent rule from a one-off request without recording the learner's
 confirmation here (decision log: `docs/decisions.md`).
 
+## Top priority (learner, 2026-09-28)
+
+The only goal: make studying German easier and save the learner's time. Keep
+everything short and simple. Never hand the learner long reports or reviews: say
+what is done and what is needed from them in a few lines. Apply every rule below
+in this spirit.
+
 ## Folder structure
 
 - `ANKI/` contains the cumulative decks, their builders, data files, scan

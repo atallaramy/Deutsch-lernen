@@ -103,6 +103,13 @@ not the status code.
 - Exercises (12), e.g. [Understanding phone numbers (1)](https://learngerman.dw.com/en/understanding-phone-numbers-1/l-37269501/e-37272723)
 - Script and vocabulary PDF: <https://static.dw.com/downloads/52719221/nicos-weg-a1-e2-l2-manuskript-und-wortschatz-englisch.pdf>
 
+### DW Nicos Weg A1 · Adressen (E2 L3) · checked 2026-09-28
+- Lesson page: <https://learngerman.dw.com/en/adressen/l-37269671> · notes: `DW Deutsch lernen/A1/03_contact_details/03_Lesson_03/Adressen.md`
+- Grammar: [Prepositions of place: aus](https://learngerman.dw.com/en/prepositions-of-place-aus/l-37269671/gr-38307071) · [Prepositions of place: in, an](https://learngerman.dw.com/en/prepositions-of-place-in-an/l-37269671/gr-38309222) · [W-questions](https://learngerman.dw.com/en/w-questions/l-37269671/gr-38306976)
+- Culture: [On the telephone](https://learngerman.dw.com/en/on-the-telephone/l-37269671/rs-39370877)
+- Exercises (13), e.g. [The police are on Schreinerstraße](https://learngerman.dw.com/en/the-police-are-on-schreinerstraße/l-37269671/e-37280249) (tip: *in der …straße*, *am …platz*, *im …weg*)
+- Script and vocabulary PDF: <https://static.dw.com/downloads/52719223/nicos-weg-a1-e2-l3-manuskript-und-wortschatz-englisch.pdf>
+
 ### VHS A1 · Lektion 2 (Meine Familie und ich)
 - Vocabulary trainer with English, inside the portal: *Mein A1 → Vokabeltrainer → Lektion 2 → English* (captured 2026-09-25 into `VHS-Lernportal/A1/Materials/source-snapshot.json`)
 - Portal (login): <https://a1.vhs-lernportal.de/> · notes: `VHS-Lernportal/A1/Lesson_02/lektion_02.md`
@@ -142,7 +149,7 @@ The courses follow the BAMF integration-course curriculum:
 
 | What | Link |
 |---|---|
-| Goethe-Zertifikat A1 (Start Deutsch 1) word list | <https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf> |
+| Goethe-Zertifikat A1 (Start Deutsch 1) word list (checked 2026-09-28: used for the `beyond-A1` tag of script and grammar-page words) | <https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf> |
 | Goethe-Zertifikat A2 word list | <https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf> |
 | Goethe-Zertifikat B1 word list | <https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_B1_Wortliste.pdf> |
 | Goethe exam pages | A1 <https://www.goethe.de/ins/de/de/prf/prf/gzsd1.html> · A2 <https://www.goethe.de/ins/de/de/prf/prf/gzsd2.html> · B1 <https://www.goethe.de/ins/de/de/prf/prf/gzb1.html> (B1 details: <https://www.goethe.de/ins/de/de/prf/prf/gzb1/inf.html>) · All exams: <https://www.goethe.de/de/spr/prf.html> |
@@ -170,8 +177,6 @@ come from studied lessons.
 | DW page | Lesson | Confirms |
 |---|---|---|
 | [Numbers from 11 to 19](https://learngerman.dw.com/en/numbers-from-11-to-19/l-37265621/gr-38307006) · [Numbers from 20 to 100](https://learngerman.dw.com/en/numbers-from-20-to-100/l-37265621/gr-38307981) | A1 E2 L1 | 13–19, *sechzehn/siebzehn*, *-zig*, *einundzwanzig* |
-| [W-questions](https://learngerman.dw.com/en/w-questions/l-37269671/gr-38306976) | A1 E2 L3 | question word – verb – subject |
-| [Prepositions of place: aus](https://learngerman.dw.com/en/prepositions-of-place-aus/l-37269671/gr-38307071) · [in, an](https://learngerman.dw.com/en/prepositions-of-place-in-an/l-37269671/gr-38309222) | A1 E2 L3 | *kommen aus*, *wohnen in*, countries with an article |
 | [Questions and statements](https://learngerman.dw.com/en/questions-and-statements/l-37337877/gr-38306265) | A1 E4 L2 | verb second in statements, verb first in yes/no questions |
 
 ## Anki

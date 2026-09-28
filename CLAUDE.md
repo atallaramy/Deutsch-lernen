@@ -8,6 +8,9 @@ adds Claude-specific working rules only.
 
 ## The learner
 
+- Top priority, in their words "the only bible": make studying German easier
+  and save their time. Replies are a few lines: what is done, what is needed.
+  No long reviews or reports; this is a language course, not a software project.
 - Started German recently; now at A1 with DW *Nicos Weg*, the VHS-Lernportal
   course and Easy German; plans to continue to A2 and B1.
 - Mac with the German-Standard keyboard. Typed answers stay strict about

@@ -123,7 +123,7 @@ def build(data: Data) -> tuple[list[Card], list[str]]:
             if learner and normalize(learner) != normalize(entry.raw["german"]):
                 details.append(f"In your notes: “{html.escape(learner)}”")
         if any(entry.raw.get("level") == "beyond-A1" for entry in group):
-            details.append("Beyond A1 — kept because it is in your notes.")
+            details.append("Beyond A1.")
             warnings.append("beyond A1")
         if not any({"dw-glossary", "dw-culture-page", "vhs-vocabulary-trainer"} & set(entry.raw.get("origin", [])) for entry in group):
             terms = canonical.raw.get("glossLookup") or [canonical.lemma.rstrip(".!?")]

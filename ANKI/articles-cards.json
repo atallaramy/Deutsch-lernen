@@ -81,6 +81,20 @@
     "source": "script",
     "text": "Die Tasche ist nicht im Taxi."
    }
+  },
+  "Präposition": {
+   "context": {
+    "lesson": "dw-a1-e2-l3",
+    "source": "exercises",
+    "text": "die Präposition: Prepositions are usually short words that connect words or groups of words together."
+   }
+  },
+  "W-Frage": {
+   "context": {
+    "lesson": "dw-a1-e2-l3",
+    "source": "exercises",
+    "text": "die W-Frage: W-questions are open questions that cannot be answered with \"yes\" or \"no\"."
+   }
   }
  }
 }

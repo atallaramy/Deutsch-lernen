@@ -1026,6 +1026,266 @@
     "dw-a1-e2-l2:meine-telefonnummer-ist"
    ],
    "note": "In your notes: 02263429 (the exercise has 02253429)."
+  },
+  {
+   "key": "police-on-schreinerstrasse",
+   "kind": "response",
+   "lesson": "dw-a1-e2-l3",
+   "skill": "giving an address",
+   "scene": "Answer: the police station is on Schreinerstraße.",
+   "prompt": {
+    "lesson": "dw-a1-e2-l3",
+    "source": "exercises",
+    "text": "Wo ist die Polizei? Wie heißt die Straße?"
+   },
+   "answer": "Die Polizei ist in der Schreinerstraße.",
+   "answerSource": {
+    "lesson": "dw-a1-e2-l3",
+    "source": "exercises"
+   },
+   "covers": [
+    "dw-a1-e2-l3:die-polizei-ist-in-der-schreinerstrasse"
+   ],
+   "note": "Street names ending in -straße: in der …straße."
+  },
+  {
+   "key": "doing-well-short",
+   "kind": "response",
+   "lesson": "dw-a1-e2-l3",
+   "skill": "conversation response",
+   "scene": "Thank them and say you are doing well — the short spoken form.",
+   "prompt": {
+    "lesson": "dw-a1-e2-l3",
+    "source": "exercises",
+    "text": "Wie geht’s dir?"
+   },
+   "answer": "Danke, mir geht’s gut.",
+   "answerSource": {
+    "lesson": "dw-a1-e2-l3",
+    "source": "exercises"
+   },
+   "covers": [
+    "dw-a1-e2-l3:mir-gehts-gut"
+   ],
+   "note": "Full form: Es geht mir gut."
+  },
+  {
+   "key": "who-is-there",
+   "kind": "production",
+   "lesson": "dw-a1-e2-l3",
+   "skill": "telephone",
+   "scene": "The phone rings or someone is at the door. Ask who it is.",
+   "answer": "Wer ist da?",
+   "answerSource": {
+    "lesson": "dw-a1-e2-l3",
+    "source": "exercises"
+   },
+   "covers": [
+    "dw-a1-e2-l3:wer-ist-da"
+   ]
+  },
+  {
+   "key": "street-name-question",
+   "kind": "production",
+   "lesson": "dw-a1-e2-l3",
+   "skill": "asking for an address",
+   "scene": "Ask what the street is called.",
+   "answer": "Wie heißt die Straße?",
+   "answerSource": {
+    "lesson": "dw-a1-e2-l3",
+    "source": "exercises"
+   },
+   "covers": [
+    "dw-a1-e2-l3:wie-heisst-die-strasse"
+   ]
+  },
+  {
+   "key": "house-number-question",
+   "kind": "production",
+   "lesson": "dw-a1-e2-l3",
+   "skill": "asking for an address",
+   "scene": "Ask what the house number is.",
+   "answer": "Wie ist die Hausnummer?",
+   "answerSource": {
+    "lesson": "dw-a1-e2-l3",
+    "source": "exercises"
+   },
+   "covers": [
+    "dw-a1-e2-l3:wie-ist-die-hausnummer"
+   ]
+  },
+  {
+   "key": "where-are-you-informal",
+   "kind": "production",
+   "lesson": "dw-a1-e2-l3",
+   "skill": "informal question",
+   "scene": "On the phone, ask a friend (du) where they are.",
+   "answer": "Wo bist du?",
+   "answerSource": "learner-notes",
+   "covers": [
+    "dw-a1-e2-l3:wo-bist-du"
+   ]
+  },
+  {
+   "key": "where-is-police",
+   "kind": "production",
+   "lesson": "dw-a1-e2-l3",
+   "skill": "asking where",
+   "scene": "You need the police. Ask where they are (die Polizei).",
+   "answer": "Wo ist die Polizei?",
+   "answerSource": {
+    "lesson": "dw-a1-e2-l3",
+    "source": "exercises"
+   },
+   "covers": [
+    "dw-a1-e2-l3:wo-ist-die-polizei"
+   ]
+  },
+  {
+   "key": "street-in-der",
+   "kind": "completion",
+   "lesson": "dw-a1-e2-l3",
+   "skill": "prepositions of place",
+   "scene": "Say where you live: street names ending in -straße, -gasse or -allee.",
+   "prompt": {
+    "lesson": "dw-a1-e2-l3",
+    "source": "exercises",
+    "text": "Ich wohne in der Schillerstraße/Schillergasse/Schillerallee.",
+    "target": "in der"
+   },
+   "answer": "in der",
+   "covers": [
+    "dw-a1-e2-l3:in-der-strasse"
+   ],
+   "note": "-weg: im …weg · -platz and der Markt: am …"
+  },
+  {
+   "key": "street-im",
+   "kind": "completion",
+   "lesson": "dw-a1-e2-l3",
+   "skill": "prepositions of place",
+   "scene": "Say where you live: a street name ending in -weg.",
+   "prompt": {
+    "lesson": "dw-a1-e2-l3",
+    "source": "exercises",
+    "text": "Ich wohne im Schillerweg.",
+    "target": "im"
+   },
+   "answer": "im",
+   "covers": [
+    "dw-a1-e2-l3:im-weg"
+   ],
+   "note": "im = in dem"
+  },
+  {
+   "key": "street-am",
+   "kind": "completion",
+   "lesson": "dw-a1-e2-l3",
+   "skill": "prepositions of place",
+   "scene": "Say where you live: on a square (-platz) or at the market.",
+   "prompt": {
+    "lesson": "dw-a1-e2-l3",
+    "source": "exercises",
+    "text": "Ich wohne am Schillerplatz/Markt.",
+    "target": "am"
+   },
+   "answer": "am",
+   "covers": [
+    "dw-a1-e2-l3:am-platz"
+   ],
+   "note": "am = an dem"
+  },
+  {
+   "key": "phone-who-speaking",
+   "kind": "production",
+   "lesson": "dw-a1-e2-l3",
+   "skill": "telephone",
+   "scene": "On the phone: politely ask who you are speaking to.",
+   "answer": "Mit wem spreche ich, bitte?",
+   "answerSource": {
+    "lesson": "dw-a1-e2-l3",
+    "source": "exercises"
+   },
+   "covers": [
+    "dw-a1-e2-l3:mit-wem-spreche-ich-bitte"
+   ]
+  },
+  {
+   "key": "phone-name-again-formal",
+   "kind": "production",
+   "lesson": "dw-a1-e2-l3",
+   "skill": "telephone",
+   "scene": "On a formal call (Sie): ask for the caller's name again.",
+   "answer": "Wie war nochmal Ihr Name?",
+   "answerSource": {
+    "lesson": "dw-a1-e2-l3",
+    "source": "exercises"
+   },
+   "covers": [
+    "dw-a1-e2-l3:wie-war-nochmal-ihr-name"
+   ]
+  },
+  {
+   "key": "phone-sorry-formal",
+   "kind": "completion",
+   "lesson": "dw-a1-e2-l3",
+   "skill": "formal register",
+   "scene": "On a formal call you forgot to say your name. Apologise (Sie) and give it.",
+   "prompt": {
+    "lesson": "dw-a1-e2-l3",
+    "source": "exercises",
+    "text": "Ah, entschuldigen Sie, mein Name ist Carlos Fischer.",
+    "target": "entschuldigen Sie"
+   },
+   "answer": "entschuldigen Sie",
+   "covers": [
+    "dw-a1-e2-l3:entschuldigen-sie"
+   ],
+   "note": "Informal or neutral: Entschuldigung."
+  },
+  {
+   "key": "repeat-formal",
+   "kind": "production",
+   "lesson": "dw-a1-e2-l3",
+   "skill": "formal question",
+   "scene": "You did not understand. Ask a stranger (Sie) to repeat that, please.",
+   "answer": "Können Sie das bitte wiederholen?",
+   "answerSource": "learner-notes",
+   "covers": [
+    "dw-a1-e2-l3:koennen-sie-das-bitte-wiederholen",
+    "dw-a1-e2-l3:koennen-sie-das-bitte-nochmal-wiederholen"
+   ],
+   "accept": [
+    "Können Sie das bitte nochmal wiederholen?"
+   ]
+  },
+  {
+   "key": "repeat-informal",
+   "kind": "production",
+   "lesson": "dw-a1-e2-l3",
+   "skill": "informal question",
+   "scene": "You did not understand. Ask a friend (du) to repeat that, please.",
+   "answer": "Kannst du das bitte wiederholen?",
+   "answerSource": "learner-notes",
+   "covers": [
+    "dw-a1-e2-l3:kannst-du-das-bitte-wiederholen",
+    "dw-a1-e2-l3:kannst-du-das-bitte-nochmal-sagen"
+   ],
+   "accept": [
+    "Kannst du das bitte nochmal sagen?"
+   ]
+  },
+  {
+   "key": "what-was-that-again",
+   "kind": "production",
+   "lesson": "dw-a1-e2-l3",
+   "skill": "asking to repeat",
+   "scene": "You missed what was just said. Ask what that was again (nochmal).",
+   "answer": "Wie war das nochmal?",
+   "answerSource": "learner-notes",
+   "covers": [
+    "dw-a1-e2-l3:wie-war-das-nochmal"
+   ]
   }
  ]
 }

@@ -1,6 +1,6 @@
 # du or Sie: informal and formal
 
-*informell / formell* · A1 · from DW A1 E0 L1 *Hallo!*, E0 L3 *Tschüss!*, E0 L4 *Von A bis Z*, E1 L1 *Ich heiße Emma*, E1 L3 *Woher kommst du?*, E2 L2 *Wichtige Nummern* and VHS A1 Lektion 2 · checked 2026-09-27
+*informell / formell* · A1 · from DW A1 E0 L1 *Hallo!*, E0 L3 *Tschüss!*, E0 L4 *Von A bis Z*, E1 L1 *Ich heiße Emma*, E1 L3 *Woher kommst du?*, E2 L2 *Wichtige Nummern*, E2 L3 *Adressen* and VHS A1 Lektion 2 · checked 2026-09-28
 
 ## The rule
 
@@ -73,6 +73,8 @@ German terms: *informell* (informal), *formell* (formal), *die Höflichkeitsform
 - Replying and asking back: `reply-informal`, `reply-formal`
 - Requests and compliments: `spell-informal`, `spell-formal`, `compliment-german`
 - Names and goodbyes: `bye-martina`, `take-care-herbert`
+- On the phone: `where-are-you-informal`, `repeat-informal`, `repeat-formal`, `phone-name-again-formal`,
+  `phone-sorry-formal`
 
 ## My rule in my own words
 
@@ -82,4 +84,5 @@ My notes: [Hallo!](<../../DW Deutsch lernen/A1/01_Intro_zu_A1/01_Hallo/Hallo.md>
 [Tschüss!](<../../DW Deutsch lernen/A1/01_Intro_zu_A1/03_Tschüs/Tschüs.md>) ·
 [Ich heiße Emma](<../../DW Deutsch lernen/A1/02_meeting_people/01_Lesson_01/Ich heiße Emma.md>) ·
 [VHS Lektion 2](<../../VHS-Lernportal/A1/Lesson_02/lektion_02.md>) ·
-[Wichtige Nummern](<../../DW Deutsch lernen/A1/03_contact_details/02_Lesson_02/Wichtige Nummern.md>)
+[Wichtige Nummern](<../../DW Deutsch lernen/A1/03_contact_details/02_Lesson_02/Wichtige Nummern.md>) ·
+[Adressen](<../../DW Deutsch lernen/A1/03_contact_details/03_Lesson_03/Adressen.md>)

@@ -6010,6 +6010,719 @@
        "decision": "no (2026-09-27): looked up in a dictionary to prepare for later courses"
       }
      ]
+    },
+    {
+     "id": "dw-a1-e2-l3",
+     "legacyId": null,
+     "level": "A1",
+     "title": "Adressen",
+     "unit": 2,
+     "lesson": 3,
+     "url": "https://learngerman.dw.com/en/adressen/l-37269671",
+     "notesFile": "DW Deutsch lernen/A1/03_contact_details/03_Lesson_03/Adressen.md",
+     "lessonDeck": {
+      "file": "DW Deutsch lernen/A1/03_contact_details/03_Lesson_03/DW A1 E2L3 Adressen - Vocabulary.apkg",
+      "deck": "Lessons::DW A1::E2 L3 Adressen"
+     },
+     "snapshot": "DW Deutsch lernen/A1/03_contact_details/03_Lesson_03/Materials/source-snapshot.json",
+     "sources": [
+      {
+       "id": "script",
+       "kind": "dw-script-pdf",
+       "url": "https://static.dw.com/downloads/52719223/nicos-weg-a1-e2-l3-manuskript-und-wortschatz-englisch.pdf",
+       "localFile": "DW Deutsch lernen/A1/03_contact_details/03_Lesson_03/Materials/Script and vocabulary (English).pdf"
+      },
+      {
+       "id": "exercises",
+       "kind": "dw-exercises",
+       "url": "https://learngerman.dw.com/en/adressen/l-37269671"
+      }
+     ],
+     "entries": [
+      {
+       "id": "die-polizei-ist-in-der-schreinerstrasse",
+       "german": "Die Polizei ist in der Schreinerstraße.",
+       "english": "The police (station) is/are on Schreinerstr.",
+       "pos": "expression",
+       "lemma": "Die Polizei ist in der Schreinerstraße.",
+       "sense": "the-police-are-on-schreinerstrasse",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "learnerForm": "Die polizei ist in der Schreinerstraße.",
+       "home": "sentences"
+      },
+      {
+       "id": "entschuldigung",
+       "german": "Entschuldigung",
+       "english": "I’m sorry.",
+       "pos": "expression",
+       "lemma": "Entschuldigung",
+       "sense": "excuse-me",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "learnerForm": "Entschuldigun",
+       "home": "vocabulary"
+      },
+      {
+       "id": "fehlen",
+       "german": "fehlen",
+       "english": "to be missing",
+       "pos": "verb",
+       "lemma": "fehlen",
+       "sense": "to-be-missing",
+       "forms": "fehlt, fehlte, hat gefehlt",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "mir-gehts-gut",
+       "german": "Mir geht’s gut.",
+       "english": "I’m doing well.",
+       "pos": "expression",
+       "lemma": "Mir geht’s gut.",
+       "sense": "im-doing-well",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "note": "Full form: Es geht mir gut.",
+       "home": "sentences"
+      },
+      {
+       "id": "etwas-schreiben",
+       "german": "(etwas) schreiben",
+       "english": "to write (something)",
+       "pos": "verb",
+       "lemma": "schreiben",
+       "sense": "to-write",
+       "forms": "schreibt, schrieb, hat geschrieben",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "learnerForm": "(etwas) schreiben: schreibt, schreib, hat geschreiben",
+       "home": "vocabulary"
+      },
+      {
+       "id": "mit-jemandem-telefonieren",
+       "german": "mit jemandem telefonieren",
+       "english": "to speak with someone; to call someone (on the phone)",
+       "pos": "verb",
+       "lemma": "telefonieren",
+       "sense": "to-phone",
+       "forms": "telefoniert, telefonierte, hat telefoniert",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "learnerForm": "mit jemanden telefonieren: telefoniert, telefonierte, hat telefoniert",
+       "note": "with someone: mit jemandem telefonieren",
+       "home": "vocabulary"
+      },
+      {
+       "id": "viel-glueck",
+       "german": "Viel Glück!",
+       "english": "Good luck!",
+       "pos": "expression",
+       "lemma": "Viel Glück!",
+       "sense": "good-luck",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "warum",
+       "german": "warum",
+       "english": "why",
+       "pos": "word",
+       "lemma": "warum",
+       "sense": "why",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "wer-ist-da",
+       "german": "Wer ist da?",
+       "english": "Who is it?; Who's there?",
+       "pos": "expression",
+       "lemma": "Wer ist da?",
+       "sense": "who-is-there",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "home": "sentences"
+      },
+      {
+       "id": "wie-heisst-die-strasse",
+       "german": "Wie heißt die Straße?",
+       "english": "What is the name of the street?",
+       "pos": "expression",
+       "lemma": "Wie heißt die Straße?",
+       "sense": "what-is-the-street-called",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "learnerForm": "Wie heißt die straße?",
+       "home": "sentences"
+      },
+      {
+       "id": "wo-bist-du",
+       "german": "Wo bist du?",
+       "english": "Where are you? (informal)",
+       "pos": "expression",
+       "lemma": "Wo bist du?",
+       "sense": "where-are-you",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "home": "sentences"
+      },
+      {
+       "id": "wo-ist-die-polizei",
+       "german": "Wo ist die Polizei?",
+       "english": "Where is the police (station)?",
+       "pos": "expression",
+       "lemma": "Wo ist die Polizei?",
+       "sense": "where-is-the-police",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "home": "sentences"
+      },
+      {
+       "id": "mit-wem-spreche-ich-bitte",
+       "german": "Mit wem spreche ich, bitte?",
+       "english": "Who am I speaking to, please?",
+       "pos": "expression",
+       "lemma": "Mit wem spreche ich, bitte?",
+       "sense": "who-am-i-speaking-to",
+       "origin": [
+        "dw-culture-page",
+        "learner-notes"
+       ],
+       "home": "sentences"
+      },
+      {
+       "id": "entschuldigen-sie",
+       "german": "Entschuldigen Sie",
+       "english": "excuse me; sorry (formal)",
+       "pos": "expression",
+       "lemma": "Entschuldigen Sie",
+       "sense": "excuse-me-formal",
+       "origin": [
+        "dw-culture-page",
+        "learner-notes"
+       ],
+       "note": "From the culture page: Ah, entschuldigen Sie, mein Name ist Carlos Fischer.",
+       "home": "sentences"
+      },
+      {
+       "id": "auf-wiederhoeren",
+       "german": "Auf Wiederhören.",
+       "english": "goodbye (on the phone)",
+       "pos": "expression",
+       "lemma": "Auf Wiederhören.",
+       "sense": "goodbye",
+       "origin": [
+        "dw-culture-page",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "koennen-sie-das-bitte-wiederholen",
+       "german": "Können Sie das bitte wiederholen?",
+       "english": "Can you repeat that, please? (formal)",
+       "pos": "expression",
+       "lemma": "Können Sie das bitte wiederholen?",
+       "sense": "can-you-repeat-that",
+       "origin": [
+        "learner-notes"
+       ],
+       "glossLookup": [
+        "wiederholen"
+       ],
+       "glossEvidence": "Goethe-Zertifikat A1 Wortliste, entry wiederholen: „Können Sie das bitte wiederholen?“",
+       "home": "sentences"
+      },
+      {
+       "id": "kannst-du-das-bitte-wiederholen",
+       "german": "Kannst du das bitte wiederholen?",
+       "english": "Can you repeat that, please? (informal)",
+       "pos": "expression",
+       "lemma": "Kannst du das bitte wiederholen?",
+       "sense": "can-you-repeat-that",
+       "origin": [
+        "learner-notes"
+       ],
+       "glossLookup": [
+        "wiederholen"
+       ],
+       "home": "sentences"
+      },
+      {
+       "id": "wie-bitte",
+       "german": "Wie bitte?",
+       "english": "Pardon?; Sorry? (asking someone to repeat)",
+       "pos": "expression",
+       "lemma": "Wie bitte?",
+       "sense": "pardon",
+       "origin": [
+        "learner-notes"
+       ],
+       "glossLookup": [
+        "wie bitte"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "koennen-sie-das-bitte-nochmal-wiederholen",
+       "german": "Können Sie das bitte nochmal wiederholen?",
+       "english": "Can you repeat that again, please? (formal)",
+       "pos": "expression",
+       "lemma": "Können Sie das bitte nochmal wiederholen?",
+       "sense": "can-you-repeat-that-again",
+       "origin": [
+        "learner-notes"
+       ],
+       "glossLookup": [
+        "nochmal",
+        "wiederholen"
+       ],
+       "home": "sentences"
+      },
+      {
+       "id": "kannst-du-das-bitte-nochmal-sagen",
+       "german": "Kannst du das bitte nochmal sagen?",
+       "english": "Can you say that again, please? (informal)",
+       "pos": "expression",
+       "lemma": "Kannst du das bitte nochmal sagen?",
+       "sense": "can-you-say-that-again",
+       "origin": [
+        "learner-notes"
+       ],
+       "glossLookup": [
+        "nochmal",
+        "sagen"
+       ],
+       "home": "sentences"
+      },
+      {
+       "id": "wie-war-das-nochmal",
+       "german": "Wie war das nochmal?",
+       "english": "What was that again?",
+       "pos": "expression",
+       "lemma": "Wie war das nochmal?",
+       "sense": "what-was-that-again",
+       "origin": [
+        "learner-notes"
+       ],
+       "glossLookup": [
+        "nochmal"
+       ],
+       "home": "sentences"
+      },
+      {
+       "id": "noch-einmal-bitte",
+       "german": "Noch einmal, bitte",
+       "english": "Again, please.",
+       "pos": "expression",
+       "lemma": "Noch einmal bitte.",
+       "sense": "again-please",
+       "origin": [
+        "learner-notes"
+       ],
+       "glossLookup": [
+        "noch einmal",
+        "bitte"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "nochmal-bitte",
+       "german": "Nochmal, bitte",
+       "english": "Again, please.",
+       "pos": "expression",
+       "lemma": "Noch einmal bitte.",
+       "sense": "again-please",
+       "origin": [
+        "learner-notes"
+       ],
+       "glossLookup": [
+        "nochmal",
+        "bitte"
+       ],
+       "note": "Kurzform: Nochmal, bitte.",
+       "home": "vocabulary"
+      },
+      {
+       "id": "wie-war-nochmal-ihr-name",
+       "german": "Wie war nochmal Ihr Name?",
+       "english": "What was your name again? (formal)",
+       "pos": "expression",
+       "lemma": "Wie war nochmal Ihr Name?",
+       "sense": "what-was-your-name-again",
+       "origin": [
+        "dw-culture-page"
+       ],
+       "home": "sentences"
+      },
+      {
+       "id": "die-firma",
+       "german": "die Firma",
+       "plural": "die Firmen",
+       "english": "company",
+       "pos": "noun",
+       "lemma": "Firma",
+       "sense": "company",
+       "origin": [
+        "dw-culture-page"
+       ],
+       "glossEvidence": "DW culture page rs-39370877: “In a professional situation, you say the name of your company first: … Firma XY, ja bitte?”",
+       "genderEvidence": "https://de.wiktionary.org/wiki/Firma (Genus f, Plural Firmen)",
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-fahrrad",
+       "german": "das Fahrrad",
+       "plural": "die Fahrräder",
+       "english": "bicycle",
+       "pos": "noun",
+       "lemma": "Fahrrad",
+       "sense": "bicycle",
+       "origin": [
+        "dw-script"
+       ],
+       "genderEvidence": "https://de.wiktionary.org/wiki/Fahrrad (Genus n, Plural Fahrräder)",
+       "home": "vocabulary"
+      },
+      {
+       "id": "schwarz",
+       "german": "schwarz",
+       "english": "black",
+       "pos": "word",
+       "lemma": "schwarz",
+       "sense": "black",
+       "origin": [
+        "dw-script"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "finden",
+       "german": "finden",
+       "english": "to find",
+       "pos": "verb",
+       "lemma": "finden",
+       "sense": "to-find",
+       "forms": "findet, fand, hat gefunden",
+       "origin": [
+        "dw-script"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "wie-ist-die-hausnummer",
+       "german": "Wie ist die Hausnummer?",
+       "english": "What is the house number?",
+       "pos": "expression",
+       "lemma": "Wie ist die Hausnummer?",
+       "sense": "what-is-the-house-number",
+       "origin": [
+        "dw-exercises"
+       ],
+       "glossLookup": [
+        "Hausnummer"
+       ],
+       "home": "sentences"
+      },
+      {
+       "id": "in-der-strasse",
+       "german": "in der …straße / …gasse / …allee",
+       "english": "on … Street / Lane / Avenue (where you live)",
+       "pos": "expression",
+       "lemma": "in der …straße",
+       "sense": "on-street",
+       "origin": [
+        "dw-grammar-page",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "glossLookup": [
+        "Straße",
+        "Gasse",
+        "Allee"
+       ],
+       "note": "Ich wohne in der Adalbert-Stifter-Straße.",
+       "home": "sentences"
+      },
+      {
+       "id": "im-weg",
+       "german": "im …weg",
+       "english": "on … Way (street names ending in -weg)",
+       "pos": "expression",
+       "lemma": "im …weg",
+       "sense": "on-way",
+       "origin": [
+        "dw-grammar-page",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "glossLookup": [
+        "Weg"
+       ],
+       "note": "Ich wohne im Adalbert-Stifter-Weg.",
+       "home": "sentences"
+      },
+      {
+       "id": "am-platz",
+       "german": "am …platz / am Markt",
+       "english": "on … Square; at the market (where you live)",
+       "pos": "expression",
+       "lemma": "am …platz",
+       "sense": "on-square",
+       "origin": [
+        "dw-grammar-page",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "glossLookup": [
+        "Platz",
+        "Markt"
+       ],
+       "note": "Ich wohne am Adalbert-Stifter-Platz.",
+       "home": "sentences"
+      },
+      {
+       "id": "die-gasse",
+       "german": "die Gasse",
+       "plural": "die Gassen",
+       "english": "lane; alley",
+       "pos": "noun",
+       "lemma": "Gasse",
+       "sense": "lane",
+       "origin": [
+        "dw-grammar-page",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "genderEvidence": "https://de.wiktionary.org/wiki/Gasse (Genus f, Plural Gassen)",
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-allee",
+       "german": "die Allee",
+       "plural": "die Alleen",
+       "english": "avenue",
+       "pos": "noun",
+       "lemma": "Allee",
+       "sense": "avenue",
+       "origin": [
+        "dw-grammar-page",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "genderEvidence": "https://de.wiktionary.org/wiki/Allee (Genus f, Plural Alleen)",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-weg",
+       "german": "der Weg",
+       "plural": "die Wege",
+       "english": "path; way",
+       "pos": "noun",
+       "lemma": "Weg",
+       "sense": "path",
+       "origin": [
+        "dw-grammar-page",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "genderEvidence": "https://de.wiktionary.org/wiki/Weg (Genus m, Plural Wege)",
+       "note": "Not: weg (gone, away)",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-platz",
+       "german": "der Platz",
+       "plural": "die Plätze",
+       "english": "square (in a town)",
+       "pos": "noun",
+       "lemma": "Platz",
+       "sense": "square",
+       "origin": [
+        "dw-grammar-page",
+        "learner-notes"
+       ],
+       "genderEvidence": "https://de.wiktionary.org/wiki/Platz (Genus m, Plural Plätze)",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-markt",
+       "german": "der Markt",
+       "plural": "die Märkte",
+       "english": "market",
+       "pos": "noun",
+       "lemma": "Markt",
+       "sense": "market",
+       "origin": [
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "genderEvidence": "https://de.wiktionary.org/wiki/Markt (Genus m, Plural Märkte)",
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-praeposition",
+       "german": "die Präposition",
+       "plural": "die Präpositionen",
+       "english": "preposition",
+       "pos": "noun",
+       "lemma": "Präposition",
+       "sense": "preposition",
+       "origin": [
+        "dw-grammar-page",
+        "learner-notes"
+       ],
+       "genderEvidence": "https://de.wiktionary.org/wiki/Präposition (Genus f, Plural Präpositionen)",
+       "note": "Grammar term",
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-w-frage",
+       "german": "die W-Frage",
+       "plural": "die W-Fragen",
+       "english": "W-question; wh-question",
+       "pos": "noun",
+       "lemma": "W-Frage",
+       "sense": "w-question",
+       "origin": [
+        "dw-grammar-page"
+       ],
+       "genderEvidence": "https://de.wiktionary.org/wiki/W-Frage (Genus f, Plural W-Fragen)",
+       "note": "Grammar term",
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-ergaenzungsfrage",
+       "german": "die Ergänzungsfrage",
+       "plural": "die Ergänzungsfragen",
+       "english": "completive question",
+       "pos": "noun",
+       "lemma": "Ergänzungsfrage",
+       "sense": "completive-question",
+       "origin": [
+        "dw-grammar-page",
+        "learner-notes"
+       ],
+       "genderEvidence": "https://de.wiktionary.org/wiki/Ergänzungsfrage (Genus f, Plural Ergänzungsfragen)",
+       "note": "Grammar term: another name for die W-Frage (DW grammar page)",
+       "home": "vocabulary"
+      },
+      {
+       "id": "passieren",
+       "german": "passieren",
+       "english": "to happen",
+       "pos": "verb",
+       "lemma": "passieren",
+       "sense": "to-happen",
+       "forms": "passiert, passierte, ist passiert",
+       "origin": [
+        "dw-script"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "etwas-aufschreiben",
+       "german": "(etwas) aufschreiben",
+       "english": "to write down",
+       "pos": "verb",
+       "lemma": "aufschreiben",
+       "sense": "to-write-down",
+       "forms": "schreibt auf, schrieb auf, hat aufgeschrieben",
+       "origin": [
+        "dw-exercises"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-aufnaeher",
+       "german": "der Aufnäher",
+       "plural": "die Aufnäher",
+       "english": "patch (sewn on)",
+       "pos": "noun",
+       "lemma": "Aufnäher",
+       "sense": "patch",
+       "origin": [
+        "dw-script"
+       ],
+       "level": "beyond-A1",
+       "genderEvidence": "https://www.duden.de/rechtschreibung/Aufnaeher (Substantiv, maskulin; Plural die Aufnäher)",
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-polizeistelle",
+       "german": "die Polizeistelle",
+       "plural": "die Polizeistellen",
+       "english": "police office; police station",
+       "pos": "noun",
+       "lemma": "Polizeistelle",
+       "sense": "police-station",
+       "origin": [
+        "dw-script"
+       ],
+       "level": "beyond-A1",
+       "genderEvidence": "Compound rule: die Stelle, die Stellen → die Polizeistelle, die Polizeistellen (not in Duden or Wiktionary as one word)",
+       "home": "vocabulary",
+       "glossLookup": [
+        "Polizei",
+        "Stelle"
+       ],
+       "glossEvidence": "Compound: Polizei (police) + Stelle (department, office, in the public sector; en.wiktionary). Not in Duden, dict.cc or Wiktionary as one word."
+      },
+      {
+       "id": "die-radiomoderatorin",
+       "german": "die Radiomoderatorin",
+       "plural": "die Radiomoderatorinnen",
+       "english": "radio presenter (female)",
+       "pos": "noun",
+       "lemma": "Radiomoderatorin",
+       "sense": "radio-presenter",
+       "origin": [
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "genderEvidence": "https://de.wiktionary.org/wiki/Radiomoderatorin (Genus f, Plural Radiomoderatorinnen)",
+       "home": "vocabulary"
+      }
+     ],
+     "pendingEntries": [],
+     "declinedEntries": [
+      {
+       "german": "aus dem / aus der / aus den + country (the grammar page's list: aus dem Irak … aus den Vereinigten Arabischen Emiraten; von den Bahamas …)",
+       "decision": "not now (2026-09-28): \"not important right now\""
+      }
+     ]
     }
    ]
   },

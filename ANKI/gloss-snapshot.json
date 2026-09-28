@@ -39,6 +39,18 @@
    ],
    "fetchedOn": "2026-09-25"
   },
+  "Allee": {
+   "url": "https://en.wiktionary.org/wiki/Allee#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "avenue; street that is bordered on both sides by trees"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-09-28"
+  },
   "Alles okay": {
    "url": "https://en.wiktionary.org/api/rest_v1/page/definition/Alles_okay",
    "status": 404,
@@ -217,6 +229,30 @@
     }
    ],
    "fetchedOn": "2026-09-25"
+  },
+  "Aufnäher": {
+   "url": "https://www.dict.cc/?s=Aufn%C3%A4her",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "",
+     "text": "patch"
+    },
+    {
+     "pos": "",
+     "text": "applicator"
+    },
+    {
+     "pos": "",
+     "text": "(sew-on) badge"
+    },
+    {
+     "pos": "",
+     "text": "sew on patch"
+    }
+   ],
+   "dictionary": "dict.cc",
+   "fetchedOn": "2026-09-28"
   },
   "Aussage": {
    "url": "https://en.wiktionary.org/wiki/Aussage#German",
@@ -610,6 +646,34 @@
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-27"
   },
+  "Ergänzungsfrage": {
+   "url": "https://www.dict.cc/?s=Erg%C3%A4nzungsfrage",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "",
+     "text": "probe question"
+    },
+    {
+     "pos": "",
+     "text": "completive question"
+    }
+   ],
+   "dictionary": "dict.cc",
+   "fetchedOn": "2026-09-28"
+  },
+  "Fahrrad": {
+   "url": "https://en.wiktionary.org/wiki/Fahrrad#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "bicycle"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-09-28"
+  },
   "Familie": {
    "url": "https://en.wiktionary.org/wiki/Familie#German",
    "status": 200,
@@ -733,6 +797,18 @@
    ],
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-27"
+  },
+  "Gasse": {
+   "url": "https://en.wiktionary.org/wiki/Gasse#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "alley, lane, ginnel, twitchel"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-09-28"
   },
   "Geburtsort": {
    "url": "https://en.wiktionary.org/wiki/Geburtsort#German",
@@ -1402,6 +1478,34 @@
    ],
    "fetchedOn": "2026-09-25"
   },
+  "Markt": {
+   "url": "https://en.wiktionary.org/wiki/Markt#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "market (gathering for sale and purchase)"
+    },
+    {
+     "pos": "Noun",
+     "text": "market (trading, economic exchange)"
+    },
+    {
+     "pos": "Noun",
+     "text": "market, large shop"
+    },
+    {
+     "pos": "Noun",
+     "text": "ellipsis of Marktplatz (“market square”)"
+    },
+    {
+     "pos": "Noun",
+     "text": "market town"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-09-28"
+  },
   "Meeting": {
    "url": "https://en.wiktionary.org/wiki/Meeting#German",
    "status": 200,
@@ -1692,6 +1796,54 @@
    ],
    "fetchedOn": "2026-09-25"
   },
+  "Platz": {
+   "url": "https://en.wiktionary.org/wiki/Platz#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "square, plaza, piazza"
+    },
+    {
+     "pos": "Noun",
+     "text": "circus"
+    },
+    {
+     "pos": "Noun",
+     "text": "space, room"
+    },
+    {
+     "pos": "Noun",
+     "text": "place, seat, spot, position (precise location someone or something occupies)"
+    },
+    {
+     "pos": "Noun",
+     "text": "place, location, site (in general)"
+    },
+    {
+     "pos": "Noun",
+     "text": "spot, place (position in a hierarchy or sequence)"
+    },
+    {
+     "pos": "Noun",
+     "text": "court, field, pitch, course"
+    },
+    {
+     "pos": "Noun",
+     "text": "village, town, municipality"
+    },
+    {
+     "pos": "Noun",
+     "text": "place (rank in a competition)"
+    },
+    {
+     "pos": "Interjection",
+     "text": "down! (command to lie down, especially for a dog)"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-09-28"
+  },
   "Plural": {
    "url": "https://en.wiktionary.org/wiki/Plural#German",
    "status": 200,
@@ -1703,6 +1855,18 @@
    ],
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-25"
+  },
+  "Polizei": {
+   "url": "https://en.wiktionary.org/wiki/Polizei#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "police; law enforcement"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-09-28"
   },
   "Polizeirevier": {
    "url": "https://en.wiktionary.org/wiki/Polizeirevier#German",
@@ -1716,6 +1880,13 @@
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-27"
   },
+  "Polizeistelle": {
+   "url": "https://www.dict.cc/?s=Polizeistelle",
+   "status": 404,
+   "definitions": [],
+   "dictionary": "dict.cc",
+   "fetchedOn": "2026-09-28"
+  },
   "Postleitzahl": {
    "url": "https://en.wiktionary.org/wiki/Postleitzahl#German",
    "status": 200,
@@ -1726,6 +1897,22 @@
     }
    ],
    "fetchedOn": "2026-09-25"
+  },
+  "Präposition": {
+   "url": "https://en.wiktionary.org/wiki/Pr%C3%A4position#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "adposition, preposition (broad sense)"
+    },
+    {
+     "pos": "Noun",
+     "text": "preposition (narrow sense)"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-09-28"
   },
   "Präsens": {
    "url": "https://en.wiktionary.org/wiki/Pr%C3%A4sens#German",
@@ -1774,6 +1961,22 @@
    ],
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-27"
+  },
+  "Radiomoderatorin": {
+   "url": "https://www.dict.cc/?s=Radiomoderatorin",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "",
+     "text": "radio host"
+    },
+    {
+     "pos": "",
+     "text": "radio presenter"
+    }
+   ],
+   "dictionary": "dict.cc",
+   "fetchedOn": "2026-09-28"
   },
   "Reihenfolge": {
    "url": "https://en.wiktionary.org/wiki/Reihenfolge#German",
@@ -2194,6 +2397,50 @@
     }
    ],
    "fetchedOn": "2026-09-25"
+  },
+  "Stelle": {
+   "url": "https://en.wiktionary.org/wiki/Stelle#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "location, spot (specific location in space, relevant in context but typically otherwise unmarked)"
+    },
+    {
+     "pos": "Noun",
+     "text": "spot (specific location on skin or another surface, often featuring damage or a different property)"
+    },
+    {
+     "pos": "Noun",
+     "text": "spot, part, bit (brief section of a book, movie, piece of music, etc., typically encompassing a few seconds or lines at most)"
+    },
+    {
+     "pos": "Noun",
+     "text": "point (situation or status reached by a certain amount of progress through an endeavor)"
+    },
+    {
+     "pos": "Noun",
+     "text": "place, position (position within a certain ordering or ranking)"
+    },
+    {
+     "pos": "Noun",
+     "text": "position specifically in terms of importance"
+    },
+    {
+     "pos": "Noun",
+     "text": "synonym of Dezimalstelle"
+    },
+    {
+     "pos": "Noun",
+     "text": "position, job (set of tasks or responsibilities meant to be filled by the employment of one person)"
+    },
+    {
+     "pos": "Noun",
+     "text": "department, office (organizational unit bearing the responsibility for a specific task, particularly in the public sector)"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-09-28"
   },
   "Straße": {
    "url": "https://en.wiktionary.org/wiki/Stra%C3%9Fe#German",
@@ -2627,6 +2874,18 @@
    ],
    "fetchedOn": "2026-09-25"
   },
+  "W-Frage": {
+   "url": "https://en.wiktionary.org/wiki/W-Frage#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "wh-question"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-09-28"
+  },
   "Was ist los": {
    "url": "https://www.dict.cc/?s=Was+ist+los",
    "status": 200,
@@ -2686,6 +2945,30 @@
    ],
    "dictionary": "dict.cc",
    "fetchedOn": "2026-09-27"
+  },
+  "Weg": {
+   "url": "https://en.wiktionary.org/wiki/Weg#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "path, trail, track (usually for foot traffic)"
+    },
+    {
+     "pos": "Noun",
+     "text": "route, way (to get from one place to another)"
+    },
+    {
+     "pos": "Noun",
+     "text": "method, way (of doing something)"
+    },
+    {
+     "pos": "Noun",
+     "text": "someone's planned course or path, the space needed for movement"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-09-28"
   },
   "Werbung": {
    "url": "https://en.wiktionary.org/wiki/Werbung#German",
@@ -3283,6 +3566,26 @@
    ],
    "fetchedOn": "2026-09-25"
   },
+  "aufschreiben": {
+   "url": "https://en.wiktionary.org/wiki/aufschreiben#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Verb",
+     "text": "to write down, mark down, to make a note (of something)"
+    },
+    {
+     "pos": "Verb",
+     "text": "to mark out"
+    },
+    {
+     "pos": "Verb",
+     "text": "to prescribe (medicine)"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-09-28"
+  },
   "baba": {
    "url": "https://en.wiktionary.org/wiki/baba#German",
    "status": 200,
@@ -3470,6 +3773,50 @@
    ],
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-25"
+  },
+  "bitte": {
+   "url": "https://en.wiktionary.org/wiki/bitte#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Adverb",
+     "text": "please, if you please (used to make a polite request or affirm an offer)"
+    },
+    {
+     "pos": "Interjection",
+     "text": "you're welcome (acknowledgement of thanks)"
+    },
+    {
+     "pos": "Interjection",
+     "text": "excuse me, sorry (request to repeat information)"
+    },
+    {
+     "pos": "Interjection",
+     "text": "here you are (when handing something over to someone)"
+    },
+    {
+     "pos": "Interjection",
+     "text": "OK then, well then, all right (indication of mock acquiescence to someone's apparent demanding attitude)"
+    },
+    {
+     "pos": "Verb",
+     "text": "inflection of bitten:\nfirst-person singular present\nfirst/third-person singular subjunctive I\nsingular imperative"
+    },
+    {
+     "pos": "Verb",
+     "text": "first-person singular present"
+    },
+    {
+     "pos": "Verb",
+     "text": "first/third-person singular subjunctive I"
+    },
+    {
+     "pos": "Verb",
+     "text": "singular imperative"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-09-28"
   },
   "brauchen": {
    "url": "https://en.wiktionary.org/wiki/brauchen#German",
@@ -3930,6 +4277,30 @@
    ],
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-27"
+  },
+  "finden": {
+   "url": "https://en.wiktionary.org/wiki/finden#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Verb",
+     "text": "to find; to discover"
+    },
+    {
+     "pos": "Verb",
+     "text": "to think, to consider, to find .mw-parser-output .object-usage-tag{font-style:italic}.mw-parser-output .deprecated{color:var(--wikt-palette-grey-lime-8,olivedrab)}[with accusative ‘someone/something’, along with predicate adjective or accusative noun ‘to be a certain way’]"
+    },
+    {
+     "pos": "Verb",
+     "text": "to find one's way"
+    },
+    {
+     "pos": "Verb",
+     "text": "to be found, can be found"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-09-28"
   },
   "formell": {
    "url": "https://en.wiktionary.org/wiki/formell#German",
@@ -5136,6 +5507,34 @@
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-27"
   },
+  "noch einmal": {
+   "url": "https://en.wiktionary.org/wiki/noch_einmal#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Adverb",
+     "text": "one more time, again"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-09-28"
+  },
+  "nochmal": {
+   "url": "https://en.wiktionary.org/wiki/nochmal#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Adverb",
+     "text": "once again"
+    },
+    {
+     "pos": "Adverb",
+     "text": "again, one more time"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-09-28"
+  },
   "null": {
    "url": "https://en.wiktionary.org/wiki/null#German",
    "status": 200,
@@ -5233,6 +5632,26 @@
    ],
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-27"
+  },
+  "passieren": {
+   "url": "https://en.wiktionary.org/wiki/passieren#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Verb",
+     "text": "to happen [auxiliary sein]"
+    },
+    {
+     "pos": "Verb",
+     "text": "to move beyond; pass [auxiliary haben]"
+    },
+    {
+     "pos": "Verb",
+     "text": "to pass through a sieve, to strain [auxiliary haben]"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-09-28"
   },
   "pfiat di": {
    "url": "https://en.wiktionary.org/wiki/pfiat_di#German",
@@ -5397,6 +5816,46 @@
    ],
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-27"
+  },
+  "schwarz": {
+   "url": "https://en.wiktionary.org/wiki/schwarz#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Adjective",
+     "text": "black, reflecting little or no light"
+    },
+    {
+     "pos": "Adjective",
+     "text": "illegal"
+    },
+    {
+     "pos": "Adjective",
+     "text": "black, having a high amount of melanin in an organ, e.g. the skin"
+    },
+    {
+     "pos": "Adjective",
+     "text": "of the CDU or CSU (large center-right Christian Democratic parties, whose associated colour is black)"
+    },
+    {
+     "pos": "Adjective",
+     "text": "of the ÖVP (conservative party, whose associated colour is black)"
+    },
+    {
+     "pos": "Adjective",
+     "text": "without milk"
+    },
+    {
+     "pos": "Adjective",
+     "text": "not having won any trick (or only tricks with zero points)"
+    },
+    {
+     "pos": "Adjective",
+     "text": "Goth (of Goth music or culture, called schwarze Szene (“black scene”) in German)"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-09-28"
   },
   "sechs": {
    "url": "https://en.wiktionary.org/wiki/sechs#German",
@@ -6186,6 +6645,58 @@
    ],
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-27"
+  },
+  "wie bitte": {
+   "url": "https://en.wiktionary.org/wiki/wie_bitte#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Phrase",
+     "text": "sorry?, pardon?, come again?, excuse me?, I beg your pardon? (used to ask someone to repeat something one hasn’t understood or has refused to understand)"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-09-28"
+  },
+  "wiederholen": {
+   "url": "https://en.wiktionary.org/wiki/wiederholen#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Verb",
+     "text": "to repeat (to do or say again)"
+    },
+    {
+     "pos": "Verb",
+     "text": "to recapitulate (to summarize or repeat in concise form)"
+    },
+    {
+     "pos": "Verb",
+     "text": "to revise, review, study (look over again (something previously written or learned))"
+    },
+    {
+     "pos": "Verb",
+     "text": "to play again, replay (to perform in (a sport) or participate in (a game) again)"
+    },
+    {
+     "pos": "Verb",
+     "text": "to retake (to take or do (an exam, penalty shot, etc.) again; to photograph or film again)"
+    },
+    {
+     "pos": "Verb",
+     "text": "to repeat oneself (to say again what one has said)"
+    },
+    {
+     "pos": "Verb",
+     "text": "to recur, repeat itself (to happen again)"
+    },
+    {
+     "pos": "Verb",
+     "text": "to bring back, take back"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-09-28"
   },
   "willkommen": {
    "url": "https://en.wiktionary.org/wiki/willkommen#German",

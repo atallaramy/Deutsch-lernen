@@ -3,6 +3,20 @@
 Confirmed decisions, newest first. The binding rules they produce live in
 `AGENTS.md`; this file records why and when.
 
+## 2026-09-28 — DW A1 E2 L3 Adressen
+
+| Topic | Decision |
+|---|---|
+| Mistake rounds | Two rounds and a final check, saved in the lesson's `Materials/mistakes.md`; the learner fixed everything before capture ("go only if all mistakes fixed"). |
+| Harvester | Found and fixed: the read-aloud lines and tips of DW exercises (`inquiryDescription`, e.g. *Die Straße heißt Schillerstraße.* and the tip *Ich wohne am Schillerplatz/Markt.*) were not saved. E2 L3 was re-harvested; earlier snapshots are unchanged. |
+| Level tag | Interpretation, applied: `beyond-A1` follows the Goethe-Zertifikat A1 word list. *die Gasse, die Allee, der Weg, der Markt* are tagged (on the grammar page or in an exercise tip, and in the notes). |
+| Merges | *Entschuldigung* (I'm sorry) joins the existing *excuse me / sorry* card; *Noch einmal, bitte* and *Nochmal, bitte* join *Noch einmal bitte.*; *Mir geht's gut.* gets its own Sentences card (short form). *Viel Glück!* and *Viel Erfolg!* got cues that tell them apart. |
+| Meanings | Every new meaning is official or dictionary-checked. *die Ergänzungsfrage* takes dict.cc's wording (*completive question*); its cue says it is the other term for a W-question (DW grammar page). |
+| Top priority | The learner: make it easier to study German and save their time; "put this is the only bible"; everything "easy and short". Recorded at the top of `AGENTS.md`. |
+| Beyond A1 | The learner: "I like those 5 words even if they are above A1. Use them." *passieren, aufschreiben, der Aufnäher, die Polizeistelle, die Radiomoderatorin* added, tagged. The card note now just says "Beyond A1." |
+| Country list | "Not important right now": recorded as declined for now. |
+| Build | The learner ran `approve --all`; decks built (448 Vocabulary, 162 Articles, 81 Sentences, 13 lesson decks; E2 L3 lesson deck 42 cards). The learner also asked to skip the review step from now on; the rule files were not changed (the edit was blocked by a permission check). |
+
 ## 2026-09-27 — vocabulary and grammar pages
 
 | Topic | Decision |

@@ -36,8 +36,8 @@ level; one set of decks keeps daily study to three decks.
 
 ## A1 — where you are (DW Nicos Weg A1 + VHS A1 + Easy German)
 
-Studied so far: DW E0 L1–L4 and E1 L1–L4, VHS Lektion 2, and Easy German SEG 274
-(not yet captured; decision D7).
+Studied so far: DW E0 L1–L4, E1 L1–L4 and E2 L1–L3, VHS Lektion 2, and Easy German
+SEG 274. Next in DW: E2 L4.
 
 Grammar ahead in DW A1 (from DW's own lesson data):
 - **E2–E4:** numbers, W-questions, noun gender, vowel change e→i, simple past of *sein*, *man*

@@ -21,12 +21,13 @@
 | `archive/2026-09-27-dw-a1-e2-l2/` | Backup of the data, grammar and doc files edited when DW A1 E2 L2 was processed, with a SHA-256 manifest. |
 | `archive/2026-09-27-official-materials-capture/` | Backup of the data, builder, test and doc files edited when the official scripts and exercises became a capture source, with a SHA-256 manifest. |
 | `archive/2026-09-27-lesson-pages/` | Backup of the data, snapshot, builder, test, instruction and doc files edited when the DW vocabulary, grammar and culture pages became checked sources, with a SHA-256 manifest. |
+| `archive/2026-09-27-dw-a1-e2-l3/` | Backup of the data, builder, test, grammar and doc files edited when DW A1 E2 L3 was processed, with a SHA-256 manifest. |
 
 ## Files in a lesson's `Materials/` (written by `harvest_sources.py`)
 
 | File | Role |
 |---|---|
-| `source-snapshot.json` | Official source text. DW `script`: the PDF's lines. DW `exercises`: `vocabulary` (the vocabulary page `/lv`: `url`, `items` with `id`, `german`, `english`, `forms`), `exercises` (correct texts) and `pages` (grammar `gr-` and culture `rs-` pages: `texts`, plus `html` for the readable copy). Contexts are verified against the script, exercise and page texts; vocabulary items are not contexts. |
+| `source-snapshot.json` | Official source text. DW `script`: the PDF's lines. DW `exercises`: `vocabulary` (the vocabulary page `/lv`: `url`, `items` with `id`, `german`, `english`, `forms`), `exercises` (correct texts, read-aloud lines and tips) and `pages` (grammar `gr-` and culture `rs-` pages: `texts`, plus `html` for the readable copy). Contexts are verified against the script, exercise and page texts; vocabulary items are not contexts. |
 | `lesson-pages.md` | DW only: readable copy of the vocabulary page (German, English, forms) and the grammar and culture pages, rendered with pandoc from the snapshot. Never edited by hand; `harvest_sources.py --pages` rewrites it offline, and the tests fail while it lags the snapshot. |
 
 ## Code

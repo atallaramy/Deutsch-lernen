@@ -1404,6 +1404,154 @@
   "dw-a1-e2-l2:viel-spass": [
    "vocab:Viel Spaß!|have-fun"
   ],
+  "dw-a1-e2-l3:die-polizei-ist-in-der-schreinerstrasse": [
+   "sentence:police-on-schreinerstrasse"
+  ],
+  "dw-a1-e2-l3:entschuldigung": [
+   "vocab:Entschuldigung|excuse-me"
+  ],
+  "dw-a1-e2-l3:fehlen": [
+   "vocab:fehlen|to-be-missing"
+  ],
+  "dw-a1-e2-l3:mir-gehts-gut": [
+   "sentence:doing-well-short"
+  ],
+  "dw-a1-e2-l3:etwas-schreiben": [
+   "vocab:schreiben|to-write"
+  ],
+  "dw-a1-e2-l3:mit-jemandem-telefonieren": [
+   "vocab:telefonieren|to-phone"
+  ],
+  "dw-a1-e2-l3:viel-glueck": [
+   "vocab:Viel Glück!|good-luck"
+  ],
+  "dw-a1-e2-l3:warum": [
+   "vocab:warum|why"
+  ],
+  "dw-a1-e2-l3:wer-ist-da": [
+   "sentence:who-is-there"
+  ],
+  "dw-a1-e2-l3:wie-heisst-die-strasse": [
+   "sentence:street-name-question"
+  ],
+  "dw-a1-e2-l3:wo-bist-du": [
+   "sentence:where-are-you-informal"
+  ],
+  "dw-a1-e2-l3:wo-ist-die-polizei": [
+   "sentence:where-is-police"
+  ],
+  "dw-a1-e2-l3:mit-wem-spreche-ich-bitte": [
+   "sentence:phone-who-speaking"
+  ],
+  "dw-a1-e2-l3:entschuldigen-sie": [
+   "sentence:phone-sorry-formal"
+  ],
+  "dw-a1-e2-l3:auf-wiederhoeren": [
+   "vocab:Auf Wiederhören.|goodbye"
+  ],
+  "dw-a1-e2-l3:koennen-sie-das-bitte-wiederholen": [
+   "sentence:repeat-formal"
+  ],
+  "dw-a1-e2-l3:kannst-du-das-bitte-wiederholen": [
+   "sentence:repeat-informal"
+  ],
+  "dw-a1-e2-l3:wie-bitte": [
+   "vocab:Wie bitte?|pardon"
+  ],
+  "dw-a1-e2-l3:koennen-sie-das-bitte-nochmal-wiederholen": [
+   "sentence:repeat-formal"
+  ],
+  "dw-a1-e2-l3:kannst-du-das-bitte-nochmal-sagen": [
+   "sentence:repeat-informal"
+  ],
+  "dw-a1-e2-l3:wie-war-das-nochmal": [
+   "sentence:what-was-that-again"
+  ],
+  "dw-a1-e2-l3:noch-einmal-bitte": [
+   "vocab:Noch einmal bitte.|again-please"
+  ],
+  "dw-a1-e2-l3:nochmal-bitte": [
+   "vocab:Noch einmal bitte.|again-please"
+  ],
+  "dw-a1-e2-l3:wie-war-nochmal-ihr-name": [
+   "sentence:phone-name-again-formal"
+  ],
+  "dw-a1-e2-l3:die-firma": [
+   "article:Firma|f",
+   "vocab:Firma|company"
+  ],
+  "dw-a1-e2-l3:das-fahrrad": [
+   "article:Fahrrad|n",
+   "vocab:Fahrrad|bicycle"
+  ],
+  "dw-a1-e2-l3:schwarz": [
+   "vocab:schwarz|black"
+  ],
+  "dw-a1-e2-l3:finden": [
+   "vocab:finden|to-find"
+  ],
+  "dw-a1-e2-l3:wie-ist-die-hausnummer": [
+   "sentence:house-number-question"
+  ],
+  "dw-a1-e2-l3:in-der-strasse": [
+   "sentence:street-in-der"
+  ],
+  "dw-a1-e2-l3:im-weg": [
+   "sentence:street-im"
+  ],
+  "dw-a1-e2-l3:am-platz": [
+   "sentence:street-am"
+  ],
+  "dw-a1-e2-l3:die-gasse": [
+   "article:Gasse|f",
+   "vocab:Gasse|lane"
+  ],
+  "dw-a1-e2-l3:die-allee": [
+   "article:Allee|f",
+   "vocab:Allee|avenue"
+  ],
+  "dw-a1-e2-l3:der-weg": [
+   "article:Weg|m",
+   "vocab:Weg|path"
+  ],
+  "dw-a1-e2-l3:der-platz": [
+   "article:Platz|m",
+   "vocab:Platz|square"
+  ],
+  "dw-a1-e2-l3:der-markt": [
+   "article:Markt|m",
+   "vocab:Markt|market"
+  ],
+  "dw-a1-e2-l3:die-praeposition": [
+   "article:Präposition|f",
+   "vocab:Präposition|preposition"
+  ],
+  "dw-a1-e2-l3:die-w-frage": [
+   "article:W-Frage|f",
+   "vocab:W-Frage|w-question"
+  ],
+  "dw-a1-e2-l3:die-ergaenzungsfrage": [
+   "article:Ergänzungsfrage|f",
+   "vocab:Ergänzungsfrage|completive-question"
+  ],
+  "dw-a1-e2-l3:passieren": [
+   "vocab:passieren|to-happen"
+  ],
+  "dw-a1-e2-l3:etwas-aufschreiben": [
+   "vocab:aufschreiben|to-write-down"
+  ],
+  "dw-a1-e2-l3:der-aufnaeher": [
+   "article:Aufnäher|m",
+   "vocab:Aufnäher|patch"
+  ],
+  "dw-a1-e2-l3:die-polizeistelle": [
+   "article:Polizeistelle|f",
+   "vocab:Polizeistelle|police-station"
+  ],
+  "dw-a1-e2-l3:die-radiomoderatorin": [
+   "article:Radiomoderatorin|f",
+   "vocab:Radiomoderatorin|radio-presenter"
+  ],
   "vhs-a1-l02:die-familie": [
    "article:Familie|f",
    "vocab:Familie|family"

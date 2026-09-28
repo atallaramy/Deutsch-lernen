@@ -83,6 +83,23 @@ def dw_vocabulary(state: dict) -> list[dict]:
     return items
 
 
+def exercise_texts(state: dict) -> list[str]:
+    """One exercise's official text: input text, questions, read-aloud lines and tips, and the correct answers."""
+    exercise = next(value for key, value in state.items() if key.startswith("Exercise:"))
+    texts: list[str] = []
+    if exercise.get("inputText"):
+        texts.append(clean_text(exercise["inputText"]))
+    for key, value in sorted(state.items()):
+        if key.startswith("Inquiry:"):
+            # inquiryDescription: the line to read aloud in REPEAT exercises, or the exercise's tip
+            for field in ("text", "inquiryText", "inquiryDescription"):
+                if value.get(field):
+                    texts.append(clean_text(value[field]))
+        elif key.startswith("Alternative:") and value.get("isCorrect") and value.get("alternativeText"):
+            texts.append(clean_text(value["alternativeText"]))
+    return [text for text in texts if text]
+
+
 def dw_lesson(lesson_url: str) -> dict:
     """Collect a DW lesson's vocabulary page, correct exercise texts, grammar and culture pages."""
     base = lesson_url.rstrip("/")
@@ -99,19 +116,9 @@ def dw_lesson(lesson_url: str) -> dict:
         url = "https://learngerman.dw.com" + path
         state = apollo(url)
         exercise = next(value for key, value in state.items() if key.startswith("Exercise:"))
-        texts: list[str] = []
-        if exercise.get("inputText"):
-            texts.append(clean_text(exercise["inputText"]))
-        for key, value in sorted(state.items()):
-            if key.startswith("Inquiry:"):
-                for field in ("text", "inquiryText"):
-                    if value.get(field):
-                        texts.append(clean_text(value[field]))
-            elif key.startswith("Alternative:") and value.get("isCorrect") and value.get("alternativeText"):
-                texts.append(clean_text(value["alternativeText"]))
         tags = sorted(set(re.findall(r'data-title="([^"]+)"', json.dumps(state, ensure_ascii=False))))
         exercises.append({"id": path.rsplit("/", 1)[-1], "url": url, "title": exercise.get("name", ""),
-                          "texts": [text for text in texts if text], "vocabularyTags": tags})
+                          "texts": exercise_texts(state), "vocabularyTags": tags})
         time.sleep(0.3)
     return {"lessonUrl": base, "vocabulary": vocabulary, "exercises": exercises, "pages": pages}
 

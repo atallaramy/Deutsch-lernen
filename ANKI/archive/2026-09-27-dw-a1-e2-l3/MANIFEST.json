@@ -1,0 +1,116 @@
+{
+  "createdAt": "2026-09-27",
+  "reason": "Backup before processing DW A1 E2 L3 Adressen. Restore by copying each backup to its original path.",
+  "files": [
+    {
+      "original": "ANKI/lesson-vocabulary.json",
+      "backup": "ANKI/archive/2026-09-27-dw-a1-e2-l3/ANKI/lesson-vocabulary.json",
+      "sha256": "d095ff7f0206fd3d0e798a495ce76f7ff21eed3e014aa881119c952ba38e40e4"
+    },
+    {
+      "original": "ANKI/vocabulary-cards.json",
+      "backup": "ANKI/archive/2026-09-27-dw-a1-e2-l3/ANKI/vocabulary-cards.json",
+      "sha256": "7ebbd5b15080013b0a8b44e775be02f2c3b8b2c8c066741360d8ed95c65632e1"
+    },
+    {
+      "original": "ANKI/articles-cards.json",
+      "backup": "ANKI/archive/2026-09-27-dw-a1-e2-l3/ANKI/articles-cards.json",
+      "sha256": "f83296903985b348cafc7e78f768e5e72f79967e9cf9954feb7128396263e989"
+    },
+    {
+      "original": "ANKI/sentence-sources.json",
+      "backup": "ANKI/archive/2026-09-27-dw-a1-e2-l3/ANKI/sentence-sources.json",
+      "sha256": "f9f4a5ed447143ef127dc59e51c3c234fba82b25049b7a643544b620e0e734b7"
+    },
+    {
+      "original": "ANKI/gloss-snapshot.json",
+      "backup": "ANKI/archive/2026-09-27-dw-a1-e2-l3/ANKI/gloss-snapshot.json",
+      "sha256": "8e6e811661ff3f888a212d725314acbd13db4d890929511c558c7b324e784a6e"
+    },
+    {
+      "original": "ANKI/review/approvals.json",
+      "backup": "ANKI/archive/2026-09-27-dw-a1-e2-l3/ANKI/review/approvals.json",
+      "sha256": "9958301939321df9d790a580c7bc7fde0f091c01fef5b12034bb9784e612708a"
+    },
+    {
+      "original": "docs/decisions.md",
+      "backup": "ANKI/archive/2026-09-27-dw-a1-e2-l3/docs/decisions.md",
+      "sha256": "ee584791f7e02a87cdac86afa4cee7225c1cf268e21d2c088f74e60be8c315e7"
+    },
+    {
+      "original": "docs/links.md",
+      "backup": "ANKI/archive/2026-09-27-dw-a1-e2-l3/docs/links.md",
+      "sha256": "008f30b4ae36ff8fd26301609b62ba9ed3f537585834700d206e816f20cee2a6"
+    },
+    {
+      "original": "ANKI/harvest_sources.py",
+      "backup": "ANKI/archive/2026-09-27-dw-a1-e2-l3/ANKI/harvest_sources.py",
+      "sha256": "3856394d28e58e01d70f2ffa53ad8e9e670bd89f891ab6ad6c629eff062e3ac7"
+    },
+    {
+      "original": "ANKI/tests/test_harvest_sources.py",
+      "backup": "ANKI/archive/2026-09-27-dw-a1-e2-l3/ANKI/tests/test_harvest_sources.py",
+      "sha256": "a78995e1aa0dec8da5ef2f52dfce1c5885950d319f8e19175981b01cd1fc3ff4"
+    },
+    {
+      "original": "Grammatik/A1/wohnen-in.md",
+      "backup": "ANKI/archive/2026-09-27-dw-a1-e2-l3/Grammatik/A1/wohnen-in.md",
+      "sha256": "2ada99c30ac3e0d9ae9c55dfa3de9a0ebe1e68663f6faeff743696753897d077"
+    },
+    {
+      "original": "Grammatik/A1/W-Fragen.md",
+      "backup": "ANKI/archive/2026-09-27-dw-a1-e2-l3/Grammatik/A1/W-Fragen.md",
+      "sha256": "ceb74cc620a3c40f1fbaf21a0ec49d319b60092daaf1ad8bca4c0ff53d65d89c"
+    },
+    {
+      "original": "Grammatik/A1/du-und-Sie.md",
+      "backup": "ANKI/archive/2026-09-27-dw-a1-e2-l3/Grammatik/A1/du-und-Sie.md",
+      "sha256": "f693b9c9ee6d5f0210a683657ee41d30a9a5ed488d57f16485c7ba8f391bb4a7"
+    },
+    {
+      "original": "Grammatik/A1/Begruessungen.md",
+      "backup": "ANKI/archive/2026-09-27-dw-a1-e2-l3/Grammatik/A1/Begruessungen.md",
+      "sha256": "70b7832d00de99b209cf3cbca263316715c222b1c5d941df457894e85fdddcac"
+    },
+    {
+      "original": "Grammatik/README.md",
+      "backup": "ANKI/archive/2026-09-27-dw-a1-e2-l3/Grammatik/README.md",
+      "sha256": "152b861c3e064c59546ef2e9e63f7c419f6d4735fd978282007645437de2cb48"
+    },
+    {
+      "original": "Grammatik/Materials/pdf-build.json",
+      "backup": "ANKI/archive/2026-09-27-dw-a1-e2-l3/Grammatik/Materials/pdf-build.json",
+      "sha256": "1ae7c65f1e546cf3b8032356d5c9db337aec2c0cbf97e3584d76ff869665d4fb"
+    },
+    {
+      "original": "docs/data-model.md",
+      "backup": "ANKI/archive/2026-09-27-dw-a1-e2-l3/docs/data-model.md",
+      "sha256": "9715aaedfa2d3b1b829e8cba326a48dde11c4bcf05bdc0dade83fa9701fd95ae"
+    },
+    {
+      "original": "AGENTS.md",
+      "backup": "ANKI/archive/2026-09-27-dw-a1-e2-l3/AGENTS.md",
+      "sha256": "7a603b44c897ae5cfdc29b08219436a31fdcca02145061b6739236bef4d89b64"
+    },
+    {
+      "original": "CLAUDE.md",
+      "backup": "ANKI/archive/2026-09-27-dw-a1-e2-l3/CLAUDE.md",
+      "sha256": "4eaedcbc1bf2e9c655204e5bbe107e1c8836d52a3d90d08d4ef5bdea66734ec9"
+    },
+    {
+      "original": "ANKI/build_vocabulary_decks.py",
+      "backup": "ANKI/archive/2026-09-27-dw-a1-e2-l3/ANKI/build_vocabulary_decks.py",
+      "sha256": "646036bd45d945e97e1d705544e9eb72f2511270ebe6307265cb75d67aaecc2b"
+    },
+    {
+      "original": "docs/known-issues.md",
+      "backup": "ANKI/archive/2026-09-27-dw-a1-e2-l3/docs/known-issues.md",
+      "sha256": "405e2e09bdbb82c3826c95400ea7d1daa4b714640231e7bfa38d7f9cec5cf51a"
+    },
+    {
+      "original": "docs/processing-a-lesson.md",
+      "backup": "ANKI/archive/2026-09-27-dw-a1-e2-l3/docs/processing-a-lesson.md",
+      "sha256": "6a7f345de8c528a50e11f3d1cedf8b0ac377d6b89c8616fe70ae75f4172fde62"
+    }
+  ]
+}

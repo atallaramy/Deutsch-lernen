@@ -3,25 +3,25 @@ Adressen.
 - So, hier ist noch meine Handynummer.
 - Ist das eine Zwei oder eine Sieben?
 - Das ist eine Sieben. 01739076342958.
-- 01739076432958.
-- Ja, Hallo! Wie heißt du?
-- Nico, Wie geht's?
+- 01739076342958.
+- Ja, hallo! Wie heißt du?
+- Nico, wie geht's?
 - Danke, danke, mir geht's gut. 
 - Oh mein Gott... Wie geht's dir?
-- Hmmm. Nich so gut. 
+- Hmm. Nicht so gut. 
 - Nicht so gut? Warum nicht so gut?
 - Meine Tasche. Meine Tasche ... Tasche verloren ...
-- Oh, okey, Moment... Du hast deine Tasche verloren? Wie ist das passiert?
-- Hallo!
+- Oh, okay, Moment... Du hast deine Tasche verloren? Wie ist das passiert?
+- Hallo?
 - Oh, hallo ... Wer bist du denn?
-- Entschuldigung. Ich bin nicht Nico. Mein Name ist Lisa. Nico spricht nicht so gut Deutch. Er sucht seine Tasche. Seine Tashce ist schwarz und ... sie hat einen Aufnäher mit einem Fahrrad. 
-- Okey?
+- Entschuldigung. Ich bin nicht Nico. Mein Name ist Lisa. Nico spricht nicht so gut Deutsch. Er sucht seine Tasche. Seine Tasche ist schwarz und ... sie hat einen Aufnäher mit einem Fahrrad. 
+- Okay.
 - Nicos Pass ist in der Tasche. Also wenn ihr die Tasche findet, dann gebt sie bitte bei der Polizeistelle Ost ab. Die ist in der Schreinerstraße 144. 
 - Scheinerstraße 144?
-- Nein, Schreinerstraße mit "R", S-C-H-R-E-I-N-E-R. Und die Hausnummer ist die 144. 
-- Danke euch! Viel Glück!. 
+- Nein, Schreinerstraße, mit "R", S-C-H-R-E-I-N-E-R. Und die Hausnummer ist die 144. 
+- Danke euch! Viel Glück!
 - Was soll das denn?
-- Entschuldigun. 
+- Entschuldigung.  
 
 
 Übungen
@@ -39,14 +39,14 @@ Adressen.
 - im -weg (im Schillerweg)
 
 - Wähl die richtigen Präpositionen in der richtigen Reihenfolge aus. 
-- Yara kommt aus Spanien, wohnt in Deutschland, und wohnt in der Adalbert-Stifter-Straße 43.
+- Yara kommt aus Spanien, wohnt in Deutschland und wohnt in der Adalbert-Stifter-Straße 43.
 
 - Wie heißt du? - Ich heiße Nico. 
 - Wie geht's dir? - Danke, mir geht's gut. 
 - Woher kommst du? - Ich komme aus Spanien. 
 - Wo wohnst du? - Ich wohne in Sevilla. 
 - Wer bist du? - Ich bin Lisa. 
-- Wie ist diene Telefonnummer? - Meine Telefonnummer ist 24...
+- Wie ist deine Telefonnummer? - Meine Telefonnummer ist 24...
 - Wie alt bist du? - Ich bin 25 Jahre alt. 
 
 - Ergänzungsfragen. 
@@ -61,21 +61,21 @@ Adressen.
 
 Vocabularies. 
 
-- Die polizei ist in der Schreinerstraße. 
+- Die Polizei ist in der Schreinerstraße. 
 - Entschuldigung. 
 - fehlen: fehlt, fehlte, hat gefehlt. 
 - Mir geht's gut. 
-- (etwas) schreiben: schreibt, schreib, hat geschreiben. 
-- mit jemanden telefonieren: telefoniert, telefonierte, hat telefoniert. 
+- (etwas) schreiben: schreibt, schrieb, hat geschrieben. 
+- mit jemandem telefonieren: telefoniert, telefonierte, hat telefoniert. 
 - Viel Glück!
 - warum
 - Wer ist da?
-- Wie heißt die straße?
+- Wie heißt die Straße?
 - Wo bist du?
 - Wo ist die Polizei?
 
 - Mit wem spreche ich, bitte?
-- Ah, entschuldigen Sie, mein Name ist CArlos Fischer. 
+- Ah, entschuldigen Sie, mein Name ist Carlos Fischer. 
 - Auf Wiederhören. 
 
 - Können Sie das bitte wiederholen?

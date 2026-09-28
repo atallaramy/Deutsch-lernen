@@ -1,0 +1,419 @@
+{
+ "description": "Official source text captured by ANKI/harvest_sources.py for offline context verification.",
+ "harvestedOn": "2026-09-28",
+ "sources": [
+  {
+   "id": "exercises",
+   "kind": "dw-exercises",
+   "url": "https://learngerman.dw.com/en/adressen/l-37269671",
+   "lessonUrl": "https://learngerman.dw.com/en/adressen/l-37269671",
+   "vocabulary": {
+    "url": "https://learngerman.dw.com/en/adressen/l-37269671/lv",
+    "items": [
+     {
+      "id": 37388698,
+      "german": "Die Polizei ist in der Schreinerstraße.",
+      "english": "The police (station) is/are on Schreinerstr.",
+      "forms": ""
+     },
+     {
+      "id": 37351111,
+      "german": "Entschuldigung",
+      "english": "I’m sorry.",
+      "forms": ""
+     },
+     {
+      "id": 37388471,
+      "german": "fehlen",
+      "english": "to be missing",
+      "forms": "fehlt, fehlte, hat gefehlt"
+     },
+     {
+      "id": 37388744,
+      "german": "Mir geht's gut.",
+      "english": "I’m doing well.",
+      "forms": ""
+     },
+     {
+      "id": 37385818,
+      "german": "(etwas) schreiben",
+      "english": "to write (something)",
+      "forms": "schreibt, schrieb, hat geschrieben"
+     },
+     {
+      "id": 37369532,
+      "german": "mit jemandem telefonieren",
+      "english": "to speak with someone; to call someone (on the phone)",
+      "forms": "telefoniert, telefonierte, hat telefoniert"
+     },
+     {
+      "id": 37388746,
+      "german": "Viel Glück!",
+      "english": "Good luck!",
+      "forms": ""
+     },
+     {
+      "id": 37389450,
+      "german": "warum",
+      "english": "why",
+      "forms": ""
+     },
+     {
+      "id": 37388766,
+      "german": "Wer ist da?",
+      "english": "Who is it?; Who's there?",
+      "forms": ""
+     },
+     {
+      "id": 37388768,
+      "german": "Wie heißt die Straße?",
+      "english": "What is the name of the street?",
+      "forms": ""
+     },
+     {
+      "id": 37388842,
+      "german": "Wo bist du?",
+      "english": "Where are you? (informal)",
+      "forms": ""
+     },
+     {
+      "id": 37388859,
+      "german": "Wo ist die Polizei?",
+      "english": "Where is the police (station)?",
+      "forms": ""
+     }
+    ]
+   },
+   "exercises": [
+    {
+     "id": "e-37282057",
+     "url": "https://learngerman.dw.com/en/i-live-in/l-37269671/e-37282057",
+     "title": "I live in ...",
+     "texts": [
+      "Play audio",
+      "Ich komme aus Deutschland.",
+      "Play audio",
+      "Ich wohne in Hamburg.",
+      "Play audio",
+      "Die Straße heißt Schillerstraße.",
+      "Play audio",
+      "Die Hausnummer ist 167.",
+      "Play audio",
+      "Meine Telefonnummer ist 99 67 83 29."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37270908",
+     "url": "https://learngerman.dw.com/en/in-front-of-lottes-house/l-37269671/e-37270908",
+     "title": "In front of Lotte's house",
+     "texts": [
+      "Lisa schreibt eine Telefonnummer auf.",
+      "Nico telefoniert mit der Radiomoderatorin.",
+      "Was schreibt Lisa?",
+      "Mit wem telefoniert Nico?"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37272153",
+     "url": "https://learngerman.dw.com/en/nico-on-the-radio-revision-of-w-questions-1/l-37269671/e-37272153",
+     "title": "Nico on the radio: Revision of W-questions (1)",
+     "texts": [
+      "Nicht so gut.",
+      "Ich heiße Nico."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37271619",
+     "url": "https://learngerman.dw.com/en/nico-on-the-radio/l-37269671/e-37271619",
+     "title": "Nico on the radio",
+     "texts": [
+      "Was sagt die Radiomoderatorin? Sortiere die Wörter.",
+      "Was antwortet Nico? Sortiere die Wörter.",
+      "Careful! Nico uses an abridged answer here. Actually, he should say: \"Ich heiße Nico. Wie geht's?\""
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37280283",
+     "url": "https://learngerman.dw.com/en/prepositions-of-place/l-37269671/e-37280283",
+     "title": "Prepositions of place",
+     "texts": [
+      "aus",
+      "in",
+      "in der",
+      "Yara kommt #ps# Spanien.\nYara wohnt #ps# Deutschland.\nYara wohnt #ps# Adalbert-Stifter-Straße 43.",
+      "Wähl die richtigen Präpositionen in der richtigen Reihenfolge aus.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37272189",
+     "url": "https://learngerman.dw.com/en/revision-of-w-questions-2/l-37269671/e-37272189",
+     "title": "Revision of W-questions (2)",
+     "texts": [
+      "Wie",
+      "Wie",
+      "Woher",
+      "Wo",
+      "Wer",
+      "Wie",
+      "Wie",
+      "#ps# heißt du? – Ich heiße Nico.\n#ps# geht's dir? – Danke, mir geht's gut.\n#ps# kommst du? – Ich komme aus Spanien.\n#ps# wohnst du? – Ich wohne in Sevilla.",
+      "Ergänze die Fragewörter.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "#ps# bist du? – Ich bin Lisa.\n#ps# ist deine Telefonnummer? – Meine Telefonnummer ist 24 ...\n#ps# alt bist du? – Ich bin 25 Jahre alt.",
+      "Ergänze die Fragewörter.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37273713",
+     "url": "https://learngerman.dw.com/en/spelling-revision/l-37269671/e-37273713",
+     "title": "Spelling: Revision",
+     "texts": [
+      "S",
+      "C",
+      "H",
+      "R",
+      "E",
+      "I",
+      "N",
+      "E",
+      "R",
+      "#ps#\n#ps#\n#ps#\n#ps#\n#ps#\n#ps#\n#ps#\n#ps#\n#ps#",
+      "Hör das Audio und schreib die Buchstaben in das Feld.",
+      "Tip: If you write the letters of a word separately, you can write them all in uppercase.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37272782",
+     "url": "https://learngerman.dw.com/en/street-names-and-street-numbers/l-37269671/e-37272782",
+     "title": "Street names and street numbers",
+     "texts": [
+      "Die Polizei ist in der Schreinerstraße.",
+      "Die Hausnummer ist 144.",
+      "Wo ist die Polizei? Wie heißt die Straße?",
+      "Wie ist die Hausnummer?"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37280249",
+     "url": "https://learngerman.dw.com/en/the-police-are-on-schreinerstraße/l-37269671/e-37280249",
+     "title": "The police are on Schreinerstraße",
+     "texts": [
+      "Wo ist die Polizei?",
+      "Careful! \"Ich wohne in der Schillerstraße/Schillergasse/Schillerallee.\" This is phrased differently from: \"Ich wohne am Schillerplatz/Markt.\" and \"Ich wohne im Schillerweg.\""
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37273468",
+     "url": "https://learngerman.dw.com/en/understanding-street-names/l-37269671/e-37273468",
+     "title": "Understanding street names",
+     "texts": [
+      "r",
+      "Scheinerstraße 144? – Nein, Schreinerstraße, mit #ps#.",
+      "Welcher Buchstabe fehlt?",
+      "CONTINUOUS_TEXT"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37273415",
+     "url": "https://learngerman.dw.com/en/where-are-the-police/l-37269671/e-37273415",
+     "title": "Where are the police?",
+     "texts": [
+      "Wo ist die Polizei? Wie heißt die Straße?",
+      "Die Polizei ist in der Schreinerstraße.",
+      "Wie ist die Hausnummer?",
+      "Die Hausnummer ist 144."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37271746",
+     "url": "https://learngerman.dw.com/en/who-is-there/l-37269671/e-37271746",
+     "title": "Who is there?",
+     "texts": [
+      "Wer ist da?",
+      "Wie heißt du?",
+      "Wie geht’s dir?",
+      "Wähl aus. Mehrere Antworten sind richtig."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37280325",
+     "url": "https://learngerman.dw.com/en/yara-comes-from-spain/l-37269671/e-37280325",
+     "title": "Yara comes from Spain",
+     "texts": [
+      "Play audio",
+      "Play audio",
+      "Play audio"
+     ],
+     "vocabularyTags": []
+    }
+   ],
+   "pages": [
+    {
+     "id": "rs-39370877",
+     "url": "https://learngerman.dw.com/en/on-the-telephone/l-37269671/rs-39370877",
+     "title": "On the telephone",
+     "texts": [
+      "On the telephone",
+      "If the phone rings and it's not a friend of yours, then most people in Germany answer by saying their last name. You can also say your first and last name, as well as a greeting, like this:\nSchmitt?\nClaudia Schmitt, hallo?\nIn a professional situation, you say the name of your company first:\nDeutsche Welle, Schmitt, guten Tag.\nFirma XY, ja bitte?\nDuring a formal telephone call, you also normally say your name:\nHier ist Schmitt, hallo.\nClaudia Schmitt, kann ich bitte …\nParticularly in a formal context, it is considered impolite not to say your name.\nThen, a person will often ask you:\nMit wem spreche ich, bitte?\nWie war nochmal Ihr Name?\n- Ah, entschuldigen Sie, mein Name ist Carlos Fischer.\nOn the phone, there is also a particular way of saying goodbye:\nAuf Wiederhören.\nBut you can also say \"Auf Wiedersehen\" or \"Tschüss\".\nTalking on the phone in a foreign language is quite difficult because you cannot see the other person's facial expressions or body language. If you haven't fully understood something, it's a good idea to ask them to repeat themselves."
+     ],
+     "html": "\n\n<p>If the phone rings and it's not a friend of yours, then most people in Germany answer by saying their last name. You can also say your first and last name, as well as a greeting, like this:</p>\n\n<p><em>Schmitt?</em></p>\n\n<p><em>Claudia Schmitt, hallo?</em></p>\n\n<p>In a professional situation, you say the name of your company first:</p>\n\n<p><em>Deutsche Welle, Schmitt, guten Tag.</em></p>\n\n<p><em>Firma XY, ja bitte?</em></p>\n\n<p>During a formal telephone call, you also normally say your name:</p>\n\n<p><em>Hier ist Schmitt, hallo.</em></p>\n\n<p><em>Claudia Schmitt, kann ich bitte …</em></p>\n\n<p>Particularly in a formal context, it is considered impolite not to say your name.</p>\n\n<p>Then, a person will often ask you:</p>\n\n<p><em>Mit wem spreche ich, bitte?</em></p>\n\n<p><em>Wie war nochmal Ihr Name?</em></p>\n\n<p><em>- Ah, entschuldigen Sie, mein Name ist Carlos Fischer.</em></p>\n\n<p>On the phone, there is also a particular way of saying goodbye:</p>\n\n<p><em>Auf Wiederhören.</em></p>\n\n<p>But you can also say <em>\"Auf Wiedersehen\"</em> or <em>\"Tschüss\"</em>.</p>\n\n<p>Talking on the phone in a foreign language is quite difficult because you cannot see the other person's facial expressions or body language. If you haven't fully understood something, it's a good idea to ask them to repeat themselves.</p>\n"
+    },
+    {
+     "id": "gr-38307071",
+     "url": "https://learngerman.dw.com/en/prepositions-of-place-aus/l-37269671/gr-38307071",
+     "title": "Prepositions of place: aus ",
+     "texts": [
+      "Prepositions of place: aus",
+      "Woher kommst du? – Ich komme aus …\nThere are various ways to answer the question: Where do you come from? You usually state your home country or town. The preposition aus comes before the country or town.:\nIch komme aus Spanien. (home country)\nIch komme aus Sevilla. (home town)\nWhen you are saying which town you come from, you say:\nIch komme aus + name of the town.\nIt is slightly more complicated with the names of countries. Usually you say:\nIch komme aus + name of the country.\nBut there are some exceptions. When the name of the country is masculine, feminine, or plural you usually need to use the article.\nYou do not need to know all the exceptions, but perhaps your home country is one of the following:\nIch komme …\naus dem Irak.*\naus dem Iran.*\naus dem Jemen.\naus dem Kongo.\naus dem Kosovo.\naus dem Libanon.\naus dem Niger.\naus dem Oman.\naus dem Senegal.\naus dem Sudan.\naus dem Tschad.\n*Masculine country names are sometimes also used without the article, particularly Irak and Iran.\nIch komme …\naus der Demokratischen Republik Kongo.\naus der Dominikanischen Republik.\naus der Elfenbeinküste.\naus der Mongolei.\naus der Schweiz.\naus der Slowakei.\naus der Türkei.\naus der Ukraine.\naus der Zentralafrikanischen Republik.\nIch komme …\naus den Bahamas.*\naus den Kapverdischen Inseln.*\naus den Komoren.*\naus den Malediven.*\naus den Niederlanden.\naus den Philippinen.*\naus den Salomonen.*\naus den Seychellen.*\naus den USA/aus den Vereinigten Staaten.\naus den Vereinigten Arabischen Emiraten.\n*If you come from a group of islands you can also say:\nIch komme von den Bahamas / den Kapverdischen Inseln / den Komoren / den Malediven / den Philippinen / den Salomonen / den Seychellen.\nGrammatical terms in German:\ndie Präposition: Prepositions are usually short words that connect words or groups of words together. They describe the relationship between people or things."
+     ],
+     "html": "<p><strong><em>Woher kommst du? – Ich komme aus …</em></strong></p>\n\n<p>There are various ways to answer the question: Where do you come from? You usually state your home country or town. The preposition <em>aus</em> comes before&#160;the country or town.:</p>\n\n<p><em>Ich komme aus Spanien. </em>(home country)</p>\n\n<p><em>Ich komme aus Sevilla. </em>(home town)</p>\n\n<p>&#160;</p>\n\n<p>When you are saying which town you come from, you say:</p>\n\n<p><em>Ich komme aus</em> + name of the town.</p>\n\n<p>&#160;</p>\n\n<p>It is slightly more complicated with the names of countries. Usually you say:</p>\n\n<p><em>Ich komme aus</em> + name of the country.</p>\n\n<p>&#160;</p>\n\n<p>But there are some exceptions. When the name of the country is masculine, feminine, or plural you usually need to use the article.</p>\n\n<p>You do not need to know all the exceptions, but perhaps your home country is one of the following:</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>Ich komme …</td>\n\t\t\t<td>\n\t\t\t<p><strong>aus dem</strong> Irak.*</p>\n\n\t\t\t<p><strong>aus dem</strong> Iran.*</p>\n\n\t\t\t<p><strong>aus dem</strong> Jemen.</p>\n\n\t\t\t<p><strong>aus dem</strong> Kongo.</p>\n\n\t\t\t<p><strong>aus dem</strong> Kosovo.</p>\n\n\t\t\t<p><strong>aus dem</strong> Libanon.</p>\n\n\t\t\t<p><strong>aus dem</strong> Niger.</p>\n\n\t\t\t<p><strong>aus dem</strong> Oman.&#160;&#160;&#160;&#160;&#160;&#160;</p>\n\n\t\t\t<p><strong>aus dem</strong> Senegal.</p>\n\n\t\t\t<p><strong>aus dem</strong> Sudan.</p>\n\t\t\t<strong>aus dem</strong> Tschad.</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>*Masculine country names are sometimes also used without the article, particularly Irak and Iran.</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>Ich komme …</td>\n\t\t\t<td>\n\t\t\t<p><strong>aus der </strong>Demokratischen Republik Kongo.</p>\n\n\t\t\t<p><strong>aus der </strong>Dominikanischen Republik.</p>\n\n\t\t\t<p><strong>aus der</strong> Elfenbeinküste.</p>\n\n\t\t\t<p><strong>aus der</strong> Mongolei.</p>\n\n\t\t\t<p><strong>aus der</strong> Schweiz.</p>\n\n\t\t\t<p><strong>aus der</strong> Slowakei.</p>\n\n\t\t\t<p><strong>aus der</strong> Türkei.</p>\n\n\t\t\t<p><strong>aus der</strong> Ukraine.</p>\n\t\t\t<strong>aus der</strong> Zentralafrikanischen Republik.</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&#160;</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>Ich komme …</td>\n\t\t\t<td>\n\t\t\t<p><strong>aus den </strong>Bahamas.*</p>\n\n\t\t\t<p><strong>aus den</strong> Kapverdischen Inseln.*</p>\n\n\t\t\t<p><strong>aus den</strong> Komoren.*</p>\n\n\t\t\t<p><strong>aus den</strong> Malediven.*</p>\n\n\t\t\t<p><strong>aus den</strong> Niederlanden.</p>\n\n\t\t\t<p><strong>aus den</strong> Philippinen.*</p>\n\n\t\t\t<p><strong>aus den</strong> Salomonen.*</p>\n\n\t\t\t<p><strong>aus den</strong> Seychellen.*</p>\n\n\t\t\t<p><strong>aus den </strong>USA/<strong>aus den</strong> Vereinigten Staaten.</p>\n\t\t\t<strong>aus den</strong> Vereinigten Arabischen Emiraten.</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&#160;</p>\n\n<p>*If you come from a group of islands you can also say:</p>\n\n<p><em>Ich komme von den Bahamas / den Kapverdischen Inseln / den Komoren / den Malediven / den Philippinen / den Salomonen / den Seychellen.</em></p>\n\n<p>&#160;</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>Grammatical terms in German:</p>\n\n\t\t\t<p>die Präposition: Prepositions are usually short words that connect words or groups of words together. They describe the relationship between people or things.</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&#160;</p>\n"
+    },
+    {
+     "id": "gr-38309222",
+     "url": "https://learngerman.dw.com/en/prepositions-of-place-in-an/l-37269671/gr-38309222",
+     "title": "Prepositions of place: in, an",
+     "texts": [
+      "Prepositions of place: in, an",
+      "Wo wohnst du? – Ich wohne in …\nIf somebody asks you where you live you can, for example, say the name of the town or street. The preposition in comes before the town or street name:\nIch wohne in Berlin.\nIch wohne in der Adalbert-Stifter-Straße.\nWhen you are saying what town you live in you say:\nIch wohne in + name of the town.\nWith street names you usually say:\nIch wohne in der + name of the street.\nSome street names do not end with the word -straße. Then you need to pay attention to the end of the name.\nIch wohne in der Adalbert-Stifter-Straße.\nIch wohne in der Adalbert-Stifter-Gasse.\nIch wohne in der Adalbert-Stifter-Allee.\nIch wohne im Adalbert-Stifter-Weg.\nIch wohne am Adalbert-Stifter-Platz."
+     ],
+     "html": "<p><strong><em>Wo wohnst du? – Ich wohne in …</em></strong></p>\n\n<p>If somebody asks you where you live you can, for example, say the name of the town or street. The preposition <em>in</em> comes before the town or street name:</p>\n\n<p><em>Ich wohne in Berlin.</em></p>\n\n<p><em>Ich wohne in der Adalbert-Stifter-Straße.</em></p>\n\n<p>&#160;</p>\n\n<p>When you are saying what town you live in you say:</p>\n\n<p><em>Ich wohne in</em> + name of the town.</p>\n\n<p>&#160;</p>\n\n<p>With street names you usually say:</p>\n\n<p><em>Ich wohne in der</em> + name of the street.</p>\n\n<p>Some street names do not end with the word <em>-straße</em>. Then you need to pay attention to the end of the name.</p>\n\n<p>Ich wohne <strong>in der</strong> Adalbert-Stifter-<strong>Straße.</strong><br>\nIch wohne <strong>in der</strong> Adalbert-Stifter-<strong>Gasse.</strong><br>\nIch wohne <strong>in der</strong> Adalbert-Stifter-<strong>Allee.</strong></p>\n\n<p>Ich wohne<strong> im </strong>Adalbert-Stifter-<strong>Weg.</strong></p>\n\n<p>Ich wohne<strong> am </strong>Adalbert-Stifter-<strong>Platz.</strong></p>\n"
+    },
+    {
+     "id": "gr-38306976",
+     "url": "https://learngerman.dw.com/en/w-questions/l-37269671/gr-38306976",
+     "title": "W-questions",
+     "texts": [
+      "W-questions",
+      "W-questions are used when asking someone about an unknown fact. These questions cannot be answered with a simple \"yes\" or \"no\". They usually begin with the letter W, e.g.:\nWoher …?\nWo …?\nWie …?\nQuestion word\nConjugated verb\nSubject\nWie\nheißt\ndu?\nWie\nheißen\nSie?\nWoher\nkommst\ndu?\nWoher\nkommen\nSie?\nWo\nwohnst\ndu?\nWo\nwohnen\nSie?\nGrammatical terms in German:\ndie W-Frage: W-questions are open questions that cannot be answered with \"yes\" or \"no\". They are also called Ergänzungsfragen. At the beginning of a W-question there is a question word that usually begins with the letter W."
+     ],
+     "html": "<p>W-questions are used when asking someone about an unknown fact. These&#160;questions cannot be answered with a simple \"yes\" or \"no\". They usually begin with the letter W, e.g.:</p>\n\n<p><em>Woher …? </em></p>\n\n<p><em>Wo …? </em></p>\n\n<p><em>Wie …?</em></p>\n\n<p>&#160;</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><strong>Question word</strong></td>\n\t\t\t<td><strong>Conjugated verb</strong></td>\n\t\t\t<td><strong>Subject</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Wie</td>\n\t\t\t<td>heißt</td>\n\t\t\t<td>du?</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Wie</td>\n\t\t\t<td>heißen</td>\n\t\t\t<td>Sie?</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Woher</td>\n\t\t\t<td>kommst</td>\n\t\t\t<td>du?</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Woher</td>\n\t\t\t<td>kommen</td>\n\t\t\t<td>Sie?</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Wo</td>\n\t\t\t<td>wohnst</td>\n\t\t\t<td>du?</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Wo</td>\n\t\t\t<td>wohnen</td>\n\t\t\t<td>Sie?</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&#160;</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:100%\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>Grammatical terms in German:<br>\n\t\t\tdie W-Frage: W-questions are open questions that cannot be answered with \"yes\" or \"no\". They are also called <em>Ergänzungsfragen</em>. At the beginning of a W-question there is a question word that usually begins with the letter <em>W</em>.</td>\n\t\t</tr>\n\t</tbody>\n</table>\n"
+    }
+   ]
+  },
+  {
+   "id": "script",
+   "kind": "dw-script-pdf",
+   "url": "https://static.dw.com/downloads/52719223/nicos-weg-a1-e2-l3-manuskript-und-wortschatz-englisch.pdf",
+   "localFile": "DW Deutsch lernen/A1/03_contact_details/03_Lesson_03/Materials/Script and vocabulary (English).pdf",
+   "sha256": "a1664b0c1be546ad5207cbd9b5be7079dbfc6c879ab749e915c48d1251b81026",
+   "lines": [
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "(2) Contact details | Adressen",
+    "Lisa is exchanging phone numbers with Lotte’s mother when she suddenly",
+    "hears Nico on the radio. Nico is trying to explain his problem to the radio",
+    "presenter. Lisa runs to the car and grabs the phone out of his hand …",
+    "Script",
+    "LISA:",
+    "So, hier ist noch meine Handynummer.",
+    "MUTTER VON LOTTE:",
+    "Ist das eine Zwei oder eine Sieben?",
+    "LISA:",
+    "Das ist eine Sieben … 0173 90 76 34 29 58.",
+    "MUTTER VON LOTTE:",
+    "0173 90 76 34 29 58.",
+    "MODERATORIN:",
+    "Hallo, wer ist da?",
+    "MUTTER VON LOTTE:",
+    "Alles klar, danke.",
+    "NICO:",
+    "Hallo!",
+    "MODERATORIN:",
+    "Ja, hallo! Wie heißt du?",
+    "NICO:",
+    "Nico, wie geht’s?",
+    "MODERATORIN:",
+    "Danke, danke, mir geht’s gut.",
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "LISA:",
+    "Oh mein Gott …",
+    "MODERATORIN:",
+    "Wie geht’s dir?",
+    "NICO:",
+    "Hmm. Nicht so gut.",
+    "MODERATORIN:",
+    "Nicht so gut? Warum nicht so gut?",
+    "NICO:",
+    "Meine Tasche. Meine Tasche ... Tasche verloren ...",
+    "MODERATORIN:",
+    "Oh, okay, Moment ... Du hast deine Tasche verloren? Wie ist das passiert?",
+    "LISA:",
+    "Hallo?",
+    "MODERATORIN:",
+    "Oh, hallo ... Wer bist du denn?",
+    "LISA:",
+    "Entschuldigung. Ich bin nicht Nico. Mein Name ist Lisa. Nico spricht nicht so gut",
+    "Deutsch. Er sucht seine Tasche. Seine Tasche ist schwarz und ... sie hat einen Aufnäher",
+    "mit einem Fahrrad.",
+    "MODERATORIN:",
+    "Okay.",
+    "LISA:",
+    "Nicos Pass ist in der Tasche. Also wenn ihr die Tasche findet, dann gebt sie bitte bei der",
+    "Polizeistelle Ost ab. Die ist in der Schreinerstraße 144.",
+    "MODERATORIN:",
+    "Scheinerstraße 144?",
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "LISA:",
+    "Nein, Schreinerstraße, mit „R“, S-C-H-R-E-I-N-E-R. Und die Hausnummer ist die 144.",
+    "MODERATORIN:",
+    "Danke euch! Viel Glück!",
+    "LISA:",
+    "Was soll das denn?",
+    "NICO:",
+    "Entschuldigung ...",
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "Vocabulary (from script and lesson)",
+    "Die Polizei ist in der Schreinerstraße. – The police (station) is/are on",
+    "Schreinerstr.",
+    "Entschuldigung – I’m sorry.",
+    "fehlen – to be missing",
+    "fehlt, fehlte, hat gefehlt",
+    "Mir geht’s gut. – I’m doing well.",
+    "(etwas) schreiben – to write (something)",
+    "schreibt, schrieb, hat geschrieben",
+    "mit jemandem telefonieren – to speak with someone; to call someone (on the",
+    "phone)",
+    "telefoniert, telefonierte, hat telefoniert",
+    "Viel Glück! – Good luck!",
+    "warum – why",
+    "Wer ist da? – Who is it?; Who's there?",
+    "Wie heißt die Straße? – What is the name of the street?",
+    "Wo bist du? – Where are you? (informal)",
+    "Wo ist die Polizei? – Where is the police (station)?"
+   ]
+  }
+ ]
+}

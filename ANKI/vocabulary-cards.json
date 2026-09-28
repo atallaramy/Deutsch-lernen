@@ -903,7 +903,8 @@
     "lesson": "dw-a1-e1-l4",
     "source": "script",
     "text": "Ciao, Nico. Viel Erfolg!"
-   }
+   },
+   "cue": "I wish you success! — good luck with a task (not luck)"
   },
   "Viel Spaß!|have-fun": {
    "context": {
@@ -1540,6 +1541,102 @@
     "lesson": "vhs-a1-l02",
     "source": "vhs-a1-filmskripte",
     "text": "Wenn die sich treffen, sind es über 20 Personen."
+   }
+  },
+  "telefonieren|to-phone": {
+   "cue": "to talk on the phone (with someone: mit jemandem …)"
+  },
+  "Viel Glück!|good-luck": {
+   "context": {
+    "lesson": "dw-a1-e2-l3",
+    "source": "script",
+    "text": "Danke euch! Viel Glück!",
+    "target": "Viel Glück"
+   },
+   "cue": "Good luck! — wishing someone luck (not success)"
+  },
+  "warum|why": {
+   "context": {
+    "lesson": "dw-a1-e2-l3",
+    "source": "script",
+    "text": "Nicht so gut? Warum nicht so gut?",
+    "target": "Warum"
+   }
+  },
+  "Wie bitte?|pardon": {
+   "cue": "Pardon? — you did not catch what someone said"
+  },
+  "Fahrrad|bicycle": {
+   "cue": "bicycle; bike"
+  },
+  "schwarz|black": {
+   "cue": "black (colour)",
+   "context": {
+    "lesson": "dw-a1-e2-l3",
+    "source": "script",
+    "text": "Seine Tasche ist schwarz"
+   }
+  },
+  "Gasse|lane": {
+   "cue": "lane; alley (in street names)",
+   "context": {
+    "lesson": "dw-a1-e2-l3",
+    "source": "exercises",
+    "text": "Ich wohne in der Adalbert-Stifter-Gasse.",
+    "target": "Gasse"
+   }
+  },
+  "Allee|avenue": {
+   "cue": "avenue (in street names)",
+   "context": {
+    "lesson": "dw-a1-e2-l3",
+    "source": "exercises",
+    "text": "Ich wohne in der Adalbert-Stifter-Allee.",
+    "target": "Allee"
+   }
+  },
+  "Weg|path": {
+   "cue": "path; way (in street names)",
+   "context": {
+    "lesson": "dw-a1-e2-l3",
+    "source": "exercises",
+    "text": "Ich wohne im Adalbert-Stifter-Weg.",
+    "target": "Weg"
+   }
+  },
+  "Platz|square": {
+   "cue": "square (in a town; in street names)",
+   "context": {
+    "lesson": "dw-a1-e2-l3",
+    "source": "exercises",
+    "text": "Ich wohne am Adalbert-Stifter-Platz.",
+    "target": "Platz"
+   }
+  },
+  "Präposition|preposition": {
+   "cue": "preposition (grammar term)"
+  },
+  "W-Frage|w-question": {
+   "cue": "W-question: starts with a question word such as wo, wie, woher (grammar term)"
+  },
+  "Ergänzungsfrage|completive-question": {
+   "cue": "open question — the other German term for a W-question (grammar term, not W-Frage)"
+  },
+  "Polizeistelle|police-station": {
+   "cue": "police station (where to hand in the bag)",
+   "context": {
+    "lesson": "dw-a1-e2-l3",
+    "source": "script",
+    "text": "dann gebt sie bitte bei der Polizeistelle Ost ab.",
+    "target": "Polizeistelle"
+   }
+  },
+  "Radiomoderatorin|radio-presenter": {
+   "context": {
+    "lesson": "dw-a1-e2-l3",
+    "source": "exercises",
+    "text": "Nico telefoniert mit der Radiomoderatorin.",
+    "target": "Radiomoderatorin"
    }
   }
  }
