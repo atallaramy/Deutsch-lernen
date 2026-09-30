@@ -1286,6 +1286,200 @@
    "covers": [
     "dw-a1-e2-l3:wie-war-das-nochmal"
    ]
+  },
+  {
+   "key": "address-informal",
+   "kind": "production",
+   "lesson": "dw-a1-e2-l4",
+   "skill": "informal question",
+   "scene": "Ask a friend (du) for their address.",
+   "answer": "Wie ist deine Adresse?",
+   "answerSource": {
+    "lesson": "dw-a1-e2-l4",
+    "source": "script"
+   },
+   "covers": [
+    "dw-a1-e2-l4:wie-ist-deine-adresse"
+   ]
+  },
+  {
+   "key": "address-formal",
+   "kind": "production",
+   "lesson": "dw-a1-e2-l4",
+   "skill": "formal question",
+   "scene": "At an office, ask someone (Sie) for their address.",
+   "answer": "Wie ist Ihre Adresse?",
+   "answerSource": {
+    "lesson": "dw-a1-e2-l4",
+    "source": "exercises"
+   },
+   "covers": [
+    "dw-a1-e2-l4:wie-ist-ihre-adresse"
+   ]
+  },
+  {
+   "key": "which-number-formal",
+   "kind": "production",
+   "lesson": "dw-a1-e2-l4",
+   "skill": "formal question",
+   "scene": "At the registration office, ask a stranger (Sie) which (ticket) number they have.",
+   "answer": "Welche Nummer haben Sie?",
+   "answerSource": {
+    "lesson": "dw-a1-e2-l4",
+    "source": "exercises"
+   },
+   "covers": [
+    "dw-a1-e2-l4:welche-nummer-haben-sie"
+   ]
+  },
+  {
+   "key": "which-number-informal",
+   "kind": "production",
+   "lesson": "dw-a1-e2-l4",
+   "skill": "informal question",
+   "scene": "Ask a friend (du) which number they have.",
+   "answer": "Welche Nummer hast du?",
+   "answerSource": {
+    "lesson": "dw-a1-e2-l4",
+    "source": "script"
+   },
+   "covers": [
+    "dw-a1-e2-l4:welche-nummer-hast-du"
+   ]
+  },
+  {
+   "key": "ticket-number-reply",
+   "kind": "response",
+   "lesson": "dw-a1-e2-l4",
+   "skill": "saying numbers",
+   "scene": "Your ticket shows 1532. Answer, saying the digits one by one.",
+   "prompt": {
+    "lesson": "dw-a1-e2-l4",
+    "source": "exercises",
+    "text": "Welche Nummer haben Sie?"
+   },
+   "answer": "Ich habe die Nummer eins fünf drei zwei.",
+   "answerSource": {
+    "lesson": "dw-a1-e2-l4",
+    "source": "exercises"
+   },
+   "covers": [
+    "dw-a1-e2-l4:ich-habe-die-nummer"
+   ],
+   "accept": [
+    "Ich habe die Nummer eins, fünf, drei, zwei."
+   ]
+  },
+  {
+   "key": "date-of-birth-formal",
+   "kind": "production",
+   "lesson": "dw-a1-e2-l4",
+   "skill": "formal question",
+   "scene": "At an office, ask someone (Sie) for their date of birth.",
+   "answer": "Wie ist Ihr Geburtsdatum?",
+   "answerSource": {
+    "lesson": "dw-a1-e2-l4",
+    "source": "script"
+   },
+   "covers": [
+    "dw-a1-e2-l4:wie-ist-ihr-geburtsdatum"
+   ]
+  },
+  {
+   "key": "birthday-formal",
+   "kind": "production",
+   "lesson": "dw-a1-e2-l4",
+   "skill": "formal question",
+   "scene": "Ask a stranger (Sie) when their birthday is (Geburtstag haben).",
+   "answer": "Wann haben Sie Geburtstag?",
+   "answerSource": {
+    "lesson": "dw-a1-e2-l4",
+    "source": "script"
+   },
+   "covers": [
+    "dw-a1-e2-l4:wann-haben-sie-geburtstag"
+   ]
+  },
+  {
+   "key": "passport-number-formal",
+   "kind": "production",
+   "lesson": "dw-a1-e2-l4",
+   "skill": "formal question",
+   "scene": "Ask someone (Sie) for their passport number (the short word).",
+   "answer": "Wie ist Ihre Passnummer?",
+   "answerSource": {
+    "lesson": "dw-a1-e2-l4",
+    "source": "exercises"
+   },
+   "covers": [
+    "dw-a1-e2-l4:wie-ist-ihre-passnummer"
+   ]
+  },
+  {
+   "key": "offer-help-formal",
+   "kind": "production",
+   "lesson": "dw-a1-e2-l4",
+   "skill": "formal question",
+   "scene": "You work at an office. Ask a visitor (Sie) how you can help them.",
+   "answer": "Wie kann ich Ihnen helfen?",
+   "answerSource": {
+    "lesson": "dw-a1-e2-l4",
+    "source": "script"
+   },
+   "covers": [
+    "dw-a1-e2-l4:wie-kann-ich-ihnen-helfen"
+   ],
+   "note": "Informal: Wie kann ich dir helfen?"
+  },
+  {
+   "key": "sit-down-formal",
+   "kind": "production",
+   "lesson": "dw-a1-e2-l4",
+   "skill": "formal request",
+   "scene": "At an office: politely ask a visitor (Sie) to sit down (with doch).",
+   "answer": "Setzen Sie sich doch bitte.",
+   "answerSource": {
+    "lesson": "dw-a1-e2-l4",
+    "source": "script"
+   },
+   "covers": [
+    "dw-a1-e2-l4:setzen-sie-sich-doch-bitte"
+   ]
+  },
+  {
+   "key": "price-question",
+   "kind": "production",
+   "lesson": "dw-a1-e2-l4",
+   "skill": "asking a price",
+   "scene": "In a shop: ask how much the bag (die Tasche) costs.",
+   "answer": "Wie viel kostet die Tasche?",
+   "answerSource": {
+    "lesson": "dw-a1-e2-l4",
+    "source": "exercises"
+   },
+   "covers": [
+    "dw-a1-e2-l4:wie-viel-kostet"
+   ]
+  },
+  {
+   "key": "price-answer-834",
+   "kind": "response",
+   "lesson": "dw-a1-e2-l4",
+   "skill": "numbers over 100",
+   "scene": "It costs €834. Answer with a full sentence, the number as a word.",
+   "prompt": {
+    "lesson": "dw-a1-e2-l4",
+    "source": "exercises",
+    "text": "Wie viel kostet das Fahrrad?"
+   },
+   "answer": "Das Fahrrad kostet achthundertvierunddreißig Euro.",
+   "answerSource": {
+    "lesson": "dw-a1-e2-l4",
+    "source": "exercises"
+   },
+   "covers": [
+    "dw-a1-e2-l4:das-fahrrad-kostet-834-euro"
+   ]
   }
  ]
 }

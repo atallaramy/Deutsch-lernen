@@ -662,6 +662,22 @@
    "dictionary": "dict.cc",
    "fetchedOn": "2026-09-28"
   },
+  "Euro": {
+   "url": "https://en.wiktionary.org/wiki/Euro#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "euro (currency)"
+    },
+    {
+     "pos": "Noun",
+     "text": "Euro (UEFA European Football Championship)"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-09-30"
+  },
   "Fahrrad": {
    "url": "https://en.wiktionary.org/wiki/Fahrrad#German",
    "status": 200,
@@ -810,6 +826,18 @@
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-28"
   },
+  "Geburtsdatum": {
+   "url": "https://en.wiktionary.org/wiki/Geburtsdatum#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "date of birth"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-09-30"
+  },
   "Geburtsort": {
    "url": "https://en.wiktionary.org/wiki/Geburtsort#German",
    "status": 200,
@@ -820,6 +848,18 @@
     }
    ],
    "fetchedOn": "2026-09-25"
+  },
+  "Geburtstag": {
+   "url": "https://en.wiktionary.org/wiki/Geburtstag#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "birthday"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-09-30"
   },
   "Geschwister": {
    "url": "https://en.wiktionary.org/wiki/Geschwister#German",
@@ -1718,6 +1758,18 @@
    ],
    "fetchedOn": "2026-09-25"
   },
+  "PLZ": {
+   "url": "https://en.wiktionary.org/wiki/PLZ#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "abbreviation of Postleitzahl"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-09-30"
+  },
   "Papier": {
    "url": "https://en.wiktionary.org/wiki/Papier#German",
    "status": 200,
@@ -1772,6 +1824,18 @@
    ],
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-27"
+  },
+  "Passnummer": {
+   "url": "https://en.wiktionary.org/wiki/Passnummer#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "passport number"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-09-30"
   },
   "Personalpronomen": {
    "url": "https://en.wiktionary.org/wiki/Personalpronomen#German",
@@ -2476,6 +2540,22 @@
     }
    ],
    "fetchedOn": "2026-09-25"
+  },
+  "Suche": {
+   "url": "https://en.wiktionary.org/wiki/Suche#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "search"
+    },
+    {
+     "pos": "Proper noun",
+     "text": "German name of any of several villages, including three in what is now Poland and two in Ukraine"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-09-30"
   },
   "Tach": {
    "url": "https://en.wiktionary.org/wiki/Tach#German",
@@ -4313,6 +4393,18 @@
    ],
    "fetchedOn": "2026-09-25"
   },
+  "freut mich": {
+   "url": "https://www.dict.cc/?s=freut+mich",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "",
+     "text": "(I'm) pleased to meet you."
+    }
+   ],
+   "dictionary": "dict.cc",
+   "fetchedOn": "2026-09-30"
+  },
   "fünf": {
    "url": "https://en.wiktionary.org/wiki/f%C3%BCnf#German",
    "status": 200,
@@ -4718,6 +4810,34 @@
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-25"
   },
+  "helfen": {
+   "url": "https://en.wiktionary.org/wiki/helfen#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Verb",
+     "text": "to help (someone); to assist; to aid .mw-parser-output .object-usage-tag{font-style:italic}.mw-parser-output .deprecated{color:var(--wikt-palette-grey-lime-8,olivedrab)}[with dative ‘someone’ and bei (+ dative) ‘with’]"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-09-30"
+  },
+  "herausfinden": {
+   "url": "https://en.wiktionary.org/wiki/herausfinden#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Verb",
+     "text": "to find out"
+    },
+    {
+     "pos": "Verb",
+     "text": "to figure out"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-09-30"
+  },
   "herzlich": {
    "url": "https://en.wiktionary.org/wiki/herzlich#German",
    "status": 200,
@@ -4745,6 +4865,18 @@
    ],
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-27"
+  },
+  "hoffentlich": {
+   "url": "https://en.wiktionary.org/wiki/hoffentlich#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Adverb",
+     "text": "hopefully"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-09-30"
   },
   "hundert": {
    "url": "https://en.wiktionary.org/wiki/hundert#German",
@@ -4869,6 +5001,22 @@
     }
    ],
    "fetchedOn": "2026-09-25"
+  },
+  "informieren": {
+   "url": "https://en.wiktionary.org/wiki/informieren#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Verb",
+     "text": "to inform, to update .mw-parser-output .object-usage-tag{font-style:italic}.mw-parser-output .deprecated{color:var(--wikt-palette-grey-lime-8,olivedrab)}[with über ‘of/about’]"
+    },
+    {
+     "pos": "Verb",
+     "text": "to read up on, to find out, to research, to look into, to inform oneself"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-09-30"
   },
   "ins": {
    "url": "https://en.wiktionary.org/wiki/ins#German",
@@ -5031,6 +5179,34 @@
     }
    ],
    "fetchedOn": "2026-09-25"
+  },
+  "kosten": {
+   "url": "https://en.wiktionary.org/wiki/kosten#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Verb",
+     "text": "to cost .mw-parser-output .object-usage-tag{font-style:italic}.mw-parser-output .deprecated{color:var(--wikt-palette-grey-lime-8,olivedrab)}[with accusative or dative]"
+    },
+    {
+     "pos": "Verb",
+     "text": "to taste, try (sample the flavor of something)"
+    },
+    {
+     "pos": "Verb",
+     "text": "inflection of kosen:\nfirst/third-person plural preterite\nfirst/third-person plural subjunctive II"
+    },
+    {
+     "pos": "Verb",
+     "text": "first/third-person plural preterite"
+    },
+    {
+     "pos": "Verb",
+     "text": "first/third-person plural subjunctive II"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-09-30"
   },
   "kurz": {
    "url": "https://en.wiktionary.org/wiki/kurz#German",
@@ -5421,6 +5597,66 @@
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-27"
   },
+  "nehmen": {
+   "url": "https://en.wiktionary.org/wiki/nehmen#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Verb",
+     "text": "to take (something into one's possession or on one's body)"
+    },
+    {
+     "pos": "Verb",
+     "text": "to take from"
+    },
+    {
+     "pos": "Verb",
+     "text": "to hold (in one's hands), to grasp"
+    },
+    {
+     "pos": "Verb",
+     "text": "to take, to consider (a statement, a situation, an idea, etc, in a certain way, for example seriously, badly, personally)"
+    },
+    {
+     "pos": "Verb",
+     "text": "to capture, to arrest"
+    },
+    {
+     "pos": "Verb",
+     "text": "to ingest (e.g. a pill)"
+    },
+    {
+     "pos": "Verb",
+     "text": "to move into, to sit at (one's assigned position)"
+    },
+    {
+     "pos": "Verb",
+     "text": "to use (time, effort, etc. for a specific purpose)"
+    },
+    {
+     "pos": "Verb",
+     "text": "To begin or cause the action implied by a noun to take place, possibly making the sentence more passive or indirect."
+    },
+    {
+     "pos": "Verb",
+     "text": "to cause oneself to be (in some state); to become; to take oneself (to some state)"
+    },
+    {
+     "pos": "Verb",
+     "text": "to seize, to capture"
+    },
+    {
+     "pos": "Verb",
+     "text": "to receive, to accept"
+    },
+    {
+     "pos": "Verb",
+     "text": "to foul"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-09-30"
+  },
   "nett": {
    "url": "https://en.wiktionary.org/wiki/nett#German",
    "status": 200,
@@ -5664,6 +5900,18 @@
    ],
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-25"
+  },
+  "rausfinden": {
+   "url": "https://en.wiktionary.org/wiki/rausfinden#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Verb",
+     "text": "clipping of herausfinden"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-09-30"
   },
   "sagen": {
    "url": "https://en.wiktionary.org/wiki/sagen#German",
@@ -6017,6 +6265,34 @@
     }
    ],
    "fetchedOn": "2026-09-25"
+  },
+  "setzen": {
+   "url": "https://en.wiktionary.org/wiki/setzen#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Verb",
+     "text": "causative of sitzen: to set; to put [auxiliary haben]"
+    },
+    {
+     "pos": "Verb",
+     "text": "to sit down [auxiliary haben]"
+    },
+    {
+     "pos": "Verb",
+     "text": "to settle (precipitate) [auxiliary haben]"
+    },
+    {
+     "pos": "Verb",
+     "text": "to bet, wager .mw-parser-output .object-usage-tag{font-style:italic}.mw-parser-output .deprecated{color:var(--wikt-palette-grey-lime-8,olivedrab)}[with auf (+ accusative) ‘on’] [auxiliary haben]"
+    },
+    {
+     "pos": "Verb",
+     "text": "to leap [with über (+ accusative) ‘over’] [auxiliary sein]"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-09-30"
   },
   "sie": {
    "url": "https://en.wiktionary.org/wiki/sie#German",
@@ -6481,6 +6757,26 @@
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-27"
   },
+  "wann": {
+   "url": "https://en.wiktionary.org/wiki/wann#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Adverb",
+     "text": "when"
+    },
+    {
+     "pos": "Adverb",
+     "text": "sometime"
+    },
+    {
+     "pos": "Conjunction",
+     "text": "when; if"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-09-30"
+  },
   "warten": {
    "url": "https://en.wiktionary.org/wiki/warten#German",
    "status": 200,
@@ -6657,6 +6953,22 @@
    ],
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-28"
+  },
+  "wie viel": {
+   "url": "https://en.wiktionary.org/wiki/wie_viel#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Determiner",
+     "text": "how much; how many"
+    },
+    {
+     "pos": "Adverb",
+     "text": "how much; how often"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-09-30"
   },
   "wiederholen": {
    "url": "https://en.wiktionary.org/wiki/wiederholen#German",

@@ -1,0 +1,100 @@
+{
+ "schemaVersion": 1,
+ "policy": "Curated verified contexts and hints for Articles cards, keyed by lemma. The blank must be the gender article (der/die/das) directly before the noun.",
+ "cards": {
+  "Adresse": {
+   "context": {
+    "lesson": "dw-a1-e0-l4",
+    "source": "script",
+    "text": "Hast du die Adresse?"
+   }
+  },
+  "Bruder": {
+   "context": {
+    "lesson": "vhs-a1-l02",
+    "source": "vhs-a1-filmskripte",
+    "text": "Und Arian ist der Bruder von Mina."
+   }
+  },
+  "Deutschkurs": {
+   "context": {
+    "lesson": "dw-a1-e1-l4",
+    "source": "exercises",
+    "text": "Wo ist der Deutschkurs"
+   }
+  },
+  "Fahrradgeschäft": {
+   "hints": [
+    "Compound: the last part (…geschäft) decides the gender."
+   ]
+  },
+  "Frau": {
+   "context": {
+    "lesson": "dw-a1-e1-l4",
+    "source": "script",
+    "text": "Die Frau hat ein Fahrradgeschäft."
+   }
+  },
+  "Geschenk": {
+   "hints": [
+    "Your notes had “eine Gechenk”: it is das Geschenk, so ein Geschenk (script: “das hier ist ein Geschenk”)."
+   ]
+  },
+  "Hausnummer": {
+   "context": {
+    "lesson": "dw-a1-e2-l1",
+    "source": "exercises",
+    "text": "Emma und Lisa suchen die Hausnummer 11."
+   }
+  },
+  "Nummer": {
+   "context": {
+    "lesson": "dw-a1-e1-l3",
+    "source": "script",
+    "text": "Und die Nummer ist weg."
+   }
+  },
+  "Pass": {
+   "context": {
+    "lesson": "dw-a1-e1-l4",
+    "source": "exercises",
+    "text": "Der Pass ist in Nicos Tasche."
+   }
+  },
+  "Schwester": {
+   "context": {
+    "lesson": "vhs-a1-l02",
+    "source": "vhs-a1-filmskripte",
+    "text": "Mina ist die Schwester von Arian."
+   }
+  },
+  "Situation": {
+   "context": {
+    "lesson": "dw-a1-e0-l3",
+    "source": "exercises",
+    "text": "Die Situation ist formell."
+   }
+  },
+  "Tasche": {
+   "context": {
+    "lesson": "dw-a1-e1-l2",
+    "source": "script",
+    "text": "Die Tasche ist nicht im Taxi."
+   }
+  },
+  "Präposition": {
+   "context": {
+    "lesson": "dw-a1-e2-l3",
+    "source": "exercises",
+    "text": "die Präposition: Prepositions are usually short words that connect words or groups of words together."
+   }
+  },
+  "W-Frage": {
+   "context": {
+    "lesson": "dw-a1-e2-l3",
+    "source": "exercises",
+    "text": "die W-Frage: W-questions are open questions that cannot be answered with \"yes\" or \"no\"."
+   }
+  }
+ }
+}

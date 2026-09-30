@@ -1,5 +1,5 @@
 {
- "revision": "2026-09-27T18:00:00Z",
+ "revision": "2026-09-30T18:00:00Z",
  "entries": {
   "dw-a1-e0-l1:auch": [
    "vocab:auch|also"
@@ -1551,6 +1551,184 @@
   "dw-a1-e2-l3:die-radiomoderatorin": [
    "article:Radiomoderatorin|f",
    "vocab:Radiomoderatorin|radio-presenter"
+  ],
+  "dw-a1-e2-l4:achthundert": [
+   "vocab:achthundert|800"
+  ],
+  "dw-a1-e2-l4:achthundertachtundsiebzig": [
+   "vocab:achthundertachtundsiebzig|878"
+  ],
+  "dw-a1-e2-l4:das-amt": [
+   "article:Amt|n",
+   "vocab:Amt|government-office"
+  ],
+  "dw-a1-e2-l4:der-dialog": [
+   "article:Dialog|m",
+   "vocab:Dialog|dialogue"
+  ],
+  "dw-a1-e2-l4:dreihundert": [
+   "vocab:dreihundert|300"
+  ],
+  "dw-a1-e2-l4:dreihundertdreiundzwanzig": [
+   "vocab:dreihundertdreiundzwanzig|323"
+  ],
+  "dw-a1-e2-l4:einhundert": [
+   "vocab:einhundert|100"
+  ],
+  "dw-a1-e2-l4:einhunderteins": [
+   "vocab:einhunderteins|101"
+  ],
+  "dw-a1-e2-l4:eintausend": [
+   "vocab:eintausend|1000"
+  ],
+  "dw-a1-e2-l4:fuenfhundert": [
+   "vocab:fünfhundert|500"
+  ],
+  "dw-a1-e2-l4:fuenfhundertfuenfundvierzig": [
+   "vocab:fünfhundertfünfundvierzig|545"
+  ],
+  "dw-a1-e2-l4:das-heimatland": [
+   "article:Heimatland|n",
+   "vocab:Heimatland|homeland"
+  ],
+  "dw-a1-e2-l4:ich-weiss-es-nicht": [
+   "vocab:Ich weiß es nicht.|i-dont-know"
+  ],
+  "dw-a1-e2-l4:etwas-kosten": [
+   "vocab:kosten|to-cost"
+  ],
+  "dw-a1-e2-l4:der-nachname": [
+   "article:Nachname|m",
+   "vocab:Nachname|surname"
+  ],
+  "dw-a1-e2-l4:neunhundert": [
+   "vocab:neunhundert|900"
+  ],
+  "dw-a1-e2-l4:neunhundertneunundachtzig": [
+   "vocab:neunhundertneunundachtzig|989"
+  ],
+  "dw-a1-e2-l4:der-onkel": [
+   "article:Onkel|m",
+   "vocab:Onkel|uncle"
+  ],
+  "dw-a1-e2-l4:die-passnummer": [
+   "article:Passnummer|f",
+   "vocab:Passnummer|passport-number"
+  ],
+  "dw-a1-e2-l4:die-postleitzahl": [
+   "article:Postleitzahl|f",
+   "vocab:Postleitzahl|post-code"
+  ],
+  "dw-a1-e2-l4:die-reisepassnummer": [
+   "article:Reisepassnummer|f",
+   "vocab:Reisepassnummer|passport-number"
+  ],
+  "dw-a1-e2-l4:sechshundert": [
+   "vocab:sechshundert|600"
+  ],
+  "dw-a1-e2-l4:sechshundertsechsundfuenfzig": [
+   "vocab:sechshundertsechsundfünfzig|656"
+  ],
+  "dw-a1-e2-l4:siebenhundert": [
+   "vocab:siebenhundert|700"
+  ],
+  "dw-a1-e2-l4:siebenhundertsiebenundsechzig": [
+   "vocab:siebenhundertsiebenundsechzig|767"
+  ],
+  "dw-a1-e2-l4:die-tochter": [
+   "article:Tochter|f",
+   "vocab:Tochter|daughter"
+  ],
+  "dw-a1-e2-l4:vierhundert": [
+   "vocab:vierhundert|400"
+  ],
+  "dw-a1-e2-l4:vierhundertvierunddreissig": [
+   "vocab:vierhundertvierunddreißig|434"
+  ],
+  "dw-a1-e2-l4:warum": [
+   "vocab:warum|why"
+  ],
+  "dw-a1-e2-l4:welche-nummer-haben-sie": [
+   "sentence:which-number-formal"
+  ],
+  "dw-a1-e2-l4:welche-nummer-hast-du": [
+   "sentence:which-number-informal"
+  ],
+  "dw-a1-e2-l4:wie-ist-deine-adresse": [
+   "sentence:address-informal"
+  ],
+  "dw-a1-e2-l4:wie-ist-ihre-adresse": [
+   "sentence:address-formal"
+  ],
+  "dw-a1-e2-l4:der-wohnort": [
+   "article:Wohnort|m",
+   "vocab:Wohnort|place-of-residence"
+  ],
+  "dw-a1-e2-l4:zweihundert": [
+   "vocab:zweihundert|200"
+  ],
+  "dw-a1-e2-l4:zweihundertzwoelf": [
+   "vocab:zweihundertzwölf|212"
+  ],
+  "dw-a1-e2-l4:freut-mich": [
+   "vocab:Freut mich.|pleased-to-meet-you"
+  ],
+  "dw-a1-e2-l4:das-geburtsdatum": [
+   "article:Geburtsdatum|n",
+   "vocab:Geburtsdatum|date-of-birth"
+  ],
+  "dw-a1-e2-l4:wann": [
+   "vocab:wann|when"
+  ],
+  "dw-a1-e2-l4:nehmen": [
+   "vocab:nehmen|to-take"
+  ],
+  "dw-a1-e2-l4:der-euro": [
+   "article:Euro|m",
+   "vocab:Euro|euro"
+  ],
+  "dw-a1-e2-l4:wie-viel": [
+   "vocab:wie viel|how-much"
+  ],
+  "dw-a1-e2-l4:plz": [
+   "vocab:PLZ|postal-code"
+  ],
+  "dw-a1-e2-l4:wie-ist-ihr-geburtsdatum": [
+   "sentence:date-of-birth-formal"
+  ],
+  "dw-a1-e2-l4:wann-haben-sie-geburtstag": [
+   "sentence:birthday-formal"
+  ],
+  "dw-a1-e2-l4:wie-ist-ihre-passnummer": [
+   "sentence:passport-number-formal"
+  ],
+  "dw-a1-e2-l4:wie-kann-ich-ihnen-helfen": [
+   "sentence:offer-help-formal"
+  ],
+  "dw-a1-e2-l4:wie-viel-kostet": [
+   "sentence:price-question"
+  ],
+  "dw-a1-e2-l4:das-fahrrad-kostet-834-euro": [
+   "sentence:price-answer-834"
+  ],
+  "dw-a1-e2-l4:ich-habe-die-nummer": [
+   "sentence:ticket-number-reply"
+  ],
+  "dw-a1-e2-l4:hoffentlich": [
+   "vocab:hoffentlich|hopefully"
+  ],
+  "dw-a1-e2-l4:informiert": [
+   "vocab:informiert|informed"
+  ],
+  "dw-a1-e2-l4:die-suche": [
+   "article:Suche|f",
+   "vocab:Suche|search"
+  ],
+  "dw-a1-e2-l4:setzen-sie-sich-doch-bitte": [
+   "sentence:sit-down-formal"
+  ],
+  "dw-a1-e2-l4:rausfinden": [
+   "vocab:rausfinden|to-find-out"
   ],
   "vhs-a1-l02:die-familie": [
    "article:Familie|f",

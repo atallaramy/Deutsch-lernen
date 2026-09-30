@@ -1,8 +1,8 @@
 {
   "deck": "German A1 — Vocabulary",
-  "revision": "2026-09-27T18:00:00Z",
+  "revision": "2026-09-30T18:00:00Z",
   "qualityPolicy": "One typed German word or fixed expression per card, in a verified context where one exists. No audio.",
-  "cards": 448,
+  "cards": 484,
   "sources": [
     {
       "id": "dw-a1-e0-l1",
@@ -148,6 +148,19 @@
       }
     },
     {
+      "id": "dw-a1-e2-l4",
+      "course": "dw-nicos-weg",
+      "title": "Auf dem Amt",
+      "url": "https://learngerman.dw.com/en/auf-dem-amt/l-37269629",
+      "notesFile": "DW Deutsch lernen/A1/03_contact_details/04_Lesson_04/Auf dem Amt.md",
+      "capturedEntries": 55,
+      "cards": {
+        "vocabulary": 43,
+        "articles": 13,
+        "sentences": 12
+      }
+    },
+    {
       "id": "vhs-a1-l02",
       "course": "vhs-lernportal",
       "title": "Lektion 2 · Meine Familie und ich",
@@ -176,9 +189,9 @@
   ],
   "packages": {
     "ANKI/vocabulary.apkg": {
-      "notes": 448,
-      "cards": 448,
-      "sha256": "ebe1f8c9902284bee62b4ed6aa941d51b7e8f9039ef464785ec412f22b86c701"
+      "notes": 484,
+      "cards": 484,
+      "sha256": "64817a2390e01748e18234145b95d64e44bc3b51f76aadbacfb4dc6cf144b380"
     }
   }
 }

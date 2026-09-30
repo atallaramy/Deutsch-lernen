@@ -577,7 +577,13 @@
    }
   },
   "Nachname|surname": {
-   "cue": "surname (the synonym of Familienname)"
+   "cue": "surname (the synonym of Familienname)",
+   "context": {
+    "lesson": "dw-a1-e2-l4",
+    "source": "exercises",
+    "text": "Mein Nachname ist Schulz.",
+    "target": "Nachname"
+   }
   },
   "Noch einmal bitte.|again-please": {
    "cue": "Again, please. (asking someone to repeat)"
@@ -1637,6 +1643,115 @@
     "source": "exercises",
     "text": "Nico telefoniert mit der Radiomoderatorin.",
     "target": "Radiomoderatorin"
+   }
+  },
+  "Dialog|dialogue": {
+   "context": {
+    "lesson": "dw-a1-e2-l4",
+    "source": "exercises",
+    "text": "Welcher Dialog ist formell?",
+    "target": "Dialog"
+   },
+   "cue": "conversation (e.g. in a textbook exercise)"
+  },
+  "kosten|to-cost": {
+   "context": {
+    "lesson": "dw-a1-e2-l4",
+    "source": "exercises",
+    "text": "Die Tasche kostet fünfundsiebzig Euro.",
+    "target": "kostet"
+   }
+  },
+  "Passnummer|passport-number": {
+   "cue": "passport number — the short form",
+   "context": {
+    "lesson": "dw-a1-e2-l4",
+    "source": "exercises",
+    "text": "Meine Passnummer ist C57X3694K.",
+    "target": "Passnummer"
+   }
+  },
+  "Reisepassnummer|passport-number": {
+   "cue": "passport number — the full form",
+   "interferesWith": [
+    "Passnummer|passport-number"
+   ]
+  },
+  "Postleitzahl|post-code": {
+   "context": {
+    "lesson": "dw-a1-e2-l4",
+    "source": "exercises",
+    "text": "Meine Postleitzahl ist 89045.",
+    "target": "Postleitzahl"
+   }
+  },
+  "Wohnort|place-of-residence": {
+   "cue": "place of residence (on a form)",
+   "interferesWith": [
+    "Stadt|town"
+   ]
+  },
+  "Freut mich.|pleased-to-meet-you": {
+   "context": {
+    "lesson": "dw-a1-e2-l4",
+    "source": "script",
+    "text": "Herr González, freut mich sehr.",
+    "target": "freut mich"
+   }
+  },
+  "nehmen|to-take": {
+   "context": {
+    "lesson": "dw-a1-e2-l4",
+    "source": "script",
+    "text": "Wir nehmen meine Adresse.",
+    "target": "nehmen"
+   }
+  },
+  "Euro|euro": {
+   "cue": "euro (the currency)",
+   "context": {
+    "lesson": "dw-a1-e2-l4",
+    "source": "exercises",
+    "text": "Das Handy kostet zweihundertfünfundzwanzig Euro.",
+    "target": "Euro"
+   }
+  },
+  "wie viel|how-much": {
+   "cue": "how much (an amount or a price; not how many)",
+   "interferesWith": [
+    "wie viele|how-many"
+   ]
+  },
+  "hoffentlich|hopefully": {
+   "context": {
+    "lesson": "dw-a1-e2-l4",
+    "source": "exercises",
+    "text": "Hoffentlich finden Sie die Tasche bald wieder.",
+    "target": "Hoffentlich"
+   }
+  },
+  "informiert|informed": {
+   "context": {
+    "lesson": "dw-a1-e2-l4",
+    "source": "script",
+    "text": "Ist Yara informiert, dass Sie hier sind?",
+    "target": "informiert"
+   }
+  },
+  "Suche|search": {
+   "context": {
+    "lesson": "dw-a1-e2-l4",
+    "source": "exercises",
+    "text": "Viel Glück bei der Suche, Herr González.",
+    "target": "Suche"
+   }
+  },
+  "rausfinden|to-find-out": {
+   "context": {
+    "lesson": "dw-a1-e2-l4",
+    "source": "script",
+    "text": "Aber ich werd’s rausfinden.",
+    "target": "rausfinden"
    }
   }
  }

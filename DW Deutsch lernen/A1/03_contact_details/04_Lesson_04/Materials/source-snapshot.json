@@ -1,0 +1,665 @@
+{
+ "description": "Official source text captured by ANKI/harvest_sources.py for offline context verification.",
+ "harvestedOn": "2026-09-30",
+ "sources": [
+  {
+   "id": "exercises",
+   "kind": "dw-exercises",
+   "url": "https://learngerman.dw.com/en/auf-dem-amt/l-37269629",
+   "lessonUrl": "https://learngerman.dw.com/en/auf-dem-amt/l-37269629",
+   "vocabulary": {
+    "url": "https://learngerman.dw.com/en/auf-dem-amt/l-37269629/lv",
+    "items": [
+     {
+      "id": 37394069,
+      "german": "achthundert",
+      "english": "eight hundred",
+      "forms": ""
+     },
+     {
+      "id": 41389125,
+      "german": "achthundertachtundsiebzig",
+      "english": "eight hundred and seventy eight",
+      "forms": ""
+     },
+     {
+      "id": 42405570,
+      "german": "das Amt, die Ämter",
+      "english": "authority; government office",
+      "forms": ""
+     },
+     {
+      "id": 37367972,
+      "german": "der Dialog, die Dialoge",
+      "english": "dialogue; conversation",
+      "forms": ""
+     },
+     {
+      "id": 37394208,
+      "german": "dreihundert",
+      "english": "three hundred",
+      "forms": ""
+     },
+     {
+      "id": 41387648,
+      "german": "dreihundertdreiundzwanzig",
+      "english": "three hundred and twenty three",
+      "forms": ""
+     },
+     {
+      "id": 37394547,
+      "german": "einhundert",
+      "english": "one hundred",
+      "forms": ""
+     },
+     {
+      "id": 41387561,
+      "german": "einhunderteins",
+      "english": "one hundred and one",
+      "forms": ""
+     },
+     {
+      "id": 37394614,
+      "german": "eintausend",
+      "english": "one thousand",
+      "forms": ""
+     },
+     {
+      "id": 37394635,
+      "german": "fünfhundert",
+      "english": "five hundred",
+      "forms": ""
+     },
+     {
+      "id": 41387810,
+      "german": "fünfhundertfünfundvierzig",
+      "english": "five hundred and forty five",
+      "forms": ""
+     },
+     {
+      "id": 37394734,
+      "german": "das Heimatland, die Heimatländer",
+      "english": "homeland",
+      "forms": ""
+     },
+     {
+      "id": 37401529,
+      "german": "Ich weiß es nicht.",
+      "english": "I don't know.",
+      "forms": ""
+     },
+     {
+      "id": 37394781,
+      "german": "etwas kosten",
+      "english": "to cost (it costs 5 euro)",
+      "forms": "kostet, kostete, hat gekostet"
+     },
+     {
+      "id": 37394997,
+      "german": "der Nachname, die Nachnamen",
+      "english": "last name; family name",
+      "forms": ""
+     },
+     {
+      "id": 37395014,
+      "german": "neunhundert",
+      "english": "nine hundred",
+      "forms": ""
+     },
+     {
+      "id": 41389333,
+      "german": "neunhundertneunundachtzig",
+      "english": "nine hundred and eighty nine",
+      "forms": ""
+     },
+     {
+      "id": 37367090,
+      "german": "der Onkel, die Onkel",
+      "english": "uncle",
+      "forms": ""
+     },
+     {
+      "id": 37395127,
+      "german": "die Passnummer, die Passnummern",
+      "english": "passport number",
+      "forms": "Kurzform von: Reisepassnummer"
+     },
+     {
+      "id": 37395233,
+      "german": "die Postleitzahl, die Postleitzahlen",
+      "english": "zip code; postal code",
+      "forms": ""
+     },
+     {
+      "id": 37395276,
+      "german": "die Reisepassnummer, die Reisepassnummern",
+      "english": "passport number",
+      "forms": "Kurzform: die Passnummer, die Passnummern"
+     },
+     {
+      "id": 37395287,
+      "german": "sechshundert",
+      "english": "six hundred",
+      "forms": ""
+     },
+     {
+      "id": 41388526,
+      "german": "sechshundertsechsundfünfzig",
+      "english": "six hundred and fifty six",
+      "forms": ""
+     },
+     {
+      "id": 37395324,
+      "german": "siebenhundert",
+      "english": "seven hundred",
+      "forms": ""
+     },
+     {
+      "id": 41389104,
+      "german": "siebenhundertsiebenundsechzig",
+      "english": "seven hundred and sixty seven",
+      "forms": ""
+     },
+     {
+      "id": 37745022,
+      "german": "die Tochter, die Töchter",
+      "english": "daughter",
+      "forms": ""
+     },
+     {
+      "id": 37395496,
+      "german": "vierhundert",
+      "english": "four hundred",
+      "forms": ""
+     },
+     {
+      "id": 41387764,
+      "german": "vierhundertvierunddreißig",
+      "english": "four hundred and thirty four",
+      "forms": ""
+     },
+     {
+      "id": 37389450,
+      "german": "warum",
+      "english": "why",
+      "forms": ""
+     },
+     {
+      "id": 37396304,
+      "german": "Welche Nummer haben Sie?",
+      "english": "What is your number? (formal)",
+      "forms": ""
+     },
+     {
+      "id": 37396308,
+      "german": "Welche Nummer hast du?",
+      "english": "What is your number? (informal)",
+      "forms": ""
+     },
+     {
+      "id": 37395332,
+      "german": "Wie ist deine Adresse?",
+      "english": "What is your address? (informal)",
+      "forms": ""
+     },
+     {
+      "id": 37396359,
+      "german": "Wie ist Ihre Adresse?",
+      "english": "What is your address? (formal)",
+      "forms": ""
+     },
+     {
+      "id": 37395858,
+      "german": "der Wohnort, die Wohnorte",
+      "english": "place; town; city of residence",
+      "forms": ""
+     },
+     {
+      "id": 37395998,
+      "german": "zweihundert",
+      "english": "two hundred",
+      "forms": ""
+     },
+     {
+      "id": 41387598,
+      "german": "zweihundertzwölf",
+      "english": "two hundred and twelve",
+      "forms": ""
+     }
+    ]
+   },
+   "exercises": [
+    {
+     "id": "e-37269785",
+     "url": "https://learngerman.dw.com/en/at-the-police-station/l-37269629/e-37269785",
+     "title": "At the police station",
+     "texts": [
+      "Jürgen Brunner ist Lisas Papa.",
+      "Lisa schreibt eine Adresse.",
+      "Wer ist Jürgen Brunner?",
+      "Was schreibt Lisa?"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37270780",
+     "url": "https://learngerman.dw.com/en/at-the-reception-desk/l-37269629/e-37270780",
+     "title": "At the reception desk",
+     "texts": [
+      "Dialog 1:\nLisa: Hallo, Peter!\nPeter: Hallo, Lisa! Wie geht es dir?\nLisa: Gut, danke. Und dir?\nPeter: Auch gut. Was machst du hier?\nLisa: Ich suche meinen Vater. Er hilft Nico. Nico hat ein Problem. Er hat seine Tasche verloren.\nPeter: Ach so. Dein Vater ist in seinem Büro. Viel Glück, Nico!\nNico: Danke!\nDialog 2:\nLisa: Guten Tag, wir suchen Jürgen Brunner.\nPolizist: Guten Tag. Ja, einen Moment, bitte. Sind Sie Jürgens Tochter Lisa?\nLisa: Ja, richtig. Und das ist Nico González. Er hat seine Tasche verloren.\nPolizist: Guten Tag, Herr González. Hoffentlich finden Sie die Tasche bald wieder.\nLisa: Er versteht noch nicht so gut Deutsch.\nPolizist: Ach so. Viel Glück bei der Suche, Herr González. Good luck! Auf Wiedersehen.",
+      "Dialog 2",
+      "Welcher Dialog ist formell?"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37271015",
+     "url": "https://learngerman.dw.com/en/at-the-registration-office/l-37269629/e-37271015",
+     "title": "At the registration office",
+     "texts": [
+      "Ich habe die Nummer eins fünf drei zwei.",
+      "Ich habe die Nummer vier eins acht sieben.",
+      "Welche Nummer haben Sie?",
+      "Welche Nummer haben Sie?"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37272173",
+     "url": "https://learngerman.dw.com/en/filling-out-a-form-1/l-37269629/e-37272173",
+     "title": "Filling out a form (1)",
+     "texts": [
+      "Vorname : Annette\nNachname : Schulz\nPassnummer: C57X3694K\nWohnort: München\nPostleitzahl: 65185\nStraße: Alfonsstraße 95",
+      "Play audio",
+      "Mein Vorname ist Annette.",
+      "Play audio",
+      "Mein Nachname ist Schulz.",
+      "Play audio",
+      "Meine Passnummer ist C57X3694K.",
+      "Play audio",
+      "Ich wohne in München.",
+      "Play audio",
+      "Meine Postleitzahl ist 89045.",
+      "Play audio",
+      "Ich wohne in der Alfonsstraße 95."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37272208",
+     "url": "https://learngerman.dw.com/en/filling-out-a-form-2/l-37269629/e-37272208",
+     "title": "Filling out a form (2)",
+     "texts": [
+      "Wie heißen Sie?",
+      "Wie alt sind Sie?",
+      "Woher kommen Sie?",
+      "Wo wohnen Sie?",
+      "Wie ist Ihre Adresse?",
+      "Wie ist Ihre Telefonnummer?",
+      "#pl# = Name, Vorname\n#pl# = Alter\n#pl# = Heimatland\n#pl# = Wohnort\n#pl# = Straße, Hausnummer, PLZ, Wohnort\n#pl# = Telefonnummer",
+      "Wähl die passenden Fragen in der richtigen Reihenfolge aus.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37270373",
+     "url": "https://learngerman.dw.com/en/formal-or-informal/l-37269629/e-37270373",
+     "title": "Formal or informal?",
+     "texts": [
+      "informelle Begrüßung",
+      "formelle Begrüßung"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37270847",
+     "url": "https://learngerman.dw.com/en/how-to-construct-formal-questions/l-37269629/e-37270847",
+     "title": "How to construct formal questions",
+     "texts": [
+      "Wie",
+      "heißen",
+      "Woher",
+      "kommen",
+      "Wo",
+      "wohnen",
+      "Wie",
+      "alt",
+      "sind",
+      "Sie",
+      "Sie",
+      "Sie",
+      "informell: Wie heißt du?\nformell: #ps# #ps# Sie?",
+      "Schreib die passende formelle Frage in die Lücken. In jede Lücke passt ein Wort.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "informell: Woher kommst du?\nformell: #ps# #ps# #ps#?",
+      "Schreib die passende formelle Frage in die Lücken. In jede Lücke passt ein Wort.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "informell: Wo wohnst du?\nformell: #ps# #ps# #ps#?",
+      "Schreib die passende formelle Frage in die Lücken. In jede Lücke passt ein Wort.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "informell: Wie alt bist du?\nformell: #ps# #ps# #ps# #ps#?",
+      "Schreib die passende formelle Frage in die Lücken. In jede Lücke passt ein Wort.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37271152",
+     "url": "https://learngerman.dw.com/en/numbers-above-100-1/l-37269629/e-37271152",
+     "title": "Numbers above 100 (1)",
+     "texts": [
+      "zweihundert",
+      "dreihundert",
+      "sechshundert",
+      "achthundert",
+      "einhundert\n#p#\n#p#\nvierhundert\nfünfhundert\n#p#\nsiebenhundert\n#p#\nneunhundert\neintausend",
+      "Wähl die fehlenden Wörter in der richtigen Reihenfolge aus.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37271456",
+     "url": "https://learngerman.dw.com/en/numbers-above-100-2/l-37269629/e-37271456",
+     "title": "Numbers above 100 (2)",
+     "texts": [
+      "107",
+      "Info: Instead of \"einhundert\" you can also use \"hundert\".",
+      "244",
+      "398",
+      "471",
+      "782",
+      "979"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37271755",
+     "url": "https://learngerman.dw.com/en/numbers-above-100-3/l-37269629/e-37271755",
+     "title": "Numbers above 100 (3)",
+     "texts": [
+      "92",
+      "616",
+      "727"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37271958",
+     "url": "https://learngerman.dw.com/en/passport-information-1/l-37269629/e-37271958",
+     "title": "Passport information (1)",
+     "texts": [
+      "Geburtstag",
+      "Adresse",
+      "Reisepassnummer",
+      "Beantworte die Frage."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37272004",
+     "url": "https://learngerman.dw.com/en/passport-information-2/l-37269629/e-37272004",
+     "title": "Passport information (2)",
+     "texts": [
+      "C01X0006F",
+      "Meier",
+      "Max",
+      "02.03.1980",
+      "65185",
+      "Frankfurt",
+      "Was passt zusammen? Ordne zu.",
+      "Info: \"PLZ\" is an abbreviation for \"Postleitzahl\". Every city in Germany is assigned at least one postal code or ZIP code. Postal codes in Germany always have five digits.",
+      "Passnummer",
+      "Nachname",
+      "Vorname",
+      "Geburtstag",
+      "PLZ",
+      "Wohnort"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37271600",
+     "url": "https://learngerman.dw.com/en/prices/l-37269629/e-37271600",
+     "title": "Prices",
+     "texts": [
+      "Die Tasche kostet fünfundsiebzig Euro.",
+      "Das Handy kostet zweihundertfünfundzwanzig Euro.",
+      "Das Fahrrad kostet achthundertvierunddreißig Euro.",
+      "Wie viel kostet die Tasche?",
+      "Wie viel kostet das Handy?",
+      "Wie viel kostet das Fahrrad?"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37270700",
+     "url": "https://learngerman.dw.com/en/the-formal-form-of-address/l-37269629/e-37270700",
+     "title": "The formal form of address",
+     "texts": [
+      "Sie",
+      "Sie",
+      "Sie",
+      "Jürgen: Guten Tag, Jürgen Brunner mein Name. #p# sind Nico?\nNico: Ja. Ich heiße Nicolás González.\nJürgen: Herr González, freut mich sehr! Setzen #p# sich doch bitte. Wie kann ich Ihnen helfen? Wie ist Ihr Geburtsdatum? Ich meine: Wann haben #p# Geburtstag?",
+      "„du“ oder „Sie“? Wähl für jede Lücke das richtige Wort aus.",
+      "Careful! If you do not know someone, always use the formal address with \"Sie\" and \"Herr\" or \"Frau\" – then you are on the safe side and will not offend anyone.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37269624",
+     "url": "https://learngerman.dw.com/en/where-are-nico-and-lisa/l-37269629/e-37269624",
+     "title": "Where are Nico and Lisa?",
+     "texts": [
+      "Nico und Lisa sind bei der Polizei.",
+      "Wo sind Nico und Lisa?"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37271069",
+     "url": "https://learngerman.dw.com/en/where-does-lisa-live/l-37269629/e-37271069",
+     "title": "Where does Lisa live?",
+     "texts": [
+      "Lisa wohnt in der Wagnergasse 136.",
+      "Wähl die richtige Antwort."
+     ],
+     "vocabularyTags": []
+    }
+   ],
+   "pages": [
+    {
+     "id": "gr-38311389",
+     "url": "https://learngerman.dw.com/en/formal-conversations/l-37269629/gr-38311389",
+     "title": "Formal conversations",
+     "texts": [
+      "Formal conversations",
+      "Features of formal conversations\nIn conversations with officials, e.g. at the registration office or the police station, the formal address is used. The formal address is characterized as follows:\nA formal greeting is used, usually Guten Tag. Depending on the time of day you can also say Guten Morgen or Guten Abend.\nIf you know the name of the person you are talking to, a man is addressed with Herr and his surname and a woman as Frau and her surname.\nGuten Tag, Herr Brunner!\nGuten Tag, Frau Brunner\nAddress the other person with Sie:\nWie heißen Sie?\nWoher kommen Sie?\nWo wohnen Sie?\nWie alt sind Sie?\nInstead of dein/e use Ihr/e:\nWie ist Ihr Name?\nWie ist Ihre Adresse?\nWie ist Ihre Passnummer?Wie ist Ihre Telefonnummer?\nThe usual way to say goodbye is Auf Wiedersehen."
+     ],
+     "html": "<p><strong>Features of formal conversations </strong></p>\n\n<p>In conversations with officials, e.g. at the registration office&#160;or the police station, the formal address is used. The formal address is characterized as follows:</p>\n\n<ul>\n\t<li>A formal greeting is used, usually&#160;<em>Guten Tag</em>. Depending on the time of day you can also say <em>Guten Morgen</em> or <em>Guten Abend</em>.</li>\n</ul>\n\n<p>&#160;</p>\n\n<ul>\n\t<li>If you know the name of the person you are talking to, a man is addressed with <em>Herr</em> and his surname and a woman as <em>Frau</em> and her surname.<br>\n\t<em>Guten Tag, Herr Brunner!</em><br>\n\t<em>Guten Tag, Frau Brunner</em></li>\n</ul>\n\n<p>&#160;</p>\n\n<ul>\n\t<li>Address the other person with <em>Sie</em>:<br>\n\t<em>Wie heißen Sie?</em><br>\n\t<em>Woher kommen Sie?</em><br>\n\t<em>Wo wohnen Sie?</em><br>\n\t<em>Wie alt sind Sie?</em></li>\n</ul>\n\n<p>&#160;</p>\n\n<ul>\n\t<li>Instead of <em>dein/e</em> use <em>Ihr/e</em>:<br>\n\t<em>Wie ist Ihr Name?</em><br>\n\t<em>Wie ist Ihre Adresse?</em><br>\n\t<em>Wie ist Ihre Passnummer?</em><em>Wie ist Ihre Telefonnummer?</em></li>\n</ul>\n\n<p>&#160;</p>\n\n<ul>\n\t<li>The usual way to say goodbye is&#160;<em>Auf Wiedersehen</em>.</li>\n</ul>\n"
+    },
+    {
+     "id": "gr-38309547",
+     "url": "https://learngerman.dw.com/en/numbers-over-100/l-37269629/gr-38309547",
+     "title": "Numbers over 100",
+     "texts": [
+      "Numbers over 100",
+      "Once you know the cardinal numbers up to 100, the larger numbers are easy to form.\nThe hundreds are formed using the single digit + hundert:\n100\n(ein)hundert*\n200\nzweihundert\n300\ndreihundert\n400\nvierhundert\n500\nfünfhundert\n600\nsechshundert\n700\nsiebenhundert\n800\nachthundert\n900\nneunhundert\n*With 100 and 1000 the number ein(s) is often left out. Germans often simply say hundert or tausend.\nWith numbers over 100 the last two digits are formed like the normal cardinal numbers below one hundred. The hundreds come first:\n201: zweihunderteins\n212: zweihundertzwölf\n215: zweihundertfünfzehn\n231: zweihunderteinunddreißig"
+     ],
+     "html": "<p>Once you know the cardinal numbers up to 100, the larger numbers are easy to form.</p>\n\n<p>The hundreds are formed using the single digit + <em>hundert</em>:</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>100</td>\n\t\t\t<td><strong>(ein)</strong>hundert*</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>200</td>\n\t\t\t<td><strong>zwei</strong>hundert</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>300</td>\n\t\t\t<td><strong>drei</strong>hundert</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>400</td>\n\t\t\t<td><strong>vier</strong>hundert</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>500</td>\n\t\t\t<td><strong>fünf</strong>hundert</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>600</td>\n\t\t\t<td><strong>sechs</strong>hundert</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>700</td>\n\t\t\t<td><strong>sieben</strong>hundert</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>800</td>\n\t\t\t<td><strong>acht</strong>hundert</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>900</td>\n\t\t\t<td><strong>neun</strong>hundert</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&#160;</p>\n\n<p>*With <em>100</em> and <em>1000</em> the number <em>ein(s)</em> is often left out. Germans often simply say <em>hundert </em>or<em> tausend</em>.</p>\n\n<p>With numbers over 100 the last two digits are formed like the normal cardinal numbers below one hundred. The hundreds come first:</p>\n\n<p>2<strong>01</strong>: zweihundert<strong>eins</strong></p>\n\n<p>2<strong>12</strong>: zweihundert<strong>zwölf</strong></p>\n\n<p>2<strong>15</strong>: zweihundert<strong>fünfzehn</strong></p>\n\n<p>2<strong>31</strong>: zweihundert<strong>einunddreißig</strong></p>\n"
+    },
+    {
+     "id": "gr-38309923",
+     "url": "https://learngerman.dw.com/en/numbers-over-1000/l-37269629/gr-38309923",
+     "title": " Numbers over 1000",
+     "texts": [
+      "Numbers over 1000",
+      "Numbers over one thousand are formed using the same principle as those over one hundred:\n1000\n(ein)tausend\n2000\nzweitausend\n3000\ndreitausend\n4000\nviertausend\n5000\nfünftausend\n6000\nsechstausend\n7000\nsiebentausend\n8000\nachttausend\n9000\nneuntausend\nWith large numbers, the thousands come first, then the hundreds, and then the numbers below a hundred. You can write a point after the thousands."
+     ],
+     "html": "<p><span xml:lang=\"RO-RO\"></span><span xml:lang=\"DE-DE\">Numbers </span>over one thousand are formed using the same principle as those over one hundred:&#160;</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>1000</td>\n\t\t\t<td><strong>(ein)</strong>tausend</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>2000</td>\n\t\t\t<td><strong>zwei</strong>tausend</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>3000</td>\n\t\t\t<td><strong>drei</strong>tausend</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>4000</td>\n\t\t\t<td><strong>vier</strong>tausend</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>5000</td>\n\t\t\t<td><strong>fünf</strong>tausend</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>6000</td>\n\t\t\t<td><strong>sechs</strong>tausend</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>7000</td>\n\t\t\t<td><strong>sieben</strong>tausend</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>8000</td>\n\t\t\t<td><strong>acht</strong>tausend</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>9000</td>\n\t\t\t<td><strong>neun</strong>tausend</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p><br>\n<span xml:lang=\"RO-RO\"></span><span xml:lang=\"DE-DE\">With</span> large numbers, the thousands come first, then the hundreds, and then the numbers below a hundred. You can write a point after the thousands.&#160;</p>\n\n\n"
+    },
+    {
+     "id": "gr-38310279",
+     "url": "https://learngerman.dw.com/en/saying-numbers/l-37269629/gr-38310279",
+     "title": "Saying numbers",
+     "texts": [
+      "Saying numbers",
+      "Welche Nummer haben Sie?\nIch habe die Nummer eins, fünf, drei, zwei.\nor:\nIch habe die Nummer eintausendfünfhundertzweiunddreißig.\nYou can read numbers in various ways. You can say each individual digit or read the number in its entirety. The longer the number is, the more usual it is to read the digits individually. With telephone and bank account numbers these are read separately or in pairs.\nWie ist deine Telefonnummer? – Meine Telefonnummer ist 257764.\nMeine Telefonnummer ist zwei, fünf, sieben, sieben, sechs, vier.\nor:\nMeine Telefonnummer ist fünfundzwanzig, siebenundsiebzig, vierundsechzig."
+     ],
+     "html": "<p><em>Welche Nummer haben Sie?</em></p>\n\n\n\n<p><em>Ich habe die Nummer eins, fünf, drei, zwei.</em></p>\n\n<p>or:</p>\n\n<p><em>Ich habe die Nummer eintausendfünfhundertzweiunddreißig. </em></p>\n\n<p>&#160;</p>\n\n<p>You can read numbers in various ways. You can say each individual digit or read the number in its entirety. The longer the number is, the more usual it is to read the digits individually. With telephone and bank account numbers these are read separately or in pairs.</p>\n\n<p><strong><em>Wie ist deine Telefonnummer? – Meine Telefonnummer ist 257764.</em></strong></p>\n\n<p><em>Meine Telefonnummer ist zwei, fünf, sieben, sieben, sechs, vier.</em></p>\n\n<p>or:</p>\n\n<p><em>Meine Telefonnummer ist fünfundzwanzig, siebenundsiebzig, vierundsechzig.</em></p>\n\n<p>&#160;</p>\n"
+    },
+    {
+     "id": "rs-39370933",
+     "url": "https://learngerman.dw.com/en/sign-here-please/l-37269629/rs-39370933",
+     "title": "Sign here please!",
+     "texts": [
+      "Sign here please!",
+      "Foreigners often consider Germans very bureaucratic. And it is true that you need to fill out forms when you apply for something – whether at the local residents' registration office or the bank.\nWhen you do this, you usually have to provide the same information, including your first and last name, your gender, your date and place of birth, your nationality and your address. You will often be asked about your academic or professional qualifications too.\nAt any public agency, you will be asked to show identification. All Germans aged 16 and over must have official identification. Foreigners need a current passport. Generally, however, you do not have to have it with you all the time."
+     ],
+     "html": "<p><br>\nForeigners often consider Germans very bureaucratic. And it is true that you need to fill out forms when you apply for something – whether at the local residents' registration office or the bank.</p>\n\n<p>When you do this, you usually have to provide the same information, including your first and last name, your gender, your date and place of birth, your nationality and your address. You will often be asked about your academic or professional qualifications too.</p>\n\n<p>At any public agency, you will be asked to show identification. All Germans aged 16 and over must have official identification. Foreigners need a current passport. Generally, however, you do not have to have it with you all the time.</p>\n"
+    }
+   ]
+  },
+  {
+   "id": "script",
+   "kind": "dw-script-pdf",
+   "url": "https://learngerman.dw.com/downloads/52719359/nicos-weg-a1-e2-l4-manuskript-und-wortschatz-englisch.pdf",
+   "localFile": "DW Deutsch lernen/A1/03_contact_details/04_Lesson_04/Materials/Script and vocabulary (English).pdf",
+   "sha256": "817056ade7f3b33f699fe4176018b0a8dc561a7d9feb1e336598410192079656",
+   "lines": [
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "(2) Contact details | Auf dem Amt",
+    "At the police station, Lisa’s father asks Nico where he lives, his date of birth",
+    "and passport number. He wants to help Nico. As Nico still doesn’t know",
+    "where to find his aunt, Lisa takes him back to her shared apartment.",
+    "Script",
+    "LISA:",
+    "Hallo, Papa!",
+    "JÜRGEN:",
+    "Ah! Hallo, Lisa! Guten Tag, Jürgen Brunner mein Name. Sie sind Nico?",
+    "NICO:",
+    "Ja. Ich heiße Nicolás González.",
+    "JÜRGEN:",
+    "Herr González, freut mich sehr. Setzen Sie sich doch bitte. Wie kann ich Ihnen helfen?",
+    "Wie ist Ihr Geburtsdatum? Ich meine: Wann haben Sie Geburtstag? Geburtstag?",
+    "NICO:",
+    "Geburtstag.",
+    "JÜRGEN:",
+    "Mhm.",
+    "NICO:",
+    "Adresse?",
+    "LISA:",
+    "Wir nehmen meine Adresse. Ich wohne in der Wagnergasse 136.",
+    "JÜRGEN:",
+    "Ihre Passnummer! Passnummer.",
+    "NICO:",
+    "Mein Pass ist weg.",
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "JÜRGEN:",
+    "Oh, das ist nicht gut.",
+    "NICO:",
+    "Das ist Yara.",
+    "JÜRGEN:",
+    "Und wer ist Yara?",
+    "NICO:",
+    "My aunt.",
+    "LISA:",
+    "Seine Tante!",
+    "JÜRGEN:",
+    "Yara ist Ihre Tante.",
+    "NICO:",
+    "Ja, meine Tante.",
+    "JÜRGEN:",
+    "Wo wohnt Yara? Haben Sie eine Adresse? Ist Yara informiert, dass Sie hier sind?",
+    "LISA:",
+    "Does Yara know you are here? Is she waiting for you?",
+    "JÜRGEN:",
+    "Seine Tante weiß nicht, warum er hier ist?",
+    "LISA:",
+    "Nein.",
+    "JÜRGEN:",
+    "Warum ist er denn hier in Deutschland?",
+    "LISA:",
+    "Ich weiß es nicht. Aber ich werd’s rausfinden.",
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "JÜRGEN:",
+    "Ich helfe Nico.",
+    "LISA:",
+    "Danke, Papa.",
+    "JÜRGEN:",
+    "Gerne. Wir telefonieren! Hab viel Spaß heute Abend bei der Party.",
+    "LISA:",
+    "Komm!",
+    "NICO:",
+    "Party?",
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "Vocabulary (from script and lesson)",
+    "achthundert – eight hundred",
+    "achthundertachtundsiebzig – eight hundred and seventy eight",
+    "das Amt, die Ämter – authority; government office",
+    "der Dialog, die Dialoge – dialogue; conversation",
+    "dreihundert – three hundred",
+    "dreihundertdreiundzwanzig – three hundred and twenty three",
+    "einhundert – one hundred",
+    "einhunderteins – one hundred and one",
+    "eintausend – one thousand",
+    "fünfhundert – five hundred",
+    "fünfhundertfünfundvierzig – five hundred and forty five",
+    "das Heimatland, die Heimatländer – homeland",
+    "Ich weiß es nicht. – I don't know.",
+    "etwas kosten – to cost (it costs 5 euro)",
+    "kostet, kostete, hat gekostet",
+    "der Nachname, die Nachnamen – last name; family name",
+    "neunhundert – nine hundred",
+    "neunhundertneunundachtzig – nine hundred and eighty nine",
+    "der Onkel, die Onkel – uncle",
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "die Passnummer, die Passnummern – passport number",
+    "Kurzform von: Reisepassnummer",
+    "die Postleitzahl, die Postleitzahlen – zip code; postal code",
+    "die Reisepassnummer, die Reisepassnummern – passport number",
+    "Kurzform: die Passnummer, die Passnummern",
+    "sechshundert – six hundred",
+    "sechshundertsechsundfünfzig – six hundred and fifty six",
+    "siebenhundert – seven hundred",
+    "siebenhundertsiebenundsechzig – seven hundred and sixty seven",
+    "die Tochter, die Töchter – daughter",
+    "vierhundert – four hundred",
+    "vierhundertvierunddreißig – four hundred and thirty four",
+    "warum – why",
+    "Welche Nummer haben Sie? – What is your number? (formal)",
+    "Welche Nummer hast du? – What is your number? (informal)",
+    "Wie ist deine Adresse? – What is your address? (informal)",
+    "Wie ist Ihre Adresse? – What is your address? (formal)",
+    "der Wohnort, die Wohnorte – place; town; city of residence",
+    "zweihundert – two hundred",
+    "zweihundertzwölf – two hundred and twelve"
+   ]
+  }
+ ]
+}

@@ -95,6 +95,31 @@
     "source": "exercises",
     "text": "die W-Frage: W-questions are open questions that cannot be answered with \"yes\" or \"no\"."
    }
+  },
+  "Passnummer": {
+   "hints": [
+    "Compound: the last part (…nummer) decides the gender."
+   ]
+  },
+  "Reisepassnummer": {
+   "hints": [
+    "Compound: the last part (…nummer) decides the gender."
+   ]
+  },
+  "Postleitzahl": {
+   "hints": [
+    "Compound: the last part (…zahl) decides the gender."
+   ]
+  },
+  "Heimatland": {
+   "hints": [
+    "Compound: the last part (…land) decides the gender."
+   ]
+  },
+  "Nachname": {
+   "hints": [
+    "Compound: the last part (…name) decides the gender."
+   ]
   }
  }
 }

@@ -22,6 +22,7 @@
 | `archive/2026-09-27-official-materials-capture/` | Backup of the data, builder, test and doc files edited when the official scripts and exercises became a capture source, with a SHA-256 manifest. |
 | `archive/2026-09-27-lesson-pages/` | Backup of the data, snapshot, builder, test, instruction and doc files edited when the DW vocabulary, grammar and culture pages became checked sources, with a SHA-256 manifest. |
 | `archive/2026-09-27-dw-a1-e2-l3/` | Backup of the data, builder, test, grammar and doc files edited when DW A1 E2 L3 was processed, with a SHA-256 manifest. |
+| `archive/2026-09-30-dw-a1-e2-l4/` | Backup of the data, grammar, instruction and doc files edited when DW A1 E2 L4 was processed, with a SHA-256 manifest. |
 
 ## Files in a lesson's `Materials/` (written by `harvest_sources.py`)
 

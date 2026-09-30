@@ -3,6 +3,15 @@
 Confirmed decisions, newest first. The binding rules they produce live in
 `AGENTS.md`; this file records why and when.
 
+## 2026-09-30 — DW A1 E2 L4 Auf dem Amt
+
+| Topic | Decision |
+|---|---|
+| Non-German names | The learner: "you should fix any mistakes in Nicolas Gonzales, I am not here to fix Spanish names." Claude corrects accents in non-German names in the notes and records it in `mistakes.md`; they are not listed for the learner to fix. Recorded in `AGENTS.md` and `processing-a-lesson.md`. |
+| Mistake rounds | Two rounds and two final checks, saved in the lesson's `Materials/mistakes.md`; all fixed before capture. The learner asked for a check again before going ahead. |
+| Beyond A1 | Asked yes/no for five script and exercise words not on the Goethe A1 list; the learner: "Yes, all 5". *hoffentlich, informiert, die Suche, Setzen Sie sich doch bitte., rausfinden* added, tagged. |
+| Merges | *einhundert, warum, der Nachname, der Onkel, die Tochter, die Postleitzahl, der Wohnort* join their existing cards. *Passnummer* and *Reisepassnummer* stay two cards (short form / full form), like *hundert* / *einhundert*. *PLZ* is its own abbreviation card. |
+
 ## 2026-09-28 — DW A1 E2 L3 Adressen
 
 | Topic | Decision |

@@ -26,6 +26,8 @@ mistakes, corrects the notes itself and continues.
    wrong words, word forms, articles, and punctuation that changes the sentence
    (a missing question mark, a stray comma or full stop). A line from audio with no
    official transcript is listed separately when it cannot be checked.
+   Accents in non-German names (*Nicolás González*) are not your work: Claude
+   corrects them in your notes and says so in `mistakes.md` (your decision 2026-09-30).
 2. **Round 1:** Claude saves the list in the lesson's `Materials/mistakes.md`, then
    shows you the wrong words exactly as you wrote them, with line numbers. No
    comments.

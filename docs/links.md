@@ -153,6 +153,38 @@ The courses follow the BAMF integration-course curriculum:
 | Goethe-Zertifikat A2 word list | <https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf> |
 | Goethe-Zertifikat B1 word list | <https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_B1_Wortliste.pdf> |
 | Goethe exam pages | A1 <https://www.goethe.de/ins/de/de/prf/prf/gzsd1.html> · A2 <https://www.goethe.de/ins/de/de/prf/prf/gzsd2.html> · B1 <https://www.goethe.de/ins/de/de/prf/prf/gzb1.html> (B1 details: <https://www.goethe.de/ins/de/de/prf/prf/gzb1/inf.html>) · All exams: <https://www.goethe.de/de/spr/prf.html> |
+
+### Free practice exams for adults (checked 2026-09-30)
+
+For adults the A1 exam is **Goethe-Zertifikat A1: Start Deutsch 1**. *Fit in Deutsch 1* is the
+A1 exam for children and young people; skip its materials.
+
+| Level | Practice page | What is there |
+|---|---|---|
+| A1 | <https://www.goethe.de/ins/de/de/prf/prf/gzsd1/ueb.html> | Three full practice tests as PDF, each with listening audio, transcripts, answer key (*Lösungen*) and marking guides for writing and speaking: [Modellsatz](https://www.goethe.de/pro/relaunch/prf/materialien/A1_sd1/sd_1_modellsatz.pdf) · [Übungssatz 01](https://www.goethe.de/pro/relaunch/prf/materialien/A1_sd1/sd_1_uebungssatz01.pdf) · [Übungssatz 02](https://www.goethe.de/pro/relaunch/prf/materialien/A1_sd1/sd_1_uebungssatz02.pdf). Audio: [1](https://goethemp4s.akamaized.net/resources/files/mp430/pruefungstraining_1_hoeren_a1_erwachsene.mp4) · [2](https://goethemp4s.akamaized.net/resources/files/mp430/pruefungstraining_2_hoeren_a1_erwachsene.mp4) · [3](https://goethemp4s.akamaized.net/resources/files/mp430/pruefungstraining_3_hoeren_a1_erwachsene.mp4). Online version of the Modellsatz: <https://bfu.goethe.de/a1_sd1/> |
+| A2 | <https://www.goethe.de/de/spr/prf/ueb/pa2.html> | Two practice tests for adults (PDF + audio); online version: <https://bfu.goethe.de/a2_mod_2MX5/> |
+| B1 | <https://www.goethe.de/ins/de/de/prf/prf/gzb1/ueb.html> | Modellsatz and Übungssatz for adults (PDF + audio); online version: <https://bfu.goethe.de/b1_mod/index.php> |
+| Level check | <https://www.goethe.de/ins/eg/de/spr/tsd.html> | *Testen Sie Ihr Deutsch*: short free online test that estimates your level (the test itself: <https://www.goethe.de/lrn/pro/30-item/m/de/index.html>) |
+
+### Booking an exam in Egypt (checked 2026-09-30)
+
+| What | Link | Notes |
+|---|---|---|
+| Goethe-Institut Kairo, A1 Start Deutsch 1: dates and booking | <https://www.goethe.de/ins/eg/de/sta/kai/prf/gzsd1.cfm> | Table of dates with a *Buchen* (book) button. On 2026-09-30 two A1 dates were open: 01.11.2026 Hurghada (book by 18.10.2026) and 30.11.2026 Dokki (book 22.09.–30.10.2026). Price 8,500 EGP, or 5,500 EGP if a Goethe-Institut course ended no more than six months before the exam date (the lower price appears automatically when booking; if not, ask the course office). The exam fee is separate from course fees. Paper exam. |
+| All exams at Goethe-Institut Kairo | <https://www.goethe.de/ins/eg/de/sta/kai/prf.html> | A2: `…/prf/gzsd2.cfm` · B1: `…/prf/gzb1.cfm` (same site) |
+| Registration rules and advice | <https://www.goethe.de/ins/eg/de/sta/kai/prf/inf.html> | Pay online with an international credit card. Enter your name, date and place of birth exactly as in your passport. Advice appointments: <https://goetheeg.com/>. Exam office: Pruefungen-Kairo@goethe.de. Digital certificate, usually within two weeks. |
+| Goethe-Institut Alexandria exams | <https://www.goethe.de/ins/eg/de/sta/alx/prf.html> | A1 Start Deutsch 1: <https://www.goethe.de/ins/eg/de/sta/alx/prf/gzsd1.cfm>. On 2026-09-30 open: 05.11.2026 (book by 05.10.2026) and 01.12.2026 (book by 01.11.2026); same prices. |
+
+### Free Goethe learning material (checked 2026-09-30)
+
+| What | Link | Notes |
+|---|---|---|
+| Deutsch für dich | <https://www.goethe.de/prj/dfd/de/home.cfm> | Free exercises A1–C2 (grammar, vocabulary, reading, listening). The community and log-in were switched off; no account needed. |
+| Mein Weg nach Deutschland: *Erste Wege in Deutschland* (A1) | <https://www.goethe.de/prj/mwd/de/deu/ewd.html> | Videos with exercises: bus, job search, work, friends, doctor, flat hunting, the street, a phone contract. Transcript: <https://www.goethe.de/resources/files/pdf354/erste_wege.pdf>. More: <https://www.goethe.de/prj/mwd/de/deu.html> |
+| Ticket nach Berlin | <https://www.goethe.de/de/spr/ueb/lua/tnb.html> | Goethe-Institut and DW series: six learners travel across Germany. The page does not state a level. |
+| Deutsch Vokabeltrainer app | <https://www.goethe.de/prj/dvt/de/index.html> | A1–B1 vocabulary matched to the Goethe exam word lists; free to start. |
+| Deutschtrainer A1 app | <https://www.goethe.de/de/spr/ueb/kuj/dt1.html> | Discontinued: Goethe says it was available until March 2026. |
+| Kostenlos Deutsch üben (Goethe Egypt) | <https://www.goethe.de/ins/eg/de/spr/ueb.html> | Goethe's list of free material by level |
 | CEFR companion volume (Council of Europe) | <https://www.coe.int/en/web/common-european-framework-reference-languages/cefr-companion-volume-and-its-language-versions> |
 | CEFR global scale / self-assessment grid | <https://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale> · <https://www.coe.int/en/web/common-european-framework-reference-languages/table-2-cefr-3.3-common-reference-levels-self-assessment-grid> |
 

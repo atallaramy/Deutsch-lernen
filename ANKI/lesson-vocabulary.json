@@ -1,6 +1,6 @@
 {
  "schemaVersion": 3,
- "revision": "2026-09-27T18:00:00Z",
+ "revision": "2026-09-30T18:00:00Z",
  "policy": "Faithful capture of what the learner studied: official lesson glossaries, useful words and phrases from the official scripts and exercises, and items from the learner's notes. Official spelling is canonical; the learner's spelling is kept as learnerForm. Nothing captured is removed. pendingEntries wait for the learner's yes/no and are never built; declinedEntries record a learner's no.",
  "courses": [
   {
@@ -6723,6 +6723,798 @@
        "decision": "not now (2026-09-28): \"not important right now\""
       }
      ]
+    },
+    {
+     "id": "dw-a1-e2-l4",
+     "legacyId": null,
+     "level": "A1",
+     "title": "Auf dem Amt",
+     "unit": 2,
+     "lesson": 4,
+     "url": "https://learngerman.dw.com/en/auf-dem-amt/l-37269629",
+     "notesFile": "DW Deutsch lernen/A1/03_contact_details/04_Lesson_04/Auf dem Amt.md",
+     "lessonDeck": {
+      "file": "DW Deutsch lernen/A1/03_contact_details/04_Lesson_04/DW A1 E2L4 Auf dem Amt - Vocabulary.apkg",
+      "deck": "Lessons::DW A1::E2 L4 Auf dem Amt"
+     },
+     "snapshot": "DW Deutsch lernen/A1/03_contact_details/04_Lesson_04/Materials/source-snapshot.json",
+     "sources": [
+      {
+       "id": "script",
+       "kind": "dw-script-pdf",
+       "url": "https://learngerman.dw.com/downloads/52719359/nicos-weg-a1-e2-l4-manuskript-und-wortschatz-englisch.pdf",
+       "localFile": "DW Deutsch lernen/A1/03_contact_details/04_Lesson_04/Materials/Script and vocabulary (English).pdf"
+      },
+      {
+       "id": "exercises",
+       "kind": "dw-exercises",
+       "url": "https://learngerman.dw.com/en/auf-dem-amt/l-37269629"
+      }
+     ],
+     "entries": [
+      {
+       "id": "achthundert",
+       "german": "achthundert",
+       "english": "eight hundred",
+       "pos": "number",
+       "lemma": "achthundert",
+       "sense": "800",
+       "origin": [
+        "dw-glossary"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "achthundertachtundsiebzig",
+       "german": "achthundertachtundsiebzig",
+       "english": "eight hundred and seventy eight",
+       "pos": "number",
+       "lemma": "achthundertachtundsiebzig",
+       "sense": "878",
+       "origin": [
+        "dw-glossary"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-amt",
+       "german": "das Amt",
+       "plural": "die Ämter",
+       "english": "authority; government office",
+       "pos": "noun",
+       "lemma": "Amt",
+       "sense": "government-office",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "learnerForm": "das Amt, die Ämte",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-dialog",
+       "german": "der Dialog",
+       "plural": "die Dialoge",
+       "english": "dialogue; conversation",
+       "pos": "noun",
+       "lemma": "Dialog",
+       "sense": "dialogue",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "dreihundert",
+       "german": "dreihundert",
+       "english": "three hundred",
+       "pos": "number",
+       "lemma": "dreihundert",
+       "sense": "300",
+       "origin": [
+        "dw-glossary"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "dreihundertdreiundzwanzig",
+       "german": "dreihundertdreiundzwanzig",
+       "english": "three hundred and twenty three",
+       "pos": "number",
+       "lemma": "dreihundertdreiundzwanzig",
+       "sense": "323",
+       "origin": [
+        "dw-glossary"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "einhundert",
+       "german": "einhundert",
+       "english": "one hundred",
+       "pos": "number",
+       "lemma": "einhundert",
+       "sense": "100",
+       "origin": [
+        "dw-glossary"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "einhunderteins",
+       "german": "einhunderteins",
+       "english": "one hundred and one",
+       "pos": "number",
+       "lemma": "einhunderteins",
+       "sense": "101",
+       "origin": [
+        "dw-glossary"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "eintausend",
+       "german": "eintausend",
+       "english": "one thousand",
+       "pos": "number",
+       "lemma": "eintausend",
+       "sense": "1000",
+       "origin": [
+        "dw-glossary"
+       ],
+       "home": "vocabulary",
+       "note": "Kurzform: tausend",
+       "glossEvidence": "Kurzform from the DW grammar pages gr-38309923 ((ein)tausend) and gr-38309547 (Germans often simply say hundert or tausend)"
+      },
+      {
+       "id": "fuenfhundert",
+       "german": "fünfhundert",
+       "english": "five hundred",
+       "pos": "number",
+       "lemma": "fünfhundert",
+       "sense": "500",
+       "origin": [
+        "dw-glossary"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "fuenfhundertfuenfundvierzig",
+       "german": "fünfhundertfünfundvierzig",
+       "english": "five hundred and forty five",
+       "pos": "number",
+       "lemma": "fünfhundertfünfundvierzig",
+       "sense": "545",
+       "origin": [
+        "dw-glossary"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-heimatland",
+       "german": "das Heimatland",
+       "plural": "die Heimatländer",
+       "english": "homeland",
+       "pos": "noun",
+       "lemma": "Heimatland",
+       "sense": "homeland",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "ich-weiss-es-nicht",
+       "german": "Ich weiß es nicht.",
+       "english": "I don't know.",
+       "pos": "expression",
+       "lemma": "Ich weiß es nicht.",
+       "sense": "i-dont-know",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "etwas-kosten",
+       "german": "etwas kosten",
+       "english": "to cost (it costs 5 euro)",
+       "pos": "verb",
+       "lemma": "kosten",
+       "sense": "to-cost",
+       "forms": "kostet, kostete, hat gekostet",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "learnerForm": "etwas kosten: kostet, lostete, hat gekostet.",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-nachname",
+       "german": "der Nachname",
+       "plural": "die Nachnamen",
+       "english": "last name; family name",
+       "pos": "noun",
+       "lemma": "Nachname",
+       "sense": "surname",
+       "origin": [
+        "dw-glossary"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "neunhundert",
+       "german": "neunhundert",
+       "english": "nine hundred",
+       "pos": "number",
+       "lemma": "neunhundert",
+       "sense": "900",
+       "origin": [
+        "dw-glossary"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "neunhundertneunundachtzig",
+       "german": "neunhundertneunundachtzig",
+       "english": "nine hundred and eighty nine",
+       "pos": "number",
+       "lemma": "neunhundertneunundachtzig",
+       "sense": "989",
+       "origin": [
+        "dw-glossary"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-onkel",
+       "german": "der Onkel",
+       "plural": "die Onkel",
+       "english": "uncle",
+       "pos": "noun",
+       "lemma": "Onkel",
+       "sense": "uncle",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-passnummer",
+       "german": "die Passnummer",
+       "plural": "die Passnummern",
+       "english": "passport number",
+       "pos": "noun",
+       "lemma": "Passnummer",
+       "sense": "passport-number",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "note": "Kurzform von: Reisepassnummer",
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-postleitzahl",
+       "german": "die Postleitzahl",
+       "plural": "die Postleitzahlen",
+       "english": "zip code; postal code",
+       "pos": "noun",
+       "lemma": "Postleitzahl",
+       "sense": "post-code",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-reisepassnummer",
+       "german": "die Reisepassnummer",
+       "plural": "die Reisepassnummern",
+       "english": "passport number",
+       "pos": "noun",
+       "lemma": "Reisepassnummer",
+       "sense": "passport-number",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "note": "Kurzform: die Passnummer, die Passnummern",
+       "home": "vocabulary"
+      },
+      {
+       "id": "sechshundert",
+       "german": "sechshundert",
+       "english": "six hundred",
+       "pos": "number",
+       "lemma": "sechshundert",
+       "sense": "600",
+       "origin": [
+        "dw-glossary"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "sechshundertsechsundfuenfzig",
+       "german": "sechshundertsechsundfünfzig",
+       "english": "six hundred and fifty six",
+       "pos": "number",
+       "lemma": "sechshundertsechsundfünfzig",
+       "sense": "656",
+       "origin": [
+        "dw-glossary"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "siebenhundert",
+       "german": "siebenhundert",
+       "english": "seven hundred",
+       "pos": "number",
+       "lemma": "siebenhundert",
+       "sense": "700",
+       "origin": [
+        "dw-glossary"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "siebenhundertsiebenundsechzig",
+       "german": "siebenhundertsiebenundsechzig",
+       "english": "seven hundred and sixty seven",
+       "pos": "number",
+       "lemma": "siebenhundertsiebenundsechzig",
+       "sense": "767",
+       "origin": [
+        "dw-glossary"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-tochter",
+       "german": "die Tochter",
+       "plural": "die Töchter",
+       "english": "daughter",
+       "pos": "noun",
+       "lemma": "Tochter",
+       "sense": "daughter",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "vierhundert",
+       "german": "vierhundert",
+       "english": "four hundred",
+       "pos": "number",
+       "lemma": "vierhundert",
+       "sense": "400",
+       "origin": [
+        "dw-glossary"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "vierhundertvierunddreissig",
+       "german": "vierhundertvierunddreißig",
+       "english": "four hundred and thirty four",
+       "pos": "number",
+       "lemma": "vierhundertvierunddreißig",
+       "sense": "434",
+       "origin": [
+        "dw-glossary"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "warum",
+       "german": "warum",
+       "english": "why",
+       "pos": "word",
+       "lemma": "warum",
+       "sense": "why",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "welche-nummer-haben-sie",
+       "german": "Welche Nummer haben Sie?",
+       "english": "What is your number? (formal)",
+       "pos": "expression",
+       "lemma": "Welche Nummer haben Sie?",
+       "sense": "what-is-your-number",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "home": "sentences"
+      },
+      {
+       "id": "welche-nummer-hast-du",
+       "german": "Welche Nummer hast du?",
+       "english": "What is your number? (informal)",
+       "pos": "expression",
+       "lemma": "Welche Nummer hast du?",
+       "sense": "what-is-your-number",
+       "origin": [
+        "dw-glossary"
+       ],
+       "home": "sentences"
+      },
+      {
+       "id": "wie-ist-deine-adresse",
+       "german": "Wie ist deine Adresse?",
+       "english": "What is your address? (informal)",
+       "pos": "expression",
+       "lemma": "Wie ist deine Adresse?",
+       "sense": "what-is-your-address",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "home": "sentences"
+      },
+      {
+       "id": "wie-ist-ihre-adresse",
+       "german": "Wie ist Ihre Adresse?",
+       "english": "What is your address? (formal)",
+       "pos": "expression",
+       "lemma": "Wie ist Ihre Adresse?",
+       "sense": "what-is-your-address",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "home": "sentences"
+      },
+      {
+       "id": "der-wohnort",
+       "german": "der Wohnort",
+       "plural": "die Wohnorte",
+       "english": "place; town; city of residence",
+       "pos": "noun",
+       "lemma": "Wohnort",
+       "sense": "place-of-residence",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "learnerForm": "der Wohntort, die Wohntorte",
+       "home": "vocabulary"
+      },
+      {
+       "id": "zweihundert",
+       "german": "zweihundert",
+       "english": "two hundred",
+       "pos": "number",
+       "lemma": "zweihundert",
+       "sense": "200",
+       "origin": [
+        "dw-glossary"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "zweihundertzwoelf",
+       "german": "zweihundertzwölf",
+       "english": "two hundred and twelve",
+       "pos": "number",
+       "lemma": "zweihundertzwölf",
+       "sense": "212",
+       "origin": [
+        "dw-glossary"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "freut-mich",
+       "german": "Freut mich.",
+       "english": "Pleased to meet you.",
+       "pos": "expression",
+       "lemma": "Freut mich.",
+       "sense": "pleased-to-meet-you",
+       "origin": [
+        "dw-script"
+       ],
+       "glossLookup": [
+        "freut mich"
+       ],
+       "note": "Also: Freut mich sehr.",
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-geburtsdatum",
+       "german": "das Geburtsdatum",
+       "plural": "die Geburtsdaten",
+       "english": "date of birth",
+       "pos": "noun",
+       "lemma": "Geburtsdatum",
+       "sense": "date-of-birth",
+       "origin": [
+        "dw-script"
+       ],
+       "genderEvidence": "https://de.wiktionary.org/wiki/Geburtsdatum (Genus n, Plural Geburtsdaten)",
+       "home": "vocabulary"
+      },
+      {
+       "id": "wann",
+       "german": "wann",
+       "english": "when",
+       "pos": "word",
+       "lemma": "wann",
+       "sense": "when",
+       "origin": [
+        "dw-script"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "nehmen",
+       "german": "nehmen",
+       "english": "to take",
+       "pos": "verb",
+       "lemma": "nehmen",
+       "sense": "to-take",
+       "forms": "nimmt, nahm, hat genommen",
+       "origin": [
+        "dw-script"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-euro",
+       "german": "der Euro",
+       "plural": "die Euros",
+       "english": "euro",
+       "pos": "noun",
+       "lemma": "Euro",
+       "sense": "euro",
+       "origin": [
+        "dw-exercises"
+       ],
+       "note": "After a number: fünfundsiebzig Euro",
+       "genderEvidence": "https://de.wiktionary.org/wiki/Euro (Genus m, Plural Euros; after a number: Euro)",
+       "home": "vocabulary"
+      },
+      {
+       "id": "wie-viel",
+       "german": "wie viel",
+       "english": "how much",
+       "pos": "pronoun",
+       "lemma": "wie viel",
+       "sense": "how-much",
+       "origin": [
+        "dw-exercises"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "plz",
+       "german": "PLZ",
+       "english": "postal code",
+       "pos": "abbreviation",
+       "lemma": "PLZ",
+       "sense": "postal-code",
+       "origin": [
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "note": "PLZ = Postleitzahl",
+       "articles": "exempt:article-not-in-source",
+       "glossLookup": [
+        "PLZ",
+        "Postleitzahl"
+       ],
+       "glossEvidence": "DW exercise e-37272004: “PLZ” is an abbreviation for “Postleitzahl”.",
+       "home": "vocabulary"
+      },
+      {
+       "id": "wie-ist-ihr-geburtsdatum",
+       "german": "Wie ist Ihr Geburtsdatum?",
+       "english": "What is your date of birth? (formal)",
+       "pos": "expression",
+       "lemma": "Wie ist Ihr Geburtsdatum?",
+       "sense": "what-is-your-date-of-birth",
+       "origin": [
+        "dw-script"
+       ],
+       "glossLookup": [
+        "Geburtsdatum"
+       ],
+       "home": "sentences"
+      },
+      {
+       "id": "wann-haben-sie-geburtstag",
+       "german": "Wann haben Sie Geburtstag?",
+       "english": "When is your birthday? (formal)",
+       "pos": "expression",
+       "lemma": "Wann haben Sie Geburtstag?",
+       "sense": "when-is-your-birthday",
+       "origin": [
+        "dw-script"
+       ],
+       "glossLookup": [
+        "wann",
+        "Geburtstag"
+       ],
+       "home": "sentences"
+      },
+      {
+       "id": "wie-ist-ihre-passnummer",
+       "german": "Wie ist Ihre Passnummer?",
+       "english": "What is your passport number? (formal)",
+       "pos": "expression",
+       "lemma": "Wie ist Ihre Passnummer?",
+       "sense": "what-is-your-passport-number",
+       "origin": [
+        "dw-grammar-page"
+       ],
+       "glossLookup": [
+        "Passnummer"
+       ],
+       "home": "sentences"
+      },
+      {
+       "id": "wie-kann-ich-ihnen-helfen",
+       "german": "Wie kann ich Ihnen helfen?",
+       "english": "How can I help you? (formal)",
+       "pos": "expression",
+       "lemma": "Wie kann ich Ihnen helfen?",
+       "sense": "how-can-i-help-you",
+       "origin": [
+        "dw-script"
+       ],
+       "glossLookup": [
+        "helfen"
+       ],
+       "home": "sentences"
+      },
+      {
+       "id": "wie-viel-kostet",
+       "german": "Wie viel kostet …?",
+       "english": "How much is …?; How much does … cost?",
+       "pos": "expression",
+       "lemma": "Wie viel kostet …?",
+       "sense": "how-much-does-it-cost",
+       "origin": [
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "glossLookup": [
+        "wie viel",
+        "kosten"
+       ],
+       "home": "sentences"
+      },
+      {
+       "id": "das-fahrrad-kostet-834-euro",
+       "german": "Das Fahrrad kostet achthundertvierunddreißig Euro.",
+       "english": "The bike costs 834 euros.",
+       "pos": "expression",
+       "lemma": "Das Fahrrad kostet achthundertvierunddreißig Euro.",
+       "sense": "the-bike-costs-834-euros",
+       "origin": [
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "learnerForm": "Das Fahrrad kostet achthunertvierunddreißig Euro.",
+       "home": "sentences",
+       "glossLookup": [
+        "Fahrrad",
+        "kosten",
+        "Euro"
+       ]
+      },
+      {
+       "id": "ich-habe-die-nummer",
+       "german": "Ich habe die Nummer eins fünf drei zwei.",
+       "english": "I have number 1532.",
+       "pos": "expression",
+       "lemma": "Ich habe die Nummer eins fünf drei zwei.",
+       "sense": "i-have-number-1532",
+       "origin": [
+        "dw-exercises"
+       ],
+       "note": "Or as one number: Ich habe die Nummer eintausendfünfhundertzweiunddreißig. (DW grammar page)",
+       "home": "sentences",
+       "glossLookup": [
+        "Nummer"
+       ]
+      },
+      {
+       "id": "hoffentlich",
+       "german": "hoffentlich",
+       "english": "hopefully",
+       "pos": "word",
+       "lemma": "hoffentlich",
+       "sense": "hopefully",
+       "origin": [
+        "dw-exercises"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "informiert",
+       "german": "informiert",
+       "english": "informed",
+       "pos": "word",
+       "lemma": "informiert",
+       "sense": "informed",
+       "origin": [
+        "dw-script"
+       ],
+       "level": "beyond-A1",
+       "glossLookup": [
+        "informieren"
+       ],
+       "note": "From informieren (to inform)",
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-suche",
+       "german": "die Suche",
+       "plural": "die Suchen",
+       "english": "search",
+       "pos": "noun",
+       "lemma": "Suche",
+       "sense": "search",
+       "origin": [
+        "dw-exercises"
+       ],
+       "level": "beyond-A1",
+       "genderEvidence": "https://de.wiktionary.org/wiki/Suche (Genus f, Plural Suchen)",
+       "home": "vocabulary"
+      },
+      {
+       "id": "setzen-sie-sich-doch-bitte",
+       "german": "Setzen Sie sich doch bitte.",
+       "english": "Please sit down. (formal)",
+       "pos": "expression",
+       "lemma": "Setzen Sie sich doch bitte.",
+       "sense": "please-have-a-seat",
+       "origin": [
+        "dw-script"
+       ],
+       "level": "beyond-A1",
+       "glossLookup": [
+        "setzen"
+       ],
+       "home": "sentences"
+      },
+      {
+       "id": "rausfinden",
+       "german": "rausfinden",
+       "english": "to find out",
+       "pos": "verb",
+       "lemma": "rausfinden",
+       "sense": "to-find-out",
+       "forms": "findet raus, fand raus, hat rausgefunden",
+       "origin": [
+        "dw-script"
+       ],
+       "level": "beyond-A1",
+       "note": "Spoken; standard form: herausfinden",
+       "home": "vocabulary",
+       "glossLookup": [
+        "rausfinden",
+        "herausfinden"
+       ]
+      }
+     ],
+     "pendingEntries": [],
+     "declinedEntries": []
     }
    ]
   },

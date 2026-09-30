@@ -1,8 +1,8 @@
 {
   "deck": "German A1 — Sentences",
-  "revision": "2026-09-27T18:00:00Z",
+  "revision": "2026-09-30T18:00:00Z",
   "qualityPolicy": "Productive sentences, replies, register switches and contextual forms from the lessons. No audio.",
-  "cards": 81,
+  "cards": 93,
   "sources": [
     {
       "id": "dw-a1-e0-l1",
@@ -148,6 +148,19 @@
       }
     },
     {
+      "id": "dw-a1-e2-l4",
+      "course": "dw-nicos-weg",
+      "title": "Auf dem Amt",
+      "url": "https://learngerman.dw.com/en/auf-dem-amt/l-37269629",
+      "notesFile": "DW Deutsch lernen/A1/03_contact_details/04_Lesson_04/Auf dem Amt.md",
+      "capturedEntries": 55,
+      "cards": {
+        "vocabulary": 43,
+        "articles": 13,
+        "sentences": 12
+      }
+    },
+    {
       "id": "vhs-a1-l02",
       "course": "vhs-lernportal",
       "title": "Lektion 2 · Meine Familie und ich",
@@ -176,9 +189,9 @@
   ],
   "packages": {
     "ANKI/sentences.apkg": {
-      "notes": 81,
-      "cards": 81,
-      "sha256": "f58fb651a13158c2cdd2b47c85d41477b31570992145afdcd895c503ab779a14"
+      "notes": 93,
+      "cards": 93,
+      "sha256": "fed21d69df8e89f1ba812ab739f1ff61fdd68299c59ec95f2189640faff36613"
     }
   }
 }

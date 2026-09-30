@@ -16,7 +16,7 @@ official DW/VHS pages · the Sentences cards that practise it · my rule in my o
 
 | Topic | Page | From |
 |---|---|---|
-| du or Sie: informal and formal | [du-und-Sie](A1/du-und-Sie.md) | DW E0 L1–E2 L3 · VHS L2 |
+| du or Sie: informal and formal | [du-und-Sie](A1/du-und-Sie.md) | DW E0 L1–E2 L4 · VHS L2 |
 | Greetings and goodbyes: who says what, when | [Begruessungen](A1/Begruessungen.md) | DW E0 L1, E0 L3, E2 L3 · Easy German SEG 274 |
 | Personal pronouns | [Personalpronomen](A1/Personalpronomen.md) | DW E1 L1, E1 L4 · VHS L2 |
 | Present tense of regular verbs | [Praesens](A1/Praesens.md) | DW E1 L3, E1 L4, E2 L2 · VHS L2 |
@@ -26,7 +26,7 @@ official DW/VHS pages · the Sentences cards that practise it · my rule in my o
 | W-questions: wer, wie, wo, woher, was, warum | [W-Fragen](A1/W-Fragen.md) | DW E1 L3, E2 L1–L3 · VHS L2 |
 | Yes/no questions and W-questions | [Ja-Nein-Fragen](A1/Ja-Nein-Fragen.md) | VHS L2 · DW E1 |
 | mein, dein, Ihr | [Possessivartikel](A1/Possessivartikel.md) | VHS L2 · DW E0 L4, E1 L3, E2 L2 |
-| Numbers 0–100 | [Zahlen](A1/Zahlen.md) | VHS L2 · DW E2 L1, E2 L2 |
+| Numbers 0–1000 and over | [Zahlen](A1/Zahlen.md) | VHS L2 · DW E2 L1, E2 L2, E2 L4 |
 | wohnen in, kommen aus: towns, streets, countries | [wohnen-in](A1/wohnen-in.md) | DW E1 L3, E2 L3 · VHS L2 |
 
 ## A1: coming
@@ -39,7 +39,6 @@ Built when I have studied the lesson. Topics from
   [Nico hat ein Problem](<../DW Deutsch lernen/A1/02_meeting_people/04_Lesson_04/Nico hat Problem.md>);
   its articles match Wiktionary.
 - **DW Nicos Weg A1** ([index](../docs/course-index/dw-nicos-weg-a1.md)):
-  - E2: numbers over 100 (L4)
   - E3: noun gender (L2) · vowel change e → i (L3)
   - E4: simple past of *sein* (L1) · questions and statements (L2) · *man* (L3) · *sprechen* (L4)
   - E5: definite and indefinite articles (L1, L2) · sentence construction: subject (L3) · adjectives after *sein* (L4)

@@ -173,7 +173,10 @@ studied it. Follow `docs/processing-a-lesson.md`:
    what is still wrong as *wrong → correct*. Start step 1 only after the
    learner's second fix. An instruction from the learner in the session replaces
    this routine for that session (e.g. "correct the spelling and finalize":
-   save the mistakes, correct the notes, continue).
+   save the mistakes, correct the notes, continue). Accents in non-German
+   names (*Nicolás González*) are not the learner's work: Claude corrects
+   them in the notes and notes this in `mistakes.md` (learner decision
+   2026-09-30).
 1. Read the lesson Markdown and the lesson's official materials.
 2. Snapshot the official sources (`python3 ANKI/harvest_sources.py --lesson <id>`).
    For DW this includes the vocabulary, grammar and culture pages, and writes

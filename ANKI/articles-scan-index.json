@@ -1,8 +1,8 @@
 {
   "deck": "German A1 — Articles",
-  "revision": "2026-09-27T18:00:00Z",
+  "revision": "2026-09-30T18:00:00Z",
   "qualityPolicy": "Typed der/die/das for singular nouns. Plural and dependable gender patterns after answering. No audio.",
-  "cards": 162,
+  "cards": 170,
   "sources": [
     {
       "id": "dw-a1-e0-l1",
@@ -148,6 +148,19 @@
       }
     },
     {
+      "id": "dw-a1-e2-l4",
+      "course": "dw-nicos-weg",
+      "title": "Auf dem Amt",
+      "url": "https://learngerman.dw.com/en/auf-dem-amt/l-37269629",
+      "notesFile": "DW Deutsch lernen/A1/03_contact_details/04_Lesson_04/Auf dem Amt.md",
+      "capturedEntries": 55,
+      "cards": {
+        "vocabulary": 43,
+        "articles": 13,
+        "sentences": 12
+      }
+    },
+    {
       "id": "vhs-a1-l02",
       "course": "vhs-lernportal",
       "title": "Lektion 2 · Meine Familie und ich",
@@ -176,9 +189,9 @@
   ],
   "packages": {
     "ANKI/articles.apkg": {
-      "notes": 162,
-      "cards": 162,
-      "sha256": "7e7a3a04464a9f443b2bf5178de13a11861658e63b770cc8373b67612f4e0ae0"
+      "notes": 170,
+      "cards": 170,
+      "sha256": "f1edd1e6f716daa478288bbe0aec6b08613683971677404aa0a862f26395e279"
     }
   }
 }
