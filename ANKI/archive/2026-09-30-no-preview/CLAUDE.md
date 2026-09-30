@@ -53,8 +53,9 @@ adds Claude-specific working rules only.
 - Start every finished lesson with the mistake rounds, unless the learner says
   otherwise in that session; their instruction in the session wins.
 - Commands:
-  - `python3 ANKI/build_all.py check` — validate, verify sources (`--lesson ID`: list that lesson's cards)
-  - `python3 ANKI/build_all.py package` — build packages (refuses while the check has errors)
+  - `python3 ANKI/build_all.py check` — validate, verify sources, write `ANKI/review/preview.html`
+  - `python3 ANKI/build_all.py approve --all|--lesson ID|--deck NAME` — the learner's approval
+  - `python3 ANKI/build_all.py package` — build packages (refuses without approval)
   - `python3 -m unittest discover -s ANKI/tests`
   - `python3 ANKI/harvest_sources.py --lesson ID` — network: snapshot official sources and write `Materials/lesson-pages.md`
   - `python3 ANKI/harvest_sources.py --pages` — offline: rewrite the DW `lesson-pages.md` copies from their snapshots
@@ -62,19 +63,19 @@ adds Claude-specific working rules only.
   - `python3 docs/tools/build_course_index.py` — network: rebuild the lesson index
   - `python3 docs/tools/check_grammar_book.py` — check the grammar book (`fetch`: network, Wiktionary verb tables)
   - `python3 docs/tools/build_grammar_pdf.py` — rebuild `Grammatik/Grammatik.pdf` after the check (`--check`: is it current?)
-- No preview or approval step (learner decision 2026-09-30). Read the new
-  cards yourself with `check --lesson ID`, then package. Never ask the learner
-  to review cards.
+- Run `approve` only for the cards the learner explicitly approves in the
+  current conversation; otherwise point them to the preview and stop.
 - Never weaken or skip a check to make a build pass: fix the data, or ask.
 - Report test and check results as they actually came out.
 
 ## Git
 
 - The workspace is a git repository on `main` (created 2026-09-25). Commit when
-  a lesson is done, without asking; other commits when the learner asks. Never push unless asked.
+  the learner asks; they plan to ask after every new lesson. Never push unless asked.
 - The global rule applies: no "Generated with Claude Code" or "Co-Authored-By"
   lines in commits.
-- Never commit secrets; `.env` is ignored.
+- Never commit secrets; `.env` is ignored. `ANKI/review/preview.html` is
+  regenerated and ignored; `ANKI/review/approvals.json` is tracked.
 
 ## Files and safety
 

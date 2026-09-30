@@ -53,10 +53,8 @@ in this spirit.
   notes for; or a word or fixed phrase worth learning at the lesson's level
   from that lesson's official script, exercises, grammar pages or culture pages
   (learner decisions 2026-09-27). Their sentences stay context candidates.
-  Words above A1 from those official sources are captured without asking and
-  tagged `beyond-A1` (learner decision 2026-09-30). Other borderline items go
-  to `pendingEntries` until the learner says yes or no; pending items are never
-  built.
+  Borderline items go to `pendingEntries` until the learner says yes or no;
+  pending items are never built.
 - Nothing new on a studied lesson's vocabulary page or grammar pages is left
   out (learner decision 2026-09-27). Every item on a DW vocabulary page is
   recorded in that lesson: as an entry, pending or declined, with
@@ -195,15 +193,16 @@ studied it. Follow `docs/processing-a-lesson.md`:
    `python3 docs/tools/build_grammar_pdf.py`.
 8. Run `python3 -m unittest discover -s ANKI/tests`. Report checks as passed
    only when the actual results support it.
-9. Commit to git when the lesson is done, without asking (learner decision
-   2026-09-30). Never push without being asked.
+9. Commit to git when the learner asks (they ask after every new lesson).
+   Never push without being asked.
 
 ## Card-quality gate
 
 Before adding a card, confirm all of the following:
 
 1. The target is a captured, source-backed entry and appropriate to the
-   learner's level (items beyond the level are kept and tagged `beyond-A1`).
+   learner's level (items beyond the level stay if the learner captured them
+   and are tagged).
 2. The prompt makes one answer reasonably clear; add a register, grammatical
    or situational cue when English alone is ambiguous.
 3. The card tests active recall rather than recognition or guessing, and

@@ -1,7 +1,7 @@
 # Importing the decks into Anki
 
 Only import packages built by `python3 ANKI/build_all.py package`, which runs
-after every check passes.
+after you have approved the preview.
 
 ## First import of the v3 decks (one time)
 

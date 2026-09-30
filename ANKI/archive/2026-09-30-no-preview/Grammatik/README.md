@@ -80,7 +80,7 @@ See [docs/learning-roadmap.md](../docs/learning-roadmap.md) and the A2/B1 files 
 
 ## How the book is kept correct
 
-- Updated after every lesson I study (step 7 in
+- Updated after every lesson I study (step 8 in
   [processing-a-lesson.md](../docs/processing-a-lesson.md)).
 - `python3 docs/tools/check_grammar_book.py` checks every page. Examples must be
   word for word in a studied lesson's `Materials/source-snapshot.json`. My quoted

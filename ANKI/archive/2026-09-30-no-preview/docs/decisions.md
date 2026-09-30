@@ -10,8 +10,6 @@ Confirmed decisions, newest first. The binding rules they produce live in
 | Non-German names | The learner: "you should fix any mistakes in Nicolas Gonzales, I am not here to fix Spanish names." Claude corrects accents in non-German names in the notes and records it in `mistakes.md`; they are not listed for the learner to fix. Recorded in `AGENTS.md` and `processing-a-lesson.md`. |
 | Mistake rounds | Two rounds and two final checks, saved in the lesson's `Materials/mistakes.md`; all fixed before capture. The learner asked for a check again before going ahead. |
 | Beyond A1 | Asked yes/no for five script and exercise words not on the Goethe A1 list; the learner: "Yes, all 5". *hoffentlich, informiert, die Suche, Setzen Sie sich doch bitte., rausfinden* added, tagged. |
-| No preview | The learner: "remove the preview completely". The card preview (`ANKI/review/preview.html`), `approve` and `approvals.json` are gone; `package` needs only a clean check. Claude reads the new cards itself (`check --lesson ID`) and fixes any card the learner reports. This replaces the v3 *Shipping* rule (the learner's preview) and the 2026-09-28 request that was never recorded. `processing-a-lesson.md` steps renumbered (grammar book is now §7). Backups in `ANKI/archive/2026-09-30-no-preview/`. |
-| Standing rules | The learner: no yes/no question about words above A1 — add them, tagged "Beyond A1". Claude commits when a lesson is done, without asking. Lesson decks and every DW vocabulary-page item stay ("the most valuable"). Recorded in `AGENTS.md`, `CLAUDE.md`, `processing-a-lesson.md`. |
 | Merges | *einhundert, warum, der Nachname, der Onkel, die Tochter, die Postleitzahl, der Wohnort* join their existing cards. *Passnummer* and *Reisepassnummer* stay two cards (short form / full form), like *hundert* / *einhundert*. *PLZ* is its own abbreviation card. |
 
 ## 2026-09-28 — DW A1 E2 L3 Adressen
@@ -135,7 +133,7 @@ reviewed and approved with these choices.
 | — | Contexts | Preferred but never forced; a bare precise prompt when no good verified context exists. |
 | — | Merging | Merge only identical lemma + sense across courses; keep distinct meanings separate. |
 | — | Files | Do not move, rename or delete existing folders, Markdown, legacy packages or PDFs; new verified materials may be added inside `Materials/`. |
-| — | Shipping | No pending, authored or merely assumed context may ship; source verification and the learner's preview must pass first. Preview dropped 2026-09-30 (see *No preview*). |
+| — | Shipping | No pending, authored or merely assumed context may ship; source verification and the learner's preview must pass first. |
 | — | Pronunciation deck | Left untouched; no audio/TTS in these decks. |
 | — | Growth | Plan for A1, A2 and B1. Build gradually: a lesson is processed when the learner says it has been studied. |
 | — | Reference | Keep every useful link in `docs/`, so the learner can ask about any lesson. |
@@ -155,7 +153,7 @@ reviewed and approved with these choices.
 
 Interpretations recorded for your review:
 - "Context" means German context sentences. English cues and scenes are
-  prompts written to match the source (read by Claude; no preview since 2026-09-30).
+  prompts written to match the source and are reviewed in the preview.
 - An Articles card keys on lemma + gender, because gender belongs to the noun
   form. *der Mann* has one Articles card, and separate Vocabulary cards for
   "man" and "husband".

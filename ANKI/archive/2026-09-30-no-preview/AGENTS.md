@@ -16,7 +16,7 @@ in this spirit.
 ## Folder structure
 
 - `ANKI/` contains the cumulative decks, their builders, data files, scan
-  indexes, coverage ledger and archive. These are kept long term and grow as
+  indexes, review preview and archive. These are kept long term and grow as
   lessons are processed.
 - Each course keeps its own lesson folders: `DW Deutsch lernen/<level>/…`,
   `VHS-Lernportal/<level>/…`, `EasyGerman/…`. A lesson folder holds the
@@ -53,10 +53,8 @@ in this spirit.
   notes for; or a word or fixed phrase worth learning at the lesson's level
   from that lesson's official script, exercises, grammar pages or culture pages
   (learner decisions 2026-09-27). Their sentences stay context candidates.
-  Words above A1 from those official sources are captured without asking and
-  tagged `beyond-A1` (learner decision 2026-09-30). Other borderline items go
-  to `pendingEntries` until the learner says yes or no; pending items are never
-  built.
+  Borderline items go to `pendingEntries` until the learner says yes or no;
+  pending items are never built.
 - Nothing new on a studied lesson's vocabulary page or grammar pages is left
   out (learner decision 2026-09-27). Every item on a DW vocabulary page is
   recorded in that lesson: as an entry, pending or declined, with
@@ -152,16 +150,16 @@ in this spirit.
   the data so it is tagged `retired::…` and can be suspended, never silently
   dropped.
 
-## Shipping gate
+## Approval gate
 
 - No context may ship unless it is verbatim (or an exact contiguous excerpt)
-  from a local source snapshot. English cues and scenes are prompts, not
-  contexts.
+  from a local source snapshot and has passed the learner's preview. English
+  cues and scenes are prompts, not contexts, and are reviewed in the preview.
 - Packages are built only after `python3 ANKI/build_all.py check` reports no
-  errors. There is no preview and no approval step: the learner does not
-  review cards (learner decision 2026-09-30). Claude reads the lesson's new
-  cards itself (`check --lesson <id>`) before packaging, and fixes any card
-  the learner reports while studying.
+  errors and every card is approved. Approval is the learner's act
+  (`python3 ANKI/build_all.py approve …`); an agent may run it only when the
+  learner explicitly says in the current conversation which cards they
+  approve.
 
 ## When processing a lesson
 
@@ -186,24 +184,24 @@ studied it. Follow `docs/processing-a-lesson.md`:
 3. Capture the entries in `ANKI/lesson-vocabulary.json` with provenance,
    including everything new on the vocabulary page and the grammar pages.
 4. Curate contexts, cues and sentence cards; only verbatim source contexts.
-5. Run `python3 ANKI/build_all.py check`; fix every error; read the new cards
-   (`check --lesson <id>`).
-6. Run `python3 ANKI/build_all.py package`.
-7. Update the grammar book (`docs/processing-a-lesson.md` §7): cover and link
+5. Run `python3 ANKI/build_all.py check`; fix every error; open the preview.
+6. After the learner approves, run `python3 ANKI/build_all.py package`.
+7. Update the grammar book (`docs/processing-a-lesson.md` §8): cover and link
    every DW grammar page of the lesson. Run
    `python3 docs/tools/check_grammar_book.py`, then rebuild the PDF with
    `python3 docs/tools/build_grammar_pdf.py`.
 8. Run `python3 -m unittest discover -s ANKI/tests`. Report checks as passed
    only when the actual results support it.
-9. Commit to git when the lesson is done, without asking (learner decision
-   2026-09-30). Never push without being asked.
+9. Commit to git when the learner asks (they ask after every new lesson).
+   Never push without being asked.
 
 ## Card-quality gate
 
 Before adding a card, confirm all of the following:
 
 1. The target is a captured, source-backed entry and appropriate to the
-   learner's level (items beyond the level are kept and tagged `beyond-A1`).
+   learner's level (items beyond the level stay if the learner captured them
+   and are tagged).
 2. The prompt makes one answer reasonably clear; add a register, grammatical
    or situational cue when English alone is ambiguous.
 3. The card tests active recall rather than recognition or guessing, and
@@ -242,7 +240,7 @@ Articles have no quotas: every captured entry is covered.
   requires every DW grammar page of a studied lesson to be linked from a
   topic page.
 - No audio. The grammar book never changes the decks. If a grammar check finds
-  a card error, fix the card through check → package.
+  a card error, fix the card through check → approve → package.
 - `Grammatik/Grammatik.pdf` is the whole book in one printable, clickable file
   (learner decision 2026-09-26). The Markdown pages stay the source; page order
   follows the index. `python3 docs/tools/build_grammar_pdf.py` rebuilds it (only

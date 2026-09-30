@@ -16,6 +16,7 @@ LESSONS_FILE = ANKI / "lesson-vocabulary.json"
 VOCABULARY_CARDS_FILE = ANKI / "vocabulary-cards.json"
 ARTICLES_CARDS_FILE = ANKI / "articles-cards.json"
 SENTENCES_FILE = ANKI / "sentence-sources.json"
+APPROVALS_FILE = ANKI / "review" / "approvals.json"
 LEGACY_V2_FILE = ANKI / "archive" / "2026-09-25-pre-v3" / "ANKI" / "lesson-vocabulary.json"
 GLOSS_SNAPSHOT_FILE = ANKI / "gloss-snapshot.json"
 

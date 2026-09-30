@@ -1,0 +1,26 @@
+{
+  "createdAt": "2026-09-30",
+  "reason": "Backup before recording two standing rules: above-A1 words without asking, commit after each lesson.",
+  "files": [
+    {
+      "original": "AGENTS.md",
+      "backup": "ANKI/archive/2026-09-30-standing-rules/AGENTS.md",
+      "sha256": "7486724f6458633d385103f3d3bf5ecd31e029aef365c1b44530f3568aadbbc4"
+    },
+    {
+      "original": "CLAUDE.md",
+      "backup": "ANKI/archive/2026-09-30-standing-rules/CLAUDE.md",
+      "sha256": "6b9e77e473e7053b2aa280549e758802975d66c6976237a9b3fd3095f058f09c"
+    },
+    {
+      "original": "docs/processing-a-lesson.md",
+      "backup": "ANKI/archive/2026-09-30-standing-rules/docs/processing-a-lesson.md",
+      "sha256": "94eeb74b4a2c4e5ec8c6a20c1854375d975ddae455262153987ff8fab18165e9"
+    },
+    {
+      "original": "docs/decisions.md",
+      "backup": "ANKI/archive/2026-09-30-standing-rules/docs/decisions.md",
+      "sha256": "82ff03a6e60026c4505b7321e368aaa29ab00741fa36fc7facf85fb3c4dc7a74"
+    }
+  ]
+}

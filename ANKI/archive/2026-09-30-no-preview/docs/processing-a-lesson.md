@@ -83,9 +83,8 @@ words, and use the dictionary's wording.
 Which items to capture:
 - **Captured:** items in a vocabulary list in your notes, items you wrote with a meaning, the official lesson glossary and vocabulary page, and the words and fixed phrases worth learning from the lesson's official script, exercises, grammar pages and culture pages (`origin`: `dw-script`, `dw-exercises`, `dw-grammar-page`, `dw-culture-page`, `vhs-film-script`). Their sentences are used as contexts.
 - **Vocabulary page:** every item on it is recorded in this lesson, even when an earlier lesson already has it (the cards merge). The PDF glossary and the page usually list the same items; when the page writes one differently (`Es ist 09:00 Uhr.` for `Es ist neun Uhr.`), set `vocabularyPageForm` on the entry. `build_all.py check` reports every page item that is not recorded yet, so run it once right after capturing.
-- **Grammar pages:** new words, forms and example phrases from them are captured like script items; their rule goes to the grammar book (§7) and, when useful, to Sentences cards.
-- **Above A1** (not on the Goethe A1 word list): captured without asking and tagged `level: beyond-A1` (your decision, 2026-09-30).
-- **Borderline** (anything else unclear): put in `pendingEntries` with a reason and ask you yes or no.
+- **Grammar pages:** new words, forms and example phrases from them are captured like script items; their rule goes to the grammar book (§8) and, when useful, to Sentences cards.
+- **Borderline:** put in `pendingEntries` with a reason and ask you yes or no.
 - **Home deck:** fixed formulas → `home: vocabulary`; patterns and grammatical choices (du/Sie, verb forms, W-questions) → `home: sentences`. Names → Sentences.
 - **Merging:** a new sense of a known word gets its own `sense`. Identical lemma + sense merges automatically.
 
@@ -102,29 +101,39 @@ Which items to capture:
   - German on the front must be verbatim
   - answers must be verbatim in a snapshot or be your own captured sentence
 
-## 5. Check
+## 5. Check and preview
 
 ```sh
-python3 ANKI/build_all.py check --lesson <lesson-id>
+python3 ANKI/build_all.py check
 python3 -m unittest discover -s ANKI/tests
 ```
 
-Fix every error. Claude reads the lesson's cards in the `--lesson` list (flagged
-ones first, merges and senses kept separate) and fixes what is unclear. You do
-not review cards (your decision, 2026-09-30).
+Fix every error. Open `ANKI/review/preview.html`, read the cards flagged with
+notes first, and look at merges and senses kept separate.
 
-## 6. Package and import
+## 6. Approve (your step)
+
+You review the preview, then:
+
+```sh
+python3 ANKI/build_all.py approve --lesson <lesson-id>   # or --all / --deck vocabulary|articles|sentences
+```
+
+Claude runs this only when you explicitly say in the conversation which cards
+you approve.
+
+## 7. Package and import
 
 ```sh
 python3 ANKI/build_all.py package
 ```
 
-This refuses while the check has errors. It builds
+This refuses unless every check passes and every card is approved. It builds
 every package twice to prove the output is identical, validates each one, and
 confirms the pronunciation deck is untouched. It then writes the `.apkg` files
 and scan indexes. Import them into Anki ([anki-import.md](anki-import.md)).
 
-## 7. Update the grammar book
+## 8. Update the grammar book
 
 The rules are in `AGENTS.md` → *Grammar book*; the layout is in
 [`Grammatik/README.md`](../Grammatik/README.md).
@@ -144,18 +153,18 @@ The rules are in `AGENTS.md` → *Grammar book*; the layout is in
 - A new verb in a verb table needs `python3 docs/tools/check_grammar_book.py fetch`
   (network) first.
 - Run `python3 docs/tools/check_grammar_book.py` and fix every error. If a grammar
-  check shows a card is wrong, fix the card through steps 5–6.
+  check shows a card is wrong, fix the card through steps 5–7.
 - Rebuild the PDF: `python3 docs/tools/build_grammar_pdf.py`. It refuses while the
   grammar check has errors, and the tests fail if the PDF lags the pages. A new
   topic page joins the PDF by being listed in the index's *studied* table.
 
-## 8. Commit
+## 9. Commit
 
-Claude commits when the lesson is done, without asking. Commit everything the lesson
+You ask for a commit after every new lesson. Commit everything the lesson
 changed (notes are yours; commit them only as they are). Use one clear message,
 e.g. `Add DW A1 E2 L1 Zahlen von 1 bis 100`, and never push unless you ask.
 
-## 9. Record
+## 10. Record
 
 - New rules or decisions go to `AGENTS.md` and [decisions.md](decisions.md).
 - New useful links go to [links.md](links.md). If a course changes, rerun

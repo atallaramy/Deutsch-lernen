@@ -71,7 +71,7 @@ adds Claude-specific working rules only.
 ## Git
 
 - The workspace is a git repository on `main` (created 2026-09-25). Commit when
-  a lesson is done, without asking; other commits when the learner asks. Never push unless asked.
+  the learner asks; they plan to ask after every new lesson. Never push unless asked.
 - The global rule applies: no "Generated with Claude Code" or "Co-Authored-By"
   lines in commits.
 - Never commit secrets; `.env` is ignored.

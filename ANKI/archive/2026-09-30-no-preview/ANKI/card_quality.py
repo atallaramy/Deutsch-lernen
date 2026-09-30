@@ -88,7 +88,7 @@ def check(data: Data, cards: list[Card]) -> tuple[list[str], dict[str, list[str]
         context = plain(card.fields["Context"].replace(BLANK, " ")).casefold()
         if re.search(rf"(?<![a-zäöüß]){re.escape(stem)}", context):
             errors.append(f"{card.key}: answer or its stem {stem!r} appears in the context")
-        # English cognates (hotel → Hotel) are legitimate but easy, so cue matches are warnings, not errors.
+        # English cognates (hotel → Hotel) are legitimate but easy, so cue matches are warnings for the preview.
         cue = plain(card.fields["Cue"]).casefold()
         if re.search(rf"(?<![a-zäöüß]){re.escape(answer)}(?![a-zäöüß])", cue):
             warnings[card.key].append("cue contains the answer word (cognate or loanword)")

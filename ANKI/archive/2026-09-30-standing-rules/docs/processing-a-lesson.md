@@ -84,8 +84,7 @@ Which items to capture:
 - **Captured:** items in a vocabulary list in your notes, items you wrote with a meaning, the official lesson glossary and vocabulary page, and the words and fixed phrases worth learning from the lesson's official script, exercises, grammar pages and culture pages (`origin`: `dw-script`, `dw-exercises`, `dw-grammar-page`, `dw-culture-page`, `vhs-film-script`). Their sentences are used as contexts.
 - **Vocabulary page:** every item on it is recorded in this lesson, even when an earlier lesson already has it (the cards merge). The PDF glossary and the page usually list the same items; when the page writes one differently (`Es ist 09:00 Uhr.` for `Es ist neun Uhr.`), set `vocabularyPageForm` on the entry. `build_all.py check` reports every page item that is not recorded yet, so run it once right after capturing.
 - **Grammar pages:** new words, forms and example phrases from them are captured like script items; their rule goes to the grammar book (§7) and, when useful, to Sentences cards.
-- **Above A1** (not on the Goethe A1 word list): captured without asking and tagged `level: beyond-A1` (your decision, 2026-09-30).
-- **Borderline** (anything else unclear): put in `pendingEntries` with a reason and ask you yes or no.
+- **Borderline:** put in `pendingEntries` with a reason and ask you yes or no.
 - **Home deck:** fixed formulas → `home: vocabulary`; patterns and grammatical choices (du/Sie, verb forms, W-questions) → `home: sentences`. Names → Sentences.
 - **Merging:** a new sense of a known word gets its own `sense`. Identical lemma + sense merges automatically.
 
@@ -151,7 +150,7 @@ The rules are in `AGENTS.md` → *Grammar book*; the layout is in
 
 ## 8. Commit
 
-Claude commits when the lesson is done, without asking. Commit everything the lesson
+You ask for a commit after every new lesson. Commit everything the lesson
 changed (notes are yours; commit them only as they are). Use one clear message,
 e.g. `Add DW A1 E2 L1 Zahlen von 1 bis 100`, and never push unless you ask.
 

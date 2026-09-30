@@ -62,6 +62,14 @@ class Packaging(unittest.TestCase):
         self.assertIn(card.key, specs["cumulative:vocabulary"])
         self.assertNotIn(card.key, specs.get(f"lesson:{lesson.id}", set()))
 
+    def test_package_refuses_unapproved_cards(self):
+        data = load()
+        cards, _, _ = build_all.collect(data)
+        approved = build_all.load_approvals()["approved"]
+        if all(build_all.card_hash(card) in approved for card in cards):
+            self.skipTest("every card is approved")
+        self.assertEqual(build_all.cmd_package(data), 1)
+
 
 if __name__ == "__main__":
     unittest.main()

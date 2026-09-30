@@ -18,7 +18,7 @@ cards. Evidence: [research.md](research.md).
   snapshot on every build. That includes DW scripts, DW exercise, grammar and
   culture pages, and the VHS word lists and film scripts.
 - **English cues and scenes** are prompts written to match the source and
-  read by Claude before packaging.
+  reviewed in the preview.
 - **With a context**, you type exactly what fills the blank.
 - **A context must earn its place.** Most nouns appear only in glossary lists,
   so their Articles cards show the noun and its gloss.
@@ -41,7 +41,7 @@ cards. Evidence: [research.md](research.md).
 ## Leakage checks (run by `build_all.py check`)
 
 - **Vocabulary:** the answer (or its stem) must not appear anywhere else in
-  the context. A cue that contains the answer is flagged as a warning
+  the context. A cue that contains the answer is flagged for the preview
   (e.g. a cognate like *hotel → Hotel*).
 - **Articles:**
   - the blank must be the gender article directly before the noun

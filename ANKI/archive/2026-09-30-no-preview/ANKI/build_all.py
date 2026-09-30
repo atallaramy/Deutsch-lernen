@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 """Single entry point for the German decks.
 
-  python3 ANKI/build_all.py check [--lesson ID]    validate data and verify sources (--lesson: also list that lesson's cards)
-  python3 ANKI/build_all.py package                build every deck; refuses unless all checks pass
+  python3 ANKI/build_all.py check                  validate data, verify sources, write the review preview
+  python3 ANKI/build_all.py approve --all          the learner approves the previewed cards (or --lesson ID / --deck NAME)
+  python3 ANKI/build_all.py package                build every deck; refuses unless all checks pass and all cards are approved
 
 Builds are deterministic: the same data produces byte-identical packages.
 """
@@ -15,6 +16,7 @@ import json
 import shutil
 import sys
 import tempfile
+import time
 from collections import OrderedDict
 from pathlib import Path
 
@@ -22,8 +24,9 @@ import build_articles_deck
 import build_sentences_deck
 import build_vocabulary_decks
 import card_quality
+import review_preview
 from anki_package_utils import DeckSpec, Note, package_ids, validate_package, write_package
-from deck_data import ANKI, ROOT, Card, Data, DataError, load, normalize
+from deck_data import ANKI, APPROVALS_FILE, ROOT, Card, Data, DataError, load, normalize
 
 DECKS = OrderedDict([
     ("vocabulary", (build_vocabulary_decks, "Vocabulary", "vocabulary",
@@ -50,6 +53,11 @@ def collect(data: Data) -> tuple[list[Card], list[str], dict[str, list[str]]]:
         errors.extend(deck_errors)
     quality_errors, warnings = card_quality.check(data, cards)
     return cards, errors + quality_errors, warnings
+
+
+def card_hash(card: Card) -> str:
+    visible = {name: value for name, value in card.fields.items() if name != "Key"}
+    return hashlib.sha256(json.dumps([card.deck, visible], ensure_ascii=False, sort_keys=True).encode("utf-8")).hexdigest()
 
 
 def ordered(cards: list[Card]) -> list[Card]:
@@ -117,34 +125,55 @@ def deck_specs(data: Data, cards: list[Card]) -> list[DeckSpec]:
     return specs
 
 
+def load_approvals() -> dict:
+    if APPROVALS_FILE.exists():
+        return json.loads(APPROVALS_FILE.read_text(encoding="utf-8"))
+    return {"description": "Card content hashes the learner approved after reviewing ANKI/review/preview.html. "
+                           "A card whose content changes needs approval again.", "approved": {}, "log": []}
+
+
 def report(errors: list[str]) -> None:
     for error in errors:
         print(f"ERROR  {error}")
 
 
-def show_cards(cards: list[Card], warnings: dict[str, list[str]], lesson: str) -> None:
-    """One line per card of a lesson, so Claude can read the new cards before packaging."""
-    for card in cards:
-        if lesson in card.lessons:
-            flags = "; ".join(dict.fromkeys(card.warnings + warnings.get(card.key, [])))
-            print(f"{card.deck:10} {card.key} | {card.front_german} | {card.cue} → {card.answer}" + (f" | {flags}" if flags else ""))
-
-
-def cmd_check(data: Data, lesson: str | None = None) -> int:
+def cmd_check(data: Data) -> int:
     cards, errors, warnings = collect(data)
+    approvals = load_approvals()
     REVIEW_DIR.mkdir(exist_ok=True)
+    hashes = {card.key: card_hash(card) for card in cards}
+    review_preview.write(REVIEW_DIR / "preview.html", data, cards, errors, warnings, hashes, approvals["approved"])
     ledger = {entry.ref: sorted(card.key for card in cards if entry.ref in card.covers) for entry in data.entries}
     (REVIEW_DIR / "coverage-ledger.json").write_text(json.dumps(
         {"revision": data.revision, "entries": ledger,
          "pending": [{"lesson": lesson.id, **item} for lesson, item in data.pending]},
         ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
     counts = {deck: sum(card.deck == deck for card in cards) for deck in DECKS}
+    unapproved = sum(hashes[card.key] not in approvals["approved"] for card in cards)
     report(errors)
-    if lesson:
-        show_cards(cards, warnings, lesson)
     print(f"Cards: {counts}; entries: {len(data.entries)}; pending yes/no: {len(data.pending)}; "
-          f"warnings: {sum(bool(items) for items in warnings.values())} cards")
+          f"warnings: {sum(bool(items) for items in warnings.values())} cards; unapproved: {unapproved}")
+    print(f"Preview: {REVIEW_DIR / 'preview.html'}")
     return 1 if errors else 0
+
+
+def cmd_approve(data: Data, args: argparse.Namespace) -> int:
+    cards, errors, _ = collect(data)
+    if errors:
+        report(errors)
+        print("Nothing approved: fix the errors first.")
+        return 1
+    scope = [card for card in cards
+             if args.all or (args.deck and card.deck == args.deck) or (args.lesson and args.lesson in card.lessons)]
+    approvals = load_approvals()
+    for card in scope:
+        approvals["approved"][card_hash(card)] = card.key
+    approvals["log"].append({"date": time.strftime("%Y-%m-%d"), "scope": "all" if args.all else (args.deck or args.lesson),
+                             "cards": len(scope)})
+    APPROVALS_FILE.parent.mkdir(exist_ok=True)
+    APPROVALS_FILE.write_text(json.dumps(approvals, ensure_ascii=False, indent=1, sort_keys=True) + "\n", encoding="utf-8")
+    print(f"Approved {len(scope)} card(s).")
+    return 0
 
 
 def file_hashes(paths: list[Path]) -> dict[str, str]:
@@ -176,6 +205,12 @@ def cmd_package(data: Data) -> int:
         report(errors)
         print("Not packaged: fix the errors first.")
         return 1
+    approved = load_approvals()["approved"]
+    unapproved = [card.key for card in cards if card_hash(card) not in approved]
+    if unapproved:
+        print(f"Not packaged: {len(unapproved)} card(s) are not approved yet. Review ANKI/review/preview.html, then run "
+              f"`python3 ANKI/build_all.py approve --all` (or per lesson/deck).")
+        return 1
     before = file_hashes(PRONUNCIATION_FILES)
     specs = deck_specs(data, cards)
     results: dict[str, dict] = {}
@@ -206,8 +241,12 @@ def cmd_package(data: Data) -> int:
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     sub = parser.add_subparsers(dest="command")
-    check = sub.add_parser("check")
-    check.add_argument("--lesson", help="also list this lesson's cards: deck, key, German, cue → answer, warnings")
+    sub.add_parser("check")
+    approve = sub.add_parser("approve")
+    group = approve.add_mutually_exclusive_group(required=True)
+    group.add_argument("--all", action="store_true")
+    group.add_argument("--lesson")
+    group.add_argument("--deck", choices=list(DECKS))
     sub.add_parser("package")
     args = parser.parse_args(argv)
     try:
@@ -215,9 +254,11 @@ def main(argv: list[str] | None = None) -> int:
     except DataError as problem:
         print(f"ERROR  {problem}")
         return 1
+    if args.command == "approve":
+        return cmd_approve(data, args)
     if args.command == "package":
         return cmd_package(data)
-    return cmd_check(data, getattr(args, "lesson", None))
+    return cmd_check(data)
 
 
 if __name__ == "__main__":

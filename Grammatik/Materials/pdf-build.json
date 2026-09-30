@@ -1,6 +1,6 @@
 {
  "description": "Written by docs/tools/build_grammar_pdf.py. 'inputs' fingerprints the builder, README.md and every page; the unit tests fail when it no longer matches, so the PDF never lags the pages.",
- "inputs": "b56c3a26ee74d90d401e8324b7a0323eee8c94938c276b10086e6e18e0a0b573",
+ "inputs": "48e64385508da28f0a983145605ab3dbab80d5aba8a536766c50017e6a4ba2b2",
  "pdf": "3c78079b4cbf022a9fcd35f6e6a89f6e48476a7bb87e453f5d98e1d8cee6bf45",
  "pages": [
   "A1/du-und-Sie.md",

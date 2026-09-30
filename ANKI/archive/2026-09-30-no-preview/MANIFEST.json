@@ -1,0 +1,86 @@
+{
+  "createdAt": "2026-09-30",
+  "reason": "Backup before removing the card preview and approval step (learner decision). Restore by copying each backup to its original path.",
+  "files": [
+    {
+      "original": "ANKI/build_all.py",
+      "backup": "ANKI/archive/2026-09-30-no-preview/ANKI/build_all.py",
+      "sha256": "eef2e9853918b3a7f867cef80833f9d1039dfff757f1795baba99a8b2ad69439"
+    },
+    {
+      "original": "ANKI/deck_data.py",
+      "backup": "ANKI/archive/2026-09-30-no-preview/ANKI/deck_data.py",
+      "sha256": "1bd153de5a82af9c8b1199af48a90ea8cffc63c57808cec66dc7a8be6078b2dd"
+    },
+    {
+      "original": "ANKI/card_quality.py",
+      "backup": "ANKI/archive/2026-09-30-no-preview/ANKI/card_quality.py",
+      "sha256": "ec8bbda0eae90b2334aed0da08399399f757e0302375f196b08de48325c9de1d"
+    },
+    {
+      "original": "ANKI/review_preview.py",
+      "backup": "ANKI/archive/2026-09-30-no-preview/ANKI/review_preview.py",
+      "sha256": "20c022535f33010eb13f7eb30e2e71d7123ddbab1f0a76a6c281fa44f261c18e"
+    },
+    {
+      "original": "ANKI/tests/test_packaging.py",
+      "backup": "ANKI/archive/2026-09-30-no-preview/ANKI/tests/test_packaging.py",
+      "sha256": "af212465429aaab5002b925477df3016502388725bac55e27d0f491f3562e83e"
+    },
+    {
+      "original": "ANKI/review/approvals.json",
+      "backup": "ANKI/archive/2026-09-30-no-preview/ANKI/review/approvals.json",
+      "sha256": "8529e1c64689182ca4a1b4768aa9beb0a032f4f35bc6084b76b604608226d88f"
+    },
+    {
+      "original": "ANKI/README.md",
+      "backup": "ANKI/archive/2026-09-30-no-preview/ANKI/README.md",
+      "sha256": "7ec98d6d9a8ecdb0be8f1db09b2e8b7215fc35b53c2f65d285221383e4cac4eb"
+    },
+    {
+      "original": "AGENTS.md",
+      "backup": "ANKI/archive/2026-09-30-no-preview/AGENTS.md",
+      "sha256": "da1d6ae5126dae082a80a03aef65993f20769067e9e12641124561c522ed436c"
+    },
+    {
+      "original": "CLAUDE.md",
+      "backup": "ANKI/archive/2026-09-30-no-preview/CLAUDE.md",
+      "sha256": "8d03298a636e4d22dbcac36e6108e8c9754c13bb18dee6ac65768f73f4f825a4"
+    },
+    {
+      "original": "docs/processing-a-lesson.md",
+      "backup": "ANKI/archive/2026-09-30-no-preview/docs/processing-a-lesson.md",
+      "sha256": "3caf0624c579aefc0aeab8acfef3f926b6ac9cb269415377c6aa410bacbc3ec1"
+    },
+    {
+      "original": "docs/anki-import.md",
+      "backup": "ANKI/archive/2026-09-30-no-preview/docs/anki-import.md",
+      "sha256": "5779c56dd83338f04757215ae669eaf29efdffc65f827f5172cc3ea832a76e48"
+    },
+    {
+      "original": "docs/card-design.md",
+      "backup": "ANKI/archive/2026-09-30-no-preview/docs/card-design.md",
+      "sha256": "dee5c997b4b6319c204a5ca365245524c490a09d1fbe1dcc2e00635c1564d665"
+    },
+    {
+      "original": "docs/data-model.md",
+      "backup": "ANKI/archive/2026-09-30-no-preview/docs/data-model.md",
+      "sha256": "6e31ec147ba93eda17535dc704fc44074a5c03bf3a3f080f54c3732db54d72fc"
+    },
+    {
+      "original": "docs/decisions.md",
+      "backup": "ANKI/archive/2026-09-30-no-preview/docs/decisions.md",
+      "sha256": "ae025ac57dc0de40f72d4af93d1ef256e1026df969905d6629c5ea3e8581adeb"
+    },
+    {
+      "original": "Grammatik/README.md",
+      "backup": "ANKI/archive/2026-09-30-no-preview/Grammatik/README.md",
+      "sha256": "9dd4ac2b4262690f06cff18f7175e5de03b1f19e934f85ad7673349533199308"
+    },
+    {
+      "original": ".gitignore",
+      "backup": "ANKI/archive/2026-09-30-no-preview/.gitignore",
+      "sha256": "fbe32a5686e582216f435bc6564181a5c3fc7dd8f2e5dc27ce67c22fd6cfdb14"
+    }
+  ]
+}
