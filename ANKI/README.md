@@ -17,7 +17,7 @@ choice. The rules are in `../AGENTS.md`, the reasons in `../docs/card-design.md`
 
 ```sh
 python3 ANKI/build_all.py check                 # validate data, verify every context (--lesson ID: list that lesson's cards)
-python3 ANKI/build_all.py package               # build all packages; refuses while the check has errors
+python3 ANKI/build_all.py package               # build all packages; refuses while the check has errors; lists what to import
 python3 -m unittest discover -s ANKI/tests      # tests
 python3 ANKI/harvest_sources.py --lesson ID     # network: snapshot a lesson's official sources into Materials/
 python3 ANKI/harvest_sources.py --pages         # offline: rewrite each DW lesson's Materials/lesson-pages.md
@@ -34,7 +34,7 @@ confirms the pronunciation deck is unchanged, then writes the scan indexes.
 - `vocabulary-cards.json`, `articles-cards.json`: curated cues and verbatim contexts
 - `sentence-sources.json`: curated Sentences cards
 - `review/coverage-ledger.json`: which card covers each captured entry
-- `archive/`: backups of replaced files
+- `legacy-v2-lesson-vocabulary.json`: the pre-v3 capture record; every v2 word must survive
 
 Details: `../docs/data-model.md`. Procedure for a new lesson:
 `../docs/processing-a-lesson.md`.

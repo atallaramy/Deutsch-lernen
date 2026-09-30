@@ -203,6 +203,24 @@ def validate_package(path: Path, *, expected_cards: int | None = None) -> dict[s
     return {"notes": notes, "cards": cards}
 
 
+def content_digest(path: Path) -> str:
+    """Hash of what Anki imports (notes, tags, suspension, note types, deck names), ignoring timestamps."""
+    with tempfile.TemporaryDirectory() as temp_name, zipfile.ZipFile(path) as archive:
+        collection = Path(temp_name) / "collection.anki2"
+        collection.write_bytes(archive.read("collection.anki2"))
+        db = sqlite3.connect(collection)
+        try:
+            models_json, decks_json = db.execute("SELECT models, decks FROM col").fetchone()
+            notes = db.execute("SELECT n.guid, n.flds, n.tags, c.queue FROM notes n JOIN cards c ON c.nid = n.id "
+                               "ORDER BY n.guid").fetchall()
+        finally:
+            db.close()
+    models = sorted((m["name"], m["css"], [f["name"] for f in m["flds"]], [(t["qfmt"], t["afmt"]) for t in m["tmpls"]])
+                    for m in json.loads(models_json).values())
+    decks = sorted((d["name"], d["desc"]) for d in json.loads(decks_json).values())
+    return hashlib.sha256(json.dumps([models, decks, notes], ensure_ascii=False).encode("utf-8")).hexdigest()
+
+
 def package_ids(path: Path) -> set[tuple[str, int]]:
     """Note and card IDs in a package, for cross-package uniqueness checks."""
     with tempfile.TemporaryDirectory() as temp_name, zipfile.ZipFile(path) as archive:

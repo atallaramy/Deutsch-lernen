@@ -2,7 +2,7 @@
 """Single entry point for the German decks.
 
   python3 ANKI/build_all.py check [--lesson ID]    validate data and verify sources (--lesson: also list that lesson's cards)
-  python3 ANKI/build_all.py package                build every deck; refuses unless all checks pass
+  python3 ANKI/build_all.py package                build every deck; refuses unless all checks pass; lists what to import
 
 Builds are deterministic: the same data produces byte-identical packages.
 """
@@ -22,7 +22,7 @@ import build_articles_deck
 import build_sentences_deck
 import build_vocabulary_decks
 import card_quality
-from anki_package_utils import DeckSpec, Note, package_ids, validate_package, write_package
+from anki_package_utils import DeckSpec, Note, content_digest, package_ids, validate_package, write_package
 from deck_data import ANKI, ROOT, Card, Data, DataError, load, normalize
 
 DECKS = OrderedDict([
@@ -126,7 +126,7 @@ def show_cards(cards: list[Card], warnings: dict[str, list[str]], lesson: str) -
     """One line per card of a lesson, so Claude can read the new cards before packaging."""
     for card in cards:
         if lesson in card.lessons:
-            flags = "; ".join(dict.fromkeys(card.warnings + warnings.get(card.key, [])))
+            flags = "; ".join(dict.fromkeys(warnings.get(card.key, [])))
             print(f"{card.deck:10} {card.key} | {card.front_german} | {card.cue} → {card.answer}" + (f" | {flags}" if flags else ""))
 
 
@@ -142,8 +142,7 @@ def cmd_check(data: Data, lesson: str | None = None) -> int:
     report(errors)
     if lesson:
         show_cards(cards, warnings, lesson)
-    print(f"Cards: {counts}; entries: {len(data.entries)}; pending yes/no: {len(data.pending)}; "
-          f"warnings: {sum(bool(items) for items in warnings.values())} cards")
+    print(f"Cards: {counts}; entries: {len(data.entries)}; pending yes/no: {len(data.pending)}")
     return 1 if errors else 0
 
 
@@ -179,6 +178,7 @@ def cmd_package(data: Data) -> int:
     before = file_hashes(PRONUNCIATION_FILES)
     specs = deck_specs(data, cards)
     results: dict[str, dict] = {}
+    changed: list[str] = []
     all_ids: set = set()
     with tempfile.TemporaryDirectory() as first, tempfile.TemporaryDirectory() as second:
         for spec in specs:
@@ -193,6 +193,8 @@ def cmd_package(data: Data) -> int:
                 raise RuntimeError(f"{spec.name}: note/card IDs collide with another package")
             all_ids |= ids
             results[str(spec.output.relative_to(ROOT))] = {**counts, "sha256": hashlib.sha256(a.read_bytes()).hexdigest()}
+            if not spec.output.exists() or content_digest(spec.output) != content_digest(a):
+                changed.append(str(spec.output.relative_to(ROOT)))
             spec.output.parent.mkdir(parents=True, exist_ok=True)
             shutil.copyfile(a, spec.output)
     if file_hashes(PRONUNCIATION_FILES) != before:
@@ -200,6 +202,8 @@ def cmd_package(data: Data) -> int:
     write_indexes(data, cards, results)
     for path, result in results.items():
         print(f"{path}: {result['cards']} cards")
+    # A new revision stamp alone rewrites every file; only content changes need importing.
+    print("Import: " + (" · ".join(changed) if changed else "nothing (no card changed)"))
     return 0
 
 

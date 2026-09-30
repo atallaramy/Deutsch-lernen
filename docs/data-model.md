@@ -9,19 +9,9 @@
 | `articles-cards.json` | Curated verified contexts and hints for Articles cards, keyed by lemma. |
 | `sentence-sources.json` | Curated Sentences cards (schema 3). |
 | `gloss-snapshot.json` | Dictionary definitions (en.wiktionary, else dict.cc) for meanings that no official course source supplies (from `harvest_sources.py --glosses`). |
+| `legacy-v2-lesson-vocabulary.json` | The capture record from before the v3 redesign; the check requires every v2 word to survive. |
 | `review/coverage-ledger.json` | Which card covers each captured entry, plus the pending items. |
 | `*-scan-index.json` | Written by `package`: lessons, counts, package hashes. |
-| `archive/2026-09-25-pre-v3/` | Backup of every file replaced by the v3 redesign, with a SHA-256 manifest. |
-| `archive/2026-09-26-grammar-book/` | Backup of the instruction and doc files edited when the grammar book was added, with a SHA-256 manifest. |
-| `archive/2026-09-26-grammar-pdf/` | Backup of the instruction, doc and test files edited when the grammar-book PDF was added, with a SHA-256 manifest. |
-| `archive/2026-09-26-dw-a1-e2-l1/` | Backup of the data, builder, test, grammar and doc files edited when DW A1 E2 L1 was processed, with a SHA-256 manifest. |
-| `archive/2026-09-26-notes-out-of-materials/` | Backup of the data, grammar and doc files edited when three notes files moved out of `Materials/`, with a SHA-256 manifest. |
-| `archive/2026-09-27-dw-a1-e2-l2/` | Backup of the data, grammar and doc files edited when DW A1 E2 L2 was processed, with a SHA-256 manifest. |
-| `archive/2026-09-27-official-materials-capture/` | Backup of the data, builder, test and doc files edited when the official scripts and exercises became a capture source, with a SHA-256 manifest. |
-| `archive/2026-09-27-lesson-pages/` | Backup of the data, snapshot, builder, test, instruction and doc files edited when the DW vocabulary, grammar and culture pages became checked sources, with a SHA-256 manifest. |
-| `archive/2026-09-27-dw-a1-e2-l3/` | Backup of the data, builder, test, grammar and doc files edited when DW A1 E2 L3 was processed, with a SHA-256 manifest. |
-| `archive/2026-09-30-dw-a1-e2-l4/` | Backup of the data, grammar, instruction and doc files edited when DW A1 E2 L4 was processed, with a SHA-256 manifest. |
-| `archive/2026-09-30-no-preview/` | Backup of the builder, test, instruction and doc files edited, and of `review_preview.py` and `review/approvals.json` removed, when the preview and approval step was dropped, with a SHA-256 manifest. |
 
 ## Files in a lesson's `Materials/` (written by `harvest_sources.py`)
 
@@ -34,7 +24,7 @@
 
 | File | Role |
 |---|---|
-| `build_all.py` | CLI: `check` (`--lesson ID` lists that lesson's cards), `package`. |
+| `build_all.py` | CLI: `check` (`--lesson ID` lists that lesson's cards), `package` (ends with `Import: …`, the files whose cards changed). |
 | `deck_data.py` | Loads data and snapshots; verification helpers; shared card style. |
 | `build_vocabulary_decks.py`, `build_articles_deck.py`, `build_sentences_deck.py` | Card construction for each deck (lesson decks reuse Vocabulary and Sentences cards). |
 | `card_quality.py` | Cross-deck gate: coverage, preservation of the v2 records, leakage, ambiguity, the front-sentence registry, sentence priming, known words, and every DW vocabulary-page item recorded in its lesson. |

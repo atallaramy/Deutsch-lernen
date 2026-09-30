@@ -61,7 +61,9 @@ def check(data: Data, cards: list[Card]) -> tuple[list[str], dict[str, list[str]
             errors.append(f"Coverage: {entry.ref} ({entry.raw['german']!r}) has no {home} card")
 
     # Captured v2 records are preserved in schema 3.
-    if LEGACY_V2_FILE.exists():
+    if not LEGACY_V2_FILE.exists():
+        errors.append(f"Missing {LEGACY_V2_FILE.name}: the v2 preservation check cannot run")
+    else:
         legacy = json.loads(LEGACY_V2_FILE.read_text(encoding="utf-8"))
         v3 = defaultdict(set)
         for entry in data.entries:

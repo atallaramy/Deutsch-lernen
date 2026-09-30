@@ -100,8 +100,6 @@ def build(data: Data) -> tuple[list[Card], list[str]]:
                     sources.append(context_source(data, context))
                 except Exception as problem:  # malformed curated context is a data error
                     errors.append(f"{where}: {problem}")
-        else:
-            warnings.append("bare cue (no verified context yet)")
 
         details = []
         for entry in group:
@@ -124,7 +122,6 @@ def build(data: Data) -> tuple[list[Card], list[str]]:
                 details.append(f"In your notes: “{html.escape(learner)}”")
         if any(entry.raw.get("level") == "beyond-A1" for entry in group):
             details.append("Beyond A1.")
-            warnings.append("beyond A1")
         if not any({"dw-glossary", "dw-culture-page", "vhs-vocabulary-trainer"} & set(entry.raw.get("origin", [])) for entry in group):
             terms = canonical.raw.get("glossLookup") or [canonical.lemma.rstrip(".!?")]
             dictionaries = sorted({glosses.get(term, {}).get("dictionary", "en.wiktionary") for term in terms})

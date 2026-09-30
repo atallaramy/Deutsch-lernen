@@ -122,8 +122,6 @@ def build(data: Data) -> tuple[list[Card], list[str]]:
                 sources.append(context_source(data, curated["context"]))
                 if re.search(r"(?<![\wÄÖÜäöüß])(er|sie|es|ihn|ihm)(?![\wÄÖÜäöüß])", curated["context"]["text"]):
                     warnings.append("context has a pronoun — confirm it does not refer back to the noun")
-        else:
-            warnings.append("bare noun (no leak-free verified context)")
         if len(genders_by_lemma[lemma]) > 1:
             warnings.append("same lemma with different genders — separate cards")
         hints = curated.get("hints") or gender_hints(lemma, gender, " ".join(glosses), nouns)

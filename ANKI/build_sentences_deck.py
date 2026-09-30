@@ -84,7 +84,6 @@ def build(data: Data) -> tuple[list[Card], list[str]]:
             if answer_source == "learner-notes":
                 if not any(normalize(entry.raw["german"]) == normalize(answer_display) for entry in covered):
                     errors.append(f"{where}: a learner-notes answer must equal a covered entry exactly")
-                warnings.append("answer is your own captured sentence (not in an official source)")
                 sources.append("Answer: your notes")
             elif isinstance(answer_source, dict):
                 if data.snapshots.contains(answer_source["lesson"], answer_source["source"], answer_display):

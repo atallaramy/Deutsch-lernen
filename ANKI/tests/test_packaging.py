@@ -51,6 +51,23 @@ class Packaging(unittest.TestCase):
             queue = sqlite3.connect(Path(temp) / "c").execute("SELECT queue FROM cards").fetchone()[0]
         self.assertEqual(queue, -1)
 
+    def test_content_digest_ignores_revision_but_not_fields(self):
+        from anki_package_utils import DeckSpec, Note, content_digest
+        data = load()
+        cards, _, _ = build_all.collect(data)
+        card = next(card for card in cards if card.deck == "vocabulary")
+        note_type = build_all.DECKS["vocabulary"][0].NOTE_TYPE
+        spec = DeckSpec("Test", "", Path("x.apkg"), "test", [Note(card.key, note_type, dict(card.fields), [], 1)])
+        with tempfile.TemporaryDirectory() as temp:
+            a, b, c = (Path(temp) / name for name in ("a.apkg", "b.apkg", "c.apkg"))
+            write_package(spec, "2026-01-01T00:00:00Z", a)
+            write_package(spec, "2026-02-01T00:00:00Z", b)
+            spec.notes[0].fields["Cue"] += " (changed)"
+            write_package(spec, "2026-02-01T00:00:00Z", c)
+            self.assertNotEqual(a.read_bytes(), b.read_bytes())
+            self.assertEqual(content_digest(a), content_digest(b))
+            self.assertNotEqual(content_digest(b), content_digest(c))
+
     def test_entries_outside_lesson_deck_stay_in_cumulative_deck(self):
         data = load()
         cards, _, _ = build_all.collect(data)
