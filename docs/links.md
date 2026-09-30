@@ -152,6 +152,8 @@ The courses follow the BAMF integration-course curriculum:
 | Goethe-Zertifikat A1 (Start Deutsch 1) word list (checked 2026-09-28: used for the `beyond-A1` tag of script and grammar-page words) | <https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf> |
 | Goethe-Zertifikat A2 word list | <https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf> |
 | Goethe-Zertifikat B1 word list | <https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_B1_Wortliste.pdf> |
+| A1 Start Deutsch 1 exam rules (*Durchführungsbestimmungen*, checked 2026-10-01): parts, points, pass mark (60 of 100, no minimum per part), retake only as a whole | <https://www.goethe.de/pro/relaunch/prf/de/Durchfuehrungsbestimmungen_A1_Start_Deutsch_1.pdf> |
+| Goethe exam guidelines (*Prüfungsordnung*, checked 2026-10-01): § 15 retakes as often as wanted; no right to a particular date | <https://www.goethe.de/pro/relaunch/prf/de/Pruefungsordnung.pdf> |
 | Goethe exam pages | A1 <https://www.goethe.de/ins/de/de/prf/prf/gzsd1.html> · A2 <https://www.goethe.de/ins/de/de/prf/prf/gzsd2.html> · B1 <https://www.goethe.de/ins/de/de/prf/prf/gzb1.html> (B1 details: <https://www.goethe.de/ins/de/de/prf/prf/gzb1/inf.html>) · All exams: <https://www.goethe.de/de/spr/prf.html> |
 
 ### Free practice exams for adults (checked 2026-09-30)

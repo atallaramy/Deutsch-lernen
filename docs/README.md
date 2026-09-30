@@ -14,7 +14,7 @@ VHS Lektion 4 cover?"). The answer starts from here.
 | [processing-a-lesson.md](processing-a-lesson.md) | The step-by-step procedure when you say "I have studied lesson X". |
 | [card-design.md](card-design.md) | Why the cards look the way they do, with real examples and the leakage checks. |
 | [research.md](research.md) | The evidence behind the design. |
-| [decisions.md](decisions.md) | Every confirmed decision, with date. |
+| [decisions.md](decisions.md) | Every confirmed decision, one line each, with date. |
 | [access.md](access.md) | What access Claude needs for each course (DW public; VHS through your logged-in Chrome). |
 | [easy-german-transcripts.md](easy-german-transcripts.md) | How to get YouTube transcripts and what they can be used for. |
 | [anki-import.md](anki-import.md) | Importing, recommended settings, typing German on the Mac. |

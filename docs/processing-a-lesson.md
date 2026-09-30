@@ -1,9 +1,8 @@
 # Processing a lesson (when you say "I have studied lesson X")
 
-Read this before capturing or building any lesson. It is the procedure behind
-`AGENTS.md` → *When processing a lesson*. Build gradually: only lessons you
-have studied, one at a time, so the deck never grows faster than your
-learning.
+Read this in full before capturing or building any lesson. These are the
+steps; the rules they apply are in `AGENTS.md`. Only lessons you have studied,
+one at a time, so the deck never grows faster than your learning.
 
 ## 0. Trigger and scope
 
@@ -11,13 +10,10 @@ learning.
   it. For a lesson you have not studied, answer questions from
   [`course-index/`](course-index/) and [links.md](links.md) and do not build cards.
   For grammar you have studied, start from [`Grammatik/`](../Grammatik/README.md).
-- Do not move, rename or delete existing notes, folders, PDFs or legacy
-  packages. Your notes belong directly in the lesson folder, not in
-  `Materials/`. If a notes file is somewhere else, ask before moving it.
 
 ## Before step 1: your mistake rounds (default)
 
-Your decision (2026-09-26). If you say something else in a session, for example
+The first step of every finished lesson. If you say something else in a session, for example
 "correct the spelling and finalize", that wins for the session: Claude saves the
 mistakes, corrects the notes itself and continues.
 
@@ -27,7 +23,7 @@ mistakes, corrects the notes itself and continues.
    (a missing question mark, a stray comma or full stop). A line from audio with no
    official transcript is listed separately when it cannot be checked.
    Accents in non-German names (*Nicolás González*) are not your work: Claude
-   corrects them in your notes and says so in `mistakes.md` (your decision 2026-09-30).
+   corrects them in your notes and says so in `mistakes.md`.
 2. **Round 1:** Claude saves the list in the lesson's `Materials/mistakes.md`, then
    shows you the wrong words exactly as you wrote them, with line numbers. No
    comments.
@@ -81,10 +77,10 @@ the dictionary confirms. For phrases, set `glossLookup` to their component
 words, and use the dictionary's wording.
 
 Which items to capture:
-- **Captured:** items in a vocabulary list in your notes, items you wrote with a meaning, the official lesson glossary and vocabulary page, and the words and fixed phrases worth learning from the lesson's official script, exercises, grammar pages and culture pages (`origin`: `dw-script`, `dw-exercises`, `dw-grammar-page`, `dw-culture-page`, `vhs-film-script`). Their sentences are used as contexts.
+- **What:** see `AGENTS.md` → *Capture records*. `origin` codes: `learner-notes`, `dw-glossary`, `dw-script`, `dw-exercises`, `dw-grammar-page`, `dw-culture-page`, `vhs-wordlist`, `vhs-vocabulary-trainer`, `vhs-film-script`. Their sentences are used as contexts.
 - **Vocabulary page:** every item on it is recorded in this lesson, even when an earlier lesson already has it (the cards merge). The PDF glossary and the page usually list the same items; when the page writes one differently (`Es ist 09:00 Uhr.` for `Es ist neun Uhr.`), set `vocabularyPageForm` on the entry. `build_all.py check` reports every page item that is not recorded yet, so run it once right after capturing.
 - **Grammar pages:** new words, forms and example phrases from them are captured like script items; their rule goes to the grammar book (§7) and, when useful, to Sentences cards.
-- **Above A1** (not on the Goethe A1 word list): captured without asking and tagged `level: beyond-A1` (your decision, 2026-09-30).
+- **Above A1** (not on the Goethe A1 word list): captured without asking, `level: beyond-A1`.
 - **Borderline** (anything else unclear): put in `pendingEntries` with a reason and ask you yes or no.
 - **Home deck:** fixed formulas → `home: vocabulary`; patterns and grammatical choices (du/Sie, verb forms, W-questions) → `home: sentences`. Names → Sentences.
 - **Merging:** a new sense of a known word gets its own `sense`. Identical lemma + sense merges automatically.
@@ -111,7 +107,7 @@ python3 -m unittest discover -s ANKI/tests
 
 Fix every error. Claude reads the lesson's cards in the `--lesson` list (flagged
 ones first, merges and senses kept separate) and fixes what is unclear. You do
-not review cards (your decision, 2026-09-30).
+not review cards.
 
 ## 6. Package and import
 
@@ -122,7 +118,9 @@ python3 ANKI/build_all.py package
 This refuses while the check has errors. It builds
 every package twice to prove the output is identical, validates each one, and
 confirms the pronunciation deck is untouched. It then writes the `.apkg` files
-and scan indexes. Import them into Anki ([anki-import.md](anki-import.md)).
+and scan indexes, and ends with `Import: …`: only the files whose cards changed.
+Claude tells you that line; import those files into Anki
+([anki-import.md](anki-import.md)).
 
 ## 7. Update the grammar book
 
@@ -157,6 +155,6 @@ e.g. `Add DW A1 E2 L1 Zahlen von 1 bis 100`, and never push unless you ask.
 
 ## 9. Record
 
-- New rules or decisions go to `AGENTS.md` and [decisions.md](decisions.md).
-- New useful links go to [links.md](links.md). If a course changes, rerun
+- New rules go to `AGENTS.md`, with one line in [decisions.md](decisions.md).
+- New useful links go to [links.md](links.md), with the date checked. If a course changes, rerun
   `python3 docs/tools/build_course_index.py`.
