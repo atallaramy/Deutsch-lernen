@@ -12,6 +12,8 @@ VHS Lektion 4 cover?"). The answer starts from here.
 | [course-index/](course-index/) | Lesson by lesson: title, goal, grammar topic, lesson page, script PDF for DW Nicos Weg A1, A2, B1; topics and grammar per lesson for VHS A1, A2, B1. |
 | [learning-roadmap.md](learning-roadmap.md) | How the system grows from A1 to A2 and B1, and what changes in the decks at each level. |
 | [processing-a-lesson.md](processing-a-lesson.md) | The step-by-step procedure when you say "I have studied lesson X". |
+| [exam-practice.md](exam-practice.md) | Goethe A1 practice when you say "exam practice": which parts fit what you studied, pages to print, your log. |
+| [goethe-a1-materials.pdf](goethe-a1-materials.pdf) | Every Goethe A1 practice material and the extra practice tests (free and paid), with clickable links and a hint for each (source: [goethe-a1-materials.md](goethe-a1-materials.md)). |
 | [card-design.md](card-design.md) | Why the cards look the way they do, with real examples and the leakage checks. |
 | [research.md](research.md) | The evidence behind the design. |
 | [decisions.md](decisions.md) | Every confirmed decision, one line each, with date. |

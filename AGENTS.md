@@ -42,10 +42,15 @@ this spirit.
   `phonetic-alphabet.json` and `Von A bis Z_Phonetic Alphabet_Pronunciation.apkg`.
 - Do not rerun `ANKI/download_nicos_weg_a1_materials.py`: its manifest uses old
   folder names and would create duplicate folders.
+- `next-steps.md` is the learner's list of next steps. Agents keep the steps
+  current (drop a done step, add what the learner asks) but never change or
+  delete its rule line or the file. `.claude/hooks/protect-next-steps.py` and
+  `ANKI/tests/test_next_steps.py` enforce this; changing them needs the learner.
 - Git (`main`) is the only backup; make no copies. Commit when a lesson is
   done, without asking, and before changing builders, the data format or rule
   files. Other commits when the learner asks. Never push unless asked. Never
-  commit secrets (`.env` is ignored).
+  commit secrets (`.env` is ignored). No history noise: commits made after the
+  last push are merged into one commit.
 
 ## Capture records
 
@@ -169,6 +174,13 @@ Process a lesson only after the learner says they have studied it, one lesson
 at a time. Before capturing or building, read `docs/processing-a-lesson.md` in
 full and follow it: mistake rounds, read, snapshot, capture, curate, check,
 package, grammar book, tests, commit.
+
+## Exam practice
+
+Only when the learner says "exam practice": read `docs/exam-practice.md` and
+follow it. It gives practice only for the Goethe A1 exam parts whose topics the
+learner has studied, marks what they send and logs it there. It never builds
+cards, and it never sets an exam date as a goal.
 
 ## Card-quality gate
 

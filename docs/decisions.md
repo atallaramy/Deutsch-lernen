@@ -5,6 +5,11 @@ One line per confirmed decision, newest first. The rules they produce live in
 
 | Date | Decision |
 |---|---|
+| 2026-10-01 | `next-steps.md` (first named `roadmap.md`): the learner's next steps, extremely short; its rule line and the file are protected from every AI (Claude hook + test). |
+| 2026-10-01 | Git: commits made after the last push are merged into one commit ("I want no git history noise"). |
+| 2026-10-01 | Exam practice is marked and explained the way Goethe examiners judge, with Goethe sources, not the course lessons ("This is all done for them"). |
+| 2026-10-01 | Exam practice: speaking sent as dictation is marked only on what can be heard, not capitals or punctuation ("I did not type this"). |
+| 2026-10-01 | "Exam practice" routine, on request only: Goethe A1 practice limited to the parts whose topics are studied, marked and logged ([exam-practice.md](exam-practice.md)). The exam date is a possibility, not a goal. |
 | 2026-09-30 | No card preview or approval step: the learner does not review cards ("remove the preview completely"); `package` needs only a clean check; Claude reads new cards itself (`check --lesson`). Replaces the v3 preview rule and the unrecorded 2026-09-28 request. |
 | 2026-09-30 | Accents in non-German names are fixed by Claude in the notes and noted in `mistakes.md` ("I am not here to fix Spanish names"). |
 | 2026-09-30 | Words above A1 from official sources are added without asking, tagged Beyond A1 (after "Yes, all 5": *hoffentlich, informiert, die Suche, Setzen Sie sich doch bitte., rausfinden*). |
