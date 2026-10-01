@@ -1,6 +1,6 @@
 # DW A1 E2 L4 · Auf dem Amt: vocabulary, grammar and culture pages
 
-Copied from learngerman.dw.com on 2026-09-30 by `ANKI/harvest_sources.py`; do not edit, rerun it. The same text is in `source-snapshot.json`.
+Copied from learngerman.dw.com on 2026-10-04 by `ANKI/harvest_sources.py`; do not edit, rerun it. The same text is in `source-snapshot.json`.
 
 ## Vocabulary
 
@@ -133,13 +133,21 @@ With numbers over 100 the last two digits are formed like the normal cardinal nu
 | 9000 | **neun**tausend   |
 
 \
-<span lang="RO-RO"></span><span lang="DE-DE">With</span> large numbers, the thousands come first, then the hundreds, and then the numbers below a hundred. You can write a point after the thousands.
+<span lang="RO-RO"></span><span lang="DE-DE">With</span> large numbers, the thousands come first, then the hundreds, and then the numbers below a hundred. You can write a point after the thousands. 
+
+Image:
+
+- An example of a number in the thousands: zweitausendneunhundertsechsundsiebzig
 
 ## Grammar: Saying numbers
 
 <https://learngerman.dw.com/en/saying-numbers/l-37269629/gr-38310279>
 
 *Welche Nummer haben Sie?*
+
+Image:
+
+- A person hands someone a waiting number with the number 1532.
 
 *Ich habe die Nummer eins, fünf, drei, zwei.*
 

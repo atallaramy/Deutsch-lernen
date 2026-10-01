@@ -1,6 +1,6 @@
 {
  "description": "Official source text captured by ANKI/harvest_sources.py for offline context verification.",
- "harvestedOn": "2026-09-30",
+ "harvestedOn": "2026-10-04",
  "sources": [
   {
    "id": "exercises",
@@ -382,11 +382,17 @@
      "texts": [
       "107",
       "Info: Instead of \"einhundert\" you can also use \"hundert\".",
+      "einhundert sieben",
       "244",
+      "zweihundert vierundvierzig",
       "398",
+      "dreihundert achtundneunzig",
       "471",
+      "vier hundert ein und siebzig",
       "782",
-      "979"
+      "sieben hundert zwei und achtzig",
+      "979",
+      "neun hundert neun und siebzig"
      ],
      "vocabularyTags": []
     },
@@ -514,9 +520,9 @@
      "title": " Numbers over 1000",
      "texts": [
       "Numbers over 1000",
-      "Numbers over one thousand are formed using the same principle as those over one hundred:\n1000\n(ein)tausend\n2000\nzweitausend\n3000\ndreitausend\n4000\nviertausend\n5000\nfünftausend\n6000\nsechstausend\n7000\nsiebentausend\n8000\nachttausend\n9000\nneuntausend\nWith large numbers, the thousands come first, then the hundreds, and then the numbers below a hundred. You can write a point after the thousands."
+      "Numbers over one thousand are formed using the same principle as those over one hundred:\n1000\n(ein)tausend\n2000\nzweitausend\n3000\ndreitausend\n4000\nviertausend\n5000\nfünftausend\n6000\nsechstausend\n7000\nsiebentausend\n8000\nachttausend\n9000\nneuntausend\nWith large numbers, the thousands come first, then the hundreds, and then the numbers below a hundred. You can write a point after the thousands.\nImage:\nAn example of a number in the thousands: zweitausendneunhundertsechsundsiebzig"
      ],
-     "html": "<p><span xml:lang=\"RO-RO\"></span><span xml:lang=\"DE-DE\">Numbers </span>over one thousand are formed using the same principle as those over one hundred:&#160;</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>1000</td>\n\t\t\t<td><strong>(ein)</strong>tausend</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>2000</td>\n\t\t\t<td><strong>zwei</strong>tausend</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>3000</td>\n\t\t\t<td><strong>drei</strong>tausend</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>4000</td>\n\t\t\t<td><strong>vier</strong>tausend</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>5000</td>\n\t\t\t<td><strong>fünf</strong>tausend</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>6000</td>\n\t\t\t<td><strong>sechs</strong>tausend</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>7000</td>\n\t\t\t<td><strong>sieben</strong>tausend</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>8000</td>\n\t\t\t<td><strong>acht</strong>tausend</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>9000</td>\n\t\t\t<td><strong>neun</strong>tausend</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p><br>\n<span xml:lang=\"RO-RO\"></span><span xml:lang=\"DE-DE\">With</span> large numbers, the thousands come first, then the hundreds, and then the numbers below a hundred. You can write a point after the thousands.&#160;</p>\n\n\n"
+     "html": "<p><span xml:lang=\"RO-RO\"></span><span xml:lang=\"DE-DE\">Numbers </span>over one thousand are formed using the same principle as those over one hundred:&#160;</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>1000</td>\n\t\t\t<td><strong>(ein)</strong>tausend</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>2000</td>\n\t\t\t<td><strong>zwei</strong>tausend</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>3000</td>\n\t\t\t<td><strong>drei</strong>tausend</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>4000</td>\n\t\t\t<td><strong>vier</strong>tausend</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>5000</td>\n\t\t\t<td><strong>fünf</strong>tausend</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>6000</td>\n\t\t\t<td><strong>sechs</strong>tausend</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>7000</td>\n\t\t\t<td><strong>sieben</strong>tausend</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>8000</td>\n\t\t\t<td><strong>acht</strong>tausend</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>9000</td>\n\t\t\t<td><strong>neun</strong>tausend</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p><br>\n<span xml:lang=\"RO-RO\"></span><span xml:lang=\"DE-DE\">With</span> large numbers, the thousands come first, then the hundreds, and then the numbers below a hundred. You can write a point after the thousands.&#160;</p>\n\n<p>Image:</p><ul><li>An example of a number in the thousands: zweitausendneunhundertsechsundsiebzig</li></ul>\n"
     },
     {
      "id": "gr-38310279",
@@ -524,9 +530,9 @@
      "title": "Saying numbers",
      "texts": [
       "Saying numbers",
-      "Welche Nummer haben Sie?\nIch habe die Nummer eins, fünf, drei, zwei.\nor:\nIch habe die Nummer eintausendfünfhundertzweiunddreißig.\nYou can read numbers in various ways. You can say each individual digit or read the number in its entirety. The longer the number is, the more usual it is to read the digits individually. With telephone and bank account numbers these are read separately or in pairs.\nWie ist deine Telefonnummer? – Meine Telefonnummer ist 257764.\nMeine Telefonnummer ist zwei, fünf, sieben, sieben, sechs, vier.\nor:\nMeine Telefonnummer ist fünfundzwanzig, siebenundsiebzig, vierundsechzig."
+      "Welche Nummer haben Sie?\nImage:\nA person hands someone a waiting number with the number 1532.\nIch habe die Nummer eins, fünf, drei, zwei.\nor:\nIch habe die Nummer eintausendfünfhundertzweiunddreißig.\nYou can read numbers in various ways. You can say each individual digit or read the number in its entirety. The longer the number is, the more usual it is to read the digits individually. With telephone and bank account numbers these are read separately or in pairs.\nWie ist deine Telefonnummer? – Meine Telefonnummer ist 257764.\nMeine Telefonnummer ist zwei, fünf, sieben, sieben, sechs, vier.\nor:\nMeine Telefonnummer ist fünfundzwanzig, siebenundsiebzig, vierundsechzig."
      ],
-     "html": "<p><em>Welche Nummer haben Sie?</em></p>\n\n\n\n<p><em>Ich habe die Nummer eins, fünf, drei, zwei.</em></p>\n\n<p>or:</p>\n\n<p><em>Ich habe die Nummer eintausendfünfhundertzweiunddreißig. </em></p>\n\n<p>&#160;</p>\n\n<p>You can read numbers in various ways. You can say each individual digit or read the number in its entirety. The longer the number is, the more usual it is to read the digits individually. With telephone and bank account numbers these are read separately or in pairs.</p>\n\n<p><strong><em>Wie ist deine Telefonnummer? – Meine Telefonnummer ist 257764.</em></strong></p>\n\n<p><em>Meine Telefonnummer ist zwei, fünf, sieben, sieben, sechs, vier.</em></p>\n\n<p>or:</p>\n\n<p><em>Meine Telefonnummer ist fünfundzwanzig, siebenundsiebzig, vierundsechzig.</em></p>\n\n<p>&#160;</p>\n"
+     "html": "<p><em>Welche Nummer haben Sie?</em></p>\n\n<p>Image:</p><ul><li>A person hands someone a waiting number with the number 1532.</li></ul>\n\n<p><em>Ich habe die Nummer eins, fünf, drei, zwei.</em></p>\n\n<p>or:</p>\n\n<p><em>Ich habe die Nummer eintausendfünfhundertzweiunddreißig. </em></p>\n\n<p>&#160;</p>\n\n<p>You can read numbers in various ways. You can say each individual digit or read the number in its entirety. The longer the number is, the more usual it is to read the digits individually. With telephone and bank account numbers these are read separately or in pairs.</p>\n\n<p><strong><em>Wie ist deine Telefonnummer? – Meine Telefonnummer ist 257764.</em></strong></p>\n\n<p><em>Meine Telefonnummer ist zwei, fünf, sieben, sieben, sechs, vier.</em></p>\n\n<p>or:</p>\n\n<p><em>Meine Telefonnummer ist fünfundzwanzig, siebenundsiebzig, vierundsechzig.</em></p>\n\n<p>&#160;</p>\n"
     },
     {
      "id": "rs-39370933",

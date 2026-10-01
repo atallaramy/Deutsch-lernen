@@ -25,6 +25,30 @@
     ]
    }
   },
+  "essen": {
+   "url": "https://de.wiktionary.org/wiki/Flexion:essen",
+   "fetchedOn": "2026-10-03",
+   "praesens": {
+    "1s": [
+     "esse"
+    ],
+    "2s": [
+     "isst"
+    ],
+    "3s": [
+     "isst"
+    ],
+    "1p": [
+     "essen"
+    ],
+    "2p": [
+     "esst"
+    ],
+    "3p": [
+     "essen"
+    ]
+   }
+  },
   "haben": {
    "url": "https://de.wiktionary.org/wiki/Flexion:haben",
    "fetchedOn": "2026-09-26",
@@ -118,6 +142,30 @@
     ],
     "3p": [
      "kommen"
+    ]
+   }
+  },
+  "nehmen": {
+   "url": "https://de.wiktionary.org/wiki/Flexion:nehmen",
+   "fetchedOn": "2026-10-03",
+   "praesens": {
+    "1s": [
+     "nehme"
+    ],
+    "2s": [
+     "nimmst"
+    ],
+    "3s": [
+     "nimmt"
+    ],
+    "1p": [
+     "nehmen"
+    ],
+    "2p": [
+     "nehmt"
+    ],
+    "3p": [
+     "nehmen"
     ]
    }
   },

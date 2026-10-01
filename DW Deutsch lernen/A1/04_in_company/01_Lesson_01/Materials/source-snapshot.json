@@ -1,0 +1,435 @@
+{
+ "description": "Official source text captured by ANKI/harvest_sources.py for offline context verification.",
+ "harvestedOn": "2026-10-04",
+ "sources": [
+  {
+   "id": "exercises",
+   "kind": "dw-exercises",
+   "url": "https://learngerman.dw.com/en/was-machst-du-hier/l-37278679",
+   "lessonUrl": "https://learngerman.dw.com/en/was-machst-du-hier/l-37278679",
+   "vocabulary": {
+    "url": "https://learngerman.dw.com/en/was-machst-du-hier/l-37278679/lv",
+    "items": [
+     {
+      "id": 37363702,
+      "german": "danke schön",
+      "english": "Thank you!",
+      "forms": ""
+     },
+     {
+      "id": 37395462,
+      "german": "das Flugzeug, die Flugzeuge",
+      "english": "airplane",
+      "forms": ""
+     },
+     {
+      "id": 37395211,
+      "german": "funktionieren",
+      "english": "to work; to function",
+      "forms": "funktioniert, funktionierte, hat funktioniert"
+     },
+     {
+      "id": 37395219,
+      "german": "gern",
+      "english": "gladly; happily",
+      "forms": "lieber, am liebsten"
+     },
+     {
+      "id": 37395471,
+      "german": "das Getränk, die Getränke",
+      "english": "drink",
+      "forms": ""
+     },
+     {
+      "id": 37365842,
+      "german": "Herzlich willkommen!",
+      "english": "Welcome!",
+      "forms": ""
+     },
+     {
+      "id": 37395483,
+      "german": "kaputt",
+      "english": "broken",
+      "forms": "kaputter, am kaputtesten"
+     },
+     {
+      "id": 37395230,
+      "german": "die Lampe, die Lampen",
+      "english": "lamp",
+      "forms": ""
+     },
+     {
+      "id": 37367045,
+      "german": "das Land, die Länder",
+      "english": "country",
+      "forms": ""
+     },
+     {
+      "id": 37400222,
+      "german": "die Party, die Partys",
+      "english": "party",
+      "forms": ""
+     },
+     {
+      "id": 37350994,
+      "german": "schön",
+      "english": "nice; beautiful; pretty",
+      "forms": "schöner, am schönsten"
+     },
+     {
+      "id": 37396306,
+      "german": "(etwas) trinken",
+      "english": "to drink (something)",
+      "forms": "trinkt, trank, hat getrunken"
+     },
+     {
+      "id": 37395320,
+      "german": "Was machst du hier?",
+      "english": "What are you doing here? (informal)",
+      "forms": ""
+     },
+     {
+      "id": 37395371,
+      "german": "Wer ist denn das?",
+      "english": "Who is that?",
+      "forms": ""
+     },
+     {
+      "id": 37395272,
+      "german": "wieder",
+      "english": "again",
+      "forms": ""
+     },
+     {
+      "id": 37395286,
+      "german": "willkommen",
+      "english": "welcome",
+      "forms": ""
+     },
+     {
+      "id": 37395353,
+      "german": "Wollen wir uns nicht duzen?",
+      "english": "Let's use the \"du\" (informal) form of address with each other.",
+      "forms": ""
+     }
+    ]
+   },
+   "exercises": [
+    {
+     "id": "e-37288358",
+     "url": "https://learngerman.dw.com/en/a-friend-of-sebastians/l-37278679/e-37288358",
+     "title": "A friend of Sebastian's",
+     "texts": [
+      "Bring den Dialog in die richtige Reihenfolge. Beginne mit: „Ich heiße Stefan Müller, ich bin ein Freund von Sebastian.“",
+      "Ich heiße Stefan Müller. Ich bin ein Freund von Sebastian. Und ich bin Nico González. Woher kommen Sie? Aus Deutschland. Aber wollen wir uns nicht duzen? Gern. Ich bin Nico. Woher kommst du, Nico? Ich komme aus Spanien."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37282211",
+     "url": "https://learngerman.dw.com/en/asking-questions/l-37278679/e-37282211",
+     "title": "Asking questions",
+     "texts": [
+      "Wie heißt du?",
+      "Woher kommst du?",
+      "Wie alt bist du?",
+      "Did you know? When getting to know someone, it's always interesting to talk about their country of origin or hometown. If you don't know someone all that well, you should not talk about private topics."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37282455",
+     "url": "https://learngerman.dw.com/en/formal-questions/l-37278679/e-37282455",
+     "title": "Formal questions",
+     "texts": [
+      "Woher",
+      "heißen",
+      "Sie",
+      "Wie",
+      "geht",
+      "es",
+      "Ihnen",
+      "Wie",
+      "Ihre",
+      "kommen",
+      "Sie",
+      "Wie",
+      "Sie",
+      "Wo",
+      "wohnen",
+      "ist",
+      "Adresse",
+      "informell: Woher kommst du?\nformell: #ps# #ps# #ps#?",
+      "Schreib die passende formelle Frage in die Lücken.",
+      "CONTINUOUS_TEXT",
+      "informell: Wie heißt du?\nformell: #ps# #ps# #ps#?",
+      "Schreib die passende formelle Frage in die Lücken.",
+      "CONTINUOUS_TEXT",
+      "informell: Wo wohnst du?\nformell: #ps# #ps# #ps#?",
+      "Schreib die passende formelle Frage in die Lücken.",
+      "CONTINUOUS_TEXT",
+      "informell: Wie geht es dir?\nformell: #ps# #ps# #ps# #ps#?",
+      "Schreib die passende formelle Frage in die Lücken.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "informell: Wie ist deine Adresse?\nformell: #ps# #ps# #ps# #pm#?",
+      "Schreib die passende formelle Frage in die Lücken.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37278980",
+     "url": "https://learngerman.dw.com/en/getting-to-know-each-other/l-37278679/e-37278980",
+     "title": "Getting to know each other",
+     "texts": [
+      "Wer ist denn das?",
+      "Was machst du hier?",
+      "Woher kommst du?",
+      "Wie alt bist du?",
+      "Was fragt Sebastian?",
+      "Info: Lisa's friends use \"du\" to address Nico, even though they don't know each other. This is normal among young people."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37288275",
+     "url": "https://learngerman.dw.com/en/offering-to-use-du-with-someone-1/l-37278679/e-37288275",
+     "title": "Offering to use \"du\" with someone (1) ",
+     "texts": [
+      "Lisa Brunner: Guten Morgen, Frau Schröder.\nKerstin Schröder: Guten Morgen, Frau Brunner.\nLisa Brunner: Entschuldigung, wollen wir uns nicht duzen?\nKerstin Schröder: Gern. Ich heiße Kerstin.\nLisa Brunner: Und ich heiße Lisa.",
+      "probably have not known each other all that long.",
+      "The two ladies ...",
+      "Did you know? At work, people do not use \"du\" right away. One person needs to suggests that you use \"du\" with each other, for example by asking \"Wollen wir uns nicht duzen?\". To accept, you can say \"Ja, gern\"."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37288325",
+     "url": "https://learngerman.dw.com/en/offering-to-use-du-with-someone-2-speaking/l-37278679/e-37288325",
+     "title": "Offering to use \"du\" with someone (2): Speaking",
+     "texts": [
+      "Guten Morgen, Frau Schröder.",
+      "Guten Morgen, Frau Brunner.",
+      "Tip: Practice the dialogue again. This time, answer using your own name.",
+      "Ah, guten Morgen, Frau Schröder. … Entschuldigung, wollen wir uns nicht duzen?",
+      "Gern. Ich heiße Kerstin."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37280034",
+     "url": "https://learngerman.dw.com/en/questions-and-more-questions/l-37278679/e-37280034",
+     "title": "Questions and more questions",
+     "texts": [
+      "Woher",
+      "Wie",
+      "Wo",
+      "Wie",
+      "Was",
+      "#p# kommst du?",
+      "Wähl für jede Lücke das richtige Fragewort.",
+      "CONTINUOUS_TEXT",
+      "#p# alt bist du?",
+      "Wähl für jede Lücke das richtige Fragewort.",
+      "CONTINUOUS_TEXT",
+      "#p# wohnst du?",
+      "Wähl für jede Lücke das richtige Fragewort.",
+      "CONTINUOUS_TEXT",
+      "#p# ist deine Adresse?",
+      "Wähl für jede Lücke das richtige Fragewort.",
+      "CONTINUOUS_TEXT",
+      "#p# machst du hier?",
+      "Wähl für jede Lücke das richtige Fragewort.",
+      "CONTINUOUS_TEXT"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37288455",
+     "url": "https://learngerman.dw.com/en/the-shared-apartment/l-37278679/e-37288455",
+     "title": "The shared apartment",
+     "texts": [
+      "Spanien",
+      "22",
+      "Deutschland",
+      "Jahre",
+      "alt",
+      "wohnt",
+      "ist",
+      "23",
+      "Name: Nico\nLand: Nico kommt aus #ps#.\nAlter: Er ist #ps# Jahre alt.",
+      "Schreib die passenden Wörter in die Lücken.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "Name: Sebastian\nLand: Sebastian kommt aus #pm#.\nAlter: Er ist 25 #ps# #ps#.\nStraße: Er wohnt in der Wagnergasse.",
+      "Schreib die passenden Wörter in die Lücken.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "Name: Nina\nStraße: Nina #ps# auch in der Wagnergasse.\nAlter: Sie #ps# #ps# Jahre alt.",
+      "Schreib die passenden Wörter in die Lücken.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37281599",
+     "url": "https://learngerman.dw.com/en/where-are-you-from/l-37278679/e-37281599",
+     "title": "Where are you from?",
+     "texts": [
+      "Hallo, wie heißt du?",
+      "Woher kommst du?",
+      "Wie alt bist du?",
+      "Did you know? People only ask for someone's telephone number and address when they know each other a little better and are sure that they would like to meet again.",
+      "Wie ist deine Telefonnummer?",
+      "Wo wohnst du?",
+      "Wie ist deine Adresse?"
+     ],
+     "vocabularyTags": []
+    }
+   ],
+   "pages": [
+    {
+     "id": "rs-39370944",
+     "url": "https://learngerman.dw.com/en/what-is-your-living-situation/l-37278679/rs-39370944",
+     "title": "What is your living situation?",
+     "texts": [
+      "What is your living situation?",
+      "More than half of all apartments in Germany are rented. For a rented apartment, you have to pay a monthly rent plus additional costs, like electricity, heat, water, and trash collection. People who own an apartment or a house also have to pay these extra costs, as well as property tax.\nNearly one in five people lives alone. In big cities, more than a third of all apartments are occupied by just one person. Living space in Germany, particularly in cities like Berlin, Munich, Hamburg and Cologne, is limited and expensive. That's why students in cities with universities often share an apartment, called a \"Wohngemeinschaft\" or \"WG\" for short."
+     ],
+     "html": "\n\n<p>More than half of all apartments in Germany are rented. For a rented apartment, you have to pay a monthly rent plus additional costs, like electricity, heat, water, and trash collection. People who own an apartment or a house also have to pay these extra costs, as well as property tax.</p>\n\n<p>Nearly one in five people lives alone. In big cities, more than a third of all apartments are occupied by just one person. Living space in Germany, particularly in cities like Berlin, Munich, Hamburg and Cologne, is limited and expensive. That's why students in cities with universities often share an apartment, called a \"<em>Wohngemeinschaft</em>\" or \"<em>WG</em>\" for short.</p>\n"
+    }
+   ]
+  },
+  {
+   "id": "script",
+   "kind": "dw-script-pdf",
+   "url": "https://learngerman.dw.com/downloads/52719567/nicos-weg-a1-e3-l1-manuskript-und-wortschatz-englisch.pdf",
+   "localFile": "DW Deutsch lernen/A1/04_in_company/01_Lesson_01/Materials/Script and vocabulary (English).pdf",
+   "sha256": "43f5d7931b36b40bc2f4b4d4c3b790da316f37e22f8e01250d30750276edc8b7",
+   "lines": [
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "(3) In company | Was machst du hier?",
+    "Nico meets Lisa’s roommates, Sebastian and Nina, who are hanging fairy",
+    "lights up in the courtyard. After they have introduced themselves, Lisa asks",
+    "whether Nico can stay in the shared apartment for the next few days.",
+    "Script",
+    "LISA:",
+    "Hi.",
+    "SEBASTIAN:",
+    "Hi, Lisa! Wer ist denn das?",
+    "LISA:",
+    "Das ist Nico.",
+    "NICO:",
+    "Hallo, ich bin Nico.",
+    "SEBASTIAN:",
+    "Hallo, Nico. Ich bin Sebastian. Was machst du hier?",
+    "NICO:",
+    "Ich habe ein Problem: Meine Tasche ist weg und mein Handy und mein Pass sind auch",
+    "weg. Und Yaras Adresse ist auch weg.",
+    "SEBASTIAN:",
+    "Okay, das ist nicht so gut. Und woher kommst du?",
+    "NICO:",
+    "Ich komme aus Spanien. Ich wohne in Sevilla.",
+    "SEBASTIAN:",
+    "Schön. Und wer ist Yara?",
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "LISA:",
+    "Yara ist Nicos Tante. Er hat gesagt, sie hat hier einen Fahrradladen. Aber er hat die",
+    "Adresse nicht.",
+    "SEBASTIAN:",
+    "Auch nicht so gut. Und wie alt bist du?",
+    "NICO:",
+    "Ich bin 22 Jahre alt. Und du? Kommst du aus Deutschland?",
+    "SEBASTIAN:",
+    "Ich bin 25 Jahre. Und ja, ich komme aus Deutschland.",
+    "NINA:",
+    "Und ich heiße Nina. Ich komme auch aus Deutschland und bin 23 Jahre alt.",
+    "Hi!",
+    "LISA:",
+    "Kann Nico zwei Tage hier wohnen?",
+    "NINA:",
+    "Klar.",
+    "SEBASTIAN:",
+    "Kein Problem!",
+    "NINA:",
+    "Willkommen in der Wagnergasse!",
+    "NICO:",
+    "Danke schön!",
+    "SEBASTIAN:",
+    "Herzlich willkommen!",
+    "NICO:",
+    "Und es gibt eine Party?",
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "SEBASTIAN:",
+    "Ja, aber wir haben ein kleines Problem.",
+    "NINA:",
+    "Die Lampe ist kaputt.",
+    "NICO:",
+    "Kann ich?",
+    "SEBASTIAN:",
+    "Klar. Hat am Flughafen alles geklappt? Geht’s Emma gut?",
+    "LISA:",
+    "Ja. Emmas Mutter sitzt im Flugzeug und Emma geht es gut, die ist bei Lotte.",
+    "SEBASTIAN:",
+    "Ey ... Wow, die Lampe funktioniert wieder.",
+    "NINA:",
+    "Super, Nico! Danke! Möchtest du etwas trinken?",
+    "NICO:",
+    "Trinken?",
+    "LISA:",
+    "Ja, trinken, ein Getränk!",
+    "SEBASTIAN:",
+    "Oder zwei.",
+    "NICO:",
+    "Oder drei.",
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "Vocabulary (from script and lesson)",
+    "danke schön – Thank you!",
+    "das Flugzeug, die Flugzeuge – airplane",
+    "funktionieren – to work; to function",
+    "funktioniert, funktionierte, hat funktioniert",
+    "gern – gladly; happily",
+    "lieber, am liebsten",
+    "das Getränk, die Getränke – drink",
+    "Herzlich willkommen! – Welcome!",
+    "kaputt – broken",
+    "kaputter, am kaputtesten",
+    "die Lampe, die Lampen – lamp",
+    "das Land, die Länder – country",
+    "die Party, die Partys – party",
+    "schön – nice; beautiful; pretty",
+    "schöner, am schönsten",
+    "(etwas) trinken – to drink (something)",
+    "trinkt, trank, hat getrunken",
+    "Was machst du hier? – What are you doing here?",
+    "Wer ist denn das? – Who is that?",
+    "wieder – again",
+    "willkommen – welcome",
+    "willkommener, am willkommensten",
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "Wollen wir uns nicht duzen? – Let's use the \"du\" (informal) form of address",
+    "with each other."
+   ]
+  }
+ ]
+}

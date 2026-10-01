@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Sentences cards: productive utterances, responses, register switches and contextual forms.
+"""Sentences cards: productive utterances, responses, register switches, contextual forms and requested DW tips.
 
 Every card is curated in sentence-sources.json. German on the front must be verbatim source
 text; answers are verified in a source snapshot or are the learner's own captured sentence.
@@ -30,6 +30,7 @@ INSTRUCTIONS = {
     "response": "Reply in German — type your answer",
     "completion": "Type the missing German form",
     "register": "Switch the register — type the sentence",
+    "rule": "Recall the rule — type the answer",  # a DW tip card, only at the learner's request
 }
 
 

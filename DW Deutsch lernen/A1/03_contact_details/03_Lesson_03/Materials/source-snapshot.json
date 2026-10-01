@@ -1,6 +1,6 @@
 {
  "description": "Official source text captured by ANKI/harvest_sources.py for offline context verification.",
- "harvestedOn": "2026-09-28",
+ "harvestedOn": "2026-10-04",
  "sources": [
   {
    "id": "exercises",
@@ -121,7 +121,9 @@
      "title": "Nico on the radio: Revision of W-questions (1)",
      "texts": [
       "Nicht so gut.",
-      "Ich heiße Nico."
+      "Wie geht‘s dir ?",
+      "Ich heiße Nico.",
+      "Wie heißt du ?"
      ],
      "vocabularyTags": []
     },
@@ -131,8 +133,10 @@
      "title": "Nico on the radio",
      "texts": [
       "Was sagt die Radiomoderatorin? Sortiere die Wörter.",
+      "Ja, hallo. Wie heißt du ?",
       "Was antwortet Nico? Sortiere die Wörter.",
-      "Careful! Nico uses an abridged answer here. Actually, he should say: \"Ich heiße Nico. Wie geht's?\""
+      "Careful! Nico uses an abridged answer here. Actually, he should say: \"Ich heiße Nico. Wie geht's?\"",
+      "Nico! Wie geht’s?"
      ],
      "vocabularyTags": []
     },
@@ -225,7 +229,8 @@
      "title": "The police are on Schreinerstraße",
      "texts": [
       "Wo ist die Polizei?",
-      "Careful! \"Ich wohne in der Schillerstraße/Schillergasse/Schillerallee.\" This is phrased differently from: \"Ich wohne am Schillerplatz/Markt.\" and \"Ich wohne im Schillerweg.\""
+      "Careful! \"Ich wohne in der Schillerstraße/Schillergasse/Schillerallee.\" This is phrased differently from: \"Ich wohne am Schillerplatz/Markt.\" and \"Ich wohne im Schillerweg.\"",
+      "Die Polizei ist in der Schreinerstraße ."
      ],
      "vocabularyTags": []
     },

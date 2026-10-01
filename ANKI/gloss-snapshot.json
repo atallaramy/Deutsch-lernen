@@ -28,6 +28,18 @@
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-27"
   },
+  "Abschiedsparty": {
+   "url": "https://en.wiktionary.org/wiki/Abschiedsparty#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "farewell party"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-03"
+  },
   "Adresse": {
    "url": "https://en.wiktionary.org/wiki/Adresse#German",
    "status": 200,
@@ -38,6 +50,18 @@
     }
    ],
    "fetchedOn": "2026-09-25"
+  },
+  "Afrika": {
+   "url": "https://en.wiktionary.org/wiki/Afrika#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Proper noun",
+     "text": "Africa (the continent south of Europe and between the Atlantic and Indian Oceans)"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-04"
   },
   "Allee": {
    "url": "https://en.wiktionary.org/wiki/Allee#German",
@@ -131,6 +155,18 @@
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-27"
   },
+  "Amtssprache": {
+   "url": "https://en.wiktionary.org/wiki/Amtssprache#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "official language"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-04"
+  },
   "Antwort": {
    "url": "https://en.wiktionary.org/wiki/Antwort#German",
    "status": 200,
@@ -142,6 +178,42 @@
    ],
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-27"
+  },
+  "Artikel": {
+   "url": "https://en.wiktionary.org/wiki/Artikel#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "article"
+    },
+    {
+     "pos": "Noun",
+     "text": "article, item, ware"
+    },
+    {
+     "pos": "Noun",
+     "text": "article, paragraph, clause"
+    },
+    {
+     "pos": "Noun",
+     "text": "article"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-02"
+  },
+  "Asien": {
+   "url": "https://en.wiktionary.org/wiki/Asien#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Proper noun",
+     "text": "Asia (the largest continent, located between Europe and the Pacific Ocean)"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-04"
   },
   "Auf Wiedersehen": {
    "url": "https://www.dict.cc/?s=Auf+Wiedersehen",
@@ -270,6 +342,26 @@
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-27"
   },
+  "Aussagesatz": {
+   "url": "https://www.dict.cc/?s=Aussagesatz",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "",
+     "text": "statement"
+    },
+    {
+     "pos": "",
+     "text": "declarative sentence"
+    },
+    {
+     "pos": "",
+     "text": "clause of statement"
+    }
+   ],
+   "dictionary": "dict.cc",
+   "fetchedOn": "2026-10-03"
+  },
   "Australien": {
    "url": "https://en.wiktionary.org/wiki/Australien#German",
    "status": 200,
@@ -298,6 +390,34 @@
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-27"
   },
+  "Bayern": {
+   "url": "https://en.wiktionary.org/wiki/Bayern#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Proper noun",
+     "text": "Bavaria (a historic region, former duchy, former kingdom, and modern state of Germany; the modern state includes parts of historical Swabia and Franconia as well as historical Bavaria)"
+    },
+    {
+     "pos": "Proper noun",
+     "text": "FC Bayern München, a football club from Bavaria"
+    },
+    {
+     "pos": "Noun",
+     "text": "inflection of Bayer:\ngenitive/dative/accusative singular\nall-case plural"
+    },
+    {
+     "pos": "Noun",
+     "text": "genitive/dative/accusative singular"
+    },
+    {
+     "pos": "Noun",
+     "text": "all-case plural"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-03"
+  },
   "Begrüßung": {
    "url": "https://en.wiktionary.org/wiki/Begr%C3%BC%C3%9Fung#German",
    "status": 200,
@@ -309,6 +429,18 @@
    ],
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-27"
+  },
+  "Belgien": {
+   "url": "https://en.wiktionary.org/wiki/Belgien#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Proper noun",
+     "text": "Belgium (a country in Western Europe that has borders with the Netherlands, Germany, Luxembourg and France)"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-04"
   },
   "Beruf": {
    "url": "https://en.wiktionary.org/wiki/Beruf#German",
@@ -337,6 +469,22 @@
    ],
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-27"
+  },
+  "Bestellung": {
+   "url": "https://en.wiktionary.org/wiki/Bestellung#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "order, request for a product"
+    },
+    {
+     "pos": "Noun",
+     "text": "purchase order"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-03"
   },
   "Beziehung": {
    "url": "https://en.wiktionary.org/wiki/Beziehung#German",
@@ -456,6 +604,30 @@
    "dictionary": "dict.cc",
    "fetchedOn": "2026-09-25"
   },
+  "Brot": {
+   "url": "https://en.wiktionary.org/wiki/Brot#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "bread"
+    },
+    {
+     "pos": "Noun",
+     "text": "loaf of bread"
+    },
+    {
+     "pos": "Noun",
+     "text": "slice of bread; sandwich"
+    },
+    {
+     "pos": "Noun",
+     "text": "livelihood, subsistence"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-04"
+  },
   "Bruder": {
    "url": "https://en.wiktionary.org/wiki/Bruder#German",
    "status": 200,
@@ -477,6 +649,26 @@
    "definitions": [],
    "dictionary": "dict.cc",
    "fetchedOn": "2026-09-25"
+  },
+  "Bundesland": {
+   "url": "https://en.wiktionary.org/wiki/Bundesland#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "federal state (non-sovereign state)"
+    },
+    {
+     "pos": "Noun",
+     "text": "One of the 16 federal states of Germany"
+    },
+    {
+     "pos": "Noun",
+     "text": "One of the 9 federal states of Austria"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-03"
   },
   "Bäcker": {
    "url": "https://en.wiktionary.org/wiki/B%C3%A4cker#German",
@@ -611,6 +803,54 @@
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-27"
   },
+  "Durst": {
+   "url": "https://en.wiktionary.org/wiki/Durst#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "thirst"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-02"
+  },
+  "Dänemark": {
+   "url": "https://en.wiktionary.org/wiki/D%C3%A4nemark#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Proper noun",
+     "text": "Denmark (a country in Northern Europe)"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-04"
+  },
+  "Dänisch": {
+   "url": "https://en.wiktionary.org/wiki/D%C3%A4nisch#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Proper noun",
+     "text": "Danish (language)"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-04"
+  },
+  "Einladung": {
+   "url": "https://en.wiktionary.org/wiki/Einladung#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "invitation"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-03"
+  },
   "Eltern": {
    "url": "https://en.wiktionary.org/wiki/Eltern#German",
    "status": 200,
@@ -689,6 +929,30 @@
    ],
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-28"
+  },
+  "Fahrradladen": {
+   "url": "https://www.dict.cc/?s=Fahrradladen",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "",
+     "text": "cyclery"
+    },
+    {
+     "pos": "",
+     "text": "bicycle shop"
+    },
+    {
+     "pos": "",
+     "text": "bike shop"
+    },
+    {
+     "pos": "",
+     "text": "cycle shop"
+    }
+   ],
+   "dictionary": "dict.cc",
+   "fetchedOn": "2026-10-01"
   },
   "Familie": {
    "url": "https://en.wiktionary.org/wiki/Familie#German",
@@ -860,6 +1124,22 @@
    ],
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-30"
+  },
+  "Genus": {
+   "url": "https://en.wiktionary.org/wiki/Genus#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "gender (of substantives, pronouns etc.)"
+    },
+    {
+     "pos": "Noun",
+     "text": "voice, gender (of verbs)"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-02"
   },
   "Geschwister": {
    "url": "https://en.wiktionary.org/wiki/Geschwister#German",
@@ -1107,6 +1387,30 @@
    "dictionary": "dict.cc",
    "fetchedOn": "2026-09-25"
   },
+  "Himmelsrichtung": {
+   "url": "https://en.wiktionary.org/wiki/Himmelsrichtung#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "compass point"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-03"
+  },
+  "Hunger": {
+   "url": "https://en.wiktionary.org/wiki/Hunger#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "hunger"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-02"
+  },
   "Ich buchstabiere": {
    "url": "https://www.dict.cc/?s=Ich+buchstabiere",
    "status": 404,
@@ -1140,6 +1444,18 @@
     }
    ],
    "fetchedOn": "2026-09-25"
+  },
+  "Indefinitpronomen": {
+   "url": "https://en.wiktionary.org/wiki/Indefinitpronomen#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "indefinite pronoun"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-04"
   },
   "Indien": {
    "url": "https://en.wiktionary.org/wiki/Indien#German",
@@ -1200,6 +1516,70 @@
    ],
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-27"
+  },
+  "Kaffee": {
+   "url": "https://en.wiktionary.org/wiki/Kaffee#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "coffee (beverage made by infusing coffee beans in hot water)"
+    },
+    {
+     "pos": "Noun",
+     "text": "afternoon coffee, afternoon tea, coffee and cake (afternoon meal in northern and central Germany, particularly on Sundays)"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-02"
+  },
+  "Kanada": {
+   "url": "https://en.wiktionary.org/wiki/Kanada#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Proper noun",
+     "text": "Canada (a country in North America)"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-04"
+  },
+  "Karte": {
+   "url": "https://en.wiktionary.org/wiki/Karte#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "card (flat, normally rectangular piece of stiff paper, plastic etc.)"
+    },
+    {
+     "pos": "Noun",
+     "text": "ellipsis of Spielkarte: playing card"
+    },
+    {
+     "pos": "Noun",
+     "text": "ellipsis of Landkarte: map"
+    },
+    {
+     "pos": "Noun",
+     "text": "ellipsis of Speisekarte: menu"
+    },
+    {
+     "pos": "Noun",
+     "text": "ellipsis of Eintrittskarte or Fahrkarte: ticket"
+    },
+    {
+     "pos": "Noun",
+     "text": "ellipsis of Bankkarte or Kreditkarte: debit card, credit card"
+    },
+    {
+     "pos": "Noun",
+     "text": "coordinate chart"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-03"
   },
   "Kartennummer": {
    "url": "https://www.dict.cc/?s=Kartennummer",
@@ -1295,6 +1675,18 @@
    ],
    "dictionary": "dict.cc",
    "fetchedOn": "2026-09-27"
+  },
+  "Köln": {
+   "url": "https://en.wiktionary.org/wiki/K%C3%B6ln#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Proper noun",
+     "text": "Cologne (the largest city in North Rhine-Westphalia, in northwestern Germany)"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-03"
   },
   "LKW": {
    "url": "https://en.wiktionary.org/wiki/LKW#German",
@@ -1427,6 +1819,22 @@
    "definitions": [],
    "fetchedOn": "2026-09-25"
   },
+  "Leute": {
+   "url": "https://en.wiktionary.org/wiki/Leute#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "people (several individual persons, a group of people in general, esp. of one kind or another), folk (folks), peeps , guys (boys and/or girls)"
+    },
+    {
+     "pos": "Noun",
+     "text": "nominative/accusative/genitive plural of Leut"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-03"
+  },
   "Liebe Grüße": {
    "url": "https://www.dict.cc/?s=Liebe+Gr%C3%BC%C3%9Fe",
    "status": 200,
@@ -1450,6 +1858,50 @@
    ],
    "dictionary": "dict.cc",
    "fetchedOn": "2026-09-25"
+  },
+  "Lieblingsitaliener": {
+   "url": "https://www.dict.cc/?s=Lieblingsitaliener",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "",
+     "text": "fave Italian restaurant"
+    },
+    {
+     "pos": "",
+     "text": "favorite Italian restaurant"
+    },
+    {
+     "pos": "",
+     "text": "favourite Italian restaurant"
+    }
+   ],
+   "dictionary": "dict.cc",
+   "fetchedOn": "2026-10-03"
+  },
+  "Luxemburg": {
+   "url": "https://en.wiktionary.org/wiki/Luxemburg#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Proper noun",
+     "text": "Luxembourg (a small country in Western Europe)"
+    },
+    {
+     "pos": "Proper noun",
+     "text": "Luxembourg (a province of Wallonia, Belgium)"
+    },
+    {
+     "pos": "Proper noun",
+     "text": "Luxembourg, Luxembourg City (the capital city of Luxembourg)"
+    },
+    {
+     "pos": "Proper noun",
+     "text": "Luxembourg (one of the twelve cantons of the country of Luxembourg, which includes its capital city)"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-04"
   },
   "Mach’s gut": {
    "url": "https://www.dict.cc/?s=Mach%E2%80%99s+gut",
@@ -1545,6 +1997,18 @@
    ],
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-28"
+  },
+  "Marokko": {
+   "url": "https://en.wiktionary.org/wiki/Marokko#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Proper noun",
+     "text": "Morocco (a country in North Africa)"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-04"
   },
   "Meeting": {
    "url": "https://en.wiktionary.org/wiki/Meeting#German",
@@ -1657,6 +2121,34 @@
    ],
    "fetchedOn": "2026-09-25"
   },
+  "München": {
+   "url": "https://en.wiktionary.org/wiki/M%C3%BCnchen#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Proper noun",
+     "text": "Munich (the capital and largest city of Bavaria, Germany)"
+    },
+    {
+     "pos": "Proper noun",
+     "text": "a rural district of the Upper Bavaria region, Bavaria, partially surrounding but not including the city of Munich, which nevertheless serves as its administrative seat"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-03"
+  },
+  "Nachbarland": {
+   "url": "https://en.wiktionary.org/wiki/Nachbarland#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "neighbouring country"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-04"
+  },
   "Nachname": {
    "url": "https://en.wiktionary.org/wiki/Nachname#German",
    "status": 200,
@@ -1667,6 +2159,102 @@
     }
    ],
    "fetchedOn": "2026-09-25"
+  },
+  "Nachricht": {
+   "url": "https://en.wiktionary.org/wiki/Nachricht#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "news, piece of news, notification"
+    },
+    {
+     "pos": "Noun",
+     "text": "message (information which is sent from a source to a receiver)"
+    },
+    {
+     "pos": "Noun",
+     "text": "news (kind of broadcast)"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-03"
+  },
+  "Niederlande": {
+   "url": "https://en.wiktionary.org/wiki/Niederlande#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Proper noun",
+     "text": "Netherlands (the main constituent country of the Kingdom of the Netherlands, located primarily in Western Europe bordering Germany and Belgium)"
+    },
+    {
+     "pos": "Proper noun",
+     "text": "Netherlands (a country in Western Europe, consisting of four constituent countries: the Netherlands per se, Aruba, Curaçao and Sint Maarten the Kingdom of the Netherlands)"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-04"
+  },
+  "Niederländisch": {
+   "url": "https://en.wiktionary.org/wiki/Niederl%C3%A4ndisch#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Proper noun",
+     "text": "Dutch, the Dutch language"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-04"
+  },
+  "Nomen": {
+   "url": "https://en.wiktionary.org/wiki/Nomen#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "any declinable part of speech, i.e. substantive, adjective, numeral, article, pronoun"
+    },
+    {
+     "pos": "Noun",
+     "text": "substantive or adjective; a noun (broad sense)"
+    },
+    {
+     "pos": "Noun",
+     "text": "substantive; noun (narrow sense)"
+    },
+    {
+     "pos": "Noun",
+     "text": "name"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-02"
+  },
+  "Nordosten": {
+   "url": "https://en.wiktionary.org/wiki/Nordosten#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "northeast"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-03"
+  },
+  "Nordwesten": {
+   "url": "https://en.wiktionary.org/wiki/Nordwesten#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "northwest"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-04"
   },
   "Nummer": {
    "url": "https://en.wiktionary.org/wiki/Nummer#German",
@@ -1860,6 +2448,18 @@
    ],
    "fetchedOn": "2026-09-25"
   },
+  "Pizza": {
+   "url": "https://en.wiktionary.org/wiki/Pizza#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "pizza"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-03"
+  },
   "Platz": {
    "url": "https://en.wiktionary.org/wiki/Platz#German",
    "status": 200,
@@ -1920,6 +2520,30 @@
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-25"
   },
+  "Polen": {
+   "url": "https://en.wiktionary.org/wiki/Polen#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Proper noun",
+     "text": "Poland (a country in Central Europe)"
+    },
+    {
+     "pos": "Noun",
+     "text": "inflection of Pole:\ngenitive/dative/accusative singular\nnominative/genitive/dative/accusative plural"
+    },
+    {
+     "pos": "Noun",
+     "text": "genitive/dative/accusative singular"
+    },
+    {
+     "pos": "Noun",
+     "text": "nominative/genitive/dative/accusative plural"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-04"
+  },
   "Polizei": {
    "url": "https://en.wiktionary.org/wiki/Polizei#German",
    "status": 200,
@@ -1950,6 +2574,18 @@
    "definitions": [],
    "dictionary": "dict.cc",
    "fetchedOn": "2026-09-28"
+  },
+  "Polnisch": {
+   "url": "https://en.wiktionary.org/wiki/Polnisch#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Proper noun",
+     "text": "the Polish language"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-04"
   },
   "Postleitzahl": {
    "url": "https://en.wiktionary.org/wiki/Postleitzahl#German",
@@ -1993,6 +2629,18 @@
    ],
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-25"
+  },
+  "Präteritum": {
+   "url": "https://en.wiktionary.org/wiki/Pr%C3%A4teritum#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "preterite (preterite tense; past tense)"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-03"
   },
   "Punkt": {
    "url": "https://en.wiktionary.org/wiki/Punkt#German",
@@ -2077,6 +2725,50 @@
    ],
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-27"
+  },
+  "Rom": {
+   "url": "https://en.wiktionary.org/wiki/Rom#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Proper noun",
+     "text": "Rome:\nRome (a major city, the capital of Italy and the Italian region of Lazio, located on the Tiber River; the ancient capital of the Roman Empire)\nRome (a metropolitan city of Lazio, Italy)\nRome, Ancient Rome (an ancient empire based out of the city of Rome, covering vast territories in Europe, Asia and Africa; in full, Roman Empire)\nRome (a former province of Italy)\nThe Italian government\nThe Holy See (Vatican)\nConstantinople, Byzantium"
+    },
+    {
+     "pos": "Proper noun",
+     "text": "Rome (a major city, the capital of Italy and the Italian region of Lazio, located on the Tiber River; the ancient capital of the Roman Empire)"
+    },
+    {
+     "pos": "Proper noun",
+     "text": "Rome (a metropolitan city of Lazio, Italy)"
+    },
+    {
+     "pos": "Proper noun",
+     "text": "Rome, Ancient Rome (an ancient empire based out of the city of Rome, covering vast territories in Europe, Asia and Africa; in full, Roman Empire)"
+    },
+    {
+     "pos": "Proper noun",
+     "text": "Rome (a former province of Italy)"
+    },
+    {
+     "pos": "Proper noun",
+     "text": "The Italian government"
+    },
+    {
+     "pos": "Proper noun",
+     "text": "The Holy See (Vatican)"
+    },
+    {
+     "pos": "Proper noun",
+     "text": "Constantinople, Byzantium"
+    },
+    {
+     "pos": "Noun",
+     "text": "Rom (member of the Roma people), Romani"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-04"
   },
   "Rotes Kreuz": {
    "url": "https://en.wiktionary.org/wiki/Rotes_Kreuz#German",
@@ -2168,6 +2860,22 @@
    ],
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-27"
+  },
+  "Satzfrage": {
+   "url": "https://www.dict.cc/?s=Satzfrage",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "",
+     "text": "polar question"
+    },
+    {
+     "pos": "",
+     "text": "yes-no question"
+    }
+   ],
+   "dictionary": "dict.cc",
+   "fetchedOn": "2026-10-03"
   },
   "Schlafsack": {
    "url": "https://en.wiktionary.org/wiki/Schlafsack#German",
@@ -2541,6 +3249,26 @@
    ],
    "fetchedOn": "2026-09-25"
   },
+  "Subjekt": {
+   "url": "https://en.wiktionary.org/wiki/Subjekt#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "subject"
+    },
+    {
+     "pos": "Noun",
+     "text": "person"
+    },
+    {
+     "pos": "Noun",
+     "text": "subject"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-03"
+  },
   "Suche": {
    "url": "https://en.wiktionary.org/wiki/Suche#German",
    "status": 200,
@@ -2556,6 +3284,25 @@
    ],
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-30"
+  },
+  "Südlich von Ägypten liegt der Sudan": {
+   "url": "https://www.dict.cc/?s=S%C3%BCdlich+von+%C3%84gypten+liegt+der+Sudan",
+   "status": 404,
+   "definitions": [],
+   "dictionary": "dict.cc",
+   "fetchedOn": "2026-10-05"
+  },
+  "Südwesten": {
+   "url": "https://en.wiktionary.org/wiki/S%C3%BCdwesten#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "southwest"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-03"
   },
   "Tach": {
    "url": "https://en.wiktionary.org/wiki/Tach#German",
@@ -2713,6 +3460,30 @@
    ],
    "fetchedOn": "2026-09-25"
   },
+  "Tschechien": {
+   "url": "https://en.wiktionary.org/wiki/Tschechien#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Proper noun",
+     "text": "Czech Republic, Czechia (a country in Central Europe; official name: Tschechische Republik)"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-04"
+  },
+  "Tschechisch": {
+   "url": "https://en.wiktionary.org/wiki/Tschechisch#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Proper noun",
+     "text": "Czech (language)"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-04"
+  },
   "Tschüss": {
    "url": "https://www.dict.cc/?s=Tsch%C3%BCss",
    "status": 200,
@@ -2843,6 +3614,18 @@
    ],
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-27"
+  },
+  "Unterricht": {
+   "url": "https://en.wiktionary.org/wiki/Unterricht#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "lesson, class, instruction, education"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-05"
   },
   "Vater": {
    "url": "https://en.wiktionary.org/wiki/Vater#German",
@@ -3133,6 +3916,26 @@
    "dictionary": "dict.cc",
    "fetchedOn": "2026-09-25"
   },
+  "Wien": {
+   "url": "https://en.wiktionary.org/wiki/Wien#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Proper noun",
+     "text": "Vienna (the capital city of Austria)"
+    },
+    {
+     "pos": "Proper noun",
+     "text": "Vienna (a state of Austria)"
+    },
+    {
+     "pos": "Proper noun",
+     "text": "Wien (a river in Austria, flowing through Vienna)"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-03"
+  },
   "Willst du": {
    "url": "https://www.dict.cc/?s=Willst+du",
    "status": 404,
@@ -3385,6 +4188,42 @@
    ],
    "fetchedOn": "2026-09-25"
   },
+  "alle": {
+   "url": "https://en.wiktionary.org/wiki/alle#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Pronoun",
+     "text": "inflection of all (“all”):\nnominative/accusative singular feminine\nnominative/accusative plural"
+    },
+    {
+     "pos": "Pronoun",
+     "text": "nominative/accusative singular feminine"
+    },
+    {
+     "pos": "Pronoun",
+     "text": "nominative/accusative plural"
+    },
+    {
+     "pos": "Determiner",
+     "text": "inflection of all (“all”):\nnominative/accusative singular feminine\nnominative/accusative plural"
+    },
+    {
+     "pos": "Determiner",
+     "text": "nominative/accusative singular feminine"
+    },
+    {
+     "pos": "Determiner",
+     "text": "nominative/accusative plural"
+    },
+    {
+     "pos": "Adjective",
+     "text": "finished; gone"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-03"
+  },
   "alles": {
    "url": "https://en.wiktionary.org/wiki/alles#German",
    "status": 200,
@@ -3511,6 +4350,38 @@
    ],
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-27"
+  },
+  "anfangen": {
+   "url": "https://en.wiktionary.org/wiki/anfangen#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Verb",
+     "text": "to begin; to commence"
+    },
+    {
+     "pos": "Verb",
+     "text": "to start .mw-parser-output .object-usage-tag{font-style:italic}.mw-parser-output .deprecated{color:var(--wikt-palette-grey-lime-8,olivedrab)}[with zu (+ infinitive) ‘doing something’]"
+    },
+    {
+     "pos": "Verb",
+     "text": "to begin, to start [with mit (+ dative) ‘something’]"
+    },
+    {
+     "pos": "Verb",
+     "text": "to start; to keep talking about [with von (+ dative) ‘a topic’]"
+    },
+    {
+     "pos": "Verb",
+     "text": "to begin something; to start something"
+    },
+    {
+     "pos": "Verb",
+     "text": "to put (something) to good use, to do [with accusative ‘something good, etc.’ and mit (+ dative) ‘with something’]"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-03"
   },
   "ankommen": {
    "url": "https://en.wiktionary.org/wiki/ankommen#German",
@@ -3702,6 +4573,34 @@
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-27"
   },
+  "bar": {
+   "url": "https://en.wiktionary.org/wiki/bar#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Adjective",
+     "text": "bare"
+    },
+    {
+     "pos": "Adverb",
+     "text": "in cash"
+    },
+    {
+     "pos": "Adverb",
+     "text": "pure"
+    },
+    {
+     "pos": "Preposition",
+     "text": "without"
+    },
+    {
+     "pos": "Determiner",
+     "text": "obsolete form of paar (“a few, couple”)"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-03"
+  },
   "bedanken": {
    "url": "https://en.wiktionary.org/wiki/bedanken#German",
    "status": 200,
@@ -3766,6 +4665,54 @@
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-27"
   },
+  "beide": {
+   "url": "https://en.wiktionary.org/wiki/beide#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Determiner",
+     "text": "both"
+    },
+    {
+     "pos": "Determiner",
+     "text": "(the) two"
+    },
+    {
+     "pos": "Pronoun",
+     "text": "both"
+    },
+    {
+     "pos": "Pronoun",
+     "text": "(the) two"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-03"
+  },
+  "bekommen": {
+   "url": "https://en.wiktionary.org/wiki/bekommen#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Verb",
+     "text": "to receive; to get [auxiliary haben]"
+    },
+    {
+     "pos": "Verb",
+     "text": "to catch [auxiliary haben]"
+    },
+    {
+     "pos": "Verb",
+     "text": "to agree with, to sit well with .mw-parser-output .object-usage-tag{font-style:italic}.mw-parser-output .deprecated{color:var(--wikt-palette-grey-lime-8,olivedrab)}[with dative ‘someone’] [auxiliary sein]"
+    },
+    {
+     "pos": "Verb",
+     "text": "to get , forms the so-called dative passive [auxiliary haben]"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-03"
+  },
   "bestehen": {
    "url": "https://en.wiktionary.org/wiki/bestehen#German",
    "status": 200,
@@ -3789,6 +4736,22 @@
    ],
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-27"
+  },
+  "besuchen": {
+   "url": "https://en.wiktionary.org/wiki/besuchen#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Verb",
+     "text": "to visit, to see"
+    },
+    {
+     "pos": "Verb",
+     "text": "to attend"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-03"
   },
   "bis": {
    "url": "https://en.wiktionary.org/wiki/bis#German",
@@ -4053,6 +5016,18 @@
    ],
    "fetchedOn": "2026-09-25"
   },
+  "deshalb": {
+   "url": "https://en.wiktionary.org/wiki/deshalb#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Adverb",
+     "text": "therefore; for that (reason), because of that"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-03"
+  },
   "deutsch": {
    "url": "https://en.wiktionary.org/wiki/deutsch#German",
    "status": 200,
@@ -4133,6 +5108,94 @@
    ],
    "fetchedOn": "2026-09-25"
   },
+  "dürfen": {
+   "url": "https://en.wiktionary.org/wiki/d%C3%BCrfen#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Verb",
+     "text": "to be allowed (to do something); to be permitted (to do something); may"
+    },
+    {
+     "pos": "Verb",
+     "text": "to be allowed or permitted to do something implied or previously stated; may"
+    },
+    {
+     "pos": "Verb",
+     "text": "expresses a prediction with mild doubt, that something is estimated or probable"
+    },
+    {
+     "pos": "Verb",
+     "text": "must, to have [got] to, gotta"
+    },
+    {
+     "pos": "Verb",
+     "text": "to need, to require"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-04"
+  },
+  "echt": {
+   "url": "https://en.wiktionary.org/wiki/echt#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Adjective",
+     "text": "authentic, genuine, true"
+    },
+    {
+     "pos": "Adjective",
+     "text": "real; factual"
+    },
+    {
+     "pos": "Adjective",
+     "text": "proper"
+    },
+    {
+     "pos": "Adverb",
+     "text": "really; indeed"
+    },
+    {
+     "pos": "Interjection",
+     "text": "expresses disbelief or shock at new information"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-05"
+  },
+  "einfach": {
+   "url": "https://en.wiktionary.org/wiki/einfach#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Adjective",
+     "text": "easy"
+    },
+    {
+     "pos": "Adjective",
+     "text": "simple, plain, straightforward"
+    },
+    {
+     "pos": "Adjective",
+     "text": "single; one-way"
+    },
+    {
+     "pos": "Adjective",
+     "text": "easy-to-use"
+    },
+    {
+     "pos": "Adverb",
+     "text": "easily"
+    },
+    {
+     "pos": "Adverb",
+     "text": "just, simply"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-04"
+  },
   "eingetragen": {
    "url": "https://en.wiktionary.org/wiki/eingetragen#German",
    "status": 200,
@@ -4165,6 +5228,34 @@
    "status": 404,
    "definitions": [],
    "fetchedOn": "2026-09-25"
+  },
+  "einmal": {
+   "url": "https://en.wiktionary.org/wiki/einmal#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Adverb",
+     "text": "once, one time (one and only one time)"
+    },
+    {
+     "pos": "Adverb",
+     "text": "once (formerly; during some period in the past)"
+    },
+    {
+     "pos": "Adverb",
+     "text": "sometime (at an indefinite but stated time in the past or future)"
+    },
+    {
+     "pos": "Adverb",
+     "text": "first of all, for starters, firstly (as an initial point; before any other considerations)"
+    },
+    {
+     "pos": "Adverb",
+     "text": "one order (of food)"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-03"
   },
   "eins": {
    "url": "https://en.wiktionary.org/wiki/eins#German",
@@ -4301,6 +5392,42 @@
    ],
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-27"
+  },
+  "es gibt": {
+   "url": "https://en.wiktionary.org/wiki/es_gibt#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Verb",
+     "text": "there is, there are"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-01"
+  },
+  "etwas": {
+   "url": "https://en.wiktionary.org/wiki/etwas#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Pronoun",
+     "text": "something"
+    },
+    {
+     "pos": "Adverb",
+     "text": "somewhat, slightly"
+    },
+    {
+     "pos": "Adverb",
+     "text": "a little, a bit"
+    },
+    {
+     "pos": "Determiner",
+     "text": "some, a bit of"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-01"
   },
   "euer": {
    "url": "https://en.wiktionary.org/wiki/euer#German",
@@ -4551,6 +5678,74 @@
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-27"
   },
+  "gar nicht": {
+   "url": "https://en.wiktionary.org/wiki/gar_nicht#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Adverb",
+     "text": "not at all, not one bit, no way, never, in no manner"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-04"
+  },
+  "gehen": {
+   "url": "https://en.wiktionary.org/wiki/gehen#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Verb",
+     "text": "to go, to walk"
+    },
+    {
+     "pos": "Verb",
+     "text": "to leave"
+    },
+    {
+     "pos": "Verb",
+     "text": "to leave, to take off (aeroplane, train)"
+    },
+    {
+     "pos": "Verb",
+     "text": "to be going; to be all right .mw-parser-output .object-usage-tag{font-style:italic}.mw-parser-output .deprecated{color:var(--wikt-palette-grey-lime-8,olivedrab)}[with dative ‘for someone’ and predicate adjective ‘in a particular way’]"
+    },
+    {
+     "pos": "Verb",
+     "text": "to be possible"
+    },
+    {
+     "pos": "Verb",
+     "text": "to work, to function (of a machine, method or the like)"
+    },
+    {
+     "pos": "Verb",
+     "text": "to last, to go for, to go on, to be in progress"
+    },
+    {
+     "pos": "Verb",
+     "text": "to sit, to rise, to expand (of dough etc.)"
+    },
+    {
+     "pos": "Verb",
+     "text": "to be (on); to be paid for (by) [with auf (+ accusative) ‘the payer’]"
+    },
+    {
+     "pos": "Verb",
+     "text": "to be approaching [with auf (+ accusative) ‘a specific time’]"
+    },
+    {
+     "pos": "Verb",
+     "text": "to go one's way, to make one's way (of a path, destination), to go separate ways [with genitive and Weg]"
+    },
+    {
+     "pos": "Verb",
+     "text": "to be hard (on), to be (specifically) exhausting (for) [with auf (+ accusative) or in (+ accusative) ‘on/for a body part or sense’]"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-04"
+  },
   "genau": {
    "url": "https://en.wiktionary.org/wiki/genau#German",
    "status": 200,
@@ -4739,6 +5934,18 @@
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-27"
   },
+  "guten Appetit": {
+   "url": "https://en.wiktionary.org/wiki/guten_Appetit#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Interjection",
+     "text": "bon appétit, enjoy your meal"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-03"
+  },
   "haben": {
    "url": "https://en.wiktionary.org/wiki/haben#German",
    "status": 200,
@@ -4878,6 +6085,30 @@
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-30"
   },
+  "holen": {
+   "url": "https://en.wiktionary.org/wiki/holen#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Verb",
+     "text": "to (go) get, to fetch (to go somewhere and take something to bring back)"
+    },
+    {
+     "pos": "Verb",
+     "text": "to (go) get, to fetch (to seek out a person and bring them to a location)"
+    },
+    {
+     "pos": "Verb",
+     "text": "to get, to cop (to buy for one's benefit/entertainment)"
+    },
+    {
+     "pos": "Verb",
+     "text": "to catch, to get"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-05"
+  },
   "hundert": {
    "url": "https://en.wiktionary.org/wiki/hundert#German",
    "status": 200,
@@ -4968,6 +6199,38 @@
    ],
    "fetchedOn": "2026-09-25"
   },
+  "immer": {
+   "url": "https://en.wiktionary.org/wiki/immer#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Adverb",
+     "text": "always\nat all times without exception"
+    },
+    {
+     "pos": "Adverb",
+     "text": "at all times without exception"
+    },
+    {
+     "pos": "Adverb",
+     "text": "very often; all the time; constantly"
+    },
+    {
+     "pos": "Adverb",
+     "text": "every time; whenever some precondition is given"
+    },
+    {
+     "pos": "Adverb",
+     "text": "to a greater degree over time, more and more"
+    },
+    {
+     "pos": "Adverb",
+     "text": "used to emphasize another adverb of time, which itself is stressed"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-03"
+  },
   "in dem": {
    "url": "https://www.dict.cc/?s=in+dem",
    "status": 404,
@@ -5045,6 +6308,18 @@
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-27"
   },
+  "jedes Mal": {
+   "url": "https://en.wiktionary.org/wiki/jedes_Mal#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Adverb",
+     "text": "every time"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-03"
+  },
   "jemand": {
    "url": "https://en.wiktionary.org/wiki/jemand#German",
    "status": 200,
@@ -5096,6 +6371,78 @@
    ],
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-27"
+  },
+  "klappen": {
+   "url": "https://en.wiktionary.org/wiki/klappen#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Verb",
+     "text": "to clap (make a soft clapping sound, particularly of something being closed)"
+    },
+    {
+     "pos": "Verb",
+     "text": "to fold; to flip; to bend (to close or open a hinge)"
+    },
+    {
+     "pos": "Verb",
+     "text": "to work out, to succeed, to function correctly, etc."
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-01"
+  },
+  "klar": {
+   "url": "https://en.wiktionary.org/wiki/klar#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Adjective",
+     "text": "clear; transparent; bright"
+    },
+    {
+     "pos": "Adjective",
+     "text": "clear; unambiguous; understood"
+    },
+    {
+     "pos": "Adverb",
+     "text": "obviously, surely"
+    },
+    {
+     "pos": "Interjection",
+     "text": "okay!; sure!; all right!; spontaneous agreement to a proposition"
+    },
+    {
+     "pos": "Interjection",
+     "text": "sure!, of course!; strong agreement to a statement"
+    },
+    {
+     "pos": "Interjection",
+     "text": "yeah, right!; sarcastic expression of disbelief"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-01"
+  },
+  "klein": {
+   "url": "https://en.wiktionary.org/wiki/klein#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Adjective",
+     "text": "small, little, wee"
+    },
+    {
+     "pos": "Adjective",
+     "text": "small, little, young (not grown up)"
+    },
+    {
+     "pos": "Adjective",
+     "text": "insignificant (of little influence or means; of people)"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-01"
   },
   "kommen": {
    "url": "https://en.wiktionary.org/wiki/kommen#German",
@@ -5374,6 +6721,74 @@
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-27"
   },
+  "letzte": {
+   "url": "https://en.wiktionary.org/wiki/letzte#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Adjective",
+     "text": "last"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-03"
+  },
+  "letzter": {
+   "url": "https://en.wiktionary.org/wiki/letzter#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Adjective",
+     "text": "inflection of letzte:\nstrong/mixed nominative masculine singular\nstrong genitive/dative feminine singular\nstrong genitive plural"
+    },
+    {
+     "pos": "Adjective",
+     "text": "strong/mixed nominative masculine singular"
+    },
+    {
+     "pos": "Adjective",
+     "text": "strong genitive/dative feminine singular"
+    },
+    {
+     "pos": "Adjective",
+     "text": "strong genitive plural"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-03"
+  },
+  "liegen": {
+   "url": "https://en.wiktionary.org/wiki/liegen#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Verb",
+     "text": "to lie (to be in a horizontal position)\nto lie down"
+    },
+    {
+     "pos": "Verb",
+     "text": "to lie down"
+    },
+    {
+     "pos": "Verb",
+     "text": "to be, to lie somewhere (of flat objects, also of inpatients in a hospital; otherwise use sitzen or stehen)"
+    },
+    {
+     "pos": "Verb",
+     "text": "to be located, to lie somewhere (of countries, towns, houses, etc.)"
+    },
+    {
+     "pos": "Verb",
+     "text": "to be, to stand (of indices, measurements)"
+    },
+    {
+     "pos": "Verb",
+     "text": "because of, due to, down to (within the responsibility or influence of; literally, to lie on someone or something) .mw-parser-output .object-usage-tag{font-style:italic}.mw-parser-output .deprecated{color:var(--wikt-palette-grey-lime-8,olivedrab)}[with an (+ dative)]"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-03"
+  },
   "man": {
    "url": "https://en.wiktionary.org/wiki/man#German",
    "status": 200,
@@ -5461,6 +6876,50 @@
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-27"
   },
+  "mitnehmen": {
+   "url": "https://en.wiktionary.org/wiki/mitnehmen#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Verb",
+     "text": "to take with; to carry along"
+    },
+    {
+     "pos": "Verb",
+     "text": "to pick up; to keep"
+    },
+    {
+     "pos": "Verb",
+     "text": "to take away"
+    },
+    {
+     "pos": "Verb",
+     "text": "to damage something; to drain or hurt someone (physically or emotionally)"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-04"
+  },
+  "mitspielen": {
+   "url": "https://en.wiktionary.org/wiki/mitspielen#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Verb",
+     "text": "to cooperate"
+    },
+    {
+     "pos": "Verb",
+     "text": "to play along"
+    },
+    {
+     "pos": "Verb",
+     "text": "to feature (in a film)"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-03"
+  },
   "moinsen": {
    "url": "https://en.wiktionary.org/wiki/moinsen#German",
    "status": 200,
@@ -5484,6 +6943,18 @@
    ],
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-27"
+  },
+  "möchten": {
+   "url": "https://en.wiktionary.org/wiki/m%C3%B6chten#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Verb",
+     "text": "first/third-person plural subjunctive II of mögen"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-01"
   },
   "mögen": {
    "url": "https://en.wiktionary.org/wiki/m%C3%B6gen#German",
@@ -5553,6 +7024,18 @@
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-27"
   },
+  "na ja": {
+   "url": "https://en.wiktionary.org/wiki/na_ja#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Interjection",
+     "text": "alternative form of naja"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-04"
+  },
   "nach": {
    "url": "https://en.wiktionary.org/wiki/nach#German",
    "status": 200,
@@ -5596,6 +7079,22 @@
    ],
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-27"
+  },
+  "naja": {
+   "url": "https://en.wiktionary.org/wiki/naja#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Interjection",
+     "text": "well"
+    },
+    {
+     "pos": "Interjection",
+     "text": "uh-huh, if you say so (expresses disagreement with what was said but an unwillingness to argue about it)"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-04"
   },
   "nehmen": {
    "url": "https://en.wiktionary.org/wiki/nehmen#German",
@@ -5755,6 +7254,18 @@
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-28"
   },
+  "noch nicht": {
+   "url": "https://en.wiktionary.org/wiki/noch_nicht#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Adverb",
+     "text": "not yet"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-03"
+  },
   "nochmal": {
    "url": "https://en.wiktionary.org/wiki/nochmal#German",
    "status": 200,
@@ -5793,6 +7304,18 @@
     }
    ],
    "fetchedOn": "2026-09-25"
+  },
+  "nächste Woche": {
+   "url": "https://www.dict.cc/?s=n%C3%A4chste+Woche",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "",
+     "text": "next week"
+    }
+   ],
+   "dictionary": "dict.cc",
+   "fetchedOn": "2026-10-03"
   },
   "ob": {
    "url": "https://en.wiktionary.org/wiki/ob#German",
@@ -5901,6 +7424,22 @@
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-25"
   },
+  "prost": {
+   "url": "https://en.wiktionary.org/wiki/prost#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Interjection",
+     "text": "cheers (the usual toast when drinking alcohol)"
+    },
+    {
+     "pos": "Interjection",
+     "text": "used as a response to belching or (less often) sneezing"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-02"
+  },
   "rausfinden": {
    "url": "https://en.wiktionary.org/wiki/rausfinden#German",
    "status": 200,
@@ -5912,6 +7451,26 @@
    ],
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-30"
+  },
+  "reisen": {
+   "url": "https://en.wiktionary.org/wiki/reisen#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Verb",
+     "text": "to travel"
+    },
+    {
+     "pos": "Verb",
+     "text": "to rise"
+    },
+    {
+     "pos": "Verb",
+     "text": "to fall"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-03"
   },
   "sagen": {
    "url": "https://en.wiktionary.org/wiki/sagen#German",
@@ -6104,6 +7663,18 @@
    ],
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-28"
+  },
+  "schön, dich zu sehen": {
+   "url": "https://www.dict.cc/?s=sch%C3%B6n%2C+dich+zu+sehen",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "",
+     "text": "Good to see you."
+    }
+   ],
+   "dictionary": "dict.cc",
+   "fetchedOn": "2026-10-03"
   },
   "sechs": {
    "url": "https://en.wiktionary.org/wiki/sechs#German",
@@ -6358,6 +7929,54 @@
    ],
    "fetchedOn": "2026-09-25"
   },
+  "sitzen": {
+   "url": "https://en.wiktionary.org/wiki/sitzen#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Verb",
+     "text": "to sit; to perch [auxiliary haben or sein]"
+    },
+    {
+     "pos": "Verb",
+     "text": "to stay (in one place); to remain; to be (in a particular place or state) [auxiliary haben or sein]"
+    },
+    {
+     "pos": "Verb",
+     "text": "to fit [auxiliary haben or sein]"
+    },
+    {
+     "pos": "Verb",
+     "text": "to be"
+    },
+    {
+     "pos": "Verb",
+     "text": "to do time; to spend time in jail [auxiliary haben]"
+    },
+    {
+     "pos": "Verb",
+     "text": "to hit home; to have a significant effect [auxiliary haben]"
+    },
+    {
+     "pos": "Verb",
+     "text": "to sit down"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-01"
+  },
+  "sogar": {
+   "url": "https://en.wiktionary.org/wiki/sogar#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Adverb",
+     "text": "(usable with nouns, verbs or modifiers) even, actually, in fact"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-03"
+  },
   "spielen": {
    "url": "https://en.wiktionary.org/wiki/spielen#German",
    "status": 200,
@@ -6394,6 +8013,30 @@
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-27"
   },
+  "stimmen": {
+   "url": "https://en.wiktionary.org/wiki/stimmen#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Verb",
+     "text": "to be right, to be correct, to be proper, to be true"
+    },
+    {
+     "pos": "Verb",
+     "text": "to vote .mw-parser-output .object-usage-tag{font-style:italic}.mw-parser-output .deprecated{color:var(--wikt-palette-grey-lime-8,olivedrab)}[with für (+ accusative) ‘for’]"
+    },
+    {
+     "pos": "Verb",
+     "text": "to tune"
+    },
+    {
+     "pos": "Verb",
+     "text": "to make (someone happy, sad, etc.)"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-03"
+  },
   "stoppen": {
    "url": "https://en.wiktionary.org/wiki/stoppen#German",
    "status": 200,
@@ -6414,6 +8057,18 @@
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-27"
   },
+  "südwestlich": {
+   "url": "https://en.wiktionary.org/wiki/s%C3%BCdwestlich#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Adjective",
+     "text": "southwestern"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-04"
+  },
   "tanken": {
    "url": "https://en.wiktionary.org/wiki/tanken#German",
    "status": 200,
@@ -6433,6 +8088,22 @@
    ],
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-27"
+  },
+  "teuer": {
+   "url": "https://en.wiktionary.org/wiki/teuer#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Adjective",
+     "text": "expensive, dear (high in price)"
+    },
+    {
+     "pos": "Adjective",
+     "text": "dear (precious, valued)"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-03"
   },
   "treffen": {
    "url": "https://en.wiktionary.org/wiki/treffen#German",
@@ -6462,6 +8133,30 @@
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-27"
   },
+  "trinken": {
+   "url": "https://en.wiktionary.org/wiki/trinken#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Verb",
+     "text": "to drink (to drink liquids (in bottles, glasses, etc.) by mouth)"
+    },
+    {
+     "pos": "Verb",
+     "text": "to drink, to imbibe (to consume alcoholic beverages)"
+    },
+    {
+     "pos": "Verb",
+     "text": "to drink; to toast (engage in a salutation (of someone), accompanying the raising of glasses while drinking alcohol)"
+    },
+    {
+     "pos": "Verb",
+     "text": "to drink one's fill; to drink to satiety"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-01"
+  },
   "tschö": {
    "url": "https://en.wiktionary.org/wiki/tsch%C3%B6#German",
    "status": 200,
@@ -6473,6 +8168,18 @@
    ],
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-27"
+  },
+  "typisch": {
+   "url": "https://en.wiktionary.org/wiki/typisch#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Adjective",
+     "text": "typical"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-04"
   },
   "um": {
    "url": "https://en.wiktionary.org/wiki/um#German",
@@ -6687,6 +8394,18 @@
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-27"
   },
+  "vielen Dank": {
+   "url": "https://en.wiktionary.org/wiki/vielen_Dank#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Phrase",
+     "text": "thank you very much"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-03"
+  },
   "vielleicht": {
    "url": "https://en.wiktionary.org/wiki/vielleicht#German",
    "status": 200,
@@ -6823,6 +8542,18 @@
     }
    ],
    "fetchedOn": "2026-09-25"
+  },
+  "weggehen": {
+   "url": "https://en.wiktionary.org/wiki/weggehen#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Verb",
+     "text": "to go away, leave, scram"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-03"
   },
   "welche": {
    "url": "https://en.wiktionary.org/wiki/welche#German",
@@ -7139,6 +8870,26 @@
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-27"
   },
+  "zahlen": {
+   "url": "https://en.wiktionary.org/wiki/zahlen#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Verb",
+     "text": "to pay .mw-parser-output .object-usage-tag{font-style:italic}.mw-parser-output .deprecated{color:var(--wikt-palette-grey-lime-8,olivedrab)}[with accusative ‘money, etc.’ and an (+ accusative) ‘to someone/something’]"
+    },
+    {
+     "pos": "Verb",
+     "text": "to pay, to atone [with für (+ accusative) ‘for something, e.g. a mistake’]"
+    },
+    {
+     "pos": "Verb",
+     "text": "to pay out"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-03"
+  },
   "zehn": {
    "url": "https://en.wiktionary.org/wiki/zehn#German",
    "status": 200,
@@ -7321,6 +9072,20 @@
     }
    ],
    "fetchedOn": "2026-09-25"
+  },
+  "Ägypten liegt im Osten von Nordafrika": {
+   "url": "https://www.dict.cc/?s=%C3%84gypten+liegt+im+Osten+von+Nordafrika",
+   "status": 404,
+   "definitions": [],
+   "dictionary": "dict.cc",
+   "fetchedOn": "2026-10-05"
+  },
+  "Östlich von Ägypten liegt das Rote Meer": {
+   "url": "https://www.dict.cc/?s=%C3%96stlich+von+%C3%84gypten+liegt+das+Rote+Meer",
+   "status": 404,
+   "definitions": [],
+   "dictionary": "dict.cc",
+   "fetchedOn": "2026-10-05"
   },
   "über": {
    "url": "https://en.wiktionary.org/wiki/%C3%BCber#German",

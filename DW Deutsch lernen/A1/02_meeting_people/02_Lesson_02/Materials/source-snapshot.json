@@ -1,6 +1,6 @@
 {
  "description": "Official source text captured by ANKI/harvest_sources.py for offline context verification.",
- "harvestedOn": "2026-09-27",
+ "harvestedOn": "2026-10-04",
  "sources": [
   {
    "id": "exercises",
@@ -259,10 +259,16 @@
      "title": "This is Nico",
      "texts": [
       "Wer ist das?",
+      "Das ist Nico.",
       "Woher kommt Nico?",
+      "Nico kommt aus Spanien.",
+      "New words: By saying \"Welche Sprachen spricht Nico?\", you are asking which languages Nico speaks.",
       "Welche Sprachen spricht er?",
+      "Nico spricht Spanisch und Englisch.",
       "Welche Sprache lernt er?",
-      "Welche Hobbys hat er?"
+      "Nico lernt Deutsch.",
+      "Welche Hobbys hat er?",
+      "Nicos Hobbys sind Fußball und Musik."
      ],
      "vocabularyTags": []
     },
@@ -274,6 +280,7 @@
       "Beispiel:\nDASSINDNICO, LISAUNDEMMA.\nDas sind Nico, Lisa und Emma.",
       "Das sind Lisa und Emma. Lisa ist Emmas Tante. Sie helfen Nico.",
       "DASSINDLISAUNDEMMA. LISAISTEMMASTANTE. SIEHELFENNICO.",
+      "Careful! Every word at the beginning of a sentence starts with upper case. Names always start with upper case.",
       "Das ist Nico. Er kommt aus Spanien. Nicos Tasche ist weg.",
       "DASISTNICO. ERKOMMTAUSSPANIEN. NICOSTASCHEISTWEG."
      ],

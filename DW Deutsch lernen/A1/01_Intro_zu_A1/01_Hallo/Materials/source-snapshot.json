@@ -1,6 +1,6 @@
 {
  "description": "Official source text captured by ANKI/harvest_sources.py for offline context verification.",
- "harvestedOn": "2026-09-27",
+ "harvestedOn": "2026-10-04",
  "sources": [
   {
    "id": "exercises",
@@ -190,7 +190,9 @@
       "Wie geht’s dir?",
       "Wie geht es Ihnen?",
       "Wähl die richtige Frage.",
-      "Wähl die richtige Frage."
+      "Info: There is no difference in meaning between \"Wie geht es dir?\", \"Wie geht’s dir?\" and \"Wie geht’s?\". Any of these three forms can be used as a greeting in informal situations.",
+      "Wähl die richtige Frage.",
+      "Info: The question \"Wie geht es Ihnen?\" is used as a greeting in formal situations."
      ],
      "vocabularyTags": []
     },
@@ -199,7 +201,10 @@
      "url": "https://learngerman.dw.com/en/dialogues-greeting-someone/l-37250531/e-37252610",
      "title": "Dialogues: Greeting someone",
      "texts": [
-      "Beispiel:\nFrau Kamp: Guten Tag, Herr Schneider. Wie geht es Ihnen?\nHerr Schneider: Danke, gut. Und Ihnen?\nFrau Kamp: Auch gut.\nDavid: Hallo, Inga. Wie geht’s?\nInga: Super. Und dir?\nDavid: Nicht so gut."
+      "Beispiel:\nFrau Kamp: Guten Tag, Herr Schneider. Wie geht es Ihnen?\nHerr Schneider: Danke, gut. Und Ihnen?\nFrau Kamp: Auch gut.\nDavid: Hallo, Inga. Wie geht’s?\nInga: Super. Und dir?\nDavid: Nicht so gut.",
+      "Hallo, wie geht’s dir? Danke, gut. Und dir? Danke, auch gut.",
+      "Guten Tag, Frau Kamp. Wie geht es Ihnen? Guten Tag, Herr Müller. Danke, gut. Und Ihnen? Na ja, es geht mir nicht so gut.",
+      "Hey, Lena! Na, wie geht’s? Super! Und dir? Auch sehr gut!"
      ],
      "vocabularyTags": []
     },
@@ -211,6 +216,7 @@
       "Guten Tag.",
       "Hallo!",
       "Welche Begrüßung passt besser?",
+      "Info: In formal situations, people in Germany greet each other with \"Guten Tag\". When doing so, they often shake hands.",
       "Welche Begrüßung passt besser?"
      ],
      "vocabularyTags": []
@@ -221,8 +227,11 @@
      "title": "Good day, how are you doing?",
      "texts": [
       "Hi, wie geht’s?",
+      "Say \"hello\" and thank them for asking, say that you are doing well. Afterward ask how the person is doing.",
       "Guten Morgen, wie geht es Ihnen?",
-      "Guten Abend."
+      "Greet them and say that you are not doing too well.",
+      "Guten Abend.",
+      "Reciprocate the greeting and formally ask how the other person is doing."
      ],
      "vocabularyTags": []
     },
@@ -237,6 +246,7 @@
       "Frau",
       "Herr",
       "Herr oder Frau?",
+      "Info: In formal situations in Germany, men are addressed as \"Herr\" followed by their last name, and women are addressed as \"Frau\" followed by their last name.",
       "Guten Tag, #p# Brunner.",
       "Herr oder Frau?",
       "Guten Tag, #p# Kohlhaas.",
@@ -303,6 +313,7 @@
      "url": "https://learngerman.dw.com/en/hello-howre-you/l-37250531/e-42385068",
      "title": "Hello, how're you?",
      "texts": [
+      "Speak clearly.",
       "Guten Tag! Wie geht es Ihnen?",
       "Hallo, Sarah. Wie geht’s dir?",
       "Guten Tag, Herr Kaiser. Wie geht es Ihnen?",
@@ -367,9 +378,9 @@
      "title": "Informal and formal (1)",
      "texts": [
       "Informal and formal (1)",
-      "Informal forms of address\nHey, Lena! – Hallo, Opa!\nHallo, Sarah! – Hi, Tom!\nThe informal form of address is used within the family, among friends and acquaintances, and often also among colleagues.\nFriends, acquaintances and family members are addressed by their first name.\nChildren usually call their parents Mama and Papa, and their grandparents Oma and Opa.\nFormal forms of address\nGuten Tag, Frau Kamp! – Guten Tag!\nGuten Morgen, Herr Müller! – Guten Morgen, Frau Schneider!\nThe formal address is used with unfamiliar adults, in business situations, with officials, or when shopping.\nMen are addressed formally as Herr followed by their surname, women as Frau followed by their surname.\nIf you are unsure whether to be formal or informal, use the formal address.\nGuten Morgen!\nGreeting in the morning until approximately 11 o'clock.\nGuten Tag!\nGreeting during the day, approximately between 11 a.m. and 6 p.m.\nGuten Abend!\nGreeting in the evening from approximately 6 p.m. onwards.\nGrammatical terms in German:\ninformell: Informal language is used when talking to family and friends.\nformell: Formal language is used in formal situations."
+      "Informal forms of address\nImage:\nSarah and Tom greet each other by hugging.\nHey, Lena! – Hallo, Opa!\nHallo, Sarah! – Hi, Tom!\nThe informal form of address is used within the family, among friends and acquaintances, and often also among colleagues.\nFriends, acquaintances and family members are addressed by their first name.\nChildren usually call their parents Mama and Papa, and their grandparents Oma and Opa.\nFormal forms of address\nImage:\nMrs Kamp und Mr Müller greet each other formally by shaking hands.\nGuten Tag, Frau Kamp! – Guten Tag!\nGuten Morgen, Herr Müller! – Guten Morgen, Frau Schneider!\nThe formal address is used with unfamiliar adults, in business situations, with officials, or when shopping.\nMen are addressed formally as Herr followed by their surname, women as Frau followed by their surname.\nIf you are unsure whether to be formal or informal, use the formal address.\nGuten Morgen!\nGreeting in the morning until approximately 11 o'clock.\nGuten Tag!\nGreeting during the day, approximately between 11 a.m. and 6 p.m.\nGuten Abend!\nGreeting in the evening from approximately 6 p.m. onwards.\nGrammatical terms in German:\ninformell: Informal language is used when talking to family and friends.\nformell: Formal language is used in formal situations."
      ],
-     "html": "<p><strong>Informal forms of address</strong></p>\n\n<p></p>\n\n<p><em>Hey, Lena!</em> – <em>Hallo, Opa!</em></p>\n\n<p><em>Hallo, Sarah!</em> – <em>Hi, Tom!</em></p>\n\n<ul>\n\t<li>The informal form of address is used within the family, among&#160;friends and acquaintances, and often also among colleagues.</li>\n\t<li>Friends, acquaintances and family members are addressed by their first name.</li>\n\t<li>Children usually call their parents <em>Mama</em> and <em>Papa</em>, and their grandparents&#160;<em>Oma</em> and <em>Opa</em>.</li>\n</ul>\n\n<p>&#160;</p>\n\n<p><strong>Formal forms of address</strong></p>\n\n<p></p>\n\n<p><em>Guten Tag, Frau Kamp! – Guten Tag!</em></p>\n\n<p><em>Guten Morgen, Herr Müller! </em>–<em> Guten Morgen, Frau Schneider!</em></p>\n\n<ul>\n\t<li>The formal address is used with unfamiliar adults, in business situations, with officials, or when shopping.</li>\n\t<li>Men are addressed formally as <em>Herr</em> followed by their surname, women as <em>Frau</em> followed by their surname.</li>\n\t<li>If you are unsure whether to be formal or informal, use the formal address.</li>\n</ul>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><em>Guten Morgen!</em></td>\n\t\t\t<td>Greeting in the morning until approximately 11 o'clock.</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><em>Guten Tag!</em></td>\n\t\t\t<td>Greeting during the day, approximately between 11 a.m. and 6 p.m.</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><em>Guten Abend!</em></td>\n\t\t\t<td>Greeting in the evening from approximately 6 p.m. onwards.</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&#160;</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>Grammatical terms in German:</p>\n\n\t\t\t<p>informell: Informal language is used when talking to family and friends.<br>\n\t\t\tformell: Formal language is used in formal situations.</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&#160;</p>\n"
+     "html": "<p><strong>Informal forms of address</strong></p>\n\n<p>Image:</p><ul><li>Sarah and Tom greet each other by hugging.</li></ul><p></p>\n\n<p><em>Hey, Lena!</em> – <em>Hallo, Opa!</em></p>\n\n<p><em>Hallo, Sarah!</em> – <em>Hi, Tom!</em></p>\n\n<ul>\n\t<li>The informal form of address is used within the family, among&#160;friends and acquaintances, and often also among colleagues.</li>\n\t<li>Friends, acquaintances and family members are addressed by their first name.</li>\n\t<li>Children usually call their parents <em>Mama</em> and <em>Papa</em>, and their grandparents&#160;<em>Oma</em> and <em>Opa</em>.</li>\n</ul>\n\n<p>&#160;</p>\n\n<p><strong>Formal forms of address</strong></p>\n\n<p>Image:</p><ul><li>Mrs Kamp und Mr Müller greet each other formally by shaking hands.</li></ul><p></p>\n\n<p><em>Guten Tag, Frau Kamp! – Guten Tag!</em></p>\n\n<p><em>Guten Morgen, Herr Müller! </em>–<em> Guten Morgen, Frau Schneider!</em></p>\n\n<ul>\n\t<li>The formal address is used with unfamiliar adults, in business situations, with officials, or when shopping.</li>\n\t<li>Men are addressed formally as <em>Herr</em> followed by their surname, women as <em>Frau</em> followed by their surname.</li>\n\t<li>If you are unsure whether to be formal or informal, use the formal address.</li>\n</ul>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><em>Guten Morgen!</em></td>\n\t\t\t<td>Greeting in the morning until approximately 11 o'clock.</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><em>Guten Tag!</em></td>\n\t\t\t<td>Greeting during the day, approximately between 11 a.m. and 6 p.m.</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><em>Guten Abend!</em></td>\n\t\t\t<td>Greeting in the evening from approximately 6 p.m. onwards.</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&#160;</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>Grammatical terms in German:</p>\n\n\t\t\t<p>informell: Informal language is used when talking to family and friends.<br>\n\t\t\tformell: Formal language is used in formal situations.</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&#160;</p>\n"
     }
    ]
   },

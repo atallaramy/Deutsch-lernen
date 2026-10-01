@@ -1,6 +1,6 @@
 {
  "description": "Official source text captured by ANKI/harvest_sources.py for offline context verification.",
- "harvestedOn": "2026-09-27",
+ "harvestedOn": "2026-10-04",
  "sources": [
   {
    "id": "exercises",
@@ -342,7 +342,8 @@
       "Deutschkurse | Nicos Weg | A1_E0_L2_Stock_Konzert_BU",
       "Deutschkurse | Nicos Weg | A1_E0_L2_Stock_Restaurant_BU",
       "Deutschkurse | Nicos Weg | A1_E0_L2_Stock_Supermarkt_BU",
-      "Deutschkurse | Nicos Weg | A1_E0_L2_Stock_Flughafen_BU"
+      "Deutschkurse | Nicos Weg | A1_E0_L2_Stock_Flughafen_BU",
+      "Tip: Review new words regularly. Write down difficult words and practice them again the next day. You can also practice the words that you learn in this course in the Vocabulary Trainer."
      ],
      "vocabularyTags": []
     },
@@ -356,6 +357,7 @@
       "Museum.",
       "Kino.",
       "Das ist ein ...",
+      "Tip: Learn the words as part of a thematic area. This makes it easier for you to remember them.",
       "Das ist ein ...",
       "Das ist ein ...",
       "Das ist ein ..."
@@ -370,6 +372,7 @@
       "Das ist ein Konzert.",
       "Das ist ein Theater.",
       "Das ist ein Museum.",
+      "Tip: Do you know a German native speaker? Ask a native speaker to correct your pronunciation. You can also record yourself with your smart phone to help yourself improve.",
       "Das ist ein Kino."
      ],
      "vocabularyTags": []
@@ -380,10 +383,15 @@
      "title": "What is this called?",
      "texts": [
       "Bring die Buchstaben in die richtige Reihenfolge.",
+      "T e l e f o n",
       "Bring die Buchstaben in die richtige Reihenfolge.",
+      "S u p e r m a r k t",
       "Bring die Buchstaben in die richtige Reihenfolge.",
+      "K a f f e e",
       "Bring die Buchstaben in die richtige Reihenfolge.",
-      "Bring die Buchstaben in die richtige Reihenfolge."
+      "T o i l e t t e",
+      "Bring die Buchstaben in die richtige Reihenfolge.",
+      "K o n z e r t"
      ],
      "vocabularyTags": []
     },
@@ -419,6 +427,7 @@
       "Im Restaurant: Spaghetti, Pizza, #ps#",
       "CONTINUOUS_TEXT",
       "Im Büro: Computer, E-Mail, #ps#",
+      "Info: The first letter of a noun is capitalized.",
       "CONTINUOUS_TEXT",
       "Im Zentrum: Bus, Hotel, #pm#",
       "CONTINUOUS_TEXT",

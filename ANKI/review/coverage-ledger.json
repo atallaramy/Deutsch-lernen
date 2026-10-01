@@ -1,5 +1,5 @@
 {
- "revision": "2026-09-30T18:00:00Z",
+ "revision": "2026-10-04T14:22:00Z",
  "entries": {
   "dw-a1-e0-l1:auch": [
    "vocab:auch|also"
@@ -1729,6 +1729,1054 @@
   ],
   "dw-a1-e2-l4:rausfinden": [
    "vocab:rausfinden|to-find-out"
+  ],
+  "dw-a1-e3-l1:danke-schon": [
+   "vocab:danke schön|thank-you"
+  ],
+  "dw-a1-e3-l1:das-flugzeug": [
+   "article:Flugzeug|n",
+   "vocab:Flugzeug|airplane"
+  ],
+  "dw-a1-e3-l1:funktionieren": [
+   "vocab:funktionieren|to-function"
+  ],
+  "dw-a1-e3-l1:gern": [
+   "vocab:gern|gladly"
+  ],
+  "dw-a1-e3-l1:das-getraenk": [
+   "article:Getränk|n",
+   "vocab:Getränk|drink"
+  ],
+  "dw-a1-e3-l1:herzlich-willkommen": [
+   "vocab:Herzlich willkommen!|welcome"
+  ],
+  "dw-a1-e3-l1:kaputt": [
+   "vocab:kaputt|broken"
+  ],
+  "dw-a1-e3-l1:die-lampe": [
+   "article:Lampe|f",
+   "vocab:Lampe|lamp"
+  ],
+  "dw-a1-e3-l1:das-land": [
+   "article:Land|n",
+   "vocab:Land|country"
+  ],
+  "dw-a1-e3-l1:die-party": [
+   "article:Party|f",
+   "vocab:Party|party"
+  ],
+  "dw-a1-e3-l1:schoen": [
+   "vocab:schön|nice"
+  ],
+  "dw-a1-e3-l1:etwas-trinken": [
+   "vocab:trinken|to-drink"
+  ],
+  "dw-a1-e3-l1:was-machst-du-hier": [
+   "sentence:what-doing-informal"
+  ],
+  "dw-a1-e3-l1:wer-ist-denn-das": [
+   "sentence:who-is-that-denn"
+  ],
+  "dw-a1-e3-l1:wieder": [
+   "vocab:wieder|again"
+  ],
+  "dw-a1-e3-l1:willkommen": [
+   "vocab:willkommen|welcome"
+  ],
+  "dw-a1-e3-l1:wollen-wir-uns-nicht-duzen": [
+   "sentence:offer-du"
+  ],
+  "dw-a1-e3-l1:es-gibt": [
+   "vocab:es gibt|there-is"
+  ],
+  "dw-a1-e3-l1:klein": [
+   "vocab:klein|small"
+  ],
+  "dw-a1-e3-l1:klar": [
+   "vocab:klar|sure"
+  ],
+  "dw-a1-e3-l1:sitzen": [
+   "vocab:sitzen|to-sit"
+  ],
+  "dw-a1-e3-l1:der-fahrradladen": [
+   "article:Fahrradladen|m",
+   "vocab:Fahrradladen|bicycle-shop"
+  ],
+  "dw-a1-e3-l1:klappen": [
+   "vocab:klappen|to-work-out"
+  ],
+  "dw-a1-e3-l1:die-wohngemeinschaft": [
+   "article:Wohngemeinschaft|f",
+   "vocab:Wohngemeinschaft|shared-apartment"
+  ],
+  "dw-a1-e3-l1:moechtest-du-etwas-trinken": [
+   "sentence:offer-drink-informal"
+  ],
+  "dw-a1-e3-l2:der-apfelsaft": [
+   "article:Apfelsaft|m",
+   "vocab:Apfelsaft|apple-juice"
+  ],
+  "dw-a1-e3-l2:das-bier": [
+   "article:Bier|n",
+   "vocab:Bier|beer"
+  ],
+  "dw-a1-e3-l2:die-cola": [
+   "article:Cola|f",
+   "vocab:Cola|cola"
+  ],
+  "dw-a1-e3-l2:das-neutral": [
+   "vocab:das|the-neuter"
+  ],
+  "dw-a1-e3-l2:der-maskulin": [
+   "vocab:der|the-masculine"
+  ],
+  "dw-a1-e3-l2:die-feminin": [
+   "vocab:die|the-feminine"
+  ],
+  "dw-a1-e3-l2:das-eis": [
+   "article:Eis|n",
+   "vocab:Eis|ice-cubes"
+  ],
+  "dw-a1-e3-l2:der-fahrradladen": [
+   "article:Fahrradladen|m",
+   "vocab:Fahrradladen|bicycle-shop"
+  ],
+  "dw-a1-e3-l2:fragen": [
+   "vocab:fragen|to-ask"
+  ],
+  "dw-a1-e3-l2:ich-habe-eine-idee": [
+   "vocab:Ich habe eine Idee.|i-have-an-idea"
+  ],
+  "dw-a1-e3-l2:jemanden-etwas-kennen": [
+   "vocab:kennen|to-know"
+  ],
+  "dw-a1-e3-l2:der-kuehlschrank": [
+   "article:Kühlschrank|m",
+   "vocab:Kühlschrank|refrigerator"
+  ],
+  "dw-a1-e3-l2:lieber": [
+   "vocab:lieber|rather"
+  ],
+  "dw-a1-e3-l2:die-limo": [
+   "article:Limo|f",
+   "vocab:Limo|lemonade-short"
+  ],
+  "dw-a1-e3-l2:die-limonade": [
+   "article:Limonade|f",
+   "vocab:Limonade|lemonade"
+  ],
+  "dw-a1-e3-l2:die-milch": [
+   "article:Milch|f",
+   "vocab:Milch|milk"
+  ],
+  "dw-a1-e3-l2:mit": [
+   "vocab:mit|with"
+  ],
+  "dw-a1-e3-l2:moechten": [
+   "vocab:möchten|would-like"
+  ],
+  "dw-a1-e3-l2:etwas-nehmen": [
+   "vocab:nehmen|to-take"
+  ],
+  "dw-a1-e3-l2:ohne": [
+   "vocab:ohne|without"
+  ],
+  "dw-a1-e3-l2:der-orangensaft": [
+   "article:Orangensaft|m",
+   "vocab:Orangensaft|orange-juice"
+  ],
+  "dw-a1-e3-l2:etwas-posten": [
+   "vocab:posten|to-post"
+  ],
+  "dw-a1-e3-l2:der-saft": [
+   "article:Saft|m",
+   "vocab:Saft|juice"
+  ],
+  "dw-a1-e3-l2:die-speisekarte": [
+   "article:Speisekarte|f",
+   "vocab:Speisekarte|menu"
+  ],
+  "dw-a1-e3-l2:der-tee": [
+   "article:Tee|m",
+   "vocab:Tee|tea"
+  ],
+  "dw-a1-e3-l2:viel": [
+   "vocab:viel|a-lot"
+  ],
+  "dw-a1-e3-l2:das-wasser": [
+   "article:Wasser|n",
+   "vocab:Wasser|water"
+  ],
+  "dw-a1-e3-l2:der-wein": [
+   "article:Wein|m",
+   "vocab:Wein|wine"
+  ],
+  "dw-a1-e3-l2:wenig": [
+   "vocab:wenig|a-little"
+  ],
+  "dw-a1-e3-l2:der-zucker": [
+   "article:Zucker|m",
+   "vocab:Zucker|sugar"
+  ],
+  "dw-a1-e3-l2:der-kaffee": [
+   "article:Kaffee|m",
+   "vocab:Kaffee|coffee"
+  ],
+  "dw-a1-e3-l2:leben": [
+   "vocab:leben|to-live"
+  ],
+  "dw-a1-e3-l2:der-durst": [
+   "article:Durst|m",
+   "vocab:Durst|thirst"
+  ],
+  "dw-a1-e3-l2:der-hunger": [
+   "article:Hunger|m",
+   "vocab:Hunger|hunger"
+  ],
+  "dw-a1-e3-l2:prost": [
+   "vocab:Prost!|cheers"
+  ],
+  "dw-a1-e3-l2:das-nomen": [
+   "article:Nomen|n",
+   "vocab:Nomen|noun"
+  ],
+  "dw-a1-e3-l2:der-artikel": [
+   "article:Artikel|m",
+   "vocab:Artikel|article-grammar"
+  ],
+  "dw-a1-e3-l2:das-genus": [
+   "article:Genus|n",
+   "vocab:Genus|grammatical-gender"
+  ],
+  "dw-a1-e3-l2:was-moechtest-du-trinken": [
+   "sentence:ask-drink-du"
+  ],
+  "dw-a1-e3-l2:was-moechtet-ihr-trinken": [
+   "sentence:ask-drink-ihr"
+  ],
+  "dw-a1-e3-l2:was-moechten-sie-trinken": [
+   "sentence:ask-drink-sie"
+  ],
+  "dw-a1-e3-l2:was-trinkst-du": [
+   "sentence:ask-drinking-du"
+  ],
+  "dw-a1-e3-l3:die-ananas": [
+   "article:Ananas|f",
+   "vocab:Ananas|pineapple"
+  ],
+  "dw-a1-e3-l3:etwas-bestellen": [
+   "vocab:bestellen|to-order"
+  ],
+  "dw-a1-e3-l3:der-durst": [
+   "article:Durst|m",
+   "vocab:Durst|thirst"
+  ],
+  "dw-a1-e3-l3:etwas-essen": [
+   "vocab:essen|to-eat"
+  ],
+  "dw-a1-e3-l3:gern": [
+   "vocab:gern|gladly"
+  ],
+  "dw-a1-e3-l3:der-hunger": [
+   "article:Hunger|m",
+   "vocab:Hunger|hunger"
+  ],
+  "dw-a1-e3-l3:der-kaese": [
+   "article:Käse|m",
+   "vocab:Käse|cheese"
+  ],
+  "dw-a1-e3-l3:etwas-jemanden-lieben": [
+   "vocab:lieben|to-love"
+  ],
+  "dw-a1-e3-l3:der-mozzarella": [
+   "article:Mozzarella|m",
+   "vocab:Mozzarella|mozzarella"
+  ],
+  "dw-a1-e3-l3:etwas-nehmen": [
+   "vocab:nehmen|to-take"
+  ],
+  "dw-a1-e3-l3:die-salami": [
+   "article:Salami|f",
+   "vocab:Salami|salami"
+  ],
+  "dw-a1-e3-l3:der-salat": [
+   "article:Salat|m",
+   "vocab:Salat|salad"
+  ],
+  "dw-a1-e3-l3:der-schinken": [
+   "article:Schinken|m",
+   "vocab:Schinken|ham"
+  ],
+  "dw-a1-e3-l3:sonst-noch-etwas": [
+   "vocab:Sonst noch etwas?|anything-else"
+  ],
+  "dw-a1-e3-l3:die-speisekarte": [
+   "article:Speisekarte|f",
+   "vocab:Speisekarte|menu"
+  ],
+  "dw-a1-e3-l3:das-sushi": [
+   "article:Sushi|n",
+   "vocab:Sushi|sushi"
+  ],
+  "dw-a1-e3-l3:der-thunfisch": [
+   "article:Thunfisch|m",
+   "vocab:Thunfisch|tuna"
+  ],
+  "dw-a1-e3-l3:die-tomate": [
+   "article:Tomate|f",
+   "vocab:Tomate|tomato"
+  ],
+  "dw-a1-e3-l3:der-vegetarier": [
+   "article:Vegetarier|m",
+   "vocab:Vegetarier|vegetarian-male"
+  ],
+  "dw-a1-e3-l3:die-vegetarierin": [
+   "article:Vegetarierin|f",
+   "vocab:Vegetarierin|vegetarian-female"
+  ],
+  "dw-a1-e3-l3:was-gibt-es-denn": [
+   "sentence:what-is-there"
+  ],
+  "dw-a1-e3-l3:die-leute": [
+   "vocab:Leute|people"
+  ],
+  "dw-a1-e3-l3:deshalb": [
+   "vocab:deshalb|therefore"
+  ],
+  "dw-a1-e3-l3:jedes-mal": [
+   "vocab:jedes Mal|every-time"
+  ],
+  "dw-a1-e3-l3:immer": [
+   "vocab:immer|always"
+  ],
+  "dw-a1-e3-l3:die-nachricht": [
+   "article:Nachricht|f",
+   "vocab:Nachricht|message"
+  ],
+  "dw-a1-e3-l3:der-lieblingsitaliener": [
+   "article:Lieblingsitaliener|m",
+   "vocab:Lieblingsitaliener|favourite-italian-restaurant"
+  ],
+  "dw-a1-e3-l3:einmal": [
+   "vocab:einmal|one-order"
+  ],
+  "dw-a1-e3-l3:also": [
+   "vocab:also|so"
+  ],
+  "dw-a1-e3-l3:was-nehmt-ihr": [
+   "sentence:ask-order-ihr"
+  ],
+  "dw-a1-e3-l4:bar": [
+   "vocab:bar|in-cash"
+  ],
+  "dw-a1-e3-l4:das-beispiel": [
+   "article:Beispiel|n",
+   "vocab:Beispiel|example"
+  ],
+  "dw-a1-e3-l4:etwas-bezahlen": [
+   "vocab:bezahlen|to-pay-something"
+  ],
+  "dw-a1-e3-l4:der-cent": [
+   "article:Cent|m",
+   "vocab:Cent|cent"
+  ],
+  "dw-a1-e3-l4:das-macht": [
+   "sentence:total-together"
+  ],
+  "dw-a1-e3-l4:das-macht-zusammen": [
+   "sentence:total-together"
+  ],
+  "dw-a1-e3-l4:das-stimmt-so": [
+   "vocab:Das stimmt so.|keep-the-change"
+  ],
+  "dw-a1-e3-l4:du-bist-eingeladen": [
+   "vocab:Du bist eingeladen!|its-my-treat"
+  ],
+  "dw-a1-e3-l4:das-essen": [
+   "article:Essen|n",
+   "vocab:Essen|food"
+  ],
+  "dw-a1-e3-l4:der-euro": [
+   "article:Euro|m",
+   "vocab:Euro|euro"
+  ],
+  "dw-a1-e3-l4:der-gast": [
+   "article:Gast|m",
+   "vocab:Gast|guest"
+  ],
+  "dw-a1-e3-l4:getrennt": [
+   "vocab:getrennt|separately"
+  ],
+  "dw-a1-e3-l4:der-kellner": [
+   "article:Kellner|m",
+   "vocab:Kellner|waiter"
+  ],
+  "dw-a1-e3-l4:die-kellnerin": [
+   "article:Kellnerin|f",
+   "vocab:Kellnerin|waitress"
+  ],
+  "dw-a1-e3-l4:die-rechnung": [
+   "article:Rechnung|f",
+   "vocab:Rechnung|bill"
+  ],
+  "dw-a1-e3-l4:etwas-sagen": [
+   "vocab:sagen|to-say"
+  ],
+  "dw-a1-e3-l4:das-trinkgeld": [
+   "article:Trinkgeld|n",
+   "vocab:Trinkgeld|tip"
+  ],
+  "dw-a1-e3-l4:was-kostet": [
+   "sentence:price-question-was"
+  ],
+  "dw-a1-e3-l4:wie-viel": [
+   "vocab:wie viel|how-much"
+  ],
+  "dw-a1-e3-l4:wie-viel-euro-macht-das": [
+   "sentence:how-many-euros"
+  ],
+  "dw-a1-e3-l4:wie-viel-kostet": [
+   "sentence:price-question"
+  ],
+  "dw-a1-e3-l4:zahlen": [
+   "vocab:zahlen|to-pay"
+  ],
+  "dw-a1-e3-l4:zahlen-sie-bar-oder-mit-karte": [
+   "sentence:cash-or-card-formal"
+  ],
+  "dw-a1-e3-l4:zahlen-sie-zusammen-oder-getrennt": [
+   "sentence:together-or-separately-formal"
+  ],
+  "dw-a1-e3-l4:zusammen": [
+   "vocab:zusammen|together"
+  ],
+  "dw-a1-e3-l4:guten-tag": [
+   "vocab:Guten Tag.|hello"
+  ],
+  "dw-a1-e3-l4:die-bestellung": [
+   "article:Bestellung|f",
+   "vocab:Bestellung|order"
+  ],
+  "dw-a1-e3-l4:die-pizza": [
+   "article:Pizza|f",
+   "vocab:Pizza|pizza"
+  ],
+  "dw-a1-e3-l4:bekommen": [
+   "vocab:bekommen|to-get"
+  ],
+  "dw-a1-e3-l4:noch-eine": [
+   "vocab:noch ein|another"
+  ],
+  "dw-a1-e3-l4:letzte": [
+   "vocab:letzt-|last"
+  ],
+  "dw-a1-e3-l4:stimmt": [
+   "vocab:Stimmt.|true"
+  ],
+  "dw-a1-e3-l4:weggehen": [
+   "vocab:weggehen|to-go-away"
+  ],
+  "dw-a1-e3-l4:die-abschiedsparty": [
+   "article:Abschiedsparty|f",
+   "vocab:Abschiedsparty|farewell-party"
+  ],
+  "dw-a1-e3-l4:guten-appetit": [
+   "vocab:Guten Appetit!|enjoy-your-meal"
+  ],
+  "dw-a1-e3-l4:die-karte": [
+   "article:Karte|f",
+   "vocab:Karte|card"
+  ],
+  "dw-a1-e3-l4:ich-zahle-bar": [
+   "sentence:pay-cash-reply"
+  ],
+  "dw-a1-e3-l4:ich-moechte-zahlen-bitte": [
+   "sentence:ask-to-pay"
+  ],
+  "dw-a1-e4-l1:die-antwort": [
+   "article:Antwort|f",
+   "vocab:Antwort|answer"
+  ],
+  "dw-a1-e4-l1:jemanden-begruessen": [
+   "vocab:begrüßen|to-greet"
+  ],
+  "dw-a1-e4-l1:die-begruessung": [
+   "article:Begrüßung|f",
+   "vocab:Begrüßung|greeting"
+  ],
+  "dw-a1-e4-l1:etwas-besichtigen": [
+   "vocab:besichtigen|to-visit-a-sight"
+  ],
+  "dw-a1-e4-l1:deutsch": [
+   "vocab:deutsch|german-adjective"
+  ],
+  "dw-a1-e4-l1:der-dom": [
+   "article:Dom|m",
+   "vocab:Dom|cathedral"
+  ],
+  "dw-a1-e4-l1:dort": [
+   "vocab:dort|there"
+  ],
+  "dw-a1-e4-l1:die-eltern": [
+   "vocab:Eltern|parents"
+  ],
+  "dw-a1-e4-l1:fahren": [
+   "vocab:fahren|to-drive"
+  ],
+  "dw-a1-e4-l1:die-frage": [
+   "article:Frage|f",
+   "vocab:Frage|question"
+  ],
+  "dw-a1-e4-l1:gestern": [
+   "vocab:gestern|yesterday"
+  ],
+  "dw-a1-e4-l1:im-moment": [
+   "vocab:im Moment|at-the-moment"
+  ],
+  "dw-a1-e4-l1:jemanden-etwas-kennen": [
+   "vocab:kennen|to-know"
+  ],
+  "dw-a1-e4-l1:letztes-jahr": [
+   "vocab:letztes Jahr|last-year"
+  ],
+  "dw-a1-e4-l1:nach": [
+   "vocab:nach|to-country-or-city"
+  ],
+  "dw-a1-e4-l1:noch-nie": [
+   "vocab:noch nie|never"
+  ],
+  "dw-a1-e4-l1:die-oper": [
+   "article:Oper|f",
+   "vocab:Oper|opera"
+  ],
+  "dw-a1-e4-l1:das-oesterreich": [
+   "vocab:Österreich|austria"
+  ],
+  "dw-a1-e4-l1:das-schloss": [
+   "article:Schloss|n",
+   "vocab:Schloss|castle"
+  ],
+  "dw-a1-e4-l1:schon-mal": [
+   "vocab:schon mal|ever-before"
+  ],
+  "dw-a1-e4-l1:die-schweiz": [
+   "article:Schweiz|f",
+   "vocab:Schweiz|switzerland"
+  ],
+  "dw-a1-e4-l1:die-sehenswuerdigkeit": [
+   "article:Sehenswürdigkeit|f",
+   "vocab:Sehenswürdigkeit|tourist-attraction"
+  ],
+  "dw-a1-e4-l1:das-spiel": [
+   "article:Spiel|n",
+   "vocab:Spiel|game"
+  ],
+  "dw-a1-e4-l1:etwas-spielen": [
+   "vocab:spielen|to-play"
+  ],
+  "dw-a1-e4-l1:die-stadt": [
+   "article:Stadt|f",
+   "vocab:Stadt|town"
+  ],
+  "dw-a1-e4-l1:toll": [
+   "vocab:toll|great"
+  ],
+  "dw-a1-e4-l1:das-tor": [
+   "article:Tor|n",
+   "vocab:Tor|gate"
+  ],
+  "dw-a1-e4-l1:die-verabschiedung": [
+   "article:Verabschiedung|f",
+   "vocab:Verabschiedung|farewell"
+  ],
+  "dw-a1-e4-l1:was-ist-das": [
+   "vocab:Was ist das?|what-is-that"
+  ],
+  "dw-a1-e4-l1:welche": [
+   "vocab:welche|which"
+  ],
+  "dw-a1-e4-l1:wohin": [
+   "vocab:Wohin?|where-to"
+  ],
+  "dw-a1-e4-l1:vielen-dank-fuer-die-einladung": [
+   "vocab:Vielen Dank für die Einladung!|thanks-for-the-invitation"
+  ],
+  "dw-a1-e4-l1:naechste-woche": [
+   "vocab:nächste Woche|next-week"
+  ],
+  "dw-a1-e4-l1:sogar": [
+   "vocab:sogar|even"
+  ],
+  "dw-a1-e4-l1:beide": [
+   "vocab:beide|both"
+  ],
+  "dw-a1-e4-l1:besuchen": [
+   "vocab:besuchen|to-visit"
+  ],
+  "dw-a1-e4-l1:reisen": [
+   "vocab:reisen|to-travel"
+  ],
+  "dw-a1-e4-l1:teuer": [
+   "vocab:teuer|expensive"
+  ],
+  "dw-a1-e4-l1:koeln": [
+   "vocab:Köln|cologne"
+  ],
+  "dw-a1-e4-l1:muenchen": [
+   "vocab:München|munich"
+  ],
+  "dw-a1-e4-l1:das-praesens": [
+   "article:Präsens|n",
+   "vocab:Präsens|present-tense"
+  ],
+  "dw-a1-e4-l1:das-praeteritum": [
+   "article:Präteritum|n",
+   "vocab:Präteritum|simple-past"
+  ],
+  "dw-a1-e4-l1:schoen-dass-ihr-da-seid": [
+   "sentence:glad-youre-here-ihr"
+  ],
+  "dw-a1-e4-l1:schoen-dich-zu-sehen": [
+   "sentence:nice-to-see-you-du"
+  ],
+  "dw-a1-e4-l1:warst-du-schon-mal-in": [
+   "sentence:been-to-cologne-du"
+  ],
+  "dw-a1-e4-l1:ich-war-noch-nie-in": [
+   "sentence:never-been-to-munich"
+  ],
+  "dw-a1-e4-l1:ich-moechte-auch-mal-nach-berlin": [
+   "sentence:want-to-go-to-berlin"
+  ],
+  "dw-a1-e4-l2:das-europa": [
+   "vocab:Europa|europe"
+  ],
+  "dw-a1-e4-l2:etwas-gewinnen": [
+   "vocab:gewinnen|to-win"
+  ],
+  "dw-a1-e4-l2:die-hauptstadt": [
+   "article:Hauptstadt|f",
+   "vocab:Hauptstadt|capital-city"
+  ],
+  "dw-a1-e4-l2:in-der-mitte-von": [
+   "vocab:in der Mitte (von)|in-the-middle-of"
+  ],
+  "dw-a1-e4-l2:in-der-naehe-von": [
+   "vocab:in der Nähe (von)|near"
+  ],
+  "dw-a1-e4-l2:liegen": [
+   "vocab:liegen|to-be-located"
+  ],
+  "dw-a1-e4-l2:der-norden": [
+   "article:Norden|m",
+   "vocab:Norden|north"
+  ],
+  "dw-a1-e4-l2:der-osten": [
+   "article:Osten|m",
+   "vocab:Osten|east"
+  ],
+  "dw-a1-e4-l2:der-see": [
+   "article:See|m",
+   "vocab:See|lake"
+  ],
+  "dw-a1-e4-l2:der-sueden": [
+   "article:Süden|m",
+   "vocab:Süden|south"
+  ],
+  "dw-a1-e4-l2:das-syrien": [
+   "vocab:Syrien|syria"
+  ],
+  "dw-a1-e4-l2:tanzen": [
+   "vocab:tanzen|to-dance"
+  ],
+  "dw-a1-e4-l2:das-team": [
+   "article:Team|n",
+   "vocab:Team|team"
+  ],
+  "dw-a1-e4-l2:der-westen": [
+   "article:Westen|m",
+   "vocab:Westen|west"
+  ],
+  "dw-a1-e4-l2:es-gibt": [
+   "vocab:es gibt|there-is"
+  ],
+  "dw-a1-e4-l2:noch-nicht": [
+   "vocab:noch nicht|not-yet"
+  ],
+  "dw-a1-e4-l2:anfangen": [
+   "vocab:anfangen|to-begin"
+  ],
+  "dw-a1-e4-l2:alle": [
+   "vocab:alle|everyone"
+  ],
+  "dw-a1-e4-l2:komm-und-spiel-mit": [
+   "sentence:come-and-play-along"
+  ],
+  "dw-a1-e4-l2:wo-liegt": [
+   "sentence:ask-where-located"
+  ],
+  "dw-a1-e4-l2:das-bundesland": [
+   "article:Bundesland|n",
+   "vocab:Bundesland|federal-state"
+  ],
+  "dw-a1-e4-l2:die-himmelsrichtung": [
+   "article:Himmelsrichtung|f",
+   "vocab:Himmelsrichtung|compass-direction"
+  ],
+  "dw-a1-e4-l2:der-suedwesten": [
+   "article:Südwesten|m",
+   "vocab:Südwesten|southwest"
+  ],
+  "dw-a1-e4-l2:der-nordosten": [
+   "article:Nordosten|m",
+   "vocab:Nordosten|northeast"
+  ],
+  "dw-a1-e4-l2:wien": [
+   "vocab:Wien|vienna"
+  ],
+  "dw-a1-e4-l2:bayern": [
+   "vocab:Bayern|bavaria"
+  ],
+  "dw-a1-e4-l2:der-aussagesatz": [
+   "article:Aussagesatz|m",
+   "vocab:Aussagesatz|declarative-sentence"
+  ],
+  "dw-a1-e4-l2:die-satzfrage": [
+   "article:Satzfrage|f",
+   "vocab:Satzfrage|yes-no-question"
+  ],
+  "dw-a1-e4-l2:das-subjekt": [
+   "article:Subjekt|n",
+   "vocab:Subjekt|grammatical-subject"
+  ],
+  "dw-a1-e4-l3:bei-uns": [
+   "vocab:bei uns|in-our-country"
+  ],
+  "dw-a1-e4-l3:china": [
+   "vocab:China|china"
+  ],
+  "dw-a1-e4-l3:cool": [
+   "vocab:cool|cool"
+  ],
+  "dw-a1-e4-l3:frankreich": [
+   "vocab:Frankreich|france"
+  ],
+  "dw-a1-e4-l3:der-hamburger": [
+   "article:Hamburger|m",
+   "vocab:Hamburger|hamburger-food"
+  ],
+  "dw-a1-e4-l3:das-italien": [
+   "vocab:Italien|italy"
+  ],
+  "dw-a1-e4-l3:das-japan": [
+   "vocab:Japan|japan"
+  ],
+  "dw-a1-e4-l3:der-job": [
+   "article:Job|m",
+   "vocab:Job|job"
+  ],
+  "dw-a1-e4-l3:das-lieblingsessen": [
+   "article:Lieblingsessen|n",
+   "vocab:Lieblingsessen|favorite-food"
+  ],
+  "dw-a1-e4-l3:man": [
+   "vocab:man|one-you"
+  ],
+  "dw-a1-e4-l3:etwas-moegen": [
+   "vocab:mögen|to-like"
+  ],
+  "dw-a1-e4-l3:naechstes-jahr": [
+   "vocab:nächstes Jahr|next-year"
+  ],
+  "dw-a1-e4-l3:das-norwegen": [
+   "vocab:Norwegen|norway"
+  ],
+  "dw-a1-e4-l3:das-schweden": [
+   "vocab:Schweden|sweden"
+  ],
+  "dw-a1-e4-l3:etwas-singen": [
+   "vocab:singen|to-sing"
+  ],
+  "dw-a1-e4-l3:die-spezialitaet": [
+   "article:Spezialität|f",
+   "vocab:Spezialität|specialty"
+  ],
+  "dw-a1-e4-l3:verschieden": [
+   "vocab:verschieden|different"
+  ],
+  "dw-a1-e4-l3:einfach": [
+   "vocab:einfach|easy"
+  ],
+  "dw-a1-e4-l3:mitnehmen": [
+   "vocab:mitnehmen|to-take-along"
+  ],
+  "dw-a1-e4-l3:gehen": [
+   "vocab:gehen|to-go"
+  ],
+  "dw-a1-e4-l3:gar-nicht": [
+   "vocab:gar nicht|not-at-all"
+  ],
+  "dw-a1-e4-l3:na-ja": [
+   "vocab:na ja|oh-well"
+  ],
+  "dw-a1-e4-l3:das-brot": [
+   "article:Brot|n",
+   "vocab:Brot|bread"
+  ],
+  "dw-a1-e4-l3:typisch": [
+   "vocab:typisch|typical"
+  ],
+  "dw-a1-e4-l3:rom": [
+   "vocab:Rom|rome"
+  ],
+  "dw-a1-e4-l3:das-indefinitpronomen": [
+   "article:Indefinitpronomen|n",
+   "vocab:Indefinitpronomen|indefinite-pronoun"
+  ],
+  "dw-a1-e4-l4:das-arabisch": [
+   "vocab:Arabisch|arabic"
+  ],
+  "dw-a1-e4-l4:die-aufenthaltserlaubnis": [
+   "article:Aufenthaltserlaubnis|f",
+   "vocab:Aufenthaltserlaubnis|residence-permit"
+  ],
+  "dw-a1-e4-l4:bleiben": [
+   "vocab:bleiben|to-stay"
+  ],
+  "dw-a1-e4-l4:chinesisch": [
+   "vocab:Chinesisch|chinese"
+  ],
+  "dw-a1-e4-l4:das-deutsch": [
+   "vocab:Deutsch|german"
+  ],
+  "dw-a1-e4-l4:ein-bisschen": [
+   "vocab:ein bisschen|a-little"
+  ],
+  "dw-a1-e4-l4:englisch": [
+   "vocab:Englisch|english"
+  ],
+  "dw-a1-e4-l4:der-fluechtling": [
+   "article:Flüchtling|m",
+   "vocab:Flüchtling|refugee"
+  ],
+  "dw-a1-e4-l4:das-franzoesisch": [
+   "vocab:Französisch|french"
+  ],
+  "dw-a1-e4-l4:die-fremdsprache": [
+   "article:Fremdsprache|f",
+   "vocab:Fremdsprache|foreign-language"
+  ],
+  "dw-a1-e4-l4:international": [
+   "vocab:international|international"
+  ],
+  "dw-a1-e4-l4:das-italienisch": [
+   "vocab:Italienisch|italian"
+  ],
+  "dw-a1-e4-l4:das-japanisch": [
+   "vocab:Japanisch|japanese"
+  ],
+  "dw-a1-e4-l4:die-muttersprache": [
+   "article:Muttersprache|f",
+   "vocab:Muttersprache|native-language"
+  ],
+  "dw-a1-e4-l4:noerdlich": [
+   "vocab:nördlich|north-of"
+  ],
+  "dw-a1-e4-l4:das-norwegisch": [
+   "vocab:Norwegisch|norwegian"
+  ],
+  "dw-a1-e4-l4:oestlich": [
+   "vocab:östlich|east-of"
+  ],
+  "dw-a1-e4-l4:das-russisch": [
+   "vocab:Russisch|russian"
+  ],
+  "dw-a1-e4-l4:russland": [
+   "vocab:Russland|russia"
+  ],
+  "dw-a1-e4-l4:schlecht": [
+   "vocab:schlecht|bad"
+  ],
+  "dw-a1-e4-l4:schnell": [
+   "vocab:schnell|fast"
+  ],
+  "dw-a1-e4-l4:das-schwedisch": [
+   "vocab:Schwedisch|swedish"
+  ],
+  "dw-a1-e4-l4:sehr": [
+   "vocab:sehr|very"
+  ],
+  "dw-a1-e4-l4:spanisch": [
+   "vocab:Spanisch|spanish"
+  ],
+  "dw-a1-e4-l4:die-sprache": [
+   "article:Sprache|f",
+   "vocab:Sprache|language"
+  ],
+  "dw-a1-e4-l4:sprechen": [
+   "vocab:sprechen|to-speak"
+  ],
+  "dw-a1-e4-l4:welche-sprachen-sprichst-du": [
+   "sentence:which-languages-du"
+  ],
+  "dw-a1-e4-l4:suedlich": [
+   "vocab:südlich|south-of"
+  ],
+  "dw-a1-e4-l4:das-thai": [
+   "vocab:Thai|thai"
+  ],
+  "dw-a1-e4-l4:das-thailand": [
+   "vocab:Thailand|thailand"
+  ],
+  "dw-a1-e4-l4:westlich": [
+   "vocab:westlich|west-of"
+  ],
+  "dw-a1-e4-l4:duerfen": [
+   "vocab:dürfen|to-be-allowed"
+  ],
+  "dw-a1-e4-l4:das-nachbarland": [
+   "article:Nachbarland|n",
+   "vocab:Nachbarland|neighbouring-country"
+  ],
+  "dw-a1-e4-l4:die-amtssprache": [
+   "article:Amtssprache|f",
+   "vocab:Amtssprache|official-language"
+  ],
+  "dw-a1-e4-l4:der-nordwesten": [
+   "article:Nordwesten|m",
+   "vocab:Nordwesten|northwest"
+  ],
+  "dw-a1-e4-l4:suedwestlich": [
+   "vocab:südwestlich|southwest-of"
+  ],
+  "dw-a1-e4-l4:das-polen": [
+   "vocab:Polen|poland"
+  ],
+  "dw-a1-e4-l4:das-polnisch": [
+   "vocab:Polnisch|polish"
+  ],
+  "dw-a1-e4-l4:das-tschechien": [
+   "vocab:Tschechien|czechia"
+  ],
+  "dw-a1-e4-l4:das-tschechisch": [
+   "vocab:Tschechisch|czech"
+  ],
+  "dw-a1-e4-l4:die-niederlande": [
+   "vocab:Niederlande|netherlands"
+  ],
+  "dw-a1-e4-l4:das-niederlaendisch": [
+   "vocab:Niederländisch|dutch"
+  ],
+  "dw-a1-e4-l4:das-belgien": [
+   "vocab:Belgien|belgium"
+  ],
+  "dw-a1-e4-l4:das-luxemburg": [
+   "vocab:Luxemburg|luxembourg"
+  ],
+  "dw-a1-e4-l4:das-daenemark": [
+   "vocab:Dänemark|denmark"
+  ],
+  "dw-a1-e4-l4:das-daenisch": [
+   "vocab:Dänisch|danish"
+  ],
+  "dw-a1-e4-l4:das-afrika": [
+   "vocab:Afrika|africa"
+  ],
+  "dw-a1-e4-l4:das-asien": [
+   "vocab:Asien|asia"
+  ],
+  "dw-a1-e4-l4:das-kanada": [
+   "vocab:Kanada|canada"
+  ],
+  "dw-a1-e4-l4:das-marokko": [
+   "vocab:Marokko|morocco"
+  ],
+  "dw-a1-e4-l4:der-wohnort": [
+   "article:Wohnort|m",
+   "vocab:Wohnort|place-of-residence"
+  ],
+  "dw-a1-e4-l4:aegypten-liegt-im-osten-von-nordafrika": [
+   "sentence:egypt-in-east-of-north-africa"
+  ],
+  "dw-a1-e4-l4:suedlich-von-aegypten-liegt-der-sudan": [
+   "sentence:sudan-south-of-egypt"
+  ],
+  "dw-a1-e4-l4:oestlich-von-aegypten-liegt-das-rote-meer": [
+   "sentence:red-sea-east-of-egypt"
+  ],
+  "dw-a1-e5-l1:der-bleistift": [
+   "article:Bleistift|m",
+   "vocab:Bleistift|pencil"
+  ],
+  "dw-a1-e5-l1:die-brille": [
+   "article:Brille|f",
+   "vocab:Brille|eyeglasses"
+  ],
+  "dw-a1-e5-l1:das-buch": [
+   "article:Buch|n",
+   "vocab:Buch|book"
+  ],
+  "dw-a1-e5-l1:der-deutschkurs": [
+   "article:Deutschkurs|m",
+   "vocab:Deutschkurs|german-course"
+  ],
+  "dw-a1-e5-l1:die-plural": [
+   "vocab:die|the-plural"
+  ],
+  "dw-a1-e5-l1:der-lehrer": [
+   "article:Lehrer|m",
+   "vocab:Lehrer|teacher-male"
+  ],
+  "dw-a1-e5-l1:die-lehrerin": [
+   "article:Lehrerin|f",
+   "vocab:Lehrerin|teacher-female"
+  ],
+  "dw-a1-e5-l1:der-notizblock": [
+   "article:Notizblock|m",
+   "vocab:Notizblock|notebook"
+  ],
+  "dw-a1-e5-l1:das-papier-material": [
+   "article:Papier|n",
+   "vocab:Papier|paper"
+  ],
+  "dw-a1-e5-l1:der-radiergummi": [
+   "vocab:Radiergummi|eraser"
+  ],
+  "dw-a1-e5-l1:der-schluessel": [
+   "article:Schlüssel|m",
+   "vocab:Schlüssel|key"
+  ],
+  "dw-a1-e5-l1:die-sprachschule": [
+   "article:Sprachschule|f",
+   "vocab:Sprachschule|language-school"
+  ],
+  "dw-a1-e5-l1:der-stift": [
+   "article:Stift|m",
+   "vocab:Stift|pen"
+  ],
+  "dw-a1-e5-l1:unterrichten": [
+   "vocab:unterrichten|to-teach"
+  ],
+  "dw-a1-e5-l1:wie-heisst-das-auf-deutsch": [
+   "vocab:Wie heißt das auf Deutsch?|what-is-that-in-german"
+  ],
+  "dw-a1-e5-l1:der-unterricht": [
+   "article:Unterricht|m",
+   "vocab:Unterricht|lesson"
+  ],
+  "dw-a1-e5-l1:holen": [
+   "vocab:holen|to-fetch"
+  ],
+  "dw-a1-e5-l1:echt": [
+   "vocab:echt|really"
+  ],
+  "dw-a1-e5-l1:die-volkshochschule": [
+   "article:Volkshochschule|f",
+   "vocab:Volkshochschule|adult-education-centre"
+  ],
+  "dw-a1-e5-l1:der-integrationskurs": [
+   "article:Integrationskurs|m",
+   "vocab:Integrationskurs|integration-course"
   ],
   "vhs-a1-l02:die-familie": [
    "article:Familie|f",

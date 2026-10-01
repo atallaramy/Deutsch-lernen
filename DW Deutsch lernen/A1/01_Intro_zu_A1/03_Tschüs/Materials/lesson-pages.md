@@ -1,6 +1,6 @@
 # DW A1 E0 L3 · Tschüss!: vocabulary, grammar and culture pages
 
-Copied from learngerman.dw.com on 2026-09-27 by `ANKI/harvest_sources.py`; do not edit, rerun it. The same text is in `source-snapshot.json`.
+Copied from learngerman.dw.com on 2026-10-04 by `ANKI/harvest_sources.py`; do not edit, rerun it. The same text is in `source-snapshot.json`.
 
 ## Vocabulary
 
@@ -25,6 +25,10 @@ Copied from learngerman.dw.com on 2026-09-27 by `ANKI/harvest_sources.py`; do no
 
 **Saying goodbye: informal**
 
+Image:
+
+- A man and a woman say goodbye by hugging.
+
 *Tschüss, Martina!* – *Mach's gut!*
 
 *Bis bald! – Tschüss!*
@@ -35,6 +39,10 @@ Copied from learngerman.dw.com on 2026-09-27 by `ANKI/harvest_sources.py`; do no
  
 
 **Saying goodbye: formal**
+
+Image:
+
+- Mrs Kamp und Mr Müller greet each other formally by shaking hands.
 
 *Auf Wiedersehen, Herr Tillmanns! – Auf Wiedersehen!*
 

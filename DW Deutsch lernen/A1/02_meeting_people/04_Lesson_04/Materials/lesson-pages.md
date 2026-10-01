@@ -1,6 +1,6 @@
 # DW A1 E1 L4 · Nico hat ein Problem: vocabulary, grammar and culture pages
 
-Copied from learngerman.dw.com on 2026-09-27 by `ANKI/harvest_sources.py`; do not edit, rerun it. The same text is in `source-snapshot.json`.
+Copied from learngerman.dw.com on 2026-10-04 by `ANKI/harvest_sources.py`; do not edit, rerun it. The same text is in `source-snapshot.json`.
 
 ## Vocabulary
 
@@ -38,6 +38,10 @@ Copied from learngerman.dw.com on 2026-09-27 by `ANKI/harvest_sources.py`; do no
 <https://learngerman.dw.com/en/conjugation-haben/l-37265543/gr-38310825>
 
 *Welche Nummer **hast** du? – Ich **habe** die Nummer vier, eins, acht, sieben.*
+
+Image:
+
+- A person hands someone a waiting number with the number 4187.
 
 **Conjugation of the verb *haben***
 
@@ -118,9 +122,17 @@ Example: *sein*
 
 <https://learngerman.dw.com/en/personal-pronouns-er-sie/l-37265543/gr-38320906>
 
+Image:
+
+- Nico with arms crossed.
+
 ***Er*** *heißt Nico.*
 
  
+
+Image:
+
+- Deutschkurse \| Nicos Weg \| Potrait_Lisa2_2265
 
 ***Sie*** *heißt Lisa.*
 
@@ -137,13 +149,25 @@ Third person singular:
 
 <https://learngerman.dw.com/en/personal-pronouns-plural/l-37265543/gr-38321282>
 
+Image:
+
+- Nico carries a smiling Emma on his back.
+
 Nico says: ***Wir*** *heißen Nico und Emma.*
 
  
 
+Image:
+
+- Pepe, Emma and Nico can be seen. Pep and Emma look at Nico, Nico looks questioningly at the camera.
+
 Nico asks: *Wie heißt **ihr**?*
 
  
+
+Image:
+
+- Pepe and Emma stand with crossed arms next to each other. Nico stands with his back to them and points at them with his thumb.
 
 Nico says: ***Sie*** *heißen Pepe und Emma.*
 

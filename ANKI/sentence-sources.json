@@ -599,7 +599,8 @@
     "source": "script"
    },
    "covers": [
-    "dw-a1-e1-l3:was-machst-du-hier"
+    "dw-a1-e1-l3:was-machst-du-hier",
+    "dw-a1-e3-l1:was-machst-du-hier"
    ]
   },
   {
@@ -1458,7 +1459,8 @@
     "source": "exercises"
    },
    "covers": [
-    "dw-a1-e2-l4:wie-viel-kostet"
+    "dw-a1-e2-l4:wie-viel-kostet",
+    "dw-a1-e3-l4:wie-viel-kostet"
    ]
   },
   {
@@ -1480,6 +1482,884 @@
    "covers": [
     "dw-a1-e2-l4:das-fahrrad-kostet-834-euro"
    ]
+  },
+  {
+   "key": "who-is-that-denn",
+   "kind": "production",
+   "lesson": "dw-a1-e3-l1",
+   "skill": "asking about a person",
+   "scene": "Your flatmate comes home with someone you don't know. Ask who that is (casual, with denn).",
+   "answer": "Wer ist denn das?",
+   "answerSource": {
+    "lesson": "dw-a1-e3-l1",
+    "source": "script"
+   },
+   "covers": [
+    "dw-a1-e3-l1:wer-ist-denn-das"
+   ]
+  },
+  {
+   "key": "offer-du",
+   "kind": "production",
+   "lesson": "dw-a1-e3-l1",
+   "skill": "register switch",
+   "scene": "At work, you and a colleague still say Sie. Suggest using du with each other (a question with nicht).",
+   "answer": "Wollen wir uns nicht duzen?",
+   "answerSource": {
+    "lesson": "dw-a1-e3-l1",
+    "source": "exercises"
+   },
+   "covers": [
+    "dw-a1-e3-l1:wollen-wir-uns-nicht-duzen"
+   ]
+  },
+  {
+   "key": "accept-du",
+   "kind": "response",
+   "lesson": "dw-a1-e3-l1",
+   "skill": "register switch",
+   "scene": "A colleague offers du. Accept in one word, then give your first name, as Kerstin does.",
+   "prompt": {
+    "lesson": "dw-a1-e3-l1",
+    "source": "exercises",
+    "text": "Entschuldigung, wollen wir uns nicht duzen?"
+   },
+   "answer": "Gern. Ich heiße Kerstin.",
+   "answerSource": {
+    "lesson": "dw-a1-e3-l1",
+    "source": "exercises"
+   },
+   "covers": [],
+   "accept": [
+    "Gerne. Ich heiße Kerstin."
+   ]
+  },
+  {
+   "key": "offer-drink-informal",
+   "kind": "production",
+   "lesson": "dw-a1-e3-l1",
+   "skill": "offering",
+   "scene": "Offer a friend (du) something to drink.",
+   "answer": "Möchtest du etwas trinken?",
+   "answerSource": {
+    "lesson": "dw-a1-e3-l1",
+    "source": "script"
+   },
+   "covers": [
+    "dw-a1-e3-l1:moechtest-du-etwas-trinken"
+   ]
+  },
+  {
+   "key": "ask-drink-du",
+   "kind": "production",
+   "lesson": "dw-a1-e3-l2",
+   "skill": "offering",
+   "scene": "A friend (du) is visiting. Ask what they would like to drink (a W-question with möchten).",
+   "answer": "Was möchtest du trinken?",
+   "answerSource": {
+    "lesson": "dw-a1-e3-l2",
+    "source": "script"
+   },
+   "covers": [
+    "dw-a1-e3-l2:was-moechtest-du-trinken"
+   ],
+   "note": "Yes/no offer: Möchtest du etwas trinken?"
+  },
+  {
+   "key": "ask-drink-ihr",
+   "kind": "production",
+   "lesson": "dw-a1-e3-l2",
+   "skill": "offering",
+   "scene": "Two friends (ihr) are visiting. Ask what they would like to drink (with möchten).",
+   "answer": "Was möchtet ihr trinken?",
+   "answerSource": {
+    "lesson": "dw-a1-e3-l2",
+    "source": "script"
+   },
+   "covers": [
+    "dw-a1-e3-l2:was-moechtet-ihr-trinken"
+   ],
+   "note": "du möchtest · ihr möchtet · Sie möchten"
+  },
+  {
+   "key": "ask-drink-sie",
+   "kind": "production",
+   "lesson": "dw-a1-e3-l2",
+   "skill": "register switch",
+   "scene": "A guest you say Sie to is visiting. Ask what they would like to drink (with möchten).",
+   "answer": "Was möchten Sie trinken?",
+   "answerSource": {
+    "lesson": "dw-a1-e3-l2",
+    "source": "exercises"
+   },
+   "covers": [
+    "dw-a1-e3-l2:was-moechten-sie-trinken"
+   ]
+  },
+  {
+   "key": "ask-drinking-du",
+   "kind": "production",
+   "lesson": "dw-a1-e3-l2",
+   "skill": "offering",
+   "scene": "At a party, ask a friend (du) what they're drinking (three words, with trinken).",
+   "answer": "Was trinkst du?",
+   "answerSource": {
+    "lesson": "dw-a1-e3-l2",
+    "source": "exercises"
+   },
+   "covers": [
+    "dw-a1-e3-l2:was-trinkst-du"
+   ],
+   "note": "Sie: Und was trinken Sie?"
+  },
+  {
+   "key": "what-is-there",
+   "kind": "response",
+   "lesson": "dw-a1-e3-l2",
+   "skill": "conversation response",
+   "scene": "Your host asks what you'd like. First ask what there is (with denn).",
+   "prompt": {
+    "lesson": "dw-a1-e3-l2",
+    "source": "script",
+    "text": "So. Was möchtet ihr trinken?"
+   },
+   "answer": "Was gibt es denn?",
+   "answerSource": {
+    "lesson": "dw-a1-e3-l2",
+    "source": "script"
+   },
+   "covers": [
+    "dw-a1-e3-l3:was-gibt-es-denn"
+   ]
+  },
+  {
+   "key": "coffee-for-me",
+   "kind": "production",
+   "lesson": "dw-a1-e3-l2",
+   "skill": "ordering",
+   "scene": "Your host offers drinks. Ask for a coffee for you, please (start with Für mich).",
+   "answer": "Für mich bitte einen Kaffee.",
+   "answerSource": {
+    "lesson": "dw-a1-e3-l2",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "der Kaffee → einen Kaffee"
+  },
+  {
+   "key": "milk-little-sugar",
+   "kind": "response",
+   "lesson": "dw-a1-e3-l2",
+   "skill": "conversation response",
+   "scene": "You want a lot of milk but only a little sugar. Answer (start with Ja).",
+   "prompt": {
+    "lesson": "dw-a1-e3-l2",
+    "source": "script",
+    "text": "Mit Milch und Zucker?"
+   },
+   "answer": "Ja, mit viel Milch, aber wenig Zucker.",
+   "answerSource": {
+    "lesson": "dw-a1-e3-l2",
+    "source": "script"
+   },
+   "covers": []
+  },
+  {
+   "key": "then-lemonade",
+   "kind": "production",
+   "lesson": "dw-a1-e3-l2",
+   "skill": "ordering",
+   "scene": "The others have chosen. Say that then you'll have lemonade (start with Dann, use nehmen).",
+   "answer": "Dann nehme ich Limonade.",
+   "answerSource": {
+    "lesson": "dw-a1-e3-l2",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "Dann first, so the verb comes next: Dann nehme ich …"
+  },
+  {
+   "key": "hungry-ihr",
+   "kind": "production",
+   "lesson": "dw-a1-e3-l2",
+   "skill": "haben + noun",
+   "scene": "Two friends (ihr) are visiting. Ask if they're hungry (German: have hunger).",
+   "answer": "Habt ihr Hunger?",
+   "answerSource": {
+    "lesson": "dw-a1-e3-l2",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "Hunger haben, Durst haben: Hast du auch Durst?"
+  },
+  {
+   "key": "ask-order-ihr",
+   "kind": "production",
+   "lesson": "dw-a1-e3-l3",
+   "skill": "ordering",
+   "scene": "Hand two friends (ihr) the menu. Ask what they're having (with nehmen).",
+   "answer": "Was nehmt ihr?",
+   "answerSource": {
+    "lesson": "dw-a1-e3-l3",
+    "source": "script"
+   },
+   "covers": [
+    "dw-a1-e3-l3:was-nehmt-ihr"
+   ],
+   "note": "du: Was nimmst du? · Sie: was nehmen Sie?"
+  },
+  {
+   "key": "anything-else-tuna",
+   "kind": "response",
+   "lesson": "dw-a1-e3-l3",
+   "skill": "ordering",
+   "scene": "You're ordering pizza by phone. Say yes, please: you'll also have a pizza with tuna (with nehmen).",
+   "prompt": {
+    "lesson": "dw-a1-e3-l3",
+    "source": "exercises",
+    "text": "Gern. Sonst noch etwas?"
+   },
+   "answer": "Ja, bitte. Ich nehme auch eine Pizza mit Thunfisch.",
+   "answerSource": {
+    "lesson": "dw-a1-e3-l3",
+    "source": "exercises"
+   },
+   "covers": []
+  },
+  {
+   "key": "nehmen-du-nimmst",
+   "kind": "completion",
+   "lesson": "dw-a1-e3-l3",
+   "skill": "vowel change e to i",
+   "scene": "Sebastian asks Lisa what she's having (nehmen, du).",
+   "prompt": {
+    "lesson": "dw-a1-e3-l3",
+    "source": "exercises",
+    "text": "Was nimmst du, Lisa?",
+    "target": "nimmst"
+   },
+   "answer": "nimmst",
+   "covers": [],
+   "note": "ich nehme · du nimmst · er/sie/es nimmt: e → i, and h → mm"
+  },
+  {
+   "key": "nehmen-er-nimmt",
+   "kind": "completion",
+   "lesson": "dw-a1-e3-l3",
+   "skill": "vowel change e to i",
+   "scene": "Lisa tells Sebastian what Nico is having (nehmen, er).",
+   "prompt": {
+    "lesson": "dw-a1-e3-l3",
+    "source": "exercises",
+    "text": "Er nimmt eine Pizza mit Salami.",
+    "target": "nimmt"
+   },
+   "answer": "nimmt",
+   "covers": [],
+   "note": "du nimmst · er nimmt (no s)"
+  },
+  {
+   "key": "essen-du-isst",
+   "kind": "completion",
+   "lesson": "dw-a1-e3-l3",
+   "skill": "vowel change e to i",
+   "scene": "Ask Nina what she likes to eat (essen, du).",
+   "prompt": {
+    "lesson": "dw-a1-e3-l3",
+    "source": "exercises",
+    "text": "Und was isst du gern, Nina?",
+    "target": "isst"
+   },
+   "answer": "isst",
+   "covers": [],
+   "note": "ich esse · du isst · er/sie/es isst. Not er ist (sein)."
+  },
+  {
+   "key": "ch-ach-sound",
+   "kind": "rule",
+   "lesson": "dw-a1-e3-l3",
+   "skill": "pronunciation",
+   "scene": "DW tip: after which vowels does \"ch\" sound like in \"ach\"? Type the three vowels as DW writes them.",
+   "answer": "a, o, u",
+   "answerSource": {
+    "lesson": "dw-a1-e3-l3",
+    "source": "exercises"
+   },
+   "covers": [],
+   "note": "a, o, u → ach sound: auch, suchen, acht · i, e, ä, ö, ü → ich sound: ich, Milch, möchten"
+  },
+  {
+   "key": "ask-to-pay",
+   "kind": "production",
+   "lesson": "dw-a1-e3-l4",
+   "skill": "paying",
+   "scene": "In a café: tell the waiter you'd like to pay, please (with möchten).",
+   "answer": "Ich möchte zahlen bitte.",
+   "answerSource": {
+    "lesson": "dw-a1-e3-l4",
+    "source": "exercises"
+   },
+   "covers": [
+    "dw-a1-e3-l4:ich-moechte-zahlen-bitte"
+   ],
+   "accept": [
+    "Ich möchte zahlen, bitte."
+   ]
+  },
+  {
+   "key": "together-or-separately-formal",
+   "kind": "production",
+   "lesson": "dw-a1-e3-l4",
+   "skill": "formal question",
+   "scene": "You're the waiter. Ask the guests (Sie) if they're paying together or separately.",
+   "answer": "Zahlen Sie zusammen oder getrennt?",
+   "answerSource": {
+    "lesson": "dw-a1-e3-l4",
+    "source": "script"
+   },
+   "covers": [
+    "dw-a1-e3-l4:zahlen-sie-zusammen-oder-getrennt"
+   ]
+  },
+  {
+   "key": "pay-separately-reply",
+   "kind": "response",
+   "lesson": "dw-a1-e3-l4",
+   "skill": "paying",
+   "scene": "You and your friends each pay for yourselves. Answer the waiter politely.",
+   "prompt": {
+    "lesson": "dw-a1-e3-l4",
+    "source": "script",
+    "text": "Zahlen Sie zusammen oder getrennt?"
+   },
+   "answer": "Getrennt bitte.",
+   "answerSource": {
+    "lesson": "dw-a1-e3-l4",
+    "source": "exercises"
+   },
+   "covers": [],
+   "note": "All together: Zusammen bitte."
+  },
+  {
+   "key": "cash-or-card-formal",
+   "kind": "production",
+   "lesson": "dw-a1-e3-l4",
+   "skill": "formal question",
+   "scene": "You're the waiter. Ask the guest (Sie) if they're paying in cash or by card.",
+   "answer": "Zahlen Sie bar oder mit Karte?",
+   "answerSource": {
+    "lesson": "dw-a1-e3-l4",
+    "source": "script"
+   },
+   "covers": [
+    "dw-a1-e3-l4:zahlen-sie-bar-oder-mit-karte"
+   ]
+  },
+  {
+   "key": "pay-cash-reply",
+   "kind": "response",
+   "lesson": "dw-a1-e3-l4",
+   "skill": "paying",
+   "scene": "Answer the waiter: you're paying in cash (a full sentence with zahlen).",
+   "prompt": {
+    "lesson": "dw-a1-e3-l4",
+    "source": "script",
+    "text": "Zahlen Sie bar oder mit Karte?"
+   },
+   "answer": "Ich zahle bar.",
+   "answerSource": {
+    "lesson": "dw-a1-e3-l4",
+    "source": "script"
+   },
+   "covers": [
+    "dw-a1-e3-l4:ich-zahle-bar"
+   ],
+   "note": "By card: Mit Karte bitte."
+  },
+  {
+   "key": "how-many-euros",
+   "kind": "production",
+   "lesson": "dw-a1-e3-l4",
+   "skill": "asking a price",
+   "scene": "At the till: ask how many euros that comes to (with macht).",
+   "answer": "Wie viel Euro macht das?",
+   "answerSource": {
+    "lesson": "dw-a1-e3-l4",
+    "source": "exercises"
+   },
+   "covers": [
+    "dw-a1-e3-l4:wie-viel-euro-macht-das"
+   ]
+  },
+  {
+   "key": "total-together",
+   "kind": "response",
+   "lesson": "dw-a1-e3-l4",
+   "skill": "paying",
+   "scene": "You deliver the pizzas. Lisa pays for everything: tell her the total is €40.50 (with zusammen).",
+   "prompt": {
+    "lesson": "dw-a1-e3-l4",
+    "source": "script",
+    "text": "Zusammen. Was kostet das?"
+   },
+   "answer": "Das macht zusammen 40,50 Euro.",
+   "answerSource": {
+    "lesson": "dw-a1-e3-l4",
+    "source": "script"
+   },
+   "covers": [
+    "dw-a1-e3-l4:das-macht",
+    "dw-a1-e3-l4:das-macht-zusammen"
+   ],
+   "note": "Prices take a comma: 40,50 Euro."
+  },
+  {
+   "key": "price-question-was",
+   "kind": "production",
+   "lesson": "dw-a1-e3-l4",
+   "skill": "asking a price",
+   "scene": "At a sushi bar: ask what the sushi costs (with Was …?).",
+   "answer": "Was kostet das Sushi?",
+   "answerSource": {
+    "lesson": "dw-a1-e3-l4",
+    "source": "exercises"
+   },
+   "covers": [
+    "dw-a1-e3-l4:was-kostet"
+   ],
+   "note": "Also: Wie viel kostet das Sushi?"
+  },
+  {
+   "key": "say-price-750",
+   "kind": "production",
+   "lesson": "dw-a1-e3-l4",
+   "skill": "saying prices",
+   "scene": "A pizza costs €7.50. Say the price in words, the way Germans say it.",
+   "answer": "Sieben Euro fünfzig.",
+   "answerSource": {
+    "lesson": "dw-a1-e3-l4",
+    "source": "exercises"
+   },
+   "covers": [],
+   "note": "DW: „7,55 Euro“ is said „7 Euro 55“, without „Cent“; „0,99 Euro“ is „99 Cent“."
+  },
+  {
+   "key": "glad-youre-here-ihr",
+   "kind": "production",
+   "lesson": "dw-a1-e4-l1",
+   "skill": "welcoming guests",
+   "scene": "Your friends (ihr) arrive at your party. Tell them you're glad they're here.",
+   "answer": "Schön, dass ihr da seid!",
+   "answerSource": {
+    "lesson": "dw-a1-e4-l1",
+    "source": "script"
+   },
+   "covers": [
+    "dw-a1-e4-l1:schoen-dass-ihr-da-seid"
+   ],
+   "note": "One friend (du): Schön, dass du da bist!"
+  },
+  {
+   "key": "nice-to-see-you-du",
+   "kind": "completion",
+   "lesson": "dw-a1-e4-l1",
+   "skill": "greeting",
+   "scene": "You arrive at Nawin's party. Greet him (du): nice to see you!",
+   "prompt": {
+    "lesson": "dw-a1-e4-l1",
+    "source": "script",
+    "text": "Hallo, Nawin, schön, dich zu sehen!",
+    "target": "schön, dich zu sehen"
+   },
+   "answer": "schön, dich zu sehen",
+   "covers": [
+    "dw-a1-e4-l1:schoen-dich-zu-sehen"
+   ],
+   "note": "Formal (Sie): schön, Sie zu sehen"
+  },
+  {
+   "key": "been-to-cologne-du",
+   "kind": "production",
+   "lesson": "dw-a1-e4-l1",
+   "skill": "past of sein",
+   "scene": "Ask a friend (du) if they have ever been to Cologne.",
+   "answer": "Warst du schon mal in Köln?",
+   "answerSource": {
+    "lesson": "dw-a1-e4-l1",
+    "source": "script"
+   },
+   "covers": [
+    "dw-a1-e4-l1:warst-du-schon-mal-in"
+   ]
+  },
+  {
+   "key": "never-been-to-munich",
+   "kind": "production",
+   "lesson": "dw-a1-e4-l1",
+   "skill": "past of sein",
+   "scene": "A friend asks if you have ever been to Munich. Say no, you have never been there (a full sentence).",
+   "answer": "Nein, ich war noch nie in München.",
+   "answerSource": {
+    "lesson": "dw-a1-e4-l1",
+    "source": "exercises"
+   },
+   "covers": [
+    "dw-a1-e4-l1:ich-war-noch-nie-in"
+   ],
+   "note": "Yes: Ja, ich war schon mal in München."
+  },
+  {
+   "key": "sein-past-ihr-wart",
+   "kind": "completion",
+   "lesson": "dw-a1-e4-l1",
+   "skill": "past of sein",
+   "scene": "Nawin asks Nina and Sebastian (ihr) if they have been to Berlin (sein, past).",
+   "prompt": {
+    "lesson": "dw-a1-e4-l1",
+    "source": "script",
+    "text": "Ihr wart schon mal in Berlin, oder?",
+    "target": "wart"
+   },
+   "answer": "wart",
+   "covers": [],
+   "learnerError": {
+    "wrong": "Ihr war",
+    "why": "ihr takes wart"
+   },
+   "note": "ich war · du warst · er/sie/es war · wir waren · ihr wart · sie/Sie waren"
+  },
+  {
+   "key": "want-to-go-to-berlin",
+   "kind": "production",
+   "lesson": "dw-a1-e4-l1",
+   "skill": "wohin: nach + city",
+   "scene": "Your friends were in Berlin. Say you'd like to go there sometime too, as Nico does (no fahren).",
+   "answer": "Ich möchte auch mal nach Berlin.",
+   "answerSource": {
+    "lesson": "dw-a1-e4-l1",
+    "source": "exercises"
+   },
+   "covers": [
+    "dw-a1-e4-l1:ich-moechte-auch-mal-nach-berlin"
+   ]
+  },
+  {
+   "key": "where-study-in-leipzig",
+   "kind": "response",
+   "lesson": "dw-a1-e4-l1",
+   "skill": "wo: in + city",
+   "scene": "Chi is a student at Leipzig University. Answer the question (a full sentence with er).",
+   "prompt": {
+    "lesson": "dw-a1-e4-l1",
+    "source": "exercises",
+    "text": "Wo studiert er?"
+   },
+   "answer": "Er studiert in Leipzig.",
+   "answerSource": {
+    "lesson": "dw-a1-e4-l1",
+    "source": "exercises"
+   },
+   "covers": [],
+   "note": "Wo? → in Leipzig · Wohin? → nach Leipzig · Woher? → aus Leipzig"
+  },
+  {
+   "key": "come-and-play-along",
+   "kind": "production",
+   "lesson": "dw-a1-e4-l2",
+   "skill": "invitations (du)",
+   "scene": "At the party, Nico stands apart. Call to him (du): come and play along!",
+   "answer": "Komm und spiel mit!",
+   "answerSource": {
+    "lesson": "dw-a1-e4-l2",
+    "source": "script"
+   },
+   "covers": [
+    "dw-a1-e4-l2:komm-und-spiel-mit"
+   ],
+   "learnerError": {
+    "wrong": "Nico! komm, und spiel mit!",
+    "why": "after ! a new sentence starts with a capital: Komm; no comma before und"
+   },
+   "note": "mitspielen (to play along) splits: spiel … mit."
+  },
+  {
+   "key": "ask-where-located",
+   "kind": "production",
+   "lesson": "dw-a1-e4-l2",
+   "skill": "asking where a place is",
+   "scene": "Ask where Baden-Württemberg is (with liegen).",
+   "answer": "Wo liegt Baden-Württemberg?",
+   "answerSource": {
+    "lesson": "dw-a1-e4-l2",
+    "source": "exercises"
+   },
+   "covers": [
+    "dw-a1-e4-l2:wo-liegt"
+   ]
+  },
+  {
+   "key": "seville-south-of-spain",
+   "kind": "production",
+   "lesson": "dw-a1-e4-l2",
+   "skill": "saying where a place is",
+   "scene": "Nico tells Selma where Seville is: in the south of Spain (with ist).",
+   "answer": "Sevilla ist im Süden von Spanien.",
+   "answerSource": {
+    "lesson": "dw-a1-e4-l2",
+    "source": "script"
+   },
+   "covers": [],
+   "learnerError": {
+    "wrong": "Spanien - das ist Süden, oder?",
+    "why": "in the south: im Süden"
+   }
+  },
+  {
+   "key": "potsdam-near-berlin",
+   "kind": "response",
+   "lesson": "dw-a1-e4-l2",
+   "skill": "saying where a place is",
+   "scene": "Answer: Potsdam is near Berlin (with liegen).",
+   "prompt": {
+    "lesson": "dw-a1-e4-l2",
+    "source": "exercises",
+    "text": "Wo liegt Potsdam?"
+   },
+   "answer": "Potsdam liegt in der Nähe von Berlin.",
+   "answerSource": {
+    "lesson": "dw-a1-e4-l2",
+    "source": "exercises"
+   },
+   "covers": []
+  },
+  {
+   "key": "yes-no-from-italy",
+   "kind": "production",
+   "lesson": "dw-a1-e4-l2",
+   "skill": "yes-no questions",
+   "scene": "Ask a friend (du) if they come from Italy (a yes-no question).",
+   "answer": "Kommst du aus Italien?",
+   "answerSource": {
+    "lesson": "dw-a1-e4-l2",
+    "source": "exercises"
+   },
+   "covers": [],
+   "note": "The verb comes first. W-question: Woher kommst du?"
+  },
+  {
+   "key": "man-isst-in-spanien",
+   "kind": "completion",
+   "lesson": "dw-a1-e4-l3",
+   "skill": "man + verb",
+   "scene": "People in Spain (in general) like eating gazpacho. Fill in essen for man.",
+   "prompt": {
+    "lesson": "dw-a1-e4-l3",
+    "source": "exercises",
+    "text": "Man isst in Spanien gern Gazpacho.",
+    "target": "isst"
+   },
+   "answer": "isst",
+   "covers": [],
+   "note": "man takes the er/sie/es form: er isst · man isst. man (one n) ≠ der Mann."
+  },
+  {
+   "key": "now-in-germany-time-first",
+   "kind": "production",
+   "lesson": "dw-a1-e4-l3",
+   "skill": "word order: time first",
+   "scene": "Start with Jetzt: say that you are in Germany now.",
+   "answer": "Jetzt bin ich in Deutschland.",
+   "answerSource": {
+    "lesson": "dw-a1-e4-l3",
+    "source": "exercises"
+   },
+   "covers": [],
+   "note": "The verb stays 2nd; the subject comes 3rd. Subject first: Ich bin jetzt in Deutschland."
+  },
+  {
+   "key": "cheese-in-france-place-first",
+   "kind": "production",
+   "lesson": "dw-a1-e4-l3",
+   "skill": "word order: place first",
+   "scene": "Start with In Frankreich: say that people there eat a lot of cheese (man).",
+   "answer": "In Frankreich isst man viel Käse.",
+   "answerSource": {
+    "lesson": "dw-a1-e4-l3",
+    "source": "exercises"
+   },
+   "covers": [],
+   "note": "In Frankreich fills position 1 together; the verb is 2nd. Subject first: Man isst in Frankreich viel Käse."
+  },
+  {
+   "key": "pizza-in-italy-object-first",
+   "kind": "production",
+   "lesson": "dw-a1-e4-l3",
+   "skill": "word order: object first",
+   "scene": "Start with Pizza (to stress it): say that people eat pizza in Italy (man).",
+   "answer": "Pizza isst man in Italien.",
+   "answerSource": {
+    "lesson": "dw-a1-e4-l3",
+    "source": "exercises"
+   },
+   "covers": [],
+   "note": "Place first: In Italien isst man Pizza. Subject first: Man isst in Italien Pizza."
+  },
+  {
+   "key": "today-cathedral-time-first",
+   "kind": "production",
+   "lesson": "dw-a1-e4-l3",
+   "skill": "word order: time first",
+   "scene": "Start with Heute: write to Lisa that you and Paul (wir) are visiting the cathedral today (besichtigen).",
+   "answer": "Heute besichtigen wir den Dom.",
+   "answerSource": {
+    "lesson": "dw-a1-e4-l3",
+    "source": "exercises"
+   },
+   "covers": [],
+   "note": "The verb stays 2nd; the subject comes 3rd. Subject first: Wir besichtigen heute den Dom."
+  },
+  {
+   "key": "which-languages-du",
+   "kind": "production",
+   "lesson": "dw-a1-e4-l4",
+   "skill": "informal question",
+   "scene": "Ask a friend (du) which languages they speak.",
+   "answer": "Welche Sprachen sprichst du?",
+   "answerSource": {
+    "lesson": "dw-a1-e4-l4",
+    "source": "script"
+   },
+   "covers": [
+    "dw-a1-e4-l4:welche-sprachen-sprichst-du"
+   ],
+   "learnerError": {
+    "wrong": "Welche Sprachen sprechst du?",
+    "why": "sprechen → du sprichst (e → i)"
+   },
+   "note": "Formal: Welche Sprachen sprechen Sie?"
+  },
+  {
+   "key": "speak-a-little-german",
+   "kind": "production",
+   "lesson": "dw-a1-e4-l4",
+   "skill": "sprechen + ein bisschen",
+   "scene": "Say that you speak a little German.",
+   "answer": "Ich spreche ein bisschen Deutsch.",
+   "answerSource": {
+    "lesson": "dw-a1-e4-l4",
+    "source": "exercises"
+   },
+   "covers": []
+  },
+  {
+   "key": "native-language-spanish",
+   "kind": "production",
+   "lesson": "dw-a1-e4-l4",
+   "skill": "saying your languages",
+   "scene": "You are Nico. Say that Spanish is your native language (start with Spanisch).",
+   "answer": "Spanisch ist meine Muttersprache.",
+   "answerSource": {
+    "lesson": "dw-a1-e4-l4",
+    "source": "exercises"
+   },
+   "covers": [],
+   "note": "Also: Meine Muttersprache ist …"
+  },
+  {
+   "key": "switzerland-west-of-austria",
+   "kind": "production",
+   "lesson": "dw-a1-e4-l4",
+   "skill": "…lich von: beside a country",
+   "scene": "Say that Switzerland lies west of Austria (start with the direction word, then liegt).",
+   "answer": "Westlich von Österreich liegt die Schweiz.",
+   "answerSource": {
+    "lesson": "dw-a1-e4-l4",
+    "source": "exercises"
+   },
+   "covers": [],
+   "learnerError": {
+    "wrong": "Im Westlich von Ägepten liegt Libyen",
+    "why": "beside a country: westlich von; im Westen von is inside it"
+   },
+   "note": "Inside Austria: Innsbruck ist im Westen von Österreich."
+  },
+  {
+   "key": "egypt-in-east-of-north-africa",
+   "kind": "production",
+   "lesson": "dw-a1-e4-l4",
+   "skill": "im … von: inside a region",
+   "scene": "Say that Egypt lies in the eastern part of North Africa (it is inside North Africa; start with Ägypten).",
+   "answer": "Ägypten liegt im Osten von Nordafrika.",
+   "answerSource": "learner-notes",
+   "covers": [
+    "dw-a1-e4-l4:aegypten-liegt-im-osten-von-nordafrika"
+   ],
+   "note": "Inside: im Osten von … · next to it, outside: östlich von …"
+  },
+  {
+   "key": "sudan-south-of-egypt",
+   "kind": "production",
+   "lesson": "dw-a1-e4-l4",
+   "skill": "…lich von: next to a country",
+   "scene": "Say that Sudan lies south of Egypt (next to it, not inside; start with the direction word).",
+   "answer": "Südlich von Ägypten liegt der Sudan.",
+   "answerSource": "learner-notes",
+   "covers": [
+    "dw-a1-e4-l4:suedlich-von-aegypten-liegt-der-sudan"
+   ],
+   "learnerError": {
+    "wrong": "Im Süden von Ägypten liegt der Sudan.",
+    "why": "im Süden von Ägypten is inside Egypt; Sudan is next to it: südlich von"
+   },
+   "note": "Inside: im Osten von … · next to it, outside: östlich von …"
+  },
+  {
+   "key": "red-sea-east-of-egypt",
+   "kind": "production",
+   "lesson": "dw-a1-e4-l4",
+   "skill": "…lich von: next to a country",
+   "scene": "Say that the Red Sea lies east of Egypt (next to it, not inside; start with the direction word).",
+   "answer": "Östlich von Ägypten liegt das Rote Meer.",
+   "answerSource": "learner-notes",
+   "covers": [
+    "dw-a1-e4-l4:oestlich-von-aegypten-liegt-das-rote-meer"
+   ],
+   "learnerError": {
+    "wrong": "Im Osten von Ägypten liegt das Rote Meer.",
+    "why": "im Osten von Ägypten is inside Egypt; the sea is next to it: östlich von"
+   },
+   "note": "Inside: im Osten von … · next to it, outside: östlich von …"
+  },
+  {
+   "key": "where-are-the-pens",
+   "kind": "production",
+   "lesson": "dw-a1-e5-l1",
+   "skill": "plural: Wo sind …?",
+   "scene": "Ask where the pens are (more than one pen).",
+   "answer": "Wo sind die Stifte?",
+   "answerSource": {
+    "lesson": "dw-a1-e5-l1",
+    "source": "exercises"
+   },
+   "covers": [],
+   "learnerError": {
+    "wrong": "wo ist die Stifte",
+    "why": "die Stifte is plural: sind"
+   },
+   "note": "One: Wo ist der Stift? · more than one: Wo sind die Stifte?"
+  },
+  {
+   "key": "have-to-go-to-class",
+   "kind": "production",
+   "lesson": "dw-a1-e5-l1",
+   "skill": "useful phrase",
+   "scene": "You're in a hurry: say you have to go to class!",
+   "answer": "Ich muss zum Unterricht!",
+   "answerSource": {
+    "lesson": "dw-a1-e5-l1",
+    "source": "script"
+   },
+   "covers": []
   }
  ]
 }

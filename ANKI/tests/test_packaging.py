@@ -68,6 +68,28 @@ class Packaging(unittest.TestCase):
             self.assertEqual(content_digest(a), content_digest(b))
             self.assertNotEqual(content_digest(b), content_digest(c))
 
+    def test_unchanged_decks_and_built_lesson_decks_keep_their_files(self):
+        from anki_package_utils import DeckSpec, Note
+        data = load()
+        cards, _, _ = build_all.collect(data)
+        card = next(card for card in cards if card.deck == "vocabulary")
+        note_type = build_all.DECKS["vocabulary"][0].NOTE_TYPE
+        with tempfile.TemporaryDirectory() as temp:
+            cumulative, lesson = Path(temp) / "cumulative.apkg", Path(temp) / "lesson.apkg"
+
+            def specs(cue):
+                fields = {**card.fields, "Cue": cue}
+                return [DeckSpec(path.stem, "", path, namespace, [Note(card.key, note_type, fields, [], 1)])
+                        for path, namespace in ((cumulative, "cumulative:test"), (lesson, "lesson:test-lesson"))]
+
+            self.assertEqual(build_all.package_specs(specs("a"), "2026-01-01T00:00:00Z")[1], [cumulative, lesson])
+            first = cumulative.read_bytes(), lesson.read_bytes()
+            self.assertEqual(build_all.package_specs(specs("a"), "2026-02-01T00:00:00Z")[1], [])
+            self.assertEqual((cumulative.read_bytes(), lesson.read_bytes()), first)
+            self.assertEqual(build_all.package_specs(specs("b"), "2026-02-01T00:00:00Z")[1], [cumulative])
+            self.assertEqual(lesson.read_bytes(), first[1])
+            self.assertEqual(build_all.package_specs(specs("b"), "2026-02-01T00:00:00Z", {"test-lesson"})[1], [lesson])
+
     def test_entries_outside_lesson_deck_stay_in_cumulative_deck(self):
         data = load()
         cards, _, _ = build_all.collect(data)

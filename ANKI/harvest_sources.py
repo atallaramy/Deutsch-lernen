@@ -26,6 +26,7 @@ LESSONS = ROOT / "ANKI" / "lesson-vocabulary.json"
 USER_AGENT = "Mozilla/5.0 (German-learning source snapshot)"
 APOLLO_RE = re.compile(r"window.__APOLLO_STATE__\s*=\s*(\{.*?\});?\s*</script>", re.S)
 FIGURE_RE = re.compile(r"<figure\b.*?</figure>", re.S)  # images; their caption is only a photo credit ("null DW")
+ALT_RE = re.compile(r'<img\b[^>]*\balt="([^"]*)"', re.S)
 LESSON_PAGES = "lesson-pages.md"
 
 
@@ -62,11 +63,23 @@ def apollo(url: str) -> dict:
     return parse_apollo(fetch(url).decode("utf-8", "ignore"), url)
 
 
+def figure_alt_paragraphs(fragment: str) -> str:
+    """Replace each figure with its alt text as an "Image:" list, one sentence per item; DW grammar pages put examples there."""
+    def image_list(match: re.Match) -> str:
+        alt = ALT_RE.search(match.group(0))
+        sentences = re.split(r"(?<=[.!?])(?=[A-ZÄÖÜ])", html.unescape(alt.group(1)).strip()) if alt else []
+        items = "".join(f"<li>{html.escape(sentence.strip())}</li>" for sentence in sentences if sentence.strip())
+        return f"<p>Image:</p><ul>{items}</ul>" if items else ""
+    return FIGURE_RE.sub(image_list, fragment)
+
+
 def dw_knowledge_page(url: str) -> dict:
     """Grammar (gr-) and culture (rs-) pages: the page's own Knowledge text, plus its HTML for lesson-pages.md."""
     page_id = url.rsplit("-", 1)[-1]
     state = apollo(url)
     knowledge = state.get(f"Knowledge:{page_id}", {})
+    if "/gr-" in url and isinstance(knowledge.get("text"), str):
+        knowledge = {**knowledge, "text": figure_alt_paragraphs(knowledge["text"])}
     texts = [clean_text(knowledge[field]) for field in ("name", "teaser", "text") if isinstance(knowledge.get(field), str)]
     return {"id": url.rsplit("/", 1)[-1], "url": url, "title": knowledge.get("name") or "", "texts": [t for t in texts if t],
             "html": FIGURE_RE.sub("", knowledge.get("text") or "")}
@@ -95,6 +108,10 @@ def exercise_texts(state: dict) -> list[str]:
             for field in ("text", "inquiryText", "inquiryDescription"):
                 if value.get(field):
                     texts.append(clean_text(value[field]))
+            if value.get("inquiryType") == "SORTING":
+                # the correct answer is the alternatives in their `order`; none is marked isCorrect
+                parts = sorted((state[ref["__ref"]] for ref in value.get("alternatives") or []), key=lambda a: a["order"])
+                texts.append(" ".join(clean_text(part["alternativeText"]) for part in parts if part.get("alternativeText")))
         elif key.startswith("Alternative:") and value.get("isCorrect") and value.get("alternativeText"):
             texts.append(clean_text(value["alternativeText"]))
     return [text for text in texts if text]

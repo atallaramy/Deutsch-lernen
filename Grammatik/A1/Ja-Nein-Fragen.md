@@ -1,6 +1,6 @@
 # Ja-/Nein-Fragen and W-Fragen
 
-*die Ja-/Nein-Frage* (yes/no question) · A1 · from VHS A1 Lektion 2 and DW A1 E0 L3 to E1 L4 · checked 2026-09-26
+*die Ja-/Nein-Frage* (yes/no question) · A1 · from VHS A1 Lektion 2, DW A1 E0 L3 to E1 L4 and E4 L2 *Wo liegt das?* · checked 2026-10-03
 
 ## The rule
 
@@ -18,7 +18,7 @@ German terms: *die Ja-/Nein-Frage* (VHS; DW calls it *die Satzfrage*), *die W-Fr
 
 The word order is from DW's grammar page
 [Questions and statements](https://learngerman.dw.com/en/questions-and-statements/l-37337877/gr-38306265)
-(a later lesson, E4 L2).
+(E4 L2).
 
 ## Table
 
@@ -41,6 +41,10 @@ All three lines are from the DW E1 L3 script.
 | **Ist** Nicos Tasche in Ihrem Taxi? | Nicos Tasche? Nein. Die Tasche ist nicht im Taxi. | [DW A1 E1 L2 · script](https://static.dw.com/downloads/52719126/nicos-weg-a1-e1-l2-manuskript-und-wortschatz-englisch.pdf) |
 | **Brauchst** du Hilfe? | Ja! Hilfe! | [DW A1 E0 L3 · script](https://static.dw.com/downloads/52719087/nicos-weg-a1-e0-l3-manuskript-und-wortschatz-englisch.pdf) |
 | **Haben** Sie Kinder? **Hast** du Kinder? | — | [VHS A1 L2 · phrase trainer](https://a1.vhs-lernportal.de/) |
+| **Kommst** du aus Italien? | Nein, ich komme aus Spanien. | [DW A1 E4 L2 · grammar page](https://learngerman.dw.com/en/questions-and-statements/l-37337877/gr-38306265) |
+| **Ist** Tübingen in der Nähe von Stuttgart? | Ja, Tübingen ist in der Nähe von Stuttgart. | [DW A1 E4 L2 · exercise](https://learngerman.dw.com/en/baden-württemberg/l-37337877/e-37345227) |
+| **Heißt** die Hauptstadt Freiburg? | Nein, die Hauptstadt heißt Stuttgart. | [DW A1 E4 L2 · exercise](https://learngerman.dw.com/en/baden-württemberg/l-37337877/e-37345227) |
+| **Warst** du schon mal in Bayern? | Ja, ich war schon mal in Bayern. | [DW A1 E4 L2 · exercise](https://learngerman.dw.com/en/match-questions/l-37337877/e-44225618) |
 
 ## Common mistakes
 
@@ -53,12 +57,12 @@ All three lines are from the DW E1 L3 script.
 
 - VHS: [Themen und Grammatik A1](https://www.vhs-lernportal.de/wws/bin/4007530-4015506-1-dvv_grammatiklisten_a1.pdf),
   Lektion 2 (review): *W-Fragen vs. Ja-/Nein-Fragen*
-- DW, later lesson: [Questions and statements](https://learngerman.dw.com/en/questions-and-statements/l-37337877/gr-38306265) (E4 L2)
-- See also: [W-Fragen](W-Fragen.md)
+- DW: [Questions and statements](https://learngerman.dw.com/en/questions-and-statements/l-37337877/gr-38306265) (E4 L2) · exercise [Differentiating between questions](https://learngerman.dw.com/en/differentiating-between-questions/l-37337877/e-37345170)
+- See also: [W-Fragen](W-Fragen.md) · [Aussagesatz](Aussagesatz.md) (word order in statements)
 
 ## Sentences cards
 
-- yes/no: `need-help`, `want-to-centre`
+- yes/no: `need-help`, `want-to-centre`, `yes-no-from-italy`
 - W-questions: see [W-Fragen](W-Fragen.md)
 
 ## My rule in my own words
@@ -67,4 +71,5 @@ All three lines are from the DW E1 L3 script.
 
 My notes: [VHS Lektion 2](<../../VHS-Lernportal/A1/Lesson_02/lektion_02.md>) ·
 [Woher kommst du?](<../../DW Deutsch lernen/A1/02_meeting_people/03_Lesson_03/Woher komst du.md>) ·
-[Nico hat ein Problem](<../../DW Deutsch lernen/A1/02_meeting_people/04_Lesson_04/Nico hat Problem.md>)
+[Nico hat ein Problem](<../../DW Deutsch lernen/A1/02_meeting_people/04_Lesson_04/Nico hat Problem.md>) ·
+[Wo liegt das?](<../../DW Deutsch lernen/A1/05_around_the_world/02_Lesson_02/Wo liegt das.md>)

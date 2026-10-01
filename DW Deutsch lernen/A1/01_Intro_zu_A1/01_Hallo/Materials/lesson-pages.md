@@ -1,6 +1,6 @@
 # DW A1 E0 L1 · Hallo!: vocabulary, grammar and culture pages
 
-Copied from learngerman.dw.com on 2026-09-27 by `ANKI/harvest_sources.py`; do not edit, rerun it. The same text is in `source-snapshot.json`.
+Copied from learngerman.dw.com on 2026-10-04 by `ANKI/harvest_sources.py`; do not edit, rerun it. The same text is in `source-snapshot.json`.
 
 ## Vocabulary
 
@@ -43,6 +43,10 @@ Copied from learngerman.dw.com on 2026-09-27 by `ANKI/harvest_sources.py`; do no
 
 **Informal forms of address**
 
+Image:
+
+- Sarah and Tom greet each other by hugging.
+
 *Hey, Lena!* – *Hallo, Opa!*
 
 *Hallo, Sarah!* – *Hi, Tom!*
@@ -54,6 +58,10 @@ Copied from learngerman.dw.com on 2026-09-27 by `ANKI/harvest_sources.py`; do no
  
 
 **Formal forms of address**
+
+Image:
+
+- Mrs Kamp und Mr Müller greet each other formally by shaking hands.
 
 *Guten Tag, Frau Kamp! – Guten Tag!*
 

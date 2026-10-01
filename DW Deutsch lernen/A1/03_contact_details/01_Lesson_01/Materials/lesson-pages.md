@@ -1,6 +1,6 @@
 # DW A1 E2 L1 · Zahlen von 1 bis 100: vocabulary, grammar and culture pages
 
-Copied from learngerman.dw.com on 2026-09-27 by `ANKI/harvest_sources.py`; do not edit, rerun it. The same text is in `source-snapshot.json`.
+Copied from learngerman.dw.com on 2026-10-04 by `ANKI/harvest_sources.py`; do not edit, rerun it. The same text is in `source-snapshot.json`.
 
 ## Vocabulary
 
@@ -52,6 +52,10 @@ The numbers *11* and *12* are irregular.
 
 From *13,* the formation of the numbers is mostly regular. In German, the order of numbers is opposite to that in English. First comes the single digit (e.g. drei, vier, fünf...) and then the ten (*zehn*):
 
+Image:
+
+- Diagram of the grammar problem
+
  
 
 The numbers *16* and *17* are slightly irregular. The single digits (*sechs, sieben*) lose their endings.
@@ -76,6 +80,10 @@ With numbers over *20,* the single digit comes first, and then the multiple o
 
 - The number *eins* loses the *-s *when it is combined with a ten.
 - There is an *und* between the single digit and the multiple of ten.
+
+Image:
+
+- Diagram of the grammar problem
 
 |     |                  |
 |-----|------------------|

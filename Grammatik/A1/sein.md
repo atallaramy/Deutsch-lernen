@@ -61,7 +61,7 @@ Source: DW grammar page *Conjugation: present tense (2)*; VHS Lektion 2 word lis
   [Lisa is stressed](https://learngerman.dw.com/en/lisa-is-stressed/l-37265543/e-37268285) (all forms)
 - VHS: [Themen und Grammatik A1](https://www.vhs-lernportal.de/wws/bin/4007530-4015506-1-dvv_grammatiklisten_a1.pdf),
   Lektion 2: *Verben – Präsens: haben, wohnen, leben, sein*
-- Coming later: the simple past *war* (DW A1 E4 L1)
+- The simple past *war*: [Präteritum](Praeteritum.md) (DW A1 E4 L1)
 
 ## Sentences cards
 

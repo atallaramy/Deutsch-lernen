@@ -9,6 +9,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
 import build_all  # noqa: E402
 import build_articles_deck  # noqa: E402
+import build_sentences_deck  # noqa: E402
 import card_quality  # noqa: E402
 from deck_data import BLANK, Card, DataError, context_parts, load, verify_context  # noqa: E402
 
@@ -85,6 +86,15 @@ class RealData(unittest.TestCase):
         twin.key, twin.answer, twin.front_german = "vocab:test-twin", "Mama2", ""
         errors, _ = card_quality.check(self.data, self.cards + [twin])
         self.assertTrue(any("Ambiguous cue" in error for error in errors))
+
+    def test_rule_card_types_a_verbatim_answer(self):
+        card = self.card("sentence:ch-ach-sound")
+        self.assertEqual((card.fields["Instruction"], card.answer), ("Recall the rule — type the answer", "a, o, u"))
+        data = copy.deepcopy(self.data)
+        spec = next(spec for spec in data.sentence_cards if spec["key"] == "ch-ach-sound")
+        spec["answer"] = "a, o, u, au"
+        _, errors = build_sentences_deck.build(data)
+        self.assertTrue(any("ch-ach-sound" in error and "not verbatim" in error for error in errors))
 
 
 class GlossRules(unittest.TestCase):

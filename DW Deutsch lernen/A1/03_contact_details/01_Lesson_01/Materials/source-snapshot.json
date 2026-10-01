@@ -1,6 +1,6 @@
 {
  "description": "Official source text captured by ANKI/harvest_sources.py for offline context verification.",
- "harvestedOn": "2026-09-27",
+ "harvestedOn": "2026-10-04",
  "sources": [
   {
    "id": "exercises",
@@ -232,7 +232,8 @@
       "Lotte hat Geburtstag.",
       "Lotte wohnt in der Friedrichstraße.",
       "Lottes Telefonnummer ist dreiundvierzig siebenundachtzig fünfundfünfzig zweiundsechzig.",
-      "Was ist richtig?"
+      "Was ist richtig?",
+      "Info: \"Lotte\" is a shortened form of the girl's name \"Charlotte\"."
      ],
      "vocabularyTags": []
     },
@@ -244,6 +245,7 @@
       "1, 2, 3, 4, 5, 6",
       "eins – zwei – drei – vier – fünf – sechs",
       "7, 8, 9, 10, 11, 12",
+      "Tip: Do you have problems with the \"ö\" in \"zwölf\"? Make an \"o\" with your mouth. But think of an \"e\" when saying it.",
       "sieben – acht – neun – zehn – elf – zwölf"
      ],
      "vocabularyTags": []
@@ -254,9 +256,13 @@
      "title": "Introducing Jürgen",
      "texts": [
       "Wer ist das?",
+      "Das ist Jürgen.",
       "Wie alt ist Jürgen?",
+      "Er ist 54 Jahre alt.",
       "Wo wohnt er?",
-      "Wie ist seine Telefonnummer?"
+      "Er wohnt in der Schreinerstraße 44.",
+      "Wie ist seine Telefonnummer?",
+      "Seine Telefonnummer ist 23 98 66 42."
      ],
      "vocabularyTags": []
     },
@@ -306,7 +312,9 @@
      "title": "Numbers from 1 to 12",
      "texts": [
       "eins, zwei, …",
-      "sechs, sieben, acht, neun, …"
+      "drei vier fünf",
+      "sechs, sieben, acht, neun, …",
+      "zehn elf zwölf"
      ],
      "vocabularyTags": []
     },
@@ -317,6 +325,7 @@
      "texts": [
       "13: dreizehn, 14: vierzehn, 15: fünfzehn, 16: sechzehn, 17: siebzehn, 18: achtzehn, 19: neunzehn",
       "20: zwanzig, 21: einundzwanzig, 30: dreißig, 32: zweiunddreißig, 40: vierzig, 43: dreiundvierzig, 50: fünfzig, 54: vierundfünfzig",
+      "Careful! \"sechs\", but \"sechzig\"; \"sieben\", but \"siebzig\".",
       "60: sechzig, 65: fünfundsechzig, 70: siebzig, 77: siebenundsiebzig, 80: achtzig, 88: achtundachtzig, 90: neunzig"
      ],
      "vocabularyTags": []
@@ -327,9 +336,13 @@
      "title": "Specifying numbers",
      "texts": [
       "Wie ist die Flugnummer von Nico?",
+      "80 19",
       "Wie ist die Sitznummer von Nico?",
+      "33",
       "Wie ist die Kontonummer von Lisa?",
-      "Wie ist die Kartennummer von Lisa?"
+      "13 91 53 66 15",
+      "Wie ist die Kartennummer von Lisa?",
+      "47 80 69 21"
      ],
      "vocabularyTags": []
     },
@@ -398,9 +411,14 @@
      "title": "Writing numbers (2)",
      "texts": [
       "28",
+      "acht und zwanzig",
       "41",
+      "Careful! \"eins\" becomes \"ein-\", so it's \"einundzwanzig\", \"einunddreißig\", \"einundvierzig\" ..., \"einhundert\". (The \"s\" in \"eins\" is dropped.)",
+      "ein und vierzig",
       "64",
-      "96"
+      "vier und sechzig",
+      "96",
+      "sechs und neunzig"
      ],
      "vocabularyTags": []
     },
@@ -461,9 +479,9 @@
      "title": "Numbers from 11 to 19",
      "texts": [
       "Numbers from 11 to 19",
-      "The numbers 11 and 12 are irregular.\nFrom 13, the formation of the numbers is mostly regular. In German, the order of numbers is opposite to that in English. First comes the single digit (e.g. drei, vier, fünf...) and then the ten (zehn):\nThe numbers 16 and 17 are slightly irregular. The single digits (sechs, sieben) lose their endings.\n11\nelf\n12\nzwölf\n13\ndrei + zehn\ndreizehn\n14\nvier + zehn\nvierzehn\n15\nfünf + zehn\nfünfzehn\n16\nsechs + zehn\nsechzehn\n17\nsieben + zehn\nsiebzehn\n18\nacht + zehn\nachtzehn\n19\nneun + zehn\nneunzehn"
+      "The numbers 11 and 12 are irregular.\nFrom 13, the formation of the numbers is mostly regular. In German, the order of numbers is opposite to that in English. First comes the single digit (e.g. drei, vier, fünf...) and then the ten (zehn):\nImage:\nDiagram of the grammar problem\nThe numbers 16 and 17 are slightly irregular. The single digits (sechs, sieben) lose their endings.\n11\nelf\n12\nzwölf\n13\ndrei + zehn\ndreizehn\n14\nvier + zehn\nvierzehn\n15\nfünf + zehn\nfünfzehn\n16\nsechs + zehn\nsechzehn\n17\nsieben + zehn\nsiebzehn\n18\nacht + zehn\nachtzehn\n19\nneun + zehn\nneunzehn"
      ],
-     "html": "<p>The numbers <em>11</em> and <em>12</em> are irregular.</p>\n\n<p>From&#160;<em>13,</em> the formation of the numbers is mostly regular. In German, the order of numbers is opposite to that in English. First comes the single digit (e.g. drei, vier, fünf...) and then the ten (<em>zehn</em>):</p>\n\n\n\n<p>&#160;</p>\n\n<p>The numbers <em>16</em> and <em>17</em> are slightly irregular. The single digits&#160;(<em>sechs, sieben</em>) lose their endings.</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:100%\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>11</td>\n\t\t\t<td>&#160;</td>\n\t\t\t<td><strong>elf</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>12</td>\n\t\t\t<td>&#160;</td>\n\t\t\t<td><strong>zwölf</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>13</td>\n\t\t\t<td>drei + zehn</td>\n\t\t\t<td>dreizehn</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>14</td>\n\t\t\t<td>vier + zehn</td>\n\t\t\t<td>vierzehn</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>15</td>\n\t\t\t<td>fünf + zehn</td>\n\t\t\t<td>fünfzehn</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>16</td>\n\t\t\t<td><strong>sechs </strong>+ zehn</td>\n\t\t\t<td><strong>sech</strong>zehn</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>17</td>\n\t\t\t<td><strong>sieben </strong>+ zehn</td>\n\t\t\t<td><strong>sieb</strong>zehn</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>18</td>\n\t\t\t<td>acht + zehn</td>\n\t\t\t<td>achtzehn</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>19</td>\n\t\t\t<td>neun + zehn</td>\n\t\t\t<td>neunzehn</td>\n\t\t</tr>\n\t</tbody>\n</table>\n"
+     "html": "<p>The numbers <em>11</em> and <em>12</em> are irregular.</p>\n\n<p>From&#160;<em>13,</em> the formation of the numbers is mostly regular. In German, the order of numbers is opposite to that in English. First comes the single digit (e.g. drei, vier, fünf...) and then the ten (<em>zehn</em>):</p>\n\n<p>Image:</p><ul><li>Diagram of the grammar problem</li></ul>\n\n<p>&#160;</p>\n\n<p>The numbers <em>16</em> and <em>17</em> are slightly irregular. The single digits&#160;(<em>sechs, sieben</em>) lose their endings.</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:100%\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>11</td>\n\t\t\t<td>&#160;</td>\n\t\t\t<td><strong>elf</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>12</td>\n\t\t\t<td>&#160;</td>\n\t\t\t<td><strong>zwölf</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>13</td>\n\t\t\t<td>drei + zehn</td>\n\t\t\t<td>dreizehn</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>14</td>\n\t\t\t<td>vier + zehn</td>\n\t\t\t<td>vierzehn</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>15</td>\n\t\t\t<td>fünf + zehn</td>\n\t\t\t<td>fünfzehn</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>16</td>\n\t\t\t<td><strong>sechs </strong>+ zehn</td>\n\t\t\t<td><strong>sech</strong>zehn</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>17</td>\n\t\t\t<td><strong>sieben </strong>+ zehn</td>\n\t\t\t<td><strong>sieb</strong>zehn</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>18</td>\n\t\t\t<td>acht + zehn</td>\n\t\t\t<td>achtzehn</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>19</td>\n\t\t\t<td>neun + zehn</td>\n\t\t\t<td>neunzehn</td>\n\t\t</tr>\n\t</tbody>\n</table>\n"
     },
     {
      "id": "gr-38307981",
@@ -471,9 +489,9 @@
      "title": "Numbers from 20 to 100",
      "texts": [
       "Numbers from 20 to 100",
-      "With numbers over 20, the single digit comes first, and then the multiple of ten. There are two special features to note:\nThe number eins loses the -s when it is combined with a ten.\nThere is an und between the single digit and the multiple of ten.\n21\neinundzwanzig\n22\nzweiundzwanzig\n23\ndreiundzwanzig\n24\nvierundzwanzig\n25\nfünfundzwanzig\n26\nsechsundzwanzig\n27\nsiebenundzwanzig\n28\nachtundzwanzig\n29\nneunundzwanzig\n30\ndreißig\nThe full multiple of ten is usually formed from the single digit + -zig. But there are some exceptions: 10, 20, 30, 60 and 70 have an irregular form.\n10\nzehn\n20\nzwanzig\n30\ndreißig\n40\nvierzig\n50\nfünfzig\n60\nsechzig\n70\nsiebzig\n80\nachtzig\n90\nneunzig\n100\neinhundert (short form: hundert)\nYou can form all the numbers from 21 to 99 from the following elements:\n(1) ein-\n(2) zwei-\n(3) drei-\n(4) vier-\n(5) fünf-\n(6) sechs-\n(7) sieben-\n(8) acht-\n(9) neun-\nund\n-zwanzig (20)\n-dreißig (30)\n-vierzig (40)\n-fünfzig (50)\n-sechzig (60)\n-siebzig (70)\n-achtzig (80)\n-neunzig (90)"
+      "With numbers over 20, the single digit comes first, and then the multiple of ten. There are two special features to note:\nThe number eins loses the -s when it is combined with a ten.\nThere is an und between the single digit and the multiple of ten.\nImage:\nDiagram of the grammar problem\n21\neinundzwanzig\n22\nzweiundzwanzig\n23\ndreiundzwanzig\n24\nvierundzwanzig\n25\nfünfundzwanzig\n26\nsechsundzwanzig\n27\nsiebenundzwanzig\n28\nachtundzwanzig\n29\nneunundzwanzig\n30\ndreißig\nThe full multiple of ten is usually formed from the single digit + -zig. But there are some exceptions: 10, 20, 30, 60 and 70 have an irregular form.\n10\nzehn\n20\nzwanzig\n30\ndreißig\n40\nvierzig\n50\nfünfzig\n60\nsechzig\n70\nsiebzig\n80\nachtzig\n90\nneunzig\n100\neinhundert (short form: hundert)\nYou can form all the numbers from 21 to 99 from the following elements:\n(1) ein-\n(2) zwei-\n(3) drei-\n(4) vier-\n(5) fünf-\n(6) sechs-\n(7) sieben-\n(8) acht-\n(9) neun-\nund\n-zwanzig (20)\n-dreißig (30)\n-vierzig (40)\n-fünfzig (50)\n-sechzig (60)\n-siebzig (70)\n-achtzig (80)\n-neunzig (90)"
      ],
-     "html": "<p>With numbers over <em>20, </em>the single digit&#160;comes&#160;first, and then the multiple&#160;of ten. There are two special features to note:</p>\n\n<ul>\n\t<li>The number <em>eins</em> loses the <em>-s&#160;</em>when it is combined with a ten.</li>\n\t<li>There is an <em>und</em> between the single digit&#160;and the multiple&#160;of ten.</li>\n</ul>\n\n\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:100%\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>21</td>\n\t\t\t<td>einundzwanzig</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>22</td>\n\t\t\t<td>zweiundzwanzig</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>23</td>\n\t\t\t<td>dreiundzwanzig</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>24</td>\n\t\t\t<td>vierundzwanzig</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>25</td>\n\t\t\t<td>fünfundzwanzig</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>26</td>\n\t\t\t<td>sechsundzwanzig</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>27</td>\n\t\t\t<td>siebenundzwanzig</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>28</td>\n\t\t\t<td>achtundzwanzig</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>29</td>\n\t\t\t<td>neunundzwanzig</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>30</td>\n\t\t\t<td>dreißig</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&#160;</p>\n\n<p>The full multiple of ten is usually formed from the single digit + <em>-zig. </em>But there are some exceptions: <em>10</em>, <em>20</em>, <em>30, 60</em> and <em>70</em> have an irregular form.</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:100%\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>10</td>\n\t\t\t<td><strong>zehn</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>20</td>\n\t\t\t<td><strong>zwanzig</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>30</td>\n\t\t\t<td><strong>dreißig</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>40</td>\n\t\t\t<td>vierzig</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>50</td>\n\t\t\t<td>fünfzig</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>60</td>\n\t\t\t<td><strong>sechzig</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>70</td>\n\t\t\t<td><strong>siebzig</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>80</td>\n\t\t\t<td>achtzig</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>90</td>\n\t\t\t<td>neunzig</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>100</td>\n\t\t\t<td>einhundert (short form: <em>hundert</em>)</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&#160;</p>\n\n<p>You can form all the numbers from <em>21</em> to <em>99</em> from the following elements:</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:100%\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p><strong>(1) ein-</strong><br>\n\t\t\t(2) zwei-<br>\n\t\t\t(3) drei-<br>\n\t\t\t(4) vier-<br>\n\t\t\t(5) fünf-<br>\n\t\t\t(6) sechs-<br>\n\t\t\t(7) sieben-<br>\n\t\t\t(8) acht-<br>\n\t\t\t(9) neun-</p>\n\t\t\t</td>\n\t\t\t<td><strong>und</strong></td>\n\t\t\t<td><br>\n\t\t\t<strong>-zwanzig (20)<br>\n\t\t\t-dreißig (30)</strong><br>\n\t\t\t-vierzig (40)<br>\n\t\t\t-fünfzig (50)<br>\n\t\t\t<strong>-sechzig (60)</strong><br>\n\t\t\t<strong>-siebzig (70)</strong><br>\n\t\t\t-achtzig (80)<br>\n\t\t\t-neunzig (90)</td>\n\t\t</tr>\n\t</tbody>\n</table>\n"
+     "html": "<p>With numbers over <em>20, </em>the single digit&#160;comes&#160;first, and then the multiple&#160;of ten. There are two special features to note:</p>\n\n<ul>\n\t<li>The number <em>eins</em> loses the <em>-s&#160;</em>when it is combined with a ten.</li>\n\t<li>There is an <em>und</em> between the single digit&#160;and the multiple&#160;of ten.</li>\n</ul>\n\n<p>Image:</p><ul><li>Diagram of the grammar problem</li></ul>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:100%\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>21</td>\n\t\t\t<td>einundzwanzig</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>22</td>\n\t\t\t<td>zweiundzwanzig</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>23</td>\n\t\t\t<td>dreiundzwanzig</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>24</td>\n\t\t\t<td>vierundzwanzig</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>25</td>\n\t\t\t<td>fünfundzwanzig</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>26</td>\n\t\t\t<td>sechsundzwanzig</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>27</td>\n\t\t\t<td>siebenundzwanzig</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>28</td>\n\t\t\t<td>achtundzwanzig</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>29</td>\n\t\t\t<td>neunundzwanzig</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>30</td>\n\t\t\t<td>dreißig</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&#160;</p>\n\n<p>The full multiple of ten is usually formed from the single digit + <em>-zig. </em>But there are some exceptions: <em>10</em>, <em>20</em>, <em>30, 60</em> and <em>70</em> have an irregular form.</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:100%\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>10</td>\n\t\t\t<td><strong>zehn</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>20</td>\n\t\t\t<td><strong>zwanzig</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>30</td>\n\t\t\t<td><strong>dreißig</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>40</td>\n\t\t\t<td>vierzig</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>50</td>\n\t\t\t<td>fünfzig</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>60</td>\n\t\t\t<td><strong>sechzig</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>70</td>\n\t\t\t<td><strong>siebzig</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>80</td>\n\t\t\t<td>achtzig</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>90</td>\n\t\t\t<td>neunzig</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>100</td>\n\t\t\t<td>einhundert (short form: <em>hundert</em>)</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&#160;</p>\n\n<p>You can form all the numbers from <em>21</em> to <em>99</em> from the following elements:</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:100%\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p><strong>(1) ein-</strong><br>\n\t\t\t(2) zwei-<br>\n\t\t\t(3) drei-<br>\n\t\t\t(4) vier-<br>\n\t\t\t(5) fünf-<br>\n\t\t\t(6) sechs-<br>\n\t\t\t(7) sieben-<br>\n\t\t\t(8) acht-<br>\n\t\t\t(9) neun-</p>\n\t\t\t</td>\n\t\t\t<td><strong>und</strong></td>\n\t\t\t<td><br>\n\t\t\t<strong>-zwanzig (20)<br>\n\t\t\t-dreißig (30)</strong><br>\n\t\t\t-vierzig (40)<br>\n\t\t\t-fünfzig (50)<br>\n\t\t\t<strong>-sechzig (60)</strong><br>\n\t\t\t<strong>-siebzig (70)</strong><br>\n\t\t\t-achtzig (80)<br>\n\t\t\t-neunzig (90)</td>\n\t\t</tr>\n\t</tbody>\n</table>\n"
     }
    ]
   },

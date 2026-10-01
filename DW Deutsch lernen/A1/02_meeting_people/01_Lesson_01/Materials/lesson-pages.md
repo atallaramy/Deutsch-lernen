@@ -1,6 +1,6 @@
 # DW A1 E1 L1 · Ich heiße Emma: vocabulary, grammar and culture pages
 
-Copied from learngerman.dw.com on 2026-09-27 by `ANKI/harvest_sources.py`; do not edit, rerun it. The same text is in `source-snapshot.json`.
+Copied from learngerman.dw.com on 2026-10-04 by `ANKI/harvest_sources.py`; do not edit, rerun it. The same text is in `source-snapshot.json`.
 
 ## Vocabulary
 
@@ -31,6 +31,10 @@ Copied from learngerman.dw.com on 2026-09-27 by `ANKI/harvest_sources.py`; do no
 
 <https://learngerman.dw.com/en/personal-pronouns-ich-du/l-37262882/gr-38320451>
 
+Image:
+
+- Nico looks into the camera and points at himself.
+
 *Hallo, **ich** heiße Nico. Und wie heißt du? – **Ich** heiße Emma.*
 
 |          |            |               |
@@ -39,11 +43,21 @@ Copied from learngerman.dw.com on 2026-09-27 by `ANKI/harvest_sources.py`; do no
 
  
 
+Image:
+
+- Nico and Emma look at each other. Nico points at Emma.
+
 *Hallo, ich heiße Nico. Und wie heißt **du**? – Ich heiße Emma.*
 
 |          |            |              |
 |----------|------------|--------------|
 | Singular | 2nd person | **du** heißt |
+
+ 
+
+Image:
+
+- Diagram of the grammar problem
 
 ## Grammar: Personal pronouns: Sie
 
@@ -53,11 +67,19 @@ Unfamiliar adults are addressed in the first instance with *Sie*.
 
 This formal address is also used in different formal situations, e.g. at the doctor's or with officials.
 
+Image:
+
+- Lisa shakes hands with a taxi driver. Nico looks in the open trunk.
+
 *Ich heiße Lisa Brunner. Und wie heißen **Sie**? – Ich heiße Sigi Körner.*
 
  
 
 The formal address is the same in the singular and plural:
+
+Image:
+
+- Diagram of the singular form and an image of one person, the plural form and a picture of many people.
 
 |          |                |                |
 |----------|----------------|----------------|

@@ -1,6 +1,6 @@
 {
  "description": "Official source text captured by ANKI/harvest_sources.py for offline context verification.",
- "harvestedOn": "2026-09-27",
+ "harvestedOn": "2026-10-04",
  "sources": [
   {
    "id": "exercises",
@@ -162,7 +162,9 @@
      "url": "https://learngerman.dw.com/en/a-call-for-lisa/l-37265543/e-37266248",
      "title": "A call for Lisa",
      "texts": [
-      "„Lisa Brunner, hallo?“ – „Hallo, Lisa, hier ist Caro.“"
+      "„Lisa Brunner, hallo?“ – „Hallo, Lisa, hier ist Caro.“",
+      "Did you know? It is polite to introduce yourself by name in a phone call. However, some people only say their last name or simply \"Hallo?\"",
+      "Lisa: \"Hallo, Caro. Wie geht’s?\" Caro: \"Gut, und dir?\" Lisa: \"Auch gut, aber ich habe ein Problem.\" Caro: \"Ein Problem?\" Lisa: \"Ja, aber mein Vater hilft. Er ist Polizist.\" Caro: \"Das ist gut.\""
      ],
      "vocabularyTags": []
     },
@@ -197,7 +199,8 @@
       "Nico, hast du einen Pass?",
       "Hallo, Lisa und Nico, habt ihr ein Problem?",
       "Hat Lisa ein Telefon?",
-      "Haben Lisa und Emma die Adresse von Yara?"
+      "Haben Lisa und Emma die Adresse von Yara?",
+      "Careful! The verb \"hab-en\" is irregular in the second- and third-person singular. It conjugates as \"du ha-st\", \"er/sie/es ha-t\". All the other forms are regular: \"hab\"+ending."
      ],
      "vocabularyTags": []
     },
@@ -305,6 +308,7 @@
       "CONTINUOUS_TEXT",
       "Djamal: Amira und Sonia, was #ps# ihr hier in Berlin (machen)?\nAmira: Wir #ps# hier Deutsch. Wo ist der Deutschkurs (lernen)?\nSiwei: Was #ps# sie (suchen)?\nDjamal: Amira und Sonia suchen den Deutschkurs.",
       "Schreib die passenden Verben in die Lücken.",
+      "Tip: Create a table and write down the conjugated verb forms.",
       "CONTINUOUS_TEXT",
       "CONTINUOUS_TEXT",
       "CONTINUOUS_TEXT"
@@ -317,11 +321,17 @@
      "title": "Nico reflects",
      "texts": [
       "Guten Tag! Mein Name ist Brunner. Wie heißen Sie?",
+      "Mein Name ist Nico González.",
       "Guten Tag, Herr González. Woher kommen Sie?",
+      "Ich komme aus Spanien.",
       "Aha. Und Sie haben ein Problem?",
+      "Ja, meine Tasche ist weg.",
       "Haben Sie einen Pass?",
+      "Ja, aber der Pass ist auch weg.",
       "Was machen Sie in Deutschland?",
-      "Haben Sie Yaras Adresse?"
+      "Ich suche Yara.",
+      "Haben Sie Yaras Adresse?",
+      "Nein, die Adresse ist auch weg."
      ],
      "vocabularyTags": []
     },
@@ -342,6 +352,7 @@
       "Yara hat ein Fahrradgeschäft.",
       "Was sagt Lisa?",
       "Was sagt Lisa?",
+      "Did you know? If you lose your passport or identity card, you must go straight to the police and report the loss!",
       "Was sagt Lisa?"
      ],
      "vocabularyTags": []
@@ -383,6 +394,7 @@
       "Sie",
       "Das ist Nico. #ps# kommt aus Spanien.",
       "„er“ oder „sie“?",
+      "Careful! The first word in the sentence starts with a capital letter.",
       "CONTINUOUS_TEXT",
       "Das ist Yara. #ps# wohnt in Deutschland.",
       "„er“ oder „sie“?",
@@ -413,12 +425,19 @@
       "heißen",
       "heißen",
       "ich …",
+      "Info: The first-person singular is always used if you speak about yourself.",
       "du …",
+      "Info: The second-person singular is used in informal contexts when directly speaking to a person; for example, you use it in dialogue with a person. Remember: \"heißen\" takes the ending \"-t\" and not \"-st\" here.",
       "er/sie/es …",
+      "Info: The third-person singular is used for individuals or things that you speak about.",
       "wir …",
+      "Info: The first person plural is always used if you are speaking about a group to which you also belong.",
       "ihr …",
+      "Info: The second person plural is used in informal contexts when directly speaking to other people; for example, you use it in dialogues with multiple people.",
       "sie …",
-      "Sie …"
+      "Info: The third person plural is used to refer to multiple people or things.",
+      "Sie …",
+      "Careful! When you speak directly to people in formal contexts, you do not use \"du\" (singular) or \"ihr\" (plural), but rather always \"Sie\" (singular and plural)."
      ],
      "vocabularyTags": []
     }
@@ -440,9 +459,9 @@
      "title": "Conjugation: haben",
      "texts": [
       "Conjugation: haben",
-      "Welche Nummer hast du? – Ich habe die Nummer vier, eins, acht, sieben.\nConjugation of the verb haben\nThe verb haben is irregular in the second- and third-person singular: the b is omitted.\nSingular\n1st person\nich habe\n2nd person\ndu hast\n3rd person\ner/sie/es hat\nPlural\n1st person\nwir haben\n2nd person\nihr habt\n3rd person\nsie haben\nFormal:\nSie haben"
+      "Welche Nummer hast du? – Ich habe die Nummer vier, eins, acht, sieben.\nImage:\nA person hands someone a waiting number with the number 4187.\nConjugation of the verb haben\nThe verb haben is irregular in the second- and third-person singular: the b is omitted.\nSingular\n1st person\nich habe\n2nd person\ndu hast\n3rd person\ner/sie/es hat\nPlural\n1st person\nwir haben\n2nd person\nihr habt\n3rd person\nsie haben\nFormal:\nSie haben"
      ],
-     "html": "<p><em>Welche Nummer <strong>hast</strong> du? – Ich <strong>habe</strong> die Nummer vier, eins, acht, sieben.</em></p>\n\n\n\n<p><strong>Conjugation of the verb <em>haben</em></strong></p>\n\n<p>The verb <em>haben</em> is irregular in the second-&#160;and third-person singular: the <em>b</em> is omitted.</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><em>Singular</em></td>\n\t\t\t<td>&#160;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>1st person</td>\n\t\t\t<td>ich habe</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>2nd person</td>\n\t\t\t<td>du <strong>hast</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>3rd person</td>\n\t\t\t<td>er/sie/es <strong>hat</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><em>Plural</em></td>\n\t\t\t<td>&#160;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>1st person</td>\n\t\t\t<td>wir haben</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>2nd person</td>\n\t\t\t<td>ihr habt</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>3rd person</td>\n\t\t\t<td>sie haben</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><em>Formal:</em></td>\n\t\t\t<td>Sie haben</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&#160;</p>\n\n<p>&#160;</p>\n\n<p>&#160;</p>\n"
+     "html": "<p><em>Welche Nummer <strong>hast</strong> du? – Ich <strong>habe</strong> die Nummer vier, eins, acht, sieben.</em></p>\n\n<p>Image:</p><ul><li>A person hands someone a waiting number with the number 4187.</li></ul>\n\n<p><strong>Conjugation of the verb <em>haben</em></strong></p>\n\n<p>The verb <em>haben</em> is irregular in the second-&#160;and third-person singular: the <em>b</em> is omitted.</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><em>Singular</em></td>\n\t\t\t<td>&#160;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>1st person</td>\n\t\t\t<td>ich habe</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>2nd person</td>\n\t\t\t<td>du <strong>hast</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>3rd person</td>\n\t\t\t<td>er/sie/es <strong>hat</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><em>Plural</em></td>\n\t\t\t<td>&#160;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>1st person</td>\n\t\t\t<td>wir haben</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>2nd person</td>\n\t\t\t<td>ihr habt</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>3rd person</td>\n\t\t\t<td>sie haben</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><em>Formal:</em></td>\n\t\t\t<td>Sie haben</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&#160;</p>\n\n<p>&#160;</p>\n\n<p>&#160;</p>\n"
     },
     {
      "id": "gr-38321810",
@@ -460,9 +479,9 @@
      "title": "Personal pronouns: er, sie",
      "texts": [
       "Personal pronouns: er, sie",
-      "Er heißt Nico.\nSie heißt Lisa.\nThird person singular:\nmasculine\ner heißt\nfeminine\nsie heißt"
+      "Image:\nNico with arms crossed.\nEr heißt Nico.\nImage:\nDeutschkurse | Nicos Weg | Potrait_Lisa2_2265\nSie heißt Lisa.\nThird person singular:\nmasculine\ner heißt\nfeminine\nsie heißt"
      ],
-     "html": "\n\n<p><strong><em>Er</em></strong><em> heißt Nico.</em></p>\n\n<p>&#160;</p>\n\n\n\n<p><strong><em>Sie</em></strong><em> heißt Lisa.</em></p>\n\n<p>&#160;</p>\n\n<p>Third person singular:</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>masculine</td>\n\t\t\t<td><strong>er </strong>heißt</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>feminine</td>\n\t\t\t<td><strong>sie </strong>heißt</td>\n\t\t</tr>\n\t</tbody>\n</table>\n"
+     "html": "<p>Image:</p><ul><li>Nico with arms crossed.</li></ul>\n\n<p><strong><em>Er</em></strong><em> heißt Nico.</em></p>\n\n<p>&#160;</p>\n\n<p>Image:</p><ul><li>Deutschkurse | Nicos Weg | Potrait_Lisa2_2265</li></ul>\n\n<p><strong><em>Sie</em></strong><em> heißt Lisa.</em></p>\n\n<p>&#160;</p>\n\n<p>Third person singular:</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>masculine</td>\n\t\t\t<td><strong>er </strong>heißt</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>feminine</td>\n\t\t\t<td><strong>sie </strong>heißt</td>\n\t\t</tr>\n\t</tbody>\n</table>\n"
     },
     {
      "id": "gr-38321282",
@@ -470,9 +489,9 @@
      "title": "Personal pronouns: plural",
      "texts": [
       "Personal pronouns: plural",
-      "Nico says: Wir heißen Nico und Emma.\nNico asks: Wie heißt ihr?\nNico says: Sie heißen Pepe und Emma.\nPlural\n1st person\nwir heißen\n2nd person\nihr heißt\n3rd person\nsie heißen"
+      "Image:\nNico carries a smiling Emma on his back.\nNico says: Wir heißen Nico und Emma.\nImage:\nPepe, Emma and Nico can be seen. Pep and Emma look at Nico, Nico looks questioningly at the camera.\nNico asks: Wie heißt ihr?\nImage:\nPepe and Emma stand with crossed arms next to each other. Nico stands with his back to them and points at them with his thumb.\nNico says: Sie heißen Pepe und Emma.\nPlural\n1st person\nwir heißen\n2nd person\nihr heißt\n3rd person\nsie heißen"
      ],
-     "html": "\n\n<p>Nico says:<strong><em> Wir</em></strong><em> heißen Nico und Emma.</em></p>\n\n<p>&#160;</p>\n\n\n\n<p>Nico asks: <em>Wie heißt <strong>ihr</strong>?</em></p>\n\n<p>&#160;</p>\n\n\n\n<p>Nico says:<strong><em> Sie</em></strong><em> heißen Pepe und Emma.</em></p>\n\n<p>&#160;</p>\n\n<p>Plural</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:100%\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>1st person</td>\n\t\t\t<td><strong>wir </strong>heißen</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>2nd person</td>\n\t\t\t<td><strong>ihr </strong>heißt</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>3rd person</td>\n\t\t\t<td><strong>sie </strong>heißen</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&#160;</p>\n"
+     "html": "<p>Image:</p><ul><li>Nico carries a smiling Emma on his back.</li></ul>\n\n<p>Nico says:<strong><em> Wir</em></strong><em> heißen Nico und Emma.</em></p>\n\n<p>&#160;</p>\n\n<p>Image:</p><ul><li>Pepe, Emma and Nico can be seen. Pep and Emma look at Nico, Nico looks questioningly at the camera.</li></ul>\n\n<p>Nico asks: <em>Wie heißt <strong>ihr</strong>?</em></p>\n\n<p>&#160;</p>\n\n<p>Image:</p><ul><li>Pepe and Emma stand with crossed arms next to each other. Nico stands with his back to them and points at them with his thumb.</li></ul>\n\n<p>Nico says:<strong><em> Sie</em></strong><em> heißen Pepe und Emma.</em></p>\n\n<p>&#160;</p>\n\n<p>Plural</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:100%\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>1st person</td>\n\t\t\t<td><strong>wir </strong>heißen</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>2nd person</td>\n\t\t\t<td><strong>ihr </strong>heißt</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>3rd person</td>\n\t\t\t<td><strong>sie </strong>heißen</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&#160;</p>\n"
     }
    ]
   },

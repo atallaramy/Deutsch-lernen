@@ -120,6 +120,173 @@
    "hints": [
     "Compound: the last part (…name) decides the gender."
    ]
+  },
+  "Lampe": {
+   "context": {
+    "lesson": "dw-a1-e3-l1",
+    "source": "script",
+    "text": "Die Lampe ist kaputt."
+   }
+  },
+  "Fahrradladen": {
+   "hints": [
+    "Compound: the last part (…laden) decides the gender."
+   ]
+  },
+  "Wohngemeinschaft": {
+   "hints": [
+    "Compound: the last part (…gemeinschaft) decides the gender."
+   ]
+  },
+  "Kühlschrank": {
+   "hints": [
+    "Compound: the last part (…schrank) decides the gender."
+   ]
+  },
+  "Limo": {
+   "hints": [
+    "Short for die Limonade: same gender."
+   ]
+  },
+  "Gast": {
+   "context": {
+    "lesson": "dw-a1-e3-l4",
+    "source": "exercises",
+    "text": "Was sagt der Gast?"
+   }
+  },
+  "Kellner": {
+   "context": {
+    "lesson": "dw-a1-e3-l4",
+    "source": "exercises",
+    "text": "Was sagt der Kellner?"
+   }
+  },
+  "Essen": {
+   "context": {
+    "lesson": "dw-a1-e3-l4",
+    "source": "exercises",
+    "text": "Das Essen kostet ..."
+   }
+  },
+  "Trinkgeld": {
+   "hints": [
+    "Compound: the last part (…geld) decides the gender."
+   ]
+  },
+  "Abschiedsparty": {
+   "hints": [
+    "Compound: the last part (…party) decides the gender."
+   ]
+  },
+  "Kellnerin": {
+   "hints": [
+    "Female person ending in -in: always die."
+   ]
+  },
+  "Dom": {
+   "context": {
+    "lesson": "dw-a1-e4-l1",
+    "source": "exercises",
+    "text": "Der Dom ist eine Sehenswürdigkeit"
+   }
+  },
+  "Norden": {
+   "hints": [
+    "All compass directions are der: der Norden, der Süden, der Westen, der Osten (DW tip)."
+   ]
+  },
+  "Osten": {
+   "hints": [
+    "All compass directions are der: der Norden, der Süden, der Westen, der Osten (DW tip)."
+   ]
+  },
+  "Süden": {
+   "hints": [
+    "All compass directions are der: der Norden, der Süden, der Westen, der Osten (DW tip)."
+   ]
+  },
+  "Westen": {
+   "hints": [
+    "All compass directions are der: der Norden, der Süden, der Westen, der Osten (DW tip)."
+   ]
+  },
+  "See": {
+   "context": {
+    "lesson": "dw-a1-e4-l2",
+    "source": "exercises",
+    "text": "Der See heißt Bodensee."
+   }
+  },
+  "Aufenthaltserlaubnis": {
+   "hints": [
+    "Compound: the last part (…erlaubnis) decides the gender."
+   ]
+  },
+  "Flüchtling": {
+   "hints": [
+    "Nouns ending in -ling are der."
+   ]
+  },
+  "Fremdsprache": {
+   "hints": [
+    "Compound: the last part (…sprache) decides the gender."
+   ]
+  },
+  "Muttersprache": {
+   "hints": [
+    "Compound: the last part (…sprache) decides the gender."
+   ]
+  },
+  "Amtssprache": {
+   "hints": [
+    "Compound: the last part (…sprache) decides the gender."
+   ]
+  },
+  "Nachbarland": {
+   "hints": [
+    "Compound: the last part (…land) decides the gender."
+   ]
+  },
+  "Nordwesten": {
+   "hints": [
+    "All compass directions are der: der Norden, der Süden, der Westen, der Osten (DW tip)."
+   ]
+  },
+  "Stift": {
+   "context": {
+    "lesson": "dw-a1-e5-l1",
+    "source": "exercises",
+    "text": "Wo ist der Stift?"
+   }
+  },
+  "Brille": {
+   "context": {
+    "lesson": "dw-a1-e5-l1",
+    "source": "exercises",
+    "text": "Wo ist die Brille?"
+   }
+  },
+  "Buch": {
+   "context": {
+    "lesson": "dw-a1-e5-l1",
+    "source": "exercises",
+    "text": "Wo ist das Buch?"
+   }
+  },
+  "Schlüssel": {
+   "context": {
+    "lesson": "dw-a1-e5-l1",
+    "source": "script",
+    "text": "Der Schlüssel!"
+   }
+  },
+  "Notizblock": {
+   "context": {
+    "lesson": "dw-a1-e5-l1",
+    "source": "exercises",
+    "text": "Wo ist der Notizblock?"
+   }
   }
  }
 }

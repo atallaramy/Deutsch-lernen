@@ -1,0 +1,583 @@
+{
+ "description": "Official source text captured by ANKI/harvest_sources.py for offline context verification.",
+ "harvestedOn": "2026-10-04",
+ "sources": [
+  {
+   "id": "exercises",
+   "kind": "dw-exercises",
+   "url": "https://learngerman.dw.com/en/was-trinkst-du/l-37279418",
+   "lessonUrl": "https://learngerman.dw.com/en/was-trinkst-du/l-37279418",
+   "vocabulary": {
+    "url": "https://learngerman.dw.com/en/was-trinkst-du/l-37279418/lv",
+    "items": [
+     {
+      "id": 37395221,
+      "german": "der Apfelsaft, die Apfelsäfte (nach Zahl: Apfelsaft)",
+      "english": "apple juice",
+      "forms": ""
+     },
+     {
+      "id": 37395274,
+      "german": "das Bier, die Biere (nach Zahl: Bier)",
+      "english": "beer",
+      "forms": ""
+     },
+     {
+      "id": 37395285,
+      "german": "die Cola, die Colas (nach Zahl: Cola)",
+      "english": "coke, soda pop (drink)",
+      "forms": ""
+     },
+     {
+      "id": 37364756,
+      "german": "das",
+      "english": "the (neuter article)",
+      "forms": ""
+     },
+     {
+      "id": 40730955,
+      "german": "der",
+      "english": "the (masculine article)",
+      "forms": ""
+     },
+     {
+      "id": 37385045,
+      "german": "die",
+      "english": "the (feminine article)",
+      "forms": ""
+     },
+     {
+      "id": 41389418,
+      "german": "das Eis",
+      "english": "ice cubes",
+      "forms": "nur Singular"
+     },
+     {
+      "id": 37395390,
+      "german": "der Fahrradladen, die Fahrradläden",
+      "english": "bicycle store",
+      "forms": ""
+     },
+     {
+      "id": 37424986,
+      "german": "fragen",
+      "english": "to ask",
+      "forms": "fragt, fragte, hat gefragt"
+     },
+     {
+      "id": 43010229,
+      "german": "Ich habe eine Idee.",
+      "english": "I have an idea.",
+      "forms": ""
+     },
+     {
+      "id": 37365402,
+      "german": "jemanden/etwas kennen",
+      "english": "to know someone",
+      "forms": "kennt, kannte, hat gekannt"
+     },
+     {
+      "id": 37395355,
+      "german": "der Kühlschrank, die Kühlschränke",
+      "english": "refrigerator; fridge; ice box",
+      "forms": ""
+     },
+     {
+      "id": 37888430,
+      "german": "lieber",
+      "english": "rather; to prefer",
+      "forms": ""
+     },
+     {
+      "id": 37395485,
+      "german": "die Limo, die Limos",
+      "english": "lemonade; soft drink",
+      "forms": "Abkürzung für: Limonade"
+     },
+     {
+      "id": 37395494,
+      "german": "die Limonade, die Limonaden",
+      "english": "lemonade; soft drink",
+      "forms": "Kurzform: die Limo, die Limos"
+     },
+     {
+      "id": 37395532,
+      "german": "die Milch",
+      "english": "milk",
+      "forms": "nur Singular"
+     },
+     {
+      "id": 37389299,
+      "german": "mit",
+      "english": "with",
+      "forms": ""
+     },
+     {
+      "id": 37395535,
+      "german": "möchten",
+      "english": "to like; to want to; would like",
+      "forms": "möchte, wollte (!)"
+     },
+     {
+      "id": 37399901,
+      "german": "etwas nehmen",
+      "english": "to take something; to have something",
+      "forms": "nimmt, nahm, hat genommen"
+     },
+     {
+      "id": 37395545,
+      "german": "ohne",
+      "english": "without",
+      "forms": ""
+     },
+     {
+      "id": 37395810,
+      "german": "der Orangensaft, die Orangensäfte (nach Zahl: Orangensaft)",
+      "english": "orange juice",
+      "forms": ""
+     },
+     {
+      "id": 37397792,
+      "german": "etwas posten",
+      "english": "to post something",
+      "forms": "postet, postete, hat gepostet, aus dem Englischen"
+     },
+     {
+      "id": 37395834,
+      "german": "der Saft, die Säfte (nach Zahl meist: Saft)",
+      "english": "juice",
+      "forms": ""
+     },
+     {
+      "id": 37396091,
+      "german": "die Speisekarte, die Speisekarten",
+      "english": "menu",
+      "forms": ""
+     },
+     {
+      "id": 37396166,
+      "german": "der Tee, die Tees (nach Zahl: Tee)",
+      "english": "tea",
+      "forms": ""
+     },
+     {
+      "id": 37396412,
+      "german": "viel",
+      "english": "a lot (of)",
+      "forms": "mehr, am meisten"
+     },
+     {
+      "id": 37396446,
+      "german": "das Wasser",
+      "english": "water",
+      "forms": "nur Singular"
+     },
+     {
+      "id": 37396477,
+      "german": "der Wein, die Weine (nach Zahl: Wein)",
+      "english": "wine",
+      "forms": ""
+     },
+     {
+      "id": 37396506,
+      "german": "wenig",
+      "english": "a litte; a bit; few",
+      "forms": "weniger, am wenigsten"
+     },
+     {
+      "id": 37396533,
+      "german": "der Zucker",
+      "english": "sugar",
+      "forms": "nur Singular"
+     }
+    ]
+   },
+   "exercises": [
+    {
+     "id": "e-37283721",
+     "url": "https://learngerman.dw.com/en/choosing-a-drink/l-37279418/e-37283721",
+     "title": "Choosing a drink",
+     "texts": [
+      "Der Mann trinkt Kaffee mit viel Milch.",
+      "Der Mann trinkt Cola mit Eis.",
+      "Die Frau trinkt Tee ohne Milch und Zucker."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37282815",
+     "url": "https://learngerman.dw.com/en/coffee-please/l-37279418/e-37282815",
+     "title": "Coffee, please",
+     "texts": [
+      "Was möchtet ihr trinken? Bier oder Wein? Kaffee, Tee, Cola oder Wasser?",
+      "Bier bitte.",
+      "Kaffee bitte.",
+      "Cola bitte."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37282988",
+     "url": "https://learngerman.dw.com/en/coffee-variations-1/l-37279418/e-37282988",
+     "title": "Coffee variations (1)",
+     "texts": [
+      "Mit viel Milch und wenig Zucker? Oder lieber ohne Zucker?",
+      "Deutschkurse | Nicos Weg | A1_E3_L2_Stock_Kaffee_vielZucker_2",
+      "Deutschkurse | Nicos Weg | A1_E3_L2_Stock_Kaffee_vielMilch_WenigZucker_6",
+      "Deutschkurse | Nicos Weg | A1_E3_L2_Stock_Kaffee_7",
+      "Kaffee mit viel Zucker",
+      "New words: \"viel\" is the opposite of \"wenig\".",
+      "Kaffee mit wenig Zucker und viel Milch",
+      "Kaffee ohne Milch und Zucker",
+      "New words: \"mit\" is the opposite of \"ohne\"."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37283255",
+     "url": "https://learngerman.dw.com/en/coffee-variations-2/l-37279418/e-37283255",
+     "title": "Coffee variations (2)",
+     "texts": [
+      "Ich nehme Kaffee mit Zucker.",
+      "Ich trinke Kaffee. Mit viel Milch bitte.",
+      "Und ich möchte Tee mit Zucker bitte.",
+      "Ich nehme Kaffee mit Milch und wenig Zucker bitte."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37280361",
+     "url": "https://learngerman.dw.com/en/drinks-1/l-37279418/e-37280361",
+     "title": "Drinks (1)",
+     "texts": [
+      "Apfelsaft",
+      "Wasser",
+      "Bier",
+      "Limo",
+      "Wein",
+      "Wähl die richtigen Antworten. Fünf Antworten sind richtig.",
+      "New word: \"Limo\" is short for \"Limonade\"."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37281206",
+     "url": "https://learngerman.dw.com/en/drinks-2/l-37279418/e-37281206",
+     "title": "Drinks (2) ",
+     "texts": [
+      "Deutschkurse | Nicos Weg | A1_E3_L2_Stock_Apfelsaft_1",
+      "Deutschkurse | Nicos Weg | A1_E3_L2_Stock_Tee_2",
+      "Deutschkurse | Nicos Weg | A1_E3_L2_Stock_Bier_3",
+      "Deutschkurse | Nicos Weg | A1_E3_L2_Stock_Mineralwasser_4",
+      "Deutschkurse | Nicos Weg | A1_E3_L2_Stock_Wein_6",
+      "Deutschkurse | Nicos Weg | A1_E3_L2_Stock_Kaffee_7",
+      "Deutschkurse | Wortschatz | WBS_Foto_Cola",
+      "Deutschkurse | Wortschatz | WBS_Foto_Milch",
+      "Was passt zusammen? Ordne zu.",
+      "der Saft",
+      "der Tee",
+      "das Bier",
+      "das Wasser",
+      "der Wein",
+      "der Kaffee",
+      "die Cola",
+      "die Milch"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37282615",
+     "url": "https://learngerman.dw.com/en/drinks-3/l-37279418/e-37282615",
+     "title": "Drinks (3)",
+     "texts": [
+      "Wasser",
+      "Kaffee",
+      "Limo",
+      "Bier",
+      "Apfelsaft",
+      "Das ist #ps#.",
+      "Schreib das passende Wort in die Lücke.",
+      "CONTINUOUS_TEXT",
+      "Das ist #ps#.",
+      "Schreib das passende Wort in die Lücke.",
+      "CONTINUOUS_TEXT",
+      "Das ist #ps#.",
+      "Schreib das passende Wort in die Lücke.",
+      "CONTINUOUS_TEXT",
+      "Das ist #ps#.",
+      "Schreib das passende Wort in die Lücke.",
+      "CONTINUOUS_TEXT",
+      "Das ist #pm#.",
+      "Schreib das passende Wort in die Lücke.",
+      "CONTINUOUS_TEXT"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37279656",
+     "url": "https://learngerman.dw.com/en/in-the-shared-apartment/l-37279418/e-37279656",
+     "title": "In the shared apartment",
+     "texts": [
+      "Was passiert wann im Video?",
+      "Nico zeigt Nina und Sebastian Yaras Foto. Lisa möchte Kaffee. Sebastian hat eine Idee: Er postet Yaras Foto. Nina hat Speisekarten."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37283848",
+     "url": "https://learngerman.dw.com/en/offering-drinks/l-37279418/e-37283848",
+     "title": "Offering drinks",
+     "texts": [
+      "Sortiere die Wörter.",
+      "Was möchten Sie trinken?",
+      "Sortiere die Wörter.",
+      "Was trinkst du?",
+      "Sortiere die Wörter.",
+      "Was möchtest du trinken?",
+      "Sortiere die Wörter.",
+      "Und was trinken Sie?"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37282439",
+     "url": "https://learngerman.dw.com/en/pronunciation-practice-drinks/l-37279418/e-37282439",
+     "title": "Pronunciation practice: Drinks",
+     "texts": [
+      "Careful! Pay attention to how the words are stressed. The letter combination \"ie\" is pronounced like a long \"i\". In words with multiple syllables, the stress is usually on the first syllable.",
+      "der Tee",
+      "der Kaffee",
+      "das Bier",
+      "der Wein",
+      "die Limo",
+      "der Apfelsaft"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37282137",
+     "url": "https://learngerman.dw.com/en/the-definite-article-1/l-37279418/e-37282137",
+     "title": "The definite article (1)",
+     "texts": [
+      "There are three definite articles in German: masculine: \"der\" (e.g., \"der Wein\"), feminine: \"die\" (e.g., \"die Limo\") and neuter: \"das\" (e.g., \"das Bier\").",
+      "Wein",
+      "Saft",
+      "Kaffee",
+      "Tee",
+      "Milch",
+      "Cola",
+      "Wasser",
+      "Bier",
+      "Welche Getränke haben den Artikel \"der\"?",
+      "Welche Getränke haben den Artikel \"die\"?",
+      "A word that refers to a person, animal, place, thing, quality, idea or action is called a\n\"Nomen\" oder \"Substantiv.\"",
+      "Welche Getränke haben den Artikel \"das\"?",
+      "Careful! In German, nouns always begin with a capital letter."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37282334",
+     "url": "https://learngerman.dw.com/en/the-definite-article-2/l-37279418/e-37282334",
+     "title": "The definite article (2)",
+     "texts": [
+      "das",
+      "der",
+      "das",
+      "der",
+      "die",
+      "der",
+      "Welcher Artikel ist richtig?",
+      "#p# Bier",
+      "Welcher Artikel ist richtig?",
+      "#p# Apfelsaft",
+      "Welcher Artikel ist richtig?",
+      "#p# Wasser",
+      "Welcher Artikel ist richtig?",
+      "#p# Tee",
+      "Welcher Artikel ist richtig?",
+      "#p# Milch",
+      "Welcher Artikel ist richtig?",
+      "#p# Wein"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37282676",
+     "url": "https://learngerman.dw.com/en/what-would-you-like-to-drink/l-37279418/e-37282676",
+     "title": "What would you like to drink?",
+     "texts": [
+      "Bier",
+      "Kaffee",
+      "Limo",
+      "Sebastian möchte #p# trinken. Lisa möchte #p# trinken. Nina möchte #p# trinken.",
+      "Was möchten Sebastian, Lisa und Nina trinken?",
+      "Tip: What about you? What would you like to drink? Make up sentences like the ones in this exercise.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT"
+     ],
+     "vocabularyTags": []
+    }
+   ],
+   "pages": [
+    {
+     "id": "rs-39370955",
+     "url": "https://learngerman.dw.com/en/a-beer-please/l-37279418/rs-39370955",
+     "title": "A beer, please!",
+     "texts": [
+      "A beer, please!",
+      "Germans like to drink alcohol, mostly beer and wine: with meals, at parties, in pubs or bars. People aged 16 and over are allowed to buy light alcoholic drinks like beer, wine and sparkling wine. You have to be 18 or over to buy hard liquor. If you look young, you will be asked to show identification when you order or try to buy alcohol.\nIf you have been drinking and your blood alcohol level is over 0.05 percent, you are not allowed to drive. There is a zero blood alcohol limit if you are under 21 because you are considered an inexperienced driver. There are also restrictions for cyclists: your blood alcohol level has to be under 0.16 percent.\nIt is best not to drink at all when you are driving a car or riding a bike, as you can be fined for having a blood alcohol content of 0.03 percent if you are caught driving or riding dangerously."
+     ],
+     "html": "\n\n<p>Germans like to drink alcohol, mostly beer and wine: with meals, at parties, in pubs or bars. People aged 16 and over are allowed to buy light alcoholic drinks like beer, wine and sparkling wine. You have to be 18 or over to buy hard liquor. If you look young, you will be asked to show identification when you order or try to buy alcohol.</p>\n\n<p>If you have been drinking and your blood alcohol level is over 0.05 percent, you are not allowed to drive. There is a zero blood alcohol limit if you are under 21 because you are considered an inexperienced driver. There are also restrictions for cyclists: your blood alcohol level has to be under 0.16 percent.</p>\n\n<p>It is best not to drink at all when you are driving a car or riding a bike, as you can be fined for having a blood alcohol content of 0.03 percent if you are caught driving or riding dangerously.</p>\n"
+    },
+    {
+     "id": "gr-38306435",
+     "url": "https://learngerman.dw.com/en/nouns-gender/l-37279418/gr-38306435",
+     "title": "Nouns: gender",
+     "texts": [
+      "Nouns: gender",
+      "The three articles\nImage:\nA cup of coffee, beneath it the words: der Kaffee\nImage:\nDeutschkurse | Nicos Weg | A1_E3_L2_Stock_9367329\nImage:\nA bottle of water, beneath it the words: das Wasser\nGerman nouns have a grammatical gender. They are masculine, feminine or neuter. The article before the noun shows its gender:\nmasculine: der Kaffee, der Tee, der Saft\nfeminine: die Milch, die Limo, die Cola\nneuter: das Wasser, das Bier\nUnfortunately there are very few general rules as to which nouns have which articles. This means you have to learn each noun together with its article.\nYou will find the gender of a noun in the dictionary. It will either give the definite article or m. (= masculine), f. (= feminine), n. (= neuter).\nGrammatical terms in German:\ndas Nomen: People and things are known as nouns. In German they are sometimes also referred to as Substantive or Hauptwörter.\nder Artikel: An article is a word that can come before a noun. The words der, die and das are the three definite articles that indicate the grammatical gender of the noun.\ndas Genus: Every noun has a grammatical gender. The genders are masculine, feminine and neuter. Masculine nouns have the article der, feminine nouns have the article die and neuter nouns have the article das."
+     ],
+     "html": "<p><strong>The three articles</strong></p>\n\n<p>Image:</p><ul><li>A cup of coffee, beneath it the words: der Kaffee</li></ul><p></p>\n\n<p>Image:</p><ul><li>Deutschkurse | Nicos Weg | A1_E3_L2_Stock_9367329</li></ul>\n\n<p>Image:</p><ul><li>A bottle of water, beneath it the words: das Wasser</li></ul><p></p>\n\n<p>German nouns have a grammatical gender. They are masculine, feminine or neuter. The article before the noun shows its gender:</p>\n\n<p>masculine: <strong>der</strong><em> Kaffee, </em><strong>der</strong><em> Tee, </em><strong>der</strong><em> Saft</em></p>\n\n<p>feminine: <strong>die</strong><em> Milch, </em><strong>die</strong><em> Limo, </em><strong>die</strong><em> Cola</em></p>\n\n<p>neuter: <strong>das</strong><em> Wasser, </em><strong>das</strong><em> Bier</em></p>\n\n<p>Unfortunately there are very few general rules as to which nouns have which articles. This means you have to learn each noun together with its article.</p>\n\n<p>You will find the gender of a noun in the dictionary. It will either give the definite article or <em>m.</em> (= masculine), <em>f.</em> (= feminine),<em> n.</em> (= neuter).</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>Grammatical terms in German:</p>\n\n\t\t\t<p>das Nomen: People and things are known as nouns. In German they are sometimes also referred to as <em>Substantive&#160;</em>or <em>Hauptwörter</em>.</p>\n\n\t\t\t<p>der Artikel: An article is a word that can come before a noun. The words <em>der</em>, <em>die </em>and <em>das </em>are the three definite articles that indicate the grammatical gender of the&#160;noun.</p>\n\t\t\tdas Genus: Every noun has a grammatical gender. The genders are <em>masculine</em>, <em>feminine </em>and<em> neuter</em>. Masculine nouns have the article <em>der</em>, feminine nouns have the article <em>die </em>and<em>&#160;</em>neuter nouns have the article <em>das</em>.</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&#160;</p>\n"
+    },
+    {
+     "id": "gr-38306502",
+     "url": "https://learngerman.dw.com/en/question-words-wer-was/l-37279418/gr-38306502",
+     "title": "Question Words: wer, was",
+     "texts": [
+      "Question Words: wer, was",
+      "When asking about people you use the question word wer.\nImage:\nAn example using the question word \"wer\": Wer ist das? - Das ist Nico.\nAn example using the question word \"wer\": Wer wohnt hier? - Hier wohnen Katrin und Lotte.\nWhen not asking about people, you use the question word was.\nImage:\nAn example using the question word \"was\": Was trinkst du? - Ich trinke Wasser.\nAn example using the question word \"was\": Was macht Lisa? - Lisa telefoniert."
+     ],
+     "html": "<p>When asking about <strong>people</strong> you use the question word <strong><em>wer</em></strong>.</p>\n\n<p>Image:</p><ul><li>An example using the question word &quot;wer&quot;: Wer ist das? - Das ist Nico.</li><li>An example using the question word &quot;wer&quot;: Wer wohnt hier? - Hier wohnen Katrin und Lotte.</li></ul>\n\n<p>When <strong>not</strong> asking about <strong>people,&#160;</strong>you use the question word <strong><em>was</em></strong>.</p>\n\n<p>Image:</p><ul><li>An example using the question word &quot;was&quot;: Was trinkst du? - Ich trinke Wasser.</li><li>An example using the question word &quot;was&quot;: Was macht Lisa? - Lisa telefoniert.</li></ul>\n"
+    }
+   ]
+  },
+  {
+   "id": "script",
+   "kind": "dw-script-pdf",
+   "url": "https://learngerman.dw.com/downloads/52719579/nicos-weg-a1-e3-l2-manuskript-und-wortschatz-englisch.pdf",
+   "localFile": "DW Deutsch lernen/A1/04_in_company/02_Lesson_02/Materials/Script and vocabulary (English).pdf",
+   "sha256": "25322bd0196733c421eac5f345f253bbd3885e506039257e58fb9510f27f6eee",
+   "lines": [
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "(3) In company | Was trinkst du?",
+    "In the apartment, Nico shows Nina and Sebastian the photo of his aunt",
+    "Yara. While Nina is getting drinks for everyone, they all try to work out how",
+    "Nico can find his aunt. Sebastian has already got an idea…",
+    "Script",
+    "NICO:",
+    "Das ist Yara.",
+    "NINA:",
+    "Ja, sie ist hübsch.",
+    "NICO:",
+    "Sie lebt in Deutschland.",
+    "SEBASTIAN:",
+    "Wohnt sie hier in der Stadt?",
+    "LISA:",
+    "Aber wo ist das? Kennt ihr Yaras Fahrradladen?",
+    "SEBASTIAN:",
+    "[Nein.]",
+    "NINA:",
+    "So. Was möchtet ihr trinken?",
+    "LISA:",
+    "Was gibt es denn?",
+    "NINA:",
+    "Wir haben … Apfelsaft, Wasser, Bier, Wein, Cola und Limonade.",
+    "SEBASTIAN:",
+    "Also, ich nehm ein Bier.",
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "NINA:",
+    "Wir haben auch Kaffee und Tee im Angebot …",
+    "SEBASTIAN:",
+    "Bier, danke.",
+    "NINA:",
+    "Alles klar.",
+    "LISA:",
+    "Für mich bitte einen Kaffee.",
+    "NINA:",
+    "Mit Milch und Zucker?",
+    "LISA:",
+    "Ja, mit viel Milch, aber wenig Zucker. Ah warte, ich mach das.",
+    "NINA:",
+    "Was ist mit dir, Nico? Hast du auch Durst? Was möchtest du trinken?",
+    "NICO:",
+    "Cola bitte.",
+    "NINA:",
+    "Alles klar. Dann nehme ich Limonade.",
+    "SEBASTIAN:",
+    "Also, Freunde, ich hab ’ne Idee! Wir … wir posten das Foto von Yara bei Book und",
+    "fragen: Wer kennt diesen Fahrradladen? Und so finden wir die Adresse raus.",
+    "LISA:",
+    "Ja, vielleicht.",
+    "NINA:",
+    "Habt ihr Hunger?",
+    "LISA:",
+    "Hunger? Hungry?",
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "NICO:",
+    "Ja!",
+    "NINA:",
+    "Hier.",
+    "Hier sind die Speisekarten!",
+    "SEBASTIAN:",
+    "So, also dann prost!",
+    "ALLE:",
+    "Prost!",
+    "SEBASTIAN:",
+    "Wo ist denn Nawin? Ist er nicht hier?",
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "Vocabulary (from script and lesson)",
+    "der Apfelsaft, die Apfelsäfte (nach Zahl: Apfelsaft) – apple juice",
+    "das Bier, die Biere (nach Zahl: Bier) – beer",
+    "die Cola, die Colas (nach Zahl: Cola) – coke, soda pop (drink)",
+    "das – the (neuter article)",
+    "der – the (masculine article)",
+    "die – the (feminine article)",
+    "das Eis – ice cube",
+    "nur Singular",
+    "der Fahrradladen, die Fahrradläden – bicycle store",
+    "fragen – to ask",
+    "fragt, fragte, hat gefragt",
+    "Ich habe eine Idee. – I have an idea.",
+    "jemanden/etwas kennen – to know someone",
+    "kennt, kannte, hat gekannt",
+    "der Kühlschrank, die Kühlschränke – refrigerator; fridge; ice box",
+    "lieber – rather, to prefer",
+    "die Limo, die Limos – lemonade; soft drink",
+    "Abkürzung für: Limonade",
+    "die Limonade, die Limonaden – lemonade; soft drink",
+    "Kurzform: die Limo, die Limos",
+    "die Milch – milk",
+    "nur Singular",
+    "mit – with",
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "möchten – to like; to want to; would like",
+    "möchte, wollte (!)",
+    "etwas nehmen – to take something, to have something",
+    "nimmt, nahm, hat genommen",
+    "ohne – without",
+    "der Orangensaft, die Orangensäfte (nach Zahl: Orangensaft) – orange juice",
+    "etwas posten – to post something",
+    "postet, postete, hat gepostet, aus dem Englischen",
+    "der Saft, die Säfte (nach Zahl meist: Saft) – juice",
+    "die Speisekarte, die Speisekarten – menu",
+    "der Tee, die Tees (nach Zahl: Tee) – tea",
+    "viel – a lot (of)",
+    "mehr, am meinsten",
+    "das Wasser – water",
+    "nur Singular",
+    "der Wein, die Weine (nach Zahl: Wein) – wine",
+    "wenig – a litte; a bit; few",
+    "weniger, am wenigsten",
+    "der Zucker – sugar",
+    "nur Singular"
+   ]
+  }
+ ]
+}

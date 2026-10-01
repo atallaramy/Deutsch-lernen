@@ -1,0 +1,22 @@
+Wo liegt das?
+
+- Nico! komm, und spiel mit! 
+- So. Also, es gibt vier Teams: Team Osten, Team Süden, Team Westen und Team Norden. Ja?
+- Team Süden!
+- Süden?
+- Hier! Das ist Süden, das ist Norden, das ist Osten und das ist Westen. 
+- Hi, ich bin Nico. Ich komme aus Spanien ... aus Sevilla. 
+- Spanien - das ist im Süden, oder? Im Süden von Europa. 
+- Ja. Und Sevilla ist im Süden von Spanien. Und du?
+- Ich bin Selma. Ich komme aus Syrien ... aus Damaskus. 
+- Damaskus, das ist ...
+- Damaskus ist auch im Süden. Im Süden von Syrien. 
+- Komm jetzt! Wir gewinnen!
+- Gewinnen?
+- Nico spricht noch nicht so gut Deutsch. 
+- Wir gewinnen!
+- Gewinnen. Okay, alle: Gewinnen!
+- Ja gut, dann fangt ihr an. 
+- Wir waren gut!
+- Kommt, gehen wir tanzen!
+- Mama? Ja, ich komme. Entschuldigung. 

@@ -5,6 +5,10 @@ One line per confirmed decision, newest first. The rules they produce live in
 
 | Date | Decision |
 |---|---|
+| 2026-10-04 | An Anki instruction in the learner's notes is carried out without asking ("just do it. do not ask. go."). |
+| 2026-10-03 | DW materials (script, exercises, vocabulary, grammar) are the capture source; notes may be incomplete and add only what DW lacks; left-out parts are not mistakes ("I want to speed up my studies"). |
+| 2026-10-02 | The DW *ich*/*ach* sound tip (E3 L3) becomes one typed rule card in Sentences (type *a, o, u*), at the learner's request ("Add it to anki"); still no audio. |
+| 2026-10-01 | A lesson deck is built once; unchanged decks are never rewritten ("if the deck is not changed, why do you change the date"). |
 | 2026-10-01 | `next-steps.md` (first named `roadmap.md`): the learner's next steps, extremely short; its rule line and the file are protected from every AI (Claude hook + test). |
 | 2026-10-01 | Git: commits made after the last push are merged into one commit ("I want no git history noise"). |
 | 2026-10-01 | Exam practice is marked and explained the way Goethe examiners judge, with Goethe sources, not the course lessons ("This is all done for them"). |

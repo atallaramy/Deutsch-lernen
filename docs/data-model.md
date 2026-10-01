@@ -17,14 +17,14 @@
 
 | File | Role |
 |---|---|
-| `source-snapshot.json` | Official source text. DW `script`: the PDF's lines. DW `exercises`: `vocabulary` (the vocabulary page `/lv`: `url`, `items` with `id`, `german`, `english`, `forms`), `exercises` (correct texts, read-aloud lines and tips) and `pages` (grammar `gr-` and culture `rs-` pages: `texts`, plus `html` for the readable copy). Contexts are verified against the script, exercise and page texts; vocabulary items are not contexts. |
+| `source-snapshot.json` | Official source text. DW `script`: the PDF's lines. DW `exercises`: `vocabulary` (the vocabulary page `/lv`: `url`, `items` with `id`, `german`, `english`, `forms`), `exercises` (correct texts, sorted answers, read-aloud lines and tips) and `pages` (grammar `gr-` and culture `rs-` pages: `texts`, plus `html` for the readable copy; a grammar page's image text is kept as an *Image:* list, since DW puts examples there). Contexts are verified against the script, exercise and page texts; vocabulary items are not contexts. |
 | `lesson-pages.md` | DW only: readable copy of the vocabulary page (German, English, forms) and the grammar and culture pages, rendered with pandoc from the snapshot. Never edited by hand; `harvest_sources.py --pages` rewrites it offline, and the tests fail while it lags the snapshot. |
 
 ## Code
 
 | File | Role |
 |---|---|
-| `build_all.py` | CLI: `check` (`--lesson ID` lists that lesson's cards), `package` (ends with `Import: …`, the files whose cards changed). |
+| `build_all.py` | CLI: `check` (`--lesson ID` lists that lesson's cards), `package` (writes only the files whose cards changed, a lesson deck once; `--refresh-lesson ID` rebuilds one; ends with `Import: …`). |
 | `deck_data.py` | Loads data and snapshots; verification helpers; shared card style. |
 | `build_vocabulary_decks.py`, `build_articles_deck.py`, `build_sentences_deck.py` | Card construction for each deck (lesson decks reuse Vocabulary and Sentences cards). |
 | `card_quality.py` | Cross-deck gate: coverage, preservation of the v2 records, leakage, ambiguity, the front-sentence registry, sentence priming, known words, and every DW vocabulary-page item recorded in its lesson. |
@@ -92,7 +92,7 @@ Merge key for Vocabulary: `lemma` (case-sensitive) + `sense`.
  "covers": ["dw-a1-e0-l1:und-ihnen"], "accept": [], "note": "Informal: Und dir?"}
 ```
 
-- `kind`: `production`, `response`, `completion` (needs `prompt.target`) or `register`.
+- `kind`: `production`, `response`, `completion` (needs `prompt.target`), `register` or `rule` (a DW tip the learner asked to keep; the answer is verbatim in a snapshot).
 - `answerSource` is a snapshot reference or `"learner-notes"`. With `"learner-notes"`, the answer must equal a covered entry.
 - `retired: "<reason>"` keeps a card in the package, tagged and suspended.
 

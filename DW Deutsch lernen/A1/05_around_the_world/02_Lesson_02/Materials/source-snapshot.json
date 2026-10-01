@@ -1,0 +1,526 @@
+{
+ "description": "Official source text captured by ANKI/harvest_sources.py for offline context verification.",
+ "harvestedOn": "2026-10-04",
+ "sources": [
+  {
+   "id": "exercises",
+   "kind": "dw-exercises",
+   "url": "https://learngerman.dw.com/en/wo-liegt-das/l-37337877",
+   "lessonUrl": "https://learngerman.dw.com/en/wo-liegt-das/l-37337877",
+   "vocabulary": {
+    "url": "https://learngerman.dw.com/en/wo-liegt-das/l-37337877/lv",
+    "items": [
+     {
+      "id": 37491675,
+      "german": "(das) Europa",
+      "english": "Europe",
+      "forms": "nur Singular, selten mit Artikel"
+     },
+     {
+      "id": 37457971,
+      "german": "(etwas) gewinnen",
+      "english": "to win (something)",
+      "forms": "gewinnt, gewann, hat gewonnen"
+     },
+     {
+      "id": 37367220,
+      "german": "die Hauptstadt, die Hauptstädte",
+      "english": "capital city",
+      "forms": ""
+     },
+     {
+      "id": 37456383,
+      "german": "in der Mitte (von)",
+      "english": "in the middle (of)",
+      "forms": ""
+     },
+     {
+      "id": 37456492,
+      "german": "in der Nähe (von)",
+      "english": "near",
+      "forms": ""
+     },
+     {
+      "id": 37454244,
+      "german": "liegen",
+      "english": "here: to be located",
+      "forms": "liegt, lag, hat gelegen"
+     },
+     {
+      "id": 37454637,
+      "german": "der Norden",
+      "english": "north; the North",
+      "forms": "nur Singular"
+     },
+     {
+      "id": 37369247,
+      "german": "der Osten",
+      "english": "east; the East",
+      "forms": "nur Singular"
+     },
+     {
+      "id": 37744824,
+      "german": "der See, die Seen",
+      "english": "lake",
+      "forms": ""
+     },
+     {
+      "id": 37455666,
+      "german": "der Süden",
+      "english": "south; the South",
+      "forms": "nur Singular"
+     },
+     {
+      "id": 37366464,
+      "german": "(das) Syrien",
+      "english": "Syria",
+      "forms": "nur Singular, selten mit Artikel"
+     },
+     {
+      "id": 37455917,
+      "german": "tanzen",
+      "english": "to dance",
+      "forms": "tanzt, tanzte, hat getanzt"
+     },
+     {
+      "id": 37455982,
+      "german": "das Team, die Teams",
+      "english": "team",
+      "forms": ""
+     },
+     {
+      "id": 37456019,
+      "german": "der Westen",
+      "english": "west; the West",
+      "forms": "nur Singular"
+     }
+    ]
+   },
+   "exercises": [
+    {
+     "id": "e-37344992",
+     "url": "https://learngerman.dw.com/en/answering-yes-no-questions/l-37337877/e-37344992",
+     "title": "Answering yes-no questions",
+     "texts": [
+      "Wohnst du hier?",
+      "Ja, … / Nein, ich wohne in …",
+      "Kommst du aus Deutschland?",
+      "Ja, … / Nein, ich komme aus …",
+      "Warst du schon mal in Spanien?",
+      "Ja, ich war schon mal ... / Nein, ich war noch nie ..."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37338738",
+     "url": "https://learngerman.dw.com/en/at-the-party/l-37337877/e-37338738",
+     "title": "At the party",
+     "texts": [
+      "Bring die Ereignisse in die richtige Reihenfolge.",
+      "Vier Teams spielen ein Spiel. Nawin möchte tanzen. Selma telefoniert."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37345227",
+     "url": "https://learngerman.dw.com/en/baden-württemberg/l-37337877/e-37345227",
+     "title": "Baden-Württemberg",
+     "texts": [
+      "Baden-Württemberg ist ein Bundesland. Es liegt im Südwesten von Deutschland. Stuttgart ist die Hauptstadt und liegt in der Mitte von Baden-Württemberg. In der Nähe von Stuttgart ist Tübingen. Im Südwesten von Baden-Württemberg ist die Stadt Freiburg, im Norden von Baden-Württemberg liegt Heidelberg. Und im Süden ist ein See. Der See heißt Bodensee.",
+      "Baden-Württemberg liegt im Südwesten von Deutschland.",
+      "Nein, die Hauptstadt heißt Stuttgart.",
+      "Ja, Tübingen ist in der Nähe von Stuttgart.",
+      "Der Bodensee ist im Süden von Baden-Württemberg.",
+      "Wo liegt Baden-Württemberg?",
+      "Heißt die Hauptstadt Freiburg?",
+      "Ist Tübingen in der Nähe von Stuttgart?",
+      "Was ist im Süden von Baden-Württemberg?"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37339423",
+     "url": "https://learngerman.dw.com/en/compass-directions-1/l-37337877/e-37339423",
+     "title": "Compass directions (1)",
+     "texts": [
+      "Norden",
+      "Osten",
+      "Süden",
+      "Westen",
+      "Was ist richtig? Wähl die korrekte Himmelsrichtung aus.",
+      "Careful! All compass directions are masculine: der Norden, der Süden, der Westen, der Osten.",
+      "Was ist richtig? Wähl die korrekte Himmelsrichtung aus.",
+      "Was ist richtig? Wähl die korrekte Himmelsrichtung aus.",
+      "Was ist richtig? Wähl die korrekte Himmelsrichtung aus."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37339721",
+     "url": "https://learngerman.dw.com/en/compass-directions-2/l-37337877/e-37339721",
+     "title": "Compass directions (2)",
+     "texts": [
+      "Bring die Buchstaben in die richtige Reihenfolge.",
+      "N o r d e n",
+      "Bring die Buchstaben in die richtige Reihenfolge.",
+      "S ü d e n",
+      "Bring die Buchstaben in die richtige Reihenfolge.",
+      "W e s t e n",
+      "Bring die Buchstaben in die richtige Reihenfolge.",
+      "O s t e n"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37344803",
+     "url": "https://learngerman.dw.com/en/declarative-sentence/l-37337877/e-37344803",
+     "title": "Declarative sentence",
+     "texts": [
+      "Have you figured out how a declarative sentence is formed? Take another look at the examples:\nWir spielen ein Spiel.\nIch bin Selma.\nThe verb is always in the second position.",
+      "Bring die Wörter in dem Aussagesatz in die richtige Reihenfolge.",
+      "Ich komme aus Damaskus."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37345109",
+     "url": "https://learngerman.dw.com/en/differentiate-between-sentence-types/l-37337877/e-37345109",
+     "title": "Differentiate between sentence types",
+     "texts": [
+      "Aussagesatz: Ich komme aus Spanien.\nW-Frage: Woher kommst du?\nSatzfrage: Kommst du aus Spanien?",
+      "Aussagesatz",
+      "Satzfrage",
+      "W-Frage",
+      "Aussagesatz",
+      "Hallo, ich bin Anna.",
+      "Ist das die Wagnergasse?",
+      "Wie heißt du?",
+      "Ah! Du bist Sebastian!"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37345170",
+     "url": "https://learngerman.dw.com/en/differentiating-between-questions/l-37337877/e-37345170",
+     "title": "Differentiating between questions ",
+     "texts": [
+      "Woher kommst du?",
+      "Kommst du aus Deutschland?",
+      "Wie ist deine Telefonnummer?",
+      "Warst du schon mal in Berlin?",
+      "Warst du schon mal in Spanien?",
+      "Wo wohnst du?",
+      "Wo liegt Potsdam?",
+      "#pl# – Ich komme aus Deutschland.\n#pl# – Ja, ich komme aus Deutschland.\n#pl# – Meine Telefonnummer ist 0176 …\n#pl# – Nein, ich war noch nie in Berlin.\n#pl# – Ja, ich war schon mal in Spanien.\n#pl# – Ich wohne in der Wagnergasse.\n#pl# – Potsdam liegt in der Nähe von Berlin.",
+      "Schreib die Fragen.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37344435",
+     "url": "https://learngerman.dw.com/en/german-federal-states/l-37337877/e-37344435",
+     "title": "German federal states",
+     "texts": [
+      "Sachsen ist im Osten von Deutschland.",
+      "Schleswig-Holstein ist im Norden von Deutschland.",
+      "Baden-Württemberg ist im Südwesten von Deutschland.",
+      "Mecklenburg-Vorpommern ist im Nordosten von Deutschland.",
+      "Wo ist Sachsen?",
+      "Did you already know this? Germany consists of 16 federal states. Here you do not have to learn them all. We only want to give you a bit of basic information.",
+      "Wo ist Schleswig-Holstein?",
+      "Did you already know this? Each federal state has a capital. München, for example, is the capital of Bayern. There are three small city states: Berlin, Bremen and Hamburg.",
+      "Wo ist Baden-Württemberg?",
+      "If you want to say exactly where something is, you can combine two directions with each other: \"Norden\" + \"Osten\" = \"Nordosten\" or \"Süden\" + \"Westen\" = \"Südwesten\". \"Nord\" or \"Süd\" is always the first word.",
+      "Wo ist Mecklenburg-Vorpommern?",
+      "Tip: Take a map of Germany and practice the compass directions. Learn more about the individual federal states and their capitals online."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-44225618",
+     "url": "https://learngerman.dw.com/en/match-questions/l-37337877/e-44225618",
+     "title": "Match questions",
+     "texts": [
+      "Kommst du aus Berlin?",
+      "Wo wohnst du?",
+      "Warst du schon mal in Bayern?",
+      "Nein, ich komme aus Frankfurt.",
+      "Ich wohne in der Seilstraße.",
+      "Ja, ich war schon mal in Bayern."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37344586",
+     "url": "https://learngerman.dw.com/en/nico-is-learning-german-german-cities/l-37337877/e-37344586",
+     "title": "Nico is learning German: German cities",
+     "texts": [
+      "Duisburg ist im Westen von Deutschland.",
+      "Kassel liegt im Norden von Hessen."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37344318",
+     "url": "https://learngerman.dw.com/en/nico-is-learning-german-the-location-of-a-city/l-37337877/e-37344318",
+     "title": "Nico is learning German: The location of a city ",
+     "texts": [
+      "Wo ist Kiel?",
+      "Norden – Deutschland",
+      "Wo ist Wien?",
+      "Osten – Österreich",
+      "Wo ist München?",
+      "Süden – Deutschland",
+      "Wo ist Innsbruck?",
+      "Westen – Österreich",
+      "Wo ist Basel?",
+      "Norden – Schweiz"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37338904",
+     "url": "https://learngerman.dw.com/en/selma-and-nico/l-37337877/e-37338904",
+     "title": "Selma and Nico",
+     "texts": [
+      "Damaskus",
+      "Syrien",
+      "Sevilla",
+      "Europa",
+      "Das ist Selma. Sie kommt aus Syrien, aus #p#.\nDamaskus ist eine Stadt im Süden von #p#.",
+      "Ergänze die Informationen über Selma.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "Das ist Nico. Er kommt aus Spanien, aus Sevilla.\n#p# ist im Süden von #p#.",
+      "Ergänze die Informationen über Nico.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37340366",
+     "url": "https://learngerman.dw.com/en/the-location-of-a-city-1/l-37337877/e-37340366",
+     "title": "The location of a city (1)",
+     "texts": [
+      "Norden",
+      "Westen",
+      "Süden",
+      "Osten",
+      "Osten",
+      "Norden",
+      "Wo ist Hamburg? Schreib das Wort in die Lücke. Ergänze den Satz.",
+      "Hamburg ist eine Stadt im #ps# von Deutschland.",
+      "Wo ist Köln? Schreib das Wort in die Lücke. Ergänze den Satz.",
+      "Köln ist eine Stadt im #ps# von Deutschland.",
+      "Wo sind München und Stuttgart? Schreib das Wort in die Lücke. Ergänze den Satz.",
+      "Careful! 1 \"Stadt\", but 2, 3, 4, … \"Städte\".",
+      "München und Stuttgart sind Städte im #ps# von Deutschland.",
+      "Wo sind Berlin und Leipzig? Schreib das Wort in die Lücke. Ergänze den Satz.",
+      "Berlin und Leipzig sind Städte im #ps# von Deutschland.",
+      "Wo ist Wien? Schreib das Wort in die Lücke. Ergänze den Satz.",
+      "Wien ist im #ps# von Österreich.",
+      "Wo ist Zürich? Schreib das Wort in die Lücke. Ergänze den Satz.",
+      "Did you notice anything? \"Schweiz\" has the article \"die\"; but in combination with \"von\" and \"aus\" it changes to \"der\" since the dative follows here. You will learn more about this later.",
+      "Zürich ist im #ps# von der Schweiz."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37344521",
+     "url": "https://learngerman.dw.com/en/the-location-of-a-city-2/l-37337877/e-37344521",
+     "title": "The location of a city (2)",
+     "texts": [
+      "Beispiel:\nFüssen – Bayern (Süden)\nFüssen liegt im Süden von Bayern.\nWiesbaden – Frankfurt am Main (in der Nähe von)\nWiesbaden liegt in der Nähe von Frankfurt am Main.",
+      "Wien",
+      "liegt",
+      "im",
+      "Osten",
+      "von",
+      "Österreich",
+      "Erlangen",
+      "liegt",
+      "in",
+      "der",
+      "Nähe",
+      "von",
+      "Nürnberg",
+      "Fulda",
+      "liegt",
+      "Deutschland",
+      "#p# #p# #p# #p# #p# #p#.",
+      "Wien – Österreich (Osten)",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "#p# #p# #p# #p# #p# #p# #p#.",
+      "Erlangen – Nürnberg (in der Nähe von)",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "#p# #p# in der Mitte von #p#.",
+      "Fulda – Deutschland (in der Mitte von)",
+      "Tip: Take a map of Germany and write similar sentences as in this exercise.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37344936",
+     "url": "https://learngerman.dw.com/en/w-questions/l-37337877/e-37344936",
+     "title": "W-questions",
+     "texts": [
+      "Have you worked out how a W-question is formed? Take another look at the examples:\nWoher kommst du?\nWo ist Süden?\nThe verb is always in position 2.",
+      "Bring die Wörter in der W-Frage in die richtige Reihenfolge.",
+      "Was ist das ?"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37344967",
+     "url": "https://learngerman.dw.com/en/yes-no-questions-1/l-37337877/e-37344967",
+     "title": "Yes-no questions (1)",
+     "texts": [
+      "Kommst du aus Deutschland ?",
+      "Kennst du Berlin ?",
+      "Info: Lots of questions don't contain a question-word. These questions are called \"Satzfragen\". We answer them with \"ja\" or \"nein\".",
+      "Warst du schon mal im Norden von Deutschland ?"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37345012",
+     "url": "https://learngerman.dw.com/en/yes-no-questions-2/l-37337877/e-37345012",
+     "title": "Yes-no questions (2)",
+     "texts": [
+      "Have you figured out how a yes-no question is formed? Take another look at the examples:\nKennst du Berlin?\nSpielen wir ein Spiel?\nThe verb is always in the first position.",
+      "Bring die Wörter in der Satzfrage in die richtige Reihenfolge.",
+      "Kommst du aus Spanien ?"
+     ],
+     "vocabularyTags": []
+    }
+   ],
+   "pages": [
+    {
+     "id": "rs-39370664",
+     "url": "https://learngerman.dw.com/en/north-south-east-and-west/l-37337877/rs-39370664",
+     "title": "North, South, East and West",
+     "texts": [
+      "North, South, East and West",
+      "The Wattenmeer (Wadden Sea), coastal bluffs, small islands, wind, flatlands and fields: this is north Germany. The north coast is the country's most popular holiday region, including among Germans themselves.\nIn south Germany, you'll find Lake Constance, the city of Munich and the mountains, including low mountain ranges like the Black Forest and the Bavarian Forest, but also of course the Alps, with Germany's highest mountain, the Zugspitze (2,962 meters). Lots of people like to travel to the South to hike, bike or ski.\nIn western Germany, most of the larger cities like Cologne and Dusseldorf are in or around the Ruhr region. There used to be a lot of industrial production in this region. The area along the Rhine River is famous for its carnival, which officially begins on November 11 and ends with street celebrations in February or March.\nEastern Germany stretches across the area of the former GDR. After the fall of the Wall, lots of dilapidated buildings, city squares and bridges were extensively restored in cities like Dresden, Leipzig and Weimar. The cities now draw large crowds of tourists from around the world. The Harz Mountains and the Thuringian Forest are good places for hiking, and \"Saxon Switzerland\", with its steep cliffs, is good for climbing."
+     ],
+     "html": "\n\n<p>The Wattenmeer (Wadden Sea), coastal bluffs, small islands, wind, flatlands and fields: this is north Germany. The north coast is the country's most popular holiday region, including among Germans themselves.</p>\n\n<p>In south Germany, you'll find Lake Constance, the city of Munich and the mountains, including low mountain ranges like the Black Forest and the Bavarian Forest, but also of course the Alps, with Germany's highest mountain, the Zugspitze (2,962 meters). Lots of people like to travel to the South to hike, bike or ski.</p>\n\n<p>In western Germany, most of the larger cities like Cologne and Dusseldorf are in or around the Ruhr region. There used to be a lot of industrial production in this region. The area along the Rhine River is famous for its carnival, which officially begins on November 11 and ends with street celebrations in February or March.</p>\n\n<p>Eastern Germany stretches across the area of the former GDR. After the fall of the Wall, lots of dilapidated buildings, city squares and bridges were extensively restored in cities like Dresden, Leipzig and Weimar. The cities now draw large crowds of tourists from around the world. The Harz Mountains and the Thuringian Forest are good places for hiking, and \"Saxon Switzerland\", with its steep cliffs, is good for climbing.</p>\n"
+    },
+    {
+     "id": "gr-38306265",
+     "url": "https://learngerman.dw.com/en/questions-and-statements/l-37337877/gr-38306265",
+     "title": "Questions and statements",
+     "texts": [
+      "Questions and statements",
+      "Woher kommst du? – Ich komme aus Spanien.\nKommst du aus Italien? – Nein, ich komme aus Spanien.\nW-questions\nW-questions are asked when specific information is requested. These questions cannot be answered with a simple \"yes\" or \"no\". The W-questions are so-called because the first word in the question usually begins with the letter W, e.g., Woher …? Wo …? Wie …? This is followed by the conjugated verb and the subject.\nImage:\nAn example using the question word \"woher\": Woher kommst du?\nAn example using the question word \"wo\": Wo liegt Hamburg?\nStatements\nIn a simple statement, the conjugated verb is always in second position. The subject is often in first position.\nImage:\nAn example of a statement using the subject, \"ich\" and the verb, \"kommen\": Ich komme aus Spanien.\nAn example of a statement using the subject, \"Hamburg\" and the verb, \"liegen\": Hamburg liegt im Norden von Deutschland.\nYes-no questions\nThese are so-called because they can be answered with a simple \"yes\" or \"no\". Here the conjugated verb comes first. It is followed by the subject.\nImage:\nAn example of a question using the verb, \"kommen\" and the subject, \"du\": Kommst du aus Spanien?\nAn example of a question using the verb, \"liegen\" and the subject, \"Hamburg\": Liegt Hamburg im Norden von Deutschland?\nThis means that a yes-no question can be formed by switching the positions of the subject and the conjugated verb in a statement.\nImage:\nAn example of how to construct a yes or no question from a statement: Ich wohne in Sevilla. - Wohnst du in Sevilla?\nImage:\nAn example of how to construct a yes or no question from a statement: Berlin ist eine Stadt. - Ist Berlin eine Stadt?\nGrammatical terms in German:\ndas Subjekt: The subject is the person or thing that is active or central in the sentence. The subject is also known as \"der Satzgegenstand\". It is usually a noun or pronoun.\ndie W-Frage: W-questions are open questions that cannot be answered with \"yes\" or \"no\". At the beginning of a W-question, there is a question word that usually begins with the letter W.\nder Aussagesatz: In a statement, a fact is declared. The statement may give information or describe a situation.\ndie Satzfrage: This is a question that can be answered with \"yes\" or \"no\"."
+     ],
+     "html": "<p><em>Woher kommst du? – Ich komme aus Spanien.</em></p>\n\n<p><em>Kommst du aus Italien? – Nein, ich komme aus Spanien.</em></p>\n\n<p>&#160;</p>\n\n<p><strong>W-questions</strong></p>\n\n<p>W-questions are asked when specific information is requested. These questions cannot be answered with a simple \"yes\"&#160;or \"no\". The W-questions are so-called because the first word in the question usually begins with the letter <em>W</em>, e.g.,&#160;<em>Woher …? Wo …? Wie …?</em> This is followed by the conjugated verb and the subject.</p>\n\n<p>Image:</p><ul><li>An example using the question word &quot;woher&quot;: Woher kommst du?</li><li>An example using the question word &quot;wo&quot;: Wo liegt Hamburg?</li></ul>\n\n<p><strong>Statements</strong></p>\n\n<p>In a simple statement, the conjugated verb is always in second position. The subject is often in first position.</p>\n\n<p>Image:</p><ul><li>An example of a statement using the subject, &quot;ich&quot; and the verb, &quot;kommen&quot;: Ich komme aus Spanien.</li><li>An example of a statement using the subject, &quot;Hamburg&quot; and the verb, &quot;liegen&quot;: Hamburg liegt im Norden von Deutschland.</li></ul>\n\n<p><strong>Yes-no questions</strong></p>\n\n<p>These are so-called&#160;because they can be answered with a simple \"yes\"&#160;or \"no\". Here the conjugated verb comes first. It is followed by the subject.</p>\n\n<p>Image:</p><ul><li>An example of a question using the verb, &quot;kommen&quot; and the subject, &quot;du&quot;: Kommst du aus Spanien?</li><li>An example of a question using the verb, &quot;liegen&quot; and the subject, &quot;Hamburg&quot;: Liegt Hamburg im Norden von Deutschland?</li></ul>\n\n<p>This means that a yes-no question can be formed by switching the positions of the subject and the conjugated verb in a statement.</p>\n\n<p>Image:</p><ul><li>An example of how to construct a yes or no question from a statement: Ich wohne in Sevilla. - Wohnst du in Sevilla?</li></ul>\n\n<p>Image:</p><ul><li>An example of how to construct a yes or no question from a statement: Berlin ist eine Stadt. - Ist Berlin eine Stadt?</li></ul>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>Grammatical terms in German:</p>\n\n\t\t\t<p>das Subjekt: The subject is the person or thing that is active or central in the sentence. The subject is also known as \"der Satzgegenstand\". It is usually a noun or pronoun.</p>\n\n\t\t\t<p>die W-Frage: W-questions&#160;are open questions that cannot be answered with \"yes\"&#160;or \"no\". At the beginning of a W-question, there is a question word that usually begins with the letter <em>W</em>.</p>\n\n\t\t\t<p>der Aussagesatz: In a statement, a fact is declared. The statement may give information or describe&#160;a situation.</p>\n\t\t\tdie Satzfrage<span id=\"ck_editor_caret_marker\" style=\"display:none\"></span>: This is a question that can be answered with \"yes\" or \"no\".</td>\n\t\t</tr>\n\t</tbody>\n</table>\n"
+    }
+   ]
+  },
+  {
+   "id": "script",
+   "kind": "dw-script-pdf",
+   "url": "https://learngerman.dw.com/downloads/52719615/nicos-weg-a1-e4-l2-manuskript-und-wortschatz-englisch.pdf",
+   "localFile": "DW Deutsch lernen/A1/05_around_the_world/02_Lesson_02/Materials/Script and vocabulary (English).pdf",
+   "sha256": "d55c8132979e2bbc1835a7a55c8ff03fe7fe20148ff35c19e35731c3c5dc67a2",
+   "lines": [
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "(4) Around the world | Wo liegt das?",
+    "Nico gets to know Selma during a party game. They talk about where they",
+    "come from. When Nico wants to keep talking to Selma after the game, her",
+    "phone rings and she disappears.",
+    "Script",
+    "SEBASTIAN:",
+    "Nico! Komm und spiel mit!",
+    "NINA:",
+    "So. Also, es gibt vier Teams: Team Osten, Team Süden, Team Westen und Team",
+    "Norden. Ja?",
+    "NAWIN:",
+    "Team Süden!",
+    "NICO:",
+    "Süden?",
+    "SELMA:",
+    "Hier! Das ist Süden, das ist Norden, das ist Osten und das ist Westen.",
+    "NICO:",
+    "Hi, ich bin Nico. Ich komme aus Spanien … aus Sevilla.",
+    "SELMA:",
+    "Spanien – das ist im Süden, oder? Im Süden von Europa.",
+    "NICO:",
+    "Ja. Und Sevilla ist im Süden von Spanien. Und du?",
+    "SELMA:",
+    "Ich bin Selma. Ich komme aus Syrien… aus Damaskus.",
+    "NICO:",
+    "Damaskus, das ist …",
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "SELMA:",
+    "Damaskus ist auch im Süden. Im Süden von Syrien. Komm jetzt! Wir gewinnen!",
+    "NICO:",
+    "Gewinnen?",
+    "NINA:",
+    "Nico spricht noch nicht so gut Deutsch.",
+    "SELMA:",
+    "Wir gewinnen!",
+    "NICO:",
+    "Gewinnen. Okay, alle: Gewinnen!",
+    "NINA:",
+    "Ja gut, dann fangt ihr an.",
+    "NICO:",
+    "Wir waren gut!",
+    "NAWIN:",
+    "Kommt, gehen wir tanzen!",
+    "SELMA:",
+    "Mama? Ja, ich komme. Entschuldigung.",
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "Vocabulary (from script and lesson)",
+    "(das) Europa – Europe",
+    "nur Singular, selten mit Artikel",
+    "(etwas) gewinnen – to win (something)",
+    "gewinnt, gewann, hat gewonnen",
+    "die Hauptstadt, die Hauptstädte – capital city",
+    "in der Mitte (von) – in the middle (of)",
+    "in der Nähe (von) – near",
+    "liegen – here: to be located",
+    "liegt, lag, hat gelegen",
+    "der Norden – north; the North",
+    "nur Singular",
+    "der Osten – east; the East",
+    "nur Singular",
+    "der See, die Seen – lake",
+    "der Süden – south; the South",
+    "nur Singular",
+    "(das) Syrien – Syria",
+    "nur Singular, selten mit Artikel",
+    "tanzen – to dance",
+    "tanzt, tanzte, hat getanzt",
+    "das Team, die Teams – team",
+    "der Westen – west; the West",
+    "nur Singular"
+   ]
+  }
+ ]
+}

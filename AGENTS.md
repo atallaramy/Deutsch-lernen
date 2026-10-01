@@ -57,15 +57,20 @@ this spirit.
 - `ANKI/lesson-vocabulary.json` (schema 3) is the faithful record of what the
   learner studied, grouped course → lesson → entry. Every entry keeps its
   provenance (`origin`), the lesson it came from and the source URLs.
-- A captured entry is: an item in a vocabulary/Wortschatz list in the
-  learner's notes; an item the learner wrote with a meaning; an item of the
-  official glossary, vocabulary page or word list of a lesson the learner has
-  notes for; or a word or fixed phrase worth learning from that lesson's
+- For DW, the official lesson materials are the source: script, exercises,
+  vocabulary page and grammar pages. The learner's notes may be incomplete (it
+  speeds up their study); from them take only what those materials lack.
+- A captured entry is: an item of a studied lesson's official glossary,
+  vocabulary page or word list; a word or fixed phrase worth learning from its
   official script, exercises, grammar pages or culture pages (their sentences
-  are context candidates). Words above A1 are captured without asking and
+  are context candidates); or an item in a vocabulary/Wortschatz list in the
+  learner's notes or written there with a meaning. Words above A1 are captured without asking and
   tagged `beyond-A1` (Goethe-Zertifikat A1 word list). Other borderline items
   go to `pendingEntries` until the learner says yes or no; pending items are
   never built.
+- An Anki instruction in the learner's notes (*Add it to anki*, *should be in
+  anki as well*) is their decision: carry it out without asking, with cards
+  that pass the check.
 - Nothing on a studied lesson's vocabulary page or grammar pages is left out.
   Every item on a DW vocabulary page is recorded in that lesson (entry, pending
   or declined), with `vocabularyPageForm` when the page writes it differently.
@@ -115,7 +120,8 @@ this spirit.
   useful patterns. It owns utterance entries whose value is a pattern or a
   grammatical choice, and how names are used (first name ↔ du/Tschüss,
   Herr/Frau + surname ↔ Sie/Auf Wiedersehen). Unanalysed formulas (greetings,
-  thanks, *Kein Problem*) belong to Vocabulary.
+  thanks, *Kein Problem*) belong to Vocabulary. A DW tip the learner asks to
+  keep in Anki (e.g. the *ich*/*ach* sound) gets one typed rule card here.
 - Quality and retrieval purpose outrank card count. Do not make two cards that
   test substantially the same recall. A source sentence may appear on the front
   of only one card. A context must not contain another card's Sentences answer;
@@ -141,16 +147,15 @@ this spirit.
   German: `Lessons::Easy German::SEG 274 Greetings & Farewells`. All sit under
   one collapsible `Lessons` deck in Anki. Older lesson-deck files keep their
   names and are not deleted.
-- A lesson deck covers every captured entry of its lesson with the same card
-  content as the cumulative decks (its Vocabulary cards plus the Sentences cards
-  for its phrases). It is a typed introduction, not a second long-term queue.
-  Entries added to a lesson after its deck was built (`inLessonDeck: false`)
-  go into the cumulative decks only.
+- A lesson deck covers every captured entry of its lesson (its Vocabulary cards
+  plus the Sentences cards for its phrases). It is a typed introduction, not a
+  second long-term queue. It is built once; later changes go into the
+  cumulative decks only.
 
 ## Identity and scheduling
 
-- Packages are deterministic: IDs and GUIDs come from stable card keys and the
-  data revision, so the same data gives identical files.
+- Packages are deterministic: IDs and GUIDs come from stable card keys, so the
+  same data gives identical files.
 - Keep card keys stable when a learning target stays the same. Never delete a
   shipped card key; to retire one, mark it retired in the data so it is tagged
   `retired::…` and suspended, never silently dropped.

@@ -1,6 +1,6 @@
-# W-Fragen: wer, wie, wo, woher, was, warum
+# W-Fragen: wer, wie, wo, woher, wohin, was, warum
 
-*die W-Frage* (W-question) · A1 · from DW A1 E0 L1 to E2 L3 (mostly E1 L3 *Woher kommst du?* and E2 L3 *Adressen*) and VHS A1 Lektion 2 · checked 2026-09-28
+*die W-Frage* (W-question) · A1 · from DW A1 E0 L1 to E4 L2 (mostly E1 L3 *Woher kommst du?* and E2 L3 *Adressen*) and VHS A1 Lektion 2 · checked 2026-10-03
 
 ## The rule
 
@@ -11,9 +11,11 @@ German terms: *die W-Frage* (also *die Ergänzungsfrage*), *das Fragewort* (ques
 2. Order: **question word – verb – subject**: *Woher kommst du?*
 3. The verb is the conjugated form that matches the subject: *Woher kommst du?* ·
    *Woher kommen Sie?*
+4. **wer** asks about people; **was** asks about everything else (DW E3 L2):
+   *Wer kennt diesen Fahrradladen?* · *Was möchtet ihr trinken?*
 
 DW explains the order on the grammar page [W-questions](https://learngerman.dw.com/en/w-questions/l-37269671/gr-38306976) (E2 L3), and
-again in a later lesson: [Questions and statements](https://learngerman.dw.com/en/questions-and-statements/l-37337877/gr-38306265) (E4 L2).
+again in E4 L2: [Questions and statements](https://learngerman.dw.com/en/questions-and-statements/l-37337877/gr-38306265).
 
 ## Table
 
@@ -23,9 +25,11 @@ again in a later lesson: [Questions and statements](https://learngerman.dw.com/e
 | wie | how | Wie geht es dir? | [DW A1 E0 L1 · script](https://static.dw.com/downloads/52718683/nicos-weg-a1-e0-l1-manuskript-und-wortschatz-englisch.pdf) |
 | wie | a name (with heißen) | Wie heißt du? | [DW A1 E1 L1 · script](https://static.dw.com/downloads/52719106/nicos-weg-a1-e1-l1-manuskript-und-wortschatz-englisch.pdf) |
 | wie alt | age | Wie alt ist Emma? | [DW A1 E2 L1 · script](https://static.dw.com/downloads/52719212/nicos-weg-a1-e2-l1-manuskript-und-wortschatz-englisch.pdf) |
+| wie viel | how much | Wie viel kostet die Pizza? | [DW A1 E3 L4 · exercise](https://learngerman.dw.com/en/asking-what-the-price-is-1/l-37280348/e-37283950) |
 | wie viele | how many | Wie viele Zahlen sind das? | [DW A1 E2 L1 · script](https://static.dw.com/downloads/52719212/nicos-weg-a1-e2-l1-manuskript-und-wortschatz-englisch.pdf) |
 | wo | where | Wo ist die Tasche? | [DW A1 E0 L3 · script](https://static.dw.com/downloads/52719087/nicos-weg-a1-e0-l3-manuskript-und-wortschatz-englisch.pdf) |
 | woher | where from | Woher kommst du? | [DW A1 E1 L3 · script](https://static.dw.com/downloads/52719129/nicos-weg-a1-e1-l3-manuskript-und-wortschatz-englisch.pdf) |
+| wohin | where to | Wohin möchte Chi fahren? | [DW A1 E4 L1 · exercise](https://learngerman.dw.com/en/nawins-friend-chi/l-37325550/e-37328344) |
 | was | what | Was machst du hier? | [DW A1 E1 L3 · script](https://static.dw.com/downloads/52719129/nicos-weg-a1-e1-l3-manuskript-und-wortschatz-englisch.pdf) |
 | warum | why | Warum nicht so gut? | [DW A1 E2 L3 · script](https://static.dw.com/downloads/52719223/nicos-weg-a1-e2-l3-manuskript-und-wortschatz-englisch.pdf) |
 | mit wem | with whom | Mit wem telefoniert Nico? | [DW A1 E2 L3 · exercise](https://learngerman.dw.com/en/in-front-of-lottes-house/l-37269671/e-37270908) |
@@ -36,8 +40,8 @@ again in a later lesson: [Questions and statements](https://learngerman.dw.com/e
 | Wo | wohnen | Sie? | |
 | Was | machst | du | hier? |
 
-Also met, full topics later: *wohin* (where to), *welche* (which; DW A1 E14 L2
-*welch-*). *wie viel* (how much) comes in DW A1 E12 L3.
+*wohin* asks for a direction; the answer takes *nach* ([wohnen in](wohnen-in.md)).
+Also met, full topic later: *welche* (which; DW A1 E14 L2 *welch-*). *wie viel* (how much) comes in DW A1 E12 L3.
 
 ## Examples from my lessons
 
@@ -56,6 +60,18 @@ Also met, full topics later: *wohin* (where to), *welche* (which; DW A1 E14 L2
 | **Wie** ist die Hausnummer? | [DW A1 E2 L3 · exercise](https://learngerman.dw.com/en/street-names-and-street-numbers/l-37269671/e-37272782) |
 | **Mit wem** spreche ich, bitte? | [DW A1 E2 L3 · culture page](https://learngerman.dw.com/en/on-the-telephone/l-37269671/rs-39370877) |
 | **Wie** war nochmal Ihr Name? | [DW A1 E2 L3 · culture page](https://learngerman.dw.com/en/on-the-telephone/l-37269671/rs-39370877) |
+| Hi, Lisa! **Wer** ist denn das? | [DW A1 E3 L1 · script](https://learngerman.dw.com/downloads/52719567/nicos-weg-a1-e3-l1-manuskript-und-wortschatz-englisch.pdf) |
+| Auch nicht so gut. Und **wie alt** bist du? | [DW A1 E3 L1 · script](https://learngerman.dw.com/downloads/52719567/nicos-weg-a1-e3-l1-manuskript-und-wortschatz-englisch.pdf) |
+| So. **Was** möchtet ihr trinken? | [DW A1 E3 L2 · script](https://learngerman.dw.com/downloads/52719579/nicos-weg-a1-e3-l2-manuskript-und-wortschatz-englisch.pdf) |
+| **Was** gibt es denn? | [DW A1 E3 L2 · script](https://learngerman.dw.com/downloads/52719579/nicos-weg-a1-e3-l2-manuskript-und-wortschatz-englisch.pdf) |
+| **Wer** kennt diesen Fahrradladen? | [DW A1 E3 L2 · script](https://learngerman.dw.com/downloads/52719579/nicos-weg-a1-e3-l2-manuskript-und-wortschatz-englisch.pdf) |
+| **Was** möchten Sie trinken? | [DW A1 E3 L2 · exercise](https://learngerman.dw.com/en/offering-drinks/l-37279418/e-37283848) |
+| Zusammen. **Was** kostet das? | [DW A1 E3 L4 · script](https://learngerman.dw.com/downloads/52719590/nicos-weg-a1-e3-l4-manuskript-und-wortschatz-englisch.pdf) |
+| **Was** kostet das Sushi? | [DW A1 E3 L4 · exercise](https://learngerman.dw.com/en/asking-what-the-price-is-1/l-37280348/e-37283950) |
+| **Wie viel** Euro macht das? | [DW A1 E3 L4 · exercise](https://learngerman.dw.com/en/how-much-is-that-in-euros/l-37280348/e-37283048) |
+| So … **Wer** bekommt die Hawaii ohne Schinken? | [DW A1 E3 L4 · script](https://learngerman.dw.com/downloads/52719590/nicos-weg-a1-e3-l4-manuskript-und-wortschatz-englisch.pdf) |
+| **Wo** liegt Baden-Württemberg? | [DW A1 E4 L2 · exercise](https://learngerman.dw.com/en/baden-württemberg/l-37337877/e-37345227) |
+| **Was** ist im Süden von Baden-Württemberg? | [DW A1 E4 L2 · exercise](https://learngerman.dw.com/en/baden-württemberg/l-37337877/e-37345227) |
 
 ## Common mistakes
 
@@ -66,12 +82,15 @@ Also met, full topics later: *wohin* (where to), *welche* (which; DW A1 E14 L2
 | Wo du wohnst? | Wo wohnst du? | The verb comes straight after the question word. | rule |
 | Was heißt du? | Wie heißt du? | Names go with *wie* ([heißen](heissen.md)). | rule |
 | erreichen. | erreichen? | *Wie kann ich dich denn erreichen?* is a W-question, so it ends with **?**. | [my mistakes: Wichtige Nummern](<../../DW Deutsch lernen/A1/03_contact_details/02_Lesson_02/Materials/mistakes.md>) |
+| möchtst | möchtest | du + *möchten*: *Was möchtest du trinken?* (*-est*) | [my mistakes: Was trinkst du?](<../../DW Deutsch lernen/A1/04_in_company/02_Lesson_02/Materials/mistakes.md>) |
+| Wir ist denn das? | Wer ist denn das? | A person: *wer* (who). *wir* = we; my first try *wie* = how. | [my mistakes: Was machst du hier?](<../../DW Deutsch lernen/A1/04_in_company/01_Lesson_01/Materials/mistakes.md>) |
 
 ## Official pages
 
 - DW: exercise [How, where, from where or what?](https://learngerman.dw.com/en/how-where-from-where-or-what/l-37263828/e-37268049) (E1 L3)
 - DW: [W-questions](https://learngerman.dw.com/en/w-questions/l-37269671/gr-38306976) (E2 L3)
-- DW, later lesson: [Questions and statements](https://learngerman.dw.com/en/questions-and-statements/l-37337877/gr-38306265) (E4 L2)
+- DW: [Question Words: wer, was](https://learngerman.dw.com/en/question-words-wer-was/l-37279418/gr-38306502) (E3 L2)
+- DW: [Questions and statements](https://learngerman.dw.com/en/questions-and-statements/l-37337877/gr-38306265) (E4 L2)
 - VHS: [Themen und Grammatik A1](https://www.vhs-lernportal.de/wws/bin/4007530-4015506-1-dvv_grammatiklisten_a1.pdf),
   Lektion 2 (review): *W-Fragen vs. Ja-/Nein-Fragen*
 - See also: [Ja-/Nein-Fragen](Ja-Nein-Fragen.md)
@@ -86,6 +105,10 @@ Also met, full topics later: *wohin* (where to), *welche* (which; DW A1 E14 L2
   `phone-number-formal`
 - E2 L3: `who-is-there`, `street-name-question`, `house-number-question`, `where-is-police`,
   `where-are-you-informal`, `phone-who-speaking`, `phone-name-again-formal`, `what-was-that-again`
+- E3 L1: `who-is-that-denn`
+- E3 L2: `ask-drink-du`, `ask-drink-ihr`, `ask-drink-sie`, `ask-drinking-du`, `what-is-there`
+- Prices (E2 L4, E3 L4): `price-question`, `price-question-was`, `how-many-euros`
+- E4 L2, wo + liegen: `ask-where-located`, `potsdam-near-berlin`
 
 ## My rule in my own words
 
@@ -95,4 +118,8 @@ My notes: [Woher kommst du?](<../../DW Deutsch lernen/A1/02_meeting_people/03_Le
 [Das ist Nico](<../../DW Deutsch lernen/A1/02_meeting_people/02_Lesson_02/Das ist Nico.md>) ·
 [Zahlen von 1 bis 100](<../../DW Deutsch lernen/A1/03_contact_details/01_Lesson_01/Zahlen von 1 bis 100.md>) ·
 [Wichtige Nummern](<../../DW Deutsch lernen/A1/03_contact_details/02_Lesson_02/Wichtige Nummern.md>) ·
-[Adressen](<../../DW Deutsch lernen/A1/03_contact_details/03_Lesson_03/Adressen.md>)
+[Adressen](<../../DW Deutsch lernen/A1/03_contact_details/03_Lesson_03/Adressen.md>) ·
+[Was machst du hier?](<../../DW Deutsch lernen/A1/04_in_company/01_Lesson_01/Was_machst_du_hier.md>) ·
+[Was trinkst du?](<../../DW Deutsch lernen/A1/04_in_company/02_Lesson_02/Was trinkst du.md>) ·
+[Zahlen bitte!](<../../DW Deutsch lernen/A1/04_in_company/04_Lesson_04/Zahlen bitte.md>) ·
+[Wo liegt das?](<../../DW Deutsch lernen/A1/05_around_the_world/02_Lesson_02/Wo liegt das.md>)

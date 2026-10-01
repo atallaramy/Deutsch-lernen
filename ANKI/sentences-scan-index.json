@@ -1,8 +1,8 @@
 {
   "deck": "German A1 — Sentences",
-  "revision": "2026-09-30T18:00:00Z",
+  "revision": "2026-10-04T22:37:00Z",
   "qualityPolicy": "Productive sentences, replies, register switches and contextual forms from the lessons. No audio.",
-  "cards": 93,
+  "cards": 147,
   "sources": [
     {
       "id": "dw-a1-e0-l1",
@@ -161,6 +161,123 @@
       }
     },
     {
+      "id": "dw-a1-e3-l1",
+      "course": "dw-nicos-weg",
+      "title": "Was machst du hier?",
+      "url": "https://learngerman.dw.com/en/was-machst-du-hier/l-37278679",
+      "notesFile": "DW Deutsch lernen/A1/04_in_company/01_Lesson_01/Was_machst_du_hier.md",
+      "capturedEntries": 25,
+      "cards": {
+        "vocabulary": 21,
+        "articles": 7,
+        "sentences": 4
+      }
+    },
+    {
+      "id": "dw-a1-e3-l2",
+      "course": "dw-nicos-weg",
+      "title": "Was trinkst du?",
+      "url": "https://learngerman.dw.com/en/was-trinkst-du/l-37279418",
+      "notesFile": "DW Deutsch lernen/A1/04_in_company/02_Lesson_02/Was trinkst du.md",
+      "capturedEntries": 42,
+      "cards": {
+        "vocabulary": 38,
+        "articles": 22,
+        "sentences": 4
+      }
+    },
+    {
+      "id": "dw-a1-e3-l3",
+      "course": "dw-nicos-weg",
+      "title": "Eine Pizza bitte!",
+      "url": "https://learngerman.dw.com/en/eine-pizza-bitte/l-37279261",
+      "notesFile": "DW Deutsch lernen/A1/04_in_company/03_Lesson_03/Ein Pizza bitte.md",
+      "capturedEntries": 30,
+      "cards": {
+        "vocabulary": 28,
+        "articles": 16,
+        "sentences": 2
+      }
+    },
+    {
+      "id": "dw-a1-e3-l4",
+      "course": "dw-nicos-weg",
+      "title": "Zahlen bitte!",
+      "url": "https://learngerman.dw.com/en/zahlen-bitte/l-37280348",
+      "notesFile": "DW Deutsch lernen/A1/04_in_company/04_Lesson_04/Zahlen bitte.md",
+      "capturedEntries": 38,
+      "cards": {
+        "vocabulary": 29,
+        "articles": 13,
+        "sentences": 8
+      }
+    },
+    {
+      "id": "dw-a1-e4-l1",
+      "course": "dw-nicos-weg",
+      "title": "Ich war schon in Berlin",
+      "url": "https://learngerman.dw.com/en/ich-war-schon-in-berlin/l-37325550",
+      "notesFile": "DW Deutsch lernen/A1/05_around_the_world/01_Lesson_01/Ich war schon in Berlin.md",
+      "capturedEntries": 47,
+      "cards": {
+        "vocabulary": 42,
+        "articles": 14,
+        "sentences": 5
+      }
+    },
+    {
+      "id": "dw-a1-e4-l2",
+      "course": "dw-nicos-weg",
+      "title": "Wo liegt das?",
+      "url": "https://learngerman.dw.com/en/wo-liegt-das/l-37337877",
+      "notesFile": "DW Deutsch lernen/A1/05_around_the_world/02_Lesson_02/Wo liegt das.md",
+      "capturedEntries": 29,
+      "cards": {
+        "vocabulary": 27,
+        "articles": 14,
+        "sentences": 2
+      }
+    },
+    {
+      "id": "dw-a1-e4-l3",
+      "course": "dw-nicos-weg",
+      "title": "In Europa",
+      "url": "https://learngerman.dw.com/en/in-europa/l-37328492",
+      "notesFile": "DW Deutsch lernen/A1/05_around_the_world/03_Lesson_03/In Europa.md",
+      "capturedEntries": 26,
+      "cards": {
+        "vocabulary": 26,
+        "articles": 6,
+        "sentences": 0
+      }
+    },
+    {
+      "id": "dw-a1-e4-l4",
+      "course": "dw-nicos-weg",
+      "title": "Andere Länder",
+      "url": "https://learngerman.dw.com/en/andere-länder/l-37337244",
+      "notesFile": "DW Deutsch lernen/A1/05_around_the_world/04_Lesson_04/Andere Länder.md",
+      "capturedEntries": 54,
+      "cards": {
+        "vocabulary": 50,
+        "articles": 9,
+        "sentences": 4
+      }
+    },
+    {
+      "id": "dw-a1-e5-l1",
+      "course": "dw-nicos-weg",
+      "title": "Was ist das?",
+      "url": "https://learngerman.dw.com/en/was-ist-das/l-37368285",
+      "notesFile": "DW Deutsch lernen/A1/06_living/01_Lesson_01/Was ist das.md",
+      "capturedEntries": 20,
+      "cards": {
+        "vocabulary": 20,
+        "articles": 14,
+        "sentences": 0
+      }
+    },
+    {
       "id": "vhs-a1-l02",
       "course": "vhs-lernportal",
       "title": "Lektion 2 · Meine Familie und ich",
@@ -189,9 +306,9 @@
   ],
   "packages": {
     "ANKI/sentences.apkg": {
-      "notes": 93,
-      "cards": 93,
-      "sha256": "fed21d69df8e89f1ba812ab739f1ff61fdd68299c59ec95f2189640faff36613"
+      "notes": 147,
+      "cards": 147,
+      "sha256": "14ec35d00a72ab1f21008bd704aa6caba951edf68b3436b574cc32c0838c6577"
     }
   }
 }

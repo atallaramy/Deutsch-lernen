@@ -1,0 +1,582 @@
+{
+ "description": "Official source text captured by ANKI/harvest_sources.py for offline context verification.",
+ "harvestedOn": "2026-10-04",
+ "sources": [
+  {
+   "id": "exercises",
+   "kind": "dw-exercises",
+   "url": "https://learngerman.dw.com/en/zahlen-bitte/l-37280348",
+   "lessonUrl": "https://learngerman.dw.com/en/zahlen-bitte/l-37280348",
+   "vocabulary": {
+    "url": "https://learngerman.dw.com/en/zahlen-bitte/l-37280348/lv",
+    "items": [
+     {
+      "id": 37432037,
+      "german": "bar",
+      "english": "in cash",
+      "forms": ""
+     },
+     {
+      "id": 37367069,
+      "german": "das Beispiel, die Beispiele",
+      "english": "example",
+      "forms": ""
+     },
+     {
+      "id": 37433506,
+      "german": "(etwas) bezahlen",
+      "english": "to pay something",
+      "forms": "bezahlt, bezahlte, hat bezahlt"
+     },
+     {
+      "id": 40123407,
+      "german": "der Cent, die Cents (nach Zahl: Cent)",
+      "english": "cent",
+      "forms": ""
+     },
+     {
+      "id": 37432820,
+      "german": "Das macht …",
+      "english": "That will be ...",
+      "forms": ""
+     },
+     {
+      "id": 37432737,
+      "german": "Das macht zusammen …",
+      "english": "That will be ... in total.",
+      "forms": ""
+     },
+     {
+      "id": 37433702,
+      "german": "Das stimmt so.",
+      "english": "Keep the change.; That's fine.",
+      "forms": "Kurzform: Stimmt so."
+     },
+     {
+      "id": 37433705,
+      "german": "Du bist eingeladen!",
+      "english": "It's my treat.; It's on me.",
+      "forms": ""
+     },
+     {
+      "id": 37398342,
+      "german": "das Essen, die Essen",
+      "english": "food",
+      "forms": ""
+     },
+     {
+      "id": 37734537,
+      "german": "der Euro, die Euros (nach Zahl: Euro)",
+      "english": "euro",
+      "forms": "Zeichen: €"
+     },
+     {
+      "id": 37432102,
+      "german": "der Gast, die Gäste",
+      "english": "guest",
+      "forms": ""
+     },
+     {
+      "id": 37432123,
+      "german": "getrennt",
+      "english": "separate; separately",
+      "forms": ""
+     },
+     {
+      "id": 37432152,
+      "german": "der Kellner, die Kellner",
+      "english": "waiter; server (male)",
+      "forms": ""
+     },
+     {
+      "id": 38093250,
+      "german": "die Kellnerin, die Kellnerinnen",
+      "english": "waitress; server",
+      "forms": ""
+     },
+     {
+      "id": 37432262,
+      "german": "die Rechnung, die Rechnungen",
+      "english": "bill; invoice",
+      "forms": ""
+     },
+     {
+      "id": 37367171,
+      "german": "etwas sagen",
+      "english": "to say sth.; to tell so. sth.",
+      "forms": "sagt, sagte, hat gesagt"
+     },
+     {
+      "id": 37432633,
+      "german": "das Trinkgeld, die Trinkgelder",
+      "english": "tip",
+      "forms": ""
+     },
+     {
+      "id": 37432891,
+      "german": "Was kostet …?",
+      "english": "How much does ... cost?",
+      "forms": ""
+     },
+     {
+      "id": 41389877,
+      "german": "wie viel",
+      "english": "how much",
+      "forms": ""
+     },
+     {
+      "id": 37432984,
+      "german": "Wie viel Euro macht das?",
+      "english": "How many euros does that cost?; How many euro is that in total?",
+      "forms": ""
+     },
+     {
+      "id": 37402019,
+      "german": "Wie viel kostet ...?",
+      "english": "How much is ...?; How much does ... cost?",
+      "forms": ""
+     },
+     {
+      "id": 37432646,
+      "german": "zahlen",
+      "english": "to pay",
+      "forms": "zahlt, zahlte, hat gezahlt"
+     },
+     {
+      "id": 37432668,
+      "german": "Zahlen Sie bar oder mit Karte?",
+      "english": "Will you be paying in cash or by card? (formal)",
+      "forms": ""
+     },
+     {
+      "id": 37433184,
+      "german": "Zahlen Sie zusammen oder getrennt?",
+      "english": "Will you be paying together or separately? (formal)",
+      "forms": ""
+     },
+     {
+      "id": 37399770,
+      "german": "zusammen",
+      "english": "together",
+      "forms": ""
+     }
+    ]
+   },
+   "exercises": [
+    {
+     "id": "e-37283950",
+     "url": "https://learngerman.dw.com/en/asking-what-the-price-is-1/l-37280348/e-37283950",
+     "title": "Asking what the price is (1)",
+     "texts": [
+      "Bring die Wörter in die richtige Reihenfolge.",
+      "Wie viel kostet die Pizza?",
+      "Bring die Wörter in die richtige Reihenfolge.",
+      "Was kostet das Sushi?"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37284220",
+     "url": "https://learngerman.dw.com/en/asking-what-the-price-is-2/l-37280348/e-37284220",
+     "title": "Asking what the price is (2)",
+     "texts": [
+      "Schreib Sätze wie im Beispiel.\nBeispiel:\n(das Bier)\nWas kostet das Bier?\nWie viel kostet das Bier?",
+      "Was",
+      "kostet",
+      "Was",
+      "kostet",
+      "Was",
+      "kostet",
+      "der",
+      "Salat",
+      "Wie",
+      "viel",
+      "kostet",
+      "der",
+      "Salat",
+      "der",
+      "Apfelsaft",
+      "Wie",
+      "viel",
+      "kostet",
+      "der",
+      "Apfelsaft",
+      "die",
+      "Milch",
+      "Wie",
+      "viel",
+      "kostet",
+      "die",
+      "Milch",
+      "#ps# #ps# #ps# #ps#?\n#ps# #ps# #ps# #ps# #ps#?",
+      "Schreib die passenden Fragen. In jede Lücke passt ein Wort.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "#ps# #ps# #ps# #pm#?\n#ps# #ps# #ps# #ps# #pm#?",
+      "Schreib die passenden Fragen. In jede Lücke passt ein Wort.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "#ps# #ps# #ps# #ps#?\n#ps# #ps# #ps# #ps# #ps#?",
+      "Schreib die passenden Fragen. In jede Lücke passt ein Wort.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37282330",
+     "url": "https://learngerman.dw.com/en/euros-and-cents/l-37280348/e-37282330",
+     "title": "Euros and cents ",
+     "texts": [
+      "Deutschkurse | Nicos Weg | A1_E3_L4_Stock_3690617",
+      "Deutschkurse | Nicos Weg | A1_E3_L4_Stock_4153974",
+      "Deutschkurse | Nicos Weg | A1_E3_L4_Stock_3064322",
+      "Deutschkurse | Nicos Weg | A1_E3_L4_Stock_2351085",
+      "Deutschkurse | Nicos Weg | A1_E3_L4_Stock_5788888",
+      "Deutschkurse | Nicos Weg | A1_E3_L4_Stock_8148590",
+      "Was passt zusammen? Ordne zu.",
+      "Did you know? Euro banknotes are the same in all countries, but national symbols of the various European countries are visible on the coins.",
+      "20 Euro",
+      "5 Euro",
+      "2 Euro",
+      "1 Euro",
+      "50 Cent",
+      "10 Cent"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37283048",
+     "url": "https://learngerman.dw.com/en/how-much-is-that-in-euros/l-37280348/e-37283048",
+     "title": "How much is that in euros?",
+     "texts": [
+      "Beispiel:\nWie viel Euro macht das? Das macht 1,50 Euro.",
+      "7,55",
+      "16,20",
+      "33,50",
+      "Wie viel Euro macht das?",
+      "Das macht #ps# Euro.",
+      "Wie viel Euro macht das?",
+      "Das macht #ps# Euro.",
+      "Wie viel Euro macht das?",
+      "Das macht #ps# Euro."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37285069",
+     "url": "https://learngerman.dw.com/en/lisa-wants-to-pay/l-37280348/e-37285069",
+     "title": "Lisa wants to pay",
+     "texts": [
+      "Lisa möchte im Café bezahlen. Was sagt sie?",
+      "Ich",
+      "möchte",
+      "zahlen",
+      "mit",
+      "Karte",
+      "sind",
+      "Euro",
+      "so",
+      "Auf",
+      "Wiedersehen",
+      "#ps# #ps# #ps#, bitte.",
+      "Lisa möchte im Café bezahlen. Was sagt sie?",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "Ich zahle #ps# #ps#.",
+      "Lisa möchte mit Karte zahlen. Was sagt sie?",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "Hier #ps# vier #ps#. Stimmt #ps#.",
+      "Der Kaffee kostet 3,50 Euro. Lisa bezahlt 4 Euro mit Trinkgeld. Was sagt sie?",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "#pm# #pm#.",
+      "Der Kellner sagt \"Auf Wiedersehen\". Was sagt Lisa?",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37282235",
+     "url": "https://learngerman.dw.com/en/paying-for-food/l-37280348/e-37282235",
+     "title": "Paying for food",
+     "texts": [
+      "Deutschkurse | Nicos Weg | A1_E3_L4_Grafik_Rechnung_1",
+      "Deutschkurse | Nicos Weg | A1_E3_L4_Stock_3569304",
+      "Zahlt Lisa zusammen oder getrennt?",
+      "Did you know? If you go out for a meal on private occasions, you either pay together or separately, i.e. each person pays for him-/herself. How the bill will be paid is agreed on in advance.",
+      "Zahlt Lisa bar oder mit Karte?"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37284495",
+     "url": "https://learngerman.dw.com/en/paying-in-a-cafe-1/l-37280348/e-37284495",
+     "title": "Paying in a cafe (1)",
+     "texts": [
+      "Was sagt der Kellner? Was sagt der Gast?",
+      "Kellner",
+      "Kellner",
+      "Gast",
+      "Gast",
+      "Gast"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37284623",
+     "url": "https://learngerman.dw.com/en/paying-in-a-cafe-2/l-37280348/e-37284623",
+     "title": "Paying in a cafe (2)",
+     "texts": [
+      "Tip: Pay attention to which syllable is stressed. In some words, the stress is on the second syllable. Which words are they?",
+      "Ich möchte zahlen bitte.",
+      "Zusammen bitte.",
+      "Getrennt bitte.",
+      "Bar bitte.",
+      "Mit Karte bitte.",
+      "Stimmt so."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37285141",
+     "url": "https://learngerman.dw.com/en/paying-in-a-restaurant/l-37280348/e-37285141",
+     "title": "Paying in a restaurant",
+     "texts": [
+      "Der Gast gibt 1,50 Euro Trinkgeld.",
+      "Der Gast zahlt ein Wasser und eine Pizza mit Tomaten und Käse.",
+      "Hör dir das Audio an und wähl die zwei richtigen Antworten aus."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37282836",
+     "url": "https://learngerman.dw.com/en/reading-out-sums-of-money/l-37280348/e-37282836",
+     "title": "Reading out sums of money",
+     "texts": [
+      "Wie viel kostet das?",
+      "Did you know? \"7,55 Euro\" is pronounced “7 Euro 55”. You do not say \"cents\". For \"0,99 Euro\", you say \"99 Cent\".",
+      "1,99 Euro",
+      "0,99 Euro",
+      "9,99 Euro",
+      "7,80 Euro",
+      "14,80 Euro",
+      "29,95 Euro"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37284357",
+     "url": "https://learngerman.dw.com/en/the-bill-please/l-37280348/e-37284357",
+     "title": "The bill, please!",
+     "texts": [
+      "Sortiere den Dialog.",
+      "Tip: Practice the dialogue until you are good at it — it is best if you have a partner to practice with.",
+      "Wir möchten bitte zahlen! Hier ist die Rechnung. Zahlen Sie zusammen oder getrennt? Zusammen bitte. Zwei Kaffee, das macht 6 €. Zahlen Sie bar oder mit Karte? Ich zahle bar. Hier sind 9 €. Stimmt so! Danke! Auf Wiedersehen. Auf Wiedersehen."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37283867",
+     "url": "https://learngerman.dw.com/en/the-bill/l-37280348/e-37283867",
+     "title": "The bill",
+     "texts": [
+      "Neun Euro.",
+      "Sieben Euro fünfzig.",
+      "Neun Euro.",
+      "Was kostet die Pizza mit Thunfisch?",
+      "Info: \"Euro\" can be abbreviated as \"€\" or \"EUR\".",
+      "Was kostet die Pizza mit Salami?",
+      "Wie viel kostet die Pizza mit Ananas?"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37283796",
+     "url": "https://learngerman.dw.com/en/the-coffee-costs/l-37280348/e-37283796",
+     "title": "The coffee costs ...",
+     "texts": [
+      "Was kostet das?",
+      "Play audio",
+      "Der Kaffee kostet 2,99 Euro.",
+      "Play audio",
+      "Die Pizza kostet 7,80 Euro.",
+      "Play audio",
+      "Der Tee kostet 0,90 Euro.",
+      "Play audio",
+      "Das Bier kostet 2,60 Euro."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37280495",
+     "url": "https://learngerman.dw.com/en/the-pizza-delivery/l-37280348/e-37280495",
+     "title": "The pizza delivery",
+     "texts": [
+      "40,50 Euro.",
+      "45 Euro.",
+      "Das Essen kostet ...",
+      "Did you know? In Germany, you pay with the \"euro\". It is the official currency of 19 countries in the European Union.",
+      "Lisa zahlt …",
+      "Did you know? In Germany, you give a 10% tip if the service was good, and round up the bill when paying. And then you say \"Stimmt so\"."
+     ],
+     "vocabularyTags": []
+    }
+   ],
+   "pages": [
+    {
+     "id": "rs-39371112",
+     "url": "https://learngerman.dw.com/en/keep-the-change/l-37280348/rs-39371112",
+     "title": "Keep the change!",
+     "texts": [
+      "Keep the change!",
+      "In restaurants, bars and even when you get pizza delivered, it's common in Germany to give a tip. About 10 percent of the check is normal, but you decide whether and how much to tip. If you were very unhappy with the service, then you do not have to tip at all.\nIf you give the exact amount you want to pay (the check total plus the tip), then you say \"Stimmt so\" (\"We're good\" or, literally, \"It's just right\"). Then the waiter knows not to give you any change. If you do not have the right amount in bills or coins, then you can give them the money and say what you want to pay (check total plus tip), and the waiter will give you the change for that amount. For example, the check is 18.20 euros, and you want to give 20 euros (check plus tip), but you only have a 50 euro bill. You say \"20 euro, bitte\" and the waiter will give you 30 euros back. If you do not say an amount, the waiter will give you back the exact change, without a tip."
+     ],
+     "html": "\n\n<p>&#160;</p>\n\n<p>In restaurants, bars and even when you get pizza delivered, it's common in Germany to give a tip. About 10 percent of the check is normal, but you decide whether and how much to tip. If you were very unhappy with the service, then you do not have to tip at all.</p>\n\n<p>If you give the exact amount you want to pay (the check total plus the tip), then you say <em>\"Stimmt so\"</em>&#160;(\"We're good\"&#160;or, literally, \"It's just right\"). Then the waiter knows not to give you any change. If you do not have the right amount in bills or coins, then you can give them the money and say what you want to pay (check total plus tip), and the waiter will give you the change for that amount. For example, the check is 18.20 euros, and you want to give 20 euros (check plus tip), but you only have a 50 euro bill. You say <em>\"20 euro, bitte\"</em>&#160;and the waiter will give you 30 euros back. If you do not say an amount, the waiter will give you back the exact change, without a tip.</p>\n"
+    },
+    {
+     "id": "rs-40966656",
+     "url": "https://learngerman.dw.com/en/paying-together-or-separately/l-37280348/rs-40966656",
+     "title": "Paying together, or separately?",
+     "texts": [
+      "Paying together, or separately?",
+      "If you are out to dinner with friends and you want to pay, the waiter will ask \"Zusammen oder getrennt?\" (\"All together or separately?\"). It is normal for each person to pay their portion of the check. Then you say \"getrennt\" (\"separately\") and the waiter works out the amount with each person."
+     ],
+     "html": "<p>If you are out to dinner with friends and you want to pay, the waiter will ask \"<em>Zusammen oder getrennt?</em>\" (\"All together or separately?\"). It is normal for each person to pay their portion of the check. Then you say \"<em>getrennt</em>\" (\"separately\") and the waiter works out the amount with each person.</p>\n"
+    }
+   ]
+  },
+  {
+   "id": "script",
+   "kind": "dw-script-pdf",
+   "url": "https://learngerman.dw.com/downloads/52719590/nicos-weg-a1-e3-l4-manuskript-und-wortschatz-englisch.pdf",
+   "localFile": "DW Deutsch lernen/A1/04_in_company/04_Lesson_04/Materials/Script and vocabulary (English).pdf",
+   "sha256": "520b531aba72755078294270ac66ab8456aa0f96b1363d68e0514af4bd3df629",
+   "lines": [
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "(3) In company | Zahlen bitte!",
+    "The pizza delivery woman has arrived. Lisa pays the bill and Sebastian",
+    "hands the pizzas around. When the roommates are sitting down to eat, Nico",
+    "finds out why there’s going to be a party in the apartment that evening.",
+    "Script",
+    "LISA:",
+    "Hallo.",
+    "BOTIN:",
+    "Guten Tag, Ihre Bestellung. Zahlen Sie zusammen oder getrennt?",
+    "LISA:",
+    "Zusammen. Was kostet das?",
+    "BOTIN:",
+    "Gut, Moment. Die drei Pizzen mit Salami sind 22,50. Dann haben wir eine Pizza",
+    "Thunfisch, eine Pizza Hawaii ohne Schinken, 18 Euro. Das macht zusammen 40,50",
+    "Euro. Zahlen Sie bar oder mit Karte?",
+    "LISA:",
+    "Ich zahle bar. Hier sind 45 Euro. Das stimmt so.",
+    "BOTIN:",
+    "Danke! Hier ist die Rechnung. Tschüss.",
+    "LISA:",
+    "Danke.",
+    "SEBASTIAN:",
+    "So … Wer bekommt die Hawaii ohne Schinken?",
+    "NINA:",
+    "Ich!",
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "SEBASTIAN:",
+    "Tonno?",
+    "NAWIN:",
+    "Ja!",
+    "SEBASTIAN:",
+    "Salami?",
+    "NICO:",
+    "Salami, ich!",
+    "SEBASTIAN:",
+    "Salami! Und noch eine Salami.",
+    "NAWIN:",
+    "Wie viel kostet die Pizza?",
+    "LISA:",
+    "Zehn Euro plus Trinkgeld. Und du bist eingeladen!",
+    "NICO:",
+    "Danke schön!",
+    "NAWIN:",
+    "Das ist vielleicht die letzte Pizza, die ich hier essen werde.",
+    "NINA:",
+    "Stimmt.",
+    "LISA:",
+    "Nawin geht weg.",
+    "NICO:",
+    "Das ist eine Bye-bye-Party?",
+    "SEBASTIAN:",
+    "Eine Abschiedsparty.",
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "NICO:",
+    "Abschiedsparty.",
+    "NAWIN:",
+    "Guten Appetit jetzt!",
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "Vocabulary (from script and lesson)",
+    "bar – in cash",
+    "das Beispiel, die Beispiele – example",
+    "(etwas) bezahlen – to pay something",
+    "bezahlt, bezahlte, hat bezahlt",
+    "der Cent, die Cents (nach Zahl: Cent) – cent",
+    "Das macht … – That will be…",
+    "Das macht zusammen … – That will be… in total.",
+    "Das stimmt so. – Keep the change.; That’s fine.",
+    "Kurzform: Stimmt so.",
+    "Du bist eingeladen! – It’s my treat.; It’s on me.",
+    "das Essen, die Essen – food",
+    "der Euro, die Euros (nach Zahl: Euro) – euro",
+    "Zeichen: €",
+    "der Gast, die Gäste – guest",
+    "getrennt – separate; seperately",
+    "der Kellner, die Kellner – waiter; server (male)",
+    "die Kellnerin, die Kellnerinnen – waitress; server",
+    "die Rechnung, die Rechnungen – bill; invoice",
+    "etwas sagen – to say sth.; to tell so. sth.",
+    "sagt, sagte, hat gesagt",
+    "das Trinkgeld, die Trinkgelder – tip",
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "Was kostet …? – How much does… cost?",
+    "wie viel – how much",
+    "Wie viel Euro macht das? – How many euros does that cost?; How many euro is that",
+    "in total?",
+    "Wie viel kostet …? – How much is…?; How much does… cost?",
+    "zahlen – to pay",
+    "zahlt, zahlte, hat gezahlt",
+    "Zahlen Sie bar oder mit Karte? – Will you be paying in cash or by card? (formal)",
+    "Zahlen Sie zusammen oder getrennt? – Will you be paying together or seperately?",
+    "(formal)",
+    "zusammen – together"
+   ]
+  }
+ ]
+}

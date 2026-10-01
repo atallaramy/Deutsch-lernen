@@ -1,11 +1,11 @@
 # du or Sie: informal and formal
 
-*informell / formell* · A1 · from DW A1 E0 L1 *Hallo!*, E0 L3 *Tschüss!*, E0 L4 *Von A bis Z*, E1 L1 *Ich heiße Emma*, E1 L3 *Woher kommst du?*, E2 L2 *Wichtige Nummern*, E2 L3 *Adressen*, E2 L4 *Auf dem Amt* and VHS A1 Lektion 2 · checked 2026-09-30
+*informell / formell* · A1 · from DW A1 E0 L1 *Hallo!*, E0 L3 *Tschüss!*, E0 L4 *Von A bis Z*, E1 L1 *Ich heiße Emma*, E1 L3 *Woher kommst du?*, E2 L2 *Wichtige Nummern*, E2 L3 *Adressen*, E2 L4 *Auf dem Amt*, E3 L1 *Was machst du hier?*, E3 L2 *Was trinkst du?*, E3 L4 *Zahlen bitte!* and VHS A1 Lektion 2 · checked 2026-10-03
 
 ## The rule
 
 German terms: *informell* (informal), *formell* (formal), *die Höflichkeitsform*
-(the polite form: *Sie*), *das Personalpronomen*.
+(the polite form: *Sie*), *das Personalpronomen*, *duzen* (to use *du* with someone).
 
 1. **du** is informal: family, friends, acquaintances and often colleagues. You use
    their first name: *Hallo, Sarah!*
@@ -19,6 +19,9 @@ German terms: *informell* (informal), *formell* (formal), *die Höflichkeitsform
 6. **At an office** (police, registration office, bank) the whole conversation is formal:
    *Guten Tag* (or *Guten Morgen*, *Guten Abend*), *Herr/Frau* + surname, *Sie*,
    *Ihr/Ihre* instead of *dein/deine*, and *Auf Wiedersehen* at the end (DW E2 L4).
+7. **Switching to du.** At work people do not use *du* right away. One person suggests it:
+   *Wollen wir uns nicht duzen?* To accept: *Ja, gern*. Young people use *du* at once,
+   even when they have just met (DW E3 L1).
 
 ## Table
 
@@ -36,6 +39,7 @@ German terms: *informell* (informal), *formell* (formal), *die Höflichkeitsform
 | Wie ist deine Adresse? | Wie ist Ihre Adresse? | [VHS A1 L2 · phrase trainer](https://a1.vhs-lernportal.de/) |
 | Wie ist deine Telefonnummer? | Wie ist Ihre Telefonnummer? | [DW A1 E2 L2 · script](https://static.dw.com/downloads/52719221/nicos-weg-a1-e2-l2-manuskript-und-wortschatz-englisch.pdf) |
 | Welche Nummer hast du? | Welche Nummer haben Sie? | [DW A1 E2 L4 · script](https://learngerman.dw.com/downloads/52719359/nicos-weg-a1-e2-l4-manuskript-und-wortschatz-englisch.pdf) |
+| Was möchtest du trinken? | Was möchten Sie trinken? | [DW A1 E3 L2 · exercise](https://learngerman.dw.com/en/offering-drinks/l-37279418/e-37283848) |
 | Wie alt bist du? | Wie alt sind Sie? | [DW A1 E2 L2 · exercise](https://learngerman.dw.com/en/pronunciation-training-how-old-are-you/l-37269501/e-37272394) |
 | Tschüss, Martina. Gute Reise! | Auf Wiedersehen, Herr Tillmanns. Gute Reise! | [DW A1 E0 L3 · script](https://static.dw.com/downloads/52719087/nicos-weg-a1-e0-l3-manuskript-und-wortschatz-englisch.pdf) |
 
@@ -52,9 +56,18 @@ German terms: *informell* (informal), *formell* (formal), *die Höflichkeitsform
 | Herr González, freut mich sehr. **Setzen Sie sich** doch bitte. Wie kann ich **Ihnen** helfen? | [DW A1 E2 L4 · script](https://learngerman.dw.com/downloads/52719359/nicos-weg-a1-e2-l4-manuskript-und-wortschatz-englisch.pdf) |
 | Hallo, Lisa! Wie geht es **dir**? | [DW A1 E2 L4 · exercise](https://learngerman.dw.com/en/at-the-reception-desk/l-37269629/e-37270780) |
 | Guten Tag. Ja, einen Moment, bitte. **Sind Sie** Jürgens Tochter Lisa? | [DW A1 E2 L4 · exercise](https://learngerman.dw.com/en/at-the-reception-desk/l-37269629/e-37270780) |
+| Hallo, Nico. Ich bin Sebastian. **Was machst du** hier? | [DW A1 E3 L1 · script](https://learngerman.dw.com/downloads/52719567/nicos-weg-a1-e3-l1-manuskript-und-wortschatz-englisch.pdf) |
+| Ah, guten Morgen, Frau Schröder. … Entschuldigung, **wollen wir uns nicht duzen**? | [DW A1 E3 L1 · exercise](https://learngerman.dw.com/en/offering-to-use-du-with-someone-2-speaking/l-37278679/e-37288325) |
+| **Gern.** Ich heiße Kerstin. | [DW A1 E3 L1 · exercise](https://learngerman.dw.com/en/offering-to-use-du-with-someone-2-speaking/l-37278679/e-37288325) |
+| Guten Tag, **Ihre** Bestellung. **Zahlen Sie** zusammen oder getrennt? | [DW A1 E3 L4 · script](https://learngerman.dw.com/downloads/52719590/nicos-weg-a1-e3-l4-manuskript-und-wortschatz-englisch.pdf) |
+| Zehn Euro plus Trinkgeld. Und **du bist** eingeladen! | [DW A1 E3 L4 · script](https://learngerman.dw.com/downloads/52719590/nicos-weg-a1-e3-l4-manuskript-und-wortschatz-englisch.pdf) |
 
 The two dialogues at the police station: Lisa and Peter know each other (*Hallo*, *dir*);
 the police officer does not know Lisa (*Guten Tag*, *Sie*).
+
+Sebastian meets Nico for the first time and says *du* at once (young people). Lisa and
+Kerstin are colleagues: they start with *Frau* + surname and *Sie*, then switch to *du*
+and first names.
 
 ## Common mistakes
 
@@ -72,6 +85,9 @@ the police officer does not know Lisa (*Guten Tag*, *Sie*).
   [Formal conversations](https://learngerman.dw.com/en/formal-conversations/l-37269629/gr-38311389) (E2 L4)
 - DW culture: [My name is Müller](https://learngerman.dw.com/en/my-name-is-müller/l-37263828/rs-39371127) (E1 L3) ·
   [Communication at offices and agencies](https://learngerman.dw.com/en/communication-at-offices-and-agencies/l-37265543/rs-39371132) (E1 L4)
+- DW exercises: [Getting to know each other](https://learngerman.dw.com/en/getting-to-know-each-other/l-37278679/e-37278980) ·
+  [Offering to use "du" with someone (1)](https://learngerman.dw.com/en/offering-to-use-du-with-someone-1/l-37278679/e-37288275) ·
+  [Offering to use "du" with someone (2)](https://learngerman.dw.com/en/offering-to-use-du-with-someone-2-speaking/l-37278679/e-37288325) (E3 L1)
 - VHS: [Themen und Grammatik A1](https://www.vhs-lernportal.de/wws/bin/4007530-4015506-1-dvv_grammatiklisten_a1.pdf),
   Lektion 2: *formell – informell: du vs. Sie, dein/e vs. Ihr/e*
 
@@ -89,6 +105,9 @@ the police officer does not know Lisa (*Guten Tag*, *Sie*).
 - Names and goodbyes: `bye-martina`, `take-care-herbert`
 - On the phone: `where-are-you-informal`, `repeat-informal`, `repeat-formal`, `phone-name-again-formal`,
   `phone-sorry-formal`
+- Switching to du (E3 L1): `offer-du`, `accept-du`, `offer-drink-informal`
+- Offering drinks (E3 L2): `ask-drink-du`, `ask-drink-ihr`, `ask-drink-sie`
+- Paying (E3 L4): `together-or-separately-formal`, `cash-or-card-formal`
 
 ## My rule in my own words
 
@@ -100,4 +119,6 @@ My notes: [Hallo!](<../../DW Deutsch lernen/A1/01_Intro_zu_A1/01_Hallo/Hallo.md>
 [VHS Lektion 2](<../../VHS-Lernportal/A1/Lesson_02/lektion_02.md>) ·
 [Wichtige Nummern](<../../DW Deutsch lernen/A1/03_contact_details/02_Lesson_02/Wichtige Nummern.md>) ·
 [Adressen](<../../DW Deutsch lernen/A1/03_contact_details/03_Lesson_03/Adressen.md>) ·
-[Auf dem Amt](<../../DW Deutsch lernen/A1/03_contact_details/04_Lesson_04/Auf dem Amt.md>)
+[Auf dem Amt](<../../DW Deutsch lernen/A1/03_contact_details/04_Lesson_04/Auf dem Amt.md>) ·
+[Was machst du hier?](<../../DW Deutsch lernen/A1/04_in_company/01_Lesson_01/Was_machst_du_hier.md>) ·
+[Was trinkst du?](<../../DW Deutsch lernen/A1/04_in_company/02_Lesson_02/Was trinkst du.md>)

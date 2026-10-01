@@ -1,6 +1,6 @@
 {
  "description": "Official source text captured by ANKI/harvest_sources.py for offline context verification.",
- "harvestedOn": "2026-09-27",
+ "harvestedOn": "2026-10-04",
  "sources": [
   {
    "id": "exercises",
@@ -139,8 +139,12 @@
      "title": "Asking how old someone is and replying",
      "texts": [
       "Bring die Wörter in die richtige Reihenfolge.",
+      "Wie alt bist du ?",
       "Bring die Wörter in die richtige Reihenfolge.",
-      "Bring die Wörter in die richtige Reihenfolge."
+      "Wie alt sind Sie ?",
+      "Bring die Wörter in die richtige Reihenfolge.",
+      "Did you know? Older people sometimes find it impolite if you ask them how old they are.",
+      "Ich bin 54 Jahre alt ."
      ],
      "vocabularyTags": []
     },
@@ -150,7 +154,10 @@
      "title": "How old is Lotte?",
      "texts": [
       "Sortiere die Wörter.",
-      "Sortiere die Wörter."
+      "Info: The word \"jetzt\" is not usually necessary in this question.",
+      "Wie alt ist Lotte jetzt ?",
+      "Sortiere die Wörter.",
+      "Sie ist acht ."
      ],
      "vocabularyTags": []
     },
@@ -160,7 +167,9 @@
      "title": "My cell phone number is ...",
      "texts": [
       "Play audio",
-      "Play audio"
+      "Meine Handynummer ist …",
+      "Play audio",
+      "…"
      ],
      "vocabularyTags": []
     },
@@ -197,6 +206,7 @@
       "344",
       "Die Telefonnummer ist 0 #ps# 7773 #ps#.",
       "Schreib die Zahlen.",
+      "Info: If the same number appears multiple times in a row, you do not have to say it each time. Instead of \"eins eins (eins)\" you can simply say \"zweimal (dreimal) die Eins\".",
       "CONTINUOUS_TEXT",
       "CONTINUOUS_TEXT"
      ],
@@ -220,7 +230,8 @@
      "title": "Understanding phone numbers (1)",
      "texts": [
       "Die Telefonnummer ist 08007773344.",
-      "Wie ist die Telefonnummer?"
+      "Wie ist die Telefonnummer?",
+      "New words: \"null\" means 0 (zero)."
      ],
      "vocabularyTags": []
     },
@@ -251,8 +262,12 @@
      "title": "What is your phone number?",
      "texts": [
       "Frag informell.",
+      "Wie ist deine Telefonnummer?",
       "Frag formell.",
-      "Antworte."
+      "Info: Since many more people have a cell phone today, you can also ask directly for someone's cell phone number.",
+      "Wie ist Ihre Telefonnummer?",
+      "Antworte.",
+      "Meine Handynummer ist 01517 38293054."
      ],
      "vocabularyTags": []
     },

@@ -21,15 +21,16 @@ mistakes, corrects the notes itself and continues.
    glossary, then dictionaries. It counts spelling, capitals, umlauts, missing or
    wrong words, word forms, articles, and punctuation that changes the sentence
    (a missing question mark, a stray comma or full stop). A line from audio with no
-   official transcript is listed separately when it cannot be checked.
+   official transcript is listed separately when it cannot be checked. Parts of
+   the lesson you left out of your notes are not mistakes.
    Accents in non-German names (*Nicolás González*) are not your work: Claude
    corrects them in your notes and says so in `mistakes.md`.
 2. **Round 1:** Claude saves the list in the lesson's `Materials/mistakes.md`, then
-   shows you the wrong words exactly as you wrote them, with line numbers. No
-   comments.
+   shows you its table: the wrong words exactly as you wrote them, with line
+   numbers. No comments.
 3. You fix your notes and say so.
 4. **Round 2:** Claude checks again and adds what is still wrong to `mistakes.md`
-   as *wrong → correct*, and shows you that list.
+   as *wrong → correct*, and shows you that table.
 5. You fix those and say so. Then step 1 starts.
 
 Cards (`learnerForm`) and the grammar book quote your mistakes from
@@ -38,7 +39,7 @@ Cards (`learnerForm`) and the grammar book quote your mistakes from
 ## 1. Read
 
 - Your Markdown notes for the lesson, all of it: vocabulary lists, glossed
-  items, exercise answers, errors.
+  items, exercise answers, errors, Anki instructions.
 - The official materials. For DW, the script/vocabulary PDF in `Materials/`
   (download it if missing), and after step 2 the vocabulary, grammar and culture
   pages in `Materials/lesson-pages.md`. For VHS, the word list, film script and grammar list
@@ -116,9 +117,9 @@ python3 ANKI/build_all.py package
 ```
 
 This refuses while the check has errors. It builds
-every package twice to prove the output is identical, validates each one, and
-confirms the pronunciation deck is untouched. It then writes the `.apkg` files
-and scan indexes, and ends with `Import: …`: only the files whose cards changed.
+each package twice to prove the output is identical, validates it, and
+confirms the pronunciation deck is untouched. It writes only the files whose
+cards changed (a lesson deck only once) and ends with `Import: …`, listing them.
 Claude tells you that line; import those files into Anki
 ([anki-import.md](anki-import.md)).
 

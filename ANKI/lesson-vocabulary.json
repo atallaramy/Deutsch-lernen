@@ -1,6 +1,6 @@
 {
  "schemaVersion": 3,
- "revision": "2026-09-30T18:00:00Z",
+ "revision": "2026-10-04T22:37:00Z",
  "policy": "Faithful capture of what the learner studied: official lesson glossaries, useful words and phrases from the official scripts and exercises, and items from the learner's notes. Official spelling is canonical; the learner's spelling is kept as learnerForm. Nothing captured is removed. pendingEntries wait for the learner's yes/no and are never built; declinedEntries record a learner's no.",
  "courses": [
   {
@@ -7511,6 +7511,4943 @@
         "rausfinden",
         "herausfinden"
        ]
+      }
+     ],
+     "pendingEntries": [],
+     "declinedEntries": []
+    },
+    {
+     "id": "dw-a1-e3-l1",
+     "legacyId": null,
+     "level": "A1",
+     "title": "Was machst du hier?",
+     "unit": 3,
+     "lesson": 1,
+     "url": "https://learngerman.dw.com/en/was-machst-du-hier/l-37278679",
+     "notesFile": "DW Deutsch lernen/A1/04_in_company/01_Lesson_01/Was_machst_du_hier.md",
+     "lessonDeck": {
+      "file": "DW Deutsch lernen/A1/04_in_company/01_Lesson_01/DW A1 E3L1 Was machst du hier - Vocabulary.apkg",
+      "deck": "Lessons::DW A1::E3 L1 Was machst du hier?"
+     },
+     "snapshot": "DW Deutsch lernen/A1/04_in_company/01_Lesson_01/Materials/source-snapshot.json",
+     "sources": [
+      {
+       "id": "script",
+       "kind": "dw-script-pdf",
+       "url": "https://learngerman.dw.com/downloads/52719567/nicos-weg-a1-e3-l1-manuskript-und-wortschatz-englisch.pdf",
+       "localFile": "DW Deutsch lernen/A1/04_in_company/01_Lesson_01/Materials/Script and vocabulary (English).pdf"
+      },
+      {
+       "id": "exercises",
+       "kind": "dw-exercises",
+       "url": "https://learngerman.dw.com/en/was-machst-du-hier/l-37278679"
+      }
+     ],
+     "entries": [
+      {
+       "id": "danke-schon",
+       "german": "danke schön",
+       "english": "Thank you!",
+       "pos": "expression",
+       "lemma": "danke schön",
+       "sense": "thank-you",
+       "origin": [
+        "dw-glossary"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-flugzeug",
+       "german": "das Flugzeug",
+       "plural": "die Flugzeuge",
+       "english": "airplane",
+       "pos": "noun",
+       "lemma": "Flugzeug",
+       "sense": "airplane",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "funktionieren",
+       "german": "funktionieren",
+       "english": "to work; to function",
+       "pos": "verb",
+       "lemma": "funktionieren",
+       "sense": "to-function",
+       "forms": "funktioniert, funktionierte, hat funktioniert",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "gern",
+       "german": "gern",
+       "english": "gladly; happily",
+       "pos": "word",
+       "lemma": "gern",
+       "sense": "gladly",
+       "forms": "lieber, am liebsten",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-getraenk",
+       "german": "das Getränk",
+       "plural": "die Getränke",
+       "english": "drink",
+       "pos": "noun",
+       "lemma": "Getränk",
+       "sense": "drink",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "herzlich-willkommen",
+       "german": "Herzlich willkommen!",
+       "english": "Welcome!",
+       "pos": "expression",
+       "lemma": "Herzlich willkommen!",
+       "sense": "welcome",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "kaputt",
+       "german": "kaputt",
+       "english": "broken",
+       "pos": "word",
+       "lemma": "kaputt",
+       "sense": "broken",
+       "forms": "kaputter, am kaputtesten",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-lampe",
+       "german": "die Lampe",
+       "plural": "die Lampen",
+       "english": "lamp",
+       "pos": "noun",
+       "lemma": "Lampe",
+       "sense": "lamp",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-land",
+       "german": "das Land",
+       "plural": "die Länder",
+       "english": "country",
+       "pos": "noun",
+       "lemma": "Land",
+       "sense": "country",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-party",
+       "german": "die Party",
+       "plural": "die Partys",
+       "english": "party",
+       "pos": "noun",
+       "lemma": "Party",
+       "sense": "party",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "schoen",
+       "german": "schön",
+       "english": "nice; beautiful; pretty",
+       "pos": "word",
+       "lemma": "schön",
+       "sense": "nice",
+       "forms": "schöner, am schönsten",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "etwas-trinken",
+       "german": "(etwas) trinken",
+       "english": "to drink (something)",
+       "pos": "verb",
+       "lemma": "trinken",
+       "sense": "to-drink",
+       "forms": "trinkt, trank, hat getrunken",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "was-machst-du-hier",
+       "german": "Was machst du hier?",
+       "english": "What are you doing here? (informal)",
+       "pos": "expression",
+       "lemma": "Was machst du hier?",
+       "sense": "what-are-you-doing-here",
+       "origin": [
+        "dw-glossary"
+       ],
+       "home": "sentences"
+      },
+      {
+       "id": "wer-ist-denn-das",
+       "german": "Wer ist denn das?",
+       "english": "Who is that?",
+       "pos": "expression",
+       "lemma": "Wer ist denn das?",
+       "sense": "who-is-that",
+       "origin": [
+        "dw-glossary"
+       ],
+       "learnerError": {
+        "wrong": "Wie ist denn das?",
+        "why": "Asking about a person needs wer (who); wie = how"
+       },
+       "home": "sentences"
+      },
+      {
+       "id": "wieder",
+       "german": "wieder",
+       "english": "again",
+       "pos": "word",
+       "lemma": "wieder",
+       "sense": "again",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "willkommen",
+       "german": "willkommen",
+       "english": "welcome",
+       "pos": "word",
+       "lemma": "willkommen",
+       "sense": "welcome",
+       "forms": "willkommener, am willkommensten",
+       "origin": [
+        "dw-glossary"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "wollen-wir-uns-nicht-duzen",
+       "german": "Wollen wir uns nicht duzen?",
+       "english": "Let's use the \"du\" (informal) form of address with each other.",
+       "pos": "expression",
+       "lemma": "Wollen wir uns nicht duzen?",
+       "sense": "lets-use-du",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "home": "sentences"
+      },
+      {
+       "id": "es-gibt",
+       "german": "es gibt",
+       "english": "there is; there are",
+       "pos": "expression",
+       "lemma": "es gibt",
+       "sense": "there-is",
+       "origin": [
+        "dw-script"
+       ],
+       "glossLookup": [
+        "es gibt"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "klein",
+       "german": "klein",
+       "english": "small; little",
+       "pos": "word",
+       "lemma": "klein",
+       "sense": "small",
+       "origin": [
+        "dw-script"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "klar",
+       "german": "klar",
+       "english": "sure; of course",
+       "pos": "word",
+       "lemma": "klar",
+       "sense": "sure",
+       "origin": [
+        "dw-script"
+       ],
+       "note": "As a reply: Klar. Also: Alles klar?",
+       "home": "vocabulary"
+      },
+      {
+       "id": "sitzen",
+       "german": "sitzen",
+       "english": "to sit",
+       "pos": "verb",
+       "lemma": "sitzen",
+       "sense": "to-sit",
+       "forms": "sitzt, saß, hat gesessen",
+       "origin": [
+        "dw-script"
+       ],
+       "note": "Not: sich setzen (to sit down)",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-fahrradladen",
+       "german": "der Fahrradladen",
+       "plural": "die Fahrradläden",
+       "english": "bicycle shop",
+       "pos": "noun",
+       "lemma": "Fahrradladen",
+       "sense": "bicycle-shop",
+       "origin": [
+        "dw-script"
+       ],
+       "learnerForm": "Farrhadladen",
+       "level": "beyond-A1",
+       "glossLookup": [
+        "Fahrradladen"
+       ],
+       "note": "Fahrrad + der Laden (shop); also: das Fahrradgeschäft",
+       "home": "vocabulary",
+       "genderEvidence": "https://de.wiktionary.org/wiki/Fahrradladen (Genus m, Plural Fahrradläden)"
+      },
+      {
+       "id": "klappen",
+       "german": "klappen",
+       "english": "to work out",
+       "pos": "verb",
+       "lemma": "klappen",
+       "sense": "to-work-out",
+       "forms": "klappt, klappte, hat geklappt",
+       "origin": [
+        "dw-script"
+       ],
+       "level": "beyond-A1",
+       "note": "Hat am Flughafen alles geklappt?",
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-wohngemeinschaft",
+       "german": "die Wohngemeinschaft",
+       "plural": "die Wohngemeinschaften",
+       "english": "shared apartment",
+       "pos": "noun",
+       "lemma": "Wohngemeinschaft",
+       "sense": "shared-apartment",
+       "origin": [
+        "dw-culture-page",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "note": "Kurzform: die WG",
+       "glossEvidence": "DW culture page rs-39370944: students “often share an apartment, called a “Wohngemeinschaft” or “WG” for short.”",
+       "home": "vocabulary",
+       "genderEvidence": "https://de.wiktionary.org/wiki/Wohngemeinschaft (Genus f, Plural Wohngemeinschaften)"
+      },
+      {
+       "id": "moechtest-du-etwas-trinken",
+       "german": "Möchtest du etwas trinken?",
+       "english": "Would you like something to drink? (informal)",
+       "pos": "expression",
+       "lemma": "Möchtest du etwas trinken?",
+       "sense": "would-you-like-a-drink",
+       "origin": [
+        "dw-script"
+       ],
+       "glossLookup": [
+        "möchten",
+        "etwas",
+        "trinken"
+       ],
+       "home": "sentences"
+      }
+     ],
+     "pendingEntries": [],
+     "declinedEntries": []
+    },
+    {
+     "id": "dw-a1-e3-l2",
+     "legacyId": null,
+     "level": "A1",
+     "title": "Was trinkst du?",
+     "unit": 3,
+     "lesson": 2,
+     "url": "https://learngerman.dw.com/en/was-trinkst-du/l-37279418",
+     "notesFile": "DW Deutsch lernen/A1/04_in_company/02_Lesson_02/Was trinkst du.md",
+     "lessonDeck": {
+      "file": "DW Deutsch lernen/A1/04_in_company/02_Lesson_02/DW A1 E3L2 Was trinkst du - Vocabulary.apkg",
+      "deck": "Lessons::DW A1::E3 L2 Was trinkst du?"
+     },
+     "snapshot": "DW Deutsch lernen/A1/04_in_company/02_Lesson_02/Materials/source-snapshot.json",
+     "sources": [
+      {
+       "id": "script",
+       "kind": "dw-script-pdf",
+       "url": "https://learngerman.dw.com/downloads/52719579/nicos-weg-a1-e3-l2-manuskript-und-wortschatz-englisch.pdf",
+       "localFile": "DW Deutsch lernen/A1/04_in_company/02_Lesson_02/Materials/Script and vocabulary (English).pdf"
+      },
+      {
+       "id": "exercises",
+       "kind": "dw-exercises",
+       "url": "https://learngerman.dw.com/en/was-trinkst-du/l-37279418"
+      }
+     ],
+     "entries": [
+      {
+       "id": "der-apfelsaft",
+       "german": "der Apfelsaft",
+       "plural": "die Apfelsäfte",
+       "english": "apple juice",
+       "pos": "noun",
+       "lemma": "Apfelsaft",
+       "sense": "apple-juice",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "note": "nach Zahl: Apfelsaft",
+       "learnerForm": "der Apfetsaft",
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-bier",
+       "german": "das Bier",
+       "plural": "die Biere",
+       "english": "beer",
+       "pos": "noun",
+       "lemma": "Bier",
+       "sense": "beer",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "note": "nach Zahl: Bier",
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-cola",
+       "german": "die Cola",
+       "plural": "die Colas",
+       "english": "coke, soda pop (drink)",
+       "pos": "noun",
+       "lemma": "Cola",
+       "sense": "cola",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "note": "nach Zahl: Cola",
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-neutral",
+       "german": "das",
+       "english": "the (neuter article)",
+       "pos": "article",
+       "lemma": "das",
+       "sense": "the-neuter",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-maskulin",
+       "german": "der",
+       "english": "the (masculine article)",
+       "pos": "article",
+       "lemma": "der",
+       "sense": "the-masculine",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-feminin",
+       "german": "die",
+       "english": "the (feminine article)",
+       "pos": "article",
+       "lemma": "die",
+       "sense": "the-feminine",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "note": "Plural nouns also take die: der Saft → die Säfte.",
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-eis",
+       "german": "das Eis",
+       "english": "ice cubes",
+       "pos": "noun",
+       "lemma": "Eis",
+       "sense": "ice-cubes",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "note": "nur Singular",
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-fahrradladen",
+       "german": "der Fahrradladen",
+       "plural": "die Fahrradläden",
+       "english": "bicycle store",
+       "pos": "noun",
+       "lemma": "Fahrradladen",
+       "sense": "bicycle-shop",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "fragen",
+       "german": "fragen",
+       "english": "to ask",
+       "pos": "verb",
+       "lemma": "fragen",
+       "sense": "to-ask",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "forms": "fragt, fragte, hat gefragt",
+       "home": "vocabulary"
+      },
+      {
+       "id": "ich-habe-eine-idee",
+       "german": "Ich habe eine Idee.",
+       "english": "I have an idea.",
+       "pos": "expression",
+       "lemma": "Ich habe eine Idee.",
+       "sense": "i-have-an-idea",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "note": "In the script, spoken: Ich hab ’ne Idee!",
+       "home": "vocabulary"
+      },
+      {
+       "id": "jemanden-etwas-kennen",
+       "german": "jemanden/etwas kennen",
+       "english": "to know someone",
+       "pos": "verb",
+       "lemma": "kennen",
+       "sense": "to-know",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "forms": "kennt, kannte, hat gekannt",
+       "learnerForm": "jemanded/etwas kennen: kennt, kannte gat gekannt",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-kuehlschrank",
+       "german": "der Kühlschrank",
+       "plural": "die Kühlschränke",
+       "english": "refrigerator; fridge; ice box",
+       "pos": "noun",
+       "lemma": "Kühlschrank",
+       "sense": "refrigerator",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "lieber",
+       "german": "lieber",
+       "english": "rather; to prefer",
+       "pos": "word",
+       "lemma": "lieber",
+       "sense": "rather",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "note": "gern → lieber → am liebsten",
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-limo",
+       "german": "die Limo",
+       "plural": "die Limos",
+       "english": "lemonade; soft drink",
+       "pos": "noun",
+       "lemma": "Limo",
+       "sense": "lemonade-short",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "note": "Abkürzung für: Limonade",
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-limonade",
+       "german": "die Limonade",
+       "plural": "die Limonaden",
+       "english": "lemonade; soft drink",
+       "pos": "noun",
+       "lemma": "Limonade",
+       "sense": "lemonade",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "note": "Kurzform: die Limo, die Limos",
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-milch",
+       "german": "die Milch",
+       "english": "milk",
+       "pos": "noun",
+       "lemma": "Milch",
+       "sense": "milk",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "note": "nur Singular",
+       "home": "vocabulary"
+      },
+      {
+       "id": "mit",
+       "german": "mit",
+       "english": "with",
+       "pos": "word",
+       "lemma": "mit",
+       "sense": "with",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "note": "≠ ohne",
+       "home": "vocabulary"
+      },
+      {
+       "id": "moechten",
+       "german": "möchten",
+       "english": "to like; to want to; would like",
+       "pos": "verb",
+       "lemma": "möchten",
+       "sense": "would-like",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "forms": "möchte, wollte (!)",
+       "home": "vocabulary"
+      },
+      {
+       "id": "etwas-nehmen",
+       "german": "etwas nehmen",
+       "english": "to take something; to have something",
+       "pos": "verb",
+       "lemma": "nehmen",
+       "sense": "to-take",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "forms": "nimmt, nahm, hat genommen",
+       "note": "Choosing a drink or food: Ich nehme … = I'll have …",
+       "home": "vocabulary"
+      },
+      {
+       "id": "ohne",
+       "german": "ohne",
+       "english": "without",
+       "pos": "word",
+       "lemma": "ohne",
+       "sense": "without",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "note": "≠ mit",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-orangensaft",
+       "german": "der Orangensaft",
+       "plural": "die Orangensäfte",
+       "english": "orange juice",
+       "pos": "noun",
+       "lemma": "Orangensaft",
+       "sense": "orange-juice",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "note": "nach Zahl: Orangensaft",
+       "level": "beyond-A1",
+       "learnerForm": "der Oragensaft",
+       "home": "vocabulary"
+      },
+      {
+       "id": "etwas-posten",
+       "german": "etwas posten",
+       "english": "to post something",
+       "pos": "verb",
+       "lemma": "posten",
+       "sense": "to-post",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "forms": "postet, postete, hat gepostet",
+       "note": "aus dem Englischen",
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-saft",
+       "german": "der Saft",
+       "plural": "die Säfte",
+       "english": "juice",
+       "pos": "noun",
+       "lemma": "Saft",
+       "sense": "juice",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "note": "nach Zahl meist: Saft",
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-speisekarte",
+       "german": "die Speisekarte",
+       "plural": "die Speisekarten",
+       "english": "menu",
+       "pos": "noun",
+       "lemma": "Speisekarte",
+       "sense": "menu",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-tee",
+       "german": "der Tee",
+       "plural": "die Tees",
+       "english": "tea",
+       "pos": "noun",
+       "lemma": "Tee",
+       "sense": "tea",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "note": "nach Zahl: Tee",
+       "home": "vocabulary"
+      },
+      {
+       "id": "viel",
+       "german": "viel",
+       "english": "a lot (of)",
+       "pos": "word",
+       "lemma": "viel",
+       "sense": "a-lot",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "forms": "mehr, am meisten",
+       "note": "≠ wenig",
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-wasser",
+       "german": "das Wasser",
+       "english": "water",
+       "pos": "noun",
+       "lemma": "Wasser",
+       "sense": "water",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "note": "nur Singular",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-wein",
+       "german": "der Wein",
+       "plural": "die Weine",
+       "english": "wine",
+       "pos": "noun",
+       "lemma": "Wein",
+       "sense": "wine",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "note": "nach Zahl: Wein",
+       "home": "vocabulary"
+      },
+      {
+       "id": "wenig",
+       "german": "wenig",
+       "english": "a little; a bit; few",
+       "pos": "word",
+       "lemma": "wenig",
+       "sense": "a-little",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "forms": "weniger, am wenigsten",
+       "note": "≠ viel",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-zucker",
+       "german": "der Zucker",
+       "english": "sugar",
+       "pos": "noun",
+       "lemma": "Zucker",
+       "sense": "sugar",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "note": "nur Singular",
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-kaffee",
+       "german": "der Kaffee",
+       "english": "coffee",
+       "pos": "noun",
+       "lemma": "Kaffee",
+       "sense": "coffee",
+       "origin": [
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "leben",
+       "german": "leben",
+       "english": "to live",
+       "pos": "verb",
+       "lemma": "leben",
+       "sense": "to-live",
+       "origin": [
+        "dw-script"
+       ],
+       "forms": "lebt, lebte, hat gelebt",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-durst",
+       "german": "der Durst",
+       "english": "thirst",
+       "pos": "noun",
+       "lemma": "Durst",
+       "sense": "thirst",
+       "origin": [
+        "dw-script"
+       ],
+       "note": "Durst haben = to be thirsty",
+       "genderEvidence": "Goethe-Zertifikat A1 Wortliste: der Durst",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-hunger",
+       "german": "der Hunger",
+       "english": "hunger",
+       "pos": "noun",
+       "lemma": "Hunger",
+       "sense": "hunger",
+       "origin": [
+        "dw-script"
+       ],
+       "note": "Hunger haben = to be hungry",
+       "genderEvidence": "Goethe-Zertifikat A1 Wortliste: der Hunger",
+       "home": "vocabulary"
+      },
+      {
+       "id": "prost",
+       "german": "Prost!",
+       "english": "Cheers!",
+       "pos": "expression",
+       "lemma": "Prost!",
+       "sense": "cheers",
+       "origin": [
+        "dw-script"
+       ],
+       "level": "beyond-A1",
+       "glossLookup": [
+        "prost"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-nomen",
+       "german": "das Nomen",
+       "plural": "die Nomen",
+       "english": "noun",
+       "pos": "noun",
+       "lemma": "Nomen",
+       "sense": "noun",
+       "origin": [
+        "dw-grammar-page",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "note": "Also: das Substantiv, das Hauptwort (die Hauptwörter); plural also: die Nomina",
+       "genderEvidence": "DW grammar page gr-38306435 (das Nomen); https://de.wiktionary.org/wiki/Nomen (Plural Nomina or Nomen)",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-artikel",
+       "german": "der Artikel",
+       "plural": "die Artikel",
+       "english": "article (grammar)",
+       "pos": "noun",
+       "lemma": "Artikel",
+       "sense": "article-grammar",
+       "origin": [
+        "dw-grammar-page",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "genderEvidence": "DW grammar page gr-38306435 (der Artikel); https://de.wiktionary.org/wiki/Artikel (Plural Artikel)",
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-genus",
+       "german": "das Genus",
+       "plural": "die Genera",
+       "english": "gender (grammar)",
+       "pos": "noun",
+       "lemma": "Genus",
+       "sense": "grammatical-gender",
+       "origin": [
+        "dw-grammar-page",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "genderEvidence": "DW grammar page gr-38306435 (das Genus); https://de.wiktionary.org/wiki/Genus (Plural Genera)",
+       "home": "vocabulary"
+      },
+      {
+       "id": "was-moechtest-du-trinken",
+       "german": "Was möchtest du trinken?",
+       "english": "What would you like to drink? (informal)",
+       "pos": "expression",
+       "lemma": "Was möchtest du trinken?",
+       "sense": "what-would-you-like-to-drink-du",
+       "origin": [
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "learnerForm": "Was möchtst du trinken?",
+       "glossLookup": [
+        "möchten",
+        "trinken"
+       ],
+       "home": "sentences"
+      },
+      {
+       "id": "was-moechtet-ihr-trinken",
+       "german": "Was möchtet ihr trinken?",
+       "english": "What would you like to drink? (to two or more friends)",
+       "pos": "expression",
+       "lemma": "Was möchtet ihr trinken?",
+       "sense": "what-would-you-like-to-drink-ihr",
+       "origin": [
+        "dw-script",
+        "dw-exercises"
+       ],
+       "glossLookup": [
+        "möchten",
+        "trinken"
+       ],
+       "home": "sentences"
+      },
+      {
+       "id": "was-moechten-sie-trinken",
+       "german": "Was möchten Sie trinken?",
+       "english": "What would you like to drink? (formal)",
+       "pos": "expression",
+       "lemma": "Was möchten Sie trinken?",
+       "sense": "what-would-you-like-to-drink-sie",
+       "origin": [
+        "dw-exercises"
+       ],
+       "glossLookup": [
+        "möchten",
+        "trinken"
+       ],
+       "home": "sentences"
+      },
+      {
+       "id": "was-trinkst-du",
+       "german": "Was trinkst du?",
+       "english": "What are you drinking? (informal)",
+       "pos": "expression",
+       "lemma": "Was trinkst du?",
+       "sense": "what-are-you-drinking",
+       "origin": [
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "glossLookup": [
+        "trinken"
+       ],
+       "home": "sentences"
+      }
+     ],
+     "pendingEntries": [],
+     "declinedEntries": []
+    },
+    {
+     "id": "dw-a1-e3-l3",
+     "legacyId": null,
+     "level": "A1",
+     "title": "Eine Pizza bitte!",
+     "unit": 3,
+     "lesson": 3,
+     "url": "https://learngerman.dw.com/en/eine-pizza-bitte/l-37279261",
+     "notesFile": "DW Deutsch lernen/A1/04_in_company/03_Lesson_03/Ein Pizza bitte.md",
+     "lessonDeck": {
+      "file": "DW Deutsch lernen/A1/04_in_company/03_Lesson_03/DW A1 E3L3 Eine Pizza bitte - Vocabulary.apkg",
+      "deck": "Lessons::DW A1::E3 L3 Eine Pizza bitte!"
+     },
+     "snapshot": "DW Deutsch lernen/A1/04_in_company/03_Lesson_03/Materials/source-snapshot.json",
+     "sources": [
+      {
+       "id": "script",
+       "kind": "dw-script-pdf",
+       "url": "https://learngerman.dw.com/downloads/52719582/nicos-weg-a1-e3-l3-manuskript-und-wortschatz-englisch.pdf",
+       "localFile": "DW Deutsch lernen/A1/04_in_company/03_Lesson_03/Materials/Script and vocabulary (English).pdf"
+      },
+      {
+       "id": "exercises",
+       "kind": "dw-exercises",
+       "url": "https://learngerman.dw.com/en/eine-pizza-bitte/l-37279261"
+      }
+     ],
+     "entries": [
+      {
+       "id": "die-ananas",
+       "german": "die Ananas",
+       "plural": "die Ananas",
+       "english": "pineapple",
+       "pos": "noun",
+       "lemma": "Ananas",
+       "sense": "pineapple",
+       "origin": [
+        "dw-glossary"
+       ],
+       "note": "alternativer Plural: die Ananasse",
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "etwas-bestellen",
+       "german": "(etwas) bestellen",
+       "english": "to order something",
+       "pos": "verb",
+       "lemma": "bestellen",
+       "sense": "to-order",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "forms": "bestellt, bestellte, hat bestellt",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-durst",
+       "german": "der Durst",
+       "english": "thirst",
+       "pos": "noun",
+       "lemma": "Durst",
+       "sense": "thirst",
+       "origin": [
+        "dw-glossary"
+       ],
+       "note": "nur Singular",
+       "home": "vocabulary"
+      },
+      {
+       "id": "etwas-essen",
+       "german": "(etwas) essen",
+       "english": "to eat (something)",
+       "pos": "verb",
+       "lemma": "essen",
+       "sense": "to-eat",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "forms": "isst, aß, hat gegessen",
+       "present": "ich esse, du isst, er/sie/es isst, wir essen, ihr esst, sie/Sie essen",
+       "home": "vocabulary"
+      },
+      {
+       "id": "gern",
+       "german": "gern",
+       "english": "gladly; happily",
+       "pos": "word",
+       "lemma": "gern",
+       "sense": "gladly",
+       "origin": [
+        "dw-glossary"
+       ],
+       "forms": "lieber, am liebsten",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-hunger",
+       "german": "der Hunger",
+       "english": "hunger",
+       "pos": "noun",
+       "lemma": "Hunger",
+       "sense": "hunger",
+       "origin": [
+        "dw-glossary"
+       ],
+       "note": "nur Singular",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-kaese",
+       "german": "der Käse",
+       "english": "cheese",
+       "pos": "noun",
+       "lemma": "Käse",
+       "sense": "cheese",
+       "origin": [
+        "dw-glossary"
+       ],
+       "note": "nur Singular",
+       "home": "vocabulary"
+      },
+      {
+       "id": "etwas-jemanden-lieben",
+       "german": "etwas/jemanden lieben",
+       "english": "to love something/somebody; to like something/somebody",
+       "pos": "verb",
+       "lemma": "lieben",
+       "sense": "to-love",
+       "origin": [
+        "dw-glossary"
+       ],
+       "forms": "liebt, liebte, hat geliebt",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-mozzarella",
+       "german": "der Mozzarella",
+       "english": "mozzarella",
+       "pos": "noun",
+       "lemma": "Mozzarella",
+       "sense": "mozzarella",
+       "origin": [
+        "dw-glossary"
+       ],
+       "note": "hier nur Singular",
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "etwas-nehmen",
+       "german": "etwas nehmen",
+       "english": "to take something; to have something",
+       "pos": "verb",
+       "lemma": "nehmen",
+       "sense": "to-take",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "forms": "nimmt, nahm, hat genommen",
+       "present": "ich nehme, du nimmst, er/sie/es nimmt, wir nehmen, ihr nehmt, sie/Sie nehmen",
+       "learnerForm": "du mimmst",
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-salami",
+       "german": "die Salami",
+       "plural": "die Salamis",
+       "english": "salami",
+       "pos": "noun",
+       "lemma": "Salami",
+       "sense": "salami",
+       "origin": [
+        "dw-glossary"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-salat",
+       "german": "der Salat",
+       "plural": "die Salate",
+       "english": "salad; lettuce",
+       "pos": "noun",
+       "lemma": "Salat",
+       "sense": "salad",
+       "origin": [
+        "dw-glossary"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-schinken",
+       "german": "der Schinken",
+       "plural": "die Schinken",
+       "english": "ham",
+       "pos": "noun",
+       "lemma": "Schinken",
+       "sense": "ham",
+       "origin": [
+        "dw-glossary"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "sonst-noch-etwas",
+       "german": "Sonst noch etwas?",
+       "english": "Anything else?",
+       "pos": "expression",
+       "lemma": "Sonst noch etwas?",
+       "sense": "anything-else",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-speisekarte",
+       "german": "die Speisekarte",
+       "plural": "die Speisekarten",
+       "english": "menu",
+       "pos": "noun",
+       "lemma": "Speisekarte",
+       "sense": "menu",
+       "origin": [
+        "dw-glossary",
+        "dw-script"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-sushi",
+       "german": "das Sushi",
+       "english": "sushi",
+       "pos": "noun",
+       "lemma": "Sushi",
+       "sense": "sushi",
+       "origin": [
+        "dw-glossary"
+       ],
+       "note": "nur Singular",
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-thunfisch",
+       "german": "der Thunfisch",
+       "plural": "die Thunfische",
+       "english": "tuna (fish)",
+       "pos": "noun",
+       "lemma": "Thunfisch",
+       "sense": "tuna",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "learnerForm": "Tunfisch",
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-tomate",
+       "german": "die Tomate",
+       "plural": "die Tomaten",
+       "english": "tomato",
+       "pos": "noun",
+       "lemma": "Tomate",
+       "sense": "tomato",
+       "origin": [
+        "dw-glossary"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-vegetarier",
+       "german": "der Vegetarier",
+       "plural": "die Vegetarier",
+       "english": "vegetarian (male)",
+       "pos": "noun",
+       "lemma": "Vegetarier",
+       "sense": "vegetarian-male",
+       "origin": [
+        "dw-glossary"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-vegetarierin",
+       "german": "die Vegetarierin",
+       "plural": "die Vegetarierinnen",
+       "english": "vegetarian (female)",
+       "pos": "noun",
+       "lemma": "Vegetarierin",
+       "sense": "vegetarian-female",
+       "origin": [
+        "dw-glossary"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "was-gibt-es-denn",
+       "german": "Was gibt es denn?",
+       "english": "What do you have?; What is there?",
+       "pos": "expression",
+       "lemma": "Was gibt es denn?",
+       "sense": "what-is-there",
+       "origin": [
+        "dw-glossary"
+       ],
+       "home": "sentences"
+      },
+      {
+       "id": "die-leute",
+       "german": "die Leute",
+       "english": "people",
+       "pos": "noun",
+       "lemma": "Leute",
+       "sense": "people",
+       "origin": [
+        "dw-script"
+       ],
+       "pluralOnly": true,
+       "genderEvidence": "https://de.wiktionary.org/wiki/Leute (Plural only)",
+       "home": "vocabulary"
+      },
+      {
+       "id": "deshalb",
+       "german": "deshalb",
+       "english": "therefore; for that reason",
+       "pos": "word",
+       "lemma": "deshalb",
+       "sense": "therefore",
+       "origin": [
+        "dw-script"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "jedes-mal",
+       "german": "jedes Mal",
+       "english": "every time",
+       "pos": "expression",
+       "lemma": "jedes Mal",
+       "sense": "every-time",
+       "origin": [
+        "dw-script"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "immer",
+       "german": "immer",
+       "english": "always",
+       "pos": "word",
+       "lemma": "immer",
+       "sense": "always",
+       "origin": [
+        "dw-script"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-nachricht",
+       "german": "die Nachricht",
+       "plural": "die Nachrichten",
+       "english": "message",
+       "pos": "noun",
+       "lemma": "Nachricht",
+       "sense": "message",
+       "origin": [
+        "dw-script"
+       ],
+       "level": "beyond-A1",
+       "genderEvidence": "https://de.wiktionary.org/wiki/Nachricht (die Nachricht, Plural Nachrichten)",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-lieblingsitaliener",
+       "german": "der Lieblingsitaliener",
+       "plural": "die Lieblingsitaliener",
+       "english": "favourite Italian restaurant",
+       "pos": "noun",
+       "lemma": "Lieblingsitaliener",
+       "sense": "favourite-italian-restaurant",
+       "origin": [
+        "dw-script",
+        "learner-notes"
+       ],
+       "learnerForm": "Leiblingsitaliener",
+       "level": "beyond-A1",
+       "genderEvidence": "https://de.wiktionary.org/wiki/Italiener (der Italiener, Plural Italiener; ugs. an Italian restaurant)",
+       "home": "vocabulary"
+      },
+      {
+       "id": "einmal",
+       "german": "einmal",
+       "english": "one order (of food)",
+       "pos": "word",
+       "lemma": "einmal",
+       "sense": "one-order",
+       "origin": [
+        "dw-exercises"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "also",
+       "german": "also",
+       "english": "so (to start a new topic); therefore",
+       "pos": "word",
+       "lemma": "also",
+       "sense": "so",
+       "origin": [
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "was-nehmt-ihr",
+       "german": "Was nehmt ihr?",
+       "english": "What are you having? (to two or more friends)",
+       "pos": "expression",
+       "lemma": "Was nehmt ihr?",
+       "sense": "what-are-you-having-ihr",
+       "origin": [
+        "dw-script",
+        "dw-exercises"
+       ],
+       "glossLookup": [
+        "nehmen"
+       ],
+       "home": "sentences"
+      }
+     ],
+     "pendingEntries": [],
+     "declinedEntries": []
+    },
+    {
+     "id": "dw-a1-e3-l4",
+     "legacyId": null,
+     "level": "A1",
+     "title": "Zahlen bitte!",
+     "unit": 3,
+     "lesson": 4,
+     "url": "https://learngerman.dw.com/en/zahlen-bitte/l-37280348",
+     "notesFile": "DW Deutsch lernen/A1/04_in_company/04_Lesson_04/Zahlen bitte.md",
+     "lessonDeck": {
+      "file": "DW Deutsch lernen/A1/04_in_company/04_Lesson_04/DW A1 E3L4 Zahlen bitte - Vocabulary.apkg",
+      "deck": "Lessons::DW A1::E3 L4 Zahlen bitte!"
+     },
+     "snapshot": "DW Deutsch lernen/A1/04_in_company/04_Lesson_04/Materials/source-snapshot.json",
+     "sources": [
+      {
+       "id": "script",
+       "kind": "dw-script-pdf",
+       "url": "https://learngerman.dw.com/downloads/52719590/nicos-weg-a1-e3-l4-manuskript-und-wortschatz-englisch.pdf",
+       "localFile": "DW Deutsch lernen/A1/04_in_company/04_Lesson_04/Materials/Script and vocabulary (English).pdf"
+      },
+      {
+       "id": "exercises",
+       "kind": "dw-exercises",
+       "url": "https://learngerman.dw.com/en/zahlen-bitte/l-37280348"
+      }
+     ],
+     "entries": [
+      {
+       "id": "bar",
+       "german": "bar",
+       "english": "in cash",
+       "pos": "word",
+       "lemma": "bar",
+       "sense": "in-cash",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-beispiel",
+       "german": "das Beispiel",
+       "plural": "die Beispiele",
+       "english": "example",
+       "pos": "noun",
+       "lemma": "Beispiel",
+       "sense": "example",
+       "origin": [
+        "dw-glossary"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "etwas-bezahlen",
+       "german": "(etwas) bezahlen",
+       "english": "to pay something",
+       "pos": "verb",
+       "lemma": "bezahlen",
+       "sense": "to-pay-something",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises"
+       ],
+       "forms": "bezahlt, bezahlte, hat bezahlt",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-cent",
+       "german": "der Cent",
+       "plural": "die Cents",
+       "english": "cent",
+       "pos": "noun",
+       "lemma": "Cent",
+       "sense": "cent",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises"
+       ],
+       "note": "nach Zahl: Cent",
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-macht",
+       "german": "Das macht …",
+       "english": "That will be …",
+       "pos": "expression",
+       "lemma": "Das macht …",
+       "sense": "that-will-be",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises"
+       ],
+       "home": "sentences"
+      },
+      {
+       "id": "das-macht-zusammen",
+       "german": "Das macht zusammen …",
+       "english": "That will be … in total.",
+       "pos": "expression",
+       "lemma": "Das macht zusammen …",
+       "sense": "that-will-be-in-total",
+       "origin": [
+        "dw-glossary",
+        "dw-script"
+       ],
+       "home": "sentences"
+      },
+      {
+       "id": "das-stimmt-so",
+       "german": "Das stimmt so.",
+       "english": "Keep the change.; That's fine.",
+       "pos": "expression",
+       "lemma": "Das stimmt so.",
+       "sense": "keep-the-change",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "dw-culture-page"
+       ],
+       "note": "Kurzform: Stimmt so.",
+       "home": "vocabulary"
+      },
+      {
+       "id": "du-bist-eingeladen",
+       "german": "Du bist eingeladen!",
+       "english": "It's my treat.; It's on me.",
+       "pos": "expression",
+       "lemma": "Du bist eingeladen!",
+       "sense": "its-my-treat",
+       "origin": [
+        "dw-glossary",
+        "dw-script"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-essen",
+       "german": "das Essen",
+       "plural": "die Essen",
+       "english": "food",
+       "pos": "noun",
+       "lemma": "Essen",
+       "sense": "food",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-euro",
+       "german": "der Euro",
+       "plural": "die Euros",
+       "english": "euro",
+       "pos": "noun",
+       "lemma": "Euro",
+       "sense": "euro",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises"
+       ],
+       "note": "Zeichen: €",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-gast",
+       "german": "der Gast",
+       "plural": "die Gäste",
+       "english": "guest",
+       "pos": "noun",
+       "lemma": "Gast",
+       "sense": "guest",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "getrennt",
+       "german": "getrennt",
+       "english": "separate; separately",
+       "pos": "word",
+       "lemma": "getrennt",
+       "sense": "separately",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "dw-culture-page"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-kellner",
+       "german": "der Kellner",
+       "plural": "die Kellner",
+       "english": "waiter; server (male)",
+       "pos": "noun",
+       "lemma": "Kellner",
+       "sense": "waiter",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-kellnerin",
+       "german": "die Kellnerin",
+       "plural": "die Kellnerinnen",
+       "english": "waitress; server",
+       "pos": "noun",
+       "lemma": "Kellnerin",
+       "sense": "waitress",
+       "origin": [
+        "dw-glossary"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-rechnung",
+       "german": "die Rechnung",
+       "plural": "die Rechnungen",
+       "english": "bill; invoice",
+       "pos": "noun",
+       "lemma": "Rechnung",
+       "sense": "bill",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "etwas-sagen",
+       "german": "etwas sagen",
+       "english": "to say something; to tell somebody something",
+       "pos": "verb",
+       "lemma": "sagen",
+       "sense": "to-say",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises"
+       ],
+       "forms": "sagt, sagte, hat gesagt",
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-trinkgeld",
+       "german": "das Trinkgeld",
+       "plural": "die Trinkgelder",
+       "english": "tip",
+       "pos": "noun",
+       "lemma": "Trinkgeld",
+       "sense": "tip",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "dw-culture-page"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "was-kostet",
+       "german": "Was kostet …?",
+       "english": "How much does … cost?",
+       "pos": "expression",
+       "lemma": "Was kostet …?",
+       "sense": "how-much-does-it-cost",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises"
+       ],
+       "home": "sentences"
+      },
+      {
+       "id": "wie-viel",
+       "german": "wie viel",
+       "english": "how much",
+       "pos": "pronoun",
+       "lemma": "wie viel",
+       "sense": "how-much",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "wie-viel-euro-macht-das",
+       "german": "Wie viel Euro macht das?",
+       "english": "How many euros does that cost?; How many euro is that in total?",
+       "pos": "expression",
+       "lemma": "Wie viel Euro macht das?",
+       "sense": "how-many-euros-is-that",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises"
+       ],
+       "home": "sentences"
+      },
+      {
+       "id": "wie-viel-kostet",
+       "german": "Wie viel kostet …?",
+       "english": "How much is …?; How much does … cost?",
+       "pos": "expression",
+       "lemma": "Wie viel kostet …?",
+       "sense": "how-much-does-it-cost",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises"
+       ],
+       "glossLookup": [
+        "wie viel",
+        "kosten"
+       ],
+       "home": "sentences"
+      },
+      {
+       "id": "zahlen",
+       "german": "zahlen",
+       "english": "to pay",
+       "pos": "verb",
+       "lemma": "zahlen",
+       "sense": "to-pay",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises"
+       ],
+       "forms": "zahlt, zahlte, hat gezahlt",
+       "home": "vocabulary"
+      },
+      {
+       "id": "zahlen-sie-bar-oder-mit-karte",
+       "german": "Zahlen Sie bar oder mit Karte?",
+       "english": "Will you be paying in cash or by card? (formal)",
+       "pos": "expression",
+       "lemma": "Zahlen Sie bar oder mit Karte?",
+       "sense": "cash-or-card-formal",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises"
+       ],
+       "home": "sentences"
+      },
+      {
+       "id": "zahlen-sie-zusammen-oder-getrennt",
+       "german": "Zahlen Sie zusammen oder getrennt?",
+       "english": "Will you be paying together or separately? (formal)",
+       "pos": "expression",
+       "lemma": "Zahlen Sie zusammen oder getrennt?",
+       "sense": "together-or-separately-formal",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises"
+       ],
+       "level": "beyond-A1",
+       "home": "sentences"
+      },
+      {
+       "id": "zusammen",
+       "german": "zusammen",
+       "english": "together",
+       "pos": "word",
+       "lemma": "zusammen",
+       "sense": "together",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "guten-tag",
+       "german": "Guten Tag.",
+       "english": "Hello; good day.",
+       "pos": "expression",
+       "lemma": "Guten Tag.",
+       "sense": "hello",
+       "origin": [
+        "dw-script"
+       ],
+       "learnerForm": "Gutten Tag",
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-bestellung",
+       "german": "die Bestellung",
+       "plural": "die Bestellungen",
+       "english": "order",
+       "pos": "noun",
+       "lemma": "Bestellung",
+       "sense": "order",
+       "origin": [
+        "dw-script"
+       ],
+       "level": "beyond-A1",
+       "genderEvidence": "https://de.wiktionary.org/wiki/Bestellung (Genus f, Plural Bestellungen)",
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-pizza",
+       "german": "die Pizza",
+       "plural": "die Pizzen",
+       "english": "pizza",
+       "pos": "noun",
+       "lemma": "Pizza",
+       "sense": "pizza",
+       "origin": [
+        "dw-script"
+       ],
+       "learnerForm": "Die drei Pizza",
+       "home": "vocabulary"
+      },
+      {
+       "id": "bekommen",
+       "german": "bekommen",
+       "english": "to get; to receive",
+       "pos": "verb",
+       "lemma": "bekommen",
+       "sense": "to-get",
+       "origin": [
+        "dw-script"
+       ],
+       "note": "≠ to become (= werden)",
+       "home": "vocabulary"
+      },
+      {
+       "id": "noch-eine",
+       "german": "noch eine",
+       "english": "another; one more",
+       "pos": "expression",
+       "lemma": "noch ein",
+       "sense": "another",
+       "origin": [
+        "dw-script"
+       ],
+       "glossLookup": [
+        "noch"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "letzte",
+       "german": "letzte",
+       "english": "last",
+       "pos": "adjective",
+       "lemma": "letzt-",
+       "sense": "last",
+       "origin": [
+        "dw-script"
+       ],
+       "glossLookup": [
+        "letzte"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "stimmt",
+       "german": "Stimmt.",
+       "english": "true; correct",
+       "pos": "expression",
+       "lemma": "Stimmt.",
+       "sense": "true",
+       "origin": [
+        "dw-script"
+       ],
+       "glossLookup": [
+        "stimmen"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "weggehen",
+       "german": "weggehen",
+       "english": "to go away; to leave",
+       "pos": "verb",
+       "lemma": "weggehen",
+       "sense": "to-go-away",
+       "origin": [
+        "dw-script"
+       ],
+       "level": "beyond-A1",
+       "note": "Nawin geht weg.",
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-abschiedsparty",
+       "german": "die Abschiedsparty",
+       "english": "farewell party",
+       "pos": "noun",
+       "lemma": "Abschiedsparty",
+       "sense": "farewell-party",
+       "origin": [
+        "dw-script"
+       ],
+       "level": "beyond-A1",
+       "genderEvidence": "https://www.duden.de/rechtschreibung/Abschiedsparty (Substantiv, feminin)",
+       "home": "vocabulary"
+      },
+      {
+       "id": "guten-appetit",
+       "german": "Guten Appetit!",
+       "english": "Enjoy your meal!",
+       "pos": "expression",
+       "lemma": "Guten Appetit!",
+       "sense": "enjoy-your-meal",
+       "origin": [
+        "dw-script"
+       ],
+       "glossLookup": [
+        "guten Appetit"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-karte",
+       "german": "die Karte",
+       "plural": "die Karten",
+       "english": "card",
+       "pos": "noun",
+       "lemma": "Karte",
+       "sense": "card",
+       "origin": [
+        "dw-script",
+        "dw-exercises"
+       ],
+       "genderEvidence": "https://de.wiktionary.org/wiki/Karte (Genus f, Plural Karten)",
+       "home": "vocabulary"
+      },
+      {
+       "id": "ich-zahle-bar",
+       "german": "Ich zahle bar.",
+       "english": "I'm paying in cash.",
+       "pos": "expression",
+       "lemma": "Ich zahle bar.",
+       "sense": "im-paying-in-cash",
+       "origin": [
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "learnerForm": "Ich Zahle bar.",
+       "glossLookup": [
+        "zahlen",
+        "bar"
+       ],
+       "home": "sentences"
+      },
+      {
+       "id": "ich-moechte-zahlen-bitte",
+       "german": "Ich möchte zahlen bitte.",
+       "english": "I'd like to pay, please.",
+       "pos": "expression",
+       "lemma": "Ich möchte zahlen bitte.",
+       "sense": "id-like-to-pay",
+       "origin": [
+        "dw-exercises"
+       ],
+       "glossLookup": [
+        "möchten",
+        "zahlen"
+       ],
+       "home": "sentences"
+      }
+     ],
+     "pendingEntries": [],
+     "declinedEntries": []
+    },
+    {
+     "id": "dw-a1-e4-l1",
+     "legacyId": null,
+     "level": "A1",
+     "title": "Ich war schon in Berlin",
+     "unit": 4,
+     "lesson": 1,
+     "url": "https://learngerman.dw.com/en/ich-war-schon-in-berlin/l-37325550",
+     "notesFile": "DW Deutsch lernen/A1/05_around_the_world/01_Lesson_01/Ich war schon in Berlin.md",
+     "lessonDeck": {
+      "file": "DW Deutsch lernen/A1/05_around_the_world/01_Lesson_01/DW A1 E4L1 Ich war schon in Berlin - Vocabulary.apkg",
+      "deck": "Lessons::DW A1::E4 L1 Ich war schon in Berlin"
+     },
+     "snapshot": "DW Deutsch lernen/A1/05_around_the_world/01_Lesson_01/Materials/source-snapshot.json",
+     "sources": [
+      {
+       "id": "script",
+       "kind": "dw-script-pdf",
+       "url": "https://learngerman.dw.com/downloads/52719600/nicos-weg-a1-e4-l1-manuskript-und-wortschatz-englisch.pdf",
+       "localFile": "DW Deutsch lernen/A1/05_around_the_world/01_Lesson_01/Materials/Script and vocabulary (English).pdf"
+      },
+      {
+       "id": "exercises",
+       "kind": "dw-exercises",
+       "url": "https://learngerman.dw.com/en/ich-war-schon-in-berlin/l-37325550"
+      }
+     ],
+     "entries": [
+      {
+       "id": "die-antwort",
+       "german": "die Antwort",
+       "plural": "die Antworten",
+       "english": "answer",
+       "pos": "noun",
+       "lemma": "Antwort",
+       "sense": "answer",
+       "origin": [
+        "dw-glossary"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "jemanden-begruessen",
+       "german": "jemanden begrüßen",
+       "english": "to greet someone",
+       "pos": "verb",
+       "lemma": "begrüßen",
+       "sense": "to-greet",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises"
+       ],
+       "forms": "begrüßt, begrüßte, hat begrüßt",
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-begruessung",
+       "german": "die Begrüßung",
+       "plural": "die Begrüßungen",
+       "english": "greeting",
+       "pos": "noun",
+       "lemma": "Begrüßung",
+       "sense": "greeting",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "etwas-besichtigen",
+       "german": "etwas besichtigen",
+       "english": "to visit something",
+       "pos": "verb",
+       "lemma": "besichtigen",
+       "sense": "to-visit-a-sight",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises"
+       ],
+       "forms": "besichtigt, besichtigte, hat besichtigt",
+       "home": "vocabulary"
+      },
+      {
+       "id": "deutsch",
+       "german": "deutsch",
+       "english": "German (an adjective, e.g. das deutsche Auto)",
+       "pos": "adjective",
+       "lemma": "deutsch",
+       "sense": "german-adjective",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-dom",
+       "german": "der Dom",
+       "plural": "die Dome",
+       "english": "cathedral",
+       "pos": "noun",
+       "lemma": "Dom",
+       "sense": "cathedral",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "dort",
+       "german": "dort",
+       "english": "there",
+       "pos": "word",
+       "lemma": "dort",
+       "sense": "there",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-eltern",
+       "german": "die Eltern",
+       "english": "parents",
+       "pos": "noun",
+       "lemma": "Eltern",
+       "sense": "parents",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises"
+       ],
+       "pluralOnly": true,
+       "articles": "exempt:plural-only",
+       "home": "vocabulary"
+      },
+      {
+       "id": "fahren",
+       "german": "fahren",
+       "english": "to drive; to travel with a vehicle",
+       "pos": "verb",
+       "lemma": "fahren",
+       "sense": "to-drive",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "dw-grammar-page"
+       ],
+       "forms": "fährt, fuhr, ist gefahren",
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-frage",
+       "german": "die Frage",
+       "plural": "die Fragen",
+       "english": "question",
+       "pos": "noun",
+       "lemma": "Frage",
+       "sense": "question",
+       "origin": [
+        "dw-glossary"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "gestern",
+       "german": "gestern",
+       "english": "yesterday",
+       "pos": "word",
+       "lemma": "gestern",
+       "sense": "yesterday",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "im-moment",
+       "german": "im Moment",
+       "english": "at the moment",
+       "pos": "expression",
+       "lemma": "im Moment",
+       "sense": "at-the-moment",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "jemanden-etwas-kennen",
+       "german": "jemanden/etwas kennen",
+       "english": "to know someone",
+       "pos": "verb",
+       "lemma": "kennen",
+       "sense": "to-know",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises"
+       ],
+       "forms": "kennt, kannte, hat gekannt",
+       "home": "vocabulary"
+      },
+      {
+       "id": "letztes-jahr",
+       "german": "letztes Jahr",
+       "english": "last year",
+       "pos": "expression",
+       "lemma": "letztes Jahr",
+       "sense": "last-year",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "nach",
+       "german": "nach",
+       "english": "to; towards",
+       "pos": "word",
+       "lemma": "nach",
+       "sense": "to-country-or-city",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "dw-grammar-page"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "noch-nie",
+       "german": "noch nie",
+       "english": "never (i.e., never tried something, never been somewhere)",
+       "pos": "expression",
+       "lemma": "noch nie",
+       "sense": "never",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "learnerForm": "noch nei",
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-oper",
+       "german": "die Oper",
+       "plural": "die Opern",
+       "english": "opera",
+       "pos": "noun",
+       "lemma": "Oper",
+       "sense": "opera",
+       "origin": [
+        "dw-glossary"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-oesterreich",
+       "german": "(das) Österreich",
+       "english": "Austria",
+       "pos": "place",
+       "lemma": "Österreich",
+       "sense": "austria",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "note": "nur Singular, selten mit Artikel",
+       "articles": "exempt:used-without-article",
+       "learnerForm": "Östereig",
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-schloss",
+       "german": "das Schloss",
+       "plural": "die Schlösser",
+       "english": "castle",
+       "pos": "noun",
+       "lemma": "Schloss",
+       "sense": "castle",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "schon-mal",
+       "german": "schon mal",
+       "english": "before; already",
+       "pos": "expression",
+       "lemma": "schon mal",
+       "sense": "ever-before",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "note": "Kurzform von: schon einmal",
+       "learnerForm": "schön mal",
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-schweiz",
+       "german": "die Schweiz",
+       "english": "Switzerland",
+       "pos": "noun",
+       "lemma": "Schweiz",
+       "sense": "switzerland",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "note": "nur Singular, immer mit Artikel: in der Schweiz",
+       "learnerForm": "der Sweiz",
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-sehenswuerdigkeit",
+       "german": "die Sehenswürdigkeit",
+       "plural": "die Sehenswürdigkeiten",
+       "english": "place of interest; tourist attraction",
+       "pos": "noun",
+       "lemma": "Sehenswürdigkeit",
+       "sense": "tourist-attraction",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises"
+       ],
+       "learnerForm": "Sehenwürdigkeit",
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-spiel",
+       "german": "das Spiel",
+       "plural": "die Spiele",
+       "english": "game",
+       "pos": "noun",
+       "lemma": "Spiel",
+       "sense": "game",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "etwas-spielen",
+       "german": "(etwas) spielen",
+       "english": "to play (something)",
+       "pos": "verb",
+       "lemma": "spielen",
+       "sense": "to-play",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises"
+       ],
+       "forms": "spielt, spielte, hat gespielt",
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-stadt",
+       "german": "die Stadt",
+       "plural": "die Städte",
+       "english": "city; town",
+       "pos": "noun",
+       "lemma": "Stadt",
+       "sense": "town",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "toll",
+       "german": "toll",
+       "english": "great, wonderful",
+       "pos": "adjective",
+       "lemma": "toll",
+       "sense": "great",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "forms": "toller, am tollsten",
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-tor",
+       "german": "das Tor",
+       "plural": "die Tore",
+       "english": "gate",
+       "pos": "noun",
+       "lemma": "Tor",
+       "sense": "gate",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-verabschiedung",
+       "german": "die Verabschiedung",
+       "plural": "die Verabschiedungen",
+       "english": "farewell",
+       "pos": "noun",
+       "lemma": "Verabschiedung",
+       "sense": "farewell",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "learnerForm": "die Verabschidung, die Verabschidungen",
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "was-ist-das",
+       "german": "Was ist das?",
+       "english": "What is that?",
+       "pos": "expression",
+       "lemma": "Was ist das?",
+       "sense": "what-is-that",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "welche",
+       "german": "welche",
+       "english": "which",
+       "pos": "word",
+       "lemma": "welche",
+       "sense": "which",
+       "origin": [
+        "dw-glossary",
+        "dw-script"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "wohin",
+       "german": "wohin",
+       "english": "where; to where; where to",
+       "pos": "word",
+       "lemma": "Wohin?",
+       "sense": "where-to",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "dw-grammar-page"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "vielen-dank-fuer-die-einladung",
+       "german": "Vielen Dank für die Einladung!",
+       "english": "Thank you very much for the invitation!",
+       "pos": "expression",
+       "lemma": "Vielen Dank für die Einladung!",
+       "sense": "thanks-for-the-invitation",
+       "origin": [
+        "dw-script"
+       ],
+       "learnerForm": "Vielen dank für die Einladung!",
+       "glossLookup": [
+        "vielen Dank",
+        "Einladung"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "naechste-woche",
+       "german": "nächste Woche",
+       "english": "next week",
+       "pos": "expression",
+       "lemma": "nächste Woche",
+       "sense": "next-week",
+       "origin": [
+        "dw-script"
+       ],
+       "glossLookup": [
+        "nächste Woche"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "sogar",
+       "german": "sogar",
+       "english": "even",
+       "pos": "word",
+       "lemma": "sogar",
+       "sense": "even",
+       "origin": [
+        "dw-script"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "beide",
+       "german": "beide",
+       "english": "both",
+       "pos": "word",
+       "lemma": "beide",
+       "sense": "both",
+       "origin": [
+        "dw-script"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "besuchen",
+       "german": "besuchen",
+       "english": "to visit",
+       "pos": "verb",
+       "lemma": "besuchen",
+       "sense": "to-visit",
+       "origin": [
+        "dw-exercises"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "reisen",
+       "german": "reisen",
+       "english": "to travel",
+       "pos": "verb",
+       "lemma": "reisen",
+       "sense": "to-travel",
+       "origin": [
+        "dw-exercises"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "teuer",
+       "german": "teuer",
+       "english": "expensive",
+       "pos": "adjective",
+       "lemma": "teuer",
+       "sense": "expensive",
+       "origin": [
+        "dw-exercises"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "koeln",
+       "german": "Köln",
+       "english": "Cologne",
+       "pos": "place",
+       "lemma": "Köln",
+       "sense": "cologne",
+       "origin": [
+        "dw-script",
+        "dw-exercises"
+       ],
+       "articles": "exempt:used-without-article",
+       "home": "vocabulary"
+      },
+      {
+       "id": "muenchen",
+       "german": "München",
+       "english": "Munich",
+       "pos": "place",
+       "lemma": "München",
+       "sense": "munich",
+       "origin": [
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "articles": "exempt:used-without-article",
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-praesens",
+       "german": "das Präsens",
+       "english": "present tense",
+       "pos": "noun",
+       "lemma": "Präsens",
+       "sense": "present-tense",
+       "origin": [
+        "dw-grammar-page",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-praeteritum",
+       "german": "das Präteritum",
+       "english": "simple past; preterite",
+       "pos": "noun",
+       "lemma": "Präteritum",
+       "sense": "simple-past",
+       "origin": [
+        "dw-grammar-page",
+        "learner-notes"
+       ],
+       "learnerForm": "das Preäteritum",
+       "note": "Grammar term; the plural (Präterita) is rarely used",
+       "genderEvidence": "https://de.wiktionary.org/wiki/Präteritum (Genus n, Nominativ Plural Präterita)",
+       "home": "vocabulary"
+      },
+      {
+       "id": "schoen-dass-ihr-da-seid",
+       "german": "Schön, dass ihr da seid!",
+       "english": "Nice that you're here! (to two or more friends)",
+       "pos": "expression",
+       "lemma": "Schön, dass ihr da seid!",
+       "sense": "glad-youre-here-ihr",
+       "origin": [
+        "dw-script"
+       ],
+       "glossLookup": [
+        "da"
+       ],
+       "home": "sentences"
+      },
+      {
+       "id": "schoen-dich-zu-sehen",
+       "german": "schön, dich zu sehen",
+       "english": "good to see you (du)",
+       "pos": "expression",
+       "lemma": "schön, dich zu sehen",
+       "sense": "nice-to-see-you-du",
+       "origin": [
+        "dw-script"
+       ],
+       "home": "sentences"
+      },
+      {
+       "id": "warst-du-schon-mal-in",
+       "german": "Warst du schon mal in …?",
+       "english": "Have you ever been to …?",
+       "pos": "expression",
+       "lemma": "Warst du schon mal in …?",
+       "sense": "have-you-ever-been-to",
+       "origin": [
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "learnerForm": "War du schon mal in München?",
+       "glossLookup": [
+        "sein"
+       ],
+       "home": "sentences"
+      },
+      {
+       "id": "ich-war-noch-nie-in",
+       "german": "Ich war noch nie in …",
+       "english": "I have never been to …",
+       "pos": "expression",
+       "lemma": "Ich war noch nie in …",
+       "sense": "i-have-never-been-to",
+       "origin": [
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "glossLookup": [
+        "sein"
+       ],
+       "home": "sentences"
+      },
+      {
+       "id": "ich-moechte-auch-mal-nach-berlin",
+       "german": "Ich möchte auch mal nach Berlin.",
+       "english": "I'd like to go to Berlin sometime too.",
+       "pos": "expression",
+       "lemma": "Ich möchte auch mal nach Berlin.",
+       "sense": "id-like-to-go-to-berlin-too",
+       "origin": [
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "glossLookup": [
+        "möchten",
+        "nach"
+       ],
+       "learnerError": {
+        "wrong": "Ich möchte auch mal in Berlin.",
+        "why": "Going to a city (Wohin?): nach. Being in a city (Wo?): in."
+       },
+       "home": "sentences"
+      }
+     ],
+     "pendingEntries": [],
+     "declinedEntries": []
+    },
+    {
+     "id": "dw-a1-e4-l2",
+     "legacyId": null,
+     "level": "A1",
+     "title": "Wo liegt das?",
+     "unit": 4,
+     "lesson": 2,
+     "url": "https://learngerman.dw.com/en/wo-liegt-das/l-37337877",
+     "notesFile": "DW Deutsch lernen/A1/05_around_the_world/02_Lesson_02/Wo liegt das.md",
+     "lessonDeck": {
+      "file": "DW Deutsch lernen/A1/05_around_the_world/02_Lesson_02/DW A1 E4L2 Wo liegt das - Vocabulary.apkg",
+      "deck": "Lessons::DW A1::E4 L2 Wo liegt das?"
+     },
+     "snapshot": "DW Deutsch lernen/A1/05_around_the_world/02_Lesson_02/Materials/source-snapshot.json",
+     "sources": [
+      {
+       "id": "script",
+       "kind": "dw-script-pdf",
+       "url": "https://learngerman.dw.com/downloads/52719615/nicos-weg-a1-e4-l2-manuskript-und-wortschatz-englisch.pdf",
+       "localFile": "DW Deutsch lernen/A1/05_around_the_world/02_Lesson_02/Materials/Script and vocabulary (English).pdf"
+      },
+      {
+       "id": "exercises",
+       "kind": "dw-exercises",
+       "url": "https://learngerman.dw.com/en/wo-liegt-das/l-37337877"
+      }
+     ],
+     "entries": [
+      {
+       "id": "das-europa",
+       "german": "(das) Europa",
+       "english": "Europe",
+       "pos": "place",
+       "lemma": "Europa",
+       "sense": "europe",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "note": "nur Singular, selten mit Artikel",
+       "articles": "exempt:used-without-article",
+       "home": "vocabulary"
+      },
+      {
+       "id": "etwas-gewinnen",
+       "german": "(etwas) gewinnen",
+       "english": "to win (something)",
+       "pos": "verb",
+       "lemma": "gewinnen",
+       "sense": "to-win",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "learner-notes"
+       ],
+       "forms": "gewinnt, gewann, hat gewonnen",
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-hauptstadt",
+       "german": "die Hauptstadt",
+       "plural": "die Hauptstädte",
+       "english": "capital city",
+       "pos": "noun",
+       "lemma": "Hauptstadt",
+       "sense": "capital-city",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "in-der-mitte-von",
+       "german": "in der Mitte (von)",
+       "english": "in the middle (of)",
+       "pos": "expression",
+       "lemma": "in der Mitte (von)",
+       "sense": "in-the-middle-of",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "in-der-naehe-von",
+       "german": "in der Nähe (von)",
+       "english": "near",
+       "pos": "expression",
+       "lemma": "in der Nähe (von)",
+       "sense": "near",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "liegen",
+       "german": "liegen",
+       "english": "here: to be located",
+       "pos": "verb",
+       "lemma": "liegen",
+       "sense": "to-be-located",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises"
+       ],
+       "forms": "liegt, lag, hat gelegen",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-norden",
+       "german": "der Norden",
+       "english": "north; the North",
+       "pos": "noun",
+       "lemma": "Norden",
+       "sense": "north",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "note": "nur Singular",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-osten",
+       "german": "der Osten",
+       "english": "east; the East",
+       "pos": "noun",
+       "lemma": "Osten",
+       "sense": "east",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "note": "nur Singular",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-see",
+       "german": "der See",
+       "plural": "die Seen",
+       "english": "lake",
+       "pos": "noun",
+       "lemma": "See",
+       "sense": "lake",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-sueden",
+       "german": "der Süden",
+       "english": "south; the South",
+       "pos": "noun",
+       "lemma": "Süden",
+       "sense": "south",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "note": "nur Singular",
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-syrien",
+       "german": "(das) Syrien",
+       "english": "Syria",
+       "pos": "place",
+       "lemma": "Syrien",
+       "sense": "syria",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "note": "nur Singular, selten mit Artikel",
+       "articles": "exempt:used-without-article",
+       "home": "vocabulary"
+      },
+      {
+       "id": "tanzen",
+       "german": "tanzen",
+       "english": "to dance",
+       "pos": "verb",
+       "lemma": "tanzen",
+       "sense": "to-dance",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "learner-notes"
+       ],
+       "forms": "tanzt, tanzte, hat getanzt",
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-team",
+       "german": "das Team",
+       "plural": "die Teams",
+       "english": "team",
+       "pos": "noun",
+       "lemma": "Team",
+       "sense": "team",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-westen",
+       "german": "der Westen",
+       "english": "west; the West",
+       "pos": "noun",
+       "lemma": "Westen",
+       "sense": "west",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "note": "nur Singular",
+       "learnerForm": "Vesten",
+       "home": "vocabulary"
+      },
+      {
+       "id": "es-gibt",
+       "german": "es gibt",
+       "english": "there is; there are",
+       "pos": "expression",
+       "lemma": "es gibt",
+       "sense": "there-is",
+       "origin": [
+        "dw-script",
+        "learner-notes"
+       ],
+       "learnerForm": "es gipt",
+       "glossLookup": [
+        "es gibt"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "noch-nicht",
+       "german": "noch nicht",
+       "english": "not yet",
+       "pos": "expression",
+       "lemma": "noch nicht",
+       "sense": "not-yet",
+       "origin": [
+        "dw-script",
+        "learner-notes"
+       ],
+       "glossLookup": [
+        "noch nicht"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "anfangen",
+       "german": "anfangen",
+       "english": "to begin; to start",
+       "pos": "verb",
+       "lemma": "anfangen",
+       "sense": "to-begin",
+       "origin": [
+        "dw-script",
+        "learner-notes"
+       ],
+       "note": "Separable: dann fangt ihr an",
+       "home": "vocabulary"
+      },
+      {
+       "id": "alle",
+       "german": "alle",
+       "english": "all (plural: all of them, everyone)",
+       "pos": "word",
+       "lemma": "alle",
+       "sense": "everyone",
+       "origin": [
+        "dw-script",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "komm-und-spiel-mit",
+       "german": "Komm und spiel mit!",
+       "english": "Come and play along! (informal)",
+       "pos": "expression",
+       "lemma": "Komm und spiel mit!",
+       "sense": "come-and-join-in",
+       "origin": [
+        "dw-script",
+        "learner-notes"
+       ],
+       "glossLookup": [
+        "mitspielen"
+       ],
+       "home": "sentences"
+      },
+      {
+       "id": "wo-liegt",
+       "german": "Wo liegt …?",
+       "english": "Where is … (located)?",
+       "pos": "expression",
+       "lemma": "Wo liegt …?",
+       "sense": "where-is-located",
+       "origin": [
+        "dw-script",
+        "dw-exercises"
+       ],
+       "glossLookup": [
+        "liegen"
+       ],
+       "home": "sentences"
+      },
+      {
+       "id": "das-bundesland",
+       "german": "das Bundesland",
+       "plural": "die Bundesländer",
+       "english": "federal state",
+       "pos": "noun",
+       "lemma": "Bundesland",
+       "sense": "federal-state",
+       "origin": [
+        "dw-exercises"
+       ],
+       "level": "beyond-A1",
+       "genderEvidence": "https://de.wiktionary.org/wiki/Bundesland (Genus n, Nominativ Plural Bundesländer)",
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-himmelsrichtung",
+       "german": "die Himmelsrichtung",
+       "plural": "die Himmelsrichtungen",
+       "english": "compass point; compass direction",
+       "pos": "noun",
+       "lemma": "Himmelsrichtung",
+       "sense": "compass-direction",
+       "origin": [
+        "dw-exercises"
+       ],
+       "genderEvidence": "https://de.wiktionary.org/wiki/Himmelsrichtung (Genus f, Nominativ Plural Himmelsrichtungen)",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-suedwesten",
+       "german": "der Südwesten",
+       "english": "southwest",
+       "pos": "noun",
+       "lemma": "Südwesten",
+       "sense": "southwest",
+       "origin": [
+        "dw-exercises"
+       ],
+       "level": "beyond-A1",
+       "genderEvidence": "https://de.wiktionary.org/wiki/Südwesten (Genus m, no plural)",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-nordosten",
+       "german": "der Nordosten",
+       "english": "northeast",
+       "pos": "noun",
+       "lemma": "Nordosten",
+       "sense": "northeast",
+       "origin": [
+        "dw-exercises"
+       ],
+       "level": "beyond-A1",
+       "genderEvidence": "https://de.wiktionary.org/wiki/Nordosten (Genus m, no plural)",
+       "home": "vocabulary"
+      },
+      {
+       "id": "wien",
+       "german": "Wien",
+       "english": "Vienna",
+       "pos": "place",
+       "lemma": "Wien",
+       "sense": "vienna",
+       "origin": [
+        "dw-exercises"
+       ],
+       "articles": "exempt:used-without-article",
+       "home": "vocabulary"
+      },
+      {
+       "id": "bayern",
+       "german": "Bayern",
+       "english": "Bavaria",
+       "pos": "place",
+       "lemma": "Bayern",
+       "sense": "bavaria",
+       "origin": [
+        "dw-exercises"
+       ],
+       "articles": "exempt:used-without-article",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-aussagesatz",
+       "german": "der Aussagesatz",
+       "plural": "die Aussagesätze",
+       "english": "statement; declarative sentence",
+       "pos": "noun",
+       "lemma": "Aussagesatz",
+       "sense": "declarative-sentence",
+       "origin": [
+        "dw-grammar-page",
+        "dw-exercises"
+       ],
+       "note": "Grammar term",
+       "genderEvidence": "https://de.wiktionary.org/wiki/Aussagesatz (Genus m, Nominativ Plural Aussagesätze)",
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-satzfrage",
+       "german": "die Satzfrage",
+       "plural": "die Satzfragen",
+       "english": "yes-no question",
+       "pos": "noun",
+       "lemma": "Satzfrage",
+       "sense": "yes-no-question",
+       "origin": [
+        "dw-grammar-page",
+        "dw-exercises"
+       ],
+       "note": "Grammar term: VHS says die Ja-/Nein-Frage",
+       "genderEvidence": "https://de.wiktionary.org/wiki/Satzfrage (Genus f, Nominativ Plural Satzfragen)",
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-subjekt",
+       "german": "das Subjekt",
+       "plural": "die Subjekte",
+       "english": "subject (grammar)",
+       "pos": "noun",
+       "lemma": "Subjekt",
+       "sense": "grammatical-subject",
+       "origin": [
+        "dw-grammar-page"
+       ],
+       "note": "Grammar term",
+       "genderEvidence": "https://de.wiktionary.org/wiki/Subjekt (Genus n, Nominativ Plural Subjekte)",
+       "home": "vocabulary"
+      }
+     ],
+     "pendingEntries": [],
+     "declinedEntries": []
+    },
+    {
+     "id": "dw-a1-e4-l3",
+     "legacyId": null,
+     "level": "A1",
+     "title": "In Europa",
+     "unit": 4,
+     "lesson": 3,
+     "url": "https://learngerman.dw.com/en/in-europa/l-37328492",
+     "notesFile": "DW Deutsch lernen/A1/05_around_the_world/03_Lesson_03/In Europa.md",
+     "lessonDeck": {
+      "file": "DW Deutsch lernen/A1/05_around_the_world/03_Lesson_03/DW A1 E4L3 In Europa - Vocabulary.apkg",
+      "deck": "Lessons::DW A1::E4 L3 In Europa"
+     },
+     "snapshot": "DW Deutsch lernen/A1/05_around_the_world/03_Lesson_03/Materials/source-snapshot.json",
+     "sources": [
+      {
+       "id": "script",
+       "kind": "dw-script-pdf",
+       "url": "https://learngerman.dw.com/downloads/52719617/nicos-weg-a1-e4-l3-manuskript-und-wortschatz-englisch.pdf",
+       "localFile": "DW Deutsch lernen/A1/05_around_the_world/03_Lesson_03/Materials/Script and vocabulary (English).pdf"
+      },
+      {
+       "id": "exercises",
+       "kind": "dw-exercises",
+       "url": "https://learngerman.dw.com/en/in-europa/l-37328492"
+      }
+     ],
+     "entries": [
+      {
+       "id": "bei-uns",
+       "german": "Bei uns …",
+       "english": "among us; here at our; here in our…",
+       "pos": "expression",
+       "lemma": "bei uns",
+       "sense": "in-our-country",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "china",
+       "german": "(das) China",
+       "english": "China",
+       "pos": "place",
+       "lemma": "China",
+       "sense": "china",
+       "origin": [
+        "dw-glossary"
+       ],
+       "note": "nur Singular, selten mit Artikel",
+       "articles": "exempt:used-without-article",
+       "home": "vocabulary"
+      },
+      {
+       "id": "cool",
+       "german": "cool",
+       "english": "cool",
+       "pos": "adjective",
+       "lemma": "cool",
+       "sense": "cool",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "learner-notes"
+       ],
+       "forms": "cooler, am coolsten",
+       "note": "aus dem Englischen",
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "frankreich",
+       "german": "(das) Frankreich",
+       "english": "France",
+       "pos": "place",
+       "lemma": "Frankreich",
+       "sense": "france",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "note": "nur Singular, selten mit Artikel",
+       "articles": "exempt:used-without-article",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-hamburger",
+       "german": "der Hamburger",
+       "plural": "die Hamburger",
+       "english": "hamburger (food)",
+       "pos": "noun",
+       "lemma": "Hamburger",
+       "sense": "hamburger-food",
+       "origin": [
+        "dw-glossary"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-italien",
+       "german": "(das) Italien",
+       "english": "Italy",
+       "pos": "place",
+       "lemma": "Italien",
+       "sense": "italy",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "note": "nur Singular, selten mit Artikel",
+       "articles": "exempt:used-without-article",
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-japan",
+       "german": "(das) Japan",
+       "english": "Japan",
+       "pos": "place",
+       "lemma": "Japan",
+       "sense": "japan",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "note": "nur Singular, selten mit Artikel",
+       "articles": "exempt:used-without-article",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-job",
+       "german": "der Job",
+       "plural": "die Jobs",
+       "english": "job",
+       "pos": "noun",
+       "lemma": "Job",
+       "sense": "job",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-lieblingsessen",
+       "german": "das Lieblingsessen",
+       "plural": "die Lieblingsessen",
+       "english": "favorite food",
+       "pos": "noun",
+       "lemma": "Lieblingsessen",
+       "sense": "favorite-food",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "man",
+       "german": "man",
+       "english": "one (impersonal pronoun)",
+       "pos": "pronoun",
+       "lemma": "man",
+       "sense": "one-you",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "dw-grammar-page",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "etwas-moegen",
+       "german": "etwas mögen",
+       "english": "to like something",
+       "pos": "verb",
+       "lemma": "mögen",
+       "sense": "to-like",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "learner-notes"
+       ],
+       "forms": "mag, mochte, hat gemocht",
+       "home": "vocabulary"
+      },
+      {
+       "id": "naechstes-jahr",
+       "german": "nächstes Jahr",
+       "english": "next year",
+       "pos": "expression",
+       "lemma": "nächstes Jahr",
+       "sense": "next-year",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-norwegen",
+       "german": "(das) Norwegen",
+       "english": "Norway",
+       "pos": "place",
+       "lemma": "Norwegen",
+       "sense": "norway",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "note": "nur Singular, selten mit Artikel",
+       "articles": "exempt:used-without-article",
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-schweden",
+       "german": "(das) Schweden",
+       "english": "Sweden",
+       "pos": "place",
+       "lemma": "Schweden",
+       "sense": "sweden",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "note": "nur Singular, selten mit Artikel",
+       "articles": "exempt:used-without-article",
+       "home": "vocabulary"
+      },
+      {
+       "id": "etwas-singen",
+       "german": "(etwas) singen",
+       "english": "to sing (something)",
+       "pos": "verb",
+       "lemma": "singen",
+       "sense": "to-sing",
+       "origin": [
+        "dw-glossary"
+       ],
+       "forms": "singt, sang, hat gesungen",
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-spezialitaet",
+       "german": "die Spezialität",
+       "plural": "die Spezialitäten",
+       "english": "specialty",
+       "pos": "noun",
+       "lemma": "Spezialität",
+       "sense": "specialty",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "verschieden",
+       "german": "verschieden",
+       "english": "different",
+       "pos": "adjective",
+       "lemma": "verschieden",
+       "sense": "different",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "forms": "verschiedener, am verschiedensten",
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "einfach",
+       "german": "einfach",
+       "english": "easy; simple",
+       "pos": "adjective",
+       "lemma": "einfach",
+       "sense": "easy",
+       "origin": [
+        "dw-script",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "mitnehmen",
+       "german": "mitnehmen",
+       "english": "to take along",
+       "pos": "verb",
+       "lemma": "mitnehmen",
+       "sense": "to-take-along",
+       "origin": [
+        "dw-script",
+        "learner-notes"
+       ],
+       "note": "Separable: Nimmst du mich mit?",
+       "home": "vocabulary"
+      },
+      {
+       "id": "gehen",
+       "german": "gehen",
+       "english": "to go; to walk",
+       "pos": "verb",
+       "lemma": "gehen",
+       "sense": "to-go",
+       "origin": [
+        "dw-script",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "gar-nicht",
+       "german": "gar nicht",
+       "english": "not at all",
+       "pos": "expression",
+       "lemma": "gar nicht",
+       "sense": "not-at-all",
+       "origin": [
+        "dw-script",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "glossLookup": [
+        "gar nicht"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "na-ja",
+       "german": "Na ja.",
+       "english": "well; oh well",
+       "pos": "expression",
+       "lemma": "na ja",
+       "sense": "oh-well",
+       "origin": [
+        "dw-script",
+        "learner-notes"
+       ],
+       "learnerForm": "Na, ja",
+       "level": "beyond-A1",
+       "glossLookup": [
+        "naja"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-brot",
+       "german": "das Brot",
+       "plural": "die Brote",
+       "english": "bread",
+       "pos": "noun",
+       "lemma": "Brot",
+       "sense": "bread",
+       "origin": [
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "vocabulary",
+       "genderEvidence": "https://de.wiktionary.org/wiki/Brot (Genus n, Nominativ Plural Brote)"
+      },
+      {
+       "id": "typisch",
+       "german": "typisch",
+       "english": "typical",
+       "pos": "adjective",
+       "lemma": "typisch",
+       "sense": "typical",
+       "origin": [
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "rom",
+       "german": "Rom",
+       "english": "Rome",
+       "pos": "place",
+       "lemma": "Rom",
+       "sense": "rome",
+       "origin": [
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "articles": "exempt:used-without-article",
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-indefinitpronomen",
+       "german": "das Indefinitpronomen",
+       "english": "indefinite pronoun",
+       "pos": "noun",
+       "lemma": "Indefinitpronomen",
+       "sense": "indefinite-pronoun",
+       "origin": [
+        "dw-grammar-page"
+       ],
+       "note": "Grammar term",
+       "home": "vocabulary",
+       "plural": "die Indefinitpronomen",
+       "genderEvidence": "https://de.wiktionary.org/wiki/Indefinitpronomen (Genus n, Nominativ Plural Indefinitpronomen)"
+      }
+     ],
+     "pendingEntries": [],
+     "declinedEntries": [
+      {
+       "german": "die USA (Plural)",
+       "decision": "no (2026-09-25, DW E0 L4): the learner said no to USA; the same word here"
+      }
+     ]
+    },
+    {
+     "id": "dw-a1-e4-l4",
+     "legacyId": null,
+     "level": "A1",
+     "title": "Andere Länder",
+     "unit": 4,
+     "lesson": 4,
+     "url": "https://learngerman.dw.com/en/andere-länder/l-37337244",
+     "notesFile": "DW Deutsch lernen/A1/05_around_the_world/04_Lesson_04/Andere Länder.md",
+     "lessonDeck": {
+      "file": "DW Deutsch lernen/A1/05_around_the_world/04_Lesson_04/DW A1 E4L4 Andere Länder - Vocabulary.apkg",
+      "deck": "Lessons::DW A1::E4 L4 Andere Länder"
+     },
+     "snapshot": "DW Deutsch lernen/A1/05_around_the_world/04_Lesson_04/Materials/source-snapshot.json",
+     "sources": [
+      {
+       "id": "script",
+       "kind": "dw-script-pdf",
+       "url": "https://learngerman.dw.com/downloads/52719637/nicos-weg-a1-e4-l4-manuskript-und-wortschatz-englisch.pdf",
+       "localFile": "DW Deutsch lernen/A1/05_around_the_world/04_Lesson_04/Materials/Script and vocabulary (English).pdf"
+      },
+      {
+       "id": "exercises",
+       "kind": "dw-exercises",
+       "url": "https://learngerman.dw.com/en/andere-länder/l-37337244"
+      }
+     ],
+     "entries": [
+      {
+       "id": "das-arabisch",
+       "german": "(das) Arabisch",
+       "english": "Arabic (language)",
+       "pos": "noun",
+       "lemma": "Arabisch",
+       "sense": "arabic",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises"
+       ],
+       "note": "nur Singular, selten mit Artikel",
+       "articles": "exempt:used-without-article",
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-aufenthaltserlaubnis",
+       "german": "die Aufenthaltserlaubnis",
+       "plural": "die Aufenthaltserlaubnisse",
+       "english": "residence permit",
+       "pos": "noun",
+       "lemma": "Aufenthaltserlaubnis",
+       "sense": "residence-permit",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "learner-notes"
+       ],
+       "learnerForm": "Aufenthaltserlaubins",
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "bleiben",
+       "german": "bleiben",
+       "english": "to stay",
+       "pos": "verb",
+       "lemma": "bleiben",
+       "sense": "to-stay",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "learner-notes"
+       ],
+       "forms": "bleibt, blieb, ist geblieben",
+       "home": "vocabulary"
+      },
+      {
+       "id": "chinesisch",
+       "german": "(das) Chinesisch",
+       "english": "Chinese (language)",
+       "pos": "noun",
+       "lemma": "Chinesisch",
+       "sense": "chinese",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "note": "nur Singular, selten mit Artikel",
+       "articles": "exempt:used-without-article",
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-deutsch",
+       "german": "(das) Deutsch",
+       "english": "German (language)",
+       "pos": "noun",
+       "lemma": "Deutsch",
+       "sense": "german",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "note": "nur Singular, selten mit Artikel",
+       "articles": "exempt:used-without-article",
+       "home": "vocabulary"
+      },
+      {
+       "id": "ein-bisschen",
+       "german": "ein bisschen",
+       "english": "a little",
+       "pos": "expression",
+       "lemma": "ein bisschen",
+       "sense": "a-little",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "englisch",
+       "german": "(das) Englisch",
+       "english": "English (language)",
+       "pos": "noun",
+       "lemma": "Englisch",
+       "sense": "english",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "note": "nur Singular, selten mit Artikel",
+       "articles": "exempt:used-without-article",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-fluechtling",
+       "german": "der Flüchtling",
+       "plural": "die Flüchtlinge",
+       "english": "refugee",
+       "pos": "noun",
+       "lemma": "Flüchtling",
+       "sense": "refugee",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "learner-notes"
+       ],
+       "learnerForm": "Flütchling",
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-franzoesisch",
+       "german": "(das) Französisch",
+       "english": "French (language)",
+       "pos": "noun",
+       "lemma": "Französisch",
+       "sense": "french",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "note": "nur Singular, selten mit Artikel",
+       "articles": "exempt:used-without-article",
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-fremdsprache",
+       "german": "die Fremdsprache",
+       "plural": "die Fremdsprachen",
+       "english": "foreign language",
+       "pos": "noun",
+       "lemma": "Fremdsprache",
+       "sense": "foreign-language",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "international",
+       "german": "international",
+       "english": "international",
+       "pos": "adjective",
+       "lemma": "international",
+       "sense": "international",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-italienisch",
+       "german": "(das) Italienisch",
+       "english": "Italian (language)",
+       "pos": "noun",
+       "lemma": "Italienisch",
+       "sense": "italian",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "note": "nur Singular, selten mit Artikel",
+       "articles": "exempt:used-without-article",
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-japanisch",
+       "german": "(das) Japanisch",
+       "english": "Japanese (language)",
+       "pos": "noun",
+       "lemma": "Japanisch",
+       "sense": "japanese",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises"
+       ],
+       "note": "nur Singular, selten mit Artikel",
+       "articles": "exempt:used-without-article",
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-muttersprache",
+       "german": "die Muttersprache",
+       "plural": "die Muttersprachen",
+       "english": "native language; mother tongue",
+       "pos": "noun",
+       "lemma": "Muttersprache",
+       "sense": "native-language",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "learnerForm": "die Muttersprache, die Musttersprachen",
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "noerdlich",
+       "german": "nördlich",
+       "english": "north; northwards; to the north of",
+       "pos": "adjective",
+       "lemma": "nördlich",
+       "sense": "north-of",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "forms": "nördlicher, am nördlichsten",
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-norwegisch",
+       "german": "(das) Norwegisch",
+       "english": "Norwegian (language)",
+       "pos": "noun",
+       "lemma": "Norwegisch",
+       "sense": "norwegian",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "note": "nur Singular, selten mit Artikel",
+       "articles": "exempt:used-without-article",
+       "home": "vocabulary"
+      },
+      {
+       "id": "oestlich",
+       "german": "östlich",
+       "english": "east; eastwards; to the east of",
+       "pos": "adjective",
+       "lemma": "östlich",
+       "sense": "east-of",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises"
+       ],
+       "forms": "östlicher, am östlichsten",
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-russisch",
+       "german": "(das) Russisch",
+       "english": "Russian (language)",
+       "pos": "noun",
+       "lemma": "Russisch",
+       "sense": "russian",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "note": "nur Singular, selten mit Artikel",
+       "articles": "exempt:used-without-article",
+       "home": "vocabulary"
+      },
+      {
+       "id": "russland",
+       "german": "(das) Russland",
+       "english": "Russia",
+       "pos": "place",
+       "lemma": "Russland",
+       "sense": "russia",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "note": "nur Singular, selten mit Artikel",
+       "articles": "exempt:used-without-article",
+       "home": "vocabulary"
+      },
+      {
+       "id": "schlecht",
+       "german": "schlecht",
+       "english": "badly; bad",
+       "pos": "word",
+       "lemma": "schlecht",
+       "sense": "bad",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "forms": "schlechter, am schlechtesten",
+       "home": "vocabulary"
+      },
+      {
+       "id": "schnell",
+       "german": "schnell",
+       "english": "fast",
+       "pos": "adjective",
+       "lemma": "schnell",
+       "sense": "fast",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "learner-notes"
+       ],
+       "forms": "schneller, am schnellsten",
+       "learnerForm": "schell",
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-schwedisch",
+       "german": "(das) Schwedisch",
+       "english": "Swedish (language)",
+       "pos": "noun",
+       "lemma": "Schwedisch",
+       "sense": "swedish",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises"
+       ],
+       "note": "nur Singular, selten mit Artikel",
+       "articles": "exempt:used-without-article",
+       "home": "vocabulary"
+      },
+      {
+       "id": "sehr",
+       "german": "sehr",
+       "english": "very",
+       "pos": "word",
+       "lemma": "sehr",
+       "sense": "very",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "spanisch",
+       "german": "(das) Spanisch",
+       "english": "Spanish (language)",
+       "pos": "noun",
+       "lemma": "Spanisch",
+       "sense": "spanish",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "note": "nur Singular, selten mit Artikel",
+       "articles": "exempt:used-without-article",
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-sprache",
+       "german": "die Sprache",
+       "plural": "die Sprachen",
+       "english": "language",
+       "pos": "noun",
+       "lemma": "Sprache",
+       "sense": "language",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "sprechen",
+       "german": "sprechen",
+       "english": "to speak",
+       "pos": "verb",
+       "lemma": "sprechen",
+       "sense": "to-speak",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "dw-grammar-page",
+        "learner-notes"
+       ],
+       "forms": "spricht, sprach, hat gesprochen",
+       "present": "ich spreche, du sprichst, er/sie/es spricht, wir sprechen, ihr sprecht, sie/Sie sprechen",
+       "home": "vocabulary"
+      },
+      {
+       "id": "welche-sprachen-sprichst-du",
+       "german": "Welche Sprachen sprichst du?",
+       "english": "Which languages do you speak? (informal)",
+       "pos": "expression",
+       "lemma": "Welche Sprachen sprichst du?",
+       "sense": "which-languages-do-you-speak",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "dw-grammar-page",
+        "learner-notes"
+       ],
+       "learnerForm": "Welche Sprachen sprechst du?",
+       "home": "sentences"
+      },
+      {
+       "id": "suedlich",
+       "german": "südlich",
+       "english": "south; southwards; to the south of",
+       "pos": "adjective",
+       "lemma": "südlich",
+       "sense": "south-of",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "forms": "südlicher, am südlichsten",
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-thai",
+       "german": "(das) Thai",
+       "english": "Thai (language)",
+       "pos": "noun",
+       "lemma": "Thai",
+       "sense": "thai",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "note": "nur Singular, selten mit Artikel",
+       "articles": "exempt:used-without-article",
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-thailand",
+       "german": "(das) Thailand",
+       "english": "Thailand",
+       "pos": "place",
+       "lemma": "Thailand",
+       "sense": "thailand",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "learner-notes"
+       ],
+       "note": "nur Singular, selten mit Artikel",
+       "articles": "exempt:used-without-article",
+       "home": "vocabulary"
+      },
+      {
+       "id": "westlich",
+       "german": "westlich",
+       "english": "west; westwards; to the west of",
+       "pos": "adjective",
+       "lemma": "westlich",
+       "sense": "west-of",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "forms": "westlicher, am westlichsten",
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "duerfen",
+       "german": "dürfen",
+       "english": "to be allowed to; may",
+       "pos": "verb",
+       "lemma": "dürfen",
+       "sense": "to-be-allowed",
+       "origin": [
+        "dw-script",
+        "learner-notes"
+       ],
+       "forms": "darf, durfte, hat gedurft",
+       "present": "ich darf, du darfst, er/sie/es darf, wir dürfen, ihr dürft, sie/Sie dürfen",
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-nachbarland",
+       "german": "das Nachbarland",
+       "plural": "die Nachbarländer",
+       "english": "neighbouring country",
+       "pos": "noun",
+       "lemma": "Nachbarland",
+       "sense": "neighbouring-country",
+       "origin": [
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "genderEvidence": "https://de.wiktionary.org/wiki/Nachbarland (Genus n, Nominativ Plural Nachbarländer)",
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-amtssprache",
+       "german": "die Amtssprache",
+       "plural": "die Amtssprachen",
+       "english": "official language",
+       "pos": "noun",
+       "lemma": "Amtssprache",
+       "sense": "official-language",
+       "origin": [
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "genderEvidence": "https://de.wiktionary.org/wiki/Amtssprache (Genus f, Nominativ Plural Amtssprachen)",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-nordwesten",
+       "german": "der Nordwesten",
+       "english": "northwest",
+       "pos": "noun",
+       "lemma": "Nordwesten",
+       "sense": "northwest",
+       "origin": [
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "genderEvidence": "https://de.wiktionary.org/wiki/Nordwesten (Genus m, no plural)",
+       "home": "vocabulary"
+      },
+      {
+       "id": "suedwestlich",
+       "german": "südwestlich",
+       "english": "southwest; to the southwest of",
+       "pos": "adjective",
+       "lemma": "südwestlich",
+       "sense": "southwest-of",
+       "origin": [
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-polen",
+       "german": "(das) Polen",
+       "english": "Poland",
+       "pos": "place",
+       "lemma": "Polen",
+       "sense": "poland",
+       "origin": [
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "genderEvidence": "https://de.wiktionary.org/wiki/Polen (Substantiv n, Toponym)",
+       "articles": "exempt:used-without-article",
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-polnisch",
+       "german": "(das) Polnisch",
+       "english": "Polish (language)",
+       "pos": "noun",
+       "lemma": "Polnisch",
+       "sense": "polish",
+       "origin": [
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "articles": "exempt:used-without-article",
+       "genderEvidence": "https://de.wiktionary.org/wiki/Polnisch: neuter, Nominativ '(das) Polnisch', plural —",
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-tschechien",
+       "german": "(das) Tschechien",
+       "english": "Czechia; Czech Republic",
+       "pos": "place",
+       "lemma": "Tschechien",
+       "sense": "czechia",
+       "origin": [
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "genderEvidence": "https://de.wiktionary.org/wiki/Tschechien (Substantiv n, Toponym)",
+       "articles": "exempt:used-without-article",
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-tschechisch",
+       "german": "(das) Tschechisch",
+       "english": "Czech (language)",
+       "pos": "noun",
+       "lemma": "Tschechisch",
+       "sense": "czech",
+       "origin": [
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "articles": "exempt:used-without-article",
+       "genderEvidence": "https://de.wiktionary.org/wiki/Tschechisch: neuter, Nominativ '(das) Tschechisch', plural —",
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-niederlande",
+       "german": "die Niederlande",
+       "english": "the Netherlands",
+       "pos": "place",
+       "lemma": "Niederlande",
+       "sense": "netherlands",
+       "origin": [
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "pluralOnly": true,
+       "articles": "exempt:plural-only",
+       "genderEvidence": "https://de.wiktionary.org/wiki/Niederlande (Plural only: Nominativ Plural die Niederlande)",
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-niederlaendisch",
+       "german": "(das) Niederländisch",
+       "english": "Dutch (language)",
+       "pos": "noun",
+       "lemma": "Niederländisch",
+       "sense": "dutch",
+       "origin": [
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "articles": "exempt:used-without-article",
+       "genderEvidence": "https://de.wiktionary.org/wiki/Niederländisch: neuter, Nominativ '(das) Niederländisch', plural —",
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-belgien",
+       "german": "(das) Belgien",
+       "english": "Belgium",
+       "pos": "place",
+       "lemma": "Belgien",
+       "sense": "belgium",
+       "origin": [
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "genderEvidence": "https://de.wiktionary.org/wiki/Belgien (Substantiv n, Toponym)",
+       "articles": "exempt:used-without-article",
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-luxemburg",
+       "german": "(das) Luxemburg",
+       "english": "Luxembourg",
+       "pos": "place",
+       "lemma": "Luxemburg",
+       "sense": "luxembourg",
+       "origin": [
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "genderEvidence": "https://de.wiktionary.org/wiki/Luxemburg (Substantiv n, Toponym)",
+       "articles": "exempt:used-without-article",
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-daenemark",
+       "german": "(das) Dänemark",
+       "english": "Denmark",
+       "pos": "place",
+       "lemma": "Dänemark",
+       "sense": "denmark",
+       "origin": [
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "genderEvidence": "https://de.wiktionary.org/wiki/Dänemark (Substantiv n, Toponym)",
+       "articles": "exempt:used-without-article",
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-daenisch",
+       "german": "(das) Dänisch",
+       "english": "Danish (language)",
+       "pos": "noun",
+       "lemma": "Dänisch",
+       "sense": "danish",
+       "origin": [
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "articles": "exempt:used-without-article",
+       "genderEvidence": "https://de.wiktionary.org/wiki/Dänisch: neuter, Nominativ '(das) Dänisch', plural —",
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-afrika",
+       "german": "(das) Afrika",
+       "english": "Africa",
+       "pos": "place",
+       "lemma": "Afrika",
+       "sense": "africa",
+       "origin": [
+        "dw-exercises"
+       ],
+       "genderEvidence": "https://de.wiktionary.org/wiki/Afrika (Substantiv n, Toponym)",
+       "articles": "exempt:used-without-article",
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-asien",
+       "german": "(das) Asien",
+       "english": "Asia",
+       "pos": "place",
+       "lemma": "Asien",
+       "sense": "asia",
+       "origin": [
+        "dw-exercises"
+       ],
+       "genderEvidence": "https://de.wiktionary.org/wiki/Asien (Substantiv n, Toponym)",
+       "articles": "exempt:used-without-article",
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-kanada",
+       "german": "(das) Kanada",
+       "english": "Canada",
+       "pos": "place",
+       "lemma": "Kanada",
+       "sense": "canada",
+       "origin": [
+        "dw-exercises"
+       ],
+       "genderEvidence": "https://de.wiktionary.org/wiki/Kanada (Substantiv n, Toponym)",
+       "articles": "exempt:used-without-article",
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-marokko",
+       "german": "(das) Marokko",
+       "english": "Morocco",
+       "pos": "place",
+       "lemma": "Marokko",
+       "sense": "morocco",
+       "origin": [
+        "dw-exercises"
+       ],
+       "genderEvidence": "https://de.wiktionary.org/wiki/Marokko (Substantiv n, Toponym)",
+       "articles": "exempt:used-without-article",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-wohnort",
+       "german": "der Wohnort",
+       "plural": "die Wohnorte",
+       "english": "place of residence",
+       "pos": "noun",
+       "lemma": "Wohnort",
+       "sense": "place-of-residence",
+       "origin": [
+        "dw-exercises"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "aegypten-liegt-im-osten-von-nordafrika",
+       "german": "Ägypten liegt im Osten von Nordafrika.",
+       "english": "Egypt is in the east of North Africa.",
+       "pos": "expression",
+       "lemma": "Ägypten liegt im Osten von Nordafrika.",
+       "sense": "egypt-in-the-east-of-north-africa",
+       "origin": [
+        "learner-notes"
+       ],
+       "learnerForm": "Ägepten liegt im Osten von Nord Afrika.",
+       "home": "sentences"
+      },
+      {
+       "id": "suedlich-von-aegypten-liegt-der-sudan",
+       "german": "Südlich von Ägypten liegt der Sudan.",
+       "english": "Sudan lies south of Egypt.",
+       "pos": "expression",
+       "lemma": "Südlich von Ägypten liegt der Sudan.",
+       "sense": "sudan-south-of-egypt",
+       "origin": [
+        "learner-notes"
+       ],
+       "learnerForm": "Im Süden von Ägepten liegt der Sudan.",
+       "home": "sentences"
+      },
+      {
+       "id": "oestlich-von-aegypten-liegt-das-rote-meer",
+       "german": "Östlich von Ägypten liegt das Rote Meer.",
+       "english": "The Red Sea lies east of Egypt.",
+       "pos": "expression",
+       "lemma": "Östlich von Ägypten liegt das Rote Meer.",
+       "sense": "red-sea-east-of-egypt",
+       "origin": [
+        "learner-notes"
+       ],
+       "learnerForm": "Im Osten von Ägepten liegt der Rote Meer.",
+       "home": "sentences"
+      }
+     ],
+     "pendingEntries": [],
+     "declinedEntries": []
+    },
+    {
+     "id": "dw-a1-e5-l1",
+     "legacyId": null,
+     "level": "A1",
+     "title": "Was ist das?",
+     "unit": 5,
+     "lesson": 1,
+     "url": "https://learngerman.dw.com/en/was-ist-das/l-37368285",
+     "notesFile": "DW Deutsch lernen/A1/06_living/01_Lesson_01/Was ist das.md",
+     "lessonDeck": {
+      "file": "DW Deutsch lernen/A1/06_living/01_Lesson_01/DW A1 E5L1 Was ist das - Vocabulary.apkg",
+      "deck": "Lessons::DW A1::E5 L1 Was ist das?"
+     },
+     "snapshot": "DW Deutsch lernen/A1/06_living/01_Lesson_01/Materials/source-snapshot.json",
+     "sources": [
+      {
+       "id": "script",
+       "kind": "dw-script-pdf",
+       "url": "https://learngerman.dw.com/downloads/52719650/nicos-weg-a1-e5-l1-manuskript-und-wortschatz-englisch.pdf",
+       "localFile": "DW Deutsch lernen/A1/06_living/01_Lesson_01/Materials/Script and vocabulary (English).pdf"
+      },
+      {
+       "id": "exercises",
+       "kind": "dw-exercises",
+       "url": "https://learngerman.dw.com/en/was-ist-das/l-37368285"
+      }
+     ],
+     "entries": [
+      {
+       "id": "der-bleistift",
+       "german": "der Bleistift",
+       "plural": "die Bleistifte",
+       "english": "pencil",
+       "pos": "noun",
+       "lemma": "Bleistift",
+       "sense": "pencil",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-brille",
+       "german": "die Brille",
+       "plural": "die Brillen",
+       "english": "eyeglasses",
+       "pos": "noun",
+       "lemma": "Brille",
+       "sense": "eyeglasses",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "dw-grammar-page",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-buch",
+       "german": "das Buch",
+       "plural": "die Bücher",
+       "english": "book",
+       "pos": "noun",
+       "lemma": "Buch",
+       "sense": "book",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "dw-grammar-page",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-deutschkurs",
+       "german": "der Deutschkurs",
+       "plural": "die Deutschkurse",
+       "english": "German course",
+       "pos": "noun",
+       "lemma": "Deutschkurs",
+       "sense": "german-course",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-plural",
+       "german": "die",
+       "english": "the (plural)",
+       "pos": "article",
+       "lemma": "die",
+       "sense": "the-plural",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "dw-grammar-page"
+       ],
+       "note": "Every plural noun takes die: der Stift → die Stifte, das Buch → die Bücher.",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-lehrer",
+       "german": "der Lehrer",
+       "plural": "die Lehrer",
+       "english": "teacher (male)",
+       "pos": "noun",
+       "lemma": "Lehrer",
+       "sense": "teacher-male",
+       "origin": [
+        "dw-glossary"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-lehrerin",
+       "german": "die Lehrerin",
+       "plural": "die Lehrerinnen",
+       "english": "teacher (female)",
+       "pos": "noun",
+       "lemma": "Lehrerin",
+       "sense": "teacher-female",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-notizblock",
+       "german": "der Notizblock",
+       "plural": "die Notizblöcke",
+       "english": "notebook",
+       "pos": "noun",
+       "lemma": "Notizblock",
+       "sense": "notebook",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-papier-material",
+       "german": "das Papier",
+       "english": "paper",
+       "pos": "noun",
+       "lemma": "Papier",
+       "sense": "paper",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises"
+       ],
+       "note": "hier nur Singular: Papier is an amount, so several sheets are still Papier (DW tip).",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-radiergummi",
+       "german": "der Radiergummi",
+       "plural": "die Radiergummis",
+       "english": "eraser",
+       "pos": "noun",
+       "lemma": "Radiergummi",
+       "sense": "eraser",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises"
+       ],
+       "note": "alternativ: das Radiergummi, die Radiergummis",
+       "level": "beyond-A1",
+       "articles": "exempt:gender-varies",
+       "genderEvidence": "https://de.wiktionary.org/wiki/Radiergummi (Genus m, n; DW: der, alternativ das)",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-schluessel",
+       "german": "der Schlüssel",
+       "plural": "die Schlüssel",
+       "english": "key",
+       "pos": "noun",
+       "lemma": "Schlüssel",
+       "sense": "key",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "learnerForm": "schlüssel",
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-sprachschule",
+       "german": "die Sprachschule",
+       "plural": "die Sprachschulen",
+       "english": "language school",
+       "pos": "noun",
+       "lemma": "Sprachschule",
+       "sense": "language-school",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "learnerForm": "Sprachchule",
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-stift",
+       "german": "der Stift",
+       "plural": "die Stifte",
+       "english": "pen",
+       "pos": "noun",
+       "lemma": "Stift",
+       "sense": "pen",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "dw-grammar-page",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "unterrichten",
+       "german": "(etwas) unterrichten",
+       "english": "to teach; to instruct",
+       "pos": "verb",
+       "lemma": "unterrichten",
+       "sense": "to-teach",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "learner-notes"
+       ],
+       "forms": "unterrichtet, unterrichtete, hat unterrichtet",
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "wie-heisst-das-auf-deutsch",
+       "german": "Wie heißt das auf Deutsch?",
+       "english": "What does that mean in German?",
+       "pos": "expression",
+       "lemma": "Wie heißt das auf Deutsch?",
+       "sense": "what-is-that-in-german",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "learnerForm": "Wie heißt das auf Deutsch.",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-unterricht",
+       "german": "der Unterricht",
+       "english": "lesson; class",
+       "pos": "noun",
+       "lemma": "Unterricht",
+       "sense": "lesson",
+       "origin": [
+        "dw-script",
+        "learner-notes"
+       ],
+       "genderEvidence": "https://de.wiktionary.org/wiki/Unterricht (Genus m)",
+       "home": "vocabulary"
+      },
+      {
+       "id": "holen",
+       "german": "holen",
+       "english": "to fetch; to get",
+       "pos": "verb",
+       "lemma": "holen",
+       "sense": "to-fetch",
+       "origin": [
+        "dw-script",
+        "learner-notes"
+       ],
+       "forms": "holt, holte, hat geholt",
+       "note": "Ich hol Emma. (spoken: ich hol = ich hole)",
+       "home": "vocabulary"
+      },
+      {
+       "id": "echt",
+       "german": "echt",
+       "english": "really",
+       "pos": "adverb",
+       "lemma": "echt",
+       "sense": "really",
+       "origin": [
+        "dw-script",
+        "learner-notes"
+       ],
+       "note": "Echt? alone means Really?",
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-volkshochschule",
+       "german": "die Volkshochschule",
+       "plural": "die Volkshochschulen",
+       "english": "adult education centre",
+       "pos": "noun",
+       "lemma": "Volkshochschule",
+       "sense": "adult-education-centre",
+       "origin": [
+        "dw-culture-page"
+       ],
+       "note": "VHS for short; in nearly every city (DW).",
+       "level": "beyond-A1",
+       "genderEvidence": "https://de.wiktionary.org/wiki/Volkshochschule (Genus f)",
+       "home": "vocabulary",
+       "glossEvidence": "dict.cc: Volkshochschule = adult education centre; community college (checked 2026-10-05). The DW culture page names it without English."
+      },
+      {
+       "id": "der-integrationskurs",
+       "german": "der Integrationskurs",
+       "plural": "die Integrationskurse",
+       "english": "integration course",
+       "pos": "noun",
+       "lemma": "Integrationskurs",
+       "sense": "integration-course",
+       "origin": [
+        "dw-culture-page"
+       ],
+       "level": "beyond-A1",
+       "genderEvidence": "https://de.wiktionary.org/wiki/Integrationskurs (Genus m)",
+       "home": "vocabulary"
       }
      ],
      "pendingEntries": [],

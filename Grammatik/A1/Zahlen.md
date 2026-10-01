@@ -1,6 +1,6 @@
 # Zahlen: numbers 0–1000 and over
 
-*die Zahl* (number) · A1 · from VHS A1 Lektion 2 and DW A1 E2 L1 *Zahlen von 1 bis 100*, E2 L2 *Wichtige Nummern*, E2 L4 *Auf dem Amt* · checked 2026-09-30
+*die Zahl* (number) · A1 · from VHS A1 Lektion 2 and DW A1 E2 L1 *Zahlen von 1 bis 100*, E2 L2 *Wichtige Nummern*, E2 L4 *Auf dem Amt*, E3 L4 *Zahlen bitte!* · checked 2026-10-03
 
 ## The rule
 
@@ -21,6 +21,11 @@
 9. **Saying a long number**: say it whole, or digit by digit. The longer the number,
    the more usual it is to say the digits one by one. Phone and bank account numbers
    are said in single digits or in pairs.
+10. **Prices**: DW writes euros and cents with a comma: *40,50 Euro*. Say the euros,
+    then the cents, without *Cent*: *7,55 Euro* is said "7 Euro 55". Under one euro you
+    say *Cent*: *0,99 Euro* is "99 Cent". After a number, *Euro* and *Cent* have no
+    plural ending (DW glossary: *nach Zahl: Euro*, *nach Zahl: Cent*). *€* and *EUR*
+    are short for *Euro*.
 
 DW explains 11–100 in E2 L1 *Zahlen von 1 bis 100*:
 [Numbers from 11 to 19](https://learngerman.dw.com/en/numbers-from-11-to-19/l-37265621/gr-38307006) ·
@@ -76,6 +81,9 @@ Source: DW E2 L4 glossary (100–1000) and grammar pages (the hundreds, the thou
 | Das Fahrrad kostet achthundertvierunddreißig Euro. | [DW A1 E2 L4 · exercise](https://learngerman.dw.com/en/prices/l-37269629/e-37271600) |
 | Ich habe die Nummer eintausendfünfhundertzweiunddreißig. | [DW A1 E2 L4 · grammar page](https://learngerman.dw.com/en/saying-numbers/l-37269629/gr-38310279) |
 | Meine Telefonnummer ist fünfundzwanzig, siebenundsiebzig, vierundsechzig. | [DW A1 E2 L4 · grammar page](https://learngerman.dw.com/en/saying-numbers/l-37269629/gr-38310279) |
+| Das macht zusammen 40,50 Euro. | [DW A1 E3 L4 · script](https://learngerman.dw.com/downloads/52719590/nicos-weg-a1-e3-l4-manuskript-und-wortschatz-englisch.pdf) |
+| Der Kaffee kostet 2,99 Euro. | [DW A1 E3 L4 · exercise](https://learngerman.dw.com/en/the-coffee-costs/l-37280348/e-37283796) |
+| Sieben Euro fünfzig. | [DW A1 E3 L4 · exercise](https://learngerman.dw.com/en/the-bill/l-37280348/e-37283867) |
 
 In the first example the phone number is said one digit at a time; Lotte's number
 (43 87 55 62) is said in pairs. Repeated digits: *zweimal* (twice), *dreimal*
@@ -93,6 +101,7 @@ In the first example the phone number is said one digit at a time; Lotte's numbe
 | Dreiundreißig | dreiunddreißig | *drei* + *und* + *dreißig*: keep the d of *und*. | [my mistakes: Zahlen von 1 bis 100](<../../DW Deutsch lernen/A1/03_contact_details/01_Lesson_01/Materials/mistakes.md>) |
 | einundzweizig | einundzwanzig | 20 is irregular: *zwanzig*, not *zwei* + *-zig*. | [my mistakes: Zahlen von 1 bis 100](<../../DW Deutsch lernen/A1/03_contact_details/01_Lesson_01/Materials/mistakes.md>) |
 | achthunertvierunddreißig | achthundertvierunddreißig | *hundert* keeps its d: acht-hundert-vierunddreißig. | [my mistakes: Auf dem Amt](<../../DW Deutsch lernen/A1/03_contact_details/04_Lesson_04/Materials/mistakes.md>) |
+| 22.50 | 22,50 | Prices take a comma, not a point. | [my mistakes: Zahlen bitte!](<../../DW Deutsch lernen/A1/04_in_company/04_Lesson_04/Materials/mistakes.md>) |
 | siebenzehn | siebzehn | 17 drops the -en of *sieben*. | rule |
 | dreizig | dreißig | 30 is written with ß. | rule |
 | eins und zwanzig | einundzwanzig | One word, and *eins* becomes *ein-*. | rule |
@@ -107,12 +116,14 @@ In the first example the phone number is said one digit at a time; Lotte's numbe
   exercise [Numbers from 13 to 99](https://learngerman.dw.com/en/numbers-from-13-to-99/l-37265621/e-37267260)
 - DW (E2 L4): [Numbers over 100](https://learngerman.dw.com/en/numbers-over-100/l-37269629/gr-38309547) · [Numbers over 1000](https://learngerman.dw.com/en/numbers-over-1000/l-37269629/gr-38309923) · [Saying numbers](https://learngerman.dw.com/en/saying-numbers/l-37269629/gr-38310279) ·
   exercise [Prices](https://learngerman.dw.com/en/prices/l-37269629/e-37271600)
+- DW (E3 L4): exercises [Reading out sums of money](https://learngerman.dw.com/en/reading-out-sums-of-money/l-37280348/e-37282836) ·
+  [Euros and cents](https://learngerman.dw.com/en/euros-and-cents/l-37280348/e-37282330) · culture [Keep the change!](https://learngerman.dw.com/en/keep-the-change/l-37280348/rs-39371112)
 - Coming later: ordinal numbers (DW A1 E8 L2)
 
 ## Sentences cards
 
 - `time-nine`, `phone-number-pairs`, `how-many-people`, `my-phone-number`, `price-answer-834`,
-  `ticket-number-reply`. The number words themselves are in the Vocabulary deck (VHS Lektion 2,
+  `ticket-number-reply`, `total-together`, `say-price-750`. The number words themselves are in the Vocabulary deck (VHS Lektion 2,
   DW E2 L1, E2 L4).
 
 ## My rule in my own words
@@ -122,4 +133,5 @@ In the first example the phone number is said one digit at a time; Lotte's numbe
 My notes: [VHS Lektion 2](<../../VHS-Lernportal/A1/Lesson_02/lektion_02.md>) ·
 [Zahlen von 1 bis 100](<../../DW Deutsch lernen/A1/03_contact_details/01_Lesson_01/Zahlen von 1 bis 100.md>) ·
 [Wichtige Nummern](<../../DW Deutsch lernen/A1/03_contact_details/02_Lesson_02/Wichtige Nummern.md>) ·
-[Auf dem Amt](<../../DW Deutsch lernen/A1/03_contact_details/04_Lesson_04/Auf dem Amt.md>)
+[Auf dem Amt](<../../DW Deutsch lernen/A1/03_contact_details/04_Lesson_04/Auf dem Amt.md>) ·
+[Zahlen bitte!](<../../DW Deutsch lernen/A1/04_in_company/04_Lesson_04/Zahlen bitte.md>)

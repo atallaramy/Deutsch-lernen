@@ -1,6 +1,6 @@
 # haben: to have
 
-*das Verb haben* · irregular in two forms · A1 · from DW A1 E1 L4 *Nico hat ein Problem*, DW A1 E2 L1 and VHS A1 Lektion 2 · checked 2026-09-26
+*das Verb haben* · irregular in two forms · A1 · from DW A1 E1 L4 *Nico hat ein Problem*, DW A1 E2 L1, E3 L2 and VHS A1 Lektion 2 · checked 2026-10-02
 
 ## The rule
 
@@ -38,6 +38,8 @@ Source: DW grammar page *Conjugation: haben*; VHS Lektion 2 word list
 | **Haben** Sie Kinder? **Hast** du Kinder? | [VHS A1 L2 · phrase trainer](https://a1.vhs-lernportal.de/) |
 | Ich **habe** Geburtstag und mache eine Party. | [DW A1 E2 L1 · exercise](https://learngerman.dw.com/en/an-invitation/l-37265621/e-37271074) |
 | Lotte **hat** Geburtstag. | [DW A1 E2 L1 · exercise](https://learngerman.dw.com/en/an-invitation/l-37265621/e-37271074) |
+| Was ist mit dir, Nico? **Hast** du auch Durst? | [DW A1 E3 L2 · script](https://learngerman.dw.com/downloads/52719579/nicos-weg-a1-e3-l2-manuskript-und-wortschatz-englisch.pdf) |
+| **Habt** ihr Hunger? | [DW A1 E3 L2 · script](https://learngerman.dw.com/downloads/52719579/nicos-weg-a1-e3-l2-manuskript-und-wortschatz-englisch.pdf) |
 
 ## Common mistakes
 
@@ -57,11 +59,12 @@ Source: DW grammar page *Conjugation: haben*; VHS Lektion 2 word list
 
 ## Sentences cards
 
-- `nico-has-problem`, `have-problem-plural`, `how-many-children`, `lotte-has-birthday`
+- `nico-has-problem`, `have-problem-plural`, `how-many-children`, `lotte-has-birthday`, `hungry-ihr`
 
 ## My rule in my own words
 
 > …
 
 My notes: [Nico hat ein Problem](<../../DW Deutsch lernen/A1/02_meeting_people/04_Lesson_04/Nico hat Problem.md>) ·
-[VHS Lektion 2](<../../VHS-Lernportal/A1/Lesson_02/lektion_02.md>)
+[VHS Lektion 2](<../../VHS-Lernportal/A1/Lesson_02/lektion_02.md>) ·
+[Was trinkst du?](<../../DW Deutsch lernen/A1/04_in_company/02_Lesson_02/Was trinkst du.md>)

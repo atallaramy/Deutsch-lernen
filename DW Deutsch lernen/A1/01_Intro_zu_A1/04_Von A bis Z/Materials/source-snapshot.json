@@ -1,6 +1,6 @@
 {
  "description": "Official source text captured by ANKI/harvest_sources.py for offline context verification.",
- "harvestedOn": "2026-09-27",
+ "harvestedOn": "2026-10-04",
  "sources": [
   {
    "id": "exercises",
@@ -161,7 +161,8 @@
       "Emmas Mama fliegt nach Amerika.",
       "Das ist Lisa.",
       "Das ist Nico.",
-      "Das ist Emma."
+      "Das ist Emma.",
+      "Tip: Make a list with the names of all the people in the video: When you find out new information about a person, you can add it to the list."
      ],
      "vocabularyTags": []
     },
@@ -169,7 +170,10 @@
      "id": "e-42258457",
      "url": "https://learngerman.dw.com/en/how-do-you-write-this-1/l-37256418/e-42258457",
      "title": "How do you write this? (1)",
-     "texts": [],
+     "texts": [
+      "E M M A",
+      "N I C O"
+     ],
      "vocabularyTags": []
     },
     {
@@ -178,8 +182,11 @@
      "title": "How do you write this? (2)",
      "texts": [
       "Play audio",
+      "Nico González? Wie schreibt man das?",
       "Play audio",
-      "Play audio"
+      "Hallo, Yara. Wie schreibt man das? Mit Y? Bitte buchstabiere das.",
+      "Play audio",
+      "Noch einmal. Langsam bitte."
      ],
      "vocabularyTags": []
     },
@@ -189,7 +196,10 @@
      "title": "How do you write this? (3)",
      "texts": [
       "Bring die Buchstaben in die richtige Reihenfolge.",
-      "Bring die Buchstaben in die richtige Reihenfolge."
+      "A d r e s s e",
+      "Bring die Buchstaben in die richtige Reihenfolge.",
+      "Careful! The letter \"ß\" is always pronounced like an unvoiced \"s\", as in \"loose\". It is never voiced, as in \"result\".",
+      "S t r a ß e"
      ],
      "vocabularyTags": []
     },
@@ -237,7 +247,9 @@
       "Mein Name ist Lennard.",
       "Mein Name ist Sophie Meier.",
       "Hallo, wie ist dein Name?",
-      "Hallo, wie ist Ihr Name?"
+      "Careful! You only ask \"Wie ist dein Name?\" in informal situations. In formal situations, the question would be \"Wie ist Ihr Name?\".",
+      "Hallo, wie ist Ihr Name?",
+      "Info: If you don't know how to write something, you can ask „Wie schreibt man das?“, „Bitte buchstabiere das!“ or „Bitte buchstabieren Sie das!“ If someone is speaking too quickly, you can say „Langsam, bitte!“ or „Noch einmal, bitte!“."
      ],
      "vocabularyTags": []
     },
@@ -251,6 +263,7 @@
       "L - M - N - O - P - Q",
       "R – S – T – U – V – W",
       "X - Y - Z",
+      "Careful! \"Ä\", \"Ö\" and \"Ü\" are the three letters in German with umlauts. \"ß\" is a special character in German. It only occurs in the middle and at the end of a word.",
       "Ä – Ö – Ü – ß"
      ],
      "vocabularyTags": []
@@ -260,11 +273,17 @@
      "url": "https://learngerman.dw.com/en/spelling-names/l-37256418/e-42258525",
      "title": "Spelling names",
      "texts": [
+      "Info: If you don't know how to write something, you can ask „Wie schreibt man das?“.",
       "Emma? Wie schreibt man das?",
+      "E-M-M-A",
       "Lisa? Wie schreibt man das?",
+      "L-I-S-A",
       "Nico? Wie schreibt man das?",
+      "N-I-C-O",
       "Max? Wie schreibt man das?",
-      "Nina? Wie schreibt man das?"
+      "M-A-X",
+      "Nina? Wie schreibt man das?",
+      "N-I-N-A"
      ],
      "vocabularyTags": []
     },
@@ -278,9 +297,13 @@
       "USB",
       "DNA",
       "Play audio",
+      "New words: \"PKW\" (or \"Pkw\") is an abbreviation for \"Personenkraftwagen\" and refers to (passenger) cars. \"LKW\" (or \"Lkw\") stands for \"Lastkraftwagen\" (truck).",
       "Play audio",
+      "New words: The abbreviation \"AGB\" stands for \"Allgemeine Geschäftsbedingungen\" (general terms and conditions). \"ABC\" refers to the alphabet.",
       "Play audio",
-      "Play audio"
+      "New words: \"USA\" and \"USB\" are English abbreviations. They stand for the English terms \"United States of America\" and \"Universal Serial Bus\", but are pronounced as if they were German abbreviations.",
+      "Play audio",
+      "New words: The German abbreviation \"DNA\" corresponds to the abbreviation DNA. \"DRK\" stands for \"Deutsches Rotes Kreuz\" (the German Red Cross)."
      ],
      "vocabularyTags": []
     }

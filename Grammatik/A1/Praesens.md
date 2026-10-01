@@ -1,6 +1,6 @@
 # Präsens: regular verbs
 
-*das Präsens* (present tense) · A1 · from DW A1 E1 L3 *Woher kommst du?*, DW A1 E1 L4 *Nico hat ein Problem*, DW A1 E2 L2 *Wichtige Nummern* and VHS A1 Lektion 2 · checked 2026-09-27
+*das Präsens* (present tense) · A1 · from DW A1 E1 L3 *Woher kommst du?*, DW A1 E1 L4 *Nico hat ein Problem*, DW A1 E2 L2 *Wichtige Nummern*, DW A1 E3 L4 *Zahlen bitte!* and VHS A1 Lektion 2 · checked 2026-10-03
 
 ## The rule
 
@@ -49,8 +49,9 @@ in the du and er/sie/es forms:
 
 Source: DW glossaries (*spricht*, *hilft*); Wiktionary
 [sprechen](https://de.wiktionary.org/wiki/Flexion:sprechen) ·
-[helfen](https://de.wiktionary.org/wiki/Flexion:helfen). The full topic comes
-later: DW A1 E3 L3 *Vowel change: e to i* and E4 L4 *Conjugation: sprechen*.
+[helfen](https://de.wiktionary.org/wiki/Flexion:helfen). The full topic, with
+*nehmen* and *essen*: [Vokalwechsel](Vokalwechsel.md); *sprechen* comes again in
+DW A1 E4 L4 *Conjugation: sprechen*.
 
 ## Examples from my lessons
 
@@ -66,6 +67,7 @@ later: DW A1 E3 L3 *Vowel change: e to i* and E4 L4 *Conjugation: sprechen*.
 | Er **spricht** nicht gut Deutsch. | [DW A1 E1 L4 · exercise](https://learngerman.dw.com/en/nicos-problem/l-37265543/e-37266140) |
 | Nico **hört** Radio. | [DW A1 E2 L2 · exercise](https://learngerman.dw.com/en/what-are-lisa-and-nico-doing/l-37269501/e-37270313) |
 | Lisa **spricht** mit Lottes Mama. | [DW A1 E2 L2 · exercise](https://learngerman.dw.com/en/what-are-lisa-and-nico-doing/l-37269501/e-37270313) |
+| Ich **zahle** bar. Hier **sind** 45 Euro. | [DW A1 E3 L4 · script](https://learngerman.dw.com/downloads/52719590/nicos-weg-a1-e3-l4-manuskript-und-wortschatz-englisch.pdf) |
 | Wo **wohnen** Sie? Wo **wohnst** du? | [VHS A1 L2 · phrase trainer](https://a1.vhs-lernportal.de/) |
 
 ## Common mistakes
@@ -80,6 +82,7 @@ later: DW A1 E3 L3 *Vowel change: e to i* and E4 L4 *Conjugation: sprechen*.
 | Er helft. | Er hilft. | *helfen* changes e → i, like *sprechen*. | [my notes: Nico hat ein Problem (copy)](<../../DW Deutsch lernen/A1/02_meeting_people/04_Lesson_04/copy.md>) |
 | ihr erreichet | ihr erreicht | ihr adds only **-t**, like *ihr gebt*. *erreichet* is a Konjunktiv form. | [my mistakes: Wichtige Nummern](<../../DW Deutsch lernen/A1/03_contact_details/02_Lesson_02/Materials/mistakes.md>) |
 | wie erreichen | wir erreichen | The pronoun is *wir* (we); *wie* (how) is a question word. | [my mistakes: Wichtige Nummern](<../../DW Deutsch lernen/A1/03_contact_details/02_Lesson_02/Materials/mistakes.md>) |
+| Ich Zahle | Ich zahle | A verb takes a small letter; only nouns, *Sie* and the first word of a sentence are capitalised. | [my mistakes: Zahlen bitte!](<../../DW Deutsch lernen/A1/04_in_company/04_Lesson_04/Materials/mistakes.md>) |
 | du heißst | du heißt | The stem ends in -ß, so du adds only -t. | rule |
 | du arbeitst | du arbeitest | The stem ends in -t, so add -e- first. | rule |
 | sie kommen (to one stranger) | Sie kommen | The formal Sie always has a capital S. | rule |
@@ -98,6 +101,7 @@ later: DW A1 E3 L3 *Vowel change: e to i* and E4 L4 *Conjugation: sprechen*.
 - wohnen: `live-in-sevilla`, `where-live-informal`, `where-live-formal`
 - machen, studieren: `what-doing-informal`, `what-doing-formal`, `eva-studies`
 - sprechen: `compliment-german`, `speaks-not-well`, `she-speaks-chinese`, `they-speak-english`
+- zahlen: `pay-cash-reply`
 
 ## My rule in my own words
 

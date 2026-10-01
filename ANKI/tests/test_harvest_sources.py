@@ -40,6 +40,14 @@ class VocabularyPage(unittest.TestCase):
         html = '<p>Hallo!</p><figure class="x"><img alt="a"><figcaption><small>null DW</small></figcaption></figure>'
         self.assertEqual(harvest_sources.clean_text(html), "Hallo!")
 
+    def test_grammar_examples_in_image_alt_text_are_kept(self):
+        html = ('<p>Time detail: <em>jetzt</em></p><figure class="x"><img data-id="1" alt="Subject first: Ich bin '
+                'jetzt in Deutschland.Time first: Jetzt bin ich in Deutschland."><figcaption><small>null DW</small>'
+                '</figcaption></figure>')
+        self.assertEqual(harvest_sources.clean_text(harvest_sources.figure_alt_paragraphs(html)),
+                         "Time detail: jetzt\nImage:\nSubject first: Ich bin jetzt in Deutschland.\n"
+                         "Time first: Jetzt bin ich in Deutschland.")
+
 
 class ExerciseTexts(unittest.TestCase):
     def test_read_aloud_lines_tips_and_correct_answers_are_kept(self):
@@ -54,6 +62,16 @@ class ExerciseTexts(unittest.TestCase):
         self.assertEqual(harvest_sources.exercise_texts(state),
                          ["Die Hausnummer ist 144.", "Play audio", "Ich wohne in Hamburg.", "Wo ist die Polizei?",
                           'Careful! "Ich wohne am Markt."'])
+
+    def test_sorting_answer_is_the_alternatives_in_order(self):
+        state = {
+            "Exercise:1": {"name": "Offering drinks", "inputText": None},
+            "Inquiry:2": {"inquiryType": "SORTING", "inquiryText": "Sortiere die Wörter.",
+                          "alternatives": [{"__ref": "Alternative:4"}, {"__ref": "Alternative:3"}]},
+            "Alternative:3": {"order": 2, "alternativeText": "trinkst du?"},
+            "Alternative:4": {"order": 1, "alternativeText": "Was"},
+        }
+        self.assertEqual(harvest_sources.exercise_texts(state), ["Sortiere die Wörter.", "Was trinkst du?"])
 
 
 @unittest.skipUnless(shutil.which("pandoc"), "pandoc is needed for lesson-pages.md")

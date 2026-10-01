@@ -181,12 +181,15 @@
    }
   },
   "Fahrradgeschäft|bicycle-store": {
-   "cue": "bicycle shop",
+   "cue": "bicycle shop (das …; not der Fahrradladen)",
    "context": {
     "lesson": "dw-a1-e1-l4",
     "source": "exercises",
     "text": "Yara hat ein Fahrradgeschäft."
-   }
+   },
+   "interferesWith": [
+    "Fahrradladen|bicycle-shop"
+   ]
   },
   "Familienname|surname": {
    "cue": "surname / last name (≠ Nachname)",
@@ -388,7 +391,11 @@
     "lesson": "vhs-a1-l02",
     "source": "vhs-a1-filmskripte",
     "text": "Herzlich willkommen bei „Nasrins Welt“!"
-   }
+   },
+   "cue": "Welcome! (warm greeting, two words)",
+   "interferesWith": [
+    "willkommen|welcome"
+   ]
   },
   "Herzlichen Glückwunsch zum Geburtstag|happy-birthday": {
    "cue": "Happy birthday! — the traditional German wish"
@@ -1071,11 +1078,15 @@
    }
   },
   "da|there": {
+   "cue": "there (the 2-letter word, not dort)",
    "context": {
     "lesson": "dw-a1-e0-l4",
     "source": "script",
     "text": "Sie arbeitet da."
-   }
+   },
+   "interferesWith": [
+    "dort|there"
+   ]
   },
   "dein|your": {
    "cue": "your (informal, du) — the form before der or das nouns"
@@ -1127,11 +1138,15 @@
    }
   },
   "gerade|at-the-moment": {
+   "cue": "at the moment, right now (one word)",
    "context": {
     "lesson": "dw-a1-e1-l1",
     "source": "script",
     "text": "Emma spinnt gerade."
-   }
+   },
+   "interferesWith": [
+    "im Moment|at-the-moment"
+   ]
   },
   "geschieden|divorced": {
    "cue": "Familienstand on a form: divorced"
@@ -1507,7 +1522,11 @@
     "lesson": "dw-a1-e1-l3",
     "source": "exercises",
     "text": "Nein, wir wohnen in Rio de Janeiro."
-   }
+   },
+   "cue": "to live (reside: in a city, at an address) — not leben",
+   "interferesWith": [
+    "leben|to-live"
+   ]
   },
   "wo|where": {
    "context": {
@@ -1753,6 +1772,1224 @@
     "text": "Aber ich werd’s rausfinden.",
     "target": "rausfinden"
    }
+  },
+  "Flugzeug|airplane": {
+   "context": {
+    "lesson": "dw-a1-e3-l1",
+    "source": "script",
+    "text": "Ja. Emmas Mutter sitzt im Flugzeug und Emma geht es gut, die ist bei Lotte."
+   }
+  },
+  "funktionieren|to-function": {
+   "cue": "to work, to function (of a device)"
+  },
+  "Getränk|drink": {
+   "cue": "a drink (noun)",
+   "context": {
+    "lesson": "dw-a1-e3-l1",
+    "source": "script",
+    "text": "Ja, trinken, ein Getränk!"
+   }
+  },
+  "wieder|again": {
+   "context": {
+    "lesson": "dw-a1-e3-l1",
+    "source": "script",
+    "text": "Ey ... Wow, die Lampe funktioniert wieder."
+   }
+  },
+  "willkommen|welcome": {
+   "cue": "welcome (one word)",
+   "context": {
+    "lesson": "dw-a1-e3-l1",
+    "source": "script",
+    "text": "Willkommen in der Wagnergasse!",
+    "target": "Willkommen"
+   },
+   "interferesWith": [
+    "Herzlich willkommen!|welcome"
+   ]
+  },
+  "es gibt|there-is": {
+   "context": {
+    "lesson": "dw-a1-e3-l1",
+    "source": "script",
+    "text": "Und es gibt eine Party?",
+    "target": "es gibt"
+   }
+  },
+  "klar|sure": {
+   "cue": "Sure! Of course! (a casual one-word yes)"
+  },
+  "sitzen|to-sit": {
+   "cue": "to sit; to be sitting (not: to sit down)"
+  },
+  "Fahrradladen|bicycle-shop": {
+   "cue": "bicycle shop (der …; not das Fahrradgeschäft)",
+   "context": {
+    "lesson": "dw-a1-e3-l1",
+    "source": "script",
+    "text": "Er hat gesagt, sie hat hier einen Fahrradladen."
+   },
+   "interferesWith": [
+    "Fahrradgeschäft|bicycle-store"
+   ]
+  },
+  "klappen|to-work-out": {
+   "cue": "to work out; to go well (colloquial)"
+  },
+  "Wohngemeinschaft|shared-apartment": {
+   "cue": "shared apartment; flat share"
+  },
+  "gern|gladly": {
+   "cue": "gladly, happily (short form, without -e)",
+   "interferesWith": [
+    "gerne|youre-welcome"
+   ]
+  },
+  "gerne|youre-welcome": {
+   "cue": "you're welcome; gladly (the form with -e)",
+   "interferesWith": [
+    "gern|gladly"
+   ]
+  },
+  "Bier|beer": {
+   "context": {
+    "lesson": "dw-a1-e3-l2",
+    "source": "script",
+    "text": "Also, ich nehm ein Bier."
+   }
+  },
+  "Cola|cola": {
+   "cue": "cola; coke (drink)"
+  },
+  "Eis|ice-cubes": {
+   "cue": "ice (cubes, in a drink)",
+   "context": {
+    "lesson": "dw-a1-e3-l2",
+    "source": "exercises",
+    "text": "Der Mann trinkt Cola mit Eis."
+   }
+  },
+  "Ich habe eine Idee.|i-have-an-idea": {
+   "cue": "I have an idea. (a full sentence)"
+  },
+  "lieber|rather": {
+   "context": {
+    "lesson": "dw-a1-e3-l2",
+    "source": "exercises",
+    "text": "Oder lieber ohne Zucker?"
+   }
+  },
+  "Limo|lemonade-short": {
+   "cue": "lemonade, soft drink (the short form)",
+   "interferesWith": [
+    "Limonade|lemonade"
+   ]
+  },
+  "Limonade|lemonade": {
+   "cue": "lemonade, soft drink (the full word)",
+   "interferesWith": [
+    "Limo|lemonade-short"
+   ]
+  },
+  "Milch|milk": {
+   "context": {
+    "lesson": "dw-a1-e3-l2",
+    "source": "exercises",
+    "text": "Ich trinke Kaffee. Mit viel Milch bitte."
+   }
+  },
+  "möchten|would-like": {
+   "cue": "would like (to)"
+  },
+  "ohne|without": {
+   "context": {
+    "lesson": "dw-a1-e3-l2",
+    "source": "exercises",
+    "text": "Die Frau trinkt Tee ohne Milch und Zucker."
+   }
+  },
+  "posten|to-post": {
+   "cue": "to post (online, e.g. a photo)",
+   "context": {
+    "lesson": "dw-a1-e3-l2",
+    "source": "script",
+    "text": "Wir … wir posten das Foto von Yara bei Book"
+   }
+  },
+  "Tee|tea": {
+   "context": {
+    "lesson": "dw-a1-e3-l2",
+    "source": "exercises",
+    "text": "Und ich möchte Tee mit Zucker bitte."
+   }
+  },
+  "viel|a-lot": {
+   "context": {
+    "lesson": "dw-a1-e3-l2",
+    "source": "exercises",
+    "text": "Der Mann trinkt Kaffee mit viel Milch."
+   }
+  },
+  "wenig|a-little": {
+   "context": {
+    "lesson": "dw-a1-e3-l2",
+    "source": "exercises",
+    "text": "Kaffee mit wenig Zucker und viel Milch"
+   }
+  },
+  "Zucker|sugar": {
+   "context": {
+    "lesson": "dw-a1-e3-l2",
+    "source": "exercises",
+    "text": "Ich nehme Kaffee mit Zucker."
+   }
+  },
+  "leben|to-live": {
+   "cue": "to live (be alive; spend your life somewhere) — not wohnen",
+   "context": {
+    "lesson": "dw-a1-e3-l2",
+    "source": "script",
+    "text": "Sie lebt in Deutschland.",
+    "target": "lebt"
+   },
+   "interferesWith": [
+    "wohnen|to-live"
+   ]
+  },
+  "Durst|thirst": {
+   "context": {
+    "lesson": "dw-a1-e3-l2",
+    "source": "script",
+    "text": "Hast du auch Durst?"
+   }
+  },
+  "Nomen|noun": {
+   "cue": "noun (grammar term)"
+  },
+  "Artikel|article-grammar": {
+   "cue": "article (grammar term: der, die, das)"
+  },
+  "Genus|grammatical-gender": {
+   "cue": "gender (grammar term: masculine, feminine, neuter)"
+  },
+  "Prost!|cheers": {
+   "cue": "Cheers! (when you raise your glasses)"
+  },
+  "Ananas|pineapple": {
+   "context": {
+    "lesson": "dw-a1-e3-l3",
+    "source": "script",
+    "text": "Das ist eine Pizza mit Ananas und Schinken."
+   }
+  },
+  "bestellen|to-order": {
+   "context": {
+    "lesson": "dw-a1-e3-l3",
+    "source": "exercises",
+    "text": "Guten Tag, ich möchte gern bestellen."
+   }
+  },
+  "essen|to-eat": {
+   "context": {
+    "lesson": "dw-a1-e3-l3",
+    "source": "script",
+    "text": "Hey, Nawin. Möchtest du etwas essen?"
+   }
+  },
+  "Käse|cheese": {
+   "context": {
+    "lesson": "dw-a1-e3-l3",
+    "source": "exercises",
+    "text": "Eine Pizza mit Tomaten und Käse bitte."
+   }
+  },
+  "lieben|to-love": {
+   "cue": "to love; to like (something or somebody)"
+  },
+  "Salami|salami": {
+   "context": {
+    "lesson": "dw-a1-e3-l3",
+    "source": "script",
+    "text": "Ich nehme eine Pizza mit Salami bitte."
+   }
+  },
+  "Salat|salad": {
+   "context": {
+    "lesson": "dw-a1-e3-l3",
+    "source": "exercises",
+    "text": "Und nehmt ihr auch Salat?"
+   }
+  },
+  "Schinken|ham": {
+   "context": {
+    "lesson": "dw-a1-e3-l3",
+    "source": "exercises",
+    "text": "Ja, eine Pizza mit Ananas, aber ohne Schinken bitte."
+   }
+  },
+  "Thunfisch|tuna": {
+   "context": {
+    "lesson": "dw-a1-e3-l3",
+    "source": "script",
+    "text": "Ich möchte eine Pizza mit Thunfisch."
+   }
+  },
+  "deshalb|therefore": {
+   "context": {
+    "lesson": "dw-a1-e3-l3",
+    "source": "script",
+    "text": "Nina liebt Ananas, sie ist aber Vegetarierin und deshalb nimmt sie die Pizza jedes Mal ohne Schinken."
+   },
+   "cue": "for that reason; because of that"
+  },
+  "immer|always": {
+   "context": {
+    "lesson": "dw-a1-e3-l3",
+    "source": "script",
+    "text": "Gut. Und ich nehm wie immer meine Pizza Hawaii ohne Schinken."
+   },
+   "note": "wie immer = as always"
+  },
+  "Nachricht|message": {
+   "context": {
+    "lesson": "dw-a1-e3-l3",
+    "source": "script",
+    "text": "Ach, eine Nachricht auf Book!"
+   }
+  },
+  "Lieblingsitaliener|favourite-italian-restaurant": {
+   "context": {
+    "lesson": "dw-a1-e3-l3",
+    "source": "script",
+    "text": "Hier, das ist die Speisekarte von unserem Lieblingsitaliener."
+   }
+  },
+  "einmal|one-order": {
+   "context": {
+    "lesson": "dw-a1-e3-l3",
+    "source": "exercises",
+    "text": "Ich nehme dreimal Pizza mit Salami und einmal mit Thunfisch."
+   },
+   "cue": "one order (of food) — when ordering"
+  },
+  "bar|in-cash": {
+   "cue": "in cash (paying)",
+   "context": {
+    "lesson": "dw-a1-e3-l4",
+    "source": "exercises",
+    "text": "Zahlt Lisa bar oder mit Karte?",
+    "target": "bar"
+   }
+  },
+  "bezahlen|to-pay-something": {
+   "cue": "to pay (for) something — the verb with be-",
+   "context": {
+    "lesson": "dw-a1-e3-l4",
+    "source": "exercises",
+    "text": "Lisa möchte im Café bezahlen.",
+    "target": "bezahlen"
+   },
+   "interferesWith": [
+    "zahlen|to-pay"
+   ]
+  },
+  "zahlen|to-pay": {
+   "cue": "to pay — the short verb, no prefix",
+   "context": {
+    "lesson": "dw-a1-e3-l4",
+    "source": "exercises",
+    "text": "Wir möchten bitte zahlen!",
+    "target": "zahlen"
+   },
+   "interferesWith": [
+    "bezahlen|to-pay-something"
+   ]
+  },
+  "Cent|cent": {
+   "cue": "cent (100 in a euro)"
+  },
+  "Das stimmt so.|keep-the-change": {
+   "cue": "Keep the change. (paying: the rest is the tip)",
+   "context": {
+    "lesson": "dw-a1-e3-l4",
+    "source": "script",
+    "text": "Hier sind 45 Euro. Das stimmt so.",
+    "target": "Das stimmt so"
+   },
+   "interferesWith": [
+    "Stimmt.|true"
+   ]
+  },
+  "Du bist eingeladen!|its-my-treat": {
+   "cue": "It's my treat! (to a friend, du)",
+   "context": {
+    "lesson": "dw-a1-e3-l4",
+    "source": "script",
+    "text": "Und du bist eingeladen!",
+    "target": "du bist eingeladen"
+   }
+  },
+  "Essen|food": {
+   "cue": "food; the meal (the noun)",
+   "interferesWith": [
+    "essen|to-eat"
+   ]
+  },
+  "Gast|guest": {
+   "context": {
+    "lesson": "dw-a1-e3-l4",
+    "source": "exercises",
+    "text": "Der Gast zahlt ein Wasser und eine Pizza mit Tomaten und Käse.",
+    "target": "Gast"
+   }
+  },
+  "Kellner|waiter": {
+   "context": {
+    "lesson": "dw-a1-e3-l4",
+    "source": "exercises",
+    "text": "Der Kellner sagt \"Auf Wiedersehen\".",
+    "target": "Kellner"
+   }
+  },
+  "Kellnerin|waitress": {
+   "cue": "waitress; server (female)"
+  },
+  "Rechnung|bill": {
+   "cue": "bill (in a restaurant); invoice",
+   "context": {
+    "lesson": "dw-a1-e3-l4",
+    "source": "script",
+    "text": "Hier ist die Rechnung.",
+    "target": "Rechnung"
+   }
+  },
+  "Trinkgeld|tip": {
+   "cue": "tip (extra money for the service)",
+   "context": {
+    "lesson": "dw-a1-e3-l4",
+    "source": "exercises",
+    "text": "Der Gast gibt 1,50 Euro Trinkgeld.",
+    "target": "Trinkgeld"
+   }
+  },
+  "getrennt|separately": {
+   "cue": "separately (each person pays for themselves)",
+   "context": {
+    "lesson": "dw-a1-e3-l4",
+    "source": "exercises",
+    "text": "Zahlt Lisa zusammen oder getrennt?",
+    "target": "getrennt"
+   }
+  },
+  "Karte|card": {
+   "cue": "card (bank card, for paying)",
+   "context": {
+    "lesson": "dw-a1-e3-l4",
+    "source": "exercises",
+    "text": "Mit Karte bitte.",
+    "target": "Karte"
+   }
+  },
+  "Bestellung|order": {
+   "cue": "order (the food you ordered)",
+   "context": {
+    "lesson": "dw-a1-e3-l4",
+    "source": "script",
+    "text": "Guten Tag, Ihre Bestellung.",
+    "target": "Bestellung"
+   }
+  },
+  "bekommen|to-get": {
+   "cue": "to get; to receive"
+  },
+  "noch ein|another": {
+   "cue": "another; one more",
+   "context": {
+    "lesson": "dw-a1-e3-l4",
+    "source": "script",
+    "text": "Und noch eine Salami.",
+    "target": "noch eine"
+   }
+  },
+  "letzt-|last": {
+   "cue": "last",
+   "context": {
+    "lesson": "dw-a1-e3-l4",
+    "source": "script",
+    "text": "Das ist vielleicht die letzte Pizza, die ich hier essen werde.",
+    "target": "letzte"
+   }
+  },
+  "Stimmt.|true": {
+   "cue": "True! / That's right. (agreeing; one word)",
+   "interferesWith": [
+    "Das stimmt so.|keep-the-change"
+   ]
+  },
+  "weggehen|to-go-away": {
+   "cue": "to go away; to leave (separable verb)"
+  },
+  "Guten Appetit!|enjoy-your-meal": {
+   "cue": "Enjoy your meal! (said before eating)"
+  },
+  "besichtigen|to-visit-a-sight": {
+   "cue": "to visit and look around (a sight, a building)",
+   "context": {
+    "lesson": "dw-a1-e4-l1",
+    "source": "exercises",
+    "text": "Ich möchte das Haus der Geschichte und das Beethovenhaus besichtigen.",
+    "target": "besichtigen"
+   },
+   "interferesWith": [
+    "besuchen|to-visit"
+   ]
+  },
+  "besuchen|to-visit": {
+   "cue": "to visit (a person or a city)",
+   "context": {
+    "lesson": "dw-a1-e4-l1",
+    "source": "exercises",
+    "text": "Ich möchte gerne mal München besuchen.",
+    "target": "besuchen"
+   },
+   "interferesWith": [
+    "besichtigen|to-visit-a-sight"
+   ]
+  },
+  "deutsch|german-adjective": {
+   "cue": "German (the adjective)",
+   "context": {
+    "lesson": "dw-a1-e4-l1",
+    "source": "exercises",
+    "text": "Nawin und Nico sprechen über deutsche Städte.",
+    "target": "deutsche"
+   },
+   "interferesWith": [
+    "Deutsch|german"
+   ]
+  },
+  "Dom|cathedral": {
+   "context": {
+    "lesson": "dw-a1-e4-l1",
+    "source": "exercises",
+    "text": "Der Kölner Dom ist in Köln.",
+    "target": "Dom"
+   }
+  },
+  "dort|there": {
+   "cue": "there (the 4-letter word, not da)",
+   "interferesWith": [
+    "da|there"
+   ]
+  },
+  "fahren|to-drive": {
+   "context": {
+    "lesson": "dw-a1-e4-l1",
+    "source": "exercises",
+    "text": "Chi möchte nach Dresden fahren.",
+    "target": "fahren"
+   },
+   "interferesWith": [
+    "reisen|to-travel"
+   ]
+  },
+  "gestern|yesterday": {
+   "context": {
+    "lesson": "dw-a1-e4-l1",
+    "source": "exercises",
+    "text": "Wo waren Chi und ein Freund gestern?",
+    "target": "gestern"
+   }
+  },
+  "im Moment|at-the-moment": {
+   "cue": "at the moment (two words)",
+   "context": {
+    "lesson": "dw-a1-e4-l1",
+    "source": "exercises",
+    "text": "Wo ist Chi im Moment?",
+    "target": "im Moment"
+   },
+   "interferesWith": [
+    "gerade|at-the-moment"
+   ]
+  },
+  "noch nie|never": {
+   "cue": "never (never been somewhere) — two words",
+   "context": {
+    "lesson": "dw-a1-e4-l1",
+    "source": "exercises",
+    "text": "Er war noch nie in Heidelberg.",
+    "target": "noch nie"
+   }
+  },
+  "Österreich|austria": {
+   "context": {
+    "lesson": "dw-a1-e4-l1",
+    "source": "exercises",
+    "text": "Wien ist in Österreich.",
+    "target": "Österreich"
+   }
+  },
+  "Schloss|castle": {
+   "context": {
+    "lesson": "dw-a1-e4-l1",
+    "source": "exercises",
+    "text": "Das ist das Heidelberger Schloss.",
+    "target": "Schloss"
+   }
+  },
+  "schon mal|ever-before": {
+   "cue": "ever, before (been somewhere before) — two words",
+   "context": {
+    "lesson": "dw-a1-e4-l1",
+    "source": "script",
+    "text": "Aber Nina war schon mal in Berlin.",
+    "target": "schon mal"
+   },
+   "interferesWith": [
+    "schon|already"
+   ]
+  },
+  "Schweiz|switzerland": {
+   "cue": "Switzerland — the German name",
+   "context": {
+    "lesson": "dw-a1-e4-l1",
+    "source": "exercises",
+    "text": "Zürich ist in der Schweiz.",
+    "target": "Schweiz"
+   }
+  },
+  "Sehenswürdigkeit|tourist-attraction": {
+   "context": {
+    "lesson": "dw-a1-e4-l1",
+    "source": "script",
+    "text": "Das ist eine Sehenswürdigkeit in Köln: der Kölner Dom.",
+    "target": "Sehenswürdigkeit"
+   }
+  },
+  "toll|great": {
+   "cue": "great, wonderful (not super)"
+  },
+  "Tor|gate": {
+   "context": {
+    "lesson": "dw-a1-e4-l1",
+    "source": "exercises",
+    "text": "Das Brandenburger Tor ist in Berlin.",
+    "target": "Tor"
+   }
+  },
+  "Verabschiedung|farewell": {
+   "context": {
+    "lesson": "dw-a1-e4-l1",
+    "source": "exercises",
+    "text": "Begrüßung oder Verabschiedung?",
+    "target": "Verabschiedung"
+   }
+  },
+  "Vielen Dank für die Einladung!|thanks-for-the-invitation": {
+   "cue": "Many thanks for the invitation! (arriving at a party)"
+  },
+  "nächste Woche|next-week": {
+   "context": {
+    "lesson": "dw-a1-e4-l1",
+    "source": "script",
+    "text": "Nächste Woche fahre ich nach München!",
+    "target": "Nächste Woche"
+   }
+  },
+  "sogar|even": {
+   "context": {
+    "lesson": "dw-a1-e4-l1",
+    "source": "script",
+    "text": "Wir waren sogar am Brandenburger Tor.",
+    "target": "sogar"
+   }
+  },
+  "beide|both": {
+   "context": {
+    "lesson": "dw-a1-e4-l1",
+    "source": "script",
+    "text": "Wir beide waren schon mal in Berlin, ja.",
+    "target": "beide"
+   }
+  },
+  "reisen|to-travel": {
+   "cue": "to travel (go on a trip) — not fahren",
+   "context": {
+    "lesson": "dw-a1-e4-l1",
+    "source": "exercises",
+    "text": "Wohin möchtest du gerne mal reisen?",
+    "target": "reisen"
+   },
+   "interferesWith": [
+    "fahren|to-drive"
+   ]
+  },
+  "teuer|expensive": {
+   "context": {
+    "lesson": "dw-a1-e4-l1",
+    "source": "exercises",
+    "text": "Aber das ist so teuer.",
+    "target": "teuer"
+   }
+  },
+  "Köln|cologne": {
+   "context": {
+    "lesson": "dw-a1-e4-l1",
+    "source": "script",
+    "text": "Jetzt habe ich Geschenke aus Köln, Hamburg, Düsseldorf, Heidelberg und Berlin.",
+    "target": "Köln"
+   }
+  },
+  "München|munich": {
+   "context": {
+    "lesson": "dw-a1-e4-l1",
+    "source": "exercises",
+    "text": "Ja, ich war schon mal in München.",
+    "target": "München"
+   }
+  },
+  "Präteritum|simple-past": {
+   "cue": "simple past tense (grammar term)"
+  },
+  "gewinnen|to-win": {
+   "context": {
+    "lesson": "dw-a1-e4-l2",
+    "source": "script",
+    "text": "Komm jetzt! Wir gewinnen!",
+    "target": "gewinnen"
+   }
+  },
+  "Hauptstadt|capital-city": {
+   "context": {
+    "lesson": "dw-a1-e4-l2",
+    "source": "exercises",
+    "text": "Nein, die Hauptstadt heißt Stuttgart.",
+    "target": "Hauptstadt"
+   }
+  },
+  "in der Mitte (von)|in-the-middle-of": {
+   "context": {
+    "lesson": "dw-a1-e4-l2",
+    "source": "exercises",
+    "text": "Stuttgart ist die Hauptstadt und liegt in der Mitte von Baden-Württemberg.",
+    "target": "in der Mitte von"
+   }
+  },
+  "in der Nähe (von)|near": {
+   "context": {
+    "lesson": "dw-a1-e4-l2",
+    "source": "exercises",
+    "text": "Ja, Tübingen ist in der Nähe von Stuttgart.",
+    "target": "in der Nähe von"
+   }
+  },
+  "liegen|to-be-located": {
+   "cue": "to be located (a town, a region)",
+   "context": {
+    "lesson": "dw-a1-e4-l2",
+    "source": "exercises",
+    "text": "Kassel liegt im Norden von Hessen.",
+    "target": "liegt"
+   }
+  },
+  "Norden|north": {
+   "context": {
+    "lesson": "dw-a1-e4-l2",
+    "source": "exercises",
+    "text": "Schleswig-Holstein ist im Norden von Deutschland.",
+    "target": "Norden"
+   }
+  },
+  "Osten|east": {
+   "context": {
+    "lesson": "dw-a1-e4-l2",
+    "source": "exercises",
+    "text": "Sachsen ist im Osten von Deutschland.",
+    "target": "Osten"
+   }
+  },
+  "See|lake": {
+   "context": {
+    "lesson": "dw-a1-e4-l2",
+    "source": "exercises",
+    "text": "Und im Süden ist ein See.",
+    "target": "See"
+   }
+  },
+  "Süden|south": {
+   "context": {
+    "lesson": "dw-a1-e4-l2",
+    "source": "script",
+    "text": "Damaskus ist auch im Süden.",
+    "target": "Süden"
+   }
+  },
+  "Syrien|syria": {
+   "context": {
+    "lesson": "dw-a1-e4-l2",
+    "source": "script",
+    "text": "Im Süden von Syrien.",
+    "target": "Syrien"
+   }
+  },
+  "tanzen|to-dance": {
+   "context": {
+    "lesson": "dw-a1-e4-l2",
+    "source": "script",
+    "text": "Kommt, gehen wir tanzen!",
+    "target": "tanzen"
+   }
+  },
+  "Westen|west": {
+   "context": {
+    "lesson": "dw-a1-e4-l2",
+    "source": "exercises",
+    "text": "Duisburg ist im Westen von Deutschland.",
+    "target": "Westen"
+   }
+  },
+  "noch nicht|not-yet": {
+   "context": {
+    "lesson": "dw-a1-e4-l2",
+    "source": "script",
+    "text": "Nico spricht noch nicht so gut Deutsch.",
+    "target": "noch nicht"
+   }
+  },
+  "alle|everyone": {
+   "cue": "everybody, all (of you)",
+   "context": {
+    "lesson": "dw-a1-e4-l2",
+    "source": "script",
+    "text": "Okay, alle: Gewinnen!",
+    "target": "alle"
+   }
+  },
+  "Bundesland|federal-state": {
+   "context": {
+    "lesson": "dw-a1-e4-l2",
+    "source": "exercises",
+    "text": "Baden-Württemberg ist ein Bundesland.",
+    "target": "Bundesland"
+   }
+  },
+  "Himmelsrichtung|compass-direction": {
+   "context": {
+    "lesson": "dw-a1-e4-l2",
+    "source": "exercises",
+    "text": "Was ist richtig? Wähl die korrekte Himmelsrichtung aus.",
+    "target": "Himmelsrichtung"
+   }
+  },
+  "Südwesten|southwest": {
+   "context": {
+    "lesson": "dw-a1-e4-l2",
+    "source": "exercises",
+    "text": "Baden-Württemberg ist im Südwesten von Deutschland.",
+    "target": "Südwesten"
+   }
+  },
+  "Nordosten|northeast": {
+   "context": {
+    "lesson": "dw-a1-e4-l2",
+    "source": "exercises",
+    "text": "Mecklenburg-Vorpommern ist im Nordosten von Deutschland.",
+    "target": "Nordosten"
+   }
+  },
+  "Aussagesatz|declarative-sentence": {
+   "cue": "declarative sentence (grammar term: the verb is in second place)"
+  },
+  "Satzfrage|yes-no-question": {
+   "cue": "yes-no question (DW's grammar term)"
+  },
+  "Subjekt|grammatical-subject": {
+   "cue": "subject (grammar term)"
+  },
+  "bei uns|in-our-country": {
+   "cue": "in our country; where we come from — two words",
+   "context": {
+    "lesson": "dw-a1-e4-l3",
+    "source": "exercises",
+    "text": "Bei uns isst man gern Pizza und Pasta.",
+    "target": "Bei uns"
+   }
+  },
+  "cool|cool": {
+   "cue": "cool (informal: great) — the same word in German"
+  },
+  "Job|job": {
+   "context": {
+    "lesson": "dw-a1-e4-l3",
+    "source": "script",
+    "text": "Ich habe da einen Job.",
+    "target": "Job"
+   }
+  },
+  "mögen|to-like": {
+   "cue": "to like (something, someone) — not möchten",
+   "interferesWith": [
+    "möchten|would-like"
+   ]
+  },
+  "nächstes Jahr|next-year": {
+   "context": {
+    "lesson": "dw-a1-e4-l3",
+    "source": "script",
+    "text": "Nee, aber ich fahr nächstes Jahr nach Norwegen!",
+    "target": "nächstes Jahr"
+   }
+  },
+  "Schweden|sweden": {
+   "context": {
+    "lesson": "dw-a1-e4-l3",
+    "source": "exercises",
+    "text": "War Nawin schon mal in Schweden?",
+    "target": "Schweden"
+   }
+  },
+  "Spezialität|specialty": {
+   "context": {
+    "lesson": "dw-a1-e4-l3",
+    "source": "exercises",
+    "text": "Gazpacho ist eine Spezialität aus Spanien.",
+    "target": "Spezialität"
+   }
+  },
+  "verschieden|different": {
+   "cue": "different; various (adjective)"
+  },
+  "einfach|easy": {
+   "context": {
+    "lesson": "dw-a1-e4-l3",
+    "source": "script",
+    "text": "Das ist ja einfach!",
+    "target": "einfach"
+   }
+  },
+  "gehen|to-go": {
+   "cue": "to go (on foot); to walk",
+   "interferesWith": [
+    "fahren|to-drive"
+   ]
+  },
+  "gar nicht|not-at-all": {
+   "cue": "not at all — two words",
+   "context": {
+    "lesson": "dw-a1-e4-l3",
+    "source": "script",
+    "text": "Ja, gar nicht so schlecht!",
+    "target": "gar nicht"
+   }
+  },
+  "na ja|oh-well": {
+   "cue": "oh well … (hesitating, not quite happy) — two words",
+   "context": {
+    "lesson": "dw-a1-e4-l3",
+    "source": "script",
+    "text": "Na ja. Ich mag Deutschland.",
+    "target": "Na ja"
+   }
+  },
+  "Brot|bread": {
+   "context": {
+    "lesson": "dw-a1-e4-l3",
+    "source": "exercises",
+    "text": "In Deutschland isst man viel Brot und man trinkt gern Kaffee.",
+    "target": "Brot"
+   }
+  },
+  "Indefinitpronomen|indefinite-pronoun": {
+   "cue": "indefinite pronoun (grammar term, e.g. man)"
+  },
+  "Aufenthaltserlaubnis|residence-permit": {
+   "context": {
+    "lesson": "dw-a1-e4-l4",
+    "source": "script",
+    "text": "Sie hat noch keine Aufenthaltserlaubnis.",
+    "target": "Aufenthaltserlaubnis"
+   }
+  },
+  "bleiben|to-stay": {
+   "context": {
+    "lesson": "dw-a1-e4-l4",
+    "source": "script",
+    "text": "Darf Selma in Deutschland bleiben?",
+    "target": "bleiben"
+   }
+  },
+  "ein bisschen|a-little": {
+   "cue": "a little bit (a small amount) — two words",
+   "context": {
+    "lesson": "dw-a1-e4-l4",
+    "source": "script",
+    "text": "Englisch. Na ja ... ein bisschen.",
+    "target": "ein bisschen"
+   }
+  },
+  "Flüchtling|refugee": {
+   "context": {
+    "lesson": "dw-a1-e4-l4",
+    "source": "script",
+    "text": "Ja, sie ist ein Flüchtling.",
+    "target": "Flüchtling"
+   }
+  },
+  "Französisch|french": {
+   "context": {
+    "lesson": "dw-a1-e4-l4",
+    "source": "exercises",
+    "text": "Französisch spricht man auch in Frankreich.",
+    "target": "Französisch"
+   }
+  },
+  "Fremdsprache|foreign-language": {
+   "context": {
+    "lesson": "dw-a1-e4-l4",
+    "source": "exercises",
+    "text": "Muttersprache oder Fremdsprache?",
+    "target": "Fremdsprache"
+   }
+  },
+  "Italienisch|italian": {
+   "context": {
+    "lesson": "dw-a1-e4-l4",
+    "source": "exercises",
+    "text": "In Italien spricht man Italienisch.",
+    "target": "Italienisch"
+   }
+  },
+  "Muttersprache|native-language": {
+   "context": {
+    "lesson": "dw-a1-e4-l4",
+    "source": "exercises",
+    "text": "Nicos Muttersprache ist Spanisch.",
+    "target": "Muttersprache"
+   }
+  },
+  "nördlich|north-of": {
+   "cue": "to the north of (one word, used with von)"
+  },
+  "östlich|east-of": {
+   "cue": "to the east of (one word, used with von)",
+   "context": {
+    "lesson": "dw-a1-e4-l4",
+    "source": "exercises",
+    "text": "Tschechien liegt östlich von Deutschland.",
+    "target": "östlich"
+   }
+  },
+  "Russisch|russian": {
+   "context": {
+    "lesson": "dw-a1-e4-l4",
+    "source": "exercises",
+    "text": "In Russland spricht man Russisch.",
+    "target": "Russisch"
+   }
+  },
+  "schnell|fast": {
+   "context": {
+    "lesson": "dw-a1-e4-l4",
+    "source": "script",
+    "text": "Sie macht einen Deutschkurs und lernt sehr schnell.",
+    "target": "schnell"
+   }
+  },
+  "Schwedisch|swedish": {
+   "context": {
+    "lesson": "dw-a1-e4-l4",
+    "source": "exercises",
+    "text": "In Schweden spricht man Schwedisch.",
+    "target": "Schwedisch"
+   }
+  },
+  "südlich|south-of": {
+   "cue": "to the south of (one word, used with von)",
+   "context": {
+    "lesson": "dw-a1-e4-l4",
+    "source": "exercises",
+    "text": "Tschechien liegt südlich von Polen.",
+    "target": "südlich"
+   }
+  },
+  "Thai|thai": {
+   "context": {
+    "lesson": "dw-a1-e4-l4",
+    "source": "script",
+    "text": "Ich spreche Thai, Chinesisch, Englisch, Deutsch, Französisch und Italienisch.",
+    "target": "Thai"
+   }
+  },
+  "Thailand|thailand": {
+   "context": {
+    "lesson": "dw-a1-e4-l4",
+    "source": "script",
+    "text": "Ich komme aus Thailand.",
+    "target": "Thailand"
+   }
+  },
+  "westlich|west-of": {
+   "cue": "to the west of (one word, used with von)"
+  },
+  "Amtssprache|official-language": {
+   "context": {
+    "lesson": "dw-a1-e4-l4",
+    "source": "exercises",
+    "text": "In Österreich ist die Amtssprache Deutsch.",
+    "target": "Amtssprache"
+   }
+  },
+  "Nordwesten|northwest": {
+   "context": {
+    "lesson": "dw-a1-e4-l4",
+    "source": "exercises",
+    "text": "Im Westen und Nordwesten sind Luxemburg, Belgien und die Niederlande.",
+    "target": "Nordwesten"
+   }
+  },
+  "südwestlich|southwest-of": {
+   "cue": "to the southwest of (one word, used with von)",
+   "context": {
+    "lesson": "dw-a1-e4-l4",
+    "source": "exercises",
+    "text": "Das liegt südwestlich von Deutschland.",
+    "target": "südwestlich"
+   }
+  },
+  "Polen|poland": {
+   "context": {
+    "lesson": "dw-a1-e4-l4",
+    "source": "exercises",
+    "text": "Im Osten liegt Polen.",
+    "target": "Polen"
+   }
+  },
+  "Polnisch|polish": {
+   "context": {
+    "lesson": "dw-a1-e4-l4",
+    "source": "exercises",
+    "text": "Dort spricht man Polnisch.",
+    "target": "Polnisch"
+   }
+  },
+  "Tschechien|czechia": {
+   "context": {
+    "lesson": "dw-a1-e4-l4",
+    "source": "exercises",
+    "text": "Südlich von Polen liegt Tschechien.",
+    "target": "Tschechien"
+   }
+  },
+  "Tschechisch|czech": {
+   "context": {
+    "lesson": "dw-a1-e4-l4",
+    "source": "exercises",
+    "text": "Dort spricht man Tschechisch.",
+    "target": "Tschechisch"
+   }
+  },
+  "Niederländisch|dutch": {
+   "context": {
+    "lesson": "dw-a1-e4-l4",
+    "source": "exercises",
+    "text": "In den Niederlanden spricht man Niederländisch und Friesisch.",
+    "target": "Niederländisch"
+   }
+  },
+  "Belgien|belgium": {
+   "context": {
+    "lesson": "dw-a1-e4-l4",
+    "source": "exercises",
+    "text": "In Belgien spricht man Deutsch, Französisch und Niederländisch.",
+    "target": "Belgien"
+   }
+  },
+  "Dänemark|denmark": {
+   "context": {
+    "lesson": "dw-a1-e4-l4",
+    "source": "exercises",
+    "text": "Nördlich von Deutschland liegt Dänemark.",
+    "target": "Dänemark"
+   }
+  },
+  "Dänisch|danish": {
+   "context": {
+    "lesson": "dw-a1-e4-l4",
+    "source": "exercises",
+    "text": "Dort ist die Amtssprache Dänisch.",
+    "target": "Dänisch"
+   }
+  },
+  "Brille|eyeglasses": {
+   "context": {
+    "lesson": "dw-a1-e5-l1",
+    "source": "script",
+    "text": "Wo ist meine Brille?",
+    "target": "Brille"
+   },
+   "note": "One pair of glasses is one Brille: singular in German."
+  },
+  "die|the-plural": {
+   "context": {
+    "lesson": "dw-a1-e5-l1",
+    "source": "exercises",
+    "text": "Das sind die Bücher.",
+    "target": "die"
+   }
+  },
+  "Lehrerin|teacher-female": {
+   "context": {
+    "lesson": "dw-a1-e5-l1",
+    "source": "script",
+    "text": "Lisa ist Lehrerin.",
+    "target": "Lehrerin"
+   }
+  },
+  "Sprachschule|language-school": {
+   "context": {
+    "lesson": "dw-a1-e5-l1",
+    "source": "script",
+    "text": "Lisa gibt Deutschkurse in einer Sprachschule.",
+    "target": "Sprachschule"
+   }
+  },
+  "Papier|paper": {
+   "cue": "paper (the material, for writing on)",
+   "interferesWith": [
+    "Papier|document"
+   ]
+  },
+  "Wie heißt das auf Deutsch?|what-is-that-in-german": {
+   "cue": "What does that mean in German? — asking for the German word for a thing"
+  },
+  "Unterricht|lesson": {
+   "context": {
+    "lesson": "dw-a1-e5-l1",
+    "source": "script",
+    "text": "Und nach dem Unterricht fahren wir zu Yara, okay?",
+    "target": "Unterricht"
+   }
+  },
+  "holen|to-fetch": {
+   "cue": "to fetch; to go and get (someone or something)",
+   "interferesWith": [
+    "bekommen|to-get"
+   ]
+  },
+  "echt|really": {
+   "cue": "really (casual)",
+   "context": {
+    "lesson": "dw-a1-e5-l1",
+    "source": "script",
+    "text": "du bist echt die Beste!",
+    "target": "echt"
+   }
+  },
+  "Volkshochschule|adult-education-centre": {
+   "cue": "adult education centre (in nearly every German city)"
   }
  }
 }

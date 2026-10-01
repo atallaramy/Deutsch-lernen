@@ -31,8 +31,12 @@
 
 ## Workspace notes (nothing changed; your call)
 
+- DW snapshots made before E3 L2 lack the answers of word-order (sorting) exercises;
+  the harvester reads them since 2026-10-02. Rerun `harvest_sources.py --lesson ID`
+  for an older lesson only if it needs them.
+
 - `DW Deutsch lernen/A1/a1-script-vocabulary-manifest.json` still points to the
-  old folder names (`A1/02/…`, `A1/03/…`). **Do not rerun**
+  old folder names (`A1/02/…` to `A1/06/…`). **Do not rerun**
   `ANKI/download_nicos_weg_a1_materials.py` as it is. It would create a second
   set of `02/`, `03/`… folders. It needs a folder-name mapping first; ask Claude.
 - Clear duplicates (identical bytes):

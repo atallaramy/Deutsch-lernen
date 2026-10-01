@@ -1,6 +1,6 @@
 {
  "description": "Official source text captured by ANKI/harvest_sources.py for offline context verification.",
- "harvestedOn": "2026-09-27",
+ "harvestedOn": "2026-10-04",
  "sources": [
   {
    "id": "exercises",
@@ -78,7 +78,8 @@
      "url": "https://learngerman.dw.com/en/and-how-are-you-1/l-37251033/e-37255725",
      "title": "And how are you? (1)",
      "texts": [
-      "Hallo, wie geht’s dir?"
+      "Hallo, wie geht’s dir?",
+      "Hallo. Danke, gut …?"
      ],
      "vocabularyTags": []
     },
@@ -87,7 +88,8 @@
      "url": "https://learngerman.dw.com/en/and-how-are-you-2/l-37251033/e-37255843",
      "title": "And how are you? (2)",
      "texts": [
-      "Guten Morgen. Wie geht es Ihnen?"
+      "Guten Morgen. Wie geht es Ihnen?",
+      "Guten Morgen. Danke, gut ...?"
      ],
      "vocabularyTags": []
     },
@@ -150,8 +152,12 @@
      "title": "Goodbye",
      "texts": [
       "Play audio",
+      "Say goodbye and wish a good trip.",
       "Play audio",
-      "Play audio"
+      "Say goodbye.",
+      "New words: Instead of „Danke“ you can also say „Vielen Dank“ or „Danke schön“",
+      "Play audio",
+      "Say thank you and say \"see you soon\"."
      ],
      "vocabularyTags": []
     },
@@ -163,6 +169,7 @@
       "Auf Wiedersehen, Herr Tillmanns. Gute Reise!",
       "Mach’s gut, Herbert. Bis bald.",
       "Welcher Text passt zum Bild?",
+      "Did you know? \"Auf Wiedersehen\" is a formal way of saying goodbye. In German, friends, family members, and close acquaintances bid each other farewell by saying \"Tschüss\" or \"Ciao\". In situations where people shake hands, they usually say \"Auf Wiedersehen\".",
       "Welcher Text passt zum Bild?"
      ],
      "vocabularyTags": []
@@ -256,6 +263,7 @@
      "texts": [
       "Wie geht es dir?",
       "Play audio",
+      "Careful! All sentences begin with a capital letter. And don't forget the question mark at the end of a question and a period at the end of a statement.",
       "Es geht mir sehr gut.",
       "Play audio",
       "Es geht mir nicht so gut.",
@@ -271,9 +279,9 @@
      "title": "Informal and formal (2)",
      "texts": [
       "Informal and formal (2)",
-      "Saying goodbye: informal\nTschüss, Martina! – Mach's gut!\nBis bald! – Tschüss!\nThe informal expressions for saying goodbye are used with family, friends and acquaintances, and often with colleagues.\nFriends, acquaintances and family members are addressed by their first names.\nSaying goodbye: formal\nAuf Wiedersehen, Herr Tillmanns! – Auf Wiedersehen!\nThe formal expression for saying goodbye is used with unfamiliar adults, in business situations, with officials, and when shopping.\nMen are addressed formally as Herr followed by their surname, women as Frau followed by their surname.\nIf you are unsure whether to be formal or informal, use the formal expression for saying goodbye.\nGrammatical terms in German:\ninformell: Informal language is used when talking to family and friends.\nformell: Formal language is used in formal situations."
+      "Saying goodbye: informal\nImage:\nA man and a woman say goodbye by hugging.\nTschüss, Martina! – Mach's gut!\nBis bald! – Tschüss!\nThe informal expressions for saying goodbye are used with family, friends and acquaintances, and often with colleagues.\nFriends, acquaintances and family members are addressed by their first names.\nSaying goodbye: formal\nImage:\nMrs Kamp und Mr Müller greet each other formally by shaking hands.\nAuf Wiedersehen, Herr Tillmanns! – Auf Wiedersehen!\nThe formal expression for saying goodbye is used with unfamiliar adults, in business situations, with officials, and when shopping.\nMen are addressed formally as Herr followed by their surname, women as Frau followed by their surname.\nIf you are unsure whether to be formal or informal, use the formal expression for saying goodbye.\nGrammatical terms in German:\ninformell: Informal language is used when talking to family and friends.\nformell: Formal language is used in formal situations."
      ],
-     "html": "<p><strong>Saying goodbye: informal</strong></p>\n\n\n\n<p><em>Tschüss, Martina!</em> – <em>Mach's gut!</em></p>\n\n<p><em>Bis bald! – Tschüss!</em></p>\n\n<ul>\n\t<li>The informal expressions for saying goodbye are used with family, friends and acquaintances, and often with colleagues.</li>\n\t<li>Friends, acquaintances and family members are addressed by their first names.</li>\n</ul>\n\n<p>&#160;</p>\n\n<p><strong>Saying goodbye: formal</strong></p>\n\n\n\n<p><strong><span id=\"ck_editor_caret_marker\" style=\"display:none\"></span></strong></p>\n\n<p><em>Auf Wiedersehen, Herr Tillmanns! – Auf Wiedersehen!</em></p>\n\n<ul>\n\t<li>The formal expression for saying goodbye is used with unfamiliar adults, in business situations, with officials, and when shopping.</li>\n\t<li>Men are addressed formally as <em>Herr</em> followed by their surname, women as <em>Frau</em> followed by their surname.</li>\n\t<li>If you are unsure whether to be formal or informal, use the formal expression for saying goodbye.</li>\n</ul>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>Grammatical terms in German:</p>\n\n\t\t\t<p>informell:&#160;Informal language is used when talking to family and friends.</p>\n\n\t\t\t<p>formell:&#160;Formal language is used in formal situations.</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n"
+     "html": "<p><strong>Saying goodbye: informal</strong></p>\n\n<p>Image:</p><ul><li>A man and a woman say goodbye by hugging.</li></ul>\n\n<p><em>Tschüss, Martina!</em> – <em>Mach's gut!</em></p>\n\n<p><em>Bis bald! – Tschüss!</em></p>\n\n<ul>\n\t<li>The informal expressions for saying goodbye are used with family, friends and acquaintances, and often with colleagues.</li>\n\t<li>Friends, acquaintances and family members are addressed by their first names.</li>\n</ul>\n\n<p>&#160;</p>\n\n<p><strong>Saying goodbye: formal</strong></p>\n\n<p>Image:</p><ul><li>Mrs Kamp und Mr Müller greet each other formally by shaking hands.</li></ul>\n\n<p><strong><span id=\"ck_editor_caret_marker\" style=\"display:none\"></span></strong></p>\n\n<p><em>Auf Wiedersehen, Herr Tillmanns! – Auf Wiedersehen!</em></p>\n\n<ul>\n\t<li>The formal expression for saying goodbye is used with unfamiliar adults, in business situations, with officials, and when shopping.</li>\n\t<li>Men are addressed formally as <em>Herr</em> followed by their surname, women as <em>Frau</em> followed by their surname.</li>\n\t<li>If you are unsure whether to be formal or informal, use the formal expression for saying goodbye.</li>\n</ul>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>Grammatical terms in German:</p>\n\n\t\t\t<p>informell:&#160;Informal language is used when talking to family and friends.</p>\n\n\t\t\t<p>formell:&#160;Formal language is used in formal situations.</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n"
     },
     {
      "id": "rs-39371009",

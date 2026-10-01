@@ -17,13 +17,13 @@ choice. The rules are in `../AGENTS.md`, the reasons in `../docs/card-design.md`
 
 ```sh
 python3 ANKI/build_all.py check                 # validate data, verify every context (--lesson ID: list that lesson's cards)
-python3 ANKI/build_all.py package               # build all packages; refuses while the check has errors; lists what to import
+python3 ANKI/build_all.py package               # write the decks whose cards changed; refuses while the check has errors; lists what to import
 python3 -m unittest discover -s ANKI/tests      # tests
 python3 ANKI/harvest_sources.py --lesson ID     # network: snapshot a lesson's official sources into Materials/
 python3 ANKI/harvest_sources.py --pages         # offline: rewrite each DW lesson's Materials/lesson-pages.md
 ```
 
-`package` builds every deck twice and requires identical bytes. It validates
+`package` builds each deck twice and requires identical bytes. It validates
 SQLite integrity, note/card links and counts, empty media, the audio/TTS ban,
 one typed answer per template, and unique IDs across packages. It also
 confirms the pronunciation deck is unchanged, then writes the scan indexes.

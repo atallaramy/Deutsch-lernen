@@ -2,7 +2,8 @@
 """Single entry point for the German decks.
 
   python3 ANKI/build_all.py check [--lesson ID]    validate data and verify sources (--lesson: also list that lesson's cards)
-  python3 ANKI/build_all.py package                build every deck; refuses unless all checks pass; lists what to import
+  python3 ANKI/build_all.py package                write the decks whose cards changed; refuses unless all checks pass; lists what to import
+                                                   (--refresh-lesson ID: rebuild that lesson's deck, which is otherwise built once)
 
 Builds are deterministic: the same data produces byte-identical packages.
 """
@@ -169,41 +170,52 @@ def write_indexes(data: Data, cards: list[Card], results: dict[str, dict]) -> No
         (ANKI / f"{stem}-scan-index.json").write_text(json.dumps(index, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
 
-def cmd_package(data: Data) -> int:
+def package_specs(specs: list[DeckSpec], revision: str, refresh: set[str] = frozenset()) -> tuple[dict[Path, dict], list[Path]]:
+    """Write each package whose cards changed. Unchanged files and built lesson decks keep their bytes."""
+    results: dict[Path, dict] = {}
+    changed: list[Path] = []
+    all_ids: set = set()
+    with tempfile.TemporaryDirectory() as first, tempfile.TemporaryDirectory() as second:
+        for index, spec in enumerate(specs):
+            lesson = spec.guid_namespace.removeprefix("lesson:") if spec.guid_namespace.startswith("lesson:") else None
+            if lesson and spec.output.exists() and lesson not in refresh:
+                counts = validate_package(spec.output)  # a lesson deck is built once (learner, 2026-10-01)
+            else:
+                a, b = Path(first) / f"{index}.apkg", Path(second) / f"{index}.apkg"
+                write_package(spec, revision, a)
+                write_package(spec, revision, b)
+                if a.read_bytes() != b.read_bytes():
+                    raise RuntimeError(f"{spec.name}: build is not deterministic")
+                counts = validate_package(a, expected_cards=len(spec.notes))
+                if not spec.output.exists() or content_digest(spec.output) != content_digest(a):
+                    spec.output.parent.mkdir(parents=True, exist_ok=True)
+                    shutil.copyfile(a, spec.output)
+                    changed.append(spec.output)
+            ids = package_ids(spec.output)
+            if all_ids & ids:
+                raise RuntimeError(f"{spec.name}: note/card IDs collide with another package")
+            all_ids |= ids
+            results[spec.output] = {**counts, "sha256": hashlib.sha256(spec.output.read_bytes()).hexdigest()}
+    return results, changed
+
+
+def cmd_package(data: Data, refresh: list[str]) -> int:
     cards, errors, _ = collect(data)
+    unknown = sorted(set(refresh) - {lesson.id for lesson in data.lessons})
+    errors += [f"--refresh-lesson: unknown lesson {lesson!r}" for lesson in unknown]
     if errors:
         report(errors)
         print("Not packaged: fix the errors first.")
         return 1
     before = file_hashes(PRONUNCIATION_FILES)
-    specs = deck_specs(data, cards)
-    results: dict[str, dict] = {}
-    changed: list[str] = []
-    all_ids: set = set()
-    with tempfile.TemporaryDirectory() as first, tempfile.TemporaryDirectory() as second:
-        for spec in specs:
-            a, b = Path(first) / f"{len(results)}.apkg", Path(second) / f"{len(results)}.apkg"
-            write_package(spec, data.revision, a)
-            write_package(spec, data.revision, b)
-            if a.read_bytes() != b.read_bytes():
-                raise RuntimeError(f"{spec.name}: build is not deterministic")
-            counts = validate_package(a, expected_cards=len(spec.notes))
-            ids = package_ids(a)
-            if all_ids & ids:
-                raise RuntimeError(f"{spec.name}: note/card IDs collide with another package")
-            all_ids |= ids
-            results[str(spec.output.relative_to(ROOT))] = {**counts, "sha256": hashlib.sha256(a.read_bytes()).hexdigest()}
-            if not spec.output.exists() or content_digest(spec.output) != content_digest(a):
-                changed.append(str(spec.output.relative_to(ROOT)))
-            spec.output.parent.mkdir(parents=True, exist_ok=True)
-            shutil.copyfile(a, spec.output)
+    written, changed = package_specs(deck_specs(data, cards), data.revision, set(refresh))
     if file_hashes(PRONUNCIATION_FILES) != before:
         raise RuntimeError("The pronunciation resource changed during the build")
+    results = {str(path.relative_to(ROOT)): result for path, result in written.items()}
     write_indexes(data, cards, results)
     for path, result in results.items():
         print(f"{path}: {result['cards']} cards")
-    # A new revision stamp alone rewrites every file; only content changes need importing.
-    print("Import: " + (" · ".join(changed) if changed else "nothing (no card changed)"))
+    print("Import: " + (" · ".join(str(path.relative_to(ROOT)) for path in changed) if changed else "nothing (no card changed)"))
     return 0
 
 
@@ -212,7 +224,9 @@ def main(argv: list[str] | None = None) -> int:
     sub = parser.add_subparsers(dest="command")
     check = sub.add_parser("check")
     check.add_argument("--lesson", help="also list this lesson's cards: deck, key, German, cue → answer, warnings")
-    sub.add_parser("package")
+    package = sub.add_parser("package")
+    package.add_argument("--refresh-lesson", action="append", default=[], metavar="ID",
+                         help="rebuild this lesson's deck, e.g. to fix a card the learner reported in it")
     args = parser.parse_args(argv)
     try:
         data = load()
@@ -220,7 +234,7 @@ def main(argv: list[str] | None = None) -> int:
         print(f"ERROR  {problem}")
         return 1
     if args.command == "package":
-        return cmd_package(data)
+        return cmd_package(data, args.refresh_lesson)
     return cmd_check(data, getattr(args, "lesson", None))
 
 

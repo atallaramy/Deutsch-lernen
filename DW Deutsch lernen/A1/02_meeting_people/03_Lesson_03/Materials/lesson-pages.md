@@ -1,6 +1,6 @@
 # DW A1 E1 L3 · Woher kommst du?: vocabulary, grammar and culture pages
 
-Copied from learngerman.dw.com on 2026-09-27 by `ANKI/harvest_sources.py`; do not edit, rerun it. The same text is in `source-snapshot.json`.
+Copied from learngerman.dw.com on 2026-10-04 by `ANKI/harvest_sources.py`; do not edit, rerun it. The same text is in `source-snapshot.json`.
 
 ## Vocabulary
 
@@ -47,6 +47,10 @@ Copied from learngerman.dw.com on 2026-09-27 by `ANKI/harvest_sources.py`; do no
 <https://learngerman.dw.com/en/conjugation-present-tense-1/l-37263828/gr-38320838>
 
 In conjugation, the endings of the verbs often change. The ending depends on which person is doing the action. The ending comes after the verb stem.
+
+Image:
+
+- An example of verb conjugation: Ich komme aus Spanien.
 
  
 
