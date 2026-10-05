@@ -1,6 +1,6 @@
 {
  "schemaVersion": 3,
- "revision": "2026-10-04T22:37:00Z",
+ "revision": "2026-10-05T18:40:00Z",
  "policy": "Faithful capture of what the learner studied: official lesson glossaries, useful words and phrases from the official scripts and exercises, and items from the learner's notes. Official spelling is canonical; the learner's spelling is kept as learnerForm. Nothing captured is removed. pendingEntries wait for the learner's yes/no and are never built; declinedEntries record a learner's no.",
  "courses": [
   {
@@ -12447,6 +12447,659 @@
        ],
        "level": "beyond-A1",
        "genderEvidence": "https://de.wiktionary.org/wiki/Integrationskurs (Genus m)",
+       "home": "vocabulary"
+      }
+     ],
+     "pendingEntries": [],
+     "declinedEntries": []
+    },
+    {
+     "id": "dw-a1-e5-l2",
+     "legacyId": null,
+     "level": "A1",
+     "title": "Wem gehört das?",
+     "unit": 5,
+     "lesson": 2,
+     "url": "https://learngerman.dw.com/en/wem-gehört-das/l-37372077",
+     "notesFile": "DW Deutsch lernen/A1/06_living/02_Lesson_02/Wem gehört das.md",
+     "lessonDeck": {
+      "file": "DW Deutsch lernen/A1/06_living/02_Lesson_02/DW A1 E5L2 Wem gehört das - Vocabulary.apkg",
+      "deck": "Lessons::DW A1::E5 L2 Wem gehört das?"
+     },
+     "snapshot": "DW Deutsch lernen/A1/06_living/02_Lesson_02/Materials/source-snapshot.json",
+     "sources": [
+      {
+       "id": "script",
+       "kind": "dw-script-pdf",
+       "url": "https://learngerman.dw.com/downloads/52719652/nicos-weg-a1-e5-l2-manuskript-und-wortschatz-englisch.pdf",
+       "localFile": "DW Deutsch lernen/A1/06_living/02_Lesson_02/Materials/Script and vocabulary (English).pdf"
+      },
+      {
+       "id": "exercises",
+       "kind": "dw-exercises",
+       "url": "https://learngerman.dw.com/en/wem-gehört-das/l-37372077"
+      }
+     ],
+     "entries": [
+      {
+       "id": "die-bestellung",
+       "german": "die Bestellung",
+       "plural": "die Bestellungen",
+       "english": "order",
+       "pos": "noun",
+       "lemma": "Bestellung",
+       "sense": "order",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-deutschunterricht",
+       "german": "der Deutschunterricht",
+       "english": "German class",
+       "pos": "noun",
+       "lemma": "Deutschunterricht",
+       "sense": "german-class",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "note": "nur Singular",
+       "learnerForm": "der Deutschunderricht",
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-dialog",
+       "german": "der Dialog",
+       "plural": "die Dialoge",
+       "english": "dialogue; conversation",
+       "pos": "noun",
+       "lemma": "Dialog",
+       "sense": "dialogue",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "ein",
+       "german": "ein",
+       "english": "a/an (indefinite article)",
+       "pos": "article",
+       "lemma": "ein",
+       "sense": "a-an-masculine-neuter",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "dw-grammar-page"
+       ],
+       "note": "der Stift → ein Stift · das Buch → ein Buch · plural: no article (Stifte)",
+       "home": "vocabulary"
+      },
+      {
+       "id": "eine",
+       "german": "eine",
+       "english": "a/an (indefinite article)",
+       "pos": "article",
+       "lemma": "eine",
+       "sense": "a-an-feminine",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "dw-grammar-page"
+       ],
+       "note": "die Brille → eine Brille · plural: no article (Brillen)",
+       "home": "vocabulary"
+      },
+      {
+       "id": "falsch",
+       "german": "falsch",
+       "english": "wrong",
+       "pos": "word",
+       "lemma": "falsch",
+       "sense": "wrong",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-hausaufgabe",
+       "german": "die Hausaufgabe",
+       "plural": "die Hausaufgaben",
+       "english": "homework",
+       "pos": "noun",
+       "lemma": "Hausaufgabe",
+       "sense": "homework",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "note": "meist im Plural",
+       "home": "vocabulary"
+      },
+      {
+       "id": "etwas-hoeren",
+       "german": "(etwas) hören",
+       "english": "to listen to; to hear",
+       "pos": "verb",
+       "lemma": "hören",
+       "sense": "to-hear",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "forms": "hört, hörte, hat gehört",
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-jahr",
+       "german": "das Jahr",
+       "plural": "die Jahre",
+       "english": "year",
+       "pos": "noun",
+       "lemma": "Jahr",
+       "sense": "year",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-kursteilnehmer",
+       "german": "der Kursteilnehmer",
+       "plural": "die Kursteilnehmer",
+       "english": "course participant (male)",
+       "pos": "noun",
+       "lemma": "Kursteilnehmer",
+       "sense": "course-participant-male",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-kursteilnehmerin",
+       "german": "die Kursteilnehmerin",
+       "plural": "die Kursteilnehmerinnen",
+       "english": "course participant (female)",
+       "pos": "noun",
+       "lemma": "Kursteilnehmerin",
+       "sense": "course-participant-female",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "etwas-lernen",
+       "german": "(etwas) lernen",
+       "english": "to learn (something)",
+       "pos": "verb",
+       "lemma": "lernen",
+       "sense": "to-learn",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "forms": "lernt, lernte, hat gelernt",
+       "home": "vocabulary"
+      },
+      {
+       "id": "etwas-lesen",
+       "german": "(etwas) lesen",
+       "english": "to read (something)",
+       "pos": "verb",
+       "lemma": "lesen",
+       "sense": "to-read",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "dw-grammar-page",
+        "learner-notes"
+       ],
+       "forms": "liest, las, hat gelesen",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-nachmittag",
+       "german": "der Nachmittag",
+       "plural": "die Nachmittage",
+       "english": "afternoon",
+       "pos": "noun",
+       "lemma": "Nachmittag",
+       "sense": "afternoon",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-nachricht",
+       "german": "die Nachricht",
+       "plural": "die Nachrichten",
+       "english": "message",
+       "pos": "noun",
+       "lemma": "Nachricht",
+       "sense": "message",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-ordner",
+       "german": "der Ordner",
+       "plural": "die Ordner",
+       "english": "binder; folder",
+       "pos": "noun",
+       "lemma": "Ordner",
+       "sense": "binder",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-pause",
+       "german": "die Pause",
+       "plural": "die Pausen",
+       "english": "break",
+       "pos": "noun",
+       "lemma": "Pause",
+       "sense": "break",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "richtig",
+       "german": "richtig",
+       "english": "correct; right",
+       "pos": "word",
+       "lemma": "richtig",
+       "sense": "correct",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-satz",
+       "german": "der Satz",
+       "plural": "die Sätze",
+       "english": "sentence",
+       "pos": "noun",
+       "lemma": "Satz",
+       "sense": "sentence",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "learnerForm": "der Sats, die Sätze",
+       "home": "vocabulary"
+      },
+      {
+       "id": "etwas-schreiben",
+       "german": "(etwas) schreiben",
+       "english": "to write (something)",
+       "pos": "verb",
+       "lemma": "schreiben",
+       "sense": "to-write",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "forms": "schreibt, schrieb, hat geschrieben",
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-tafel",
+       "german": "die Tafel",
+       "plural": "die Tafeln",
+       "english": "board; chalkboard",
+       "pos": "noun",
+       "lemma": "Tafel",
+       "sense": "board",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "learnerForm": "TAFAL",
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-text",
+       "german": "der Text",
+       "plural": "die Texte",
+       "english": "text",
+       "pos": "noun",
+       "lemma": "Text",
+       "sense": "text",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "etwas-ueben",
+       "german": "(etwas) üben",
+       "english": "to practice (something)",
+       "pos": "verb",
+       "lemma": "üben",
+       "sense": "to-practice",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "forms": "übt, übte, hat geübt",
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "von",
+       "german": "von",
+       "english": "of",
+       "pos": "word",
+       "lemma": "von",
+       "sense": "of",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "note": "die Tasche von Jenny = Jenny's bag",
+       "home": "vocabulary"
+      },
+      {
+       "id": "etwas-wiederholen",
+       "german": "etwas wiederholen",
+       "english": "to repeat/revise/review something",
+       "pos": "verb",
+       "lemma": "wiederholen",
+       "sense": "to-repeat",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "forms": "wiederholt, wiederholte, hat wiederholt",
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-wort",
+       "german": "das Wort",
+       "plural": "die Wörter",
+       "english": "word",
+       "pos": "noun",
+       "lemma": "Wort",
+       "sense": "word",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-woerterbuch",
+       "german": "das Wörterbuch",
+       "plural": "die Wörterbücher",
+       "english": "dictionary",
+       "pos": "noun",
+       "lemma": "Wörterbuch",
+       "sense": "dictionary",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "zum-beispiel",
+       "german": "zum Beispiel",
+       "english": "for example; for instance",
+       "pos": "expression",
+       "lemma": "zum Beispiel",
+       "sense": "for-example",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises"
+       ],
+       "note": "Abkürzung: z. B.",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-stuhl",
+       "german": "der Stuhl",
+       "plural": "die Stühle",
+       "english": "chair",
+       "pos": "noun",
+       "lemma": "Stuhl",
+       "sense": "chair",
+       "origin": [
+        "dw-script"
+       ],
+       "level": "beyond-A1",
+       "genderEvidence": "https://de.wiktionary.org/wiki/Stuhl (Genus m, Nominativ Plural Stühle)",
+       "home": "vocabulary"
+      },
+      {
+       "id": "wem-gehoert-das",
+       "german": "Wem gehört das?",
+       "english": "Who does that belong to?",
+       "pos": "expression",
+       "lemma": "Wem gehört das?",
+       "sense": "who-does-that-belong-to",
+       "origin": [
+        "dw-script",
+        "learner-notes"
+       ],
+       "home": "sentences"
+      },
+      {
+       "id": "jetzt",
+       "german": "jetzt",
+       "english": "now",
+       "pos": "word",
+       "lemma": "jetzt",
+       "sense": "now",
+       "origin": [
+        "dw-script",
+        "learner-notes"
+       ],
+       "learnerForm": "yetzt",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-schueler",
+       "german": "der Schüler",
+       "plural": "die Schüler",
+       "english": "pupil (male)",
+       "pos": "noun",
+       "lemma": "Schüler",
+       "sense": "pupil-male",
+       "origin": [
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "genderEvidence": "https://de.wiktionary.org/wiki/Schüler (Genus m, Nominativ Plural Schüler)",
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-schuelerin",
+       "german": "die Schülerin",
+       "plural": "die Schülerinnen",
+       "english": "pupil (female)",
+       "pos": "noun",
+       "lemma": "Schülerin",
+       "sense": "pupil-female",
+       "origin": [
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "genderEvidence": "https://de.wiktionary.org/wiki/Schülerin (Genus f, Nominativ Plural Schülerinnen)",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-student",
+       "german": "der Student",
+       "plural": "die Studenten",
+       "english": "student (male)",
+       "pos": "noun",
+       "lemma": "Student",
+       "sense": "student",
+       "origin": [
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-studentin",
+       "german": "die Studentin",
+       "plural": "die Studentinnen",
+       "english": "student (female)",
+       "pos": "noun",
+       "lemma": "Studentin",
+       "sense": "student",
+       "origin": [
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "studierende",
+       "german": "Studierende",
+       "english": "students (gender-neutral)",
+       "pos": "noun",
+       "lemma": "Studierende",
+       "sense": "students-gender-neutral",
+       "origin": [
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "articles": "exempt:gender-varies",
+       "level": "beyond-A1",
+       "note": "DW: Studenten, Studentinnen or Studierende",
+       "home": "vocabulary"
+      },
+      {
+       "id": "kursteilnehmende",
+       "german": "Kursteilnehmende",
+       "english": "course attendees (gender-neutral)",
+       "pos": "noun",
+       "lemma": "Kursteilnehmende",
+       "sense": "course-attendees",
+       "origin": [
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "articles": "exempt:gender-varies",
+       "glossLookup": [
+        "Kurs",
+        "Teilnehmende"
+       ],
+       "level": "beyond-A1",
+       "note": "DW: Kursteilnehmer, Kursteilnehmerinnen or Kursteilnehmende",
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-sehenswuerdigkeit",
+       "german": "die Sehenswürdigkeit",
+       "plural": "die Sehenswürdigkeiten",
+       "english": "place of interest; tourist attraction",
+       "pos": "noun",
+       "lemma": "Sehenswürdigkeit",
+       "sense": "tourist-attraction",
+       "origin": [
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-bestimmte-artikel",
+       "german": "der bestimmte Artikel",
+       "english": "definite article",
+       "pos": "expression",
+       "lemma": "der bestimmte Artikel",
+       "sense": "definite-article",
+       "origin": [
+        "dw-grammar-page",
+        "learner-notes"
+       ],
+       "glossLookup": [
+        "bestimmter Artikel"
+       ],
+       "level": "beyond-A1",
+       "note": "der, die, das",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-unbestimmte-artikel",
+       "german": "der unbestimmte Artikel",
+       "english": "indefinite article",
+       "pos": "expression",
+       "lemma": "der unbestimmte Artikel",
+       "sense": "indefinite-article",
+       "origin": [
+        "dw-grammar-page",
+        "learner-notes"
+       ],
+       "glossLookup": [
+        "unbestimmter Artikel"
+       ],
+       "level": "beyond-A1",
+       "note": "ein, eine",
        "home": "vocabulary"
       }
      ],

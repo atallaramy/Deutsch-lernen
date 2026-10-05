@@ -28,8 +28,10 @@ official DW/VHS pages · the Sentences cards that practise it · my rule in my o
 | mein, dein, Ihr | [Possessivartikel](A1/Possessivartikel.md) | VHS L2 · DW E0 L4, E1 L3, E2 L2 |
 | Numbers 0–1000 and over | [Zahlen](A1/Zahlen.md) | VHS L2 · DW E2 L1, E2 L2, E2 L4, E3 L4 |
 | wohnen in, kommen aus, fahren nach: towns, streets, countries | [wohnen-in](A1/wohnen-in.md) | DW E1 L3, E2 L3, E4 L1–L2, E4 L4 · VHS L2 |
-| Noun gender and the definite article: der, die, das | [Genus](A1/Genus.md) | DW E3 L2, E3 L4, E5 L1 |
-| Vowel change e → i: nehmen, essen, sprechen | [Vokalwechsel](A1/Vokalwechsel.md) | DW E3 L3, E4 L4 |
+| Noun gender and the definite article: der, die, das | [Genus](A1/Genus.md) | DW E3 L2, E3 L4, E5 L1–L2 |
+| The indefinite article: ein, eine; ein or der? | [Unbestimmter-Artikel](A1/Unbestimmter-Artikel.md) | DW E5 L2 |
+| Noun plurals | [Plural](A1/Plural.md) | DW E5 L2 |
+| Vowel change e → i, e → ie: nehmen, essen, sprechen, lesen | [Vokalwechsel](A1/Vokalwechsel.md) | DW E3 L3, E4 L4, E5 L2 |
 | Simple past of sein: war | [Praeteritum](A1/Praeteritum.md) | DW E4 L1 |
 | man: people in general | [man](A1/man.md) | DW E4 L3 |
 | Statements: the verb in position 2 | [Aussagesatz](A1/Aussagesatz.md) | DW E4 L3 |
@@ -44,7 +46,7 @@ Built when I have studied the lesson. Topics from
   [Nico hat ein Problem](<../DW Deutsch lernen/A1/02_meeting_people/04_Lesson_04/Nico hat Problem.md>);
   its articles match Wiktionary.
 - **DW Nicos Weg A1** ([index](../docs/course-index/dw-nicos-weg-a1.md)):
-  - E5: indefinite articles (L2) · sentence construction: subject (L3) · adjectives after *sein* (L4)
+  - E5: sentence construction: subject (L3) · adjectives after *sein* (L4)
   - E6: articles (L1) · *nicht* (L2) · *zu* + adjective (L3) · possessive determiners (L4)
   - E7: 12-hour clock (L1) · separable verbs (L2) · *an* for time (L3) · sequence adverbs (L4)
   - E8: 24-hour clock (L1) · ordinal numbers (L2) · *können* (L3) · simple past of *haben* (L4)

@@ -1,8 +1,8 @@
 {
   "deck": "German A1 — Sentences",
-  "revision": "2026-10-04T22:37:00Z",
+  "revision": "2026-10-05T18:40:00Z",
   "qualityPolicy": "Productive sentences, replies, register switches and contextual forms from the lessons. No audio.",
-  "cards": 147,
+  "cards": 152,
   "sources": [
     {
       "id": "dw-a1-e0-l1",
@@ -278,6 +278,19 @@
       }
     },
     {
+      "id": "dw-a1-e5-l2",
+      "course": "dw-nicos-weg",
+      "title": "Wem gehört das?",
+      "url": "https://learngerman.dw.com/en/wem-gehört-das/l-37372077",
+      "notesFile": "DW Deutsch lernen/A1/06_living/02_Lesson_02/Wem gehört das.md",
+      "capturedEntries": 40,
+      "cards": {
+        "vocabulary": 39,
+        "articles": 22,
+        "sentences": 1
+      }
+    },
+    {
       "id": "vhs-a1-l02",
       "course": "vhs-lernportal",
       "title": "Lektion 2 · Meine Familie und ich",
@@ -306,9 +319,9 @@
   ],
   "packages": {
     "ANKI/sentences.apkg": {
-      "notes": 147,
-      "cards": 147,
-      "sha256": "14ec35d00a72ab1f21008bd704aa6caba951edf68b3436b574cc32c0838c6577"
+      "notes": 152,
+      "cards": 152,
+      "sha256": "f26684fdec7c1235f3906e629fd18086fa24e2059348acf2f42a08ae2d91e269"
     }
   }
 }

@@ -2990,6 +2990,157 @@
   },
   "Volkshochschule|adult-education-centre": {
    "cue": "adult education centre (in nearly every German city)"
+  },
+  "ein|a-an-masculine-neuter": {
+   "cue": "a, an — indefinite article for der- and das-nouns",
+   "context": {
+    "lesson": "dw-a1-e5-l2",
+    "source": "exercises",
+    "text": "Das ist ein Buch.",
+    "target": "ein"
+   },
+   "interferesWith": [
+    "eine|a-an-feminine"
+   ]
+  },
+  "eine|a-an-feminine": {
+   "cue": "a, an — indefinite article for die-nouns",
+   "context": {
+    "lesson": "dw-a1-e5-l2",
+    "source": "exercises",
+    "text": "Das ist eine Zahl.",
+    "target": "eine"
+   },
+   "interferesWith": [
+    "ein|a-an-masculine-neuter"
+   ]
+  },
+  "Deutschunterricht|german-class": {
+   "cue": "German class; German lessons",
+   "interferesWith": [
+    "Deutschkurs|german-course"
+   ]
+  },
+  "falsch|wrong": {
+   "cue": "wrong; incorrect (≠ richtig)"
+  },
+  "Hausaufgabe|homework": {
+   "context": {
+    "lesson": "dw-a1-e5-l2",
+    "source": "exercises",
+    "text": "Wir machen die Hausaufgaben.",
+    "target": "Hausaufgaben"
+   }
+  },
+  "Kursteilnehmer|course-participant-male": {
+   "cue": "course participant (a man)",
+   "interferesWith": [
+    "Kursteilnehmerin|course-participant-female",
+    "Kursteilnehmende|course-attendees"
+   ]
+  },
+  "Kursteilnehmerin|course-participant-female": {
+   "cue": "course participant (a woman)"
+  },
+  "Nachmittag|afternoon": {
+   "context": {
+    "lesson": "dw-a1-e5-l2",
+    "source": "exercises",
+    "text": "Am Nachmittag mache ich die Hausaufgaben.",
+    "target": "Nachmittag"
+   }
+  },
+  "Ordner|binder": {
+   "cue": "binder; folder (for papers)",
+   "context": {
+    "lesson": "dw-a1-e5-l2",
+    "source": "exercises",
+    "text": "Das ist ein Ordner.",
+    "target": "Ordner"
+   }
+  },
+  "Pause|break": {
+   "cue": "break (rest time, e.g. in class)",
+   "context": {
+    "lesson": "dw-a1-e5-l2",
+    "source": "exercises",
+    "text": "Wir machen eine Pause.",
+    "target": "Pause"
+   }
+  },
+  "Tafel|board": {
+   "cue": "board; chalkboard (in a classroom)",
+   "context": {
+    "lesson": "dw-a1-e5-l2",
+    "source": "script",
+    "text": "Das ist eine Tafel.",
+    "target": "Tafel"
+   }
+  },
+  "üben|to-practice": {
+   "context": {
+    "lesson": "dw-a1-e5-l2",
+    "source": "exercises",
+    "text": "Wir üben Wörter.",
+    "target": "üben"
+   }
+  },
+  "wiederholen|to-repeat": {
+   "cue": "to repeat; to revise (go over again)",
+   "context": {
+    "lesson": "dw-a1-e5-l2",
+    "source": "exercises",
+    "text": "Wir wiederholen die Nomen und die Artikel.",
+    "target": "wiederholen"
+   }
+  },
+  "Wörterbuch|dictionary": {
+   "context": {
+    "lesson": "dw-a1-e5-l2",
+    "source": "exercises",
+    "text": "Das ist ein Wörterbuch.",
+    "target": "Wörterbuch"
+   }
+  },
+  "zum Beispiel|for-example": {
+   "context": {
+    "lesson": "dw-a1-e5-l2",
+    "source": "exercises",
+    "text": "Ich spreche viel Deutsch, zum Beispiel im Deutschkurs, im Restaurant und mit Freunden.",
+    "target": "zum Beispiel"
+   }
+  },
+  "Schüler|pupil-male": {
+   "cue": "pupil at school (a boy or man)",
+   "interferesWith": [
+    "Student|student",
+    "Schülerin|pupil-female"
+   ]
+  },
+  "Schülerin|pupil-female": {
+   "cue": "pupil at school (a girl or woman)",
+   "interferesWith": [
+    "Studentin|student"
+   ]
+  },
+  "Studierende|students-gender-neutral": {
+   "cue": "students at university (the gender-neutral word)",
+   "interferesWith": [
+    "Student|student",
+    "Studentin|student"
+   ]
+  },
+  "Kursteilnehmende|course-attendees": {
+   "cue": "course participants (the gender-neutral word)"
+  },
+  "der bestimmte Artikel|definite-article": {
+   "cue": "definite article (German grammar term, with its article)",
+   "interferesWith": [
+    "der unbestimmte Artikel|indefinite-article"
+   ]
+  },
+  "der unbestimmte Artikel|indefinite-article": {
+   "cue": "indefinite article (German grammar term, with its article)"
   }
  }
 }

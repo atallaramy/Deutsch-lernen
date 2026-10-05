@@ -1,5 +1,5 @@
 {
- "revision": "2026-10-04T22:37:00Z",
+ "revision": "2026-10-05T18:40:00Z",
  "entries": {
   "dw-a1-e0-l1:auch": [
    "vocab:auch|also"
@@ -2777,6 +2777,148 @@
   "dw-a1-e5-l1:der-integrationskurs": [
    "article:Integrationskurs|m",
    "vocab:Integrationskurs|integration-course"
+  ],
+  "dw-a1-e5-l2:die-bestellung": [
+   "article:Bestellung|f",
+   "vocab:Bestellung|order"
+  ],
+  "dw-a1-e5-l2:der-deutschunterricht": [
+   "article:Deutschunterricht|m",
+   "vocab:Deutschunterricht|german-class"
+  ],
+  "dw-a1-e5-l2:der-dialog": [
+   "article:Dialog|m",
+   "vocab:Dialog|dialogue"
+  ],
+  "dw-a1-e5-l2:ein": [
+   "vocab:ein|a-an-masculine-neuter"
+  ],
+  "dw-a1-e5-l2:eine": [
+   "vocab:eine|a-an-feminine"
+  ],
+  "dw-a1-e5-l2:falsch": [
+   "vocab:falsch|wrong"
+  ],
+  "dw-a1-e5-l2:die-hausaufgabe": [
+   "article:Hausaufgabe|f",
+   "vocab:Hausaufgabe|homework"
+  ],
+  "dw-a1-e5-l2:etwas-hoeren": [
+   "vocab:hören|to-hear"
+  ],
+  "dw-a1-e5-l2:das-jahr": [
+   "article:Jahr|n",
+   "vocab:Jahr|year"
+  ],
+  "dw-a1-e5-l2:der-kursteilnehmer": [
+   "article:Kursteilnehmer|m",
+   "vocab:Kursteilnehmer|course-participant-male"
+  ],
+  "dw-a1-e5-l2:die-kursteilnehmerin": [
+   "article:Kursteilnehmerin|f",
+   "vocab:Kursteilnehmerin|course-participant-female"
+  ],
+  "dw-a1-e5-l2:etwas-lernen": [
+   "vocab:lernen|to-learn"
+  ],
+  "dw-a1-e5-l2:etwas-lesen": [
+   "vocab:lesen|to-read"
+  ],
+  "dw-a1-e5-l2:der-nachmittag": [
+   "article:Nachmittag|m",
+   "vocab:Nachmittag|afternoon"
+  ],
+  "dw-a1-e5-l2:die-nachricht": [
+   "article:Nachricht|f",
+   "vocab:Nachricht|message"
+  ],
+  "dw-a1-e5-l2:der-ordner": [
+   "article:Ordner|m",
+   "vocab:Ordner|binder"
+  ],
+  "dw-a1-e5-l2:die-pause": [
+   "article:Pause|f",
+   "vocab:Pause|break"
+  ],
+  "dw-a1-e5-l2:richtig": [
+   "vocab:richtig|correct"
+  ],
+  "dw-a1-e5-l2:der-satz": [
+   "article:Satz|m",
+   "vocab:Satz|sentence"
+  ],
+  "dw-a1-e5-l2:etwas-schreiben": [
+   "vocab:schreiben|to-write"
+  ],
+  "dw-a1-e5-l2:die-tafel": [
+   "article:Tafel|f",
+   "vocab:Tafel|board"
+  ],
+  "dw-a1-e5-l2:der-text": [
+   "article:Text|m",
+   "vocab:Text|text"
+  ],
+  "dw-a1-e5-l2:etwas-ueben": [
+   "vocab:üben|to-practice"
+  ],
+  "dw-a1-e5-l2:von": [
+   "vocab:von|of"
+  ],
+  "dw-a1-e5-l2:etwas-wiederholen": [
+   "vocab:wiederholen|to-repeat"
+  ],
+  "dw-a1-e5-l2:das-wort": [
+   "article:Wort|n",
+   "vocab:Wort|word"
+  ],
+  "dw-a1-e5-l2:das-woerterbuch": [
+   "article:Wörterbuch|n",
+   "vocab:Wörterbuch|dictionary"
+  ],
+  "dw-a1-e5-l2:zum-beispiel": [
+   "vocab:zum Beispiel|for-example"
+  ],
+  "dw-a1-e5-l2:der-stuhl": [
+   "article:Stuhl|m",
+   "vocab:Stuhl|chair"
+  ],
+  "dw-a1-e5-l2:wem-gehoert-das": [
+   "sentence:whose-is-that"
+  ],
+  "dw-a1-e5-l2:jetzt": [
+   "vocab:jetzt|now"
+  ],
+  "dw-a1-e5-l2:der-schueler": [
+   "article:Schüler|m",
+   "vocab:Schüler|pupil-male"
+  ],
+  "dw-a1-e5-l2:die-schuelerin": [
+   "article:Schülerin|f",
+   "vocab:Schülerin|pupil-female"
+  ],
+  "dw-a1-e5-l2:der-student": [
+   "article:Student|m",
+   "vocab:Student|student"
+  ],
+  "dw-a1-e5-l2:die-studentin": [
+   "article:Studentin|f",
+   "vocab:Studentin|student"
+  ],
+  "dw-a1-e5-l2:studierende": [
+   "vocab:Studierende|students-gender-neutral"
+  ],
+  "dw-a1-e5-l2:kursteilnehmende": [
+   "vocab:Kursteilnehmende|course-attendees"
+  ],
+  "dw-a1-e5-l2:die-sehenswuerdigkeit": [
+   "article:Sehenswürdigkeit|f",
+   "vocab:Sehenswürdigkeit|tourist-attraction"
+  ],
+  "dw-a1-e5-l2:der-bestimmte-artikel": [
+   "vocab:der bestimmte Artikel|definite-article"
+  ],
+  "dw-a1-e5-l2:der-unbestimmte-artikel": [
+   "vocab:der unbestimmte Artikel|indefinite-article"
   ],
   "vhs-a1-l02:die-familie": [
    "article:Familie|f",

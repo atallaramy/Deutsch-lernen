@@ -23,3 +23,13 @@ Was ist das?
 
 - (etwas) unterrichten: unterrichtet, unterrichtete, hat unterrichtet. 
 - Wie heißt das auf Deutsch? 
+
+
+- der bestimmte Artikel
+- der unbestimmte Artikel
+
+- ich lese, du liest, er/sie/es liest, wir lesen, ihr lest, sie (Sie) lesen
+
+- der Deutschunterricht. 
+- die Hausaufgabe, die Hausaufgaben. 
+- (etwas) hören.

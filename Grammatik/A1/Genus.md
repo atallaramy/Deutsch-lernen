@@ -1,6 +1,6 @@
 # Genus: der, die, das (noun gender and the definite article)
 
-*das Genus* · A1 · from DW A1 E3 L2 *Was trinkst du?*, E3 L4 *Zahlen bitte!* and E5 L1 *Was ist das?* · checked 2026-10-05
+*das Genus* · A1 · from DW A1 E3 L2 *Was trinkst du?*, E3 L4 *Zahlen bitte!*, E5 L1 *Was ist das?* and E5 L2 *Wem gehört das?* · checked 2026-10-05
 
 ## The rule
 
@@ -34,6 +34,7 @@ DW grammar page [Articles: definite](https://learngerman.dw.com/en/articles-defi
 | der Wein · der Zucker | die Speisekarte | |
 | der Kühlschrank · der Fahrradladen | | |
 | der Stift · der Bleistift · der Schlüssel | die Brille · die Sprachschule | das Buch · das Papier |
+| der Stuhl · der Ordner · der Nachmittag | die Tafel · die Pause · die Hausaufgabe | das Wörterbuch · das Wort · das Jahr |
 
 Plural: **die** Stifte, **die** Brillen, **die** Bücher.
 
@@ -56,6 +57,7 @@ Plural: **die** Stifte, **die** Brillen, **die** Bücher.
 | Wo sind **die** Stifte? – **Die** Stifte sind hier. | [DW A1 E5 L1 · grammar page](https://learngerman.dw.com/en/articles-definite/l-37368285/gr-38305882) |
 | Sie sucht **die** Brille, **die** Stifte und **das** Buch. | [DW A1 E5 L1 · script](https://learngerman.dw.com/downloads/52719650/nicos-weg-a1-e5-l1-manuskript-und-wortschatz-englisch.pdf) |
 | **Der** Schlüssel! | [DW A1 E5 L1 · script](https://learngerman.dw.com/downloads/52719650/nicos-weg-a1-e5-l1-manuskript-und-wortschatz-englisch.pdf) |
+| Nomen und Artikel gehören immer zusammen: **der** Stuhl, **die** Tafel, **das** Buch. | [DW A1 E5 L2 · script](https://learngerman.dw.com/downloads/52719652/nicos-weg-a1-e5-l2-manuskript-und-wortschatz-englisch.pdf) |
 
 ## Common mistakes
 
@@ -63,6 +65,7 @@ Plural: **die** Stifte, **die** Brillen, **die** Bücher.
 |---|---|---|---|
 | die Kaffee | der Kaffee | *-e* does not always mean *die*: *der Kaffee*, *der Tee*. | rule |
 | die Bier | das Bier | *die* is for feminine nouns and for every plural (*die Biere*). | rule |
+| Der Tafel. | Die Tafel. | Rana's first try in the script: *Tafel* is feminine. | rule |
 | Die drei Pizza | Die drei Pizzen | Three pizzas: the plural, *die Pizza → die Pizzen*. | [my mistakes: Zahlen bitte!](<../../DW Deutsch lernen/A1/04_in_company/04_Lesson_04/Materials/mistakes.md>) |
 | polizei | Polizei | A noun: capital letter (*die Polizei*). | [my mistakes: Adressen](<../../DW Deutsch lernen/A1/03_contact_details/03_Lesson_03/Materials/mistakes.md>) |
 | straße | Straße | A noun: capital letter (*die Straße*). | [my mistakes: Adressen](<../../DW Deutsch lernen/A1/03_contact_details/03_Lesson_03/Materials/mistakes.md>) |
@@ -75,7 +78,7 @@ Plural: **die** Stifte, **die** Brillen, **die** Bücher.
   exercises [The definite article (1)](https://learngerman.dw.com/en/the-definite-article-1/l-37279418/e-37282137),
   [The definite article (2)](https://learngerman.dw.com/en/the-definite-article-2/l-37279418/e-37282334)
 - DW: [Articles: definite](https://learngerman.dw.com/en/articles-definite/l-37368285/gr-38305882) (E5 L1) · exercise [Everyday objects (3)](https://learngerman.dw.com/en/everyday-objects-3/l-37368285/e-37369151)
-- Coming later: indefinite articles (DW A1 E5 L2) and plurals (VHS A1 Lektion 4)
+- Next: [ein, eine](Unbestimmter-Artikel.md) and [plurals](Plural.md) (DW A1 E5 L2)
 
 ## Sentences cards
 
@@ -88,4 +91,5 @@ The genders are practised in the Anki *Articles* deck.
 > …
 
 My notes: [Was trinkst du?](<../../DW Deutsch lernen/A1/04_in_company/02_Lesson_02/Was trinkst du.md>) ·
-[Was ist das?](<../../DW Deutsch lernen/A1/06_living/01_Lesson_01/Was ist das.md>)
+[Was ist das?](<../../DW Deutsch lernen/A1/06_living/01_Lesson_01/Was ist das.md>) ·
+[Wem gehört das?](<../../DW Deutsch lernen/A1/06_living/02_Lesson_02/Wem gehört das.md>)

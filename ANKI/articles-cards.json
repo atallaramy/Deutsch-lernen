@@ -287,6 +287,20 @@
     "source": "exercises",
     "text": "Wo ist der Notizblock?"
    }
+  },
+  "Stuhl": {
+   "context": {
+    "lesson": "dw-a1-e5-l2",
+    "source": "script",
+    "text": "der Stuhl, die Tafel, das Buch"
+   }
+  },
+  "Wörterbuch": {
+   "context": {
+    "lesson": "dw-a1-e5-l2",
+    "source": "script",
+    "text": "Das Wörterbuch hilft."
+   }
   }
  }
 }

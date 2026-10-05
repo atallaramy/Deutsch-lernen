@@ -2360,6 +2360,93 @@
     "source": "script"
    },
    "covers": []
+  },
+  {
+   "key": "whose-is-that",
+   "kind": "production",
+   "lesson": "dw-a1-e5-l2",
+   "skill": "asking who owns something",
+   "scene": "Point at a thing and ask who it belongs to (with das).",
+   "answer": "Wem gehört das?",
+   "answerSource": {
+    "lesson": "dw-a1-e5-l2",
+    "source": "script"
+   },
+   "covers": [
+    "dw-a1-e5-l2:wem-gehoert-das"
+   ],
+   "note": "Reply with von: die Tasche von Jenny."
+  },
+  {
+   "key": "that-is-jennys-bag",
+   "kind": "production",
+   "lesson": "dw-a1-e5-l2",
+   "skill": "definite article + von",
+   "scene": "Say that this is Jenny's bag (with von).",
+   "answer": "Das ist die Tasche von Jenny.",
+   "answerSource": {
+    "lesson": "dw-a1-e5-l2",
+    "source": "exercises"
+   },
+   "covers": [],
+   "note": "Any bag: eine Tasche · a known bag (Jenny's): die Tasche"
+  },
+  {
+   "key": "no-those-are-pens",
+   "kind": "response",
+   "lesson": "dw-a1-e5-l2",
+   "skill": "plural: no indefinite article",
+   "scene": "They are pens, not erasers. Answer.",
+   "prompt": {
+    "lesson": "dw-a1-e5-l2",
+    "source": "exercises",
+    "text": "Sind das Radiergummis?"
+   },
+   "answer": "Nein. Das sind Stifte.",
+   "answerSource": {
+    "lesson": "dw-a1-e5-l2",
+    "source": "exercises"
+   },
+   "covers": [],
+   "accept": [
+    "Nein, das sind Stifte."
+   ],
+   "note": "One: Das ist ein Stift. · More than one: Das sind Stifte (no article)."
+  },
+  {
+   "key": "what-you-learn-in-class",
+   "kind": "response",
+   "lesson": "dw-a1-e5-l2",
+   "skill": "plural nouns",
+   "scene": "Answer: you learn words and sentences.",
+   "prompt": {
+    "lesson": "dw-a1-e5-l2",
+    "source": "exercises",
+    "text": "Was lernst du im Deutschunterricht?"
+   },
+   "answer": "Ich lerne Wörter und Sätze.",
+   "answerSource": {
+    "lesson": "dw-a1-e5-l2",
+    "source": "exercises"
+   },
+   "covers": [],
+   "note": "das Wort → die Wörter · der Satz → die Sätze"
+  },
+  {
+   "key": "lesen-du-liest",
+   "kind": "completion",
+   "lesson": "dw-a1-e5-l2",
+   "skill": "vowel change e to ie",
+   "scene": "Ask a friend if they like reading (lesen, du).",
+   "prompt": {
+    "lesson": "dw-a1-e5-l2",
+    "source": "exercises",
+    "text": "Liest du gern?",
+    "target": "Liest"
+   },
+   "answer": "Liest",
+   "covers": [],
+   "note": "ich lese · du liest · er/sie/es liest: e → ie · ihr lest"
   }
  ]
 }

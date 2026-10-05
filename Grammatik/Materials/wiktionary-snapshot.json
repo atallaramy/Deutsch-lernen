@@ -145,6 +145,30 @@
     ]
    }
   },
+  "lesen": {
+   "url": "https://de.wiktionary.org/wiki/Flexion:lesen",
+   "fetchedOn": "2026-10-05",
+   "praesens": {
+    "1s": [
+     "lese"
+    ],
+    "2s": [
+     "liest"
+    ],
+    "3s": [
+     "liest"
+    ],
+    "1p": [
+     "lesen"
+    ],
+    "2p": [
+     "lest"
+    ],
+    "3p": [
+     "lesen"
+    ]
+   }
+  },
   "nehmen": {
    "url": "https://de.wiktionary.org/wiki/Flexion:nehmen",
    "fetchedOn": "2026-10-03",

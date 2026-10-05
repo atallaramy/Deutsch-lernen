@@ -1,8 +1,8 @@
 {
   "deck": "German A1 — Articles",
-  "revision": "2026-10-04T22:37:00Z",
+  "revision": "2026-10-05T18:40:00Z",
   "qualityPolicy": "Typed der/die/das for singular nouns. Plural and dependable gender patterns after answering. No audio.",
-  "cards": 266,
+  "cards": 278,
   "sources": [
     {
       "id": "dw-a1-e0-l1",
@@ -278,6 +278,19 @@
       }
     },
     {
+      "id": "dw-a1-e5-l2",
+      "course": "dw-nicos-weg",
+      "title": "Wem gehört das?",
+      "url": "https://learngerman.dw.com/en/wem-gehört-das/l-37372077",
+      "notesFile": "DW Deutsch lernen/A1/06_living/02_Lesson_02/Wem gehört das.md",
+      "capturedEntries": 40,
+      "cards": {
+        "vocabulary": 39,
+        "articles": 22,
+        "sentences": 1
+      }
+    },
+    {
       "id": "vhs-a1-l02",
       "course": "vhs-lernportal",
       "title": "Lektion 2 · Meine Familie und ich",
@@ -306,9 +319,9 @@
   ],
   "packages": {
     "ANKI/articles.apkg": {
-      "notes": 266,
-      "cards": 266,
-      "sha256": "841d44c9a23156cba57d851773a66405f4306232d7487e68aadd79a99042cc70"
+      "notes": 278,
+      "cards": 278,
+      "sha256": "5348a8f8c1c8529c947e66fb3d005122a0a3ecb0c948f2e7b5acc5b4a23b67bd"
     }
   }
 }

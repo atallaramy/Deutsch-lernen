@@ -1,12 +1,12 @@
-# Vokalwechsel: e → i (nehmen, essen, sprechen)
+# Vokalwechsel: e → i, e → ie (nehmen, essen, sprechen, lesen)
 
-*der Vokalwechsel* (vowel change) · A1 · from DW A1 E3 L3 *Eine Pizza bitte!* and E4 L4 *Andere Länder* · checked 2026-10-04
+*der Vokalwechsel* (vowel change) · A1 · from DW A1 E3 L3 *Eine Pizza bitte!*, E4 L4 *Andere Länder* and E5 L2 *Wem gehört das?* · checked 2026-10-05
 
 ## The rule
 
 German terms: *der Vokalwechsel* (vowel change), *der Verbstamm* (stem), *die Endung* (ending).
 
-1. In some irregular verbs the stem vowel **e** becomes **i** in two forms:
+1. In some irregular verbs the stem vowel **e** becomes **i** (or **ie**) in two forms:
    **du** and **er/sie/es**. All the other forms are regular.
 2. The endings stay the same as in the [Präsens](Praesens.md): *du nimm**st***, *er nimm**t***.
 3. *nehmen* also changes the letter after the vowel: *nehm-* → *nimm-*
@@ -15,27 +15,31 @@ German terms: *der Vokalwechsel* (vowel change), *der Verbstamm* (stem), *die En
 5. Do not confuse *er isst* (*essen*, eats) with *er ist* (*sein*, is).
 6. *sprechen* works the same way: *du sprichst, er spricht* (DW E4 L4). *helfen*
    (*du hilfst*) does too; its table is on the [Präsens](Praesens.md) page.
+7. *lesen* changes **e** to **ie**, spoken as a long *i*: *du liest, er liest* (DW E5 L2).
+   Like *essen*, its stem ends in **-s**, so du adds only **-t**: *du liest* = *er liest*.
 
 Source: DW grammar pages [Vowel change: e to i](https://learngerman.dw.com/en/vowel-change-e-to-i/l-37279261/gr-38306672) (E3 L3)
 and [Conjugation: sprechen](https://learngerman.dw.com/en/conjugation-sprechen/l-37337244/gr-38306997) (E4 L4);
+DW grammar page [Conjugation: lesen](https://learngerman.dw.com/en/conjugation-lesen/l-37372077/gr-38306055) (E5 L2);
 DW exercise tip [The order (2)](https://learngerman.dw.com/en/the-order-2/l-37279261/e-37287501) (*er isst* / *er ist*).
 
 ## Table
 
-| Person | essen | nehmen | sprechen |
-|---|---|---|---|
-| ich | esse | nehme | spreche |
-| du | isst | nimmst | sprichst |
-| er/sie/es | isst | nimmt | spricht |
-| wir | essen | nehmen | sprechen |
-| ihr | esst | nehmt | sprecht |
-| sie | essen | nehmen | sprechen |
-| Sie | essen | nehmen | sprechen |
+| Person | essen | nehmen | sprechen | lesen |
+|---|---|---|---|---|
+| ich | esse | nehme | spreche | lese |
+| du | isst | nimmst | sprichst | liest |
+| er/sie/es | isst | nimmt | spricht | liest |
+| wir | essen | nehmen | sprechen | lesen |
+| ihr | esst | nehmt | sprecht | lest |
+| sie | essen | nehmen | sprechen | lesen |
+| Sie | essen | nehmen | sprechen | lesen |
 
-Source: DW grammar pages *Vowel change: e to i* and *Conjugation: sprechen*; Wiktionary
+Source: DW grammar pages *Vowel change: e to i*, *Conjugation: sprechen* and *Conjugation: lesen*; Wiktionary
 [essen](https://de.wiktionary.org/wiki/Flexion:essen) ·
 [nehmen](https://de.wiktionary.org/wiki/Flexion:nehmen) ·
-[sprechen](https://de.wiktionary.org/wiki/Flexion:sprechen).
+[sprechen](https://de.wiktionary.org/wiki/Flexion:sprechen) ·
+[lesen](https://de.wiktionary.org/wiki/Flexion:lesen).
 
 ## Examples from my lessons
 
@@ -51,6 +55,8 @@ Source: DW grammar pages *Vowel change: e to i* and *Conjugation: sprechen*; Wik
 | Sie **spricht** sehr gut Deutsch! | [DW A1 E4 L4 · script](https://learngerman.dw.com/downloads/52719637/nicos-weg-a1-e4-l4-manuskript-und-wortschatz-englisch.pdf) |
 | Na, und Spanisch! Und du **sprichst** ein bisschen Deutsch. | [DW A1 E4 L4 · exercise](https://learngerman.dw.com/en/the-verb-sprechen/l-37337244/e-37340487) |
 | In Frankreich **spricht** man Französisch. | [DW A1 E4 L4 · exercise](https://learngerman.dw.com/en/nico-is-learning-german-countries-and-languages/l-37337244/e-37339631) |
+| **Liest** du gern? – Ja, ich **lese** gern. | [DW A1 E5 L2 · grammar page](https://learngerman.dw.com/en/conjugation-lesen/l-37372077/gr-38306055) |
+| Wir **lesen** Texte. | [DW A1 E5 L2 · exercise](https://learngerman.dw.com/en/describing-learning-activities-1/l-37372077/e-37433852) |
 
 In the script Nina says *ich nehm*, the spoken short form of *ich nehme*.
 
@@ -64,6 +70,7 @@ In the script Nina says *ich nehm*, the spoken short form of *ich nehme*.
 | du nehmst | du nimmst | e → i for du, and *h* → *mm*. | rule |
 | er esst | er isst | e → i for er/sie/es too. *esst* is the ihr form. | rule |
 | ihr nimmt | ihr nehmt | Only du and er/sie/es change. | rule |
+| er lest | er liest | e → ie for er/sie/es. *lest* is the ihr form. | rule |
 | Er ist eine Pizza. | Er isst eine Pizza. | *ist* = is (*sein*); *isst* = eats (*essen*). | rule |
 
 ## Official pages
@@ -76,15 +83,18 @@ In the script Nina says *ich nehm*, the spoken short form of *ich nehme*.
 - VHS: [Themen und Grammatik A1](https://www.vhs-lernportal.de/wws/bin/4007530-4015506-1-dvv_grammatiklisten_a1.pdf),
   Lektion 3 (not studied yet): *sprechen* · Lektion 4: *nehmen, essen*
 - DW (E4 L4): [Conjugation: sprechen](https://learngerman.dw.com/en/conjugation-sprechen/l-37337244/gr-38306997) · exercise [The verb "sprechen"](https://learngerman.dw.com/en/the-verb-sprechen/l-37337244/e-37340487)
+- DW (E5 L2): [Conjugation: lesen](https://learngerman.dw.com/en/conjugation-lesen/l-37372077/gr-38306055)
 
 ## Sentences cards
 
 - `nehmen-du-nimmst`, `nehmen-er-nimmt`, `essen-du-isst`, `ask-order-ihr`, `anything-else-tuna`
 - sprechen: `which-languages-du`, `speak-a-little-german`, `she-speaks-chinese`, `speaks-not-well`
+- lesen: `lesen-du-liest`
 
 ## My rule in my own words
 
 > …
 
 My notes: [Eine Pizza bitte!](<../../DW Deutsch lernen/A1/04_in_company/03_Lesson_03/Ein Pizza bitte.md>) ·
-[Andere Länder](<../../DW Deutsch lernen/A1/05_around_the_world/04_Lesson_04/Andere Länder.md>)
+[Andere Länder](<../../DW Deutsch lernen/A1/05_around_the_world/04_Lesson_04/Andere Länder.md>) ·
+[Was ist das?](<../../DW Deutsch lernen/A1/06_living/01_Lesson_01/Was ist das.md>) (*lesen*)

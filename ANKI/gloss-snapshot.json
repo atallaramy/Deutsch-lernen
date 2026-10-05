@@ -1676,6 +1676,26 @@
    "dictionary": "dict.cc",
    "fetchedOn": "2026-09-27"
   },
+  "Kurs": {
+   "url": "https://en.wiktionary.org/wiki/Kurs#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "course (direction)"
+    },
+    {
+     "pos": "Noun",
+     "text": "course (learning program), class"
+    },
+    {
+     "pos": "Noun",
+     "text": "exchange rate, market price"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-05"
+  },
   "Köln": {
    "url": "https://en.wiktionary.org/wiki/K%C3%B6ln#German",
    "status": 200,
@@ -2961,6 +2981,50 @@
    "dictionary": "dict.cc",
    "fetchedOn": "2026-09-25"
   },
+  "Schüler": {
+   "url": "https://en.wiktionary.org/wiki/Sch%C3%BCler#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "pupil, student, schoolboy"
+    },
+    {
+     "pos": "Noun",
+     "text": "disciple"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-05"
+  },
+  "Schülerin": {
+   "url": "https://en.wiktionary.org/wiki/Sch%C3%BClerin#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "schoolgirl, pupil, student (female)"
+    },
+    {
+     "pos": "Noun",
+     "text": "disciple (female)"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-05"
+  },
+  "Sehenswürdigkeit": {
+   "url": "https://en.wiktionary.org/wiki/Sehensw%C3%BCrdigkeit#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "something worth seeing, a sight, tourist attraction"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-05"
+  },
   "Semester": {
    "url": "https://en.wiktionary.org/wiki/Semester#German",
    "status": 200,
@@ -3249,6 +3313,78 @@
    ],
    "fetchedOn": "2026-09-25"
   },
+  "Student": {
+   "url": "https://en.wiktionary.org/wiki/Student#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "student (person attending lectures at a university; male or of unspecified sex)"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-05"
+  },
+  "Studentin": {
+   "url": "https://en.wiktionary.org/wiki/Studentin#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "female equivalent of Student (“person attending lectures at university”)"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-05"
+  },
+  "Studierende": {
+   "url": "https://en.wiktionary.org/wiki/Studierende#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "female equivalent of Studierender: female student"
+    },
+    {
+     "pos": "Noun",
+     "text": "inflection of Studierender:\nstrong nominative/accusative plural\nweak nominative singular"
+    },
+    {
+     "pos": "Noun",
+     "text": "strong nominative/accusative plural"
+    },
+    {
+     "pos": "Noun",
+     "text": "weak nominative singular"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-05"
+  },
+  "Stuhl": {
+   "url": "https://en.wiktionary.org/wiki/Stuhl#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "a chair (to sit on)"
+    },
+    {
+     "pos": "Noun",
+     "text": "a chair (professorship)"
+    },
+    {
+     "pos": "Noun",
+     "text": "a see (bishop's seat: bishopric)"
+    },
+    {
+     "pos": "Noun",
+     "text": "feces, stool"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-05"
+  },
   "Subjekt": {
    "url": "https://en.wiktionary.org/wiki/Subjekt#German",
    "status": 200,
@@ -3401,6 +3537,22 @@
     }
    ],
    "fetchedOn": "2026-09-25"
+  },
+  "Teilnehmende": {
+   "url": "https://www.dict.cc/?s=Teilnehmende",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "",
+     "text": "attendees"
+    },
+    {
+     "pos": "",
+     "text": "entry"
+    }
+   ],
+   "dictionary": "dict.cc",
+   "fetchedOn": "2026-10-05"
   },
   "Telefonnummer": {
    "url": "https://en.wiktionary.org/wiki/Telefonnummer#German",
@@ -3832,6 +3984,13 @@
    ],
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-28"
+  },
+  "Wem gehört das": {
+   "url": "https://www.dict.cc/?s=Wem+geh%C3%B6rt+das",
+   "status": 404,
+   "definitions": [],
+   "dictionary": "dict.cc",
+   "fetchedOn": "2026-10-05"
   },
   "Werbung": {
    "url": "https://en.wiktionary.org/wiki/Werbung#German",
@@ -4736,6 +4895,18 @@
    ],
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-27"
+  },
+  "bestimmter Artikel": {
+   "url": "https://en.wiktionary.org/wiki/bestimmter_Artikel#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "definite article"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-05"
   },
   "besuchen": {
    "url": "https://en.wiktionary.org/wiki/besuchen#German",
@@ -6331,6 +6502,26 @@
    ],
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-27"
+  },
+  "jetzt": {
+   "url": "https://en.wiktionary.org/wiki/jetzt#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Adverb",
+     "text": "now (at this moment, right now)"
+    },
+    {
+     "pos": "Adverb",
+     "text": "now, then (expressing a logical or temporal consequence)"
+    },
+    {
+     "pos": "Adverb",
+     "text": "now (unstressed and expletive, used for minor emphasis)"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-05"
   },
   "kein": {
    "url": "https://en.wiktionary.org/wiki/kein#German",
@@ -8224,6 +8415,18 @@
    ],
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-27"
+  },
+  "unbestimmter Artikel": {
+   "url": "https://en.wiktionary.org/wiki/unbestimmter_Artikel#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "indefinite article"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-05"
   },
   "unser": {
    "url": "https://en.wiktionary.org/wiki/unser#German",
