@@ -22,8 +22,10 @@ this spirit.
   learner's Markdown notes (directly in the folder, never inside `Materials/`),
   its lesson deck and a `Materials/` folder.
 - `Materials/` holds official materials (the DW script/vocabulary PDF of every
-  DW lesson, other verified official PDFs), `source-snapshot.json`,
-  `lesson-pages.md` and `mistakes.md`. New verified materials may be added.
+  DW lesson, the DW teacher guide of every processed DW lesson, other verified
+  official PDFs), `source-snapshot.json`, `lesson-pages.md` and `mistakes.md`.
+  New verified materials may be added. The DW activity book (A1–B1, one
+  activity per unit) is kept once in `DW Deutsch lernen/Materials/`.
   `lesson-pages.md` is the harvester's readable copy of a DW lesson's
   vocabulary, grammar and culture pages; never edit it by hand. A notes file
   found in `Materials/` moves up only after the learner's yes.
@@ -50,7 +52,9 @@ this spirit.
   done, without asking, and before changing builders, the data format or rule
   files. Other commits when the learner asks. Never push unless asked. Never
   commit secrets (`.env` is ignored). No history noise: commits made after the
-  last push are merged into one commit.
+  last push are merged into one commit. Before any commit that does not finish
+  a lesson, ask the learner how they want it (its own commit, or merged into
+  the unpushed one).
 
 ## Capture records
 
@@ -178,7 +182,11 @@ this spirit.
 Process a lesson only after the learner says they have studied it, one lesson
 at a time. Before capturing or building, read `docs/processing-a-lesson.md` in
 full and follow it: mistake rounds, read, snapshot, capture, curate, check,
-package, grammar book, tests, commit.
+package, grammar book, tests, commit, offer.
+
+After a DW lesson, offer a short list of what else the learner can do for it:
+tasks from its teacher guide and, for its unit, the activity book. Offers only;
+the learner chooses.
 
 ## Exam practice
 

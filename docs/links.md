@@ -23,10 +23,14 @@ of every VHS A1–B1 lesson.
 | Example A2 script PDF | <https://learngerman.dw.com/downloads/52723388/nicos-weg-a2-e0-l1-manuskript-und-wortschatz-englisch.pdf> | |
 | Example B1 script PDF (German) | <https://learngerman.dw.com/downloads/53486820/nicos-weg-b1-e0-l1-manuskript-und-wortschatz-deutsch.pdf> | |
 | Teacher guide + exercises, *Von A bis Z* | <https://static.dw.com/downloads/52719092/nicos-weg-a1-e0-l4-lehrerhandreichung-und-uebungen.pdf> | Saved in that lesson's `Materials/` |
+| Lesson ideas and exercises, every lesson (checked 2026-10-05) | Example E5 L1: <https://static.dw.com/downloads/52719651/nicos-weg-a1-e5-l1-lehrerhandreichung-und-uebungen.pdf> | On each lesson's *Other tools* page (`/l-<id>/le`); saved in each processed lesson's `Materials/`. German teacher notes + 3 printable worksheets with photos of the lesson's words; no answer key |
+| Exercise book A1–B1 (*Arbeitsbuch*, 2019; checked 2026-10-05) | <https://static.dw.com/downloads/59996334/nicos-weg-a1-b1-arbeitsbuch.pdf> | 100 pages: one classroom activity per unit (pairs/groups), phrase lists (*Redemittel*), picture cards with articles. Saved in `DW Deutsch lernen/Materials/` |
 
 How DW pages are built (useful for tooling): lesson pages end in `/l-<id>`.
 Each lesson has a vocabulary page (`/l-<id>/lv`), exercise pages (`/e-<id>`),
-grammar pages (`/gr-<id>`) and culture pages (`/rs-<id>`). Their data sits in
+grammar pages (`/gr-<id>`), culture pages (`/rs-<id>`) and an *Other tools*
+page (`/l-<id>/le`; its download links load in the browser only, not in the
+page data). Their data sits in
 `window.__APOLLO_STATE__`. On the vocabulary page, the lesson's `vocabularies`
 list points to `Knowledge` records: `name` (German), `text` (official English),
 `subTitle` (plural note or principal parts); checked 2026-09-27. Exercise

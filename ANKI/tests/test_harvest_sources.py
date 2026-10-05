@@ -74,6 +74,25 @@ class ExerciseTexts(unittest.TestCase):
         self.assertEqual(harvest_sources.exercise_texts(state), ["Sortiere die Wörter.", "Was trinkst du?"])
 
 
+class OtherTools(unittest.TestCase):
+    def test_teacher_guide_and_activity_book_links_are_picked(self):
+        page = ('<a href="https://static.dw.com/downloads/1/nicos-weg-a1-e5-l1-manuskript-und-wortschatz-englisch.pdf">'
+                '<a href="https://static.dw.com/downloads/2/nicos-weg-a1-e5-l1-lehrerhandreichung-und-uebungen.pdf">'
+                '<a href="https://learngerman.dw.com/downloads/3/grammar-overview-nicos-weg-a1.pdf">'
+                '"url":"https://static.dw.com/downloads/4/nicos-weg-a1-b1-arbeitsbuch.pdf"')
+        self.assertEqual(harvest_sources.tool_links(page), {
+            "teacherGuide": "https://static.dw.com/downloads/2/nicos-weg-a1-e5-l1-lehrerhandreichung-und-uebungen.pdf",
+            "activityBook": "https://static.dw.com/downloads/4/nicos-weg-a1-b1-arbeitsbuch.pdf"})
+
+    def test_every_dw_lesson_has_its_teacher_guide_and_the_activity_book(self):
+        data = json.loads(harvest_sources.LESSONS.read_text(encoding="utf-8"))
+        for lesson in next(course for course in data["courses"] if course["id"] == "dw-nicos-weg")["lessons"]:
+            materials = (ROOT / lesson["snapshot"]).parent
+            self.assertTrue(any(materials.glob(f"*{harvest_sources.TEACHER_GUIDE}")),
+                            f"{lesson['id']}: no teacher guide; run python3 ANKI/harvest_sources.py --tools")
+        self.assertTrue(harvest_sources.ACTIVITY_BOOK.exists(), "run python3 ANKI/harvest_sources.py --tools")
+
+
 @unittest.skipUnless(shutil.which("pandoc"), "pandoc is needed for lesson-pages.md")
 class LessonPages(unittest.TestCase):
     def test_vocabulary_table_grammar_before_culture(self):

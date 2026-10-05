@@ -57,6 +57,8 @@ Cards (`learnerForm`) and the grammar book quote your mistakes from
    - For DW this snapshots the script PDF text, the vocabulary page (German, official English, forms) and every
      exercise, grammar and culture page. It also writes `Materials/lesson-pages.md`, a readable copy of the
      vocabulary, grammar and culture pages (never edited by hand; `--pages` rewrites it offline).
+     From the lesson's *Other tools* page it saves the teacher guide (`Materials/Teacher guide and exercises
+     (German).pdf`) and, once, the activity book (`DW Deutsch lernen/Materials/`).
    - For VHS it downloads the course PDFs into `VHS-Lernportal/<level>/Materials/` and snapshots them.
 3. Check the snapshot contains the lesson's script, exercises and (DW) vocabulary page. Read `lesson-pages.md`.
 4. For VHS, also capture the lesson's vocabulary trainer with English (official
@@ -159,3 +161,12 @@ e.g. `Add DW A1 E2 L1 Zahlen von 1 bis 100`, and never push unless you ask.
 - New rules go to `AGENTS.md`, with one line in [decisions.md](decisions.md).
 - New useful links go to [links.md](links.md), with the date checked. If a course changes, rerun
   `python3 docs/tools/build_course_index.py`.
+
+## 10. Offer what else you can do (DW)
+
+After `Import: …`, Claude offers a short list of extra tasks for the lesson, read
+from its teacher guide (page 1: before, during and after watching, more
+activities) and, for its unit, the activity book. Only tasks you can do alone or
+with Claude (a short own text, a dialogue, a role-play); skip class-only games
+and worksheets that repeat the online exercises. You choose; nothing is built
+from the list. What you write goes into your notes and the next mistake round.

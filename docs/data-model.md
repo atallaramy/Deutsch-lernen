@@ -18,6 +18,7 @@
 | File | Role |
 |---|---|
 | `source-snapshot.json` | Official source text. DW `script`: the PDF's lines. DW `exercises`: `vocabulary` (the vocabulary page `/lv`: `url`, `items` with `id`, `german`, `english`, `forms`), `exercises` (correct texts, sorted answers, read-aloud lines and tips) and `pages` (grammar `gr-` and culture `rs-` pages: `texts`, plus `html` for the readable copy; a grammar page's image text is kept as an *Image:* list, since DW puts examples there). Contexts are verified against the script, exercise and page texts; vocabulary items are not contexts. |
+| `Teacher guide and exercises (German).pdf` | DW only: the lesson's teacher guide from its *Other tools* page (activities before, during and after the video, worksheets). Read for the offer after a lesson; not a context source. The A1–B1 activity book is kept once in `DW Deutsch lernen/Materials/`. |
 | `lesson-pages.md` | DW only: readable copy of the vocabulary page (German, English, forms) and the grammar and culture pages, rendered with pandoc from the snapshot. Never edited by hand; `harvest_sources.py --pages` rewrites it offline, and the tests fail while it lags the snapshot. |
 
 ## Code
@@ -29,7 +30,7 @@
 | `build_vocabulary_decks.py`, `build_articles_deck.py`, `build_sentences_deck.py` | Card construction for each deck (lesson decks reuse Vocabulary and Sentences cards). |
 | `card_quality.py` | Cross-deck gate: coverage, preservation of the v2 records, leakage, ambiguity, the front-sentence registry, sentence priming, known words, and every DW vocabulary-page item recorded in its lesson. |
 | `anki_package_utils.py` | Deterministic `.apkg` writer (embedded schema 11) and validator. |
-| `harvest_sources.py` | Network step: snapshots official sources into `Materials/source-snapshot.json` and writes a DW lesson's `Materials/lesson-pages.md` (`--pages`: rewrite those offline; `--glosses`: dictionary check). |
+| `harvest_sources.py` | Network step: snapshots official sources into `Materials/source-snapshot.json` and writes a DW lesson's `Materials/lesson-pages.md` (`--pages`: rewrite those offline; `--glosses`: dictionary check; `--tools`: save the DW teacher guides and the activity book). |
 | `tests/` | `python3 -m unittest discover -s ANKI/tests` |
 | `download_nicos_weg_a1_materials.py` | Old DW PDF downloader; do not rerun without the fix listed in [known-issues.md](known-issues.md). |
 

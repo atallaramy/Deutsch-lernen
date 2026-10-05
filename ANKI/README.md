@@ -21,6 +21,7 @@ python3 ANKI/build_all.py package               # write the decks whose cards ch
 python3 -m unittest discover -s ANKI/tests      # tests
 python3 ANKI/harvest_sources.py --lesson ID     # network: snapshot a lesson's official sources into Materials/
 python3 ANKI/harvest_sources.py --pages         # offline: rewrite each DW lesson's Materials/lesson-pages.md
+python3 ANKI/harvest_sources.py --tools         # network: save each DW lesson's teacher guide and the activity book
 ```
 
 `package` builds each deck twice and requires identical bytes. It validates

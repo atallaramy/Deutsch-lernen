@@ -5,6 +5,8 @@ One line per confirmed decision, newest first. The rules they produce live in
 
 | Date | Decision |
 |---|---|
+| 2026-10-05 | Git: before a commit that does not finish a lesson, ask how the learner wants it (own commit or merged) ("ask me next time"). |
+| 2026-10-05 | Every processed DW lesson keeps its teacher guide in `Materials/`, and the activity book is kept once; after a lesson Claude offers a short list of extra tasks from them ("I want you to be aware what is in them"). No images in cards for now ("comfortable without photos"). |
 | 2026-10-04 | An Anki instruction in the learner's notes is carried out without asking ("just do it. do not ask. go."). |
 | 2026-10-03 | DW materials (script, exercises, vocabulary, grammar) are the capture source; notes may be incomplete and add only what DW lacks; left-out parts are not mistakes ("I want to speed up my studies"). |
 | 2026-10-02 | The DW *ich*/*ach* sound tip (E3 L3) becomes one typed rule card in Sentences (type *a, o, u*), at the learner's request ("Add it to anki"); still no audio. |

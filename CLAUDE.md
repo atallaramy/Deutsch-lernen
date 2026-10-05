@@ -11,7 +11,8 @@ agents; change rules there. This file adds only how Claude works here.
   paths or check results unless the learner asks or something failed.
 - Progress notes: one line, only for news or a blocker.
 - Calm and concrete. Ask only real decisions, with concrete examples.
-- After a lesson: one line `Import: …` with only the files that `package` lists.
+- After a lesson: one line `Import: …` with only the files that `package` lists,
+  then the short list of extra tasks (teacher guide, activity book).
 - When the learner changes a rule, make sure the edit is in the rule files. If
   an edit is blocked, say so in the same reply.
 
@@ -39,7 +40,9 @@ agents; change rules there. This file adds only how Claude works here.
   (`Grammatik/README.md` is the index). It holds the verified rule, examples and
   the learner's own mistakes.
 - For a lesson the learner has studied, also use its notes, its
-  `Materials/lesson-pages.md` and its `Materials/source-snapshot.json`.
+  `Materials/lesson-pages.md`, its `Materials/source-snapshot.json`, its DW
+  teacher guide in `Materials/` and the activity book's activity for its unit
+  (`DW Deutsch lernen/Materials/`).
 - Answering questions never builds cards.
 - When you find a new useful source, add it to `docs/links.md` with the date
   you checked it.
@@ -59,7 +62,8 @@ agents; change rules there. This file adds only how Claude works here.
   - `python3 ANKI/build_all.py check` — validate, verify sources (`--lesson ID`: list that lesson's cards)
   - `python3 ANKI/build_all.py package` — build packages (refuses while the check has errors; ends with `Import: …`)
   - `python3 -m unittest discover -s ANKI/tests`
-  - `python3 ANKI/harvest_sources.py --lesson ID` — network: snapshot official sources and write `Materials/lesson-pages.md`
+  - `python3 ANKI/harvest_sources.py --lesson ID` — network: snapshot official sources and write `Materials/lesson-pages.md` (DW: also saves the teacher guide and the activity book)
+  - `python3 ANKI/harvest_sources.py --tools` — network: save every recorded DW lesson's teacher guide and the activity book
   - `python3 ANKI/harvest_sources.py --pages` — offline: rewrite the DW `lesson-pages.md` copies from their snapshots
   - `python3 ANKI/harvest_sources.py --glosses` — network: dictionary check of meanings no glossary supplies
   - `python3 docs/tools/build_course_index.py` — network: rebuild the lesson index

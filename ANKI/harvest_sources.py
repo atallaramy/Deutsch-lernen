@@ -2,6 +2,7 @@
 """Snapshot official lesson sources into Materials/ so deck builds can verify contexts offline.
 
 Network step, run manually: `python3 ANKI/harvest_sources.py --lesson <lesson-id>` (or `--all`).
+A DW lesson also gets its teacher guide and the shared activity book from its Other tools page (`--tools`: every DW lesson).
 Needs `pdftotext` (poppler) for PDF sources and `pandoc` for a DW lesson's readable `Materials/lesson-pages.md`.
 Builders never use the network.
 """
@@ -28,6 +29,8 @@ APOLLO_RE = re.compile(r"window.__APOLLO_STATE__\s*=\s*(\{.*?\});?\s*</script>",
 FIGURE_RE = re.compile(r"<figure\b.*?</figure>", re.S)  # images; their caption is only a photo credit ("null DW")
 ALT_RE = re.compile(r'<img\b[^>]*\balt="([^"]*)"', re.S)
 LESSON_PAGES = "lesson-pages.md"
+TEACHER_GUIDE = "Teacher guide and exercises (German).pdf"
+ACTIVITY_BOOK = ROOT / "DW Deutsch lernen" / "Materials" / "Activity book A1–B1 (German).pdf"
 
 
 def fetch(url: str) -> bytes:
@@ -190,6 +193,38 @@ def write_lesson_pages(lesson: dict) -> None:
         print(f"readable copy {path.relative_to(ROOT)}")
 
 
+def tool_links(page: str) -> dict[str, str | None]:
+    """PDF links on a DW lesson's Other tools page (/le): its teacher guide and the A1–B1 activity book."""
+    links = sorted(set(re.findall(r'https://[^"\s\\]+\.pdf', page)))
+    return {"teacherGuide": next((link for link in links if "lehrerhandreichung" in link), None),
+            "activityBook": next((link for link in links if "arbeitsbuch" in link), None)}
+
+
+def save_pdf(url: str, target: Path) -> None:
+    payload = fetch(url)
+    if not payload.startswith(b"%PDF-"):
+        raise RuntimeError(f"{url} did not return a PDF")
+    target.parent.mkdir(parents=True, exist_ok=True)
+    target.write_bytes(payload)
+    print(f"saved {target.relative_to(ROOT)}")
+
+
+def save_dw_tools(lesson: dict) -> None:
+    """Save a DW lesson's teacher guide into its Materials/ and the shared activity book, unless already saved."""
+    materials = (ROOT / lesson["snapshot"]).parent
+    has_guide = any(materials.glob(f"*{TEACHER_GUIDE}"))  # the E0 L4 copy has the lesson title in front
+    if has_guide and ACTIVITY_BOOK.exists():
+        return
+    links = tool_links(fetch(lesson["url"].rstrip("/") + "/le").decode("utf-8", "ignore"))
+    if not has_guide:
+        if links["teacherGuide"]:
+            save_pdf(links["teacherGuide"], materials / TEACHER_GUIDE)
+        else:
+            print(f"no teacher guide on the Other tools page of {lesson['id']}")
+    if not ACTIVITY_BOOK.exists() and links["activityBook"]:
+        save_pdf(links["activityBook"], ACTIVITY_BOOK)
+
+
 def snapshot_source(source: dict) -> dict:
     kind = source["kind"]
     record = {key: source[key] for key in ("id", "kind", "url") if key in source}
@@ -286,11 +321,19 @@ def main() -> None:
     group.add_argument("--glosses", action="store_true", help="check non-official English meanings against en.wiktionary")
     group.add_argument("--pages", action="store_true",
                        help="offline: rewrite each DW lesson's Materials/lesson-pages.md from its saved snapshot")
+    group.add_argument("--tools", action="store_true",
+                       help="save each recorded DW lesson's teacher guide and the activity book (Other tools page)")
     args = parser.parse_args()
 
     data = json.loads(LESSONS.read_text(encoding="utf-8"))
     if args.glosses:
         snapshot_glosses(data)
+        return
+    if args.tools:
+        for course in data["courses"]:
+            for lesson in course["lessons"]:
+                if course["id"] == "dw-nicos-weg":
+                    save_dw_tools(lesson)
         return
     if args.pages:
         for course in data["courses"]:
@@ -300,6 +343,7 @@ def main() -> None:
         return
     snapshots: dict[str, list[dict]] = {}
     harvested: list[dict] = []
+    dw_lessons: list[dict] = []
     lesson_ids = set(args.lesson or [])
     for course in data["courses"]:
         for lesson in course["lessons"]:
@@ -307,6 +351,8 @@ def main() -> None:
                 bucket = snapshots.setdefault(lesson["snapshot"], [])
                 bucket.extend(source for source in lesson.get("sources", []) if source not in bucket)
                 harvested.append(lesson)
+                if course["id"] == "dw-nicos-weg":
+                    dw_lessons.append(lesson)
     missing = lesson_ids - {lesson["id"] for course in data["courses"] for lesson in course["lessons"]}
     if missing:
         sys.exit(f"Unknown lesson id(s): {', '.join(sorted(missing))}")
@@ -326,6 +372,8 @@ def main() -> None:
         }, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
     for lesson in harvested:
         write_lesson_pages(lesson)
+    for lesson in dw_lessons:
+        save_dw_tools(lesson)
 
 
 if __name__ == "__main__":
