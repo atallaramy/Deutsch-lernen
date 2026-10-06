@@ -19,3 +19,19 @@ checked on 2026-09-25 unless marked; full links are in [links.md](links.md#resea
 The previous deck reference also cited Karatas et al. on spacing, retrieval
 and feedback in L2 vocabulary (doi:10.1177/13621688211053525). It was not
 rechecked in this session.
+
+## Marking your own writing (extra tasks)
+
+Checked on 2026-10-06; links in [links.md](links.md#research-behind-marking-your-writing).
+
+| Finding | Source | Consequence for the marking |
+|---|---|---|
+| Correcting a text you were just shown how to fix is not a reliable measure of progress; progress shows in new writing later. | Aliakbari et al. 2023, cited in Nguyen & Chu 2024 (review, *rEFLections* 31(2)) | No automatic second round. Redoing a task later shows the progress, and its comment compares it with the earlier try. |
+| Direct correction (the right form given) had a lasting effect four weeks later and needed less mental effort than codes alone. | López et al. 2018, cited in Nguyen & Chu 2024 | Every mistake is shown as You wrote · Correct · Why. |
+| Teachers usually give written feedback so that learners can revise their errors. | Ellis 2008, cited in Nguyen & Chu 2024 | A second round stays available when you ask for it. |
+| Words need about 15–20 meaningful, spaced exposures; recycle them across lessons and units, not only within one. | Conti 2025 (practitioner summary of vocabulary research); *Repetitions and Recycling in EFL and ESL Teaching* (myenglishpages) | Repetition comes from later lessons and the Anki decks rather than from re-marking the same text. |
+
+Bitchener & Ferris, *Written Corrective Feedback in Second Language Acquisition
+and Writing* (Routledge 2012), is the standard book on the topic; its page could
+not be opened, so it is not quoted here.
+

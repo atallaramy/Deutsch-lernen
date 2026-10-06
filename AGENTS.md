@@ -182,11 +182,17 @@ this spirit.
 Process a lesson only after the learner says they have studied it, one lesson
 at a time. Before capturing or building, read `docs/processing-a-lesson.md` in
 full and follow it: mistake rounds, read, snapshot, capture, curate, check,
-package, grammar book, tests, commit, offer.
+package, grammar book, tests, extra tasks, commit.
 
-After a DW lesson, offer a short list of what else the learner can do for it:
-tasks from its teacher guide and, for its unit, the activity book. Offers only;
-the learner chooses.
+Extra tasks (DW): when a lesson is done, add a short list of tasks from its
+teacher guide and, for its unit, the activity book to the end of its notes file.
+The learner chooses whether and when to do them, writes the answers under each
+task, and may redo a task later to see progress; every try stays in the file.
+When they say a try is done, mark it once, under the task, as a teacher would: a
+short comment on what is good and what to expect at their level, then each
+mistake as plain aligned text (You wrote · Correct · Why), easy to read without
+preview. A later try's comment notes the progress. A second round only when the
+learner asks: later lessons bring the repetition.
 
 ## Exam practice
 

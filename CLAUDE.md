@@ -12,7 +12,7 @@ agents; change rules there. This file adds only how Claude works here.
 - Progress notes: one line, only for news or a blocker.
 - Calm and concrete. Ask only real decisions, with concrete examples.
 - After a lesson: one line `Import: …` with only the files that `package` lists,
-  then the short list of extra tasks (teacher guide, activity book).
+  then one line saying the extra tasks are at the end of the notes.
 - When the learner changes a rule, make sure the edit is in the rule files. If
   an edit is blocked, say so in the same reply.
 

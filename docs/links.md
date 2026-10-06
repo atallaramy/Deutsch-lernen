@@ -245,6 +245,15 @@ See [research.md](research.md) for what each paper means for the cards.
 - Köpcke & Zubin, German gender assignment principles: <https://ids-pub.bsz-bw.de/files/8944/Koepcke_Zubin_Prinzipien_fuer_die_Genuszuweisung_im_Deutschen_1996.pdf>
 - Nation (2000), interference in lexical sets: <https://onlinelibrary.wiley.com/doi/10.1002/j.1949-3533.2000.tb00239.x>
 
+## Research behind marking your writing
+
+Checked 2026-10-06. See [research.md](research.md#marking-your-own-writing-extra-tasks) for what each source means for the marking.
+
+- Nguyen & Chu (2024), *Written Corrective Feedback in Second Language Writing: A Review of Research*: <https://files.eric.ed.gov/fulltext/EJ1440791.pdf>
+- Conti (2025), *10 essential research findings about vocabulary instruction*: <https://gianfrancoconti.com/2025/04/page/2/>
+- *Repetitions and Recycling in EFL and ESL Teaching: A Circular Approach*: <https://www.myenglishpages.com/repetitions-efl-esl-teaching/>
+- Bitchener & Ferris (2012), *Written Corrective Feedback in SLA and Writing* (page not accessible): <https://www.researchgate.net/publication/281739881_Written_Corrective_Feedback_in_Second_Language_Acquisition_and_Writing>
+
 ## Claude Code
 
 - How Claude Code loads `CLAUDE.md` and `AGENTS.md`: <https://code.claude.com/docs/en/memory>

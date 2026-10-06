@@ -150,23 +150,24 @@ The rules are in `AGENTS.md` → *Grammar book*; the layout is in
   grammar check has errors, and the tests fail if the PDF lags the pages. A new
   topic page joins the PDF by being listed in the index's *studied* table.
 
-## 8. Commit
+## 8. Extra tasks (DW)
+
+Claude adds a short list of extra tasks to the end of your notes file, under the
+heading *Extra tasks*, read from the teacher guide (page 1: before, during and
+after watching, more activities) and, for the unit, the activity book. Only tasks
+you can do alone or with Claude (a short own text, a dialogue, a role-play); skip
+class-only games and worksheets that repeat the online exercises. Nothing is built
+from them. When you do one, write your answers under the task and tell Claude;
+Claude marks it there as `AGENTS.md` → *Processing a lesson* says.
+
+## 9. Commit
 
 Claude commits when the lesson is done, without asking. Commit everything the lesson
 changed (notes are yours; commit them only as they are). Use one clear message,
 e.g. `Add DW A1 E2 L1 Zahlen von 1 bis 100`, and never push unless you ask.
 
-## 9. Record
+## 10. Record
 
 - New rules go to `AGENTS.md`, with one line in [decisions.md](decisions.md).
 - New useful links go to [links.md](links.md), with the date checked. If a course changes, rerun
   `python3 docs/tools/build_course_index.py`.
-
-## 10. Offer what else you can do (DW)
-
-After `Import: …`, Claude offers a short list of extra tasks for the lesson, read
-from its teacher guide (page 1: before, during and after watching, more
-activities) and, for its unit, the activity book. Only tasks you can do alone or
-with Claude (a short own text, a dialogue, a role-play); skip class-only games
-and worksheets that repeat the online exercises. You choose; nothing is built
-from the list. What you write goes into your notes and the next mistake round.

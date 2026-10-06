@@ -5,6 +5,7 @@ One line per confirmed decision, newest first. The rules they produce live in
 
 | Date | Decision |
 |---|---|
+| 2026-10-06 | Extra tasks go to the end of the lesson's notes file when the lesson is done; the learner answers there and may redo them for progress. Claude marks each try once, under the task, like a teacher: a level comment, then the mistakes as plain aligned text. A second round only on request ("mostly there is no second round … they rely on repetitions"; research: progress shows in new texts later). |
 | 2026-10-05 | Git: before a commit that does not finish a lesson, ask how the learner wants it (own commit or merged) ("ask me next time"). |
 | 2026-10-05 | Every processed DW lesson keeps its teacher guide in `Materials/`, and the activity book is kept once; after a lesson Claude offers a short list of extra tasks from them ("I want you to be aware what is in them"). No images in cards for now ("comfortable without photos"). |
 | 2026-10-04 | An Anki instruction in the learner's notes is carried out without asking ("just do it. do not ask. go."). |
