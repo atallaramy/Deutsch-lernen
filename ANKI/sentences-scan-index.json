@@ -9,7 +9,7 @@
       "course": "dw-nicos-weg",
       "title": "Hallo!",
       "url": "https://learngerman.dw.com/en/hallo/l-37250531",
-      "notesFile": "DW Deutsch lernen/A1/01_Intro_zu_A1/01_Hallo/Hallo.md",
+      "notesFile": "DW Deutsch lernen/A1/00_welcome_to_A1/01_Hallo/Hallo.md",
       "capturedEntries": 46,
       "cards": {
         "vocabulary": 38,
@@ -22,7 +22,7 @@
       "course": "dw-nicos-weg",
       "title": "Kein Problem!",
       "url": "https://learngerman.dw.com/en/kein-problem/l-37251054",
-      "notesFile": "DW Deutsch lernen/A1/01_Intro_zu_A1/02_Kein Problem/Kein_Problem.md",
+      "notesFile": "DW Deutsch lernen/A1/00_welcome_to_A1/02_Kein Problem/Kein_Problem.md",
       "capturedEntries": 54,
       "cards": {
         "vocabulary": 54,
@@ -35,7 +35,7 @@
       "course": "dw-nicos-weg",
       "title": "Tschüss!",
       "url": "https://learngerman.dw.com/en/tschüss/l-37251033",
-      "notesFile": "DW Deutsch lernen/A1/01_Intro_zu_A1/03_Tschüs/Tschüs.md",
+      "notesFile": "DW Deutsch lernen/A1/00_welcome_to_A1/03_Tschüs/Tschüs.md",
       "capturedEntries": 43,
       "cards": {
         "vocabulary": 36,
@@ -48,7 +48,7 @@
       "course": "dw-nicos-weg",
       "title": "Von A bis Z",
       "url": "https://learngerman.dw.com/en/von-a-bis-z/l-37256418",
-      "notesFile": "DW Deutsch lernen/A1/01_Intro_zu_A1/04_Von A bis Z/Von A bis Z.md",
+      "notesFile": "DW Deutsch lernen/A1/00_welcome_to_A1/04_Von A bis Z/Von A bis Z.md",
       "capturedEntries": 39,
       "cards": {
         "vocabulary": 34,
@@ -61,7 +61,7 @@
       "course": "dw-nicos-weg",
       "title": "Ich heiße Emma",
       "url": "https://learngerman.dw.com/en/ich-heiße-emma/l-37262882",
-      "notesFile": "DW Deutsch lernen/A1/02_meeting_people/01_Lesson_01/Ich heiße Emma.md",
+      "notesFile": "DW Deutsch lernen/A1/01_meeting_people/01_Ich heiße Emma/Ich heiße Emma.md",
       "capturedEntries": 29,
       "cards": {
         "vocabulary": 21,
@@ -74,7 +74,7 @@
       "course": "dw-nicos-weg",
       "title": "Das ist Nico",
       "url": "https://learngerman.dw.com/en/das-ist-nico/l-37262923",
-      "notesFile": "DW Deutsch lernen/A1/02_meeting_people/02_Lesson_02/Das ist Nico.md",
+      "notesFile": "DW Deutsch lernen/A1/01_meeting_people/02_Das ist Nico/Das ist Nico.md",
       "capturedEntries": 37,
       "cards": {
         "vocabulary": 31,
@@ -87,7 +87,7 @@
       "course": "dw-nicos-weg",
       "title": "Woher kommst du?",
       "url": "https://learngerman.dw.com/en/woher-kommst-du/l-37263828",
-      "notesFile": "DW Deutsch lernen/A1/02_meeting_people/03_Lesson_03/Woher komst du.md",
+      "notesFile": "DW Deutsch lernen/A1/01_meeting_people/03_Woher kommst du/Woher komst du.md",
       "capturedEntries": 49,
       "cards": {
         "vocabulary": 40,
@@ -100,7 +100,7 @@
       "course": "dw-nicos-weg",
       "title": "Nico hat ein Problem",
       "url": "https://learngerman.dw.com/en/nico-hat-ein-problem/l-37265543",
-      "notesFile": "DW Deutsch lernen/A1/02_meeting_people/04_Lesson_04/Nico hat Problem.md",
+      "notesFile": "DW Deutsch lernen/A1/01_meeting_people/04_Nico hat ein Problem/Nico hat Problem.md",
       "capturedEntries": 40,
       "cards": {
         "vocabulary": 39,
@@ -113,7 +113,7 @@
       "course": "dw-nicos-weg",
       "title": "Zahlen von 1 bis 100",
       "url": "https://learngerman.dw.com/en/zahlen-von-1-bis-100/l-37265621",
-      "notesFile": "DW Deutsch lernen/A1/03_contact_details/01_Lesson_01/Zahlen von 1 bis 100.md",
+      "notesFile": "DW Deutsch lernen/A1/02_contact_details/01_Zahlen von 1 bis 100/Zahlen von 1 bis 100.md",
       "capturedEntries": 51,
       "cards": {
         "vocabulary": 47,
@@ -126,7 +126,7 @@
       "course": "dw-nicos-weg",
       "title": "Wichtige Nummern",
       "url": "https://learngerman.dw.com/en/wichtige-nummern/l-37269501",
-      "notesFile": "DW Deutsch lernen/A1/03_contact_details/02_Lesson_02/Wichtige Nummern.md",
+      "notesFile": "DW Deutsch lernen/A1/02_contact_details/02_Wichtige Nummern/Wichtige Nummern.md",
       "capturedEntries": 34,
       "cards": {
         "vocabulary": 28,
@@ -139,7 +139,7 @@
       "course": "dw-nicos-weg",
       "title": "Adressen",
       "url": "https://learngerman.dw.com/en/adressen/l-37269671",
-      "notesFile": "DW Deutsch lernen/A1/03_contact_details/03_Lesson_03/Adressen.md",
+      "notesFile": "DW Deutsch lernen/A1/02_contact_details/03_Adressen/Adressen.md",
       "capturedEntries": 45,
       "cards": {
         "vocabulary": 26,
@@ -152,7 +152,7 @@
       "course": "dw-nicos-weg",
       "title": "Auf dem Amt",
       "url": "https://learngerman.dw.com/en/auf-dem-amt/l-37269629",
-      "notesFile": "DW Deutsch lernen/A1/03_contact_details/04_Lesson_04/Auf dem Amt.md",
+      "notesFile": "DW Deutsch lernen/A1/02_contact_details/04_Auf dem Amt/Auf dem Amt.md",
       "capturedEntries": 55,
       "cards": {
         "vocabulary": 43,
@@ -165,7 +165,7 @@
       "course": "dw-nicos-weg",
       "title": "Was machst du hier?",
       "url": "https://learngerman.dw.com/en/was-machst-du-hier/l-37278679",
-      "notesFile": "DW Deutsch lernen/A1/04_in_company/01_Lesson_01/Was_machst_du_hier.md",
+      "notesFile": "DW Deutsch lernen/A1/03_in_company/01_Was machst du hier/Was_machst_du_hier.md",
       "capturedEntries": 25,
       "cards": {
         "vocabulary": 21,
@@ -178,7 +178,7 @@
       "course": "dw-nicos-weg",
       "title": "Was trinkst du?",
       "url": "https://learngerman.dw.com/en/was-trinkst-du/l-37279418",
-      "notesFile": "DW Deutsch lernen/A1/04_in_company/02_Lesson_02/Was trinkst du.md",
+      "notesFile": "DW Deutsch lernen/A1/03_in_company/02_Was trinkst du/Was trinkst du.md",
       "capturedEntries": 42,
       "cards": {
         "vocabulary": 38,
@@ -191,7 +191,7 @@
       "course": "dw-nicos-weg",
       "title": "Eine Pizza bitte!",
       "url": "https://learngerman.dw.com/en/eine-pizza-bitte/l-37279261",
-      "notesFile": "DW Deutsch lernen/A1/04_in_company/03_Lesson_03/Ein Pizza bitte.md",
+      "notesFile": "DW Deutsch lernen/A1/03_in_company/03_Eine Pizza bitte/Ein Pizza bitte.md",
       "capturedEntries": 30,
       "cards": {
         "vocabulary": 28,
@@ -204,7 +204,7 @@
       "course": "dw-nicos-weg",
       "title": "Zahlen bitte!",
       "url": "https://learngerman.dw.com/en/zahlen-bitte/l-37280348",
-      "notesFile": "DW Deutsch lernen/A1/04_in_company/04_Lesson_04/Zahlen bitte.md",
+      "notesFile": "DW Deutsch lernen/A1/03_in_company/04_Zahlen bitte/Zahlen bitte.md",
       "capturedEntries": 38,
       "cards": {
         "vocabulary": 29,
@@ -217,7 +217,7 @@
       "course": "dw-nicos-weg",
       "title": "Ich war schon in Berlin",
       "url": "https://learngerman.dw.com/en/ich-war-schon-in-berlin/l-37325550",
-      "notesFile": "DW Deutsch lernen/A1/05_around_the_world/01_Lesson_01/Ich war schon in Berlin.md",
+      "notesFile": "DW Deutsch lernen/A1/04_around_the_world/01_Ich war schon in Berlin/Ich war schon in Berlin.md",
       "capturedEntries": 47,
       "cards": {
         "vocabulary": 42,
@@ -230,7 +230,7 @@
       "course": "dw-nicos-weg",
       "title": "Wo liegt das?",
       "url": "https://learngerman.dw.com/en/wo-liegt-das/l-37337877",
-      "notesFile": "DW Deutsch lernen/A1/05_around_the_world/02_Lesson_02/Wo liegt das.md",
+      "notesFile": "DW Deutsch lernen/A1/04_around_the_world/02_Wo liegt das/Wo liegt das.md",
       "capturedEntries": 29,
       "cards": {
         "vocabulary": 27,
@@ -243,7 +243,7 @@
       "course": "dw-nicos-weg",
       "title": "In Europa",
       "url": "https://learngerman.dw.com/en/in-europa/l-37328492",
-      "notesFile": "DW Deutsch lernen/A1/05_around_the_world/03_Lesson_03/In Europa.md",
+      "notesFile": "DW Deutsch lernen/A1/04_around_the_world/03_In Europa/In Europa.md",
       "capturedEntries": 26,
       "cards": {
         "vocabulary": 26,
@@ -256,7 +256,7 @@
       "course": "dw-nicos-weg",
       "title": "Andere Länder",
       "url": "https://learngerman.dw.com/en/andere-länder/l-37337244",
-      "notesFile": "DW Deutsch lernen/A1/05_around_the_world/04_Lesson_04/Andere Länder.md",
+      "notesFile": "DW Deutsch lernen/A1/04_around_the_world/04_Andere Länder/Andere Länder.md",
       "capturedEntries": 54,
       "cards": {
         "vocabulary": 50,
@@ -269,7 +269,7 @@
       "course": "dw-nicos-weg",
       "title": "Was ist das?",
       "url": "https://learngerman.dw.com/en/was-ist-das/l-37368285",
-      "notesFile": "DW Deutsch lernen/A1/06_living/01_Lesson_01/Was ist das.md",
+      "notesFile": "DW Deutsch lernen/A1/05_things/01_Was ist das/Was ist das.md",
       "capturedEntries": 20,
       "cards": {
         "vocabulary": 20,
@@ -282,7 +282,7 @@
       "course": "dw-nicos-weg",
       "title": "Wem gehört das?",
       "url": "https://learngerman.dw.com/en/wem-gehört-das/l-37372077",
-      "notesFile": "DW Deutsch lernen/A1/06_living/02_Lesson_02/Wem gehört das.md",
+      "notesFile": "DW Deutsch lernen/A1/05_things/02_Wem gehört das/Wem gehört das.md",
       "capturedEntries": 40,
       "cards": {
         "vocabulary": 39,
@@ -295,7 +295,7 @@
       "course": "dw-nicos-weg",
       "title": "Ich habe kein …",
       "url": "https://learngerman.dw.com/en/ich-habe-kein/l-37382992",
-      "notesFile": "DW Deutsch lernen/A1/06_living/03_Lesson_03/Ich habe kein.md",
+      "notesFile": "DW Deutsch lernen/A1/05_things/03_Ich habe kein/Ich habe kein.md",
       "capturedEntries": 32,
       "cards": {
         "vocabulary": 31,

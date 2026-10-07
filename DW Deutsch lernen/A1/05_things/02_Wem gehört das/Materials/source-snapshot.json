@@ -1,0 +1,727 @@
+{
+ "description": "Official source text captured by ANKI/harvest_sources.py for offline context verification.",
+ "harvestedOn": "2026-10-05",
+ "sources": [
+  {
+   "id": "exercises",
+   "kind": "dw-exercises",
+   "url": "https://learngerman.dw.com/en/wem-gehört-das/l-37372077",
+   "lessonUrl": "https://learngerman.dw.com/en/wem-gehört-das/l-37372077",
+   "vocabulary": {
+    "url": "https://learngerman.dw.com/en/wem-gehört-das/l-37372077/lv",
+    "items": [
+     {
+      "id": 37433421,
+      "german": "die Bestellung, die Bestellungen",
+      "english": "order",
+      "forms": ""
+     },
+     {
+      "id": 42604181,
+      "german": "der Deutschunterricht",
+      "english": "German class",
+      "forms": "nur Singular"
+     },
+     {
+      "id": 37367972,
+      "german": "der Dialog, die Dialoge",
+      "english": "dialogue; conversation",
+      "forms": ""
+     },
+     {
+      "id": 37389266,
+      "german": "ein",
+      "english": "a/an (indefinite article)",
+      "forms": ""
+     },
+     {
+      "id": 37385082,
+      "german": "eine",
+      "english": "a/an (indefinite article)",
+      "forms": ""
+     },
+     {
+      "id": 37495267,
+      "german": "falsch",
+      "english": "wrong",
+      "forms": ""
+     },
+     {
+      "id": 37495284,
+      "german": "die Hausaufgabe, die Hausaufgaben",
+      "english": "homework",
+      "forms": "meist im Plural"
+     },
+     {
+      "id": 37387086,
+      "german": "(etwas) hören",
+      "english": "to listen to; to hear",
+      "forms": "hört, hörte, hat gehört"
+     },
+     {
+      "id": 37398506,
+      "german": "das Jahr, die Jahre",
+      "english": "year",
+      "forms": ""
+     },
+     {
+      "id": 37495327,
+      "german": "der Kursteilnehmer, die Kursteilnehmer",
+      "english": "course participant (male)",
+      "forms": ""
+     },
+     {
+      "id": 37495352,
+      "german": "die Kursteilnehmerin, die Kursteilnehmerinnen",
+      "english": "course participant (female)",
+      "forms": ""
+     },
+     {
+      "id": 37367067,
+      "german": "(etwas) lernen",
+      "english": "to learn (something)",
+      "forms": "lernt, lernte, hat gelernt"
+     },
+     {
+      "id": 37495403,
+      "german": "(etwas) lesen",
+      "english": "to read (something)",
+      "forms": "liest, las, hat gelesen"
+     },
+     {
+      "id": 37495494,
+      "german": "der Nachmittag, die Nachmittage",
+      "english": "afternoon",
+      "forms": ""
+     },
+     {
+      "id": 37398886,
+      "german": "die Nachricht, die Nachrichten",
+      "english": "message",
+      "forms": ""
+     },
+     {
+      "id": 37495526,
+      "german": "der Ordner, die Ordner",
+      "english": "binder; folder",
+      "forms": ""
+     },
+     {
+      "id": 37495538,
+      "german": "die Pause, die Pausen",
+      "english": "break",
+      "forms": ""
+     },
+     {
+      "id": 37368827,
+      "german": "richtig",
+      "english": "correct; right",
+      "forms": ""
+     },
+     {
+      "id": 37495546,
+      "german": "der Satz, die Sätze",
+      "english": "sentence",
+      "forms": ""
+     },
+     {
+      "id": 37385818,
+      "german": "(etwas) schreiben",
+      "english": "to write (something)",
+      "forms": "schreibt, schrieb, hat geschrieben"
+     },
+     {
+      "id": 37495555,
+      "german": "die Tafel, die Tafeln",
+      "english": "board; chalkboard",
+      "forms": ""
+     },
+     {
+      "id": 37495580,
+      "german": "der Text, die Texte",
+      "english": "text",
+      "forms": ""
+     },
+     {
+      "id": 37495583,
+      "german": "(etwas) üben",
+      "english": "to practice (something)",
+      "forms": "übt, übte, hat geübt"
+     },
+     {
+      "id": 37458256,
+      "german": "von",
+      "english": "of",
+      "forms": ""
+     },
+     {
+      "id": 37495589,
+      "german": "etwas wiederholen",
+      "english": "to repeat/revise/review something",
+      "forms": "wiederholt, wiederholte, hat wiederholt"
+     },
+     {
+      "id": 37389485,
+      "german": "das Wort, die Wörter",
+      "english": "word",
+      "forms": ""
+     },
+     {
+      "id": 37495725,
+      "german": "das Wörterbuch, die Wörterbücher",
+      "english": "dictionary",
+      "forms": ""
+     },
+     {
+      "id": 40012728,
+      "german": "zum Beispiel",
+      "english": "for example; for instance",
+      "forms": "Abkürzung: z. B."
+     }
+    ]
+   },
+   "exercises": [
+    {
+     "id": "e-37404858",
+     "url": "https://learngerman.dw.com/en/definite-and-indefinite-articles-1/l-37372077/e-37404858",
+     "title": "Definite and indefinite articles (1)",
+     "texts": [
+      "ein",
+      "ein",
+      "eine",
+      "-",
+      "der Ordner: #ps# Ordner\ndas Wörterbuch: #ps# Wörterbuch\ndie Tafel: #ps# Tafel\ndie Stifte: #ps# Stifte",
+      "Wähl die unbestimmten Artikel in der richtigen Reihenfolge aus.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-38485049",
+     "url": "https://learngerman.dw.com/en/definite-and-indefinite-articles-2/l-37372077/e-38485049",
+     "title": "Definite and indefinite articles (2)",
+     "texts": [
+      "We use the indefinite article (ein/eine) when we are talking about a type of object or entity.\nWe use the definite article (der/die/das) when we have more precise knowledge about the object or entity.",
+      "eine",
+      "die",
+      "„die“ oder „eine“? Schreib den passenden Artikel in die Lücken.",
+      "Das ist #ps# Tasche.",
+      "„die“ oder „eine“? Schreib den passenden Artikel in die Lücken.",
+      "Das ist #ps# Tasche von Jenny."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37433012",
+     "url": "https://learngerman.dw.com/en/definite-and-indefinite-articles-3/l-37372077/e-37433012",
+     "title": "Definite and indefinite articles (3)",
+     "texts": [
+      "Beispiel:\nWie heißt das auf Deutsch? Sind das Radiergummis?\nNein. Das sind Stifte. Das sind die Stifte von Lisa.",
+      "-",
+      "-",
+      "die",
+      "ein",
+      "ein",
+      "der",
+      "Wie heißt das auf Deutsch? Sind das #p# Brillen?\nNein. Das sind #p# Schlüssel. Das sind #p# Schlüssel von Nico.",
+      "Steht hier ein Artikel oder nicht? Wähl aus.",
+      "Do you remember? In the plural there is no indefinite article.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "Wie heißt das auf Deutsch? Ist das #p# Notizblock?\nNein. Das ist #p# Stift. Das ist #p# Stift von Rana.",
+      "Wähl die richtigen Artikel aus.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37433456",
+     "url": "https://learngerman.dw.com/en/definite-article/l-37372077/e-37433456",
+     "title": "Definite article ",
+     "texts": [
+      "Beispiel:\nIst das die Tasche von Ming?\nNein, das ist die Tasche von Paolo.",
+      "Play audio",
+      "Nein, das ... (Lisa)",
+      "Play audio",
+      "Nein, das ... (Sarah)",
+      "Play audio",
+      "Nein, das ... (Elena)",
+      "Play audio",
+      "Nein, das ... (Musa)"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37433852",
+     "url": "https://learngerman.dw.com/en/describing-learning-activities-1/l-37372077/e-37433852",
+     "title": "Describing learning activities (1)",
+     "texts": [
+      "Wir lernen Deutsch.\nWir lesen Texte.\nWir buchstabieren Nomen.\nWir üben Wörter.\nWir machen eine Pause.\nWir hören Dialoge.\nWir wiederholen die Nomen und die Artikel.\nWir schreiben Sätze.\nWir machen die Hausaufgaben.",
+      "Wir machen Pause.",
+      "Wir hören Dialoge.",
+      "Wir schreiben die Nomen.",
+      "Wir wiederholen die Artikel.",
+      "Wir lesen Texte.",
+      "Was ist richtig?",
+      "Was ist richtig?",
+      "Was ist richtig?",
+      "Tip: Stick pieces of paper with articles and nouns to the objects in your room. Use different symbols or colors for the three articles.",
+      "Was ist richtig?",
+      "Was ist richtig?"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37433932",
+     "url": "https://learngerman.dw.com/en/describing-learning-activities-2/l-37372077/e-37433932",
+     "title": "Describing learning activities (2)",
+     "texts": [
+      "der Text, die Texte",
+      "der Dialog, die Dialoge",
+      "der Satz, die Sätze",
+      "das Wort, die Wörter",
+      "das Nomen, die Nomen",
+      "der Text, die Texte",
+      "der Dialog, die Dialoge",
+      "die Sprache, die Sprachen",
+      "Wähl die zwei passenden Nomen für das Verb.",
+      "Tip: Pay attention to the articles and the plural forms of the nouns.",
+      "Wähl die zwei passenden Nomen für das Verb.",
+      "Wähl die zwei passenden Nomen für das Verb.",
+      "Wähl die zwei passenden Nomen für das Verb.",
+      "Careful: \"Musik\" is usually just used in the singular."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37434306",
+     "url": "https://learngerman.dw.com/en/describing-learning-activities-3/l-37372077/e-37434306",
+     "title": "Describing learning activities (3)",
+     "texts": [
+      "Jenny",
+      "Rana",
+      "Jenny",
+      "Jenny",
+      "Rana",
+      "#p# übt die Dialoge.\n#p# wiederholt die Wörter.\n#p# buchstabiert Wörter.\n#p# liest Texte auf Deutsch.\n#p# schreibt Sätze.",
+      "Wer macht was? Wähl den richtigen Namen.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37402374",
+     "url": "https://learngerman.dw.com/en/in-language-class-1/l-37372077/e-37402374",
+     "title": "In language class (1)",
+     "texts": [
+      "Lisa ist eine Lehrerin in einem Sprachkurs.",
+      "Lisa spricht mit den Kursteilnehmern im Deutschkurs.",
+      "Wer ist Lisa?",
+      "Was macht Lisa?",
+      "New words: In German there are different words for people who take part in educational offerings. Participants in a German course are \"Kursteilnehmer\" or \"Kursteilnehmerinnen\" or \"Kursteilnehmende. You people who go to school are \"Schüler\" or \"Schülerinnen\". People who go to university are \"Studenten\" or \"Studentinnen\" or \"Studierende.\""
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37403210",
+     "url": "https://learngerman.dw.com/en/in-language-class-2/l-37372077/e-37403210",
+     "title": "In language class (2)",
+     "texts": [
+      "Wie heißt die Frage? Sortiere die Wörter.",
+      "Was ist das ?",
+      "Wie heißt die Antwort? Sortiere die Wörter.",
+      "Das ist eine Tafel ."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37433283",
+     "url": "https://learngerman.dw.com/en/indefinite-article/l-37372077/e-37433283",
+     "title": "Indefinite article",
+     "texts": [
+      "Beispiel:\nIst das ein Buchstabe?\nNein. Das ist eine Zahl.",
+      "Play audio",
+      "Nein, das ist ... (die Rechnung)",
+      "Do you remember? There is no indefinite article in the plural.",
+      "Play audio",
+      "Nein, das sind ... (die Stifte)",
+      "Play audio",
+      "Nein, das ist ... (die Brille)"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37404481",
+     "url": "https://learngerman.dw.com/en/objects-in-the-classroom/l-37372077/e-37404481",
+     "title": "Objects in the classroom",
+     "texts": [
+      "Das ist eine Tafel.",
+      "Das ist ein Ordner.",
+      "Das ist ein Wörterbuch.",
+      "Das sind Bleistifte.",
+      "Was ist das?",
+      "Careful! You use the indefinite article (ein/eine) when you do not have any more exact information about an object or a person.",
+      "Was ist das?",
+      "Was ist das?",
+      "Was ist das?",
+      "Careful! You only use the word in the plural – without any article. There is no indefinite plural article."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37434212",
+     "url": "https://learngerman.dw.com/en/paolo-is-learning-german/l-37372077/e-37434212",
+     "title": "Paolo is learning German",
+     "texts": [
+      "Hi, ich bin Paolo. Ich komme aus Italien. Ich spreche Italienisch und Englisch. Jetzt lerne ich in Lisas Kurs Deutsch. Ich spreche viel Deutsch, zum Beispiel im Deutschkurs, im Restaurant und mit Freunden. Ich frage Lisa: „Wie heißt das auf Deutsch? Wie schreibt man das?“ Ich schreibe kurze Texte auf Deutsch, zum Beispiel Nachrichten an meine Freunde. Am Nachmittag mache ich die Hausaufgaben. Und dann mache ich eine Pause.",
+      "Richtig",
+      "Falsch",
+      "Richtig",
+      "Richtig",
+      "Falsch",
+      "Paolo ist Italiener.",
+      "Er spricht Spanisch.",
+      "Paolo schreibt Nachrichten auf Deutsch.",
+      "Paolo fragt die Lehrerin.",
+      "Paolo macht am Abend die Hausaufgaben."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37432752",
+     "url": "https://learngerman.dw.com/en/say-to-whom-something-belongs/l-37372077/e-37432752",
+     "title": "Say to whom something belongs",
+     "texts": [
+      "der",
+      "die",
+      "das",
+      "das",
+      "ist",
+      "die",
+      "Brille",
+      "von",
+      "sind",
+      "die",
+      "Schlüssel",
+      "von",
+      "Ja, das ist #ps# Stift von Rana.",
+      "Ist das ein Stift?",
+      "CONTINUOUS_TEXT",
+      "Ja, das sind #ps# Bücher von Lisa.",
+      "Sind das Bücher?",
+      "CONTINUOUS_TEXT",
+      "Ja, #ps# #ps# #ps# #ps# #ps# Lisa.",
+      "Ist das eine Brille?",
+      "CONTINUOUS_TEXT",
+      "Ja, #ps# #ps# #ps# #pm# #ps# Lisa.",
+      "Sind das Schlüssel?",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37434035",
+     "url": "https://learngerman.dw.com/en/saying-what-you-are-doing-in-german-class/l-37372077/e-37434035",
+     "title": "Saying what you are doing in German class",
+     "texts": [
+      "Beispiel:\nWas lernst du im Deutschunterricht?\nIch lerne Wörter und Sätze.",
+      "Play audio",
+      "lesen: Texte, Bücher",
+      "Play audio",
+      "schreiben: Wörter, Sätze",
+      "Play audio",
+      "hören: Musik, Dialoge",
+      "Play audio",
+      "buchstabieren: Wörter",
+      "Play audio",
+      "wiederholen: Nomen und Artikel"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37433706",
+     "url": "https://learngerman.dw.com/en/the-plural-with-and-without-an-umlaut/l-37372077/e-37433706",
+     "title": "The plural with and without an umlaut",
+     "texts": [
+      "ä",
+      "o",
+      "u",
+      "a",
+      "ö",
+      "ü",
+      "Tip: Listen to the audio once again and repeat in order to train your pronunciation. Proceed with the next task and do the same again.",
+      "der Flughafen, die Flugh#p#fen",
+      "das Problem, die Pr#p#bleme",
+      "der Deutschkurs, die Deutschk#p#rse",
+      "das Jahr, die J#p#hre",
+      "das Wort, die W#p#rter",
+      "das Buch, die B#p#cher"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37433637",
+     "url": "https://learngerman.dw.com/en/the-plural/l-37372077/e-37433637",
+     "title": "The plural",
+     "texts": [
+      "Fotos",
+      "Taxis",
+      "Sprachschulen",
+      "Straßen",
+      "Sehenswürdigkeiten",
+      "Bestellungen",
+      "Deutschkurse",
+      "Jahre",
+      "e",
+      "er",
+      "er",
+      "Ordner",
+      "Lehrer",
+      "en",
+      "das Foto, die #pm#\ndas Taxi, die #pm#",
+      "der Radiergummi, die Radiergummis",
+      "Info: This is the plural ending \"-s\".",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "die Sprachschule, die #pm#\ndie Straße, die #pm#",
+      "die Brille, die Brillen",
+      "Info: This is the plural ending \"-n\".",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "die Sehenswürdigkeit, die #pl#\ndie Bestellung, die #pm#",
+      "die Zahl, die Zahlen",
+      "Info: This is the plural ending \"-en\".",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "der Deutschkurs, die #pm#\ndas Jahr, die #pm#\nder Notizblock, die Notizblöck#ps#",
+      "der Stift, die Stifte",
+      "Info: This is the plural ending \"-e\". With this ending, there is sometimes an umlaut (ä/ö/ü).",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "das Land, die Länd#ps#\ndas Wort, die Wört#ps#",
+      "das Buch, die Bücher",
+      "Info: This is the plural ending \"-er\". With this ending, there is also sometimes an umlaut (ä/ö/ü).",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "der Ordner, die #pm#\nder Lehrer, die #pm#\nder Flughafen, die Flughäf#ps#",
+      "der Schlüssel, die Schlüssel",
+      "Careful! Nothing changes in the plural ending here: \"-\". But here too there is sometimes an umlaut (ä/ö/ü).",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37432923",
+     "url": "https://learngerman.dw.com/en/what-is-that-to-whom-does-it-belong-2/l-37372077/e-37432923",
+     "title": "What is that? To whom does it belong? (2)",
+     "texts": [
+      "Beispiel:\nWie heißt das auf Deutsch? Ist das ein Notizblock?\nNein. Das ist ein Bleistift. Das ist der Bleistift von Jenny.",
+      "ein",
+      "ein",
+      "der",
+      "ein",
+      "eine",
+      "die",
+      "ein",
+      "ein",
+      "das",
+      "Wie heißt das auf Deutsch? Ist das #ps# Bleistift?\nNein. Das ist #ps# Radiergummi. Das ist #ps# Radiergummi von Lisa.",
+      "Wähl die Artikel in der richtigen Reihenfolge aus.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "Wie heißt das auf Deutsch? Ist das #ps# Buch?\nNein. Das ist #ps# Brille. Das ist #ps# Brille von Max.",
+      "Wähl die Artikel in der richtigen Reihenfolge aus.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "Wie heißt das auf Deutsch? Ist das #ps# Radiergummi?\nNein. Das ist #ps# Buch. Das ist #ps# Buch von Rana.",
+      "Wähl die Artikel in der richtigen Reihenfolge aus.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37405015",
+     "url": "https://learngerman.dw.com/en/what-is-that-to-whom-does-that-belong-1/l-37372077/e-37405015",
+     "title": "What is that? To whom does that belong? (1)",
+     "texts": [
+      "Das ist eine Tasche.",
+      "Das ist die Tasche von Jenny.",
+      "Das ist ein Buch.",
+      "Das ist das Buch von Lisa.",
+      "Was ist richtig?",
+      "Was ist richtig?",
+      "Was ist richtig?",
+      "Was ist richtig?"
+     ],
+     "vocabularyTags": []
+    }
+   ],
+   "pages": [
+    {
+     "id": "gr-38305916",
+     "url": "https://learngerman.dw.com/en/articles-indefinite/l-37372077/gr-38305916",
+     "title": "Articles: indefinite",
+     "texts": [
+      "Articles: indefinite",
+      "The indefinite articles: ein, eine\nWhen we are not talking about a particular object or a particular person, the indefinite article is used.\nWas ist das? – Das ist ein Stift.\nIt does not matter which pen it is, to whom it belongs, or whether it is blue, black, big or small. The sentence could refer to any pen. That is why the indefinite article ein is used, and not the definite article der.\ndefinite\nindefinite\nmasculine\nder Stift\nein Stift\nfeminine\ndie Brille\neine Brille\nneuter\ndas Buch\nein Buch\nIn the plural, there are no indefinite articles. If an indefinite noun is used in the plural, there is no article in front of it.\ndefinite\nindefinite\nplural\ndie Stifte\nStifte\nplural\ndie Brillen\nBrillen\nplural\ndie Bücher\nBücher"
+     ],
+     "html": "<p><strong>The indefinite articles:<em> ein, eine</em></strong></p>\n\n<p>When we are not talking about a particular object or a particular person, the indefinite article is used.</p>\n\n<p><em>Was ist das? – Das ist <strong>ein</strong> Stift.</em></p>\n\n<p>It does not matter which pen it is, to whom it belongs, or whether it is blue, black, big or small. The sentence could refer to any pen. That is why the indefinite article<em> ein</em> is used, and not the definite article <em>der</em>.</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>&#160;</td>\n\t\t\t<td>definite</td>\n\t\t\t<td>indefinite</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>masculine</td>\n\t\t\t<td><strong>der</strong> Stift</td>\n\t\t\t<td><strong>ein</strong> Stift</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>feminine</td>\n\t\t\t<td><strong>die</strong> Brille</td>\n\t\t\t<td><strong>eine</strong> Brille</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>neuter</td>\n\t\t\t<td><strong>das</strong> Buch</td>\n\t\t\t<td><strong>ein</strong> Buch</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&#160;</p>\n\n<p>In the plural, there are no indefinite articles. If an indefinite noun is used in the plural, there is no article in front of it.</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>&#160;</td>\n\t\t\t<td>definite</td>\n\t\t\t<td>indefinite</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>plural</td>\n\t\t\t<td><strong>die </strong>Stifte</td>\n\t\t\t<td>Stifte</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>plural</td>\n\t\t\t<td><strong>die </strong>Brillen</td>\n\t\t\t<td>Brillen</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>plural</td>\n\t\t\t<td><strong>die </strong>Bücher</td>\n\t\t\t<td>Bücher</td>\n\t\t</tr>\n\t</tbody>\n</table>\n"
+    },
+    {
+     "id": "gr-38306055",
+     "url": "https://learngerman.dw.com/en/conjugation-lesen/l-37372077/gr-38306055",
+     "title": "Conjugation: lesen",
+     "texts": [
+      "Conjugation: lesen",
+      "Liest du gern? – Ja, ich lese gern.\nAs with other verbs, in the conjugation of the verb lesen, the root vowel changes in the second- and third-person singular. The vowel e becomes ie. The ie is spoken as a long i.\nSingular\n1st person\nich lese\n2nd person\ndu liest\n3rd person\ner/sie/es liest\nPlural\n1st person\nwir lesen\n2nd person\nihr lest\n3rd person\nsie lesen\nFormal\nSie lesen"
+     ],
+     "html": "<p><strong><em>Liest</em></strong><em> du gern? – Ja, ich <strong>lese</strong> gern.</em></p>\n\n<p>As with other verbs, in the conjugation of the verb&#160;<em>lesen,</em>&#160;the root vowel changes in the second- and third-person singular. The vowel <strong><em>e</em></strong> becomes <strong><em>ie</em></strong>. The <em>ie</em> is spoken as a long <em>i</em>.</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><em>Singular</em></td>\n\t\t\t<td>&#160;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>1st person</td>\n\t\t\t<td>ich lese</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>2nd person</td>\n\t\t\t<td>du liest</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>3rd person</td>\n\t\t\t<td>er/sie/es liest</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><em>Plural</em></td>\n\t\t\t<td>&#160;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>1st person</td>\n\t\t\t<td>wir lesen</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>2nd person</td>\n\t\t\t<td>ihr lest</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>3rd person</td>\n\t\t\t<td>sie lesen</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><em>Formal</em></td>\n\t\t\t<td>Sie lesen</td>\n\t\t</tr>\n\t</tbody>\n</table>\n"
+    },
+    {
+     "id": "gr-38305937",
+     "url": "https://learngerman.dw.com/en/indefinite-or-definite/l-37372077/gr-38305937",
+     "title": "Indefinite or definite?",
+     "texts": [
+      "Indefinite or definite?",
+      "Das ist eine Tasche.\nThe indefinite article is used …\nwhen we are talking about the type of object or person being referred to in general.\nwhen the object or person is not yet known and has not been mentioned before.\nDas ist die Tasche von Jenny.\nThe definite article is used …\nwhen talking about a particular object or person that is already known to the speaker or listener.\nwhen further information is known about a person or an object, e.g. to whom it belongs.\nGrammatical terms in German:\nder bestimmte Artikel: The articles der, die, das are definite articles.\nder unbestimmte Artikel: The articles ein, eine are indefinite articles."
+     ],
+     "html": "<p><em>Das ist <strong>eine</strong> Tasche. </em></p>\n\n<p>The indefinite article is used …</p>\n\n<ul>\n\t<li>when we are talking about the type of object or person being referred to in general.</li>\n\t<li>when the object or person is not yet known and has not been mentioned before.</li>\n</ul>\n\n<p>&#160;</p>\n\n<p><em>Das ist <strong>die</strong> Tasche von Jenny.</em></p>\n\n<p>The definite article is used …</p>\n\n<ul>\n\t<li>when talking about a particular object or person that is already known to the speaker or listener.</li>\n\t<li>when further information is known about a person or an object, e.g. to whom it belongs.</li>\n</ul>\n\n<p>&#160;</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>Grammatical terms in German:</p>\n\n\t\t\t<p>der bestimmte Artikel: The articles <em>der</em>, <em>die</em>,<em> das </em>are definite articles.</p>\n\t\t\tder unbestimmte Artikel: The articles <em>ein</em>,<em> eine</em>&#160;are indefinite articles.</td>\n\t\t</tr>\n\t</tbody>\n</table>\n"
+    },
+    {
+     "id": "gr-38306003",
+     "url": "https://learngerman.dw.com/en/nouns-plural/l-37372077/gr-38306003",
+     "title": "Nouns: plural",
+     "texts": [
+      "Nouns: plural",
+      "When we are talking about two or more people or objects of the same type, we use the plural form.\nSingular: Das ist ein Stift. Der Stift kostet 1,50 Euro.\nPlural: Das sind fünf Stifte. Die Stifte kosten 7,50 Euro.\nIn German there are different ways to form the plural. It is hard to find general rules that are valid in all cases and to say which nouns have which plural endings – and it is even harder to remember these rules and apply them. The best thing is to learn each noun with the definite article and the plural. You can find this information in a dictionary. Usually the plural is not given as a whole word, just as an ending.\nImage:\nPlural example: the masculine word \"Stift\" forms its plural \"Stift\" by adding \"-e\" at the end.\nThe plural of Stift is formed with the ending -e, becoming: die Stifte.\nImage:\nPlural example: The neuter noun \"book\" forms its plural \"Bücher\" by adding \"-er\" at the end and changing the \"u\" to \"ü\".\nThe plural of Buch is formed with an umlaut (the symbol for this is a dash with two dots above it, as you see in the picture above) and the ending -er, becoming: die Bücher.\nThere are five different plural endings:\nEnding\nExample\n-n\ndie Brille, die Brillen\n-en\ndie Zahl, die Zahlen\n-e\nder Stift, die Stifte\n-er\ndas Kind, die Kinder\n-s\ndas Foto, die Fotos\nSome nouns have no different ending.\nExample:\nder Lehrer, die Lehrer\nSome nouns also gain an umlaut on one of the vowels in the word in the plural.\nExamples:\nder Notizblock, die Notizblöcke\ndas Buch, die Bücher\nder Flughafen, die Flughäfen\nSome words have two possible plural forms.\nExample: die Pizza, die Pizzen/die Pizzas.\nBoth plural forms are right and have the same meaning.\nGrammatical terms in German:\nder Singular: The singular is used when we are referring to a single person or object.\nder Plural: The plural is used when we are referring to several people or objects."
+     ],
+     "html": "<p>When we are talking about two or more people or objects of the same type, we use the plural form.</p>\n\n<p>Singular: <em>Das ist <strong>ein Stift</strong>. <strong>Der Stift</strong> kostet 1,50 Euro.</em></p>\n\n<p>Plural: <em>Das sind <strong>fünf Stifte</strong>. </em><strong><em>Die Stifte</em></strong><em> kosten 7,50 Euro.</em></p>\n\n<p>In German there are different ways to form the plural. It is hard to find&#160;general rules that are valid in all cases and to say which nouns have which plural endings – and it is even harder to remember these rules and apply them. The best thing is to learn each noun with the definite article and the plural. You can find this information in a dictionary. Usually the plural is not given as a whole word, just as an&#160;ending.</p>\n\n<p>Image:</p><ul><li>Plural example: the masculine word &quot;Stift&quot; forms its plural &quot;Stift&quot; by adding &quot;-e&quot; at the end.</li></ul>\n\n<p>The plural of <em>Stift</em> is formed with the ending <em>-e</em>, becoming: <em>die</em> <em>Stifte.</em></p>\n\n<p>Image:</p><ul><li>Plural example: The neuter noun &quot;book&quot; forms its plural &quot;Bücher&quot; by adding &quot;-er&quot; at the end and changing the &quot;u&quot; to &quot;ü&quot;.</li></ul><p></p>\n\n<p>The plural of <em>Buch</em> is formed with an umlaut (the symbol for this is a dash with two dots above it, as you see in the picture above) and the ending <em>-er</em>, becoming: <em>die</em> <em>Bücher.</em></p>\n\n<p>There are five different plural endings:</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>Ending</td>\n\t\t\t<td>Example</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>-n</td>\n\t\t\t<td>die Brille, die Brillen</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>-en</td>\n\t\t\t<td>die Zahl, die Zahlen</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>-e</td>\n\t\t\t<td>der Stift, die Stifte</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>-er</td>\n\t\t\t<td>das Kind, die Kinder</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>-s</td>\n\t\t\t<td>das Foto, die Fotos</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&#160;</p>\n\n<p>Some nouns have no different ending.</p>\n\n<p>Example:</p>\n\n<p><em>der Lehrer, die Lehrer</em></p>\n\n<p>&#160;</p>\n\n<p>Some nouns also gain an umlaut on one of the vowels in the word in the plural.</p>\n\n<p>Examples:</p>\n\n<p><em>der Notizbl<strong>o</strong>ck, die Notizbl<strong>ö</strong>cke</em></p>\n\n<p><em>das B<strong>u</strong>ch, die B<strong>ü</strong>cher</em></p>\n\n<p><em>der Flugh<strong>a</strong>fen, die Flugh<strong>ä</strong>fen</em></p>\n\n<p>&#160;</p>\n\n<p>Some words have two possible plural forms.</p>\n\n<p>Example: <em>die Pizza, die Pizzen/die Pizzas.</em></p>\n\n<p>Both plural forms are right and have the same meaning.</p>\n\n<p>&#160;</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>Grammatical terms in German:</p>\n\n\t\t\t<p>der Singular: The singular is used when we are referring to a single person or object.</p>\n\t\t\tder Plural: &#160;The plural is used when we are referring to several people or objects.</td>\n\t\t</tr>\n\t</tbody>\n</table>\n"
+    },
+    {
+     "id": "rs-39370849",
+     "url": "https://learngerman.dw.com/en/who-speaks-german/l-37372077/rs-39370849",
+     "title": "Who speaks German?",
+     "texts": [
+      "Who speaks German?",
+      "About 105 million people in Germany, Austria, Switzerland, Liechtenstein and Luxembourg speak German as their first language. In Europe, German is also spoken in parts of Belgium, eastern France and in South Tyrol (Italy).\nGerman is spoken above all within the European Union and in other countries of eastern and central Europe. But German is a popular foreign language elsewhere too: it is taught in about 144 countries, including North Korea. After English, Chinese and French, Spanish and German are regular rivals for the fourth most commonly studied foreign language in the world."
+     ],
+     "html": "\n\n<p>About 105 million people in Germany, Austria, Switzerland, Liechtenstein and Luxembourg speak German as their first language. In Europe, German is also spoken in parts of Belgium, eastern France and in South Tyrol (Italy).</p>\n\n<p>German is spoken above all within the European Union and in other countries of eastern and central Europe. But German is a popular foreign language elsewhere too: it is taught in about 144 countries, including North Korea. After English, Chinese and French, Spanish and German are regular rivals for the fourth most commonly studied foreign language in the world.</p>\n"
+    }
+   ]
+  },
+  {
+   "id": "script",
+   "kind": "dw-script-pdf",
+   "url": "https://learngerman.dw.com/downloads/52719652/nicos-weg-a1-e5-l2-manuskript-und-wortschatz-englisch.pdf",
+   "localFile": "DW Deutsch lernen/A1/05_things/02_Wem gehört das/Materials/Script and vocabulary (English).pdf",
+   "sha256": "ba2816fc0697182d07db51a5be1b9af439d8ad313ce229a0e5354a4b25b938fd",
+   "lines": [
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "(5) Things | Wem gehört das?",
+    "In today’s German class, Lisa’s students are learning how to ask about",
+    "objects. In the middle of the lesson, the door suddenly opens…",
+    "Script",
+    "LISA:",
+    "Also, was ist das?",
+    "KURSTEILNEHMERIN:",
+    "Das ist eine Tafel.",
+    "LISA:",
+    "Sehr gut. Kannst du das bitte buchstabieren?",
+    "KURSTEILNEHMERIN:",
+    "T-A-F-E-L.",
+    "LISA:",
+    "Super, Rana.",
+    "KURSTEILNEHMERIN:",
+    "Der Tafel.",
+    "LISA:",
+    "Entschuldigung, kannst du das noch mal wiederholen?",
+    "KURSTEILNEHMERIN:",
+    "Das Tafel?",
+    "LISA:",
+    "Die Tafel. Nomen und Artikel gehören immer zusammen: der Stuhl, die Tafel, das Buch.",
+    "Kennt ihr noch andere Nomen mit Artikeln?",
+    "KURSTEILNEHMERIN:",
+    "Die Tasche!",
+    "Klassifikationsstufe: Intern",
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "LISA:",
+    "Richtig. Die Tasche.",
+    "LISA:",
+    "Das ist eine Tasche. Das ist auch eine Tasche. Und das ist die Tasche von Jenny. Die",
+    "Tasche, eine Tasche. So. Und jetzt alle Post-its schreiben! Das Wörterbuch hilft.",
+    "Klassifikationsstufe: Intern",
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "Vocabulary (from script and lesson)",
+    "die Bestellung, die Bestellungen – order",
+    "der Deutschunterricht – German class",
+    "nur Singular",
+    "der Dialog, die Dialoge – dialogue; conversation",
+    "ein – a/an (indefinite article)",
+    "eine – a/an (indefinite article)",
+    "falsch – wrong",
+    "die Hausaufgabe, die Hausaufgaben – homework",
+    "meist im Plural",
+    "(etwas) hören – to listen to; to hear",
+    "hört, hörte, hat gehört",
+    "das Jahr, die Jahre – year",
+    "der Kursteilnehmer, die Kursteilnehmer – course participant (male)",
+    "die Kursteilnehmerin, die Kursteilnehmerinnen – course participant (female)",
+    "(etwas) lernen – to learn (something)",
+    "lernt, lernte, hat gelernt",
+    "(etwas) lesen – to read (something)",
+    "liest, las, hat gelesen",
+    "der Nachmittag, die Nachmittage – afternoon",
+    "die Nachricht, die Nachrichten – message",
+    "der Ordner, die Ordner – binder; folder",
+    "die Pause, die Pausen – break",
+    "Klassifikationsstufe: Intern",
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "richtig – correct; right",
+    "der Satz, die Sätze – sentence",
+    "(etwas) schreiben – to write (something)",
+    "schreibt, schrieb, hat geschrieben",
+    "die Tafel, die Tafeln – board; chalkboard",
+    "der Text, die Texte – text",
+    "(etwas) üben – to practice (something)",
+    "übt, übte, hat geübt",
+    "von – of",
+    "etwas wiederholen – to repeat/revise/review something",
+    "wiederholt, wiederholte, hat wiederholt",
+    "das Wort, die Wörter – word",
+    "das Wörterbuch, die Wörterbücher – dictionary",
+    "zum Beispiel – for example; for instance",
+    "Abkürzung: z.B.",
+    "Klassifikationsstufe: Intern"
+   ]
+  }
+ ]
+}

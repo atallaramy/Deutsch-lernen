@@ -40,7 +40,7 @@ this spirit.
   packages or PDFs without the learner's explicit approval for that item. Open
   items are in `docs/known-issues.md`.
 - Leave the pronunciation resource untouched:
-  `DW Deutsch lernen/A1/01_Intro_zu_A1/04_Von A bis Z/build_phonetic_alphabet_deck.py`,
+  `DW Deutsch lernen/A1/00_welcome_to_A1/04_Von A bis Z/build_phonetic_alphabet_deck.py`,
   `phonetic-alphabet.json` and `Von A bis Z_Phonetic Alphabet_Pronunciation.apkg`.
 - Do not rerun `ANKI/download_nicos_weg_a1_materials.py`: its manifest uses old
   folder names and would create duplicate folders.

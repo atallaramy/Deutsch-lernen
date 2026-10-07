@@ -45,7 +45,7 @@ Built when I have studied the lesson. Topics from
 
 - **Cases**: *Nominativ* and *Akkusativ* are on [Nominativ-Akkusativ](A1/Nominativ-Akkusativ.md);
   *Dativ* comes with DW A1 E9 L3 *The dative*, *Genitiv* later. My full table is in my notes
-  [Nico hat ein Problem](<../DW Deutsch lernen/A1/02_meeting_people/04_Lesson_04/Nico hat Problem.md>);
+  [Nico hat ein Problem](<../DW Deutsch lernen/A1/01_meeting_people/04_Nico hat ein Problem/Nico hat Problem.md>);
   its articles match Wiktionary.
 - **DW Nicos Weg A1** ([index](../docs/course-index/dw-nicos-weg-a1.md)):
   - E5: adjectives after *sein* (L4)

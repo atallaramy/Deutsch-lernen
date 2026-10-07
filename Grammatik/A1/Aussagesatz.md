@@ -74,4 +74,4 @@ All lines are from the DW E4 L3 grammar page.
 
 > …
 
-My notes: [In Europa](<../../DW Deutsch lernen/A1/05_around_the_world/03_Lesson_03/In Europa.md>)
+My notes: [In Europa](<../../DW Deutsch lernen/A1/04_around_the_world/03_In Europa/In Europa.md>)

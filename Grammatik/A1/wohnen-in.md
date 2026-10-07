@@ -89,17 +89,17 @@ DW E4 L1: [Prepositions of place: in, nach](https://learngerman.dw.com/en/prepos
 
 | Wrong | Right | Why | From |
 |---|---|---|---|
-| Wo kommen Sie? | Woher kommen Sie? | *kommen aus* goes with *woher*. | [my notes: Woher kommst du?](<../../DW Deutsch lernen/A1/02_meeting_people/03_Lesson_03/Woher komst du.md>) |
+| Wo kommen Sie? | Woher kommen Sie? | *kommen aus* goes with *woher*. | [my notes: Woher kommst du?](<../../DW Deutsch lernen/A1/01_meeting_people/03_Woher kommst du/Woher komst du.md>) |
 | Woher wohnst du? | Wo wohnst du? | *wohnen in* goes with *wo*. | rule |
 | Ich wohne aus Spanien. | Ich wohne in Spanien. | *wohnen* takes *in*. *aus* is for where you come from. | rule |
 | Ich wohne in Schillerweg. | Ich wohne im Schillerweg. | *-weg* takes *im* (*in dem*). | rule |
 | Ich wohne in der Schillerplatz. | Ich wohne am Schillerplatz. | *-platz* takes *am* (*an dem*). | rule |
 | Ich komme aus Schweiz. | Ich komme aus der Schweiz. | *die Schweiz* keeps its article. | rule |
-| noch Berlin | nach Berlin | *nach* = to (*Wohin?*); *noch* = still. | [my mistakes: Ich war schon in Berlin](<../../DW Deutsch lernen/A1/05_around_the_world/01_Lesson_01/Materials/mistakes.md>) |
+| noch Berlin | nach Berlin | *nach* = to (*Wohin?*); *noch* = still. | [my mistakes: Ich war schon in Berlin](<../../DW Deutsch lernen/A1/04_around_the_world/01_Ich war schon in Berlin/Materials/mistakes.md>) |
 | Ich fahre in München. | Ich fahre nach München. | Going to a town (*Wohin?*) takes *nach*. | rule |
-| das ist Süden | das ist im Süden | In the south: *im Süden*. | [my mistakes: Wo liegt das?](<../../DW Deutsch lernen/A1/05_around_the_world/02_Lesson_02/Materials/mistakes.md>) |
-| Im Westlich von Ägepten | Westlich von Ägypten | No *im* before *westlich*. | [my mistakes: Andere Länder](<../../DW Deutsch lernen/A1/05_around_the_world/04_Lesson_04/Materials/mistakes.md>) |
-| Im Süden von Ägypten liegt der Sudan. | Südlich von Ägypten liegt der Sudan. | Sudan is beside Egypt: *südlich von*. *im Süden von Ägypten* is inside Egypt. | [my mistakes: Andere Länder](<../../DW Deutsch lernen/A1/05_around_the_world/04_Lesson_04/Materials/mistakes.md>) |
+| das ist Süden | das ist im Süden | In the south: *im Süden*. | [my mistakes: Wo liegt das?](<../../DW Deutsch lernen/A1/04_around_the_world/02_Wo liegt das/Materials/mistakes.md>) |
+| Im Westlich von Ägepten | Westlich von Ägypten | No *im* before *westlich*. | [my mistakes: Andere Länder](<../../DW Deutsch lernen/A1/04_around_the_world/04_Andere Länder/Materials/mistakes.md>) |
+| Im Süden von Ägypten liegt der Sudan. | Südlich von Ägypten liegt der Sudan. | Sudan is beside Egypt: *südlich von*. *im Süden von Ägypten* is inside Egypt. | [my mistakes: Andere Länder](<../../DW Deutsch lernen/A1/04_around_the_world/04_Andere Länder/Materials/mistakes.md>) |
 
 ## Official pages
 
@@ -126,9 +126,9 @@ DW E4 L1: [Prepositions of place: in, nach](https://learngerman.dw.com/en/prepos
 
 > …
 
-My notes: [Woher kommst du?](<../../DW Deutsch lernen/A1/02_meeting_people/03_Lesson_03/Woher komst du.md>) ·
+My notes: [Woher kommst du?](<../../DW Deutsch lernen/A1/01_meeting_people/03_Woher kommst du/Woher komst du.md>) ·
 [VHS Lektion 2](<../../VHS-Lernportal/A1/Lesson_02/lektion_02.md>) ·
-[Adressen](<../../DW Deutsch lernen/A1/03_contact_details/03_Lesson_03/Adressen.md>) ·
-[Ich war schon in Berlin](<../../DW Deutsch lernen/A1/05_around_the_world/01_Lesson_01/Ich war schon in Berlin.md>) ·
-[Wo liegt das?](<../../DW Deutsch lernen/A1/05_around_the_world/02_Lesson_02/Wo liegt das.md>) ·
-[Andere Länder](<../../DW Deutsch lernen/A1/05_around_the_world/04_Lesson_04/Andere Länder.md>)
+[Adressen](<../../DW Deutsch lernen/A1/02_contact_details/03_Adressen/Adressen.md>) ·
+[Ich war schon in Berlin](<../../DW Deutsch lernen/A1/04_around_the_world/01_Ich war schon in Berlin/Ich war schon in Berlin.md>) ·
+[Wo liegt das?](<../../DW Deutsch lernen/A1/04_around_the_world/02_Wo liegt das/Wo liegt das.md>) ·
+[Andere Länder](<../../DW Deutsch lernen/A1/04_around_the_world/04_Andere Länder/Andere Länder.md>)

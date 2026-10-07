@@ -35,9 +35,9 @@ DECKS = OrderedDict([
                    "Productive sentences, replies, register switches and contextual forms from the lessons. No audio.")),
 ])
 PRONUNCIATION_FILES = [
-    ROOT / "DW Deutsch lernen/A1/01_Intro_zu_A1/04_Von A bis Z/build_phonetic_alphabet_deck.py",
-    ROOT / "DW Deutsch lernen/A1/01_Intro_zu_A1/04_Von A bis Z/phonetic-alphabet.json",
-    ROOT / "DW Deutsch lernen/A1/01_Intro_zu_A1/04_Von A bis Z/Von A bis Z_Phonetic Alphabet_Pronunciation.apkg",
+    ROOT / "DW Deutsch lernen/A1/00_welcome_to_A1/04_Von A bis Z/build_phonetic_alphabet_deck.py",
+    ROOT / "DW Deutsch lernen/A1/00_welcome_to_A1/04_Von A bis Z/phonetic-alphabet.json",
+    ROOT / "DW Deutsch lernen/A1/00_welcome_to_A1/04_Von A bis Z/Von A bis Z_Phonetic Alphabet_Pronunciation.apkg",
 ]
 INTERFERENCE_GAP = 12
 REVIEW_DIR = ANKI / "review"

@@ -49,7 +49,7 @@ VHS Lektion 2 vocabulary trainer (*wir* = we, *sie* = she / they).
 
 | Wrong | Right | Why | From |
 |---|---|---|---|
-| wie arbeiten | wir arbeiten | *wie* = how, *wir* = we. The same slip is in *wie sind* and *wie haben*. | [my notes: Nico hat ein Problem](<../../DW Deutsch lernen/A1/02_meeting_people/04_Lesson_04/Nico hat Problem.md>) |
+| wie arbeiten | wir arbeiten | *wie* = how, *wir* = we. The same slip is in *wie sind* and *wie haben*. | [my notes: Nico hat ein Problem](<../../DW Deutsch lernen/A1/01_meeting_people/04_Nico hat ein Problem/Nico hat Problem.md>) |
 | sie heißt (they) | sie heißen | They → **-en**. She → **-t**. | rule |
 | sie kommen (to a stranger) | Sie kommen | The formal Sie always has a capital S. | rule |
 
@@ -74,6 +74,6 @@ VHS Lektion 2 vocabulary trainer (*wir* = we, *sie* = she / they).
 
 > …
 
-My notes: [Ich heiße Emma](<../../DW Deutsch lernen/A1/02_meeting_people/01_Lesson_01/Ich heiße Emma.md>) ·
-[Das ist Nico](<../../DW Deutsch lernen/A1/02_meeting_people/02_Lesson_02/Das ist Nico.md>) ·
-[Nico hat ein Problem](<../../DW Deutsch lernen/A1/02_meeting_people/04_Lesson_04/Nico hat Problem.md>)
+My notes: [Ich heiße Emma](<../../DW Deutsch lernen/A1/01_meeting_people/01_Ich heiße Emma/Ich heiße Emma.md>) ·
+[Das ist Nico](<../../DW Deutsch lernen/A1/01_meeting_people/02_Das ist Nico/Das ist Nico.md>) ·
+[Nico hat ein Problem](<../../DW Deutsch lernen/A1/01_meeting_people/04_Nico hat ein Problem/Nico hat Problem.md>)

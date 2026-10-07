@@ -67,9 +67,9 @@ In the script Nina says *ich nehm*, the spoken short form of *ich nehme*.
 
 | Wrong | Right | Why | From |
 |---|---|---|---|
-| mimmst | nimmst | n-i-m-m-s-t: *nehmen* → *du nimmst*. | [my mistakes: Eine Pizza bitte!](<../../DW Deutsch lernen/A1/04_in_company/03_Lesson_03/Materials/mistakes.md>) |
-| sprechst | sprichst | e → i for du: *du sprichst*. | [my mistakes: Andere Länder](<../../DW Deutsch lernen/A1/05_around_the_world/04_Lesson_04/Materials/mistakes.md>) |
-| spricht | sprichst | du ends in *-st*: *du sprichst*. *spricht* is er/sie/es. | [my mistakes: Andere Länder](<../../DW Deutsch lernen/A1/05_around_the_world/04_Lesson_04/Materials/mistakes.md>) |
+| mimmst | nimmst | n-i-m-m-s-t: *nehmen* → *du nimmst*. | [my mistakes: Eine Pizza bitte!](<../../DW Deutsch lernen/A1/03_in_company/03_Eine Pizza bitte/Materials/mistakes.md>) |
+| sprechst | sprichst | e → i for du: *du sprichst*. | [my mistakes: Andere Länder](<../../DW Deutsch lernen/A1/04_around_the_world/04_Andere Länder/Materials/mistakes.md>) |
+| spricht | sprichst | du ends in *-st*: *du sprichst*. *spricht* is er/sie/es. | [my mistakes: Andere Länder](<../../DW Deutsch lernen/A1/04_around_the_world/04_Andere Länder/Materials/mistakes.md>) |
 | du nehmst | du nimmst | e → i for du, and *h* → *mm*. | rule |
 | er esst | er isst | e → i for er/sie/es too. *esst* is the ihr form. | rule |
 | ihr nimmt | ihr nehmt | Only du and er/sie/es change. | rule |
@@ -98,6 +98,6 @@ In the script Nina says *ich nehm*, the spoken short form of *ich nehme*.
 
 > …
 
-My notes: [Eine Pizza bitte!](<../../DW Deutsch lernen/A1/04_in_company/03_Lesson_03/Ein Pizza bitte.md>) ·
-[Andere Länder](<../../DW Deutsch lernen/A1/05_around_the_world/04_Lesson_04/Andere Länder.md>) ·
-[Was ist das?](<../../DW Deutsch lernen/A1/06_living/01_Lesson_01/Was ist das.md>) (*lesen*)
+My notes: [Eine Pizza bitte!](<../../DW Deutsch lernen/A1/03_in_company/03_Eine Pizza bitte/Ein Pizza bitte.md>) ·
+[Andere Länder](<../../DW Deutsch lernen/A1/04_around_the_world/04_Andere Länder/Andere Länder.md>) ·
+[Was ist das?](<../../DW Deutsch lernen/A1/05_things/01_Was ist das/Was ist das.md>) (*lesen*)

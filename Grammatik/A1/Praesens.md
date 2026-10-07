@@ -78,15 +78,15 @@ DW A1 E4 L4 *Conjugation: sprechen*.
 
 | Wrong | Right | Why | From |
 |---|---|---|---|
-| ich kommer aus Deutschland | ich komme aus Deutschland | After ich the ending is always **-e**. | [my notes: Woher kommst du?](<../../DW Deutsch lernen/A1/02_meeting_people/03_Lesson_03/Woher komst du.md>) |
-| Ich wohen in Sevilla. | Ich wohne in Sevilla. | Stem *wohn-* + ending *-e*. | [my notes: Woher kommst du?](<../../DW Deutsch lernen/A1/02_meeting_people/03_Lesson_03/Woher komst du.md>) |
-| sprechen: sprecht | sprechen: spricht | The glossary line gives the er/sie/es form: *spricht*. *sprecht* is the ihr form. | [my notes: Woher kommst du?](<../../DW Deutsch lernen/A1/02_meeting_people/03_Lesson_03/Woher komst du.md>) |
-| Sie spracht Chinesisch. | Sie spricht Chinesisch. | *sprach* is the past tense. Present: e → i, *sie spricht*. | [my notes: Das ist Nico](<../../DW Deutsch lernen/A1/02_meeting_people/02_Lesson_02/Das ist Nico.md>) |
-| Sie sprachen Englisch. | Sie sprechen Englisch. | *sprachen* means "they spoke" (past tense). | [my notes: Das ist Nico](<../../DW Deutsch lernen/A1/02_meeting_people/02_Lesson_02/Das ist Nico.md>) |
-| Er helft. | Er hilft. | *helfen* changes e → i, like *sprechen*. | [my notes: Nico hat ein Problem (copy)](<../../DW Deutsch lernen/A1/02_meeting_people/04_Lesson_04/copy.md>) |
-| ihr erreichet | ihr erreicht | ihr adds only **-t**, like *ihr gebt*. *erreichet* is a Konjunktiv form. | [my mistakes: Wichtige Nummern](<../../DW Deutsch lernen/A1/03_contact_details/02_Lesson_02/Materials/mistakes.md>) |
-| wie erreichen | wir erreichen | The pronoun is *wir* (we); *wie* (how) is a question word. | [my mistakes: Wichtige Nummern](<../../DW Deutsch lernen/A1/03_contact_details/02_Lesson_02/Materials/mistakes.md>) |
-| Ich Zahle | Ich zahle | A verb takes a small letter; only nouns, *Sie* and the first word of a sentence are capitalised. | [my mistakes: Zahlen bitte!](<../../DW Deutsch lernen/A1/04_in_company/04_Lesson_04/Materials/mistakes.md>) |
+| ich kommer aus Deutschland | ich komme aus Deutschland | After ich the ending is always **-e**. | [my notes: Woher kommst du?](<../../DW Deutsch lernen/A1/01_meeting_people/03_Woher kommst du/Woher komst du.md>) |
+| Ich wohen in Sevilla. | Ich wohne in Sevilla. | Stem *wohn-* + ending *-e*. | [my notes: Woher kommst du?](<../../DW Deutsch lernen/A1/01_meeting_people/03_Woher kommst du/Woher komst du.md>) |
+| sprechen: sprecht | sprechen: spricht | The glossary line gives the er/sie/es form: *spricht*. *sprecht* is the ihr form. | [my notes: Woher kommst du?](<../../DW Deutsch lernen/A1/01_meeting_people/03_Woher kommst du/Woher komst du.md>) |
+| Sie spracht Chinesisch. | Sie spricht Chinesisch. | *sprach* is the past tense. Present: e → i, *sie spricht*. | [my notes: Das ist Nico](<../../DW Deutsch lernen/A1/01_meeting_people/02_Das ist Nico/Das ist Nico.md>) |
+| Sie sprachen Englisch. | Sie sprechen Englisch. | *sprachen* means "they spoke" (past tense). | [my notes: Das ist Nico](<../../DW Deutsch lernen/A1/01_meeting_people/02_Das ist Nico/Das ist Nico.md>) |
+| Er helft. | Er hilft. | *helfen* changes e → i, like *sprechen*. | [my notes: Nico hat ein Problem (copy)](<../../DW Deutsch lernen/A1/01_meeting_people/04_Nico hat ein Problem/copy.md>) |
+| ihr erreichet | ihr erreicht | ihr adds only **-t**, like *ihr gebt*. *erreichet* is a Konjunktiv form. | [my mistakes: Wichtige Nummern](<../../DW Deutsch lernen/A1/02_contact_details/02_Wichtige Nummern/Materials/mistakes.md>) |
+| wie erreichen | wir erreichen | The pronoun is *wir* (we); *wie* (how) is a question word. | [my mistakes: Wichtige Nummern](<../../DW Deutsch lernen/A1/02_contact_details/02_Wichtige Nummern/Materials/mistakes.md>) |
+| Ich Zahle | Ich zahle | A verb takes a small letter; only nouns, *Sie* and the first word of a sentence are capitalised. | [my mistakes: Zahlen bitte!](<../../DW Deutsch lernen/A1/03_in_company/04_Zahlen bitte/Materials/mistakes.md>) |
 | du heißst | du heißt | The stem ends in -ß, so du adds only -t. | rule |
 | du arbeitst | du arbeitest | The stem ends in -t, so add -e- first. | rule |
 | sie kommen (to one stranger) | Sie kommen | The formal Sie always has a capital S. | rule |
@@ -111,6 +111,6 @@ DW A1 E4 L4 *Conjugation: sprechen*.
 
 > …
 
-My notes: [Woher kommst du?](<../../DW Deutsch lernen/A1/02_meeting_people/03_Lesson_03/Woher komst du.md>) ·
-[Nico hat ein Problem](<../../DW Deutsch lernen/A1/02_meeting_people/04_Lesson_04/Nico hat Problem.md>) ·
-[Wichtige Nummern](<../../DW Deutsch lernen/A1/03_contact_details/02_Lesson_02/Wichtige Nummern.md>)
+My notes: [Woher kommst du?](<../../DW Deutsch lernen/A1/01_meeting_people/03_Woher kommst du/Woher komst du.md>) ·
+[Nico hat ein Problem](<../../DW Deutsch lernen/A1/01_meeting_people/04_Nico hat ein Problem/Nico hat Problem.md>) ·
+[Wichtige Nummern](<../../DW Deutsch lernen/A1/02_contact_details/02_Wichtige Nummern/Wichtige Nummern.md>)

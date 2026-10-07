@@ -64,4 +64,4 @@ DW exercise [The use of "man" (2)](https://learngerman.dw.com/en/the-use-of-man-
 
 > …
 
-My notes: [In Europa](<../../DW Deutsch lernen/A1/05_around_the_world/03_Lesson_03/In Europa.md>)
+My notes: [In Europa](<../../DW Deutsch lernen/A1/04_around_the_world/03_In Europa/In Europa.md>)

@@ -44,7 +44,7 @@ Source: DW grammar pages *Personal pronouns* (E1 L1, E1 L4) and *Conjugation: pr
 
 | Wrong | Right | Why | From |
 |---|---|---|---|
-| heißen: heißt, heiß, hat geheißen | heißen: heißt, hieß, hat geheißen | The past tense is *hieß*, with *ie*. | [my notes: Ich heiße Emma](<../../DW Deutsch lernen/A1/02_meeting_people/01_Lesson_01/Ich heiße Emma.md>) |
+| heißen: heißt, heiß, hat geheißen | heißen: heißt, hieß, hat geheißen | The past tense is *hieß*, with *ie*. | [my notes: Ich heiße Emma](<../../DW Deutsch lernen/A1/01_meeting_people/01_Ich heiße Emma/Ich heiße Emma.md>) |
 | du heißst | du heißt | The stem ends in -ß, so du adds only -t. | rule |
 | Was heißt du? | Wie heißt du? | Names go with *wie*. *Was heißt …?* asks what a word means. | rule |
 
@@ -64,5 +64,5 @@ Source: DW grammar pages *Personal pronouns* (E1 L1, E1 L4) and *Conjugation: pr
 
 > …
 
-My notes: [Ich heiße Emma](<../../DW Deutsch lernen/A1/02_meeting_people/01_Lesson_01/Ich heiße Emma.md>) ·
-[Von A bis Z](<../../DW Deutsch lernen/A1/01_Intro_zu_A1/04_Von A bis Z/Von A bis Z.md>)
+My notes: [Ich heiße Emma](<../../DW Deutsch lernen/A1/01_meeting_people/01_Ich heiße Emma/Ich heiße Emma.md>) ·
+[Von A bis Z](<../../DW Deutsch lernen/A1/00_welcome_to_A1/04_Von A bis Z/Von A bis Z.md>)

@@ -65,8 +65,8 @@ negation*. The genders: [Genus](Genus.md); *ein*: [Unbestimmter Artikel](Unbesti
 
 | Wrong | Right | Why | From |
 |---|---|---|---|
-| einen Brillenetui | ein Brillenetui | *das Brillenetui* is neuter: the accusative stays *ein*. | [my mistakes](<../../DW Deutsch lernen/A1/06_living/03_Lesson_03/Materials/mistakes.md>) |
-| Akkusative | Akkusativ | The German word has no *-e*. | [my mistakes](<../../DW Deutsch lernen/A1/06_living/03_Lesson_03/Materials/mistakes.md>) |
+| einen Brillenetui | ein Brillenetui | *das Brillenetui* is neuter: the accusative stays *ein*. | [my mistakes](<../../DW Deutsch lernen/A1/05_things/03_Ich habe kein/Materials/mistakes.md>) |
+| Akkusative | Akkusativ | The German word has no *-e*. | [my mistakes](<../../DW Deutsch lernen/A1/05_things/03_Ich habe kein/Materials/mistakes.md>) |
 | Ich habe ein Stift. | Ich habe einen Stift. | *der Stift* is the object of *haben*: *einen*. | rule |
 | Das ist keinen Stift. | Das ist kein Stift. | *sein* always takes the nominative. | rule |
 
@@ -101,4 +101,4 @@ negation*. The genders: [Genus](Genus.md); *ein*: [Unbestimmter Artikel](Unbesti
 
 > …
 
-My notes: [Ich habe kein …](<../../DW Deutsch lernen/A1/06_living/03_Lesson_03/Ich habe kein.md>)
+My notes: [Ich habe kein …](<../../DW Deutsch lernen/A1/05_things/03_Ich habe kein/Ich habe kein.md>)

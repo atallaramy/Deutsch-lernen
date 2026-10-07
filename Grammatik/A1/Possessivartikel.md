@@ -70,6 +70,6 @@ Its other rows come later: *sein/seine*, *ihr/ihre*, *unser/unsere* (VHS A1 Lekt
 
 > …
 
-My notes: [Ich heiße Emma](<../../DW Deutsch lernen/A1/02_meeting_people/01_Lesson_01/Ich heiße Emma.md>) ·
+My notes: [Ich heiße Emma](<../../DW Deutsch lernen/A1/01_meeting_people/01_Ich heiße Emma/Ich heiße Emma.md>) ·
 [VHS Lektion 2](<../../VHS-Lernportal/A1/Lesson_02/lektion_02.md>) ·
-[Wichtige Nummern](<../../DW Deutsch lernen/A1/03_contact_details/02_Lesson_02/Wichtige Nummern.md>)
+[Wichtige Nummern](<../../DW Deutsch lernen/A1/02_contact_details/02_Wichtige Nummern/Wichtige Nummern.md>)

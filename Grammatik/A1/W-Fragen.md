@@ -79,13 +79,13 @@ Also met, full topic later: *welche* (which; DW A1 E14 L2 *welch-*). *wie viel* 
 
 | Wrong | Right | Why | From |
 |---|---|---|---|
-| Wo kommen Sie? | Woher kommen Sie? | "Where from" is *woher*, with *kommen aus*. | [my notes: Woher kommst du?](<../../DW Deutsch lernen/A1/02_meeting_people/03_Lesson_03/Woher komst du.md>) |
+| Wo kommen Sie? | Woher kommen Sie? | "Where from" is *woher*, with *kommen aus*. | [my notes: Woher kommst du?](<../../DW Deutsch lernen/A1/01_meeting_people/03_Woher kommst du/Woher komst du.md>) |
 | Woher wohnst du? | Wo wohnst du? | *wohnen* goes with *wo*. | rule |
 | Wo du wohnst? | Wo wohnst du? | The verb comes straight after the question word. | rule |
 | Was heißt du? | Wie heißt du? | Names go with *wie* ([heißen](heissen.md)). | rule |
-| erreichen. | erreichen? | *Wie kann ich dich denn erreichen?* is a W-question, so it ends with **?**. | [my mistakes: Wichtige Nummern](<../../DW Deutsch lernen/A1/03_contact_details/02_Lesson_02/Materials/mistakes.md>) |
-| möchtst | möchtest | du + *möchten*: *Was möchtest du trinken?* (*-est*) | [my mistakes: Was trinkst du?](<../../DW Deutsch lernen/A1/04_in_company/02_Lesson_02/Materials/mistakes.md>) |
-| Wir ist denn das? | Wer ist denn das? | A person: *wer* (who). *wir* = we; my first try *wie* = how. | [my mistakes: Was machst du hier?](<../../DW Deutsch lernen/A1/04_in_company/01_Lesson_01/Materials/mistakes.md>) |
+| erreichen. | erreichen? | *Wie kann ich dich denn erreichen?* is a W-question, so it ends with **?**. | [my mistakes: Wichtige Nummern](<../../DW Deutsch lernen/A1/02_contact_details/02_Wichtige Nummern/Materials/mistakes.md>) |
+| möchtst | möchtest | du + *möchten*: *Was möchtest du trinken?* (*-est*) | [my mistakes: Was trinkst du?](<../../DW Deutsch lernen/A1/03_in_company/02_Was trinkst du/Materials/mistakes.md>) |
+| Wir ist denn das? | Wer ist denn das? | A person: *wer* (who). *wir* = we; my first try *wie* = how. | [my mistakes: Was machst du hier?](<../../DW Deutsch lernen/A1/03_in_company/01_Was machst du hier/Materials/mistakes.md>) |
 
 ## Official pages
 
@@ -116,12 +116,12 @@ Also met, full topic later: *welche* (which; DW A1 E14 L2 *welch-*). *wie viel* 
 
 > …
 
-My notes: [Woher kommst du?](<../../DW Deutsch lernen/A1/02_meeting_people/03_Lesson_03/Woher komst du.md>) ·
-[Das ist Nico](<../../DW Deutsch lernen/A1/02_meeting_people/02_Lesson_02/Das ist Nico.md>) ·
-[Zahlen von 1 bis 100](<../../DW Deutsch lernen/A1/03_contact_details/01_Lesson_01/Zahlen von 1 bis 100.md>) ·
-[Wichtige Nummern](<../../DW Deutsch lernen/A1/03_contact_details/02_Lesson_02/Wichtige Nummern.md>) ·
-[Adressen](<../../DW Deutsch lernen/A1/03_contact_details/03_Lesson_03/Adressen.md>) ·
-[Was machst du hier?](<../../DW Deutsch lernen/A1/04_in_company/01_Lesson_01/Was_machst_du_hier.md>) ·
-[Was trinkst du?](<../../DW Deutsch lernen/A1/04_in_company/02_Lesson_02/Was trinkst du.md>) ·
-[Zahlen bitte!](<../../DW Deutsch lernen/A1/04_in_company/04_Lesson_04/Zahlen bitte.md>) ·
-[Wo liegt das?](<../../DW Deutsch lernen/A1/05_around_the_world/02_Lesson_02/Wo liegt das.md>)
+My notes: [Woher kommst du?](<../../DW Deutsch lernen/A1/01_meeting_people/03_Woher kommst du/Woher komst du.md>) ·
+[Das ist Nico](<../../DW Deutsch lernen/A1/01_meeting_people/02_Das ist Nico/Das ist Nico.md>) ·
+[Zahlen von 1 bis 100](<../../DW Deutsch lernen/A1/02_contact_details/01_Zahlen von 1 bis 100/Zahlen von 1 bis 100.md>) ·
+[Wichtige Nummern](<../../DW Deutsch lernen/A1/02_contact_details/02_Wichtige Nummern/Wichtige Nummern.md>) ·
+[Adressen](<../../DW Deutsch lernen/A1/02_contact_details/03_Adressen/Adressen.md>) ·
+[Was machst du hier?](<../../DW Deutsch lernen/A1/03_in_company/01_Was machst du hier/Was_machst_du_hier.md>) ·
+[Was trinkst du?](<../../DW Deutsch lernen/A1/03_in_company/02_Was trinkst du/Was trinkst du.md>) ·
+[Zahlen bitte!](<../../DW Deutsch lernen/A1/03_in_company/04_Zahlen bitte/Zahlen bitte.md>) ·
+[Wo liegt das?](<../../DW Deutsch lernen/A1/04_around_the_world/02_Wo liegt das/Wo liegt das.md>)

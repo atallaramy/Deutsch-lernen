@@ -70,11 +70,11 @@ Plural: **die** Stifte, **die** Brillen, **die** Bücher.
 | die Kaffee | der Kaffee | *-e* does not always mean *die*: *der Kaffee*, *der Tee*. | rule |
 | die Bier | das Bier | *die* is for feminine nouns and for every plural (*die Biere*). | rule |
 | Der Tafel. | Die Tafel. | Rana's first try in the script: *Tafel* is feminine. | rule |
-| Die drei Pizza | Die drei Pizzen | Three pizzas: the plural, *die Pizza → die Pizzen*. | [my mistakes: Zahlen bitte!](<../../DW Deutsch lernen/A1/04_in_company/04_Lesson_04/Materials/mistakes.md>) |
-| polizei | Polizei | A noun: capital letter (*die Polizei*). | [my mistakes: Adressen](<../../DW Deutsch lernen/A1/03_contact_details/03_Lesson_03/Materials/mistakes.md>) |
-| straße | Straße | A noun: capital letter (*die Straße*). | [my mistakes: Adressen](<../../DW Deutsch lernen/A1/03_contact_details/03_Lesson_03/Materials/mistakes.md>) |
-| schlüssel | Schlüssel | A noun: capital letter (*der Schlüssel*). | [my mistakes: Was ist das?](<../../DW Deutsch lernen/A1/06_living/01_Lesson_01/Materials/mistakes.md>) |
-| wo ist die Stifte | wo sind die Stifte | *die Stifte* is plural: *sind*. | [my mistakes: Was ist das?](<../../DW Deutsch lernen/A1/06_living/01_Lesson_01/Materials/mistakes.md>) |
+| Die drei Pizza | Die drei Pizzen | Three pizzas: the plural, *die Pizza → die Pizzen*. | [my mistakes: Zahlen bitte!](<../../DW Deutsch lernen/A1/03_in_company/04_Zahlen bitte/Materials/mistakes.md>) |
+| polizei | Polizei | A noun: capital letter (*die Polizei*). | [my mistakes: Adressen](<../../DW Deutsch lernen/A1/02_contact_details/03_Adressen/Materials/mistakes.md>) |
+| straße | Straße | A noun: capital letter (*die Straße*). | [my mistakes: Adressen](<../../DW Deutsch lernen/A1/02_contact_details/03_Adressen/Materials/mistakes.md>) |
+| schlüssel | Schlüssel | A noun: capital letter (*der Schlüssel*). | [my mistakes: Was ist das?](<../../DW Deutsch lernen/A1/05_things/01_Was ist das/Materials/mistakes.md>) |
+| wo ist die Stifte | wo sind die Stifte | *die Stifte* is plural: *sind*. | [my mistakes: Was ist das?](<../../DW Deutsch lernen/A1/05_things/01_Was ist das/Materials/mistakes.md>) |
 
 ## Official pages
 
@@ -94,6 +94,6 @@ The genders are practised in the Anki *Articles* deck.
 
 > …
 
-My notes: [Was trinkst du?](<../../DW Deutsch lernen/A1/04_in_company/02_Lesson_02/Was trinkst du.md>) ·
-[Was ist das?](<../../DW Deutsch lernen/A1/06_living/01_Lesson_01/Was ist das.md>) ·
-[Wem gehört das?](<../../DW Deutsch lernen/A1/06_living/02_Lesson_02/Wem gehört das.md>)
+My notes: [Was trinkst du?](<../../DW Deutsch lernen/A1/03_in_company/02_Was trinkst du/Was trinkst du.md>) ·
+[Was ist das?](<../../DW Deutsch lernen/A1/05_things/01_Was ist das/Was ist das.md>) ·
+[Wem gehört das?](<../../DW Deutsch lernen/A1/05_things/02_Wem gehört das/Wem gehört das.md>)

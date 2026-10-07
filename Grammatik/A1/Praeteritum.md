@@ -49,8 +49,8 @@ DW exercise tip [Where has Nawin already been?](https://learngerman.dw.com/en/wh
 
 | Wrong | Right | Why | From |
 |---|---|---|---|
-| Ihr war | Ihr wart | *ihr* has its own form: **wart** (like *ihr seid*). | [my mistakes: Ich war schon in Berlin](<../../DW Deutsch lernen/A1/05_around_the_world/01_Lesson_01/Materials/mistakes.md>) |
-| War | Warst | *du* → **warst**: *Warst du schon mal in München?* | [my mistakes: Ich war schon in Berlin](<../../DW Deutsch lernen/A1/05_around_the_world/01_Lesson_01/Materials/mistakes.md>) |
+| Ihr war | Ihr wart | *ihr* has its own form: **wart** (like *ihr seid*). | [my mistakes: Ich war schon in Berlin](<../../DW Deutsch lernen/A1/04_around_the_world/01_Ich war schon in Berlin/Materials/mistakes.md>) |
+| War | Warst | *du* → **warst**: *Warst du schon mal in München?* | [my mistakes: Ich war schon in Berlin](<../../DW Deutsch lernen/A1/04_around_the_world/01_Ich war schon in Berlin/Materials/mistakes.md>) |
 | ihr waren | ihr wart | Only wir, sie and Sie take *waren*. | rule |
 | er warst | er war | er/sie/es is like ich: **war**, no ending. | rule |
 
@@ -72,4 +72,4 @@ DW exercise tip [Where has Nawin already been?](https://learngerman.dw.com/en/wh
 
 > …
 
-My notes: [Ich war schon in Berlin](<../../DW Deutsch lernen/A1/05_around_the_world/01_Lesson_01/Ich war schon in Berlin.md>)
+My notes: [Ich war schon in Berlin](<../../DW Deutsch lernen/A1/04_around_the_world/01_Ich war schon in Berlin/Ich war schon in Berlin.md>)

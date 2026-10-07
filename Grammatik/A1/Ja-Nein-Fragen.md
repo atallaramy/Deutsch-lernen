@@ -74,6 +74,6 @@ All three lines are from the DW E1 L3 script.
 > …
 
 My notes: [VHS Lektion 2](<../../VHS-Lernportal/A1/Lesson_02/lektion_02.md>) ·
-[Woher kommst du?](<../../DW Deutsch lernen/A1/02_meeting_people/03_Lesson_03/Woher komst du.md>) ·
-[Nico hat ein Problem](<../../DW Deutsch lernen/A1/02_meeting_people/04_Lesson_04/Nico hat Problem.md>) ·
-[Wo liegt das?](<../../DW Deutsch lernen/A1/05_around_the_world/02_Lesson_02/Wo liegt das.md>)
+[Woher kommst du?](<../../DW Deutsch lernen/A1/01_meeting_people/03_Woher kommst du/Woher komst du.md>) ·
+[Nico hat ein Problem](<../../DW Deutsch lernen/A1/01_meeting_people/04_Nico hat ein Problem/Nico hat Problem.md>) ·
+[Wo liegt das?](<../../DW Deutsch lernen/A1/04_around_the_world/02_Wo liegt das/Wo liegt das.md>)

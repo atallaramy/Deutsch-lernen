@@ -1,0 +1,649 @@
+{
+ "description": "Official source text captured by ANKI/harvest_sources.py for offline context verification.",
+ "harvestedOn": "2026-10-07",
+ "sources": [
+  {
+   "id": "exercises",
+   "kind": "dw-exercises",
+   "url": "https://learngerman.dw.com/en/ich-habe-kein/l-37382992",
+   "lessonUrl": "https://learngerman.dw.com/en/ich-habe-kein/l-37382992",
+   "vocabulary": {
+    "url": "https://learngerman.dw.com/en/ich-habe-kein/l-37382992/lv",
+    "items": [
+     {
+      "id": 37389499,
+      "german": "Alles klar!",
+      "english": "All right!/Got it!",
+      "forms": ""
+     },
+     {
+      "id": 37495268,
+      "german": "die Anzeige, die Anzeigen",
+      "english": "ad; advertisement",
+      "forms": ""
+     },
+     {
+      "id": 37495283,
+      "german": "der Aufzug, die Aufzüge",
+      "english": "elevator; lift",
+      "forms": ""
+     },
+     {
+      "id": 37364473,
+      "german": "das Auto, die Autos",
+      "english": "car; automobile",
+      "forms": ""
+     },
+     {
+      "id": 37495493,
+      "german": "das Brillenetui, die Brillenetuis",
+      "english": "glasses case",
+      "forms": ""
+     },
+     {
+      "id": 42602603,
+      "german": "Einen Moment bitte.",
+      "english": "One moment, please.",
+      "forms": ""
+     },
+     {
+      "id": 37495521,
+      "german": "die Garage, die Garagen",
+      "english": "garage",
+      "forms": ""
+     },
+     {
+      "id": 37495547,
+      "german": "das Haus, die Häuser",
+      "english": "house",
+      "forms": ""
+     },
+     {
+      "id": 37495902,
+      "german": "heute",
+      "english": "today",
+      "forms": ""
+     },
+     {
+      "id": 39962914,
+      "german": "das Internet",
+      "english": "internet",
+      "forms": "nur Singular"
+     },
+     {
+      "id": 37365140,
+      "german": "kein",
+      "english": "no; not a; no one",
+      "forms": ""
+     },
+     {
+      "id": 41135762,
+      "german": "keine",
+      "english": "no; not; neither",
+      "forms": ""
+     },
+     {
+      "id": 42655313,
+      "german": "der Mieter, die Mieter",
+      "english": "tenant; renter (male)",
+      "forms": ""
+     },
+     {
+      "id": 42655357,
+      "german": "die Mieterin, die Mieterinnen",
+      "english": "tenant; renter (female)",
+      "forms": ""
+     },
+     {
+      "id": 37497085,
+      "german": "die Terrasse, die Terrassen",
+      "english": "terrace; patio",
+      "forms": ""
+     },
+     {
+      "id": 37399727,
+      "german": "die WG, die WGs",
+      "english": "shared apartment; flatshare",
+      "forms": "Abkürzung für: Wohngemeinschaft"
+     },
+     {
+      "id": 37497168,
+      "german": "die Wohngemeinschaft, die Wohngemeinschaften",
+      "english": "shared apartment; flatshare",
+      "forms": "Abkürzung: die WG, die WGs"
+     },
+     {
+      "id": 37497268,
+      "german": "die Wohnung, die Wohnungen",
+      "english": "apartment",
+      "forms": "Abkürzung: Whg."
+     },
+     {
+      "id": 37497303,
+      "german": "der Zettel, die Zettel",
+      "english": "piece of paper",
+      "forms": ""
+     },
+     {
+      "id": 37497468,
+      "german": "das Zimmer, die Zimmer",
+      "english": "room",
+      "forms": "Abkürzung: Zi."
+     }
+    ]
+   },
+   "exercises": [
+    {
+     "id": "e-37383316",
+     "url": "https://learngerman.dw.com/en/after-class/l-37382992/e-37383316",
+     "title": "After class",
+     "texts": [
+      "Marvin Graupner sucht ein Zimmer.",
+      "Nico hat keinen Stift.",
+      "Nico liest viele Zettel mit Nomen und Artikel.",
+      "Nico und Lisa gehen zu Yara.",
+      "Was ist richtig?"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37386490",
+     "url": "https://learngerman.dw.com/en/definite-articles-in-the-accusative/l-37382992/e-37386490",
+     "title": "Definite articles in the accusative",
+     "texts": [
+      "den",
+      "das",
+      "die",
+      "die",
+      "Was passt zusammen? Ordne zu.",
+      "Careful! Just like with the indefinite articles, most definite articles are the same in the nominative and accusative. Only the masculine article is different.",
+      "der",
+      "das",
+      "die",
+      "Plural: die"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37386361",
+     "url": "https://learngerman.dw.com/en/do-you-have-a-cell-phone/l-37382992/e-37386361",
+     "title": "Do you have a cell phone?",
+     "texts": [
+      "Play audio",
+      "Play audio",
+      "Play audio",
+      "Play audio",
+      "Play audio"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37384636",
+     "url": "https://learngerman.dw.com/en/everyday-objects-revision-and-expansion/l-37382992/e-37384636",
+     "title": "Everyday objects: Revision and expansion",
+     "texts": [
+      "Deutschkurse | Nicos Weg | A1 E05 | A1_E05_L3_S7_Foto4",
+      "Deutschkurse | Nicos Weg | A1 E05 | A1_E05_L3_S7_Foto1",
+      "Deutschkurse | Nicos Weg | A1 E05 | A1_E05_L3_S7_Foto5",
+      "der Stift und der Zettel",
+      "die Brille und das Brillenetui",
+      "der Bleistift und der Radiergummi"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37386210",
+     "url": "https://learngerman.dw.com/en/i-have-a-garage-but-no-car/l-37382992/e-37386210",
+     "title": "I have a garage, but no car",
+     "texts": [
+      "Beispiel:\ndie Garage – das Auto\nIch habe eine Garage, aber kein Auto.",
+      "ein",
+      "Brillenetui",
+      "einen",
+      "Zettel",
+      "eine",
+      "Wohnung",
+      "einen",
+      "Radiergummi",
+      "keine",
+      "Brille",
+      "keinen",
+      "Stift",
+      "keinen",
+      "Schlüssel",
+      "keinen",
+      "Bleistift",
+      "Ich habe #ps# #pm#, aber #ps# #pm#.",
+      "das Brillenetui – die Brille",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "Ich habe #ps# #pm#, aber #ps# #pm#.",
+      "der Zettel – der Stift",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "Ich habe #ps# #pm#, aber #ps# #pm#.",
+      "die Wohnung – der Schlüssel",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "Ich habe #ps# #pm#, aber #ps# #pm#.",
+      "der Radiergummi – der Bleistift",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37384956",
+     "url": "https://learngerman.dw.com/en/lisas-bag/l-37382992/e-37384956",
+     "title": "Lisa's bag",
+     "texts": [
+      "ein Radiergummi.",
+      "ein Brillenetui.",
+      "einen Zettel.",
+      "ein Handy.",
+      "In Lisas Tasche ist …",
+      "Lisa hat in der Tasche ..."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37383452",
+     "url": "https://learngerman.dw.com/en/parts-of-a-house/l-37382992/e-37383452",
+     "title": "Parts of a house",
+     "texts": [
+      "Was ist das? – Die …",
+      "T e r r a s s e",
+      "Was ist das? – Das …",
+      "H a u s",
+      "Was ist das? – Der …",
+      "A u f z u g",
+      "Was ist das? – Die …",
+      "G a r a g e",
+      "Was ist das? – Die …",
+      "Careful! Nouns that end with \"-ung\" are always feminine.",
+      "W o h n u n g"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37383420",
+     "url": "https://learngerman.dw.com/en/positive-and-negative-statements-1/l-37382992/e-37383420",
+     "title": "Positive and negative statements (1)",
+     "texts": [
+      "Ja, die Wohnung hat eine Terrasse.",
+      "Nein, im Haus ist kein Aufzug.",
+      "Nein, sie haben keine Garage.",
+      "Hat die Wohnung eine Terrasse?",
+      "Ist im Haus ein Aufzug?",
+      "Haben Lisa, Nina, Sebastian und Nawin eine Garage?"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37383691",
+     "url": "https://learngerman.dw.com/en/positive-and-negative-statements-2/l-37382992/e-37383691",
+     "title": "Positive and negative statements (2)",
+     "texts": [
+      "Nein",
+      "kein",
+      "Ja",
+      "ein",
+      "Nein",
+      "keine",
+      "Nein",
+      "keine",
+      "#p#, das ist #p# Aufzug.",
+      "Ist das ein Aufzug?",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "#p#, das ist #p# Haus.",
+      "Ist das ein Haus?",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "#p#, das ist #p# Garage.",
+      "Ist das eine Garage?",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "#p#, das sind #p# Häuser.",
+      "Sind das Häuser?",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37434411",
+     "url": "https://learngerman.dw.com/en/pronunciation-training-ei-eu-au-ie-1/l-37382992/e-37434411",
+     "title": "Pronunciation training: ei, eu, au, ie (1)",
+     "texts": [
+      "ei",
+      "eu",
+      "Au",
+      "ie",
+      "Anz#p#ge",
+      "h#p#te",
+      "#p#fzug",
+      "l#p#st"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37434446",
+     "url": "https://learngerman.dw.com/en/pronunciation-training-ei-eu-au-ie-2/l-37382992/e-37434446",
+     "title": "Pronunciation training: ei, eu, au, ie (2)",
+     "texts": [
+      "eine Anzeige – keine Anzeige – zwei Anzeigen",
+      "Info: With \"um + number\", you indicate the time. That means Marvin is coming at nine o'clock today.",
+      "Marvin kommt heute. – Marvin kommt um neun. – Marvin kommt heute um neun.",
+      "Das ist ein Aufzug. – Das ist ein Haus. – Wir haben im Haus keinen Aufzug.",
+      "Marvin liest eine Anzeige. – Marvin liest vier Anzeigen. – Marvin liest viele Anzeigen."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37386540",
+     "url": "https://learngerman.dw.com/en/saying-what-you-are-looking-for/l-37382992/e-37386540",
+     "title": "Saying what you are looking for",
+     "texts": [
+      "den",
+      "das",
+      "die",
+      "Wo ist der Schlüssel?",
+      "Ich suche #ps# Schlüssel.",
+      "Wo ist das Wörterbuch?",
+      "Ich suche #ps# Wörterbuch.",
+      "Wo sind die Stifte?",
+      "Ich suche #ps# Stifte."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37386773",
+     "url": "https://learngerman.dw.com/en/searching-for-an-apartment-1/l-37382992/e-37386773",
+     "title": "Searching for an apartment (1)",
+     "texts": [
+      "Er heißt Marvin Graupner.",
+      "Er ist Student.",
+      "Er sucht ein Zimmer für 350-450 Euro.",
+      "Hör dir das Audio an. Welche drei Antworten sind richtig?"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37386809",
+     "url": "https://learngerman.dw.com/en/searching-for-an-apartment-2/l-37382992/e-37386809",
+     "title": "Searching for an apartment (2)",
+     "texts": [
+      "Anzeige\nWG-Zimmer (11m²) frei! 3 nette Mitbewohner und du! 5 Zimmer, Terrasse. Leider keine Garage. 400 Euro. Telefon: 0173 90 76 34 29 58.",
+      "Wie viele Zimmer hat die Wohnung?",
+      "…",
+      "Hat die Wohnung eine Terrasse?",
+      "…",
+      "Hat die Wohnung eine Garage?",
+      "…",
+      "Was kostet das Zimmer?",
+      "…",
+      "Wie ist die Telefonnummer?",
+      "…"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37386081",
+     "url": "https://learngerman.dw.com/en/subject-and-object/l-37382992/e-37386081",
+     "title": "Subject and object",
+     "texts": [
+      "der Polizist",
+      "einen Apfelsaft",
+      "die Lehrerin",
+      "eine Pizza",
+      "der Taxifahrer",
+      "einen Stift",
+      "die Kursteilnehmer",
+      "Wörter",
+      "das Buch",
+      "einen Euro",
+      "Subjekt (Nominativ): #p#\nObjekt (Akkusativ): #p#",
+      "Der Polizist trinkt einen Apfelsaft.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "Subjekt (Nominativ): #p#\nObjekt (Akkusativ): #p#",
+      "Die Lehrerin isst eine Pizza.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "Subjekt (Nominativ): #p#\nObjekt (Akkusativ): #p#",
+      "Der Taxifahrer sucht einen Stift.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "Subjekt (Nominativ): #p#\nObjekt (Akkusativ): #p#",
+      "Die Kursteilnehmer schreiben Wörter.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "Subjekt (Nominativ): #p#\nObjekt (Akkusativ): #p#",
+      "Das Buch kostet einen Euro.",
+      "Careful! Objects, as well as people, can be the subject of a sentence.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37385861",
+     "url": "https://learngerman.dw.com/en/the-accusative/l-37382992/e-37385861",
+     "title": "The accusative",
+     "texts": [
+      "With the verb \"haben\", you use the following articles:\nmasculine: den/einen/keinen\nfeminine: die/eine/keine\nneuter: das/ein/kein\nplural: die/ - /keine\nWe call this form \"Akkusativ\". You use the \"Akkusativ\", when you want to describe what is happening to a person or a thing. This person or thing is the grammatical object.\nExample:\nDie Frau isst einen Hamburger.\n\"einen Hamburger\" is the object (\"Objekt\").",
+      "einen",
+      "eine",
+      "ein",
+      "-",
+      "maskulin:\nIch habe #p# Ordner. Der Ordner ist schön.\nfeminin:\nIch habe #p# Brille. Die Brille ist cool.\nneutral:\nIch habe #p# Buch. Das Buch ist super.\nPlural:\nIch habe #p# Bücher. Die Bücher sind gut.",
+      "Wähl das richtige Wort aus.",
+      "Did you notice anything? As you see, most articles are the same in the nominative and accusative. The only exception are singular masculine nouns.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37383823",
+     "url": "https://learngerman.dw.com/en/the-article-definite-indefinite-negative/l-37382992/e-37383823",
+     "title": "The article: definite, indefinite, negative",
+     "texts": [
+      "ein",
+      "kein",
+      "keine",
+      "keine",
+      "Schreib den passenden Artikel in die Lücke und vervollständige so den Text.",
+      "der Aufzug / #ps# Aufzug / kein Aufzug",
+      "Schreib den passenden Artikel in die Lücke und vervollständige so den Text.",
+      "das Haus / ein Haus / #ps# Haus",
+      "Schreib den passenden Artikel in die Lücke und vervollständige so den Text.",
+      "die Wohnung / eine Wohnung / #ps# Wohnung",
+      "Schreib den passenden Artikel in die Lücke und vervollständige so den Text.",
+      "die Garagen / - Garagen / #ps# Garagen"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37385184",
+     "url": "https://learngerman.dw.com/en/the-nominative/l-37382992/e-37385184",
+     "title": "The nominative",
+     "texts": [
+      "This form of the article, that you already know, is called the \"Nominativ\":\nmasculine: der/ein/kein\nfeminine: die/eine/keine\nneuter: das/ein/kein\nplural: die/ - /keine\nThe subject of a sentence is in the \"Nominativ\". The subject (\"Subjekt\") is the person or the thing that is active in the sentence or the focus of interest.\nExamples:\nDie Frau isst einen Hamburger.\n\"Die Frau\" is the subject in the nominative.\nDer Hamburger ist gut.\n\"Der Hamburger\" is the subject in the nominative.\nThe verb \"sein\" always takes the nominative.",
+      "Der",
+      "eine",
+      "ein",
+      "Die",
+      "maskulin: der Ordner\nDas ist ein Ordner. #p# Ordner ist schön.\nfeminin: die Brille\nDas ist #p# Brille. Die Brille ist cool.\nneutral: das Buch\nDas ist #p# Buch. Das Buch ist super.\nPlural: die Bücher\nDas sind Bücher. #p# Bücher sind gut.",
+      "Wähl das richtige Wort aus und vervollständige so den Text.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37384178",
+     "url": "https://learngerman.dw.com/en/this-is-the-apartment/l-37382992/e-37384178",
+     "title": "This is the apartment",
+     "texts": [
+      "keine Terrasse.",
+      "eine Garage.",
+      "kein Aufzug.",
+      "Die Wohnung hat …",
+      "Die Wohnung hat …",
+      "Im Haus ist …"
+     ],
+     "vocabularyTags": []
+    }
+   ],
+   "pages": [
+    {
+     "id": "gr-38306441",
+     "url": "https://learngerman.dw.com/en/article-negation/l-37382992/gr-38306441",
+     "title": "Article: negation",
+     "texts": [
+      "Article: negation",
+      "When we use the word kein, a noun with an indefinite article, or no article, becomes negative.\nSingular\nThe endings of kein are identical to the endings of the indefinite article ein in the singular.\nImage:\nAn example of \"ein\" and \"kein\": Ist das ein Stift? - Nein, das ist kein Stift.\nImage:\nAn example of \"eine\" and \"keine\": Ist das eine Brille - Nein, das ist keine Brille.\nImage:\nAn example of \"ein\" and \"kein\": Ist das ein Buch? - Nein, das ist kein Buch.\nThe same applies to the accusative:\nImage:\nAn example of the accusative with \"einen\" and \"keinen\": Hast du einen Stift? - Nein, ich habe keinen Stift.\nPlural\nA noun that is used in the plural without an article is made negative using keine.\nImage:\nAn example of the plural with \"keine\": Sind das Stifte? - Nein, das sind keine Stifte.\nNominative\nAccusative\nmasculine\n(der)\nein\nkein\neinen\nkeinen\nfeminine\n(die)\neine\nkeine\neine\nkeine\nneuter\n(das)\nein\nkein\nein\nkein\nplural\n(die)\n-\nkeine\n-\nkeine\nSingular without article\nIn addition, nouns that are used in the singular without an article are made negative using the corresponding form of kein.\nIsst Nina Schinken? – Nein, Nina isst keinen Schinken.\nTrinkst du Cola? – Nein, ich trinke keine Cola.\nMöchtest du Bier? – Nein, ich möchte kein Bier."
+     ],
+     "html": "<p>When we use the word <em>kein,</em> a noun with an indefinite article, or no article, becomes negative.</p>\n\n<p>&#160;</p>\n\n<p><strong>Singular</strong></p>\n\n<p>The endings of <em>kein</em> are identical to the endings of the indefinite article <em>ein</em> in the singular.</p>\n\n<p>&#160;</p>\n\n<p>Image:</p><ul><li>An example of  &quot;ein&quot; and &quot;kein&quot;: Ist das ein Stift? - Nein, das ist kein Stift.</li></ul>\n\n<p>Image:</p><ul><li>An example of &quot;eine&quot; and &quot;keine&quot;: Ist das eine Brille - Nein, das ist keine Brille.</li></ul>\n\n<p>Image:</p><ul><li>An example of  &quot;ein&quot; and &quot;kein&quot;: Ist das ein Buch? - Nein, das ist kein Buch.</li></ul>\n\n<p>The same applies to the accusative:</p>\n\n<p>Image:</p><ul><li>An example of the accusative with &quot;einen&quot; and &quot;keinen&quot;: Hast du einen Stift? - Nein, ich habe keinen Stift.</li></ul>\n\n<p><strong>Plural</strong></p>\n\n<p>A noun that is used in the plural without an article is made negative using <em>keine</em>.</p>\n\n<p>Image:</p><ul><li>An example of the plural with &quot;keine&quot;: Sind das Stifte? - Nein, das sind keine Stifte.</li></ul>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>&#160;</td>\n\t\t\t<td>Nominative</td>\n\t\t\t<td>Accusative</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>masculine<br>\n\t\t\t(<em>der</em>)</td>\n\t\t\t<td>ein<br>\n\t\t\tkein</td>\n\t\t\t<td>einen<br>\n\t\t\tkeinen</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>feminine<br>\n\t\t\t(<em>die</em>)</td>\n\t\t\t<td>eine<br>\n\t\t\tkeine</td>\n\t\t\t<td>eine<br>\n\t\t\tkeine</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>neuter<br>\n\t\t\t(<em>das</em>)</p>\n\t\t\t</td>\n\t\t\t<td>ein<br>\n\t\t\tkein</td>\n\t\t\t<td>ein<br>\n\t\t\tkein</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>plural<br>\n\t\t\t(<em>die</em>)</td>\n\t\t\t<td>-<br>\n\t\t\tkeine</td>\n\t\t\t<td>-<br>\n\t\t\tkeine</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&#160;</p>\n\n<p><strong>Singular without article</strong></p>\n\n<p>In addition, nouns that are used in the singular without an article are made negative using the corresponding form of <em>kein</em>.</p>\n\n<p>Isst Nina Schinken? – Nein, Nina isst <strong>keinen</strong> Schinken.</p>\n\n<p>Trinkst du Cola? – Nein, ich trinke <strong>keine</strong> Cola.</p>\n\n<p>Möchtest du Bier? – Nein, ich möchte <strong>kein</strong> Bier.</p>\n"
+    },
+    {
+     "id": "rs-39370876",
+     "url": "https://learngerman.dw.com/en/how-do-germans-live/l-37382992/rs-39370876",
+     "title": "How do Germans live?",
+     "texts": [
+      "How do Germans live?",
+      "Over 40 percent of German families own the house or apartment in which they live. But the majority live in rented apartments – more than in all other European countries. Particularly in big cities, more than one third of the apartments house only one person. These are often older people, singles, or those who live alone for professional reasons. The average number per household is 2.2.\nIn a rented apartment, you have to pay a monthly rent and additional costs, like electricity, heating, water, and trash collection. In cities with universities, students often share an apartment, called a \"Wohngemeinschaft\" or \"WG\" for short. Lots of Germans have house pets, especially cats or dogs."
+     ],
+     "html": "\n\n<p>Over 40 percent of German families own the house or apartment in which they live. But the majority live in rented apartments – more than in all other European countries. Particularly in big cities, more than one third of the apartments house only one person. These are often older people, singles, or those who live alone for professional reasons. The average number per household is 2.2.</p>\n\n<p>In a rented apartment, you have to pay a monthly rent and additional costs, like electricity, heating, water, and trash collection. In cities with universities, students often share an apartment, called a \"<em>Wohngemeinschaft</em>\" or \"<em>WG</em>\" for short. Lots of Germans have house pets, especially cats or dogs.</p>\n"
+    },
+    {
+     "id": "gr-38306279",
+     "url": "https://learngerman.dw.com/en/sentence-construction-accusative-object/l-37382992/gr-38306279",
+     "title": "Sentence construction: accusative object",
+     "texts": [
+      "Sentence construction: accusative object",
+      "Apart from the subject, many verbs have other complements. Some need these complements in order to form sentences that make sense. These complements are called objects. They can be people or things.\nImage:\nAn example: \"Ich schreibe einen Text.\" \"einen Text\" is the accusative object.\nAn example: \"Die Frau isst eine Pizza.\" \"eine Pizza\" is the accusative object.\nAn example: \"Nico liest ein Buch.\" \"ein Buch\" is the accusative object.\nIn German, many verbs require an object in the accusative. If the accusative object has an article, this is formed as follows:\nmasculine\nden/einen\nfeminine\ndie/eine\nneuter\ndas/ein\nplural\ndie/-\nThe accusative object answers the question \"Wen?\" or \"Was?\" (wen for people and was for things).\nSome verbs that require an accusative object are: essen, trinken, nehmen, suchen, kennen, machen, lieben, anrufen, besuchen, besichtigen, …\nGrammatical terms in German:\ndas Objekt: The object refers to a person or thing that is the aim of an action or event. The object is also known as the complement. It is usually a noun or pronoun.\nA noun can have different functions in a sentence. For example, it can be subject or object. Depending on what function the noun has, its form can change. However, this change can best be seen in the form of the article. In German, there are four different distinguishing forms or categories (cases) of noun, known as Fälle or Kasus .\nOne of these cases is the accusative.\nder Akkusativ: Most objects are in the accusative . The articles are then: den/einen, die/eine, das/ein, die/-."
+     ],
+     "html": "<p>Apart from the subject, many verbs have other complements. Some need these complements in order to form sentences that make sense. These complements are called objects. They can be people or things.</p>\n\n<p>Image:</p><ul><li>An example: &quot;Ich schreibe einen Text.&quot; &quot;einen Text&quot; is the accusative object.</li><li>An example: &quot;Die Frau isst eine Pizza.&quot; &quot;eine Pizza&quot; is the accusative object.</li><li>An example: &quot;Nico liest ein Buch.&quot; &quot;ein Buch&quot; is the accusative object.</li></ul>\n\n<p>In German, many verbs require an object in the accusative. If the accusative object has an article, this is formed as follows:</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>masculine</td>\n\t\t\t<td>de<strong>n</strong>/ein<strong>en</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>feminine</td>\n\t\t\t<td>die/eine</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>neuter</td>\n\t\t\t<td>das/ein</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>plural</td>\n\t\t\t<td>die/-</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&#160;</p>\n\n<p>The accusative object answers the question \"Wen?\"&#160;or \"Was?\"&#160;(<em>wen</em> for people and <em>was</em> for things).</p>\n\n<p>Some verbs that require an accusative object are: <em>essen, trinken, nehmen, suchen,</em> <em>kennen, machen, lieben, anrufen, besuchen, besichtigen, …</em></p>\n\n<p>&#160;</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>Grammatical terms in German:</p>\n\n\t\t\t<p>das Objekt:&#160;The object refers to a person or thing that is the aim of an action or event. The object is also known as the complement. It is usually a noun or pronoun.</p>\n\n\t\t\t<p>A noun can have different functions in a sentence. For example, it can be subject or object. Depending on what function the noun has, its form can change. However, this change can best be seen in the form of the article. In German, there are four different distinguishing forms or categories (cases) of noun,&#160;known as <em>Fälle</em> or <em>Kasus</em> .</p>\n\n\t\t\t<p>One of these cases is the accusative.</p>\n\t\t\tder Akkusativ: Most objects are in the accusative . The articles are then: den/einen, die/eine, das/ein, die/-.</td>\n\t\t</tr>\n\t</tbody>\n</table>\n"
+    },
+    {
+     "id": "gr-38306217",
+     "url": "https://learngerman.dw.com/en/sentence-construction-subject/l-37382992/gr-38306217",
+     "title": "Sentence construction: subject",
+     "texts": [
+      "Sentence construction: subject",
+      "Most German statements contain at least one conjugated verb and a subject. The subject performs the action expressed by the verb. The subject is active in the sentence or is central to the interest. A subject is generally a noun, a group of nouns or a personal pronoun.\nImage:\nAn example with the definite article and noun, \"die Pizza\" as the subject: Die Pizza ist gut.\nAn example with the noun, \"Nico\" as the subject: Nico lernt Deutsch.\nAn example with the personal pronoun, \"ich\" as the subject: Ich war schon mal in Spanien.\nWhen the subject is a noun with an article, the article takes one of the following forms:\nmasculine\nder/ein\nfeminine\ndie/eine\nneuter\ndas/ein\nplural\ndie/-\nThis form is called the nominative.\nThe subject answers the question \"Wer?\" or \"Was?\" (wer for people and was for non-persons, for example animals or objects) and determines the form of the conjugated verb.\nGrammatical terms in German:\ndas Subjekt: The subject is the person or thing that is active in the sentence or is central to the interest. It is generally a noun or pronoun.\nA noun can have different functions in a sentence. For example, it can be a subject or an object. Depending on what function the noun has, its form can change. However, this change can best be seen in the form of the article. In German there are four different forms or categories (cases), known as Fälle or Kasus.\nOne of these cases is the nominative.\nder Nominativ: The subject is always in the nominative. The articles are: der/ein, die/eine, das/ein, die/-."
+     ],
+     "html": "<p>Most German statements contain at least one conjugated verb and a subject. The subject performs the action expressed by the verb. The subject is active in the sentence or is central to the interest.&#160;A subject is generally a noun, a group of nouns or a personal pronoun.&#160;</p>\n\n<p>Image:</p><ul><li>An example with the definite article and noun, &quot;die Pizza&quot; as the subject: Die Pizza ist gut.</li><li>An example with the noun, &quot;Nico&quot; as the subject: Nico lernt Deutsch.</li><li>An example with the personal pronoun, &quot;ich&quot; as the subject: Ich war schon mal in Spanien.</li></ul>\n\n<p>When the subject is a noun with an article, the article takes one of the following forms:</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>masculine</td>\n\t\t\t<td>der/ein</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>feminine</td>\n\t\t\t<td>die/eine</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>neuter</td>\n\t\t\t<td>das/ein</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>plural</td>\n\t\t\t<td>die/-</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&#160;</p>\n\n<p>This form is called the nominative.</p>\n\n<p>The subject answers the question \"Wer?\"&#160;or \"Was?\"&#160;(<em>wer</em> for people and <em>was</em> for non-persons, for example animals or&#160;objects) and determines the form of the conjugated verb.</p>\n\n<p>&#160;</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>Grammatical terms in German:</p>\n\n\t\t\t<p>das Subjekt:&#160;The subject is the person or thing that is active in the sentence or is central to the interest. It is generally a noun or pronoun.</p>\n\n\t\t\t<p>A noun can have different functions in a sentence. For example, it can be a subject or an object. Depending on what function the noun has, its form can change. However, this change can best be seen in the form of the article. In German there are four different forms or categories (cases), known as <em>Fälle</em> or <em>Kasus</em>.</p>\n\n\t\t\t<p>One of these cases is the nominative.</p>\n\n\t\t\t<p>der Nominativ: The subject is always in the nominative. The articles&#160; are: der/ein, die/eine, das/ein, die/-.</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n"
+    }
+   ]
+  },
+  {
+   "id": "script",
+   "kind": "dw-script-pdf",
+   "url": "https://learngerman.dw.com/downloads/52719694/nicos-weg-a1-e5-l3-manuskript-und-wortschatz-englisch.pdf",
+   "localFile": "DW Deutsch lernen/A1/05_things/03_Ich habe kein/Materials/Script and vocabulary (English).pdf",
+   "sha256": "b07c9950afb425ba44e0e4b9f9c01e51eaefc2a092da4768298481877fefe501",
+   "lines": [
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "(5) Things | Ich habe kein …",
+    "The lesson is over. Nico looks around the classroom while Lisa is on the",
+    "phone to someone who has applied for Nawin’s room. Then they leave to",
+    "begin the hunt for Yara’s shop.",
+    "Script",
+    "KURSTEILNEHMERIN:",
+    "Tschüss!",
+    "LISA:",
+    "Auf Wiedersehen!",
+    "KURSTEILNEHMER:",
+    "Auf Wiedersehen! Mach’s gut!",
+    "LISA:",
+    "Tschau!",
+    "KURSTEILNEHMER:",
+    "Tschüss!",
+    "LISA:",
+    "Bis bald! Tschüss!",
+    "NICO:",
+    "Wiedersehen!",
+    "LISA:",
+    "Oh, entschuldige!",
+    "Hallo, hier Lisa Brunner.",
+    "Ah ja, die Anzeige im Internet.",
+    "Ja, wir suchen immer noch.",
+    "Ja, die Wohnung hat eine Terrasse.",
+    "Nein, im Haus ist kein Aufzug.",
+    "Nein, eine Garage haben wir nicht, aber komm doch erst mal vorbei.",
+    "Einen Moment bitte.",
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "Ein Stift … Wo ist mein Stift?",
+    "Hast du einen Stift?",
+    "NICO:",
+    "Nein, ich hab keinen Stift.",
+    "LISA:",
+    "Ah. Einen Zettel, ich brauche einen Zettel.",
+    "NICO:",
+    "Hier, ein Zettel.",
+    "LISA:",
+    "Danke! Okay, also: halb vier. Und dein Name ist Marvin Graupner? Okay. Alles klar.",
+    "Bis dann. Tschüss!",
+    "Das war ein Bewerber für Nawins Zimmer.",
+    "NICO:",
+    "Bewerber?",
+    "LISA:",
+    "Ja, Nawin geht doch nach Frankreich. Wir suchen also einen Mieter für Nawins",
+    "Zimmer. Er kommt heute noch. Aber jetzt gehen wir erst mal zu deiner Tante!",
+    "NICO:",
+    "Die Tür.",
+    "LISA:",
+    "Die Tür. Richtig!",
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "Vocabulary (from script and lesson)",
+    "Alles klar! – All right!/Got it!",
+    "die Anzeige, die Anzeigen – ad; advertisement",
+    "der Aufzug, die Aufzüge – elevator; lift",
+    "das Auto, die Autos – car; automobile",
+    "das Brillenetui, die Brillenetuis – glasses case",
+    "Einen Moment bitte. – One moment, please.",
+    "die Garage, die Garagen – garage",
+    "das Haus, die Häuser – house",
+    "heute – today",
+    "das Internet – internet",
+    "nur Singular",
+    "kein – no; not a; no one",
+    "keine – no; not; neither",
+    "der Mieter, die Mieter – tenant; renter (male)",
+    "die Mieterin, die Mieterinnen – tenant; renter (female)",
+    "die Terrasse, die Terrassen – terrace; patio",
+    "die WG, die WGs – shared apartment; flatshare",
+    "Abkürzung für: Wohngemeinschaft",
+    "die Wohngemeinschaft, die Wohngemeinschaften – shared apartment;",
+    "flatshare",
+    "Abkürzung: die WG, die WGs",
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "die Wohnung, die Wohnungen – apartment",
+    "Abkürzung: Whg.",
+    "der Zettel, die Zettel – piece of paper",
+    "das Zimmer, die Zimmer – room",
+    "Abkürzung: Zi."
+   ]
+  }
+ ]
+}

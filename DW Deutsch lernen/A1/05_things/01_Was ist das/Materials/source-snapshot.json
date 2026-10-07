@@ -1,0 +1,447 @@
+{
+ "description": "Official source text captured by ANKI/harvest_sources.py for offline context verification.",
+ "harvestedOn": "2026-10-04",
+ "sources": [
+  {
+   "id": "exercises",
+   "kind": "dw-exercises",
+   "url": "https://learngerman.dw.com/en/was-ist-das/l-37368285",
+   "lessonUrl": "https://learngerman.dw.com/en/was-ist-das/l-37368285",
+   "vocabulary": {
+    "url": "https://learngerman.dw.com/en/was-ist-das/l-37368285/lv",
+    "items": [
+     {
+      "id": 37492423,
+      "german": "der Bleistift, die Bleistifte",
+      "english": "pencil",
+      "forms": ""
+     },
+     {
+      "id": 37492493,
+      "german": "die Brille, die Brillen",
+      "english": "eyeglasses",
+      "forms": ""
+     },
+     {
+      "id": 37492701,
+      "german": "das Buch, die Bücher",
+      "english": "book",
+      "forms": ""
+     },
+     {
+      "id": 37364760,
+      "german": "der Deutschkurs, die Deutschkurse",
+      "english": "German course",
+      "forms": ""
+     },
+     {
+      "id": 41135919,
+      "german": "die",
+      "english": "the (plural)",
+      "forms": ""
+     },
+     {
+      "id": 37493832,
+      "german": "der Lehrer, die Lehrer",
+      "english": "teacher (male)",
+      "forms": ""
+     },
+     {
+      "id": 37494059,
+      "german": "die Lehrerin, die Lehrerinnen",
+      "english": "teacher (female)",
+      "forms": ""
+     },
+     {
+      "id": 37494173,
+      "german": "der Notizblock, die Notizblöcke",
+      "english": "notebook",
+      "forms": ""
+     },
+     {
+      "id": 37369331,
+      "german": "das Papier",
+      "english": "paper",
+      "forms": "hier nur Singular"
+     },
+     {
+      "id": 37494363,
+      "german": "der Radiergummi, die Radiergummis",
+      "english": "eraser",
+      "forms": "alternativ: das Radiergummi, die Radiergummis"
+     },
+     {
+      "id": 37494408,
+      "german": "der Schlüssel, die Schlüssel",
+      "english": "key",
+      "forms": ""
+     },
+     {
+      "id": 37494437,
+      "german": "die Sprachschule, die Sprachschulen",
+      "english": "language school",
+      "forms": ""
+     },
+     {
+      "id": 37494547,
+      "german": "der Stift, die Stifte",
+      "english": "pen",
+      "forms": ""
+     },
+     {
+      "id": 42581862,
+      "german": "(etwas) unterrichten",
+      "english": "to teach; to instruct",
+      "forms": "unterrichtet, unterrichtete, hat unterrichtet"
+     },
+     {
+      "id": 42582356,
+      "german": "Wie heißt das auf Deutsch?",
+      "english": "What does that mean in German?",
+      "forms": ""
+     }
+    ]
+   },
+   "exercises": [
+    {
+     "id": "e-37369553",
+     "url": "https://learngerman.dw.com/en/articles-in-the-singular-and-plural/l-37368285/e-37369553",
+     "title": "Articles in the singular and plural",
+     "texts": [
+      "der, die, das",
+      "die",
+      "Artikel im Singular: #p#\nArtikel im Plural: #p#",
+      "Ordne die richtigen Artikel zu.",
+      "Tip: With only a few exceptions, there are no reliable rules for articles in the singular. For this reason, always learn a noun together with its article.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37370814",
+     "url": "https://learngerman.dw.com/en/asking-where-something-is/l-37368285/e-37370814",
+     "title": "Asking where something is",
+     "texts": [
+      "Notizblock: Wo ist der Notizblock?\nNotizblöcke: Wo sind die Notizblöcke?",
+      "Play audio",
+      "Play audio",
+      "Play audio",
+      "Play audio"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37368736",
+     "url": "https://learngerman.dw.com/en/at-the-language-school/l-37368285/e-37368736",
+     "title": "At the language school",
+     "texts": [
+      "die Sprachschule\nder Deutschkurs\ndie Lehrerin",
+      "Deutschkurse | Nicos Weg | A1 E05 | A1_E05_L1_S3_Foto1",
+      "Deutschkurse | Nicos Weg | A1 E05 | A1_E05_L1_S3_Foto2",
+      "Deutschkurse | Nicos Weg | A1 E05 | A1_E05_L1_S2_Foto2",
+      "Was passt zusammen? Ordne zu.",
+      "Deutschkurs",
+      "Sprachschule",
+      "Lehrerin"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37368811",
+     "url": "https://learngerman.dw.com/en/everyday-objects-1/l-37368285/e-37368811",
+     "title": "Everyday objects (1)",
+     "texts": [
+      "Welches Wort hörst du zuerst? Welches danach? Sortier die Wörter.",
+      "die Stifte die Brille das Buch"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37368933",
+     "url": "https://learngerman.dw.com/en/everyday-objects-2/l-37368285/e-37368933",
+     "title": "Everyday objects (2)",
+     "texts": [
+      "Das ist das Buch.",
+      "Das ist der Stift.",
+      "Das ist die Brille.",
+      "Wie heißt das auf Deutsch? Wähl die richtige Antwort.",
+      "Wie heißt das auf Deutsch? Wähl die richtige Antwort.",
+      "Wie heißt das auf Deutsch? Wähl die richtige Antwort."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37369151",
+     "url": "https://learngerman.dw.com/en/everyday-objects-3/l-37368285/e-37369151",
+     "title": "Everyday objects (3)",
+     "texts": [
+      "Das sind die Bücher.",
+      "Das sind die Brillen.",
+      "Das sind die Stifte.",
+      "Wie heißt das auf Deutsch? Wähl die richtige Antwort.",
+      "Wie heißt das auf Deutsch? Wähl die richtige Antwort.",
+      "Wie heißt das auf Deutsch? Wähl die richtige Antwort.",
+      "Did you notice anything? The plural article is always the same: \"die\"."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37369860",
+     "url": "https://learngerman.dw.com/en/everyday-objects-4/l-37368285/e-37369860",
+     "title": "Everyday objects (4)",
+     "texts": [
+      "Stift",
+      "Stifte",
+      "Schlüssel",
+      "Schlüssel",
+      "Buch",
+      "Bücher",
+      "Brille",
+      "Brillen",
+      "Deutschkurs",
+      "Deutschkurse",
+      "der #ps#\ndie #ps#",
+      "Schreib das Wort im Singular und im Plural.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "der #pm#\ndie #pm#",
+      "Schreib das Wort im Singular und im Plural.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "das #ps#\ndie #ps#",
+      "Schreib das Wort im Singular und im Plural.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "die #ps#\ndie #ps#",
+      "Schreib das Wort im Singular und im Plural.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "der #pm#\ndie #pm#",
+      "Schreib das Wort im Singular und im Plural.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37370234",
+     "url": "https://learngerman.dw.com/en/everyday-objects-5/l-37368285/e-37370234",
+     "title": "Everyday objects (5)",
+     "texts": [
+      "der Bleistift, die Bleistifte",
+      "das Papier",
+      "der Radiergummi, die Radiergummis",
+      "der Notizblock, die Notizblöcke",
+      "Was ist das?",
+      "Was ist das?",
+      "New words: The word \"Papier\" describes an unspecified quantity. That is why you also use the singular for multiple sheets of paper.",
+      "Was ist das?",
+      "Was ist das?"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37370540",
+     "url": "https://learngerman.dw.com/en/everyday-objects-6/l-37368285/e-37370540",
+     "title": "Everyday objects (6)",
+     "texts": [
+      "Brille",
+      "Papier",
+      "Radiergummi",
+      "Was passt zusammen? Ordne zu.",
+      "die",
+      "das",
+      "der"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37371010",
+     "url": "https://learngerman.dw.com/en/everyday-objects-in-the-plural/l-37368285/e-37371010",
+     "title": "Everyday objects in the plural",
+     "texts": [
+      "Schlüssel",
+      "Notizblöcke",
+      "Brillen",
+      "Hier sind\nsechs #pm#,\nzwei #pm#\nund vier #ps#.",
+      "Schreib die passenden Wörter in die Lücken.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37369740",
+     "url": "https://learngerman.dw.com/en/finding-information-in-the-dictionary-plural/l-37368285/e-37369740",
+     "title": "Finding information in the dictionary: Plural",
+     "texts": [
+      "Brillen",
+      "Stifte",
+      "Bücher",
+      "Schlüssel",
+      "Schreib die passende Pluralform in die Lücke.",
+      "Plural: die #ps#",
+      "Schreib die passende Pluralform in die Lücke.",
+      "Plural: die #ps#",
+      "Schreib die passende Pluralform in die Lücke.",
+      "Plural: die #ps#",
+      "Schreib die passende Pluralform in die Lücke.",
+      "Plural: die #pm#"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37369687",
+     "url": "https://learngerman.dw.com/en/finding-information-in-the-dictionary-singular/l-37368285/e-37369687",
+     "title": "Finding information in the dictionary: Singular",
+     "texts": [
+      "m. = maskulin (masculine)\nf. = feminin (feminine)\nn. = neutral (neuter)",
+      "feminin: die",
+      "maskulin: der",
+      "neutral: das",
+      "Wähl den richtigen Artikel.",
+      "Wähl den richtigen Artikel.",
+      "Wähle den richtigen Artikel."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37368316",
+     "url": "https://learngerman.dw.com/en/in-the-kitchen/l-37368285/e-37368316",
+     "title": "In the kitchen",
+     "texts": [
+      "Es ist Morgen. Lisa sucht die Brille, die Stifte und das Buch.",
+      "Lisa ist Lehrerin.",
+      "Wähl die richtige Antwort.",
+      "Wähl die richtige Antwort."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37369504",
+     "url": "https://learngerman.dw.com/en/singular-and-plural/l-37368285/e-37369504",
+     "title": "Singular and plural",
+     "texts": [
+      "Singular: der Stift, die Tasche, das Handy\nPlural: die Stifte, die Taschen, die Handys",
+      "der Stift",
+      "das Buch",
+      "die Brille",
+      "der Schlüssel",
+      "die Stifte",
+      "die Bücher",
+      "die Brillen",
+      "die Schlüssel",
+      "Wähl alle Wörter im Singular.",
+      "Wähl alle Wörter im Plural."
+     ],
+     "vocabularyTags": []
+    }
+   ],
+   "pages": [
+    {
+     "id": "gr-38305882",
+     "url": "https://learngerman.dw.com/en/articles-definite/l-37368285/gr-38305882",
+     "title": "Articles: definite",
+     "texts": [
+      "Articles: definite",
+      "The three definite articles: der, die, das\nIn German a distinction is made between masculine, feminine and neuter nouns. The grammatical gender of a noun can be seen in its accompanying article. Since in most cases there are no rules as to which gender a noun has, it is necessary to learn the nouns together with their articles. The article comes before the noun.\nMasculine nouns have the definite article der.\nWo ist der Stift? – Der Stift ist hier.\nFeminine nouns have the definite article die.\nWo ist die Brille? – Die Brille ist hier.\nNeuter nouns have the definite article das.\nWo ist das Buch? – Das Buch ist hier.\nIn the plural all nouns have the definite article die.\nWo sind die Stifte? – Die Stifte sind hier.\nWo sind die Brillen? – Die Brillen sind hier.\nWo sind die Bücher? – Die Bücher sind hier.\nSingular\nPlural\nmasculine\nder Stift\ndie Stifte\nfeminine\ndie Brille\ndie Brillen\nneuter\ndas Buch\ndie Bücher\nThe definite article is used in particular when talking about an object or person that is already known to the other person.\nLisa says: Wo ist die Brille?\nThe listener understands that she is not looking for just any pair of glasses. She is looking for a particular pair, namely her own."
+     ],
+     "html": "<p><strong>The three definite articles:<em> der, die, das</em></strong></p>\n\n<p>In German a distinction is made between masculine, feminine and neuter nouns. The grammatical gender of a noun can be seen in its accompanying article. Since in most cases there are no rules as to which gender a noun has, it is necessary to learn the nouns together with their articles. The article comes before the noun.</p>\n\n<p>&#160;</p>\n\n<p>Masculine nouns have the definite article <em>der.</em></p>\n\n<p><em>Wo ist <strong>der</strong> Stift? – <strong>Der</strong> Stift ist hier.</em></p>\n\n<p>Feminine nouns have the definite article <em>die</em>.</p>\n\n<p><em>Wo ist <strong>die</strong> Brille? – <strong>Die</strong> Brille ist hier.</em></p>\n\n<p>Neuter nouns have the definite article <em>das</em>.</p>\n\n<p><em>Wo ist <strong>das</strong> Buch? – <strong>Das</strong> Buch ist hier.</em></p>\n\n<p>&#160;</p>\n\n<p>In the plural all nouns have the definite article <em>die</em>.</p>\n\n<p><em>Wo sind <strong>die</strong> Stifte? – <strong>Die</strong> Stifte sind hier.</em></p>\n\n<p><em>Wo sind <strong>die</strong> Brillen? – <strong>Die</strong> Brillen sind hier.</em></p>\n\n<p><em>Wo sind <strong>die</strong> Bücher? – <strong>Die</strong> Bücher sind hier.</em></p>\n\n<p>&#160;</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>&#160;</td>\n\t\t\t<td>Singular</td>\n\t\t\t<td>Plural</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>masculine</td>\n\t\t\t<td><strong>der</strong> Stift</td>\n\t\t\t<td><strong>die</strong> Stifte</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>feminine</td>\n\t\t\t<td><strong>die</strong> Brille</td>\n\t\t\t<td><strong>die</strong> Brillen</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>neuter</td>\n\t\t\t<td><strong>das</strong> Buch</td>\n\t\t\t<td><strong>die</strong> Bücher</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&#160;</p>\n\n<p>The definite article is used in particular when talking about an object or person that is already known to the other person.</p>\n\n<p>Lisa says:<em> Wo ist die Brille?</em></p>\n\n<p>The listener understands that she is not looking for just any pair of glasses. She is looking for a particular pair, namely her own.</p>\n"
+    },
+    {
+     "id": "rs-39370822",
+     "url": "https://learngerman.dw.com/en/learning-german-in-germany/l-37368285/rs-39370822",
+     "title": "Learning German in Germany",
+     "texts": [
+      "Learning German in Germany",
+      "Would you like to learn German in Germany? Lots of institutes offer language classes at various levels during the day or in the evenings. Well-known are the Goethe Institute and the Volkshochschule (VHS, for short), which you find in nearly every city.\nYou normally have to pay for language classes at a language school. In certain circumstances, for example, if you are a recognized refugee, then the city will cover most of the costs of the class. You can visit a so-called Integrationskurs (integration course) and only have to pay very little. At the end of the course, you must sit and pass a test. Then you may apply for a job in Germany.\nIf you like learning online, there are lots of good resources available on the internet for learning German, from individual materials to real language courses."
+     ],
+     "html": "\n\n<p>Would you like to learn German in Germany? Lots of institutes offer language classes at various levels during the day or in the evenings. Well-known are the Goethe Institute and the <em>Volkshochschule</em> (VHS, for short), which you find in nearly every city.</p>\n\n<p>You normally have to pay for language classes at a language school. In certain circumstances, for example, if you are a recognized refugee, then the city will cover most of the costs of the class. You can visit a so-called <em>Integrationskurs </em>(integration course)&#160;and only have to pay very little. At the end of the course, you must sit and pass a test. Then you may apply for a job in Germany.</p>\n\n<p>If you like learning online, there are lots of good resources available on the internet for learning German, from individual materials to real language courses.</p>\n"
+    }
+   ]
+  },
+  {
+   "id": "script",
+   "kind": "dw-script-pdf",
+   "url": "https://learngerman.dw.com/downloads/52719650/nicos-weg-a1-e5-l1-manuskript-und-wortschatz-englisch.pdf",
+   "localFile": "DW Deutsch lernen/A1/05_things/01_Was ist das/Materials/Script and vocabulary (English).pdf",
+   "sha256": "bc851182546ac662bec7ffdc142d0d005a7cb16e28b42c9137e5a69cb13320d9",
+   "lines": [
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "(5) Things | Was ist das?",
+    "Nico’s first morning in the shared apartment: Nico comes into the kitchen",
+    "half asleep and is surprised to see Lisa racing around in a panic. Nina",
+    "explains what’s wrong. Nico gets to learn the words for several objects.",
+    "Script",
+    "LISA:",
+    "Wo ist meine Brille?",
+    "NINA:",
+    "Was suchst du?",
+    "LISA:",
+    "Meine Brille. Und wo sind die Stifte und das Buch?",
+    "NINA:",
+    "Sie sucht die Brille, die Stifte und das Buch.",
+    "LISA:",
+    "Ich muss zum Unterricht!",
+    "NINA:",
+    "Lisa gibt Deutschkurse in einer Sprachschule. Lisa ist Lehrerin. Sie unterrichtet",
+    "Deutsch.",
+    "NICO:",
+    "Du bist eine Lehrerin?",
+    "LISA:",
+    "[Ja.]",
+    "NICO:",
+    "Die Stifte … die Brille und … Und wie heißt das hier auf Deutsch?",
+    "Klassifikationsstufe: Intern",
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "LISA:",
+    "Das Buch! Danke, Nico!",
+    "Emma wartet auch schon!",
+    "NINA:",
+    "Kein Problem, Lisa. Ich hol Emma.",
+    "LISA:",
+    "Echt? Danke, du bist echt die Beste!",
+    "Und nach dem Unterricht fahren wir zu Yara, okay?",
+    "NICO:",
+    "Yara. August-Straußberg-Gasse 23.",
+    "LISA:",
+    "Ja. Ja, genau.",
+    "NINA:",
+    "Lisa!",
+    "LISA:",
+    "Mhm …",
+    "NINA:",
+    "Der Schlüssel!",
+    "LISA:",
+    "Danke!",
+    "Klassifikationsstufe: Intern",
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "Vocabulary (from script and lesson)",
+    "der Bleistift, die Bleistifte – pencil",
+    "die Brille, die Brillen – eyeglasses",
+    "das Buch, die Bücher – book",
+    "der Deutschkurs, die Deutschkurse – German course",
+    "die – the (plural)",
+    "der Lehrer, die Lehrer – teacher (male)",
+    "die Lehrerin, die Lehrerinnen – teacher (female)",
+    "der Notizblock, die Notizblöcke – notebook",
+    "das Papier – paper",
+    "hier nur Singular",
+    "der Radiergummi, die Radiergummis – eraser",
+    "alternativ: das Radiergummi, die Radiergummis",
+    "die Schlüssel, die Schlüssel – key",
+    "die Sprachschule, die Sprachschulen – language school",
+    "der Stift, die Stifte – pen",
+    "(etwas) unterrichten – to teach; to instruct",
+    "unterrichtet, unterrichtete, hat unterrichtet",
+    "Wie heißt das auf Deutsch? – What does that mean in German?",
+    "Klassifikationsstufe: Intern"
+   ]
+  }
+ ]
+}

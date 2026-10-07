@@ -95,13 +95,13 @@ In the first example the phone number is said one digit at a time; Lotte's numbe
 | Wrong | Right | Why | From |
 |---|---|---|---|
 | fünfzehn, siebzehn | fünfzehn, sechzehn, siebzehn | *sechzehn* is missing from my list. It is the tricky one: *sechs* loses its -s. | [my notes: VHS Lektion 2](<../../VHS-Lernportal/A1/Lesson_02/lektion_02.md>) |
-| sechszehn | sechzehn | 16 drops the -s of *sechs*. | [my mistakes: Zahlen von 1 bis 100](<../../DW Deutsch lernen/A1/03_contact_details/01_Lesson_01/Materials/mistakes.md>) |
-| vier und sechszig | vierundsechzig | One word with *und*, and 60 drops the -s of *sechs*: *sechzig*. | [my mistakes: Zahlen von 1 bis 100](<../../DW Deutsch lernen/A1/03_contact_details/01_Lesson_01/Materials/mistakes.md>) |
-| sechs und neunzig | sechsundneunzig | One word: digit + *und* + ten. | [my mistakes: Zahlen von 1 bis 100](<../../DW Deutsch lernen/A1/03_contact_details/01_Lesson_01/Materials/mistakes.md>) |
-| Dreiundreißig | dreiunddreißig | *drei* + *und* + *dreißig*: keep the d of *und*. | [my mistakes: Zahlen von 1 bis 100](<../../DW Deutsch lernen/A1/03_contact_details/01_Lesson_01/Materials/mistakes.md>) |
-| einundzweizig | einundzwanzig | 20 is irregular: *zwanzig*, not *zwei* + *-zig*. | [my mistakes: Zahlen von 1 bis 100](<../../DW Deutsch lernen/A1/03_contact_details/01_Lesson_01/Materials/mistakes.md>) |
-| achthunertvierunddreißig | achthundertvierunddreißig | *hundert* keeps its d: acht-hundert-vierunddreißig. | [my mistakes: Auf dem Amt](<../../DW Deutsch lernen/A1/03_contact_details/04_Lesson_04/Materials/mistakes.md>) |
-| 22.50 | 22,50 | Prices take a comma, not a point. | [my mistakes: Zahlen bitte!](<../../DW Deutsch lernen/A1/04_in_company/04_Lesson_04/Materials/mistakes.md>) |
+| sechszehn | sechzehn | 16 drops the -s of *sechs*. | [my mistakes: Zahlen von 1 bis 100](<../../DW Deutsch lernen/A1/02_contact_details/01_Zahlen von 1 bis 100/Materials/mistakes.md>) |
+| vier und sechszig | vierundsechzig | One word with *und*, and 60 drops the -s of *sechs*: *sechzig*. | [my mistakes: Zahlen von 1 bis 100](<../../DW Deutsch lernen/A1/02_contact_details/01_Zahlen von 1 bis 100/Materials/mistakes.md>) |
+| sechs und neunzig | sechsundneunzig | One word: digit + *und* + ten. | [my mistakes: Zahlen von 1 bis 100](<../../DW Deutsch lernen/A1/02_contact_details/01_Zahlen von 1 bis 100/Materials/mistakes.md>) |
+| Dreiundreißig | dreiunddreißig | *drei* + *und* + *dreißig*: keep the d of *und*. | [my mistakes: Zahlen von 1 bis 100](<../../DW Deutsch lernen/A1/02_contact_details/01_Zahlen von 1 bis 100/Materials/mistakes.md>) |
+| einundzweizig | einundzwanzig | 20 is irregular: *zwanzig*, not *zwei* + *-zig*. | [my mistakes: Zahlen von 1 bis 100](<../../DW Deutsch lernen/A1/02_contact_details/01_Zahlen von 1 bis 100/Materials/mistakes.md>) |
+| achthunertvierunddreißig | achthundertvierunddreißig | *hundert* keeps its d: acht-hundert-vierunddreißig. | [my mistakes: Auf dem Amt](<../../DW Deutsch lernen/A1/02_contact_details/04_Auf dem Amt/Materials/mistakes.md>) |
+| 22.50 | 22,50 | Prices take a comma, not a point. | [my mistakes: Zahlen bitte!](<../../DW Deutsch lernen/A1/03_in_company/04_Zahlen bitte/Materials/mistakes.md>) |
 | siebenzehn | siebzehn | 17 drops the -en of *sieben*. | rule |
 | dreizig | dreißig | 30 is written with ß. | rule |
 | eins und zwanzig | einundzwanzig | One word, and *eins* becomes *ein-*. | rule |
@@ -131,7 +131,7 @@ In the first example the phone number is said one digit at a time; Lotte's numbe
 > …
 
 My notes: [VHS Lektion 2](<../../VHS-Lernportal/A1/Lesson_02/lektion_02.md>) ·
-[Zahlen von 1 bis 100](<../../DW Deutsch lernen/A1/03_contact_details/01_Lesson_01/Zahlen von 1 bis 100.md>) ·
-[Wichtige Nummern](<../../DW Deutsch lernen/A1/03_contact_details/02_Lesson_02/Wichtige Nummern.md>) ·
-[Auf dem Amt](<../../DW Deutsch lernen/A1/03_contact_details/04_Lesson_04/Auf dem Amt.md>) ·
-[Zahlen bitte!](<../../DW Deutsch lernen/A1/04_in_company/04_Lesson_04/Zahlen bitte.md>)
+[Zahlen von 1 bis 100](<../../DW Deutsch lernen/A1/02_contact_details/01_Zahlen von 1 bis 100/Zahlen von 1 bis 100.md>) ·
+[Wichtige Nummern](<../../DW Deutsch lernen/A1/02_contact_details/02_Wichtige Nummern/Wichtige Nummern.md>) ·
+[Auf dem Amt](<../../DW Deutsch lernen/A1/02_contact_details/04_Auf dem Amt/Auf dem Amt.md>) ·
+[Zahlen bitte!](<../../DW Deutsch lernen/A1/03_in_company/04_Zahlen bitte/Zahlen bitte.md>)

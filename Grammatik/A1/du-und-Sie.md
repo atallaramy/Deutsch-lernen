@@ -77,7 +77,7 @@ and first names.
 
 | Wrong | Right | Why | From |
 |---|---|---|---|
-| Und ihnen? | Und Ihnen? | Formal *Ihnen* always has a capital I. | [my notes: Hallo!](<../../DW Deutsch lernen/A1/01_Intro_zu_A1/01_Hallo/Hallo.md>) |
+| Und ihnen? | Und Ihnen? | Formal *Ihnen* always has a capital I. | [my notes: Hallo!](<../../DW Deutsch lernen/A1/00_welcome_to_A1/01_Hallo/Hallo.md>) |
 | Wie geht es dir, Herr Müller? | Wie geht es Ihnen, Herr Müller? | *Herr/Frau* + surname goes with *Sie*. | rule |
 | Wie heißen du? | Wie heißt du? | The verb follows the pronoun: du → *heißt*, Sie → *heißen*. | rule |
 
@@ -117,12 +117,12 @@ and first names.
 
 > …
 
-My notes: [Hallo!](<../../DW Deutsch lernen/A1/01_Intro_zu_A1/01_Hallo/Hallo.md>) ·
-[Tschüss!](<../../DW Deutsch lernen/A1/01_Intro_zu_A1/03_Tschüs/Tschüs.md>) ·
-[Ich heiße Emma](<../../DW Deutsch lernen/A1/02_meeting_people/01_Lesson_01/Ich heiße Emma.md>) ·
+My notes: [Hallo!](<../../DW Deutsch lernen/A1/00_welcome_to_A1/01_Hallo/Hallo.md>) ·
+[Tschüss!](<../../DW Deutsch lernen/A1/00_welcome_to_A1/03_Tschüs/Tschüs.md>) ·
+[Ich heiße Emma](<../../DW Deutsch lernen/A1/01_meeting_people/01_Ich heiße Emma/Ich heiße Emma.md>) ·
 [VHS Lektion 2](<../../VHS-Lernportal/A1/Lesson_02/lektion_02.md>) ·
-[Wichtige Nummern](<../../DW Deutsch lernen/A1/03_contact_details/02_Lesson_02/Wichtige Nummern.md>) ·
-[Adressen](<../../DW Deutsch lernen/A1/03_contact_details/03_Lesson_03/Adressen.md>) ·
-[Auf dem Amt](<../../DW Deutsch lernen/A1/03_contact_details/04_Lesson_04/Auf dem Amt.md>) ·
-[Was machst du hier?](<../../DW Deutsch lernen/A1/04_in_company/01_Lesson_01/Was_machst_du_hier.md>) ·
-[Was trinkst du?](<../../DW Deutsch lernen/A1/04_in_company/02_Lesson_02/Was trinkst du.md>)
+[Wichtige Nummern](<../../DW Deutsch lernen/A1/02_contact_details/02_Wichtige Nummern/Wichtige Nummern.md>) ·
+[Adressen](<../../DW Deutsch lernen/A1/02_contact_details/03_Adressen/Adressen.md>) ·
+[Auf dem Amt](<../../DW Deutsch lernen/A1/02_contact_details/04_Auf dem Amt/Auf dem Amt.md>) ·
+[Was machst du hier?](<../../DW Deutsch lernen/A1/03_in_company/01_Was machst du hier/Was_machst_du_hier.md>) ·
+[Was trinkst du?](<../../DW Deutsch lernen/A1/03_in_company/02_Was trinkst du/Was trinkst du.md>)

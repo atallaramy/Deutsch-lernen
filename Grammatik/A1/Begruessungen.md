@@ -71,9 +71,9 @@ auto-generated, so this page quotes DW only.
 
 | Wrong | Right | Why | From |
 |---|---|---|---|
-| Grüyi! | Grüezi! | Y and Z are swapped on the German keyboard. | [my notes: Hallo!](<../../DW Deutsch lernen/A1/01_Intro_zu_A1/01_Hallo/Hallo.md>) |
-| Bis Bald! | Bis bald! | Only the first word has a capital: *Bis bald!* | [my notes: Tschüss!](<../../DW Deutsch lernen/A1/01_Intro_zu_A1/03_Tschüs/Tschüs.md>) |
-| Alles okey? | Alles okay? | DW spells it *okay*. | [my notes: Tschüss!](<../../DW Deutsch lernen/A1/01_Intro_zu_A1/03_Tschüs/Tschüs.md>) |
+| Grüyi! | Grüezi! | Y and Z are swapped on the German keyboard. | [my notes: Hallo!](<../../DW Deutsch lernen/A1/00_welcome_to_A1/01_Hallo/Hallo.md>) |
+| Bis Bald! | Bis bald! | Only the first word has a capital: *Bis bald!* | [my notes: Tschüss!](<../../DW Deutsch lernen/A1/00_welcome_to_A1/03_Tschüs/Tschüs.md>) |
+| Alles okey? | Alles okay? | DW spells it *okay*. | [my notes: Tschüss!](<../../DW Deutsch lernen/A1/00_welcome_to_A1/03_Tschüs/Tschüs.md>) |
 | Guten Morgen! (at 7 p.m.) | Guten Abend! | *Guten Abend* from about 6 p.m. | rule |
 
 ## Official pages
@@ -100,7 +100,7 @@ auto-generated, so this page quotes DW only.
 
 > …
 
-My notes: [Hallo!](<../../DW Deutsch lernen/A1/01_Intro_zu_A1/01_Hallo/Hallo.md>) ·
-[Tschüss!](<../../DW Deutsch lernen/A1/01_Intro_zu_A1/03_Tschüs/Tschüs.md>) ·
+My notes: [Hallo!](<../../DW Deutsch lernen/A1/00_welcome_to_A1/01_Hallo/Hallo.md>) ·
+[Tschüss!](<../../DW Deutsch lernen/A1/00_welcome_to_A1/03_Tschüs/Tschüs.md>) ·
 [Easy German SEG 274](<../../EasyGerman/01LearnBasiGermanGreetings&Farewells.md>) ·
-[Adressen](<../../DW Deutsch lernen/A1/03_contact_details/03_Lesson_03/Adressen.md>)
+[Adressen](<../../DW Deutsch lernen/A1/02_contact_details/03_Adressen/Adressen.md>)

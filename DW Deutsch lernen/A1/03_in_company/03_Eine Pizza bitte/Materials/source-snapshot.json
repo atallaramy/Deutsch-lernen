@@ -1,0 +1,629 @@
+{
+ "description": "Official source text captured by ANKI/harvest_sources.py for offline context verification.",
+ "harvestedOn": "2026-10-04",
+ "sources": [
+  {
+   "id": "exercises",
+   "kind": "dw-exercises",
+   "url": "https://learngerman.dw.com/en/eine-pizza-bitte/l-37279261",
+   "lessonUrl": "https://learngerman.dw.com/en/eine-pizza-bitte/l-37279261",
+   "vocabulary": {
+    "url": "https://learngerman.dw.com/en/eine-pizza-bitte/l-37279261/lv",
+    "items": [
+     {
+      "id": 37395338,
+      "german": "die Ananas, die Ananas",
+      "english": "pineapple",
+      "forms": "alternativer Plural: die Ananasse"
+     },
+     {
+      "id": 37395493,
+      "german": "(etwas) bestellen",
+      "english": "to order something",
+      "forms": "bestellt, bestellte, hat bestellt"
+     },
+     {
+      "id": 37395528,
+      "german": "der Durst",
+      "english": "thirst; Durst haben = to be thirsty",
+      "forms": "nur Singular"
+     },
+     {
+      "id": 37395534,
+      "german": "(etwas) essen",
+      "english": "to eat (something)",
+      "forms": "isst, aß, hat gegessen"
+     },
+     {
+      "id": 37395219,
+      "german": "gern",
+      "english": "gladly; happily",
+      "forms": "lieber, am liebsten"
+     },
+     {
+      "id": 37397532,
+      "german": "der Hunger",
+      "english": "hunger; Hunger haben = to be hungry",
+      "forms": "nur Singular"
+     },
+     {
+      "id": 37396357,
+      "german": "der Käse",
+      "english": "cheese",
+      "forms": "nur Singular"
+     },
+     {
+      "id": 37398580,
+      "german": "etwas/jemanden lieben",
+      "english": "to love something/somebody; to like something/somebody",
+      "forms": "liebt, liebte, hat geliebt"
+     },
+     {
+      "id": 37396738,
+      "german": "der Mozzarella",
+      "english": "mozzarella",
+      "forms": "hier nur Singular"
+     },
+     {
+      "id": 37399901,
+      "german": "etwas nehmen",
+      "english": "to take something; to have something",
+      "forms": "nimmt, nahm, hat genommen"
+     },
+     {
+      "id": 37397210,
+      "german": "die Salami, die Salamis",
+      "english": "salami",
+      "forms": ""
+     },
+     {
+      "id": 37397394,
+      "german": "der Salat, die Salate",
+      "english": "salad; lettuce",
+      "forms": ""
+     },
+     {
+      "id": 37397528,
+      "german": "der Schinken, die Schinken",
+      "english": "ham",
+      "forms": ""
+     },
+     {
+      "id": 37398133,
+      "german": "Sonst noch etwas?",
+      "english": "Anything else?",
+      "forms": ""
+     },
+     {
+      "id": 37396091,
+      "german": "die Speisekarte, die Speisekarten",
+      "english": "menu",
+      "forms": ""
+     },
+     {
+      "id": 37397530,
+      "german": "das Sushi",
+      "english": "sushi",
+      "forms": "nur Singular"
+     },
+     {
+      "id": 37397612,
+      "german": "der Thunfisch, die Thunfische",
+      "english": "tuna (fish)",
+      "forms": ""
+     },
+     {
+      "id": 37397793,
+      "german": "die Tomate, die Tomaten",
+      "english": "tomato",
+      "forms": ""
+     },
+     {
+      "id": 37399355,
+      "german": "der Vegetarier, die Vegetarier",
+      "english": "vegetarian (male)",
+      "forms": ""
+     },
+     {
+      "id": 37399322,
+      "german": "die Vegetarierin, die Vegetarierinnen",
+      "english": "vegetarian (female)",
+      "forms": ""
+     },
+     {
+      "id": 41389873,
+      "german": "Was gibt es denn?",
+      "english": "What do you have?; What is there?",
+      "forms": ""
+     }
+    ]
+   },
+   "exercises": [
+    {
+     "id": "e-37288675",
+     "url": "https://learngerman.dw.com/en/e-or-i/l-37279261/e-37288675",
+     "title": "\"e\" or \"i\"?",
+     "texts": [
+      "i",
+      "e",
+      "i",
+      "i",
+      "i",
+      "e",
+      "i",
+      "e",
+      "Wähl für jede Lücke den richtigen Vokal aus.",
+      "Nico, was n#p#mmst du?",
+      "Wähl für jede Lücke den richtigen Vokal aus.",
+      "Ich n#p#hme eine Pizza.",
+      "Wähl für jede Lücke den richtigen Vokal aus.",
+      "Und Sebastian? Was n#p#mmt er?",
+      "Wähl für jede Lücke den richtigen Vokal aus.",
+      "Er n#p#mmt auch eine Pizza.",
+      "Wähl für jede Lücke den richtigen Vokal aus.",
+      "Nina, was #p#sst du?",
+      "Wähl für jede Lücke den richtigen Vokal aus.",
+      "Ich #p#sse eine Pizza mit Ananas.",
+      "Wähl für jede Lücke den richtigen Vokal aus.",
+      "Was #p#sst Lisa?",
+      "Wähl für jede Lücke den richtigen Vokal aus.",
+      "Was #p#ssen Sie?"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37290056",
+     "url": "https://learngerman.dw.com/en/i-would-like-to-place-an-order/l-37279261/e-37290056",
+     "title": "I would like to place an order",
+     "texts": [
+      "Pizza Luigi. Guten Tag?",
+      "Ich möchte gern bestellen.",
+      "Gern. Was möchten Sie?",
+      "Eine Pizza mit Tomaten und Käse bitte.",
+      "Sonst noch etwas?",
+      "Ja, bitte. Ich nehme auch eine Pizza mit Thunfisch.",
+      "Also, eine Pizza mit Tomaten und Käse? Und eine Pizza mit Thunfisch?",
+      "Ja, richtig.",
+      "Vielen Dank. Wie ist Ihre Adresse?",
+      "Wagnergasse 136."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37286014",
+     "url": "https://learngerman.dw.com/en/pizza/l-37279261/e-37286014",
+     "title": "Pizza",
+     "texts": [
+      "Deutschkurse | Nicos Weg | A1_E3_L3_Stock_6169488",
+      "Deutschkurse | Nicos Weg | A1_E3_L2_Stock_4036148",
+      "Deutschkurse | Nicos Weg | A1_E3_L3_Stock_7037713",
+      "Deutschkurse | Nicos Weg | A1_E3_L3_Stock_6354770",
+      "Play audio",
+      "Play audio",
+      "Play audio",
+      "Play audio"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37288345",
+     "url": "https://learngerman.dw.com/en/plural-forms-of-the-verb-essen/l-37279261/e-37288345",
+     "title": "Plural forms of the verb \"essen\"",
+     "texts": [
+      "essen",
+      "esst",
+      "essen",
+      "essen",
+      "Was passt zusammen? Ordne zu.",
+      "wir",
+      "ihr",
+      "sie",
+      "Sie"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37290243",
+     "url": "https://learngerman.dw.com/en/pronunciation-practice-ch/l-37279261/e-37290243",
+     "title": "Pronunciation practice: \"ch\"",
+     "texts": [
+      "Careful! The vowels i, e, ä, ö, ü are followed by the \"ich\" sound. The vowels a, o, u are followed by the \"ach\" sound.",
+      "möchten",
+      "ich",
+      "Milch",
+      "auch",
+      "suchen",
+      "acht"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37289530",
+     "url": "https://learngerman.dw.com/en/sebastian-orders-pizza-1/l-37279261/e-37289530",
+     "title": "Sebastian orders pizza (1)",
+     "texts": [
+      "Beispiel:\nPizza – Wir – bestellen\nWir bestellen Pizza.",
+      "Ich",
+      "nehme",
+      "eine",
+      "Cola",
+      "Nawin",
+      "trinkt",
+      "ein",
+      "Wasser",
+      "Wir",
+      "möchten",
+      "Sushi",
+      "und",
+      "Lisa",
+      "haben",
+      "auch",
+      "Was",
+      "isst",
+      "du",
+      "Was",
+      "bestellen",
+      "wir",
+      "#ps# #ps# #ps# #ps#.",
+      "eine – Cola – nehmen – Ich",
+      "Tip: The verb is always in the 2nd position in a declarative sentence.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "#ps# #ps# #ps# #ps#.",
+      "ein – Wasser – trinken – Nawin",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "#ps# #ps# #ps#.",
+      "Sushi – möchten – Wir",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "Nina #ps# #ps# #ps# #ps# Hunger. Und Durst. :-)",
+      "auch – haben – und – Lisa",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "#ps# #ps# #ps#?",
+      "Was – essen – du",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "#ps# #pm# #ps#?",
+      "Was – bestellen – wir",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37289933",
+     "url": "https://learngerman.dw.com/en/sebastian-orders-pizza-2/l-37279261/e-37289933",
+     "title": "Sebastian orders pizza (2)",
+     "texts": [
+      "Guten Tag, ich möchte gern bestellen.",
+      "Ich nehme dreimal Pizza mit Salami und einmal mit Thunfisch.",
+      "Ja, eine Pizza mit Ananas, aber ohne Schinken bitte.",
+      "In der Wagnergasse 136. Mein Name ist Hanusch.",
+      "Pizza Luigi, guten Tag?",
+      "Careful! When you are hungry, you say \"Ich habe Hunger\". When you are thirsty, you say \"Ich habe Durst\".",
+      "Ja gern, was nehmen Sie?",
+      "Gern. Sonst noch etwas?",
+      "Careful! \"Sonst noch etwas?\" means \"Anything else?\"",
+      "Vielen Dank. Wo wohnen Sie? Und wie ist Ihr Name?"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37288290",
+     "url": "https://learngerman.dw.com/en/singular-forms-of-the-verb-essen/l-37279261/e-37288290",
+     "title": "Singular forms of the verb \"essen\"",
+     "texts": [
+      "esse",
+      "isst",
+      "isst",
+      "Was passt zusammen? Ordne zu.",
+      "ich",
+      "du",
+      "er/sie/es"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37279951",
+     "url": "https://learngerman.dw.com/en/the-delivery-service-1/l-37279261/e-37279951",
+     "title": "The delivery service (1)",
+     "texts": [
+      "Pizza",
+      "das Handy",
+      "Was bestellen Lisa, Sebastian, Nico, Nawin und Nina?",
+      "Was sucht Sebastian?"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37282037",
+     "url": "https://learngerman.dw.com/en/the-delivery-service-2/l-37279261/e-37282037",
+     "title": "The delivery service (2)",
+     "texts": [
+      "eine Pizza mit Thunfisch",
+      "eine Pizza mit Salami",
+      "eine Pizza mit Ananas ohne Schinken",
+      "Was möchte Nawin essen?",
+      "Was möchte Nico essen?",
+      "Was möchte Nina essen?"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37282394",
+     "url": "https://learngerman.dw.com/en/the-menu-1/l-37279261/e-37282394",
+     "title": "The menu (1)",
+     "texts": [
+      "Was ist das? Sortier die Buchstaben.",
+      "S a l a m i",
+      "Was ist das? Sortier die Buchstaben.",
+      "S c h i n k e n",
+      "Was ist das? Sortier die Buchstaben.",
+      "S a l a t",
+      "Was ist das? Sortier die Buchstaben.",
+      "T h u n f i s c h",
+      "Was ist das? Sortier die Buchstaben.",
+      "P i z z a",
+      "Was ist das? Sortier die Buchstaben.",
+      "K ä s e"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37283968",
+     "url": "https://learngerman.dw.com/en/the-menu-2/l-37279261/e-37283968",
+     "title": "The menu (2)",
+     "texts": [
+      "Pizza",
+      "Salami",
+      "Schinken",
+      "Ananas",
+      "Mozzarella",
+      "Careful! Remember to pay attention to which syllable is stressed. In \"Salami\", the stress is on the second syllable, but in \"Mozzarella\", it is on the \"e\".",
+      "Käse"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37285602",
+     "url": "https://learngerman.dw.com/en/the-order-1/l-37279261/e-37285602",
+     "title": "The order (1)",
+     "texts": [
+      "Was nehmt ihr?",
+      "möchte",
+      "nehme",
+      "möchtest",
+      "Nina: Was nehmt ihr?\nNawin: Ich #p# eine Pizza. Mit Thunfisch.\nLisa: Sehr gut. Ich #p# auch eine Pizza mit Salami. Und Nico, #p# du eine Pizza mit Thunfisch, eine mit Salami oder eine mit Tomate Mozzarella ...?\nNico: Ich nehme eine Pizza mit Salami bitte.",
+      "Wähl die fehlenden Verben in der richtigen Reihenfolge aus.",
+      "Info: When you have decided what you want to eat, you can say: \"Ich nehme eine Pizza.\", \"Ich esse eine Pizza.\" or \"Ich möchte eine Pizza.\"",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37287501",
+     "url": "https://learngerman.dw.com/en/the-order-2/l-37279261/e-37287501",
+     "title": "The order (2)",
+     "texts": [
+      "essen",
+      "isst",
+      "esse",
+      "isst",
+      "Mann 1: Was #p# wir heute Abend? Pizza? Sushi?\nFrau 1: Pizza? Schon wieder? Nein, danke. Ich möchte heute Sushi. Marie, #p# du gern Sushi?\nFrau 2: Ja, ich #p# sehr gern Sushi. Aber Oli #p# nicht gern Sushi. Oli? Möchtest du Sushi?\nMann 2: Sushi? Nein, ...",
+      "Wähl für jede Lücke das richtige Verb.",
+      "Careful! Do not confuse \"er isst\" with \"er ist\" (sein).",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37287011",
+     "url": "https://learngerman.dw.com/en/the-verb-nehmen/l-37279261/e-37287011",
+     "title": "The verb \"nehmen\"",
+     "texts": [
+      "Sebastian: Was nimmst du, Lisa? … Äh, du nimmst eine Pizza …\nLisa: … mit Salami.\nSebastian: Und was nehmen Nawin und Nina?\nLisa: Sie nehmen eine Pizza mit Thunfisch und eine Pizza Hawaii mit Ananas, aber ohne Schinken.\nSebastian: Ach ja … Und Nico?\nLisa: Er nimmt eine Pizza mit Salami.\nSebastian: Und nehmt ihr auch Salat?\nLisa: Ach, nein danke.\nSebastian: Und nehmen wir Getränke?\n(…)",
+      "nehme",
+      "nimmst",
+      "nimmt",
+      "nehmen",
+      "nehmt",
+      "nehmen",
+      "nehmen",
+      "ich …",
+      "du …",
+      "er, sie, es …",
+      "wir …",
+      "ihr …",
+      "sie (Plural) …",
+      "Sie (formell) ..."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37288539",
+     "url": "https://learngerman.dw.com/en/verbs-with-a-vowel-change/l-37279261/e-37288539",
+     "title": "Verbs with a vowel change",
+     "texts": [
+      "In some situations, where the verb stem includes an \"e\", it changes to \"i\" in the second- and third-person singular (\"du\" and \"er/sie/es\").",
+      "nehme",
+      "nimmst",
+      "nimmt",
+      "esse",
+      "isst",
+      "isst",
+      "ich #p#\ndu #p#\ner/sie/es #p#",
+      "Wähl die fehlenden Verbformen in der richtigen Reihenfolge aus.",
+      "Careful! You need to pay special attention in the case of \"nehmen\". In the second- and third-person singular, there is yet another difference from the infinitive form. Do you see it?",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "ich #p#\ndu #p#\ner/sie/es #p#",
+      "Wähl die fehlenden Verbformen in der richtigen Reihenfolge aus.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT"
+     ],
+     "vocabularyTags": []
+    }
+   ],
+   "pages": [
+    {
+     "id": "rs-40966522",
+     "url": "https://learngerman.dw.com/en/pizza-fries-and-sausages/l-37279261/rs-40966522",
+     "title": "Pizza, fries and sausages",
+     "texts": [
+      "Pizza, fries and sausages",
+      "Wurst, pizza and kebab - Filling meals that you can eat quickly on the go are popular in Germany, too. So snack bars are well-liked. There are snack bars everywhere, not just in the big cities. Diverse menus are available, though the meals are not always healthy. But they are delicious. You'll find typical German dishes, like bratwurst or grilled chicken with bread rolls or French fries. But food from other cultures has long found its place in fast food culture in Germany. Pizza, doner kebab or burgers are just as popular as German sausages. In addition to small snack bars, there are also well-known international fast food chains in Germany."
+     ],
+     "html": "\n\n<p>Wurst, pizza and kebab - Filling meals that you can eat quickly on the go are popular in Germany, too. So snack bars are well-liked. There are snack bars everywhere, not just in the big cities. Diverse menus are available, though the meals are not always healthy. But they are delicious. You'll find typical German dishes, like bratwurst or grilled chicken with bread rolls or French fries. But food from other cultures has long found its place in fast food culture in Germany. Pizza, doner kebab or burgers are just as popular as German sausages. In addition to small snack bars, there are also well-known international fast food chains in Germany.</p>\n"
+    },
+    {
+     "id": "rs-39371005",
+     "url": "https://learngerman.dw.com/en/regional-or-international/l-37279261/rs-39371005",
+     "title": "Regional or international?",
+     "texts": [
+      "Regional or international?",
+      "If you think you will just be eating local foods like potatoes, sausages and sauerkraut in Germany, then you are wrong. As well as regional specialities, people in Germany love international cuisine. Particularly in big cities, you find restaurants offering foreign food.\nLots of Germans also like trying to cook international dishes at home. Supermarkets have adapted to accommodate this trend. You can get specialist ingredients in shops like Asian and Turkish grocery stores."
+     ],
+     "html": "\n\n<p>If you think you will just be eating local foods like potatoes, sausages and sauerkraut in Germany, then you are wrong. As well as regional specialities, people in Germany love international cuisine. Particularly in big cities, you find restaurants offering foreign food.</p>\n\n<p>Lots of Germans also like trying to cook international dishes at home. Supermarkets have adapted to accommodate this trend. You can get specialist ingredients in shops like Asian and Turkish grocery stores.</p>\n"
+    },
+    {
+     "id": "gr-38306672",
+     "url": "https://learngerman.dw.com/en/vowel-change-e-to-i/l-37279261/gr-38306672",
+     "title": "Vowel change: e to i",
+     "texts": [
+      "Vowel change: e to i",
+      "Verbs with a vowel change from e to i\nWith some irregular verbs, the root vowel e changes. It becomes i in the second- and third-person singular. The other verb forms remain regular.\nIch esse gern Pizza mit Salami. Und was isst du gern, Nina? – Ich esse gern Pizza Hawaii ohne Schinken.\nSingular\n1st person\nich esse\n2nd person\ndu isst\n3rd person\ner/sie/es isst\nPlural\n1st person\nwir essen\n2nd person\nihr esst\n3rd person\nsie essen\nFormal (singular and plural)\nSie essen\nThe verb nehmen\nThe verb nehmen also belongs to this group. It has another irregularity:\nIn the second- and third-person singular, it not only changes the vowel, but also the following letter.\nIch nehme eine Pizza mit Thunfisch. Und was nimmst du, Nico? – Ich nehme eine Pizza mit Salami.\nSingular\n1st person\nich nehme\n2nd person\ndu nimmst\n3rd person\ner/sie/es nimmt\nPlural\n1st person\nwir nehmen\n2nd person\nihr nehmt\n3rd person\nsie nehmen\nFormal (singular and plural)\nSie nehmen"
+     ],
+     "html": "<p><strong>Verbs with a vowel change from </strong><strong><em>e</em></strong><strong> to </strong><strong><em>i</em></strong></p>\n\n<p>With some irregular verbs, the root vowel <em>e </em>changes. It becomes <em>i</em> in the second- and third-person singular. The other verb forms remain regular.</p>\n\n<p><em>Ich <strong>esse</strong> gern Pizza mit Salami. Und was <strong>isst</strong> du gern, Nina? – Ich <strong>esse</strong> gern Pizza Hawaii ohne Schinken.</em></p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>Singular</td>\n\t\t\t<td>&#160;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>1st person</td>\n\t\t\t<td>ich esse</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>2nd person</td>\n\t\t\t<td>du <strong>isst</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>3rd person</td>\n\t\t\t<td>er/sie/es <strong>isst</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Plural</td>\n\t\t\t<td>&#160;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>1st person</td>\n\t\t\t<td>wir essen</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>2nd person</td>\n\t\t\t<td>ihr esst</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>3rd person</td>\n\t\t\t<td>sie essen</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Formal&#160;(singular and plural)</td>\n\t\t\t<td>Sie essen</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&#160;</p>\n\n<p><strong><em>The verb nehmen</em></strong></p>\n\n<p>The verb <em>nehmen</em> also belongs to this group. It&#160;has another irregularity:</p>\n\n<p>In the second-&#160;and third-person singular, it not only changes the vowel, but also the following letter.</p>\n\n<p><em>Ich <strong>nehme</strong> eine Pizza mit Thunfisch. Und was <strong>nimmst</strong> du, Nico? – Ich <strong>nehme</strong> eine Pizza mit Salami.</em></p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>Singular</td>\n\t\t\t<td>&#160;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>1st person</td>\n\t\t\t<td>ich nehme</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>2nd person</td>\n\t\t\t<td>du <strong>nimmst</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>3rd person</td>\n\t\t\t<td>er/sie/es <strong>nimmt</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Plural</td>\n\t\t\t<td>&#160;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>1st person</td>\n\t\t\t<td>wir nehmen</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>2nd person</td>\n\t\t\t<td>ihr nehmt</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>3rd person</td>\n\t\t\t<td>sie nehmen</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Formal&#160;(singular and plural)</td>\n\t\t\t<td>Sie nehmen</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&#160;</p>\n"
+    }
+   ]
+  },
+  {
+   "id": "script",
+   "kind": "dw-script-pdf",
+   "url": "https://learngerman.dw.com/downloads/52719582/nicos-weg-a1-e3-l3-manuskript-und-wortschatz-englisch.pdf",
+   "localFile": "DW Deutsch lernen/A1/03_in_company/03_Eine Pizza bitte/Materials/Script and vocabulary (English).pdf",
+   "sha256": "6deba21145ae31e21fdc0a040b2dae556001eab3c701d2069f370cf26e0fc81f",
+   "lines": [
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "(3) In company | Eine Pizza bitte!",
+    "Sebastian goes to get Nawin and introduces him to Nico. Since everyone is",
+    "hungry, they decide to order pizza. When Sebastian reaches for his phone",
+    "to call the pizza delivery service, he sees a message on his cell phone…",
+    "Script",
+    "SEBASTIAN:",
+    "Hey, Nawin. Möchtest du etwas essen?",
+    "NAWIN:",
+    "Was gibt es denn?",
+    "SEBASTIAN:",
+    "Sushi, Pizza, Salat.",
+    "NAWIN:",
+    "Okay.",
+    "LISA:",
+    "Nico, was möchtest du essen?",
+    "NICO:",
+    "Ich möchte eine Pizza bitte.",
+    "NINA:",
+    "Hier, das ist die Speisekarte von unserem Lieblingsitaliener.",
+    "NICO:",
+    "Danke.",
+    "SEBASTIAN:",
+    "So ... Nico, das ist Nawin. Nawin, Nico.",
+    "NICO:",
+    "Hallo! Ich bin Nico.",
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "NAWIN:",
+    "Nico? Bist du der Nico aus dem Radio?",
+    "LISA:",
+    "Ja, Nico war im Radio.",
+    "NAWIN:",
+    "Du suchst deine Tasche!",
+    "NICO:",
+    "Ja.",
+    "NINA:",
+    "Leute, die Speisekarte. Was nehmt ihr?",
+    "NAWIN:",
+    "Ich möchte eine Pizza mit Thunfisch.",
+    "LISA:",
+    "Sehr gut. Ich nehme auch eine Pizza mit Salami. Und Nico, möchtest du eine Pizza mit",
+    "Thunfisch, eine mit Salami oder eine mit Tomate Mozzarella?",
+    "NICO:",
+    "Ich nehme eine Pizza mit Salami bitte.",
+    "NINA:",
+    "Gut. Und ich nehm wie immer meine Pizza Hawaii ohne Schinken.",
+    "NICO:",
+    "Pizza Hawaii?",
+    "NINA:",
+    "Mhm.",
+    "LISA:",
+    "Das ist eine Pizza mit Ananas und Schinken. Nina liebt Ananas, sie ist aber",
+    "Vegetarierin und deshalb nimmt sie die Pizza jedes Mal ohne Schinken.",
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "SEBASTIAN:",
+    "So ... und ich bestelle. Wo ist mein Handy?",
+    "Danke! Ach, eine Nachricht auf Book!",
+    "NICO:",
+    "Das Foto?",
+    "SEBASTIAN:",
+    "Mhm.",
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "Vocabulary (from script and lesson)",
+    "die Ananas, die Ananas – pineapple",
+    "alternativer Plural: die Ananasse",
+    "(etwas) bestellen – to order something",
+    "bestellt, bestellte, hat bestellt",
+    "der Durst – thirst",
+    "nur Singular",
+    "(etwas) essen – to eat (something)",
+    "isst, aß, hat gegessen",
+    "gern – gladly; happily",
+    "lieber, am liebsten",
+    "der Hunger – hunger; Hunger haben = to be hungry",
+    "nur Singular",
+    "der Käse – cheese",
+    "nur Singular",
+    "etwas/jemanden lieben – to love; to like something/somebody",
+    "liebt, liebte, hat geliebt",
+    "der Mozzarella – mozzarella",
+    "hier nur Singular",
+    "etwas nehmen – to take something; to have something",
+    "nimmt, nahm, hat genommen",
+    "die Salami, die Salamis – salami",
+    "der Salat, die Salate – salad; lettuce",
+    "der Schinken, die Schinken – ham",
+    "Sonst noch etwas? – Anything else?",
+    "die Speisekarte, die Speisekarten – menu",
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "das Sushi – sushi",
+    "nur Singular",
+    "der Thunfisch, die Thunfische – tuna (fish)",
+    "die Tomate, die Tomaten – tomato",
+    "der Vegetarier, die Vegetarier – vegetarian (male)",
+    "die Vegetarierin, die Vegetarierinnen – vegetarian (female)",
+    "Was gibt es denn? – What do you have?; What is there?"
+   ]
+  }
+ ]
+}

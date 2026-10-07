@@ -65,6 +65,6 @@ Source: DW grammar page *Conjugation: haben*; VHS Lektion 2 word list
 
 > …
 
-My notes: [Nico hat ein Problem](<../../DW Deutsch lernen/A1/02_meeting_people/04_Lesson_04/Nico hat Problem.md>) ·
+My notes: [Nico hat ein Problem](<../../DW Deutsch lernen/A1/01_meeting_people/04_Nico hat ein Problem/Nico hat Problem.md>) ·
 [VHS Lektion 2](<../../VHS-Lernportal/A1/Lesson_02/lektion_02.md>) ·
-[Was trinkst du?](<../../DW Deutsch lernen/A1/04_in_company/02_Lesson_02/Was trinkst du.md>)
+[Was trinkst du?](<../../DW Deutsch lernen/A1/03_in_company/02_Was trinkst du/Was trinkst du.md>)

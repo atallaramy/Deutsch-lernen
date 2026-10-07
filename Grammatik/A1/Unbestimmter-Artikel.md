@@ -75,5 +75,5 @@ Source: DW grammar page *Articles: indefinite*. The genders: [Genus](Genus.md).
 
 > …
 
-My notes: [Wem gehört das?](<../../DW Deutsch lernen/A1/06_living/02_Lesson_02/Wem gehört das.md>) ·
-[Was ist das?](<../../DW Deutsch lernen/A1/06_living/01_Lesson_01/Was ist das.md>) (*der bestimmte Artikel*, *der unbestimmte Artikel*)
+My notes: [Wem gehört das?](<../../DW Deutsch lernen/A1/05_things/02_Wem gehört das/Wem gehört das.md>) ·
+[Was ist das?](<../../DW Deutsch lernen/A1/05_things/01_Was ist das/Was ist das.md>) (*der bestimmte Artikel*, *der unbestimmte Artikel*)

@@ -51,7 +51,7 @@ Source: DW grammar page *Nouns: plural*.
 
 | Wrong | Right | Why | From |
 |---|---|---|---|
-| mit Artikel? | mit Artikeln? | After *mit* a plural noun adds *-n*: *Artikeln* (the dative, later in the course). | [my mistakes: Wem gehört das?](<../../DW Deutsch lernen/A1/06_living/02_Lesson_02/Materials/mistakes.md>) |
+| mit Artikel? | mit Artikeln? | After *mit* a plural noun adds *-n*: *Artikeln* (the dative, later in the course). | [my mistakes: Wem gehört das?](<../../DW Deutsch lernen/A1/05_things/02_Wem gehört das/Materials/mistakes.md>) |
 | zwei Stift | zwei Stifte | Two or more: the plural. | rule |
 | die Buchs | die Bücher | *Buch* takes an umlaut and *-er*. | rule |
 
@@ -75,4 +75,4 @@ Every plural is on the back of its Vocabulary card.
 
 > …
 
-My notes: [Wem gehört das?](<../../DW Deutsch lernen/A1/06_living/02_Lesson_02/Wem gehört das.md>)
+My notes: [Wem gehört das?](<../../DW Deutsch lernen/A1/05_things/02_Wem gehört das/Wem gehört das.md>)

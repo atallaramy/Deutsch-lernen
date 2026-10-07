@@ -40,11 +40,11 @@
   `ANKI/download_nicos_weg_a1_materials.py` as it is. It would create a second
   set of `02/`, `03/`… folders. It needs a folder-name mapping first; ask Claude.
 - Clear duplicates (identical bytes):
-  - `02_meeting_people/01_Lesson_01/Script and vocabulary (English).pdf` = its `Materials/` copy
-  - `02_meeting_people/04_Lesson_04/Script and vocabulary (English).pdf` = its `Materials/` copy
+  - `01_meeting_people/01_Ich heiße Emma/Script and vocabulary (English).pdf` = its `Materials/` copy
+  - `01_meeting_people/04_Nico hat ein Problem/Script and vocabulary (English).pdf` = its `Materials/` copy
   
   Kept; delete only on your explicit go-ahead.
-- Legacy packages in `01_Intro_zu_A1/03_Tschüs/`: `Tschüs.apkg` (same cards as
+- Legacy packages in `00_welcome_to_A1/03_Tschüs/`: `Tschüs.apkg` (same cards as
   the old `Tschüs_Vocabulary.apkg`) and `tschuess.apkg` (old German→English
   deck). Kept.
 - `04_Von A bis Z/Materials/README.md` mentions a `Phonetic alphabet audio/`

@@ -42,73 +42,73 @@ not the status code.
 ## Lessons you have studied (DW A1, VHS A1)
 
 ### DW Nicos Weg A1 · Hallo! (E0 L1)
-- Lesson page: <https://learngerman.dw.com/en/hallo/l-37250531> · notes: `DW Deutsch lernen/A1/01_Intro_zu_A1/01_Hallo/Hallo.md`
+- Lesson page: <https://learngerman.dw.com/en/hallo/l-37250531> · notes: `DW Deutsch lernen/A1/00_welcome_to_A1/01_Hallo/Hallo.md`
 - Culture: [Greetings in German](https://learngerman.dw.com/en/greetings-in-german/l-37250531/rs-39370662) (lists Servus, Grüß Gott, Grüezi, Moin)
 - Grammar: [Informal and formal (1)](https://learngerman.dw.com/en/informal-and-formal-1/l-37250531/gr-38310488)
 - Exercises (12), e.g. [Asking people how they're doing](https://learngerman.dw.com/en/asking-people-how-theyre-doing/l-37250531/e-37252406)
 - Script and vocabulary PDF: <https://static.dw.com/downloads/52718683/nicos-weg-a1-e0-l1-manuskript-und-wortschatz-englisch.pdf>
 
 ### DW Nicos Weg A1 · Kein Problem! (E0 L2)
-- Lesson page: <https://learngerman.dw.com/en/kein-problem/l-37251054> · notes: `DW Deutsch lernen/A1/01_Intro_zu_A1/02_Kein Problem/Kein_Problem.md`
+- Lesson page: <https://learngerman.dw.com/en/kein-problem/l-37251054> · notes: `DW Deutsch lernen/A1/00_welcome_to_A1/02_Kein Problem/Kein_Problem.md`
 - Culture: [International words in German](https://learngerman.dw.com/en/international-words-in-german/l-37251054/rs-39370824)
 - Exercises (12), e.g. [People at the airport](https://learngerman.dw.com/en/people-at-the-airport/l-37251054/e-37255866) (Eva Zimmermann, Peter Stein)
 - Script and vocabulary PDF: <https://static.dw.com/downloads/52719054/nicos-weg-a1-e0-l2-manuskript-und-wortschatz-englisch.pdf>
 
 ### DW Nicos Weg A1 · Tschüss! (E0 L3)
-- Lesson page: <https://learngerman.dw.com/en/tschüss/l-37251033> · notes: `DW Deutsch lernen/A1/01_Intro_zu_A1/03_Tschüs/Tschüs.md`
+- Lesson page: <https://learngerman.dw.com/en/tschüss/l-37251033> · notes: `DW Deutsch lernen/A1/00_welcome_to_A1/03_Tschüs/Tschüs.md`
 - Grammar: [Informal and formal (2)](https://learngerman.dw.com/en/informal-and-formal-2/l-37251033/gr-38310645)
 - Culture: [Saying goodbye](https://learngerman.dw.com/en/saying-goodbye/l-37251033/rs-39371009)
 - Exercises (12), e.g. [And how are you? (1)](https://learngerman.dw.com/en/and-how-are-you-1/l-37251033/e-37255725)
 - Script and vocabulary PDF: <https://static.dw.com/downloads/52719087/nicos-weg-a1-e0-l3-manuskript-und-wortschatz-englisch.pdf>
 
 ### DW Nicos Weg A1 · Von A bis Z (E0 L4)
-- Lesson page: <https://learngerman.dw.com/en/von-a-bis-z/l-37256418> · notes: `DW Deutsch lernen/A1/01_Intro_zu_A1/04_Von A bis Z/Von A bis Z.md`
+- Lesson page: <https://learngerman.dw.com/en/von-a-bis-z/l-37256418> · notes: `DW Deutsch lernen/A1/00_welcome_to_A1/04_Von A bis Z/Von A bis Z.md`
 - Culture: [How's it going?](https://learngerman.dw.com/en/hows-it-going/l-37256418/rs-40965828) · [The phonetic alphabet](https://learngerman.dw.com/en/the-phonetic-alphabet/l-37256418/rs-39371795)
 - Exercises (10), e.g. [Here are Nico, Emma, and Lisa](https://learngerman.dw.com/en/here-are-nico-emma-and-lisa/l-37256418/e-37262583)
 - Script and vocabulary PDF: <https://static.dw.com/downloads/52719090/nicos-weg-a1-e0-l4-manuskript-und-wortschatz-englisch.pdf>
 
 ### DW Nicos Weg A1 · Ich heiße Emma (E1 L1)
-- Lesson page: <https://learngerman.dw.com/en/ich-heiße-emma/l-37262882> · notes: `DW Deutsch lernen/A1/02_meeting_people/01_Lesson_01/Ich heiße Emma.md`
+- Lesson page: <https://learngerman.dw.com/en/ich-heiße-emma/l-37262882> · notes: `DW Deutsch lernen/A1/01_meeting_people/01_Ich heiße Emma/Ich heiße Emma.md`
 - Culture: [Meeting Germans](https://learngerman.dw.com/en/meeting-germans/l-37262882/rs-39370848)
 - Grammar: [Personal pronouns: ich, du](https://learngerman.dw.com/en/personal-pronouns-ich-du/l-37262882/gr-38320451) · [Personal pronouns: Sie](https://learngerman.dw.com/en/personal-pronouns-sie/l-37262882/gr-38320692)
 - Exercises (9), e.g. [Asking what someone is called](https://learngerman.dw.com/en/asking-what-someone-is-called/l-37262882/e-43702442)
 - Script and vocabulary PDF: <https://static.dw.com/downloads/52719106/nicos-weg-a1-e1-l1-manuskript-und-wortschatz-englisch.pdf>
 
 ### DW Nicos Weg A1 · Das ist Nico (E1 L2)
-- Lesson page: <https://learngerman.dw.com/en/das-ist-nico/l-37262923> · notes: `DW Deutsch lernen/A1/02_meeting_people/02_Lesson_02/Das ist Nico.md`
+- Lesson page: <https://learngerman.dw.com/en/das-ist-nico/l-37262923> · notes: `DW Deutsch lernen/A1/01_meeting_people/02_Das ist Nico/Das ist Nico.md`
 - Culture: [And what's your name?](https://learngerman.dw.com/en/and-whats-your-name/l-37262923/rs-39371008)
 - Exercises (8), e.g. [Here are Nico and Emma](https://learngerman.dw.com/en/here-are-nico-and-emma/l-37262923/e-37264626)
 - Script and vocabulary PDF: <https://static.dw.com/downloads/52719126/nicos-weg-a1-e1-l2-manuskript-und-wortschatz-englisch.pdf>
 
 ### DW Nicos Weg A1 · Woher kommst du? (E1 L3)
-- Lesson page: <https://learngerman.dw.com/en/woher-kommst-du/l-37263828> · notes: `DW Deutsch lernen/A1/02_meeting_people/03_Lesson_03/Woher komst du.md`
+- Lesson page: <https://learngerman.dw.com/en/woher-kommst-du/l-37263828> · notes: `DW Deutsch lernen/A1/01_meeting_people/03_Woher kommst du/Woher komst du.md`
 - Grammar: [Conjugation: present tense (1)](https://learngerman.dw.com/en/conjugation-present-tense-1/l-37263828/gr-38320838)
 - Culture: [My name is Müller](https://learngerman.dw.com/en/my-name-is-müller/l-37263828/rs-39371127) · [Name changes after marriage](https://learngerman.dw.com/en/name-changes-after-marriage/l-37263828/rs-40965959)
 - Exercises (12), e.g. [How, where, from where or what?](https://learngerman.dw.com/en/how-where-from-where-or-what/l-37263828/e-37268049)
 - Script and vocabulary PDF: <https://static.dw.com/downloads/52719129/nicos-weg-a1-e1-l3-manuskript-und-wortschatz-englisch.pdf>
 
 ### DW Nicos Weg A1 · Nico hat ein Problem (E1 L4)
-- Lesson page: <https://learngerman.dw.com/en/nico-hat-ein-problem/l-37265543> · notes: `DW Deutsch lernen/A1/02_meeting_people/04_Lesson_04/Nico hat Problem.md`
+- Lesson page: <https://learngerman.dw.com/en/nico-hat-ein-problem/l-37265543> · notes: `DW Deutsch lernen/A1/01_meeting_people/04_Nico hat ein Problem/Nico hat Problem.md`
 - Culture: [Communication at offices and agencies](https://learngerman.dw.com/en/communication-at-offices-and-agencies/l-37265543/rs-39371132)
 - Grammar: [Conjugation: haben](https://learngerman.dw.com/en/conjugation-haben/l-37265543/gr-38310825) · [Conjugation: present tense (2)](https://learngerman.dw.com/en/conjugation-present-tense-2/l-37265543/gr-38321810) · [Personal pronouns: er, sie](https://learngerman.dw.com/en/personal-pronouns-er-sie/l-37265543/gr-38320906) · [Personal pronouns: plural](https://learngerman.dw.com/en/personal-pronouns-plural/l-37265543/gr-38321282)
 - Exercises (11), e.g. [A call for Lisa](https://learngerman.dw.com/en/a-call-for-lisa/l-37265543/e-37266248)
 - Script and vocabulary PDF: <https://static.dw.com/downloads/52719209/nicos-weg-a1-e1-l4-manuskript-und-wortschatz-englisch.pdf>
 
 ### DW Nicos Weg A1 · Zahlen von 1 bis 100 (E2 L1)
-- Lesson page: <https://learngerman.dw.com/en/zahlen-von-1-bis-100/l-37265621> · notes: `DW Deutsch lernen/A1/03_contact_details/01_Lesson_01/Zahlen von 1 bis 100.md`
+- Lesson page: <https://learngerman.dw.com/en/zahlen-von-1-bis-100/l-37265621> · notes: `DW Deutsch lernen/A1/02_contact_details/01_Zahlen von 1 bis 100/Zahlen von 1 bis 100.md`
 - Grammar: [Numbers from 11 to 19](https://learngerman.dw.com/en/numbers-from-11-to-19/l-37265621/gr-38307006) · [Numbers from 20 to 100](https://learngerman.dw.com/en/numbers-from-20-to-100/l-37265621/gr-38307981)
 - Culture: [Happy Birthday!](https://learngerman.dw.com/en/happy-birthday/l-37265621/rs-39370325) · [Celebrating birthdays in the office](https://learngerman.dw.com/en/celebrating-birthdays-in-the-office/l-37265621/rs-40966362)
 - Exercises (14), e.g. [An invitation](https://learngerman.dw.com/en/an-invitation/l-37265621/e-37271074)
 - Script and vocabulary PDF: <https://static.dw.com/downloads/52719212/nicos-weg-a1-e2-l1-manuskript-und-wortschatz-englisch.pdf>
 
 ### DW Nicos Weg A1 · Wichtige Nummern (E2 L2) · checked 2026-09-27
-- Lesson page: <https://learngerman.dw.com/en/wichtige-nummern/l-37269501> · notes: `DW Deutsch lernen/A1/03_contact_details/02_Lesson_02/Wichtige Nummern.md`
+- Lesson page: <https://learngerman.dw.com/en/wichtige-nummern/l-37269501> · notes: `DW Deutsch lernen/A1/02_contact_details/02_Wichtige Nummern/Wichtige Nummern.md`
 - Culture: [Lost and found](https://learngerman.dw.com/en/lost-and-found/l-37269501/rs-39370411)
 - Exercises (12), e.g. [Understanding phone numbers (1)](https://learngerman.dw.com/en/understanding-phone-numbers-1/l-37269501/e-37272723)
 - Script and vocabulary PDF: <https://static.dw.com/downloads/52719221/nicos-weg-a1-e2-l2-manuskript-und-wortschatz-englisch.pdf>
 
 ### DW Nicos Weg A1 · Adressen (E2 L3) · checked 2026-09-28
-- Lesson page: <https://learngerman.dw.com/en/adressen/l-37269671> · notes: `DW Deutsch lernen/A1/03_contact_details/03_Lesson_03/Adressen.md`
+- Lesson page: <https://learngerman.dw.com/en/adressen/l-37269671> · notes: `DW Deutsch lernen/A1/02_contact_details/03_Adressen/Adressen.md`
 - Grammar: [Prepositions of place: aus](https://learngerman.dw.com/en/prepositions-of-place-aus/l-37269671/gr-38307071) · [Prepositions of place: in, an](https://learngerman.dw.com/en/prepositions-of-place-in-an/l-37269671/gr-38309222) · [W-questions](https://learngerman.dw.com/en/w-questions/l-37269671/gr-38306976)
 - Culture: [On the telephone](https://learngerman.dw.com/en/on-the-telephone/l-37269671/rs-39370877)
 - Exercises (13), e.g. [The police are on Schreinerstraße](https://learngerman.dw.com/en/the-police-are-on-schreinerstraße/l-37269671/e-37280249) (tip: *in der …straße*, *am …platz*, *im …weg*)
