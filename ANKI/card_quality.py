@@ -147,6 +147,8 @@ def check(data: Data, cards: list[Card]) -> tuple[list[str], dict[str, list[str]
     # A Vocabulary target must not be repeated as a whole Sentences target.
     vocabulary_answers = {normalize(card.answer).casefold(): card.key for card in by_deck["vocabulary"]}
     for card in by_deck["sentences"]:
+        if "kind::table" in card.tags:
+            continue  # a table row recalls the form from the article system, not the word's meaning
         match = vocabulary_answers.get(normalize(card.answer).casefold())
         if match:
             errors.append(f"{card.key}: same target as {match}")
@@ -156,7 +158,7 @@ def check(data: Data, cards: list[Card]) -> tuple[list[str], dict[str, list[str]
     names = {token.casefold() for entry in data.entries if entry.pos in {"name", "place"}
              for token in WORD_RE.findall(entry.raw["german"])}
     for card in cards:
-        if not card.front_german:
+        if not card.front_german or "kind::table" in card.tags:
             continue
         unknown = sorted({token for token in WORD_RE.findall(card.front_german)
                           if token.casefold() not in lexicon and token.casefold() not in names and not token[0].isupper()})

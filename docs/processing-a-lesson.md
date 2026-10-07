@@ -98,6 +98,9 @@ Which items to capture:
 - **Sentences** (`ANKI/sentence-sources.json`):
   - cover every `home: sentences` entry
   - add a few useful extras (replies, forms, register switches)
+  - an article table on a grammar page (or VHS grammar list): one `table` card
+    per row; the prompt is the row's cells as the snapshot joins them (` ¶ `),
+    one form blanked, preferably the one that is new in this lesson
   - German on the front must be verbatim
   - answers must be verbatim in a snapshot or be your own captured sentence
 

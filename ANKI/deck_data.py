@@ -20,6 +20,7 @@ LEGACY_V2_FILE = ANKI / "legacy-v2-lesson-vocabulary.json"  # pre-v3 capture rec
 GLOSS_SNAPSHOT_FILE = ANKI / "gloss-snapshot.json"
 
 BLANK = "＿＿＿"
+LINE_BREAK = " ¶ "  # joins the lines of exercise and grammar-page snapshots; a table cell is one line
 ARTICLE_RE = re.compile(r"^(der|die|das)\s+(.+)$")
 PLACEHOLDER_RE = re.compile(r"\((?:etwas|jemanden|jemandem)\)\s*|^(?:etwas|jemanden|jemandem)\s+")
 GENDER_ARTICLE = {"m": "der", "f": "die", "n": "das"}
@@ -157,7 +158,7 @@ def load_snapshots(lessons: list[Lesson]) -> Snapshots:
                 text = " ".join(source["lines"])
             else:
                 items = [t for item in source.get("exercises", []) + source.get("pages", []) for t in item["texts"]]
-                text = " ¶ ".join(line for item in items for line in item.split("\n"))
+                text = LINE_BREAK.join(line for item in items for line in item.split("\n"))
             snapshots.texts[(lesson.id, source["id"])] = normalize(text)
             snapshots.labels[(lesson.id, source["id"])] = source.get("url", "")
             if "vocabulary" in source:

@@ -97,6 +97,28 @@ class RealData(unittest.TestCase):
         self.assertTrue(any("ch-ach-sound" in error and "not verbatim" in error for error in errors))
 
 
+class TableRows(unittest.TestCase):
+    def row(self, kind):
+        data = load()
+        data.sentence_cards = data.sentence_cards + [{
+            "key": "test-row", "kind": kind, "lesson": "dw-a1-e5-l2", "skill": "article table",
+            "scene": "Indefinite article, masculine.",
+            "prompt": {"lesson": "dw-a1-e5-l2", "source": "exercises", "text": "der Stift ¶ ein Stift", "target": "ein"},
+            "answer": "ein", "covers": []}]
+        cards, errors, _ = build_all.collect(data)
+        return next((card for card in cards if card.key == "sentence:test-row"), None), errors
+
+    def test_table_row_blanks_one_cell_and_shows_cells_apart(self):
+        card, errors = self.row("table")
+        self.assertEqual(errors, [])
+        self.assertEqual(card.fields["Prompt"], f"der Stift · <span class=gap>{BLANK}</span> Stift")
+        self.assertEqual(card.fields["Filled"], "der Stift · <b>ein</b> Stift")
+
+    def test_only_table_rows_may_share_a_vocabulary_answer(self):
+        _, errors = self.row("completion")
+        self.assertTrue(any("test-row" in error and "same target" in error for error in errors))
+
+
 class GlossRules(unittest.TestCase):
     def test_unconfirmed_meaning_is_rejected(self):
         data = load()

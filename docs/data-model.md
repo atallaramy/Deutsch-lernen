@@ -93,7 +93,7 @@ Merge key for Vocabulary: `lemma` (case-sensitive) + `sense`.
  "covers": ["dw-a1-e0-l1:und-ihnen"], "accept": [], "note": "Informal: Und dir?"}
 ```
 
-- `kind`: `production`, `response`, `completion` (needs `prompt.target`), `register` or `rule` (a DW tip the learner asked to keep; the answer is verbatim in a snapshot).
+- `kind`: `production`, `response`, `completion` (needs `prompt.target`), `table` (one row of an article table, needs `prompt.target`; may share a Vocabulary answer), `register` or `rule` (a DW tip the learner asked to keep; the answer is verbatim in a snapshot).
 - `answerSource` is a snapshot reference or `"learner-notes"`. With `"learner-notes"`, the answer must equal a covered entry.
 - `retired: "<reason>"` keeps a card in the package, tagged and suspended.
 

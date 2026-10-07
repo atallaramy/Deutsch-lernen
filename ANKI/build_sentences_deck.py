@@ -13,8 +13,8 @@ import re
 from collections import OrderedDict
 
 from anki_package_utils import NoteType
-from deck_data import (BACK_TEMPLATE, BASE_CSS, Card, Data, DataError, context_parts, context_source, course_tag,
-                       details_html, normalize, source_label, typed_form, verify_context)
+from deck_data import (BACK_TEMPLATE, BASE_CSS, LINE_BREAK, Card, Data, DataError, context_parts, context_source,
+                       course_tag, details_html, normalize, source_label, typed_form, verify_context)
 
 NOTE_TYPE = NoteType(
     name="German · Sentences v3",
@@ -29,9 +29,11 @@ INSTRUCTIONS = {
     "production": "Say it in German — type the whole sentence",
     "response": "Reply in German — type your answer",
     "completion": "Type the missing German form",
+    "table": "Type the missing form in the table row",  # one row of a studied article table
     "register": "Switch the register — type the sentence",
     "rule": "Recall the rule — type the answer",  # a DW tip card, only at the learner's request
 }
+BLANKED = {"completion", "table"}  # the answer is the blanked part of a verbatim prompt
 
 
 def build(data: Data) -> tuple[list[Card], list[str]]:
@@ -67,9 +69,11 @@ def build(data: Data) -> tuple[list[Card], list[str]]:
             problems = verify_context(data, prompt, where)
             errors.extend(problems)
             if not problems:
-                if kind == "completion":
+                if kind in BLANKED:
                     try:
                         prompt_front, prompt_back = context_parts(prompt, prompt["target"])
+                        if kind == "table":
+                            prompt_front, prompt_back = (part.replace(LINE_BREAK, " · ") for part in (prompt_front, prompt_back))
                     except Exception as problem:
                         errors.append(f"{where}: {problem}")
                     if normalize(prompt.get("target", "")) != normalize(answer_display):
@@ -77,11 +81,11 @@ def build(data: Data) -> tuple[list[Card], list[str]]:
                 else:
                     prompt_front = html.escape(prompt["text"])
                 sources.append(context_source(data, prompt))
-        elif kind in {"response", "completion"}:
+        elif kind in {"response", *BLANKED}:
             errors.append(f"{where}: {kind} cards need a verified German prompt")
 
         answer_source = spec.get("answerSource")
-        if kind != "completion":
+        if kind not in BLANKED:
             if answer_source == "learner-notes":
                 if not any(normalize(entry.raw["german"]) == normalize(answer_display) for entry in covered):
                     errors.append(f"{where}: a learner-notes answer must equal a covered entry exactly")
@@ -122,7 +126,7 @@ def build(data: Data) -> tuple[list[Card], list[str]]:
             "Prompt": prompt_front,
             "Answer": html.escape(answer, quote=False),
             "Display": html.escape(answer_display),
-            "Filled": prompt_back if kind == "completion" else "",
+            "Filled": prompt_back if kind in BLANKED else "",
             "Details": details_html(details),
             "Source": "<br>".join(html.escape(item) for item in OrderedDict.fromkeys(sources)),
             "Key": key,

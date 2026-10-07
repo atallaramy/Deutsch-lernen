@@ -126,6 +126,9 @@ this spirit.
   Herr/Frau + surname ↔ Sie/Auf Wiedersehen). Unanalysed formulas (greetings,
   thanks, *Kein Problem*) belong to Vocabulary. A DW tip the learner asks to
   keep in Anki (e.g. the *ich*/*ach* sound) gets one typed rule card here.
+  Every article table the learner studies (*der → ein → kein*, later the
+  cases) gets one table card per row: the official row with one form
+  blanked, so the system is practised a row at a time.
 - Quality and retrieval purpose outrank card count. Do not make two cards that
   test substantially the same recall. A source sentence may appear on the front
   of only one card. A context must not contain another card's Sentences answer;

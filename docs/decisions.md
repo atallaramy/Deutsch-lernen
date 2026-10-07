@@ -5,6 +5,7 @@ One line per confirmed decision, newest first. The rules they produce live in
 
 | Date | Decision |
 |---|---|
+| 2026-10-07 | Every studied article table (*der → ein → kein*, later the cases) gets one typed Sentences card per row, one form blanked (option 1 of 3, after the DW E5 L3 exercise "Nico would like to make a systematic list of the articles"). |
 | 2026-10-06 | Extra tasks go to the end of the lesson's notes file when the lesson is done; the learner answers there and may redo them for progress. Claude marks each try once, under the task, like a teacher: a level comment, then the mistakes as plain aligned text. A second round only on request ("mostly there is no second round … they rely on repetitions"; research: progress shows in new texts later). |
 | 2026-10-05 | Git: before a commit that does not finish a lesson, ask how the learner wants it (own commit or merged) ("ask me next time"). |
 | 2026-10-05 | Every processed DW lesson keeps its teacher guide in `Materials/`, and the activity book is kept once; after a lesson Claude offers a short list of extra tasks from them ("I want you to be aware what is in them"). No images in cards for now ("comfortable without photos"). |
