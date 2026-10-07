@@ -4,7 +4,10 @@
 
 ## The rule
 
-German terms: *der Vokalwechsel* (vowel change), *der Verbstamm* (stem), *die Endung* (ending).
+German terms:
+- *der Vokalwechsel* (vowel change: In some situations, where the verb stem includes an "e", it changes to "i" in the second- and third-person singular ("du" and "er/sie/es").)
+- *der Verbstamm* (stem: When conjugating verbs, you remove "-en" from the infinitive form and add the appropriate ending. For example: The root of "lernen" is "lern-".)
+- *die Endung* (ending: In conjugation, the endings of the verbs often change. The ending depends on which person is doing the action. The ending comes after the verb stem.)
 
 1. In some irregular verbs the stem vowel **e** becomes **i** (or **ie**) in two forms:
    **du** and **er/sie/es**. All the other forms are regular.

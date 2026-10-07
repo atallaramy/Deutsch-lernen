@@ -4,8 +4,9 @@
 
 ## The rule
 
-German terms: *der unbestimmte Artikel* (indefinite article: *ein, eine*), *der bestimmte
-Artikel* (definite article: *der, die, das*).
+German terms:
+- *der unbestimmte Artikel* (indefinite article: The articles *ein*, *eine* are indefinite articles.)
+- *der bestimmte Artikel* (definite article: The articles *der*, *die*, *das* are definite articles.)
 
 1. The indefinite article is **ein** for masculine and neuter nouns and **eine** for
    feminine nouns: *ein Stift, ein Buch, eine Brille*.

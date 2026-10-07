@@ -5,6 +5,8 @@ One line per confirmed decision, newest first. The rules they produce live in
 
 | Date | Decision |
 |---|---|
+| 2026-10-07 | A grammar word's description is the lesson's own, verbatim, whenever a studied lesson gives one; Claude's wording only until then ("if this description available in the lesson you take the lessons description … I like the lessons ones"). |
+| 2026-10-07 | Every grammar word gets a short description of what it is, like DW's *das Adjektiv: Adjectives are used to describe people or things*, in `Grammatikbegriffe.md` and in its topic page's German terms ("add a short description for every word in both grammarbook and Grammatikbegriffe"). |
 | 2026-10-07 | Grammar the learner notices goes, on request, to the end of the lesson's notes under *Extra grammar* ("it should be mentioned as extra grammar or extra notes or so"). |
 | 2026-10-07 | Grammar words: a page at the end of the grammar book (`Grammatik/Grammatikbegriffe.md`) and a one-page cheatsheet PDF (`Spickzettel/Grammatikbegriffe`), both updated after every lesson ("This is why we have a cheatsheet folder"). |
 | 2026-10-07 | Every studied article table (*der → ein → kein*, later the cases) gets one typed Sentences card per row, one form blanked (option 1 of 3, after the DW E5 L3 exercise "Nico would like to make a systematic list of the articles"). |

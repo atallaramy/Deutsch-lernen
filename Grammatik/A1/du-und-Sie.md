@@ -4,8 +4,12 @@
 
 ## The rule
 
-German terms: *informell* (informal), *formell* (formal), *die Höflichkeitsform*
-(the polite form: *Sie*), *das Personalpronomen*, *duzen* (to use *du* with someone).
+German terms:
+- *informell* (informal: Informal language is used when talking to family and friends.)
+- *formell* (formal: Formal language is used in formal situations.)
+- *die Höflichkeitsform* (polite form: The formal personal pronoun in the second-person (both singular and plural) is "Sie".)
+- *das Personalpronomen* (personal pronoun: Personal pronouns refer to people or things. The words *ich*, *du* and *Sie* are examples of personal pronouns.)
+- *duzen* (to use "du" with each other)
 
 1. **du** is informal: family, friends, acquaintances and often colleagues. You use
    their first name: *Hallo, Sarah!*

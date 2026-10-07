@@ -14,6 +14,7 @@
 | das Indefinitpronomen | indefinite pronoun | Man isst in Italien Pizza. |
 | der Possessivartikel | possessive article | mein, dein, Ihr |
 | das Fragewort | question word | wer, wen, was, wo |
+| die Präposition | preposition | in, aus, nach |
 
 ## Nouns
 

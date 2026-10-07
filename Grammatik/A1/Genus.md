@@ -4,8 +4,12 @@
 
 ## The rule
 
-German terms: *das Nomen* (noun; also *das Substantiv*, *das Hauptwort*), *der Artikel*
-(article), *der bestimmte Artikel* (definite article), *das Genus* (grammatical gender): *maskulin*, *feminin*, *neutral*.
+German terms:
+- *das Nomen* / *das Substantiv* / *das Hauptwort* (noun: People and things are known as nouns. In German they are sometimes also referred to as *Substantive* or *Hauptwörter*.)
+- *der Artikel* (article: An article is a word that can come before a noun. The words *der*, *die* and *das* are the three definite articles that indicate the grammatical gender of the noun.)
+- *der bestimmte Artikel* (definite article: The articles *der*, *die*, *das* are definite articles.)
+- *das Genus* (grammatical gender: Every noun has a grammatical gender. The genders are masculine, feminine and neuter.)
+- *maskulin* / *feminin* / *neutral* (masculine / feminine / neuter: Masculine nouns have the article *der*, feminine nouns have the article *die* and neuter nouns have the article *das*.)
 
 1. Every German noun has a gender: masculine, feminine or neuter.
 2. The definite article shows it: **der** (masculine), **die** (feminine), **das** (neuter).

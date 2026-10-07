@@ -12,8 +12,12 @@ Page conventions the check relies on (see Grammatik/README.md):
 - A table whose first column is "Person" is a conjugation table; each verb column must match Wiktionary.
 - Backticked keys under "## Sentences cards" must be live cards in ANKI/sentence-sources.json.
 - Every DW grammar page (gr-) in a studied lesson's snapshot must be linked from some topic page.
-- Every der/die/das word in a page's "German terms" line is in Grammatikbegriffe.md, whose first column
-  (synonyms split by " / ") lists the same words as the cheatsheet Spickzettel/Grammatikbegriffe.md.
+- A page's "German terms" list gives each word as in Grammatikbegriffe.md: its synonyms together
+  (split by " / ") and, in parentheses, the same English cell (English and a short description).
+  Every word there is in the "German terms" of the page its row links to.
+- Every word in a studied DW lesson's "Grammatical terms in German" box is in Grammatikbegriffe.md, and its
+  description there is a verbatim excerpt of the box's description.
+- Grammatikbegriffe.md's first column lists the same words as the cheatsheet Spickzettel/Grammatikbegriffe.md.
 """
 
 from __future__ import annotations
@@ -39,6 +43,11 @@ import deck_data  # noqa: E402
 
 LINK_RE = re.compile(r"\[([^\]]*)\]\((<[^>]*>|[^)\s]*)\)")
 TERMS_RE = re.compile(r"^German terms.*?(?=\n\s*\n|\Z)", re.S | re.M)
+ITALIC_RE = re.compile(r"\*([^*]+)\*")
+# One "German terms" entry: *word* / *synonym* (English: description), one nested pair of parentheses allowed.
+ENTRY_RE = re.compile(r"(\*[^*]+\*(?:\s*/\s*\*[^*]+\*)*)\s*\(((?:[^()]|\([^()]*\))*)\)")
+BOX = "Grammatical terms in German:"  # DW grammar pages end with this box of "word: description" lines
+BOX_TERM_RE = re.compile(r"^(?:(?:der|die|das) \S.*|[a-zäöü]+)$")
 SOURCE_RE = re.compile(r"^(DW|VHS) (A1|A2|B1) (?:E(\d+) )?L(\d+) · (.+)$")
 # Source label kind → snapshot source id (DW ids) or id suffix (VHS ids such as vhs-a1-filmskripte).
 SOURCE_KINDS = {
@@ -57,6 +66,13 @@ class Table:
     header: list[str]
     rows: list[list[str]]
     section: str
+
+
+@dataclass
+class Word:
+    terms: tuple[str, ...]
+    english: str
+    page: str
 
 
 @dataclass
@@ -108,11 +124,94 @@ def listed_terms(page: str) -> set[str]:
     return {term.strip() for table in tables(page) for row in table.rows for term in plain(row[0]).split(" / ")}
 
 
-def german_terms(page: str) -> set[str]:
-    """The der/die/das words in a topic page's "German terms" line (other italics there are examples)."""
+def words_text(text: str) -> str:
+    return " ".join(plain(text).split())
+
+
+def glossary_words(page: str) -> dict[str, Word]:
+    """Grammatikbegriffe.md rows by word: the row's synonyms, its English cell and the page it links to."""
+    words = {}
+    for table in tables(page):
+        for row in table.rows:
+            terms = tuple(term.strip() for term in plain(row[0]).split(" / "))
+            links = link_targets(row[2]) if len(row) > 2 else []
+            word = Word(terms, words_text(row[1]) if len(row) > 1 else "", links[0][1] if links else "")
+            words.update(dict.fromkeys(terms, word))
+    return words
+
+
+def check_terms(page: str, words: dict[str, Word], where: str, report: Report) -> set[str]:
+    """Each word in a page's "German terms" list is written as in Grammatikbegriffe.md; returns the words."""
     match = TERMS_RE.search(page)
-    terms = (" ".join(term.split()) for term in re.findall(r"\*([^*]+)\*", match.group(0))) if match else ()
-    return {term for term in terms if re.match(r"(der|die|das) ", term)}
+    if not match:
+        return set()
+    block, listed = match.group(0).split(":", 1)[-1], set()
+    for entry in ENTRY_RE.finditer(block):
+        terms = [" ".join(term.split()) for term in ITALIC_RE.findall(entry.group(1))]
+        listed.update(terms)
+        missing = [term for term in terms if term not in words]
+        for term in missing:
+            report.errors.append(f"{where}: grammar word {term!r} is missing from {GLOSSARY}")
+        if missing:
+            continue
+        word = words[terms[0]]
+        listed.update(word.terms)  # one error for a missing synonym, not a second one from check_word_pages
+        if sorted(terms) != sorted(word.terms):
+            report.errors.append(f"{where}: give {' / '.join(word.terms)!r} together, as in {GLOSSARY}")
+        elif words_text(entry.group(2)) != word.english:
+            report.errors.append(f"{where}: {terms[0]!r} needs its {GLOSSARY} description: ({word.english})")
+    for term in ITALIC_RE.findall(ENTRY_RE.sub("", block)):
+        term = " ".join(term.split())
+        listed.add(term)
+        report.errors.append(f"{where}: grammar word {term!r} needs its {GLOSSARY} description in parentheses")
+    return listed
+
+
+def comparable(text: str) -> str:
+    """Comparison form for descriptions; DW sometimes puts a space before a full stop."""
+    return re.sub(r"\s+([.,;:!?])", r"\1", deck_data.normalize(text))
+
+
+def lesson_descriptions(data: deck_data.Data) -> dict[str, list[tuple[str, str]]]:
+    """Word → (description, lesson id) from the "Grammatical terms in German" boxes of the studied lessons."""
+    found: dict[str, list[tuple[str, str]]] = {}
+    for lesson in data.lessons:
+        path = ROOT / lesson.record.get("snapshot", "")
+        if not lesson.record.get("sources") or not path.is_file():
+            continue
+        for source in json.loads(path.read_text(encoding="utf-8"))["sources"]:
+            for item in source.get("exercises", []) + source.get("pages", []):
+                for text in item["texts"]:
+                    for line in text.partition(BOX)[2].split("\n"):
+                        term, sep, description = (part.strip() for part in line.partition(": "))
+                        if sep and BOX_TERM_RE.match(term):
+                            found.setdefault(term, []).append((comparable(description), lesson.id))
+    return found
+
+
+def check_lesson_descriptions(words: dict[str, Word], boxes: dict[str, list[tuple[str, str]]],
+                              report: Report) -> None:
+    """A word the lessons describe is in Grammatikbegriffe.md with (an excerpt of) the lesson's description."""
+    for term, found in sorted(boxes.items()):
+        lessons = ", ".join(sorted({lesson for _, lesson in found}))
+        if term not in words:
+            report.errors.append(f"{GLOSSARY}: grammar word {term!r} ({lessons}) is missing")
+            continue
+        own = comparable(words[term].english.partition(": ")[2] or words[term].english)
+        if not any(own in description for description, _ in found):
+            report.errors.append(f"{GLOSSARY}: {term!r} must use the lesson's description ({lessons}): "
+                                 f"{found[0][0]!r}")
+
+
+def check_word_pages(words: dict[str, Word], glossary_path: Path, described: dict[Path, set[str]],
+                     report: Report) -> None:
+    """Every grammar word is in the "German terms" list of the page its row links to."""
+    for term, word in sorted(words.items()):
+        if not word.page or word.page.startswith(("http://", "https://")):
+            continue
+        path = (glossary_path.parent / urllib.parse.unquote(word.page.split("#")[0])).resolve()
+        if path in described and term not in described[path]:
+            report.errors.append(f"{GLOSSARY}: {term!r} is not in the German terms of {word.page}")
 
 
 def check_cheatsheet(glossary: set[str], cheatsheet: Path, report: Report) -> None:
@@ -248,8 +347,9 @@ def check(book: Path = BOOK, data: deck_data.Data | None = None, snapshot: Path 
     index = (book / "README.md").read_text(encoding="utf-8") if (book / "README.md").exists() else ""
     linked: set[str] = set()
     glossary_path = book / GLOSSARY
-    glossary = listed_terms(glossary_path.read_text(encoding="utf-8")) if glossary_path.exists() else set()
-    report.counts["grammar words"] = len(glossary)
+    words = glossary_words(glossary_path.read_text(encoding="utf-8")) if glossary_path.exists() else {}
+    report.counts["grammar words"] = len(words)
+    described: dict[Path, set[str]] = {}
     for page_path in sorted(book.rglob("*.md")):
         if "Materials" in page_path.relative_to(book).parts:
             continue
@@ -268,12 +368,13 @@ def check(book: Path = BOOK, data: deck_data.Data | None = None, snapshot: Path 
                 check_conjugation(table, verbs, where, report)
         check_links(page, page_path, where, report)
         check_cards(page, cards, where, report)
-        for term in sorted(german_terms(page) - glossary):
-            report.errors.append(f"{where}: grammar word {term!r} is missing from {GLOSSARY}")
+        described[page_path.resolve()] = check_terms(page, words, where, report)
     if glossary_path.exists():
-        check_cheatsheet(glossary, cheatsheet, report)
+        check_word_pages(words, glossary_path, described, report)
+        check_cheatsheet(set(words), cheatsheet, report)
     if grammar_pages:
         check_grammar_pages(data, linked, report)
+        check_lesson_descriptions(words, lesson_descriptions(data), report)
     return report
 
 

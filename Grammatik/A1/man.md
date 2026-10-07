@@ -4,7 +4,8 @@
 
 ## The rule
 
-German terms: *das Indefinitpronomen* (indefinite pronoun).
+German terms:
+- *das Indefinitpronomen* (indefinite pronoun: Indefinite pronouns refer to people or things that are indeterminate. They are used when one does not know, or does not wish to say exactly who, or how many, are doing something.)
 
 1. **man** makes a general statement. It means people in general (a whole group,
    or everyone), not one particular person: *In Frankreich isst man gern Käse.*

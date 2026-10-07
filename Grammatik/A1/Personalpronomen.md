@@ -4,8 +4,11 @@
 
 ## The rule
 
-German terms (from DW): *das Personalpronomen* (a word for a person or thing),
-*der Singular* (one), *der Plural* (more than one).
+German terms:
+- *das Pronomen* (pronoun: a word that stands for a noun)
+- *das Personalpronomen* (personal pronoun: Personal pronouns refer to people or things. The words *ich*, *du* and *Sie* are examples of personal pronouns.)
+- *der Singular* (singular: The singular is used when we are talking about one individual person or thing.)
+- *der Plural* (plural: The plural is used when we are talking about several people or things.)
 
 1. The pronoun decides the verb ending: *ich heiße, du heißt, wir heißen* (see [Präsens](Praesens.md)).
 2. *er* (he), *sie* (she) and *es* (it) take the same verb form: *er/sie/es wohnt*.

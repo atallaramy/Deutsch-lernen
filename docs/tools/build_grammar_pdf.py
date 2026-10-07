@@ -85,7 +85,7 @@ h2 { font-size: 8.5pt; letter-spacing: .12em; text-transform: uppercase; color: 
 table { border-collapse: collapse; width: 100%; table-layout: fixed; }
 table:not(:first-of-type) thead { display: none; }
 th { font-size: 8pt; color: #777; font-weight: normal; text-align: left; padding: 0 5pt 2pt; }
-td { border-top: 1px solid #dde1e6; padding: 2.5pt 5pt; vertical-align: top; }
+td { border-top: 1px solid #dde1e6; padding: 2pt 5pt; vertical-align: top; }
 th:nth-child(1), td:nth-child(1) { width: 40%; font-weight: 600; color: #1f3a5f; }
 th:nth-child(2), td:nth-child(2) { width: 27%; }
 td:nth-child(3) { font-style: italic; }

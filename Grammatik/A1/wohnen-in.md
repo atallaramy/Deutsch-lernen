@@ -4,6 +4,9 @@
 
 ## The rule
 
+German terms:
+- *die Präposition* (preposition: Prepositions are usually short words that connect words or groups of words together. They describe the relationship between people or things.)
+
 1. Where you live: **wohnen in** + town or country: *Ich wohne in Sevilla.*
    Question: *Wo …?*
 2. Streets: look at the end of the street name.

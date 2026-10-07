@@ -4,9 +4,13 @@
 
 ## The rule
 
-German terms: *das Verb* (verb), *der Infinitiv* (the basic form: *kommen*),
-*der Verbstamm* (the stem: *komm-*), *die Endung* (the ending), *die Konjugation*
-(changing the verb for each person), *das Präsens* (present tense).
+German terms:
+- *das Verb* (verb: Verbs are words that describe activities, occurrences or a situation, e.g. walk, eat, play. German verbs usually end with *-en* in the infinitive, e.g. *kommen, heißen, lernen*.)
+- *der Infinitiv* (infinitive: The basic form of the verb is called the infinitive and consists of the verb stem + "-en": "heißen", "kommen", "wohnen".)
+- *der Verbstamm* (stem: When conjugating verbs, you remove "-en" from the infinitive form and add the appropriate ending. For example: The root of "lernen" is "lern-".)
+- *die Endung* (ending: In conjugation, the endings of the verbs often change. The ending depends on which person is doing the action. The ending comes after the verb stem.)
+- *die Konjugation* (conjugation: When a verb is used in a different tense, or with a different person, it changes. It often gets a specific ending. This change in the verb form is known as conjugation.)
+- *das Präsens* (present tense: The present is a verb tense. It is used when speaking about events, activities or situations that happen in the present or are continuing to happen.)
 
 1. Take the infinitive and remove **-en**. What is left is the stem: *lernen* → *lern-*.
 2. Add the ending for the person: ich **-e**, du **-st**, er/sie/es **-t**,

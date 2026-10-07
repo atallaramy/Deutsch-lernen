@@ -238,7 +238,8 @@ every captured entry is covered.
 - One short Markdown page per topic, grouped by level (`Grammatik/A1/…`) and
   indexed in `Grammatik/README.md`. Only topics from studied lessons get a page;
   later topics are listed there as coming (from `docs/course-index/`).
-- Each page: the rule in simple English with the German terms; a table;
+- Each page: the rule in simple English with the German terms (each with its
+  short description from `Grammatikbegriffe.md`); a table;
   examples copied verbatim from studied lessons' snapshots, with the source
   named; common mistakes, the learner's own quoted exactly from the notes or the
   lesson's `Materials/mistakes.md`; links to the official DW/VHS pages; the
@@ -258,10 +259,16 @@ every captured entry is covered.
   check passes, byte-identical for the same pages), and the tests fail while it
   lags the pages.
 - `Grammatik/Grammatikbegriffe.md` lists every German grammar word from the
-  studied lessons (term, English, the page that explains it) and closes the
-  PDF. The grammar check fails while a der/die/das term from a topic page's
-  "German terms" line is missing from it, or while it and
-  `Spickzettel/Grammatikbegriffe.md` list different words.
+  studied lessons (term; English with a short description of what it is; the
+  page that explains it) and closes the PDF. The description is the lesson's
+  own, copied verbatim, whenever a studied lesson gives one (a DW *Grammatical
+  terms in German* box, or a lesson sentence that says what the word is); an
+  agent's own wording only until a lesson gives one. The grammar check fails
+  while a word in a topic page's "German terms" list is missing from it or
+  lacks its description, while a word is missing from the "German terms" of the
+  page it links to, while a word in a studied lesson's DW box is missing or not
+  given the box's description, or while it and `Spickzettel/Grammatikbegriffe.md`
+  list different words.
 
 ## Cheatsheets (`Spickzettel/`) and printing
 

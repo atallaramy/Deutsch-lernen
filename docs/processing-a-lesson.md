@@ -145,9 +145,15 @@ The rules are in `AGENTS.md` → *Grammar book*; the layout is in
   notes) and link that file.
 - Cards: add the lesson's new Sentences card keys.
 - Grammar words: add the lesson's new grammar terms to `Grammatik/Grammatikbegriffe.md`
-  (term, English, the topic page; a DW link until the topic page exists) and to
-  `Spickzettel/Grammatikbegriffe.md` (term, English, a short example). The grammar
-  check fails while the two list different words.
+  (term; English with a short description of what it is; the topic page, a DW link
+  until it exists), with the same text in the topic page's *German terms* list, and to
+  `Spickzettel/Grammatikbegriffe.md` (term, English, a short example). The description
+  is the lesson's own, copied verbatim: a DW grammar page's *Grammatical terms in
+  German* box (*das Adjektiv: Adjectives are used to describe people or things.*), or
+  another lesson sentence that says what the word is. Write your own only when no
+  studied lesson gives one, and replace it once a lesson does. The grammar check fails
+  while a box word is missing or lacks the box's description, the two lists differ,
+  or a page's description differs.
 - Leave "My rule in my own words" and the rest of `Spickzettel/` to you.
 - A new verb in a verb table needs `python3 docs/tools/check_grammar_book.py fetch`
   (network) first.

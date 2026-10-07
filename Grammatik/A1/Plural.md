@@ -4,8 +4,11 @@
 
 ## The rule
 
-German terms: *der Singular* (one), *der Plural* (two or more), *die Endung* (ending),
-*der Umlaut* (ä, ö, ü).
+German terms:
+- *der Singular* (singular: The singular is used when we are talking about one individual person or thing.)
+- *der Plural* (plural: The plural is used when we are talking about several people or things.)
+- *die Endung* (ending: In conjugation, the endings of the verbs often change. The ending depends on which person is doing the action. The ending comes after the verb stem.)
+- *der Umlaut* (umlaut: "Ä", "Ö" and "Ü" are the three letters in German with umlauts.)
 
 1. German has five plural endings: **-n, -en, -e, -er, -s**. Some nouns add no ending.
 2. Some nouns also get an umlaut: *das Buch → die Bücher*, *der Notizblock → die Notizblöcke*.

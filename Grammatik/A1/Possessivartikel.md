@@ -4,6 +4,9 @@
 
 ## The rule
 
+German terms:
+- *der Possessivartikel* (possessive article: shows who something belongs to: *mein, dein, Ihr*)
+
 1. *mein* = my, *dein* = your (informal, du), *Ihr* = your (formal, Sie).
    *Ihr* always has a capital I, like *Sie*.
 2. The ending depends on the **noun that follows**, not on the owner.

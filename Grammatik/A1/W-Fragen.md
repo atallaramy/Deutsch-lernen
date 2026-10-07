@@ -4,8 +4,10 @@
 
 ## The rule
 
-German terms: *die W-Frage* (also *die Ergänzungsfrage*), *das Fragewort* (question word),
-*das Subjekt* (subject).
+German terms:
+- *die W-Frage* / *die Ergänzungsfrage* (W-question: W-questions are open questions that cannot be answered with "yes" or "no". They are also called *Ergänzungsfragen*. At the beginning of a W-question there is a question word that usually begins with the letter *W*.)
+- *das Fragewort* (question word: At the beginning of a W-question there is a question word that usually begins with the letter *W*.)
+- *das Subjekt* (subject: The subject is the person or thing that is active or central in the sentence. The subject is also known as "der Satzgegenstand". It is usually a noun or pronoun.)
 
 1. A W-question asks for information. You cannot answer it with *ja* or *nein*.
 2. Order: **question word – verb – subject**: *Woher kommst du?*

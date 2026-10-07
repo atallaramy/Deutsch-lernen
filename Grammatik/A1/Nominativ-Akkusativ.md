@@ -4,8 +4,12 @@
 
 ## The rule
 
-German terms: *das Subjekt* (subject), *das Objekt* (object), *der Nominativ* (nominative),
-*der Akkusativ* (accusative), *der Kasus* or *der Fall* (case; plural Fälle).
+German terms:
+- *das Subjekt* (subject: The subject is the person or thing that is active or central in the sentence. The subject is also known as "der Satzgegenstand". It is usually a noun or pronoun.)
+- *das Objekt* (object: The object refers to a person or thing that is the aim of an action or event. The object is also known as the complement. It is usually a noun or pronoun.)
+- *der Nominativ* (nominative: The subject is always in the nominative. The articles are: der/ein, die/eine, das/ein, die/-.)
+- *der Akkusativ* (accusative: Most objects are in the accusative. The articles are then: den/einen, die/eine, das/ein, die/-.)
+- *der Kasus* / *der Fall* (case: Depending on what function the noun has, its form can change. However, this change can best be seen in the form of the article. In German, there are four different distinguishing forms or categories (cases) of noun, known as *Fälle* or *Kasus*.)
 
 1. The **subject** does the action, or the sentence is about it. It answers **Wer?**
    (people) or **Was?** (things). It is in the **nominative**: *Die Frau isst eine Pizza.*

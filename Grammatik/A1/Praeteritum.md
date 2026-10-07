@@ -4,7 +4,9 @@
 
 ## The rule
 
-German terms: *das Präteritum* (simple past, also called preterite), *das Präsens* (present tense).
+German terms:
+- *das Präteritum* (simple past: The simple past is a verb tense. It is used in written language to describe events, activities or situations that happened in the past. The simple past of certain verbs, e.g. *sein*, is often also used in spoken language.)
+- *das Präsens* (present tense: The present is a verb tense. It is used when speaking about events, activities or situations that happen in the present or are continuing to happen.)
 
 1. The Präteritum is a past tense. DW: it is mostly used in writing, but *sein* and
    *haben* are often used in the Präteritum when speaking too.

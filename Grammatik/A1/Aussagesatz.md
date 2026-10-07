@@ -4,7 +4,10 @@
 
 ## The rule
 
-German terms: *der Aussagesatz* (statement), *das Verb* (verb), *das Subjekt* (subject).
+German terms:
+- *der Aussagesatz* (statement: In a statement, a fact is declared. The statement may give information or describe a situation.)
+- *das Verb* (verb: Verbs are words that describe activities, occurrences or a situation, e.g. walk, eat, play. German verbs usually end with *-en* in the infinitive, e.g. *kommen, heißen, lernen*.)
+- *das Subjekt* (subject: The subject is the person or thing that is active or central in the sentence. The subject is also known as "der Satzgegenstand". It is usually a noun or pronoun.)
 
 1. In a statement the **conjugated verb** (the verb with its ending) is always in
    **position 2**.

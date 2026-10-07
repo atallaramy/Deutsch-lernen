@@ -4,8 +4,12 @@
 
 ## The rule
 
-German terms: *die Ja-/Nein-Frage* (VHS; DW calls it *die Satzfrage*), *die W-Frage*,
-*der Aussagesatz* (statement).
+German terms:
+- *die Ja-/Nein-Frage* / *die Satzfrage* (yes/no question: This is a question that can be answered with "yes" or "no".)
+- *die W-Frage* / *die Ergänzungsfrage* (W-question: W-questions are open questions that cannot be answered with "yes" or "no". They are also called *Ergänzungsfragen*. At the beginning of a W-question there is a question word that usually begins with the letter *W*.)
+- *der Aussagesatz* (statement: In a statement, a fact is declared. The statement may give information or describe a situation.)
+
+VHS says *Ja-/Nein-Frage*; DW says *Satzfrage*.
 
 1. A yes/no question starts with the **verb**, then the subject: *Hast du einen Pass?*
    The answer can start with *ja* or *nein*.

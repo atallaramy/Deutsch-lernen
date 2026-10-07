@@ -131,14 +131,51 @@ class GrammarBook(unittest.TestCase):
         (self.book / "README.md").write_text("# empty\n", encoding="utf-8")
         self.assertOneError(GOOD_PAGE, "not listed in Grammatik/README.md")
 
+    def with_terms(self, *entries):
+        return GOOD_PAGE.replace("## Table", "German terms:\n" + "\n".join(f"- {e}" for e in entries) + "\n\n## Table")
+
+    def test_described_grammar_words_pass(self):
+        self.write_glossary("| *das Subjekt* | subject: who or what does the action (*Wer? Was?*) | [Test](A1/Test.md) |\n"
+                            "| *das Nomen* / *das Substantiv* | noun: a word for a person or thing | [Test](A1/Test.md) |\n")
+        page = self.with_terms("*das Subjekt* (subject: who or what does the action (*Wer? Was?*))",
+                               "*das Nomen* / *das Substantiv* (noun: a word for a person or thing)")
+        self.assertEqual(self.errors(page), [])
+
     def test_grammar_word_must_be_in_the_glossary(self):
-        self.write_glossary("| *das Subjekt* | subject | [Test](A1/Test.md) |\n")
-        page = GOOD_PAGE.replace("## Table", "German terms: *das Verb* (verb), *das Subjekt*, *maskulin*,\n"
-                                             "*der, die, das*.\n\n## Table")
+        self.write_glossary("| *das Subjekt* | subject: who or what does the action | [Test](A1/Test.md) |\n")
+        page = self.with_terms("*das Verb* (verb: a word for an activity)",
+                               "*das Subjekt* (subject: who or what does the action)")
         self.assertOneError(page, "'das Verb' is missing from Grammatikbegriffe.md")
 
+    def test_grammar_word_needs_the_glossary_description(self):
+        self.write_glossary("| *das Subjekt* | subject: who or what does the action | [Test](A1/Test.md) |\n")
+        self.assertOneError(self.with_terms("*das Subjekt* (subject)"),
+                            "'das Subjekt' needs its Grammatikbegriffe.md description: "
+                            "(subject: who or what does the action)")
+        self.assertOneError(self.with_terms("*das Subjekt*"), "'das Subjekt' needs its Grammatikbegriffe.md description")
+
+    def test_synonyms_are_given_together(self):
+        self.write_glossary("| *das Nomen* / *das Substantiv* | noun: a word for a person or thing | [Test](A1/Test.md) |\n")
+        page = self.with_terms("*das Nomen* (noun: a word for a person or thing)")
+        self.assertOneError(page, "give 'das Nomen / das Substantiv' together")
+
+    def test_grammar_word_is_described_on_its_page(self):
+        self.write_glossary("| *das Subjekt* | subject: who or what does the action | [Test](A1/Test.md) |\n")
+        self.assertOneError(GOOD_PAGE, "'das Subjekt' is not in the German terms of A1/Test.md")
+
+    def test_lesson_description_is_used(self):
+        own = "| *das Verb* | verb: a word for an action | [DW](https://example.org) |\n"
+        lesson = ("| *das Verb* | verb: Verbs are words that describe activities, occurrences or a situation, "
+                  "e.g. walk, eat, play. | [DW](https://example.org) |\n")
+        self.write_glossary(own)
+        errors = self.errors(GOOD_PAGE, grammar_pages=True)
+        self.assertTrue(any("'das Verb' must use the lesson's description (dw-a1-e1-l3)" in e for e in errors), errors)
+        self.assertTrue(any("'die Präposition' (dw-a1-e2-l3) is missing" in e for e in errors), errors)
+        self.write_glossary(lesson)
+        self.assertFalse(any("'das Verb'" in e for e in self.errors(GOOD_PAGE, grammar_pages=True)))
+
     def test_cheatsheet_lists_the_same_words(self):
-        self.write_glossary("| *das Nomen* / *das Substantiv* | noun | [Test](A1/Test.md) |\n",
+        self.write_glossary("| *das Nomen* / *das Substantiv* | noun | [DW](https://example.org) |\n",
                             cheatsheet_rows="| das Nomen / das Hauptwort | noun | der Stift |\n")
         errors = self.errors(GOOD_PAGE)
         self.assertEqual(len(errors), 2, errors)
