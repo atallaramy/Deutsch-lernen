@@ -1,5 +1,5 @@
 {
- "revision": "2026-10-05T18:40:00Z",
+ "revision": "2026-10-07T17:19:00Z",
  "entries": {
   "dw-a1-e0-l1:auch": [
    "vocab:auch|also"
@@ -2919,6 +2919,126 @@
   ],
   "dw-a1-e5-l2:der-unbestimmte-artikel": [
    "vocab:der unbestimmte Artikel|indefinite-article"
+  ],
+  "dw-a1-e5-l3:alles-klar": [
+   "vocab:Alles klar!|got-it"
+  ],
+  "dw-a1-e5-l3:die-anzeige": [
+   "article:Anzeige|f",
+   "vocab:Anzeige|ad"
+  ],
+  "dw-a1-e5-l3:der-aufzug": [
+   "article:Aufzug|m",
+   "vocab:Aufzug|elevator"
+  ],
+  "dw-a1-e5-l3:das-auto": [
+   "article:Auto|n",
+   "vocab:Auto|car"
+  ],
+  "dw-a1-e5-l3:das-brillenetui": [
+   "article:Brillenetui|n",
+   "vocab:Brillenetui|glasses-case"
+  ],
+  "dw-a1-e5-l3:einen-moment-bitte": [
+   "vocab:Einen Moment bitte.|one-moment-please"
+  ],
+  "dw-a1-e5-l3:die-garage": [
+   "article:Garage|f",
+   "vocab:Garage|garage"
+  ],
+  "dw-a1-e5-l3:das-haus": [
+   "article:Haus|n",
+   "vocab:Haus|house"
+  ],
+  "dw-a1-e5-l3:heute": [
+   "vocab:heute|today"
+  ],
+  "dw-a1-e5-l3:das-internet": [
+   "article:Internet|n",
+   "vocab:Internet|internet"
+  ],
+  "dw-a1-e5-l3:kein-keine": [
+   "vocab:kein|not-a"
+  ],
+  "dw-a1-e5-l3:der-mieter": [
+   "article:Mieter|m",
+   "vocab:Mieter|tenant-male"
+  ],
+  "dw-a1-e5-l3:die-mieterin": [
+   "article:Mieterin|f",
+   "vocab:Mieterin|tenant-female"
+  ],
+  "dw-a1-e5-l3:die-terrasse": [
+   "article:Terrasse|f",
+   "vocab:Terrasse|terrace"
+  ],
+  "dw-a1-e5-l3:die-wg": [
+   "article:WG|f",
+   "vocab:WG|shared-apartment-short"
+  ],
+  "dw-a1-e5-l3:die-wohngemeinschaft": [
+   "article:Wohngemeinschaft|f",
+   "vocab:Wohngemeinschaft|shared-apartment"
+  ],
+  "dw-a1-e5-l3:die-wohnung": [
+   "article:Wohnung|f",
+   "vocab:Wohnung|apartment"
+  ],
+  "dw-a1-e5-l3:der-zettel": [
+   "article:Zettel|m",
+   "vocab:Zettel|piece-of-paper"
+  ],
+  "dw-a1-e5-l3:das-zimmer": [
+   "article:Zimmer|n",
+   "vocab:Zimmer|room"
+  ],
+  "dw-a1-e5-l3:tschau": [
+   "vocab:Tschau!|bye-ciao"
+  ],
+  "dw-a1-e5-l3:der-bewerber": [
+   "article:Bewerber|m",
+   "vocab:Bewerber|applicant-male"
+  ],
+  "dw-a1-e5-l3:die-tuer": [
+   "article:Tür|f",
+   "vocab:Tür|door"
+  ],
+  "dw-a1-e5-l3:vorbeikommen": [
+   "vocab:vorbeikommen|to-come-by"
+  ],
+  "dw-a1-e5-l3:immer-noch": [
+   "vocab:immer noch|still-continuing"
+  ],
+  "dw-a1-e5-l3:die-steckdose": [
+   "article:Steckdose|f",
+   "vocab:Steckdose|socket"
+  ],
+  "dw-a1-e5-l3:der-lichtschalter": [
+   "article:Lichtschalter|m",
+   "vocab:Lichtschalter|light-switch"
+  ],
+  "dw-a1-e5-l3:die-heizung": [
+   "article:Heizung|f",
+   "vocab:Heizung|heating"
+  ],
+  "dw-a1-e5-l3:das-objekt": [
+   "article:Objekt|n",
+   "vocab:Objekt|grammatical-object"
+  ],
+  "dw-a1-e5-l3:der-nominativ": [
+   "article:Nominativ|m",
+   "vocab:Nominativ|nominative-case"
+  ],
+  "dw-a1-e5-l3:der-akkusativ": [
+   "article:Akkusativ|m",
+   "vocab:Akkusativ|accusative-case"
+  ],
+  "dw-a1-e5-l3:der-fall-kasus": [
+   "article:Fall|m",
+   "vocab:Fall|grammatical-case"
+  ],
+  "dw-a1-e5-l3:ich-habe-ein-brillenetui-aber-keine-brille": [
+   "sentence:glasses-case-but-no-glasses"
   ],
   "vhs-a1-l02:die-familie": [
    "article:Familie|f",

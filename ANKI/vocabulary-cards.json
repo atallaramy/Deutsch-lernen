@@ -1839,7 +1839,7 @@
    "cue": "to work out; to go well (colloquial)"
   },
   "Wohngemeinschaft|shared-apartment": {
-   "cue": "shared apartment; flat share"
+   "cue": "shared apartment, flat share (the full word)"
   },
   "gern|gladly": {
    "cue": "gladly, happily (short form, without -e)",
@@ -3141,6 +3141,127 @@
   },
   "der unbestimmte Artikel|indefinite-article": {
    "cue": "indefinite article (German grammar term, with its article)"
+  },
+  "Anzeige|ad": {
+   "context": {
+    "lesson": "dw-a1-e5-l3",
+    "source": "script",
+    "text": "Ah ja, die Anzeige im Internet.",
+    "target": "Anzeige"
+   }
+  },
+  "Aufzug|elevator": {
+   "context": {
+    "lesson": "dw-a1-e5-l3",
+    "source": "script",
+    "text": "Nein, im Haus ist kein Aufzug.",
+    "target": "Aufzug"
+   }
+  },
+  "Garage|garage": {
+   "context": {
+    "lesson": "dw-a1-e5-l3",
+    "source": "exercises",
+    "text": "Haben Lisa, Nina, Sebastian und Nawin eine Garage?",
+    "target": "Garage"
+   }
+  },
+  "Zettel|piece-of-paper": {
+   "context": {
+    "lesson": "dw-a1-e5-l3",
+    "source": "script",
+    "text": "Hier, ein Zettel.",
+    "target": "Zettel"
+   }
+  },
+  "Mieter|tenant-male": {
+   "context": {
+    "lesson": "dw-a1-e5-l3",
+    "source": "script",
+    "text": "Wir suchen also einen Mieter für Nawins Zimmer.",
+    "target": "Mieter"
+   },
+   "interferesWith": [
+    "Mieterin|tenant-female"
+   ],
+   "cue": "tenant, renter (male)"
+  },
+  "Bewerber|applicant-male": {
+   "context": {
+    "lesson": "dw-a1-e5-l3",
+    "source": "script",
+    "text": "Das war ein Bewerber für Nawins Zimmer.",
+    "target": "Bewerber"
+   }
+  },
+  "Zimmer|room": {
+   "context": {
+    "lesson": "dw-a1-e5-l3",
+    "source": "exercises",
+    "text": "Marvin Graupner sucht ein Zimmer.",
+    "target": "Zimmer"
+   }
+  },
+  "Terrasse|terrace": {
+   "context": {
+    "lesson": "dw-a1-e5-l3",
+    "source": "exercises",
+    "text": "Hat die Wohnung eine Terrasse?",
+    "target": "Terrasse"
+   }
+  },
+  "Brillenetui|glasses-case": {
+   "context": {
+    "lesson": "dw-a1-e5-l3",
+    "source": "exercises",
+    "text": "die Brille und das Brillenetui",
+    "target": "Brillenetui"
+   }
+  },
+  "immer noch|still-continuing": {
+   "cue": "still (as before; two words)",
+   "context": {
+    "lesson": "dw-a1-e5-l3",
+    "source": "script",
+    "text": "Ja, wir suchen immer noch.",
+    "target": "immer noch"
+   },
+   "interferesWith": [
+    "noch|still"
+   ]
+  },
+  "WG|shared-apartment-short": {
+   "cue": "shared apartment, flatshare (the short form)",
+   "interferesWith": [
+    "Wohngemeinschaft|shared-apartment"
+   ]
+  },
+  "Tschau!|bye-ciao": {
+   "cue": "bye (informal; the Italian ciao, in German spelling)",
+   "interferesWith": [
+    "Tschüss.|bye"
+   ]
+  },
+  "Fall|grammatical-case": {
+   "cue": "case (grammar term: Nominativ, Akkusativ …)"
+  },
+  "Objekt|grammatical-object": {
+   "cue": "object (grammar term)"
+  },
+  "Nominativ|nominative-case": {
+   "cue": "nominative (grammar term: the subject's case)",
+   "interferesWith": [
+    "Akkusativ|accusative-case"
+   ]
+  },
+  "Akkusativ|accusative-case": {
+   "cue": "accusative (grammar term: the case of most objects)"
+  },
+  "Mieterin|tenant-female": {
+   "cue": "tenant, renter (female)"
+  },
+  "Auto|car": {
+   "cue": "car"
   }
  }
 }

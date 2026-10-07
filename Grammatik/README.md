@@ -35,18 +35,19 @@ official DW/VHS pages · the Sentences cards that practise it · my rule in my o
 | Simple past of sein: war | [Praeteritum](A1/Praeteritum.md) | DW E4 L1 |
 | man: people in general | [man](A1/man.md) | DW E4 L3 |
 | Statements: the verb in position 2 | [Aussagesatz](A1/Aussagesatz.md) | DW E4 L3 |
+| Nominative and accusative: subject, object, der/den, ein/einen, kein/keinen | [Nominativ-Akkusativ](A1/Nominativ-Akkusativ.md) | DW E5 L3 |
 
 ## A1: coming
 
 Built when I have studied the lesson. Topics from
 [docs/course-index](../docs/course-index/).
 
-- **Cases** (*Nominativ, Akkusativ, Dativ, Genitiv*): coming later (DW A1 E9 L3 *The
-  dative* and after; VHS A1 Lektion 4 starts the accusative). My table is in my notes
+- **Cases**: *Nominativ* and *Akkusativ* are on [Nominativ-Akkusativ](A1/Nominativ-Akkusativ.md);
+  *Dativ* comes with DW A1 E9 L3 *The dative*, *Genitiv* later. My full table is in my notes
   [Nico hat ein Problem](<../DW Deutsch lernen/A1/02_meeting_people/04_Lesson_04/Nico hat Problem.md>);
   its articles match Wiktionary.
 - **DW Nicos Weg A1** ([index](../docs/course-index/dw-nicos-weg-a1.md)):
-  - E5: sentence construction: subject (L3) · adjectives after *sein* (L4)
+  - E5: adjectives after *sein* (L4)
   - E6: articles (L1) · *nicht* (L2) · *zu* + adjective (L3) · possessive determiners (L4)
   - E7: 12-hour clock (L1) · separable verbs (L2) · *an* for time (L3) · sequence adverbs (L4)
   - E8: 24-hour clock (L1) · ordinal numbers (L2) · *können* (L3) · simple past of *haben* (L4)
@@ -75,10 +76,16 @@ Built when I have studied the lesson. Topics from
 See [docs/learning-roadmap.md](../docs/learning-roadmap.md) and the A2/B1 files in
 [docs/course-index](../docs/course-index/).
 
+## Grammar words
+
+[Grammatikbegriffe](Grammatikbegriffe.md): every German grammar word from my
+lessons, with its English and the page that explains it. It closes the PDF.
+
 ## Cheatsheets and printing
 
 - My cheatsheets live in [Spickzettel](../Spickzettel/), my own folder. They are
-  mine to write.
+  mine to write, except *Grammatikbegriffe* (the grammar words with examples, one
+  printable page), which Claude updates after every lesson.
 - [Grammatik.pdf](Grammatik.pdf) is this whole book, rebuilt after every lesson.
   The box under *My rule in my own words* is for writing by hand.
 - Ask Claude any time to collect other pages or lessons into a printable file.
@@ -94,9 +101,14 @@ See [docs/learning-roadmap.md](../docs/learning-roadmap.md) and the A2/B1 files 
 - Page conventions the check relies on: a table ending in a *Source* column quotes
   German in its *German…* columns; a *Wrong … From* table quotes the file its *From*
   column links to (my notes or a lesson's `Materials/mistakes.md`); a table starting with *Person* is a verb table.
+- Every *der/die/das* word in a page's *German terms* line must be in
+  [Grammatikbegriffe](Grammatikbegriffe.md), and that page and the cheatsheet
+  `Spickzettel/Grammatikbegriffe.md` must list the same words (first column,
+  synonyms split by ` / `).
 - `python3 docs/tools/build_grammar_pdf.py` rebuilds [Grammatik.pdf](Grammatik.pdf)
-  from the pages in the order of the *studied* tables above; a new page joins by being
-  listed there. The same pages always give the same file.
+  from the pages in the order of the *studied* tables above, then *Grammatikbegriffe*;
+  a new page joins by being listed there. It also rebuilds the one-page cheatsheet
+  `Spickzettel/Grammatikbegriffe.pdf`. The same pages always give the same files.
 - Rules come from official DW/VHS material first, then dictionaries. A DW grammar
   page from a later lesson may confirm a rule, but examples come only from lessons I
   have studied.

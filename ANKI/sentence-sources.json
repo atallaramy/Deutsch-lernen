@@ -2447,6 +2447,167 @@
    "answer": "Liest",
    "covers": [],
    "note": "ich lese · du liest · er/sie/es liest: e → ie · ihr lest"
+  },
+  {
+   "key": "table-nominative-masculine",
+   "kind": "table",
+   "lesson": "dw-a1-e5-l3",
+   "skill": "article table: der, ein, kein",
+   "scene": "Article table, nominative (with sein): the masculine row.",
+   "prompt": {
+    "lesson": "dw-a1-e5-l3",
+    "source": "exercises",
+    "text": "masculine: der/ein/kein",
+    "target": "kein"
+   },
+   "answer": "kein",
+   "covers": [],
+   "note": "Das ist kein Stift. · accusative: den/einen/keinen"
+  },
+  {
+   "key": "table-feminine",
+   "kind": "table",
+   "lesson": "dw-a1-e5-l3",
+   "skill": "article table: der, ein, kein",
+   "scene": "Article table: the feminine row (nominative and accusative are the same).",
+   "prompt": {
+    "lesson": "dw-a1-e5-l3",
+    "source": "exercises",
+    "text": "feminine: die/eine/keine",
+    "target": "keine"
+   },
+   "answer": "keine",
+   "covers": [],
+   "note": "Das ist keine Brille. · Ich habe keine Brille."
+  },
+  {
+   "key": "table-neuter",
+   "kind": "table",
+   "lesson": "dw-a1-e5-l3",
+   "skill": "article table: der, ein, kein",
+   "scene": "Article table: the neuter row (nominative and accusative are the same).",
+   "prompt": {
+    "lesson": "dw-a1-e5-l3",
+    "source": "exercises",
+    "text": "neuter: das/ein/kein",
+    "target": "kein"
+   },
+   "answer": "kein",
+   "covers": [],
+   "note": "Das ist kein Buch. · Ich habe kein Buch."
+  },
+  {
+   "key": "table-plural",
+   "kind": "table",
+   "lesson": "dw-a1-e5-l3",
+   "skill": "article table: der, ein, kein",
+   "scene": "Article table: the plural row (nominative and accusative are the same).",
+   "prompt": {
+    "lesson": "dw-a1-e5-l3",
+    "source": "exercises",
+    "text": "plural: die/ - /keine",
+    "target": "keine"
+   },
+   "answer": "keine",
+   "covers": [],
+   "note": "Das sind keine Stifte. · Ich habe keine Bücher."
+  },
+  {
+   "key": "table-accusative-masculine",
+   "kind": "table",
+   "lesson": "dw-a1-e5-l3",
+   "skill": "article table: der, ein, kein",
+   "scene": "Article table, accusative (with haben): the masculine row.",
+   "prompt": {
+    "lesson": "dw-a1-e5-l3",
+    "source": "exercises",
+    "text": "masculine: den/einen/keinen",
+    "target": "den"
+   },
+   "answer": "den",
+   "covers": [],
+   "note": "Only the masculine changes: der → den, ein → einen, kein → keinen."
+  },
+  {
+   "key": "no-i-have-no-pen",
+   "kind": "response",
+   "lesson": "dw-a1-e5-l3",
+   "skill": "accusative: keinen",
+   "scene": "You have no pen. Answer.",
+   "prompt": {
+    "lesson": "dw-a1-e5-l3",
+    "source": "exercises",
+    "text": "Hast du einen Stift?"
+   },
+   "answer": "Nein, ich habe keinen Stift.",
+   "answerSource": {
+    "lesson": "dw-a1-e5-l3",
+    "source": "exercises"
+   },
+   "covers": [],
+   "note": "der Stift → einen/keinen Stift after haben (accusative). In the film Nico says: ich hab keinen Stift."
+  },
+  {
+   "key": "no-that-is-no-pen",
+   "kind": "response",
+   "lesson": "dw-a1-e5-l3",
+   "skill": "nominative: kein",
+   "scene": "It is not a pen. Answer.",
+   "prompt": {
+    "lesson": "dw-a1-e5-l3",
+    "source": "exercises",
+    "text": "Ist das ein Stift?"
+   },
+   "answer": "Nein, das ist kein Stift.",
+   "answerSource": {
+    "lesson": "dw-a1-e5-l3",
+    "source": "exercises"
+   },
+   "covers": [],
+   "note": "After sein the nominative stays: ein → kein. After haben: keinen Stift."
+  },
+  {
+   "key": "glasses-case-but-no-glasses",
+   "kind": "production",
+   "lesson": "dw-a1-e5-l3",
+   "skill": "haben + ein … aber kein …",
+   "scene": "Say you have a glasses case, but no glasses.",
+   "answer": "Ich habe ein Brillenetui, aber keine Brille.",
+   "answerSource": "learner-notes",
+   "covers": [
+    "dw-a1-e5-l3:ich-habe-ein-brillenetui-aber-keine-brille"
+   ],
+   "note": "Model from the exercise: Ich habe eine Garage, aber kein Auto."
+  },
+  {
+   "key": "the-book-costs-a-euro",
+   "kind": "completion",
+   "lesson": "dw-a1-e5-l3",
+   "skill": "accusative object: einen",
+   "scene": "das Buch is the subject; der Euro is the object. Type the article.",
+   "prompt": {
+    "lesson": "dw-a1-e5-l3",
+    "source": "exercises",
+    "text": "Das Buch kostet einen Euro.",
+    "target": "einen"
+   },
+   "answer": "einen",
+   "covers": [],
+   "note": "Subjekt (Nominativ): das Buch · Objekt (Akkusativ): einen Euro"
+  },
+  {
+   "key": "answer-the-phone-with-your-name",
+   "kind": "production",
+   "lesson": "dw-a1-e5-l3",
+   "skill": "on the phone: hier + name",
+   "scene": "You are Lisa Brunner. Answer the phone: say hello and who is speaking.",
+   "answer": "Hallo, hier Lisa Brunner.",
+   "answerSource": {
+    "lesson": "dw-a1-e5-l3",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "On the phone, hier + your name = this is … speaking."
   }
  ]
 }

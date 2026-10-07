@@ -197,6 +197,11 @@ mistake as plain aligned text (You wrote · Correct · Why), easy to read withou
 preview. A later try's comment notes the progress. A second round only when the
 learner asks: later lessons bring the repetition.
 
+Extra grammar: when the learner asks to add a grammar point they noticed, add it
+to the end of that lesson's notes file under the line *Extra grammar*, as short
+plain text with correct examples (before *Extra tasks* once those exist). It is
+Claude's text: mistake rounds skip it and nothing is built from it.
+
 ## Exam practice
 
 Only when the learner says "exam practice": read `docs/exam-practice.md` and
@@ -252,6 +257,11 @@ every captured entry is covered.
   `python3 docs/tools/build_grammar_pdf.py` rebuilds it (only after the grammar
   check passes, byte-identical for the same pages), and the tests fail while it
   lags the pages.
+- `Grammatik/Grammatikbegriffe.md` lists every German grammar word from the
+  studied lessons (term, English, the page that explains it) and closes the
+  PDF. The grammar check fails while a der/die/das term from a topic page's
+  "German terms" line is missing from it, or while it and
+  `Spickzettel/Grammatikbegriffe.md` list different words.
 
 ## Cheatsheets (`Spickzettel/`) and printing
 
@@ -260,9 +270,13 @@ every captured entry is covered.
   way of understanding. When it holds too much, it is no longer a cheatsheet.
 - Agents do not create, edit or restructure cheatsheets on their own. An agent
   may suggest one, but asks first, and writes only what the learner decides.
+- The learner's standing exception: `Spickzettel/Grammatikbegriffe.md` (each
+  grammar word with its English and a short example) and its one-page
+  `Grammatikbegriffe.pdf`. Agents add each lesson's new grammar words to it and
+  to the grammar book's page. If it no longer fits on one page, ask the learner.
 - Collect grammar pages or lessons into a printable file only when the learner
-  asks. The grammar-book PDF is the standing exception: it is rebuilt after
-  every lesson.
+  asks. The grammar-book PDF and the grammar-words cheatsheet are the standing
+  exceptions: `build_grammar_pdf.py` rebuilds both after every lesson.
 
 ## Open decisions and new rules
 

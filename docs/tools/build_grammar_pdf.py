@@ -1,12 +1,13 @@
 #!/usr/bin/env python3
-"""Build Grammatik/Grammatik.pdf: the whole grammar book as one printable, clickable PDF.
+"""Build Grammatik/Grammatik.pdf (the whole grammar book) and Spickzettel/Grammatikbegriffe.pdf (one page).
 
-  python3 docs/tools/build_grammar_pdf.py           rebuild (after the grammar check passes)
-  python3 docs/tools/build_grammar_pdf.py --check   exit 1 if the PDF is missing or older than its pages
+  python3 docs/tools/build_grammar_pdf.py           rebuild both (after the grammar check passes)
+  python3 docs/tools/build_grammar_pdf.py --check   exit 1 if a PDF is missing or older than its pages
 
 The Markdown pages stay the source. Page order is the order of the "<level>: studied" tables in
-Grammatik/README.md, so a page added there joins the PDF on the next build. Every build runs twice
-and must give identical bytes. Needs pandoc and Google Chrome; no network.
+Grammatik/README.md, so a page added there joins the PDF on the next build; Grammatikbegriffe.md
+closes the book. The cheatsheet must fit on one page. Every build runs twice and must give
+identical bytes. Needs pandoc and Google Chrome; no network.
 """
 
 from __future__ import annotations
@@ -27,9 +28,10 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 import check_grammar_book  # noqa: E402
-from check_grammar_book import BOOK, ROOT, link_targets, plain, tables  # noqa: E402
+from check_grammar_book import BOOK, CHEATSHEET, GLOSSARY, ROOT, link_targets, plain, tables  # noqa: E402
 
 PDF = BOOK / "Grammatik.pdf"
+CHEATSHEET_PDF = CHEATSHEET.with_suffix(".pdf")
 MANIFEST = BOOK / "Materials" / "pdf-build.json"
 CHROME = Path("/Applications/Google Chrome.app/Contents/MacOS/Google Chrome")
 TITLE = "Grammatik — my German grammar book"
@@ -37,6 +39,7 @@ STUDIED_RE = re.compile(r"^(A1|A2|B1): studied$")
 CHECKED_RE = re.compile(r"checked (\d{4}-\d{2}-\d{2})")
 # Chrome stamps the build time into the PDF; it is replaced by the newest "checked" date of the pages.
 PDF_DATE_RE = re.compile(rb"\(D:(\d{14})([^)]*)\)")
+PDF_PAGE_RE = re.compile(rb"/Type\s*/Page\b")
 
 CSS = """
 @page { size: A4; margin: 16mm 16mm 18mm;
@@ -72,6 +75,22 @@ h2[id$="sentences-cards"] + ul { font-size: 8.5pt; color: #666; }
   background: repeating-linear-gradient(transparent 0 7.4mm, #dde1e6 7.4mm 7.5mm); }
 """
 
+CHEATSHEET_CSS = """
+@page { size: A4; margin: 11mm 14mm; }
+html { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+body { font-family: -apple-system, "Helvetica Neue", Arial, sans-serif; font-size: 9.5pt; line-height: 1.3;
+  color: #1f2328; margin: 0; }
+h1 { font-size: 18pt; color: #1f3a5f; margin: 0 0 4pt; }
+h2 { font-size: 8.5pt; letter-spacing: .12em; text-transform: uppercase; color: #8a6d1f; margin: 7pt 0 2pt; }
+table { border-collapse: collapse; width: 100%; table-layout: fixed; }
+table:not(:first-of-type) thead { display: none; }
+th { font-size: 8pt; color: #777; font-weight: normal; text-align: left; padding: 0 5pt 2pt; }
+td { border-top: 1px solid #dde1e6; padding: 2.5pt 5pt; vertical-align: top; }
+th:nth-child(1), td:nth-child(1) { width: 40%; font-weight: 600; color: #1f3a5f; }
+th:nth-child(2), td:nth-child(2) { width: 27%; }
+td:nth-child(3) { font-style: italic; }
+"""
+
 
 @dataclass
 class Page:
@@ -82,7 +101,7 @@ class Page:
 
     @property
     def slug(self) -> str:
-        return f"{self.level}-{self.path.stem}"  # unique across levels (A1/Zahlen vs a later A2/Zahlen)
+        return f"{self.level or 'book'}-{self.path.stem}"  # unique across levels (A1/Zahlen vs a later A2/Zahlen)
 
 
 def book_pages(book: Path = BOOK) -> list[Page]:
@@ -97,15 +116,23 @@ def book_pages(book: Path = BOOK) -> list[Page]:
             if links:
                 pages.append(Page(match.group(1), plain(row[0]), (book / urllib.parse.unquote(links[0][1])).resolve(),
                                   plain(row[2]) if len(row) > 2 else ""))
+    if (book / GLOSSARY).exists():
+        pages.append(Page("", "Grammar words", (book / GLOSSARY).resolve(), ""))
     return pages
 
 
-def inputs_digest(pages: list[Page], book: Path = BOOK) -> str:
+def inputs_digest(pages: list[Page], book: Path = BOOK, cheatsheet: Path = CHEATSHEET) -> str:
     digest = hashlib.sha256(Path(__file__).read_bytes())
     digest.update((book / "README.md").read_bytes())
     for page in pages:
         digest.update(str(page.path.relative_to(book)).encode("utf-8") + b"\0" + page.path.read_bytes())
+    if cheatsheet.exists():
+        digest.update(b"cheatsheet\0" + cheatsheet.read_bytes())
     return digest.hexdigest()
+
+
+def page_count(pdf: bytes) -> int:
+    return len(PDF_PAGE_RE.findall(pdf))
 
 
 def rewrite_links(fragment: str, page: Page, slugs: dict[Path, str]) -> str:
@@ -130,7 +157,7 @@ def page_html(page: Page, slugs: dict[Path, str]) -> str:
     # An unwritten "My rule in my own words" (the "…" placeholder) prints as a box to write in by hand.
     fragment = re.sub(r'(<h2 id="[^"]*my-rule-in-my-own-words">.*?</h2>\s*)<blockquote>\s*<p>…</p>\s*</blockquote>',
                       r'\1<div class="write-here"></div>', fragment, flags=re.S)
-    return f'<section class="topic" id="{page.slug}"><div class="level">{page.level}</div>{fragment}</section>'
+    return f'<section class="topic" id="{page.slug}"><div class="level">{page.level or "All levels"}</div>{fragment}</section>'
 
 
 def updated_on(pages: list[Page]) -> str:
@@ -140,20 +167,29 @@ def updated_on(pages: list[Page]) -> str:
 
 def book_html(pages: list[Page]) -> str:
     slugs = {page.path: page.slug for page in pages}
-    levels = list(dict.fromkeys(page.level for page in pages))
+    topics = [page for page in pages if page.level]
+    levels = list(dict.fromkeys(page.level for page in topics))
     contents = []
     for level in levels:
         items = "".join(f'<li><a href="#{page.slug}">{html.escape(page.topic)}</a> '
                         f'<span class="from">· {html.escape(page.source)}</span></li>'
-                        for page in pages if page.level == level)
+                        for page in topics if page.level == level)
         contents.append(f"<h2>{level}</h2><ol>{items}</ol>")
+    contents += [f'<h2><a href="#{page.slug}">{html.escape(page.topic)}</a></h2>' for page in pages if not page.level]
     cover = (f'<div class="cover"><h1>Grammatik</h1><div class="sub">my German grammar book</div>'
-             f'<div class="meta">{" · ".join(levels)} · {len(pages)} topics · updated {updated_on(pages)}<br>'
+             f'<div class="meta">{" · ".join(levels)} · {len(topics)} topics · updated {updated_on(pages)}<br>'
              f"Built from the pages in Grammatik/ after every lesson.</div></div>")
     body = "".join(page_html(page, slugs) for page in pages)
     return (f'<!doctype html><html lang="en"><head><meta charset="utf-8"><title>{TITLE}</title>'
             f"<style>{CSS}</style></head><body>{cover}<div class=\"contents\"><h1>Contents</h1>{''.join(contents)}</div>"
             f"{body}</body></html>")
+
+
+def cheatsheet_html(cheatsheet: Path = CHEATSHEET) -> str:
+    result = subprocess.run(["pandoc", "-f", "gfm", "-t", "html5", "--wrap=none"],
+                            input=cheatsheet.read_text(encoding="utf-8"), capture_output=True, text=True, check=True)
+    return (f'<!doctype html><html lang="en"><head><meta charset="utf-8"><title>{cheatsheet.stem}</title>'
+            f"<style>{CHEATSHEET_CSS}</style></head><body>{result.stdout}</body></html>")
 
 
 def print_pdf(document: str, output: Path, date: str) -> None:
@@ -192,15 +228,19 @@ def tool_versions() -> dict[str, str]:
     return {"pandoc": pandoc, "chrome": chrome}
 
 
-def stale_reason(book: Path = BOOK) -> str | None:
-    pdf, manifest = book / PDF.name, book / "Materials" / MANIFEST.name
+def stale_reason(book: Path = BOOK, cheatsheet: Path = CHEATSHEET) -> str | None:
+    pdf, manifest, cheatsheet_pdf = book / PDF.name, book / "Materials" / MANIFEST.name, cheatsheet.with_suffix(".pdf")
     if not pdf.exists() or not manifest.exists():
         return "Grammatik.pdf has not been built yet"
+    if not cheatsheet_pdf.exists():
+        return f"{cheatsheet_pdf.name} has not been built yet"
     recorded = json.loads(manifest.read_text(encoding="utf-8"))
-    if recorded.get("inputs") != inputs_digest(book_pages(book), book):
-        return "a grammar page, the index or the PDF layout changed after the last build"
+    if recorded.get("inputs") != inputs_digest(book_pages(book), book, cheatsheet):
+        return "a grammar page, the index, the cheatsheet or the PDF layout changed after the last build"
     if recorded.get("pdf") != hashlib.sha256(pdf.read_bytes()).hexdigest():
         return "Grammatik.pdf differs from the recorded build"
+    if recorded.get("cheatsheet") != hashlib.sha256(cheatsheet_pdf.read_bytes()).hexdigest():
+        return f"{cheatsheet_pdf.name} differs from the recorded build"
     return None
 
 
@@ -216,29 +256,39 @@ def build() -> int:
         print("Not built: fix the grammar book first (python3 docs/tools/check_grammar_book.py).")
         return 1
     pages = book_pages()
-    document = book_html(pages)
+    built = {}
     with tempfile.TemporaryDirectory() as tmp:
-        first, second = Path(tmp) / "a.pdf", Path(tmp) / "b.pdf"
-        print_pdf(document, first, updated_on(pages))
-        print_pdf(document, second, updated_on(pages))
-        if first.read_bytes() != second.read_bytes():
-            print("ERROR the PDF build is not deterministic; nothing written")
-            return 1
-        PDF.write_bytes(first.read_bytes())
+        for target, document in ((PDF, book_html(pages)), (CHEATSHEET_PDF, cheatsheet_html())):
+            first, second = Path(tmp) / f"{target.stem}-a.pdf", Path(tmp) / f"{target.stem}-b.pdf"
+            print_pdf(document, first, updated_on(pages))
+            print_pdf(document, second, updated_on(pages))
+            if first.read_bytes() != second.read_bytes():
+                print(f"ERROR the {target.name} build is not deterministic; nothing written")
+                return 1
+            built[target] = first.read_bytes()
+    pages_needed = page_count(built[CHEATSHEET_PDF])
+    if pages_needed != 1:
+        print(f"ERROR {CHEATSHEET.relative_to(ROOT)} needs {pages_needed} pages; a cheatsheet fits on one. "
+              "Ask the learner what to shorten or split. Nothing written.")
+        return 1
+    for target, data in built.items():
+        target.write_bytes(data)
     MANIFEST.write_text(json.dumps({
-        "description": "Written by docs/tools/build_grammar_pdf.py. 'inputs' fingerprints the builder, README.md and "
-                       "every page; the unit tests fail when it no longer matches, so the PDF never lags the pages.",
+        "description": "Written by docs/tools/build_grammar_pdf.py. 'inputs' fingerprints the builder, README.md, "
+                       "every page and the cheatsheet; the unit tests fail when it no longer matches, so the PDFs "
+                       "never lag the pages.",
         "inputs": inputs_digest(pages), "pdf": hashlib.sha256(PDF.read_bytes()).hexdigest(),
+        "cheatsheet": hashlib.sha256(CHEATSHEET_PDF.read_bytes()).hexdigest(),
         "pages": [str(page.path.relative_to(BOOK)) for page in pages], "tools": tool_versions(),
     }, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
-    print(f"{PDF.relative_to(ROOT)}: {len(pages)} topics")
+    print(f"{PDF.relative_to(ROOT)}: {len(pages)} pages; {CHEATSHEET_PDF.relative_to(ROOT)}: 1 page")
     return 0
 
 
 def main() -> int:
     if sys.argv[1:] == ["--check"]:
         reason = stale_reason()
-        print(f"Out of date: {reason}. Run python3 docs/tools/build_grammar_pdf.py" if reason else "Grammatik.pdf is up to date")
+        print(f"Out of date: {reason}. Run python3 docs/tools/build_grammar_pdf.py" if reason else "Both PDFs are up to date")
         return 1 if reason else 0
     return build()
 

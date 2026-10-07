@@ -63,6 +63,18 @@
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-10-04"
   },
+  "Akkusativ": {
+   "url": "https://en.wiktionary.org/wiki/Akkusativ#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "the accusative (case)"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-07"
+  },
   "Allee": {
    "url": "https://en.wiktionary.org/wiki/Allee#German",
    "status": 200,
@@ -485,6 +497,18 @@
    ],
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-10-03"
+  },
+  "Bewerber": {
+   "url": "https://en.wiktionary.org/wiki/Bewerber#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "applicant (one who applies)"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-07"
   },
   "Beziehung": {
    "url": "https://en.wiktionary.org/wiki/Beziehung#German",
@@ -954,6 +978,50 @@
    "dictionary": "dict.cc",
    "fetchedOn": "2026-10-01"
   },
+  "Fall": {
+   "url": "https://en.wiktionary.org/wiki/Fall#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "fall, drop (the act of falling or an instance thereof)"
+    },
+    {
+     "pos": "Noun",
+     "text": "fall, capture (the act of being seized by enemy forces)"
+    },
+    {
+     "pos": "Noun",
+     "text": "fall; the loss of one's innocence, honour, reputation, fortune, etc."
+    },
+    {
+     "pos": "Noun",
+     "text": "case (actual event, situation, or fact)"
+    },
+    {
+     "pos": "Noun",
+     "text": "case (instance or event as a topic of study)"
+    },
+    {
+     "pos": "Noun",
+     "text": "case (piece of work subject to case handling in an authority, court, customer support etc.)"
+    },
+    {
+     "pos": "Noun",
+     "text": "case (instance of a specific condition or set of symptoms)"
+    },
+    {
+     "pos": "Noun",
+     "text": "case (kind of inflection of a nominal)"
+    },
+    {
+     "pos": "Noun",
+     "text": "halyard"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-07"
+  },
   "Familie": {
    "url": "https://en.wiktionary.org/wiki/Familie#German",
    "status": 200,
@@ -1359,6 +1427,22 @@
    ],
    "fetchedOn": "2026-09-25"
   },
+  "Heizung": {
+   "url": "https://en.wiktionary.org/wiki/Heizung#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "heating (a system that raises the temperature of a room or building)"
+    },
+    {
+     "pos": "Noun",
+     "text": "radiator"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-07"
+  },
   "Hey": {
    "url": "https://www.dict.cc/?s=Hey",
    "status": 200,
@@ -1417,6 +1501,13 @@
    "definitions": [],
    "dictionary": "dict.cc",
    "fetchedOn": "2026-09-25"
+  },
+  "Ich habe ein Brillenetui, aber keine Brille": {
+   "url": "https://www.dict.cc/?s=Ich+habe+ein+Brillenetui%2C+aber+keine+Brille",
+   "status": 404,
+   "definitions": [],
+   "dictionary": "dict.cc",
+   "fetchedOn": "2026-10-07"
   },
   "Idee": {
    "url": "https://en.wiktionary.org/wiki/Idee#German",
@@ -1855,6 +1946,18 @@
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-10-03"
   },
+  "Lichtschalter": {
+   "url": "https://en.wiktionary.org/wiki/Lichtschalter#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "light switch"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-07"
+  },
   "Liebe Grüße": {
    "url": "https://www.dict.cc/?s=Liebe+Gr%C3%BC%C3%9Fe",
    "status": 200,
@@ -2252,6 +2355,18 @@
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-10-02"
   },
+  "Nominativ": {
+   "url": "https://en.wiktionary.org/wiki/Nominativ#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "the nominative case"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-07"
+  },
   "Nordosten": {
    "url": "https://en.wiktionary.org/wiki/Nordosten#German",
    "status": 200,
@@ -2311,6 +2426,34 @@
    ],
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-27"
+  },
+  "Objekt": {
+   "url": "https://en.wiktionary.org/wiki/Objekt#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "object (inanimate being, thing)"
+    },
+    {
+     "pos": "Noun",
+     "text": "object (that around which an emotion or activity centers)"
+    },
+    {
+     "pos": "Noun",
+     "text": "asset, property (something of high value, especially real estate)"
+    },
+    {
+     "pos": "Noun",
+     "text": "object"
+    },
+    {
+     "pos": "Noun",
+     "text": "object"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-07"
   },
   "Oma": {
    "url": "https://en.wiktionary.org/wiki/Oma#German",
@@ -3234,6 +3377,18 @@
    ],
    "fetchedOn": "2026-09-25"
   },
+  "Steckdose": {
+   "url": "https://en.wiktionary.org/wiki/Steckdose#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "(electric) socket"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-07"
+  },
   "Stelle": {
    "url": "https://en.wiktionary.org/wiki/Stelle#German",
    "status": 200,
@@ -3703,6 +3858,22 @@
    ],
    "dictionary": "dict.cc",
    "fetchedOn": "2026-09-25"
+  },
+  "Tür": {
+   "url": "https://en.wiktionary.org/wiki/T%C3%BCr#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "door (rigid plane on a hinge)"
+    },
+    {
+     "pos": "Noun",
+     "text": "door; doorway (passage that can be blocked with such a plane)"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-07"
   },
   "USB": {
    "url": "https://en.wiktionary.org/wiki/USB#German",
@@ -6402,6 +6573,18 @@
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-10-03"
   },
+  "immer noch": {
+   "url": "https://en.wiktionary.org/wiki/immer_noch#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Adverb",
+     "text": "still; used to emphatically describe an unchanged state, despite attempts or expectations of change"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-07"
+  },
   "in dem": {
    "url": "https://www.dict.cc/?s=in+dem",
    "status": 404,
@@ -8348,6 +8531,18 @@
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-10-01"
   },
+  "tschau": {
+   "url": "https://en.wiktionary.org/wiki/tschau#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Interjection",
+     "text": "goodbye, ciao"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-07"
+  },
   "tschö": {
    "url": "https://en.wiktionary.org/wiki/tsch%C3%B6#German",
    "status": 200,
@@ -8678,6 +8873,22 @@
    ],
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-27"
+  },
+  "vorbeikommen": {
+   "url": "https://en.wiktionary.org/wiki/vorbeikommen#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Verb",
+     "text": "to come over; to drop by .mw-parser-output .object-usage-tag{font-style:italic}.mw-parser-output .deprecated{color:var(--wikt-palette-grey-lime-8,olivedrab)}[with auf (+ accusative) ‘for some purpose’]"
+    },
+    {
+     "pos": "Verb",
+     "text": "to get past, to go by [with an (+ dative) ‘a location, an obstacle, etc.’]"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-07"
   },
   "wann": {
    "url": "https://en.wiktionary.org/wiki/wann#German",

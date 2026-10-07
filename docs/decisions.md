@@ -5,6 +5,8 @@ One line per confirmed decision, newest first. The rules they produce live in
 
 | Date | Decision |
 |---|---|
+| 2026-10-07 | Grammar the learner notices goes, on request, to the end of the lesson's notes under *Extra grammar* ("it should be mentioned as extra grammar or extra notes or so"). |
+| 2026-10-07 | Grammar words: a page at the end of the grammar book (`Grammatik/Grammatikbegriffe.md`) and a one-page cheatsheet PDF (`Spickzettel/Grammatikbegriffe`), both updated after every lesson ("This is why we have a cheatsheet folder"). |
 | 2026-10-07 | Every studied article table (*der → ein → kein*, later the cases) gets one typed Sentences card per row, one form blanked (option 1 of 3, after the DW E5 L3 exercise "Nico would like to make a systematic list of the articles"). |
 | 2026-10-06 | Extra tasks go to the end of the lesson's notes file when the lesson is done; the learner answers there and may redo them for progress. Claude marks each try once, under the task, like a teacher: a level comment, then the mistakes as plain aligned text. A second round only on request ("mostly there is no second round … they rely on repetitions"; research: progress shows in new texts later). |
 | 2026-10-05 | Git: before a commit that does not finish a lesson, ask how the learner wants it (own commit or merged) ("ask me next time"). |

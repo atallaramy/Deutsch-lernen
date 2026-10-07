@@ -63,7 +63,15 @@ class GrammarBook(unittest.TestCase):
 
     def errors(self, page, data=None, grammar_pages=False):
         (self.book / "A1" / "Test.md").write_text(textwrap.dedent(page), encoding="utf-8")
-        return check_grammar_book.check(self.book, data or self.data, grammar_pages=grammar_pages).errors
+        return check_grammar_book.check(self.book, data or self.data, grammar_pages=grammar_pages,
+                                        cheatsheet=self.tmp / "Grammatikbegriffe.md").errors
+
+    def write_glossary(self, rows, cheatsheet_rows=None):
+        (self.book / "Grammatikbegriffe.md").write_text("| Term | English | Page |\n|---|---|---|\n" + rows,
+                                                        encoding="utf-8")
+        (self.book / "README.md").write_text("[Test](A1/Test.md) [Words](Grammatikbegriffe.md)\n", encoding="utf-8")
+        (self.tmp / "Grammatikbegriffe.md").write_text(
+            "| German | English | Example |\n|---|---|---|\n" + (cheatsheet_rows or rows), encoding="utf-8")
 
     def assertOneError(self, page, fragment, data=None):
         errors = self.errors(page, data)
@@ -123,6 +131,26 @@ class GrammarBook(unittest.TestCase):
         (self.book / "README.md").write_text("# empty\n", encoding="utf-8")
         self.assertOneError(GOOD_PAGE, "not listed in Grammatik/README.md")
 
+    def test_grammar_word_must_be_in_the_glossary(self):
+        self.write_glossary("| *das Subjekt* | subject | [Test](A1/Test.md) |\n")
+        page = GOOD_PAGE.replace("## Table", "German terms: *das Verb* (verb), *das Subjekt*, *maskulin*,\n"
+                                             "*der, die, das*.\n\n## Table")
+        self.assertOneError(page, "'das Verb' is missing from Grammatikbegriffe.md")
+
+    def test_cheatsheet_lists_the_same_words(self):
+        self.write_glossary("| *das Nomen* / *das Substantiv* | noun | [Test](A1/Test.md) |\n",
+                            cheatsheet_rows="| das Nomen / das Hauptwort | noun | der Stift |\n")
+        errors = self.errors(GOOD_PAGE)
+        self.assertEqual(len(errors), 2, errors)
+        self.assertIn("missing grammar word 'das Substantiv'", errors[0])
+        self.assertIn("'das Hauptwort' is not in Grammatik/Grammatikbegriffe.md", errors[1])
+
+    def test_glossary_links_do_not_cover_dw_grammar_pages(self):
+        self.write_glossary("| *das Verb* | verb | "
+                            "[DW](https://learngerman.dw.com/en/conjugation-haben/l-37265543/gr-38310825) |\n")
+        errors = self.errors(GOOD_PAGE, grammar_pages=True)
+        self.assertTrue(any("gr-38310825" in error for error in errors), errors)
+
     def test_every_studied_dw_grammar_page_is_linked(self):
         linked = GOOD_PAGE + "\n[haben](https://learngerman.dw.com/en/conjugation-haben/l-37265543/gr-38310825)\n"
         errors = self.errors(linked, grammar_pages=True)
@@ -140,6 +168,13 @@ class GrammarPdf(unittest.TestCase):
         self.assertTrue(pages)
         self.assertEqual(len({page.slug for page in pages}), len(pages))
         self.assertTrue(all(page.path.exists() for page in pages))
+
+    def test_the_grammar_words_close_the_book(self):
+        self.assertEqual(build_grammar_pdf.book_pages()[-1].path.name, check_grammar_book.GLOSSARY)
+
+    def test_cheatsheet_is_one_page(self):
+        self.assertEqual(build_grammar_pdf.page_count(b"<</Type /Pages /Count 2>> <</Type /Page>> <</Type/Page>>"), 2)
+        self.assertEqual(build_grammar_pdf.page_count(build_grammar_pdf.CHEATSHEET_PDF.read_bytes()), 1)
 
     def test_links_in_the_pdf(self):
         book = check_grammar_book.BOOK

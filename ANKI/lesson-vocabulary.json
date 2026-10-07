@@ -1,6 +1,6 @@
 {
  "schemaVersion": 3,
- "revision": "2026-10-05T18:40:00Z",
+ "revision": "2026-10-07T17:19:00Z",
  "policy": "Faithful capture of what the learner studied: official lesson glossaries, useful words and phrases from the official scripts and exercises, and items from the learner's notes. Official spelling is canonical; the learner's spelling is kept as learnerForm. Nothing captured is removed. pendingEntries wait for the learner's yes/no and are never built; declinedEntries record a learner's no.",
  "courses": [
   {
@@ -13101,6 +13101,548 @@
        "level": "beyond-A1",
        "note": "ein, eine",
        "home": "vocabulary"
+      }
+     ],
+     "pendingEntries": [],
+     "declinedEntries": []
+    },
+    {
+     "id": "dw-a1-e5-l3",
+     "legacyId": null,
+     "level": "A1",
+     "title": "Ich habe kein …",
+     "unit": 5,
+     "lesson": 3,
+     "url": "https://learngerman.dw.com/en/ich-habe-kein/l-37382992",
+     "notesFile": "DW Deutsch lernen/A1/06_living/03_Lesson_03/Ich habe kein.md",
+     "lessonDeck": {
+      "file": "DW Deutsch lernen/A1/06_living/03_Lesson_03/DW A1 E5L3 Ich habe kein - Vocabulary.apkg",
+      "deck": "Lessons::DW A1::E5 L3 Ich habe kein …"
+     },
+     "snapshot": "DW Deutsch lernen/A1/06_living/03_Lesson_03/Materials/source-snapshot.json",
+     "sources": [
+      {
+       "id": "script",
+       "kind": "dw-script-pdf",
+       "url": "https://learngerman.dw.com/downloads/52719694/nicos-weg-a1-e5-l3-manuskript-und-wortschatz-englisch.pdf",
+       "localFile": "DW Deutsch lernen/A1/06_living/03_Lesson_03/Materials/Script and vocabulary (English).pdf"
+      },
+      {
+       "id": "exercises",
+       "kind": "dw-exercises",
+       "url": "https://learngerman.dw.com/en/ich-habe-kein/l-37382992"
+      }
+     ],
+     "entries": [
+      {
+       "id": "alles-klar",
+       "german": "Alles klar!",
+       "english": "All right!/Got it!",
+       "pos": "expression",
+       "lemma": "Alles klar!",
+       "sense": "got-it",
+       "origin": [
+        "dw-glossary",
+        "dw-script"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-anzeige",
+       "german": "die Anzeige",
+       "plural": "die Anzeigen",
+       "english": "ad; advertisement",
+       "pos": "noun",
+       "lemma": "Anzeige",
+       "sense": "ad",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-aufzug",
+       "german": "der Aufzug",
+       "plural": "die Aufzüge",
+       "english": "elevator; lift",
+       "pos": "noun",
+       "lemma": "Aufzug",
+       "sense": "elevator",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-auto",
+       "german": "das Auto",
+       "plural": "die Autos",
+       "english": "car; automobile",
+       "pos": "noun",
+       "lemma": "Auto",
+       "sense": "car",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-brillenetui",
+       "german": "das Brillenetui",
+       "plural": "die Brillenetuis",
+       "english": "glasses case",
+       "pos": "noun",
+       "lemma": "Brillenetui",
+       "sense": "glasses-case",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "einen-moment-bitte",
+       "german": "Einen Moment bitte.",
+       "english": "One moment, please.",
+       "pos": "expression",
+       "lemma": "Einen Moment bitte.",
+       "sense": "one-moment-please",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "learner-notes"
+       ],
+       "note": "der Moment → einen Moment (accusative)",
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-garage",
+       "german": "die Garage",
+       "plural": "die Garagen",
+       "english": "garage",
+       "pos": "noun",
+       "lemma": "Garage",
+       "sense": "garage",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-haus",
+       "german": "das Haus",
+       "plural": "die Häuser",
+       "english": "house",
+       "pos": "noun",
+       "lemma": "Haus",
+       "sense": "house",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "heute",
+       "german": "heute",
+       "english": "today",
+       "pos": "word",
+       "lemma": "heute",
+       "sense": "today",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-internet",
+       "german": "das Internet",
+       "english": "internet",
+       "pos": "noun",
+       "lemma": "Internet",
+       "sense": "internet",
+       "origin": [
+        "dw-glossary",
+        "dw-script"
+       ],
+       "note": "nur Singular",
+       "home": "vocabulary"
+      },
+      {
+       "id": "kein-keine",
+       "german": "kein, keine",
+       "english": "no; not a; no one",
+       "pos": "word",
+       "lemma": "kein",
+       "sense": "not-a",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "dw-grammar-page",
+        "learner-notes"
+       ],
+       "vocabularyPageForm": "keine",
+       "note": "Like ein: kein Stift, keine Brille, kein Buch · plural: keine Stifte · accusative masculine: keinen Stift",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-mieter",
+       "german": "der Mieter",
+       "plural": "die Mieter",
+       "english": "tenant; renter (male)",
+       "pos": "noun",
+       "lemma": "Mieter",
+       "sense": "tenant-male",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-mieterin",
+       "german": "die Mieterin",
+       "plural": "die Mieterinnen",
+       "english": "tenant; renter (female)",
+       "pos": "noun",
+       "lemma": "Mieterin",
+       "sense": "tenant-female",
+       "origin": [
+        "dw-glossary"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-terrasse",
+       "german": "die Terrasse",
+       "plural": "die Terrassen",
+       "english": "terrace; patio",
+       "pos": "noun",
+       "lemma": "Terrasse",
+       "sense": "terrace",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises"
+       ],
+       "learnerForm": "Terrase",
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-wg",
+       "german": "die WG",
+       "plural": "die WGs",
+       "english": "shared apartment; flatshare",
+       "pos": "noun",
+       "lemma": "WG",
+       "sense": "shared-apartment-short",
+       "origin": [
+        "dw-glossary",
+        "dw-culture-page",
+        "dw-exercises"
+       ],
+       "note": "Abkürzung für: Wohngemeinschaft",
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-wohngemeinschaft",
+       "german": "die Wohngemeinschaft",
+       "plural": "die Wohngemeinschaften",
+       "english": "shared apartment; flatshare",
+       "pos": "noun",
+       "lemma": "Wohngemeinschaft",
+       "sense": "shared-apartment",
+       "origin": [
+        "dw-glossary",
+        "dw-culture-page",
+        "learner-notes"
+       ],
+       "note": "Abkürzung: die WG, die WGs",
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-wohnung",
+       "german": "die Wohnung",
+       "plural": "die Wohnungen",
+       "english": "apartment",
+       "pos": "noun",
+       "lemma": "Wohnung",
+       "sense": "apartment",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "note": "Abkürzung: Whg.",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-zettel",
+       "german": "der Zettel",
+       "plural": "die Zettel",
+       "english": "piece of paper",
+       "pos": "noun",
+       "lemma": "Zettel",
+       "sense": "piece-of-paper",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-zimmer",
+       "german": "das Zimmer",
+       "plural": "die Zimmer",
+       "english": "room",
+       "pos": "noun",
+       "lemma": "Zimmer",
+       "sense": "room",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises"
+       ],
+       "note": "Abkürzung: Zi.",
+       "home": "vocabulary"
+      },
+      {
+       "id": "tschau",
+       "german": "Tschau!",
+       "english": "bye; ciao",
+       "pos": "expression",
+       "lemma": "Tschau!",
+       "sense": "bye-ciao",
+       "origin": [
+        "dw-script",
+        "learner-notes"
+       ],
+       "learnerForm": "Ciao!",
+       "glossLookup": [
+        "tschau"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-bewerber",
+       "german": "der Bewerber",
+       "plural": "die Bewerber",
+       "english": "applicant (male)",
+       "pos": "noun",
+       "lemma": "Bewerber",
+       "sense": "applicant-male",
+       "origin": [
+        "dw-script",
+        "learner-notes"
+       ],
+       "learnerForm": "Bewarber",
+       "level": "beyond-A1",
+       "genderEvidence": "https://de.wiktionary.org/wiki/Bewerber (Genus m, Nominativ Plural Bewerber)",
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-tuer",
+       "german": "die Tür",
+       "plural": "die Türen",
+       "english": "door",
+       "pos": "noun",
+       "lemma": "Tür",
+       "sense": "door",
+       "origin": [
+        "dw-script"
+       ],
+       "genderEvidence": "https://de.wiktionary.org/wiki/Tür (Genus f, Nominativ Plural Türen)",
+       "home": "vocabulary"
+      },
+      {
+       "id": "vorbeikommen",
+       "german": "vorbeikommen",
+       "english": "to come by; to drop by",
+       "pos": "verb",
+       "lemma": "vorbeikommen",
+       "sense": "to-come-by",
+       "origin": [
+        "dw-script",
+        "learner-notes"
+       ],
+       "learnerForm": "vorbi",
+       "level": "beyond-A1",
+       "note": "komm doch erst mal vorbei: the vorbei goes to the end",
+       "home": "vocabulary"
+      },
+      {
+       "id": "immer-noch",
+       "german": "immer noch",
+       "english": "still",
+       "pos": "expression",
+       "lemma": "immer noch",
+       "sense": "still-continuing",
+       "origin": [
+        "dw-script",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-steckdose",
+       "german": "die Steckdose",
+       "plural": "die Steckdosen",
+       "english": "socket; power outlet",
+       "pos": "noun",
+       "lemma": "Steckdose",
+       "sense": "socket",
+       "origin": [
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "genderEvidence": "https://de.wiktionary.org/wiki/Steckdose (Genus f, Nominativ Plural Steckdosen)",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-lichtschalter",
+       "german": "der Lichtschalter",
+       "plural": "die Lichtschalter",
+       "english": "light switch",
+       "pos": "noun",
+       "lemma": "Lichtschalter",
+       "sense": "light-switch",
+       "origin": [
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "genderEvidence": "https://de.wiktionary.org/wiki/Lichtschalter (Genus m, Nominativ Plural Lichtschalter)",
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-heizung",
+       "german": "die Heizung",
+       "plural": "die Heizungen",
+       "english": "heating; radiator",
+       "pos": "noun",
+       "lemma": "Heizung",
+       "sense": "heating",
+       "origin": [
+        "learner-notes"
+       ],
+       "learnerForm": "die Heizuns",
+       "level": "beyond-A1",
+       "genderEvidence": "https://de.wiktionary.org/wiki/Heizung (Genus f, Nominativ Plural Heizungen)",
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-objekt",
+       "german": "das Objekt",
+       "plural": "die Objekte",
+       "english": "object (grammar)",
+       "pos": "noun",
+       "lemma": "Objekt",
+       "sense": "grammatical-object",
+       "origin": [
+        "dw-grammar-page",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "note": "Grammar term: Wen? Was? · usually in the accusative",
+       "level": "beyond-A1",
+       "genderEvidence": "DW grammar page gr-38306279 (das Objekt); https://de.wiktionary.org/wiki/Objekt (Genus n, Nominativ Plural Objekte)",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-nominativ",
+       "german": "der Nominativ",
+       "plural": "die Nominative",
+       "english": "nominative (grammar)",
+       "pos": "noun",
+       "lemma": "Nominativ",
+       "sense": "nominative-case",
+       "origin": [
+        "dw-grammar-page",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "note": "The subject's case: der/ein/kein, die/eine/keine, das/ein/kein, die/-/keine",
+       "level": "beyond-A1",
+       "genderEvidence": "DW grammar page gr-38306217 (der Nominativ); https://de.wiktionary.org/wiki/Nominativ (Genus m, Nominativ Plural Nominative)",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-akkusativ",
+       "german": "der Akkusativ",
+       "plural": "die Akkusative",
+       "english": "accusative (grammar)",
+       "pos": "noun",
+       "lemma": "Akkusativ",
+       "sense": "accusative-case",
+       "origin": [
+        "dw-grammar-page",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "learnerForm": "Akkusative",
+       "note": "Most objects: den/einen/keinen, die/eine/keine, das/ein/kein, die/-/keine",
+       "level": "beyond-A1",
+       "genderEvidence": "DW grammar page gr-38306279 (der Akkusativ); https://de.wiktionary.org/wiki/Akkusativ (Genus m, Nominativ Plural Akkusative)",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-fall-kasus",
+       "german": "der Fall",
+       "plural": "die Fälle",
+       "english": "case (grammar)",
+       "pos": "noun",
+       "lemma": "Fall",
+       "sense": "grammatical-case",
+       "origin": [
+        "dw-grammar-page"
+       ],
+       "note": "Also: der Kasus (die Kasus) · German has four: Nominativ, Akkusativ, …",
+       "level": "beyond-A1",
+       "genderEvidence": "DW grammar pages gr-38306217 and gr-38306279 (Fälle or Kasus); https://de.wiktionary.org/wiki/Fall (Genus m, Nominativ Plural Fälle)",
+       "home": "vocabulary"
+      },
+      {
+       "id": "ich-habe-ein-brillenetui-aber-keine-brille",
+       "german": "Ich habe ein Brillenetui, aber keine Brille.",
+       "english": "I have a glasses case, but no glasses.",
+       "pos": "expression",
+       "lemma": "Ich habe ein Brillenetui, aber keine Brille.",
+       "sense": "glasses-case-but-no-glasses",
+       "origin": [
+        "learner-notes",
+        "dw-exercises"
+       ],
+       "learnerError": {
+        "wrong": "Ich habe einen Brillenetui",
+        "why": "das Brillenetui is neuter: the accusative stays ein"
+       },
+       "home": "sentences"
       }
      ],
      "pendingEntries": [],

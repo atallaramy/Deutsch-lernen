@@ -60,7 +60,7 @@ All lines are from the DW E4 L3 grammar page.
   earlier: [Questions and statements](https://learngerman.dw.com/en/questions-and-statements/l-37337877/gr-38306265) (E4 L2)
 - VHS: [Themen und Grammatik A1](https://www.vhs-lernportal.de/wws/bin/4007530-4015506-1-dvv_grammatiklisten_a1.pdf),
   Lektion 1 (not studied): *Satzbau: Verbstellung in Aussagesätzen* · Lektion 5 (not studied yet): *Satzbau: Inversion*
-- Coming later: DW A1 E5 L3 *Sentence construction: subject*
+- The subject and its case: [Nominativ und Akkusativ](Nominativ-Akkusativ.md) (E5 L3)
 - See also: [Ja-/Nein-Fragen and W-Fragen](Ja-Nein-Fragen.md) · [man](man.md)
 
 ## Sentences cards

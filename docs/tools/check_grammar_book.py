@@ -12,6 +12,8 @@ Page conventions the check relies on (see Grammatik/README.md):
 - A table whose first column is "Person" is a conjugation table; each verb column must match Wiktionary.
 - Backticked keys under "## Sentences cards" must be live cards in ANKI/sentence-sources.json.
 - Every DW grammar page (gr-) in a studied lesson's snapshot must be linked from some topic page.
+- Every der/die/das word in a page's "German terms" line is in Grammatikbegriffe.md, whose first column
+  (synonyms split by " / ") lists the same words as the cheatsheet Spickzettel/Grammatikbegriffe.md.
 """
 
 from __future__ import annotations
@@ -29,11 +31,14 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[2]
 BOOK = ROOT / "Grammatik"
 SNAPSHOT = BOOK / "Materials" / "wiktionary-snapshot.json"
+GLOSSARY = "Grammatikbegriffe.md"
+CHEATSHEET = ROOT / "Spickzettel" / GLOSSARY
 sys.path.insert(0, str(ROOT / "ANKI"))
 
 import deck_data  # noqa: E402
 
 LINK_RE = re.compile(r"\[([^\]]*)\]\((<[^>]*>|[^)\s]*)\)")
+TERMS_RE = re.compile(r"^German terms.*?(?=\n\s*\n|\Z)", re.S | re.M)
 SOURCE_RE = re.compile(r"^(DW|VHS) (A1|A2|B1) (?:E(\d+) )?L(\d+) · (.+)$")
 # Source label kind → snapshot source id (DW ids) or id suffix (VHS ids such as vhs-a1-filmskripte).
 SOURCE_KINDS = {
@@ -58,7 +63,8 @@ class Table:
 class Report:
     errors: list[str] = field(default_factory=list)
     counts: dict[str, int] = field(default_factory=lambda: {"pages": 0, "quotes": 0, "learner quotes": 0,
-                                                             "verb forms": 0, "card keys": 0, "links": 0})
+                                                             "verb forms": 0, "card keys": 0, "links": 0,
+                                                             "grammar words": 0})
 
 
 def plain(cell: str) -> str:
@@ -95,6 +101,30 @@ def tables(page: str) -> list[Table]:
 def section_text(page: str, title: str) -> str:
     match = re.search(rf"^## {re.escape(title)}\n(.*?)(?=^## |\Z)", page, re.S | re.M)
     return match.group(1) if match else ""
+
+
+def listed_terms(page: str) -> set[str]:
+    """Grammar words in the first column of a page's tables."""
+    return {term.strip() for table in tables(page) for row in table.rows for term in plain(row[0]).split(" / ")}
+
+
+def german_terms(page: str) -> set[str]:
+    """The der/die/das words in a topic page's "German terms" line (other italics there are examples)."""
+    match = TERMS_RE.search(page)
+    terms = (" ".join(term.split()) for term in re.findall(r"\*([^*]+)\*", match.group(0))) if match else ()
+    return {term for term in terms if re.match(r"(der|die|das) ", term)}
+
+
+def check_cheatsheet(glossary: set[str], cheatsheet: Path, report: Report) -> None:
+    where = f"Spickzettel/{cheatsheet.name}"
+    if not cheatsheet.exists():
+        report.errors.append(f"{where}: missing")
+        return
+    listed = listed_terms(cheatsheet.read_text(encoding="utf-8"))
+    for term in sorted(glossary - listed):
+        report.errors.append(f"{where}: missing grammar word {term!r} (in Grammatik/{GLOSSARY})")
+    for term in sorted(listed - glossary):
+        report.errors.append(f"{where}: grammar word {term!r} is not in Grammatik/{GLOSSARY}")
 
 
 def lesson_labels(data: deck_data.Data) -> dict[str, str]:
@@ -209,7 +239,7 @@ def check_grammar_pages(data: deck_data.Data, linked: set[str], report: Report) 
 
 
 def check(book: Path = BOOK, data: deck_data.Data | None = None, snapshot: Path | None = None,
-          grammar_pages: bool = True) -> Report:
+          grammar_pages: bool = True, cheatsheet: Path = CHEATSHEET) -> Report:
     data = data or deck_data.load()
     snapshot = snapshot or book / "Materials" / "wiktionary-snapshot.json"
     verbs = json.loads(snapshot.read_text(encoding="utf-8")).get("verbs", {}) if snapshot.exists() else {}
@@ -217,11 +247,15 @@ def check(book: Path = BOOK, data: deck_data.Data | None = None, snapshot: Path 
     report = Report()
     index = (book / "README.md").read_text(encoding="utf-8") if (book / "README.md").exists() else ""
     linked: set[str] = set()
+    glossary_path = book / GLOSSARY
+    glossary = listed_terms(glossary_path.read_text(encoding="utf-8")) if glossary_path.exists() else set()
+    report.counts["grammar words"] = len(glossary)
     for page_path in sorted(book.rglob("*.md")):
         if "Materials" in page_path.relative_to(book).parts:
             continue
         page, where = page_path.read_text(encoding="utf-8"), str(page_path.relative_to(book))
-        linked |= set(re.findall(r"/(gr-\d+)\b", " ".join(target for _, target in LINK_RE.findall(page))))
+        if page_path != glossary_path:  # its DW links stand in for topic pages not written yet
+            linked |= set(re.findall(r"/(gr-\d+)\b", " ".join(target for _, target in LINK_RE.findall(page))))
         report.counts["pages"] += 1
         if page_path.name != "README.md" and where not in {urllib.parse.unquote(t.strip("<>")) for _, t in LINK_RE.findall(index)}:
             report.errors.append(f"{where}: not listed in Grammatik/README.md")
@@ -234,6 +268,10 @@ def check(book: Path = BOOK, data: deck_data.Data | None = None, snapshot: Path 
                 check_conjugation(table, verbs, where, report)
         check_links(page, page_path, where, report)
         check_cards(page, cards, where, report)
+        for term in sorted(german_terms(page) - glossary):
+            report.errors.append(f"{where}: grammar word {term!r} is missing from {GLOSSARY}")
+    if glossary_path.exists():
+        check_cheatsheet(glossary, cheatsheet, report)
     if grammar_pages:
         check_grammar_pages(data, linked, report)
     return report

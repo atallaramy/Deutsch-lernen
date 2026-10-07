@@ -42,13 +42,14 @@
 |---|---|
 | `Grammatik/README.md` | Index by level and topic, the *coming* list and the page conventions. |
 | `Grammatik/<level>/<Topic>.md` | One page per studied topic. |
+| `Grammatik/Grammatikbegriffe.md` | Every grammar word from the studied lessons (term, English, the page that explains it); the last page of the PDF. |
 | `Grammatik/Materials/wiktionary-snapshot.json` | `verbs`: de.wiktionary present-tense tables, written by `check_grammar_book.py fetch`. `evidence`: one-off checks (DW grammar pages from later lessons, numbers, declension tables, genders, register labels). |
 | `Grammatik/Grammatik.pdf` | The whole book in one printable, clickable PDF (contents, bookmarks, a box for *My rule in my own words*). Built, never edited by hand. |
-| `Grammatik/Materials/pdf-build.json` | Written by `build_grammar_pdf.py`: fingerprint of the builder, index and pages, the PDF's SHA-256, page order and tool versions. The tests compare it with the current pages. |
-| `docs/tools/build_grammar_pdf.py` | Builds the PDF with pandoc (Markdown → HTML) and headless Chrome (HTML → PDF), offline. Refuses while the grammar check has errors; builds twice and requires identical bytes (Chrome's build time is replaced by the newest *checked* date). `--check` reports whether the PDF is current. Tested in `ANKI/tests/test_grammar_book.py`. |
-| `docs/tools/check_grammar_book.py` | Offline check. Quotes in *Source* tables must be verbatim in the named lesson snapshot; *Wrong … From* rows linking to notes must quote them; *Person* tables must match the verb snapshot; card keys must be live; links must resolve; every page must be in the index; every DW grammar page of a studied lesson must be linked from a topic page. Tested in `ANKI/tests/test_grammar_book.py`. |
+| `Grammatik/Materials/pdf-build.json` | Written by `build_grammar_pdf.py`: fingerprint of the builder, index, pages and cheatsheet, the SHA-256 of both PDFs, page order and tool versions. The tests compare it with the current pages. |
+| `docs/tools/build_grammar_pdf.py` | Builds the book PDF and the one-page cheatsheet `Spickzettel/Grammatikbegriffe.pdf` with pandoc (Markdown → HTML) and headless Chrome (HTML → PDF), offline. Refuses while the grammar check has errors or the cheatsheet needs a second page; builds twice and requires identical bytes (Chrome's build time is replaced by the newest *checked* date). `--check` reports whether the PDF is current. Tested in `ANKI/tests/test_grammar_book.py`. |
+| `docs/tools/check_grammar_book.py` | Offline check. Quotes in *Source* tables must be verbatim in the named lesson snapshot; *Wrong … From* rows linking to notes must quote them; *Person* tables must match the verb snapshot; card keys must be live; links must resolve; every page must be in the index; every DW grammar page of a studied lesson must be linked from a topic page; every der/die/das word in a page's *German terms* line must be in `Grammatikbegriffe.md`, which must list the same words as the cheatsheet. Tested in `ANKI/tests/test_grammar_book.py`. |
 
-`Spickzettel/` holds the learner's own cheatsheets. No tool reads or writes it.
+`Spickzettel/` holds the learner's own cheatsheets. Tools touch only `Grammatikbegriffe.md` (read by the grammar check) and `Grammatikbegriffe.pdf` (written by `build_grammar_pdf.py`).
 
 ## Capture entry (schema 3)
 

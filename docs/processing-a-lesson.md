@@ -144,14 +144,20 @@ The rules are in `AGENTS.md` → *Grammar book*; the layout is in
 - Mistakes: quote your new errors exactly from `Materials/mistakes.md` (or your
   notes) and link that file.
 - Cards: add the lesson's new Sentences card keys.
-- Leave "My rule in my own words" and `Spickzettel/` to you.
+- Grammar words: add the lesson's new grammar terms to `Grammatik/Grammatikbegriffe.md`
+  (term, English, the topic page; a DW link until the topic page exists) and to
+  `Spickzettel/Grammatikbegriffe.md` (term, English, a short example). The grammar
+  check fails while the two list different words.
+- Leave "My rule in my own words" and the rest of `Spickzettel/` to you.
 - A new verb in a verb table needs `python3 docs/tools/check_grammar_book.py fetch`
   (network) first.
 - Run `python3 docs/tools/check_grammar_book.py` and fix every error. If a grammar
   check shows a card is wrong, fix the card through steps 5–6.
-- Rebuild the PDF: `python3 docs/tools/build_grammar_pdf.py`. It refuses while the
-  grammar check has errors, and the tests fail if the PDF lags the pages. A new
-  topic page joins the PDF by being listed in the index's *studied* table.
+- Rebuild the PDFs: `python3 docs/tools/build_grammar_pdf.py` (the book and the
+  one-page cheatsheet `Spickzettel/Grammatikbegriffe.pdf`). It refuses while the
+  grammar check has errors or the cheatsheet needs a second page, and the tests
+  fail if a PDF lags its pages. A new topic page joins the PDF by being listed in
+  the index's *studied* table.
 
 ## 8. Extra tasks (DW)
 
