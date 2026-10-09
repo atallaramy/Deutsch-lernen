@@ -1,8 +1,8 @@
 {
   "deck": "German A1 — Articles",
-  "revision": "2026-10-07T17:19:00Z",
+  "revision": "2026-10-09T09:34:00Z",
   "qualityPolicy": "Typed der/die/das for singular nouns. Plural and dependable gender patterns after answering. No audio.",
-  "cards": 300,
+  "cards": 303,
   "sources": [
     {
       "id": "dw-a1-e0-l1",
@@ -304,6 +304,19 @@
       }
     },
     {
+      "id": "dw-a1-e5-l4",
+      "course": "dw-nicos-weg",
+      "title": "Das Auto ist rot",
+      "url": "https://learngerman.dw.com/en/das-auto-ist-rot/l-37401537",
+      "notesFile": "DW Deutsch lernen/A1/05_things/04_Das Auto ist rot/Das Auto ist rot.md",
+      "capturedEntries": 25,
+      "cards": {
+        "vocabulary": 24,
+        "articles": 5,
+        "sentences": 1
+      }
+    },
+    {
       "id": "vhs-a1-l02",
       "course": "vhs-lernportal",
       "title": "Lektion 2 · Meine Familie und ich",
@@ -332,9 +345,9 @@
   ],
   "packages": {
     "ANKI/articles.apkg": {
-      "notes": 300,
-      "cards": 300,
-      "sha256": "047d3c429583a5bf129aea1c1203d5bf8f87861be63779beabb1992e6ebfad2d"
+      "notes": 303,
+      "cards": 303,
+      "sha256": "2e00625cfd44f76c7718a1fe26e9faf08245b5f8dd66774fe36a487ad1313a79"
     }
   }
 }

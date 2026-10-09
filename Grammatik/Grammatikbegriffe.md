@@ -1,6 +1,6 @@
 # Grammatikbegriffe: grammar words
 
-Every German grammar word from my studied lessons · checked 2026-10-07
+Every German grammar word from my studied lessons · checked 2026-10-09
 
 Words that mean the same share a row, split by ` / `. Each word has its English and a
 short description of what it is, in my lessons' own words where they give one; its page
@@ -22,6 +22,7 @@ words, with a short example each, are on my one-page cheatsheet
 | *das Indefinitpronomen* | indefinite pronoun: Indefinite pronouns refer to people or things that are indeterminate. They are used when one does not know, or does not wish to say exactly who, or how many, are doing something. | [man](A1/man.md) |
 | *der Possessivartikel* | possessive article: shows who something belongs to: *mein, dein, Ihr* | [Possessivartikel](A1/Possessivartikel.md) |
 | *das Fragewort* | question word: At the beginning of a W-question there is a question word that usually begins with the letter *W*. | [W-Fragen](A1/W-Fragen.md) |
+| *das Adjektiv* | adjective: Adjectives are used to describe people or things. | [Adjektive nach sein](A1/Adjektive-nach-sein.md) |
 | *die Präposition* | preposition: Prepositions are usually short words that connect words or groups of words together. They describe the relationship between people or things. | [wohnen in](A1/wohnen-in.md) |
 
 ## Nouns

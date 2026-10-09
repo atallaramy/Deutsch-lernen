@@ -1,5 +1,5 @@
 {
- "revision": "2026-10-07T17:19:00Z",
+ "revision": "2026-10-09T09:34:00Z",
  "entries": {
   "dw-a1-e0-l1:auch": [
    "vocab:auch|also"
@@ -3039,6 +3039,86 @@
   ],
   "dw-a1-e5-l3:ich-habe-ein-brillenetui-aber-keine-brille": [
    "sentence:glasses-case-but-no-glasses"
+  ],
+  "dw-a1-e5-l4:alt": [
+   "vocab:alt|old"
+  ],
+  "dw-a1-e5-l4:anderer-andere-anderes": [
+   "vocab:anderer|other"
+  ],
+  "dw-a1-e5-l4:billig": [
+   "vocab:billig|cheap"
+  ],
+  "dw-a1-e5-l4:da-sein": [
+   "vocab:da sein|to-be-there"
+  ],
+  "dw-a1-e5-l4:das-fahrrad": [
+   "article:Fahrrad|n",
+   "vocab:Fahrrad|bicycle"
+  ],
+  "dw-a1-e5-l4:der-fahrradladen": [
+   "article:Fahrradladen|m",
+   "vocab:Fahrradladen|bicycle-shop"
+  ],
+  "dw-a1-e5-l4:falsch": [
+   "vocab:falsch|wrong"
+  ],
+  "dw-a1-e5-l4:gelb": [
+   "vocab:gelb|yellow"
+  ],
+  "dw-a1-e5-l4:gross": [
+   "vocab:groß|big"
+  ],
+  "dw-a1-e5-l4:klein": [
+   "vocab:klein|small"
+  ],
+  "dw-a1-e5-l4:etwas-jemanden-lieben": [
+   "vocab:lieben|to-love"
+  ],
+  "dw-a1-e5-l4:neu": [
+   "vocab:neu|new"
+  ],
+  "dw-a1-e5-l4:rot": [
+   "vocab:rot|red"
+  ],
+  "dw-a1-e5-l4:teuer": [
+   "vocab:teuer|expensive"
+  ],
+  "dw-a1-e5-l4:das-t-shirt": [
+   "article:T-Shirt|n",
+   "vocab:T-Shirt|t-shirt"
+  ],
+  "dw-a1-e5-l4:weiss": [
+   "vocab:weiß|white"
+  ],
+  "dw-a1-e5-l4:du-bist-dran": [
+   "vocab:Du bist dran.|your-turn"
+  ],
+  "dw-a1-e5-l4:glauben": [
+   "vocab:glauben|to-believe"
+  ],
+  "dw-a1-e5-l4:wirklich": [
+   "vocab:wirklich|really"
+  ],
+  "dw-a1-e5-l4:es-tut-mir-leid": [
+   "vocab:Es tut mir leid.|im-sorry"
+  ],
+  "dw-a1-e5-l4:manche": [
+   "vocab:manche|some"
+  ],
+  "dw-a1-e5-l4:das-gegenteil": [
+   "article:Gegenteil|n",
+   "vocab:Gegenteil|opposite"
+  ],
+  "dw-a1-e5-l4:das-adjektiv": [
+   "article:Adjektiv|n",
+   "vocab:Adjektiv|adjective"
+  ],
+  "dw-a1-e5-l4:der-die-bekannte": [
+   "vocab:Bekannte|acquaintance"
+  ],
+  "dw-a1-e5-l4:ich-sehe-was-was-du-nicht-siehst": [
+   "sentence:i-spy-red-and-new"
   ],
   "vhs-a1-l02:die-familie": [
    "article:Familie|f",

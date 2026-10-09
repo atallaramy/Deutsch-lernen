@@ -40,6 +40,18 @@
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-10-03"
   },
+  "Adjektiv": {
+   "url": "https://en.wiktionary.org/wiki/Adjektiv#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "adjective"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-09"
+  },
   "Adresse": {
    "url": "https://en.wiktionary.org/wiki/Adresse#German",
    "status": 200,
@@ -441,6 +453,30 @@
    ],
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-27"
+  },
+  "Bekannte": {
+   "url": "https://en.wiktionary.org/wiki/Bekannte#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "female equivalent of Bekannter: female acquaintance, female friend"
+    },
+    {
+     "pos": "Noun",
+     "text": "inflection of Bekannter:\nstrong nominative/accusative plural\nweak nominative singular"
+    },
+    {
+     "pos": "Noun",
+     "text": "strong nominative/accusative plural"
+    },
+    {
+     "pos": "Noun",
+     "text": "weak nominative singular"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-09"
   },
   "Belgien": {
    "url": "https://en.wiktionary.org/wiki/Belgien#German",
@@ -1192,6 +1228,18 @@
    ],
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-30"
+  },
+  "Gegenteil": {
+   "url": "https://en.wiktionary.org/wiki/Gegenteil#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "opposite (contrary thing)"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-09"
   },
   "Genus": {
    "url": "https://en.wiktionary.org/wiki/Genus#German",
@@ -5450,6 +5498,30 @@
    ],
    "fetchedOn": "2026-09-25"
   },
+  "du bist dran": {
+   "url": "https://www.dict.cc/?s=du+bist+dran",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "",
+     "text": "It is your turn."
+    },
+    {
+     "pos": "",
+     "text": "It's your shot."
+    },
+    {
+     "pos": "",
+     "text": "It's your turn."
+    },
+    {
+     "pos": "",
+     "text": "It's your move."
+    }
+   ],
+   "dictionary": "dict.cc",
+   "fetchedOn": "2026-10-09"
+  },
   "dürfen": {
    "url": "https://en.wiktionary.org/wiki/d%C3%BCrfen#German",
    "status": 200,
@@ -5746,6 +5818,18 @@
    ],
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-10-01"
+  },
+  "es tut mir leid": {
+   "url": "https://en.wiktionary.org/wiki/es_tut_mir_leid#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Phrase",
+     "text": "Sorry."
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-09"
   },
   "etwas": {
    "url": "https://en.wiktionary.org/wiki/etwas#German",
@@ -6204,6 +6288,30 @@
    "definitions": [],
    "fetchedOn": "2026-09-25"
   },
+  "glauben": {
+   "url": "https://en.wiktionary.org/wiki/glauben#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Verb",
+     "text": "to believe something (to consider true)"
+    },
+    {
+     "pos": "Verb",
+     "text": "to believe in (to think something exists, or have confidence in someone’s ability) .mw-parser-output .object-usage-tag{font-style:italic}.mw-parser-output .deprecated{color:var(--wikt-palette-grey-lime-8,olivedrab)}[with an (+ accusative) ‘someone/something’]"
+    },
+    {
+     "pos": "Verb",
+     "text": "to believe (to trust in someone's statement) [with dative ‘someone’ and accusative ‘something’]"
+    },
+    {
+     "pos": "Verb",
+     "text": "to think, to believe [with clause or dass (+ clause) or zu (+ infinitive) ‘that ...’]"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-09"
+  },
   "groß": {
    "url": "https://en.wiktionary.org/wiki/gro%C3%9F#German",
    "status": 200,
@@ -6513,6 +6621,22 @@
    ],
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-27"
+  },
+  "ich sehe was, was du nicht siehst": {
+   "url": "https://en.wiktionary.org/wiki/ich_sehe_was%2C_was_du_nicht_siehst#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Phrase",
+     "text": "I spy with my little eye; the phrase used in the guessing game “I spy” (in the German version, the hint is the colour of the object)"
+    },
+    {
+     "pos": "Noun",
+     "text": "I spy"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-09"
   },
   "ihr": {
    "url": "https://en.wiktionary.org/wiki/ihr#German",
@@ -7178,6 +7302,18 @@
    ],
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-27"
+  },
+  "manch": {
+   "url": "https://en.wiktionary.org/wiki/manch#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Pronoun",
+     "text": "many a; many; some"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-09"
   },
   "mein": {
    "url": "https://en.wiktionary.org/wiki/mein#German",
@@ -9181,6 +9317,22 @@
     }
    ],
    "fetchedOn": "2026-09-25"
+  },
+  "wirklich": {
+   "url": "https://en.wiktionary.org/wiki/wirklich#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Adjective",
+     "text": "real"
+    },
+    {
+     "pos": "Adverb",
+     "text": "really, actually"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-09"
   },
   "wissen": {
    "url": "https://en.wiktionary.org/wiki/wissen#German",

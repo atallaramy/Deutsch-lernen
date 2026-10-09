@@ -3262,6 +3262,70 @@
   },
   "Auto|car": {
    "cue": "car"
+  },
+  "neu|new": {
+   "context": {
+    "lesson": "dw-a1-e5-l4",
+    "source": "exercises",
+    "text": "Das Auto ist alt. – Das Fahrrad ist neu.",
+    "target": "neu"
+   }
+  },
+  "billig|cheap": {
+   "context": {
+    "lesson": "dw-a1-e5-l4",
+    "source": "exercises",
+    "text": "Die Wohnung ist billig. – Das Haus ist teuer.",
+    "target": "billig"
+   }
+  },
+  "rot|red": {
+   "context": {
+    "lesson": "dw-a1-e5-l4",
+    "source": "exercises",
+    "text": "Das Auto ist rot.",
+    "target": "rot"
+   }
+  },
+  "weiß|white": {
+   "cue": "white (the colour)",
+   "note": "Same spelling: ich weiß = I know (wissen)."
+  },
+  "anderer|other": {
+   "cue": "other; others — all three forms (m, f, n)"
+  },
+  "glauben|to-believe": {
+   "context": {
+    "lesson": "dw-a1-e5-l4",
+    "source": "script",
+    "text": "Ich glaube nicht …",
+    "target": "glaube"
+   }
+  },
+  "wirklich|really": {
+   "cue": "really; actually (not the casual echt)"
+  },
+  "Es tut mir leid.|im-sorry": {
+   "cue": "I'm sorry — regret or sympathy (not Entschuldigung)"
+  },
+  "manche|some": {
+   "context": {
+    "lesson": "dw-a1-e5-l4",
+    "source": "exercises",
+    "text": "Manche Fahrräder im Fahrradladen von Yara sind billig.",
+    "target": "Manche"
+   }
+  },
+  "Gegenteil|opposite": {
+   "context": {
+    "lesson": "dw-a1-e5-l4",
+    "source": "exercises",
+    "text": "Wähl ein Wort und dann das Gegenteil aus.",
+    "target": "Gegenteil"
+   }
+  },
+  "Du bist dran.|your-turn": {
+   "cue": "It's your turn. (informal)"
   }
  }
 }

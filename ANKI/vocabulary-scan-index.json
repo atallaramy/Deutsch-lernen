@@ -1,8 +1,8 @@
 {
   "deck": "German A1 — Vocabulary",
-  "revision": "2026-10-07T17:19:00Z",
+  "revision": "2026-10-09T09:34:00Z",
   "qualityPolicy": "One typed German word or fixed expression per card, in a verified context where one exists. No audio.",
-  "cards": 763,
+  "cards": 779,
   "sources": [
     {
       "id": "dw-a1-e0-l1",
@@ -304,6 +304,19 @@
       }
     },
     {
+      "id": "dw-a1-e5-l4",
+      "course": "dw-nicos-weg",
+      "title": "Das Auto ist rot",
+      "url": "https://learngerman.dw.com/en/das-auto-ist-rot/l-37401537",
+      "notesFile": "DW Deutsch lernen/A1/05_things/04_Das Auto ist rot/Das Auto ist rot.md",
+      "capturedEntries": 25,
+      "cards": {
+        "vocabulary": 24,
+        "articles": 5,
+        "sentences": 1
+      }
+    },
+    {
       "id": "vhs-a1-l02",
       "course": "vhs-lernportal",
       "title": "Lektion 2 · Meine Familie und ich",
@@ -332,9 +345,9 @@
   ],
   "packages": {
     "ANKI/vocabulary.apkg": {
-      "notes": 763,
-      "cards": 763,
-      "sha256": "dd0db9868b52a10bf0391ce135c0db40bc42deac566d51b14eb55375e72a9294"
+      "notes": 779,
+      "cards": 779,
+      "sha256": "a1ed24e8577f9005d98593cf5f5371b0c93adc20165df39fca07cc3c45a0d38c"
     }
   }
 }

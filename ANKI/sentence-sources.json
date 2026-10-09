@@ -2608,6 +2608,71 @@
    },
    "covers": [],
    "note": "On the phone, hier + your name = this is … speaking."
+  },
+  {
+   "key": "i-spy-red-and-new",
+   "kind": "production",
+   "lesson": "dw-a1-e5-l4",
+   "skill": "game phrase + adjective after sein",
+   "scene": "Play “I spy with my little eye”: you see something red and new.",
+   "answer": "Ich sehe was, was du nicht siehst, und das ist rot und neu.",
+   "answerSource": {
+    "lesson": "dw-a1-e5-l4",
+    "source": "exercises"
+   },
+   "covers": [
+    "dw-a1-e5-l4:ich-sehe-was-was-du-nicht-siehst"
+   ],
+   "note": "ich sehe · du siehst (e → ie)"
+  },
+  {
+   "key": "what-is-the-car-like",
+   "kind": "production",
+   "lesson": "dw-a1-e5-l4",
+   "skill": "asking what a thing is like: Wie ist …?",
+   "scene": "Ask what the car is like (colour, size, price …).",
+   "answer": "Wie ist das Auto?",
+   "answerSource": {
+    "lesson": "dw-a1-e5-l4",
+    "source": "exercises"
+   },
+   "covers": [],
+   "note": "Answer with sein + adjective: Das Auto ist rot."
+  },
+  {
+   "key": "is-the-car-old-no-new",
+   "kind": "response",
+   "lesson": "dw-a1-e5-l4",
+   "skill": "adjective pairs: alt – neu",
+   "scene": "The car is not old. Answer with the opposite.",
+   "prompt": {
+    "lesson": "dw-a1-e5-l4",
+    "source": "exercises",
+    "text": "Ist das Auto alt?"
+   },
+   "answer": "Nein, das Auto ist neu.",
+   "answerSource": {
+    "lesson": "dw-a1-e5-l4",
+    "source": "exercises"
+   },
+   "covers": [],
+   "note": "Learn adjectives in pairs: alt – neu · groß – klein · billig – teuer"
+  },
+  {
+   "key": "es-gibt-keinen-fahrradladen",
+   "kind": "completion",
+   "lesson": "dw-a1-e5-l4",
+   "skill": "es gibt + accusative: keinen",
+   "scene": "der Fahrradladen — after es gibt, the accusative. Type the missing word.",
+   "prompt": {
+    "lesson": "dw-a1-e5-l4",
+    "source": "script",
+    "text": "Es gibt hier wirklich keinen Fahrradladen.",
+    "target": "keinen"
+   },
+   "answer": "keinen",
+   "covers": [],
+   "note": "Hier ist kein Fahrradladen. (sein: nominative) · Es gibt … keinen Fahrradladen. (accusative)"
   }
  ]
 }

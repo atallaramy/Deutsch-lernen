@@ -1,0 +1,435 @@
+{
+ "description": "Official source text captured by ANKI/harvest_sources.py for offline context verification.",
+ "harvestedOn": "2026-10-08",
+ "sources": [
+  {
+   "id": "exercises",
+   "kind": "dw-exercises",
+   "url": "https://learngerman.dw.com/en/das-auto-ist-rot/l-37401537",
+   "lessonUrl": "https://learngerman.dw.com/en/das-auto-ist-rot/l-37401537",
+   "vocabulary": {
+    "url": "https://learngerman.dw.com/en/das-auto-ist-rot/l-37401537/lv",
+    "items": [
+     {
+      "id": 37386992,
+      "german": "alt",
+      "english": "old",
+      "forms": "älter, am ältesten"
+     },
+     {
+      "id": 37396804,
+      "german": "anderer, andere, anderes",
+      "english": "other; others",
+      "forms": ""
+     },
+     {
+      "id": 37498517,
+      "german": "billig",
+      "english": "cheap; inexpensive",
+      "forms": "billiger, am billigsten"
+     },
+     {
+      "id": 40013447,
+      "german": "da sein",
+      "english": "to be there; to be present",
+      "forms": "ist, war, ist gewesen"
+     },
+     {
+      "id": 37369020,
+      "german": "das Fahrrad, die Fahrräder",
+      "english": "bicycle",
+      "forms": "Kurzform: das Rad, die Räder"
+     },
+     {
+      "id": 37395390,
+      "german": "der Fahrradladen, die Fahrradläden",
+      "english": "bicycle store",
+      "forms": ""
+     },
+     {
+      "id": 37495267,
+      "german": "falsch",
+      "english": "wrong",
+      "forms": ""
+     },
+     {
+      "id": 37764995,
+      "german": "gelb",
+      "english": "yellow",
+      "forms": ""
+     },
+     {
+      "id": 37498524,
+      "german": "groß",
+      "english": "big; tall",
+      "forms": "größer, am größten"
+     },
+     {
+      "id": 37526560,
+      "german": "klein",
+      "english": "small",
+      "forms": "kleiner, am kleinsten"
+     },
+     {
+      "id": 37398580,
+      "german": "etwas/jemanden lieben",
+      "english": "to love something/somebody; to like something/somebody",
+      "forms": "liebt, liebte, hat geliebt"
+     },
+     {
+      "id": 37500165,
+      "german": "neu",
+      "english": "new",
+      "forms": "neuer, am neusten/am neuesten"
+     },
+     {
+      "id": 37500211,
+      "german": "rot",
+      "english": "red",
+      "forms": ""
+     },
+     {
+      "id": 37434323,
+      "german": "teuer",
+      "english": "expensive",
+      "forms": "teurer, am teuersten"
+     },
+     {
+      "id": 37500234,
+      "german": "das T-Shirt, die T-Shirts",
+      "english": "t-shirt",
+      "forms": ""
+     },
+     {
+      "id": 37500243,
+      "german": "weiß",
+      "english": "white",
+      "forms": ""
+     }
+    ]
+   },
+   "exercises": [
+    {
+     "id": "e-37404844",
+     "url": "https://learngerman.dw.com/en/adjectives-and-their-antonyms-1/l-37401537/e-37404844",
+     "title": "Adjectives and their antonyms (1)",
+     "texts": [
+      "groß",
+      "neu",
+      "teuer",
+      "Wähl ein Wort und dann das Gegenteil aus.",
+      "Always learn adjectives in pairs.",
+      "klein",
+      "alt",
+      "billig"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37404931",
+     "url": "https://learngerman.dw.com/en/adjectives-and-their-antonyms-2/l-37401537/e-37404931",
+     "title": "Adjectives and their antonyms (2)",
+     "texts": [
+      "klein",
+      "teuer",
+      "neu",
+      "Yara ist die Tante von Nico. Sie hat einen Fahrradladen. Der Fahrradladen von Yara ist nicht groß. Er ist #ps#. Yara liebt Fahrräder. Manche Fahrräder im Fahrradladen von Yara sind billig. Andere Fahrräder sind #ps#. Yara hat zwei Fahrräder. Ein Fahrrad ist alt. Das andere ist #ps#.",
+      "Welches Wort passt wo?",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37438501",
+     "url": "https://learngerman.dw.com/en/describing-how-objects-look-1/l-37401537/e-37438501",
+     "title": "Describing how objects look (1)",
+     "texts": [
+      "Beispiel:\nIst das Handy von Nico alt?\nNein, das Handy von Nico ist neu.",
+      "Nein",
+      "das",
+      "Fahrrad",
+      "von",
+      "Yara",
+      "ist",
+      "neu",
+      "Nein",
+      "das",
+      "T-Shirt",
+      "von",
+      "Nico",
+      "ist",
+      "groß",
+      "Nein",
+      "der",
+      "Computer",
+      "von",
+      "Lisa",
+      "ist",
+      "teuer",
+      "#ps#, #ps# #pm# #ps# #ps# #ps# #ps#.",
+      "Ist das Fahrrad von Yara alt?",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "#ps#, #ps# #pm# #ps# #ps# #ps# #ps#.",
+      "Ist das T-Shirt von Nico klein?",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "#ps#, #ps# #pm# #ps# #ps# #ps# #ps#.",
+      "Ist der Computer von Lisa billig?",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37438566",
+     "url": "https://learngerman.dw.com/en/describing-how-objects-look-2/l-37401537/e-37438566",
+     "title": "Describing how objects look (2)",
+     "texts": [
+      "Yara hat ein Fahrrad. Ist das Fahrrad von Yara alt und billig?",
+      "Nein, das Fahrrad …",
+      "Und das T-Shirt von Nico. Ist das T-Shirt von Nico klein und neu?",
+      "Nein, das T-Shirt …",
+      "Und der Computer von Lisa. Ist der Computer von Lisa billig und klein?",
+      "Nein, der Computer …"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37404594",
+     "url": "https://learngerman.dw.com/en/describing-objects-adjectives/l-37401537/e-37404594",
+     "title": "Describing objects: Adjectives",
+     "texts": [
+      "rot, weiß, groß, klein, alt, neu, billig, teuer",
+      "Das Auto ist rot.",
+      "Das T-Shirt ist groß.",
+      "Das T-Shirt ist neu.",
+      "Das Fahrrad ist teuer.",
+      "Wie ist das Auto?",
+      "Wie ist das T-Shirt?",
+      "Wie ist das T-Shirt?",
+      "Wie ist das Fahrrad?"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37438340",
+     "url": "https://learngerman.dw.com/en/describing-objects/l-37401537/e-37438340",
+     "title": "Describing objects",
+     "texts": [
+      "Ist das Auto alt?",
+      "Nein, das Auto ist neu.",
+      "Ist das Fahrrad teuer?",
+      "Ja, das Fahrrad ist teuer."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37402108",
+     "url": "https://learngerman.dw.com/en/i-spy-with-my-little-eye-1/l-37401537/e-37402108",
+     "title": "\"I spy with my little eye\" (1)",
+     "texts": [
+      "Lisa \"sieht\" ein Haus.",
+      "Das Haus ist rot.",
+      "Nico \"sieht\" auch ein Haus.",
+      "Das Haus ist groß.",
+      "Was \"sieht\" Lisa?",
+      "Wie ist das Haus?",
+      "Was \"sieht\" Nico?",
+      "Wie ist das Haus?"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37969550",
+     "url": "https://learngerman.dw.com/en/i-spy-with-my-little-eye-2/l-37401537/e-37969550",
+     "title": "\"I spy with my little eye\" (2)",
+     "texts": [
+      "Deutschkurse | Nicos Weg | A1 E05 | A1_E05_L4_S5_Foto4",
+      "Deutschkurse | Nicos Weg | A1_E2_L4_Preisschild_Handy_406282",
+      "Ich sehe was, was du nicht siehst, und das ist rot und neu.",
+      "Ich sehe was, was du nicht siehst, und das ist groß und teuer."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37438667",
+     "url": "https://learngerman.dw.com/en/nico-is-learning-german-what-do-you-not-have/l-37401537/e-37438667",
+     "title": "Nico is learning German: What do you (not) have?",
+     "texts": [
+      "Hast du ein Auto?",
+      "Hast du einen Computer?",
+      "Hast du eine Brille?",
+      "Hast du ein Handy?",
+      "Ist das Handy alt oder neu?"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37438454",
+     "url": "https://learngerman.dw.com/en/questioning-the-properties-of-objects/l-37401537/e-37438454",
+     "title": "Questioning the properties of objects",
+     "texts": [
+      "Sortier die Fragen.",
+      "Ist das Fahrrad alt?",
+      "Sortier die Fragen.",
+      "Ist der Computer teuer?"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37401777",
+     "url": "https://learngerman.dw.com/en/the-search/l-37401537/e-37401777",
+     "title": "The search",
+     "texts": [
+      "Sie sind auf der Straße.",
+      "Sie suchen den Fahrradladen von Yara.",
+      "Wo sind Lisa und Nico?",
+      "Was suchen Lisa und Nico?"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37438597",
+     "url": "https://learngerman.dw.com/en/the-verb-haben/l-37401537/e-37438597",
+     "title": "The verb \"haben\"",
+     "texts": [
+      "habe",
+      "hast",
+      "hat",
+      "haben",
+      "habt",
+      "haben",
+      "Was passt zusammen? Ordne zu.",
+      "ich",
+      "du",
+      "er/sie/es",
+      "wir",
+      "ihr",
+      "sie/Sie"
+     ],
+     "vocabularyTags": []
+    }
+   ],
+   "pages": [
+    {
+     "id": "gr-38306500",
+     "url": "https://learngerman.dw.com/en/adjectives-following-sein/l-37401537/gr-38306500",
+     "title": "Adjectives following \"sein\"",
+     "texts": [
+      "Adjectives following \"sein\"",
+      "Ich bin groß. – Emma ist klein.\nImage:\nEmma and Nico stand back to back.\nAdjectives describe a person or thing. They are very often used with the verb sein. The adjective usually comes after the conjugated form of the verb sein.\nsubject\nsein (conjugated)\nadjective\nDas Haus\nist\nalt.\nMany adjectives have a word that means the opposite, e.g.:\nNico ist groß. – Emma ist klein.\nDas Auto ist alt. – Das Fahrrad ist neu.\nDie Wohnung ist billig. – Das Haus ist teuer.\nIt is often a good idea to learn adjectives in pairs. Adjectives are written in lower case.\nGrammatical terms in German:\ndas Adjektiv: Adjectives are used to describe people or things."
+     ],
+     "html": "<p><strong><em>Ich bin groß. – Emma ist klein.</em></strong></p>\n\n<p>Image:</p><ul><li>Emma and Nico stand back to back.</li></ul><p><strong></strong></p>\n\n<p>Adjectives describe a person or thing. They are very often used with the verb <em>sein</em>. The adjective usually comes after the conjugated form of the verb <em>sein</em>.</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>subject</td>\n\t\t\t<td>\n\t\t\t<p><em>sein</em> (conjugated)</p>\n\t\t\t</td>\n\t\t\t<td>adjective</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Das Haus</td>\n\t\t\t<td>ist</td>\n\t\t\t<td>alt.</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&#160;</p>\n\n<p>Many adjectives have a word that means the opposite, e.g.:</p>\n\n<p><em>Nico ist <strong>groß</strong>. – Emma ist <strong>klein</strong>.</em></p>\n\n<p><em>Das Auto ist <strong>alt</strong>. – Das Fahrrad ist <strong>neu</strong>.</em></p>\n\n<p><em>Die Wohnung ist <strong>billig</strong>. – Das Haus ist <strong>teuer</strong>.</em><br>\n<br>\nIt is often a good idea to learn adjectives in pairs. Adjectives are written in lower case.&#160;</p>\n\n<p>&#160;</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>Grammatical terms in German:</p>\n\t\t\tdas Adjektiv: Adjectives are used to describe people or things.</td>\n\t\t</tr>\n\t</tbody>\n</table>\n"
+    },
+    {
+     "id": "rs-39370904",
+     "url": "https://learngerman.dw.com/en/on-the-go-with-your-bike/l-37401537/rs-39370904",
+     "title": "On the go with your bike",
+     "texts": [
+      "On the go with your bike",
+      "Do you like riding a bike? Then you're in good company in Germany. Lots of people use their bikes for everyday transportation and go on bike tours in their leisure time. In cities there are special bike paths alongside streets and sidewalks. As a pedestrian, you have to watch out if you walk onto the bike path.\nThroughout Germany there is a network of relatively well-marked cycling routes. Many follow rivers through beautiful landscapes and nature reserves, and are family- and child-friendly.\nIf you ride a bike in Germany, it should be safe for traffic. That means it should have working lights, good brakes and a few other things. A good thing to be aware of: occasionally the police will ask cyclists to pull over."
+     ],
+     "html": "\n\n<p>Do you like riding a bike? Then you're in good company in Germany. Lots of people use their bikes for everyday transportation and go on bike tours in their leisure time. In cities there are special bike paths alongside streets and sidewalks. As a pedestrian, you have to watch out if you walk onto the bike path.</p>\n\n<p>Throughout Germany there is a network of relatively well-marked cycling routes. Many follow rivers through beautiful landscapes and nature reserves, and are family- and child-friendly.</p>\n\n<p>If you ride a bike in Germany, it should be safe for traffic. That means it should have working lights, good brakes and a few other things. A good thing to be aware of: occasionally the police will ask cyclists to pull over.</p>\n"
+    }
+   ]
+  },
+  {
+   "id": "script",
+   "kind": "dw-script-pdf",
+   "url": "https://learngerman.dw.com/downloads/52719956/nicos-weg-a1-e5-l4-manuskript-und-wortschatz-englisch.pdf",
+   "localFile": "DW Deutsch lernen/A1/05_things/04_Das Auto ist rot/Materials/Script and vocabulary (English).pdf",
+   "sha256": "192b2fe57c0229950f87b7c5f445963a1ca5ed1db548a32578685b33cb947c34",
+   "lines": [
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "(5) Things | Das Auto ist rot",
+    "Lisa and Nico walk through the city looking for the address that someone",
+    "Sebastian knows posted under the photo of Yara’s shop. But when they",
+    "reach their destination they get a nasty surprise.",
+    "Script",
+    "LISA:",
+    "Also … ich sehe was, was du nicht siehst, und das ist … groß und rot.",
+    "NICO:",
+    "Das Auto.",
+    "LISA:",
+    "Das Auto ist rot, aber es ist nicht groß, es ist klein.",
+    "NICO:",
+    "Das Haus.",
+    "LISA:",
+    "Ja, richtig! Du bist dran.",
+    "NICO:",
+    "Ich sehe was, was du nicht siehst, und das ist ... groß und klein.",
+    "LISA:",
+    "Ich glaube nicht …",
+    "NICO:",
+    "Ah! Ich sehe was, was du nicht siehst, und das ist ... groß und gelb.",
+    "LISA:",
+    "Das Haus.",
+    "NICO:",
+    "Ja.",
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "LISA:",
+    "Das hier ist die August-Straußberg-Gasse 23. Aber wo ist der Fahrradladen?",
+    "NICO:",
+    "Hier ist kein Fahrradladen.",
+    "LISA:",
+    "Ja, aber wir sind richtig.",
+    "NICO:",
+    "Ich sehe was, was du nicht siehst, … und das ist nicht da.",
+    "LISA:",
+    "Die Adresse ist falsch. Es gibt hier wirklich keinen Fahrradladen. Es tut mir leid, Nico",
+    "… Komm!",
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "Vocabulary (from script and lesson)",
+    "alt – old",
+    "älter, am ältesten",
+    "anderer, andere, anderes – other; others",
+    "billig – cheap; inexpensive",
+    "billiger, am billigsten",
+    "da sein – to be there; to be present",
+    "ist, war, gewesen",
+    "das Fahrrad, die Fahrräder – bicycle",
+    "Kurzforn: das Rad, die Räder",
+    "der Fahrradladen, die Fahrradläden – biycle store",
+    "falsch – wrong",
+    "gelb – yellow",
+    "groß – big; tall",
+    "größer, am größsten",
+    "klein – small",
+    "kleiner, am kleinsten",
+    "etwas/jemanden lieben – to love something/somebody; to like",
+    "something/somebody",
+    "liebt, liebte, hat geliebt",
+    "neu – new",
+    "neuer, am neuesten/am neusten",
+    "rot – red",
+    "teuer – expensive",
+    "teurer, am teuersten",
+    "das T-Shirt, die T-Shirts – t-shirt",
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "weiß – white"
+   ]
+  }
+ ]
+}

@@ -301,6 +301,13 @@
     "source": "script",
     "text": "Das Wörterbuch hilft."
    }
+  },
+  "T-Shirt": {
+   "context": {
+    "lesson": "dw-a1-e5-l4",
+    "source": "exercises",
+    "text": "Das T-Shirt ist groß."
+   }
   }
  }
 }

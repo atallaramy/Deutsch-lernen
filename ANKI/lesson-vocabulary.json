@@ -1,6 +1,6 @@
 {
  "schemaVersion": 3,
- "revision": "2026-10-07T17:19:00Z",
+ "revision": "2026-10-09T09:34:00Z",
  "policy": "Faithful capture of what the learner studied: official lesson glossaries, useful words and phrases from the official scripts and exercises, and items from the learner's notes. Official spelling is canonical; the learner's spelling is kept as learnerForm. Nothing captured is removed. pendingEntries wait for the learner's yes/no and are never built; declinedEntries record a learner's no.",
  "courses": [
   {
@@ -13641,6 +13641,439 @@
        "learnerError": {
         "wrong": "Ich habe einen Brillenetui",
         "why": "das Brillenetui is neuter: the accusative stays ein"
+       },
+       "home": "sentences"
+      }
+     ],
+     "pendingEntries": [],
+     "declinedEntries": []
+    },
+    {
+     "id": "dw-a1-e5-l4",
+     "legacyId": null,
+     "level": "A1",
+     "title": "Das Auto ist rot",
+     "unit": 5,
+     "lesson": 4,
+     "url": "https://learngerman.dw.com/en/das-auto-ist-rot/l-37401537",
+     "notesFile": "DW Deutsch lernen/A1/05_things/04_Das Auto ist rot/Das Auto ist rot.md",
+     "lessonDeck": {
+      "file": "DW Deutsch lernen/A1/05_things/04_Das Auto ist rot/DW A1 E5L4 Das Auto ist rot - Vocabulary.apkg",
+      "deck": "Lessons::DW A1::E5 L4 Das Auto ist rot"
+     },
+     "snapshot": "DW Deutsch lernen/A1/05_things/04_Das Auto ist rot/Materials/source-snapshot.json",
+     "sources": [
+      {
+       "id": "script",
+       "kind": "dw-script-pdf",
+       "url": "https://learngerman.dw.com/downloads/52719956/nicos-weg-a1-e5-l4-manuskript-und-wortschatz-englisch.pdf",
+       "localFile": "DW Deutsch lernen/A1/05_things/04_Das Auto ist rot/Materials/Script and vocabulary (English).pdf"
+      },
+      {
+       "id": "exercises",
+       "kind": "dw-exercises",
+       "url": "https://learngerman.dw.com/en/das-auto-ist-rot/l-37401537"
+      }
+     ],
+     "entries": [
+      {
+       "id": "alt",
+       "german": "alt",
+       "english": "old",
+       "pos": "word",
+       "lemma": "alt",
+       "sense": "old",
+       "forms": "älter, am ältesten",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "dw-grammar-page",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "anderer-andere-anderes",
+       "german": "anderer, andere, anderes",
+       "english": "other; others",
+       "pos": "word",
+       "lemma": "anderer",
+       "sense": "other",
+       "answer": "anderer, andere, anderes",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "note": "masculine · feminine · neuter",
+       "home": "vocabulary"
+      },
+      {
+       "id": "billig",
+       "german": "billig",
+       "english": "cheap; inexpensive",
+       "pos": "adjective",
+       "lemma": "billig",
+       "sense": "cheap",
+       "forms": "billiger, am billigsten",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "dw-grammar-page",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "da-sein",
+       "german": "da sein",
+       "english": "to be there; to be present",
+       "pos": "verb",
+       "lemma": "da sein",
+       "sense": "to-be-there",
+       "forms": "ist, war, ist gewesen",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-fahrrad",
+       "german": "das Fahrrad",
+       "plural": "die Fahrräder",
+       "english": "bicycle",
+       "pos": "noun",
+       "lemma": "Fahrrad",
+       "sense": "bicycle",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "dw-grammar-page",
+        "learner-notes"
+       ],
+       "note": "Kurzform: das Rad, die Räder",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-fahrradladen",
+       "german": "der Fahrradladen",
+       "plural": "die Fahrradläden",
+       "english": "bicycle store",
+       "pos": "noun",
+       "lemma": "Fahrradladen",
+       "sense": "bicycle-shop",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "falsch",
+       "german": "falsch",
+       "english": "wrong",
+       "pos": "word",
+       "lemma": "falsch",
+       "sense": "wrong",
+       "origin": [
+        "dw-glossary",
+        "dw-script"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "gelb",
+       "german": "gelb",
+       "english": "yellow",
+       "pos": "adjective",
+       "lemma": "gelb",
+       "sense": "yellow",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "gross",
+       "german": "groß",
+       "english": "big; tall",
+       "pos": "word",
+       "lemma": "groß",
+       "sense": "big",
+       "forms": "größer, am größten",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "dw-grammar-page",
+        "learner-notes"
+       ],
+       "learnerForm": "Groß",
+       "home": "vocabulary"
+      },
+      {
+       "id": "klein",
+       "german": "klein",
+       "english": "small",
+       "pos": "word",
+       "lemma": "klein",
+       "sense": "small",
+       "forms": "kleiner, am kleinsten",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "dw-grammar-page",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "etwas-jemanden-lieben",
+       "german": "etwas/jemanden lieben",
+       "english": "to love something/somebody; to like something/somebody",
+       "pos": "verb",
+       "lemma": "lieben",
+       "sense": "to-love",
+       "forms": "liebt, liebte, hat geliebt",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "neu",
+       "german": "neu",
+       "english": "new",
+       "pos": "adjective",
+       "lemma": "neu",
+       "sense": "new",
+       "forms": "neuer, am neusten/am neuesten",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "dw-grammar-page",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "rot",
+       "german": "rot",
+       "english": "red",
+       "pos": "adjective",
+       "lemma": "rot",
+       "sense": "red",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "learnerForm": "rod",
+       "home": "vocabulary"
+      },
+      {
+       "id": "teuer",
+       "german": "teuer",
+       "english": "expensive",
+       "pos": "adjective",
+       "lemma": "teuer",
+       "sense": "expensive",
+       "forms": "teurer, am teuersten",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "dw-grammar-page",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-t-shirt",
+       "german": "das T-Shirt",
+       "plural": "die T-Shirts",
+       "english": "t-shirt",
+       "pos": "noun",
+       "lemma": "T-Shirt",
+       "sense": "t-shirt",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "weiss",
+       "german": "weiß",
+       "english": "white",
+       "pos": "adjective",
+       "lemma": "weiß",
+       "sense": "white",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "du-bist-dran",
+       "german": "Du bist dran.",
+       "english": "It's your turn.",
+       "pos": "expression",
+       "lemma": "Du bist dran.",
+       "sense": "your-turn",
+       "origin": [
+        "dw-script",
+        "learner-notes"
+       ],
+       "glossLookup": [
+        "du bist dran"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "glauben",
+       "german": "glauben",
+       "english": "to believe; to think",
+       "pos": "verb",
+       "lemma": "glauben",
+       "sense": "to-believe",
+       "origin": [
+        "dw-script",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "wirklich",
+       "german": "wirklich",
+       "english": "really",
+       "pos": "word",
+       "lemma": "wirklich",
+       "sense": "really",
+       "origin": [
+        "dw-script",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "es-tut-mir-leid",
+       "german": "Es tut mir leid.",
+       "english": "I'm sorry.; Sorry.",
+       "pos": "expression",
+       "lemma": "Es tut mir leid.",
+       "sense": "im-sorry",
+       "origin": [
+        "dw-script",
+        "learner-notes"
+       ],
+       "glossLookup": [
+        "es tut mir leid"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "manche",
+       "german": "manche",
+       "english": "some",
+       "pos": "word",
+       "lemma": "manche",
+       "sense": "some",
+       "origin": [
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "learnerForm": "Menche",
+       "glossLookup": [
+        "manch"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-gegenteil",
+       "german": "das Gegenteil",
+       "plural": "die Gegenteile",
+       "english": "opposite",
+       "pos": "noun",
+       "lemma": "Gegenteil",
+       "sense": "opposite",
+       "origin": [
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "genderEvidence": "https://de.wiktionary.org/wiki/Gegenteil (Genus n, Nominativ Plural Gegenteile)",
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-adjektiv",
+       "german": "das Adjektiv",
+       "plural": "die Adjektive",
+       "english": "adjective (grammar)",
+       "pos": "noun",
+       "lemma": "Adjektiv",
+       "sense": "adjective",
+       "origin": [
+        "dw-grammar-page"
+       ],
+       "note": "Grammar term: Adjectives are used to describe people or things. · written in lower case",
+       "level": "beyond-A1",
+       "genderEvidence": "DW grammar page gr-38306500 (das Adjektiv); https://de.wiktionary.org/wiki/Adjektiv (Genus n, Nominativ Plural Adjektive)",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-die-bekannte",
+       "german": "der/die Bekannte",
+       "plural": "die Bekannten",
+       "english": "acquaintance (a man or a woman)",
+       "pos": "noun",
+       "lemma": "Bekannte",
+       "sense": "acquaintance",
+       "origin": [
+        "learner-notes"
+       ],
+       "glossLookup": [
+        "Bekannte"
+       ],
+       "note": "a man: der Bekannte (ein Bekannter) · a woman: die Bekannte (no -in)",
+       "articles": "exempt:gender-follows-the-person",
+       "genderEvidence": "Goethe-Zertifikat A1 word list: der/die Bekannte, -n (Ein Bekannter von mir heißt Klaus.)",
+       "home": "vocabulary"
+      },
+      {
+       "id": "ich-sehe-was-was-du-nicht-siehst",
+       "german": "Ich sehe was, was du nicht siehst, und das ist …",
+       "english": "I spy with my little eye, something that is …",
+       "pos": "expression",
+       "lemma": "Ich sehe was, was du nicht siehst, und das ist …",
+       "sense": "i-spy",
+       "origin": [
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "glossLookup": [
+        "ich sehe was, was du nicht siehst"
+       ],
+       "learnerError": {
+        "wrong": "Ich sehe was, was du nicht sehest, und das ist rot und neu.",
+        "why": "du siehst (e → ie) · ich sehe"
        },
        "home": "sentences"
       }

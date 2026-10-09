@@ -1,8 +1,8 @@
 {
   "deck": "German A1 — Sentences",
-  "revision": "2026-10-07T17:19:00Z",
+  "revision": "2026-10-09T09:34:00Z",
   "qualityPolicy": "Productive sentences, replies, register switches and contextual forms from the lessons. No audio.",
-  "cards": 162,
+  "cards": 166,
   "sources": [
     {
       "id": "dw-a1-e0-l1",
@@ -304,6 +304,19 @@
       }
     },
     {
+      "id": "dw-a1-e5-l4",
+      "course": "dw-nicos-weg",
+      "title": "Das Auto ist rot",
+      "url": "https://learngerman.dw.com/en/das-auto-ist-rot/l-37401537",
+      "notesFile": "DW Deutsch lernen/A1/05_things/04_Das Auto ist rot/Das Auto ist rot.md",
+      "capturedEntries": 25,
+      "cards": {
+        "vocabulary": 24,
+        "articles": 5,
+        "sentences": 1
+      }
+    },
+    {
       "id": "vhs-a1-l02",
       "course": "vhs-lernportal",
       "title": "Lektion 2 · Meine Familie und ich",
@@ -332,9 +345,9 @@
   ],
   "packages": {
     "ANKI/sentences.apkg": {
-      "notes": 162,
-      "cards": 162,
-      "sha256": "16caf3d43cd77ca080b87614409ab5f89765b91f54f05e413e7c1210e1535b4a"
+      "notes": 166,
+      "cards": 166,
+      "sha256": "3b79bdb8b5ecc59d6b8809cda35000828aa84778d9425616a53402fc6fc4e89c"
     }
   }
 }

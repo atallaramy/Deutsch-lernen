@@ -1125,6 +1125,13 @@
      "Bedeutung DWDS 2023 salopp unverbindliche Abschiedsformel, die eine eventuelle neue Begegnung zu einem nicht näher bestimmten Zeitpunkt ankündigt siehe auch bis die Tage , bis dann (1) , auf Wiederseh"
     ]
    }
+  },
+  "cases": {
+   "es gibt": {
+    "url": "https://en.wiktionary.org/wiki/geben#German",
+    "definition": "Used to indicate that something exists (often with a certain property and/or in a certain location). Usually translated as there is/are or there exist(s) [with accusative]",
+    "fetchedOn": "2026-10-09"
+   }
   }
  }
 }

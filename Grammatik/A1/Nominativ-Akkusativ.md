@@ -1,6 +1,6 @@
 # Nominativ und Akkusativ: subject, object, der/den, ein/einen, kein/keinen
 
-*der Nominativ*, *der Akkusativ* · A1 · from DW A1 E5 L3 *Ich habe kein …* · checked 2026-10-07
+*der Nominativ*, *der Akkusativ* · A1 · from DW A1 E5 L3 *Ich habe kein …* and E5 L4 *Das Auto ist rot* · checked 2026-10-09
 
 ## The rule
 
@@ -18,7 +18,8 @@ German terms:
 3. In the accusative **only the masculine singular changes**: *der → den, ein → einen,
    kein → keinen*. Feminine, neuter and plural stay the same.
 4. *sein* always takes the nominative: *Das ist kein Stift.* *haben* takes the
-   accusative: *Ich habe keinen Stift.*
+   accusative: *Ich habe keinen Stift.* So does *es gibt*: *Es gibt hier wirklich
+   keinen Fahrradladen.* ([Wiktionary: geben](https://en.wiktionary.org/wiki/geben#German), *es gibt* [with accusative])
 5. **kein** is the negative of *ein*, with the same endings. A plural, or a noun with no
    article, also takes *kein*: *Das sind keine Stifte.* · *Nina isst keinen Schinken.*
 6. Some verbs with an accusative object: *essen, trinken, nehmen, suchen, kennen, machen,
@@ -58,6 +59,8 @@ negation*. The genders: [Genus](Genus.md); *ein*: [Unbestimmter Artikel](Unbesti
 | Ich habe **eine** Garage, aber **kein** Auto. | [DW A1 E5 L3 · exercise](https://learngerman.dw.com/en/i-have-a-garage-but-no-car/l-37382992/e-37386210) |
 | Sind das Stifte? - Nein, das sind **keine** Stifte. | [DW A1 E5 L3 · grammar page](https://learngerman.dw.com/en/article-negation/l-37382992/gr-38306441) |
 | Isst Nina Schinken? – Nein, Nina isst **keinen** Schinken. | [DW A1 E5 L3 · grammar page](https://learngerman.dw.com/en/article-negation/l-37382992/gr-38306441) |
+| Hier ist **kein** Fahrradladen. | [DW A1 E5 L4 · script](https://learngerman.dw.com/downloads/52719956/nicos-weg-a1-e5-l4-manuskript-und-wortschatz-englisch.pdf) |
+| Es gibt hier wirklich **keinen** Fahrradladen. | [DW A1 E5 L4 · script](https://learngerman.dw.com/downloads/52719956/nicos-weg-a1-e5-l4-manuskript-und-wortschatz-englisch.pdf) |
 
 *hab* is the spoken form of *habe*.
 
@@ -96,9 +99,11 @@ negation*. The genders: [Genus](Genus.md); *ein*: [Unbestimmter Artikel](Unbesti
 - `no-that-is-no-pen`: *Nein, das ist kein Stift.*
 - `glasses-case-but-no-glasses`: *Ich habe ein Brillenetui, aber keine Brille.*
 - `the-book-costs-a-euro`: *Das Buch kostet einen Euro.*
+- `es-gibt-keinen-fahrradladen`: *Es gibt hier wirklich keinen Fahrradladen.*
 
 ## My rule in my own words
 
 > …
 
-My notes: [Ich habe kein …](<../../DW Deutsch lernen/A1/05_things/03_Ich habe kein/Ich habe kein.md>)
+My notes: [Ich habe kein …](<../../DW Deutsch lernen/A1/05_things/03_Ich habe kein/Ich habe kein.md>) ·
+[Das Auto ist rot](<../../DW Deutsch lernen/A1/05_things/04_Das Auto ist rot/Das Auto ist rot.md>)
