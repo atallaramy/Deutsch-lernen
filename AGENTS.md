@@ -99,9 +99,10 @@ this spirit.
 
 - One cumulative system for every course (DW, VHS, Easy German), divided by
   retrieval skill into `German A1 — Vocabulary`, `German A1 — Articles` and
-  `German A1 — Sentences` (`ANKI/vocabulary.apkg`, `articles.apkg`,
+  `German A1 — Sentences` (`ANKI/A1/vocabulary.apkg`, `articles.apkg`,
   `sentences.apkg`). Provenance lives in tags (`course::…`, `lesson::…`). Later
-  levels follow `docs/learning-roadmap.md`.
+  levels follow `docs/learning-roadmap.md`, each in its own folder
+  (`ANKI/A2/`, `ANKI/B1/`).
 - Merge only records with an identical lemma and sense, across lessons and
   courses. Distinct meanings stay separate cards. Articles cards key on
   lemma + gender.
@@ -158,6 +159,9 @@ this spirit.
   plus the Sentences cards for its phrases). It is a typed introduction, not a
   second long-term queue. It is built once; later changes go into the
   cumulative decks only.
+- All lesson decks of a level are also combined, unchanged, in one package:
+  `ANKI/A1/Lessons.apkg`. Each new lesson deck is added to it; that is the
+  lesson file to import.
 
 ## Identity and scheduling
 

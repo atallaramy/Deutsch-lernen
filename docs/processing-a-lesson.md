@@ -124,7 +124,8 @@ python3 ANKI/build_all.py package
 This refuses while the check has errors. It builds
 each package twice to prove the output is identical, validates it, and
 confirms the pronunciation deck is untouched. It writes only the files whose
-cards changed (a lesson deck only once) and ends with `Import: …`, listing them.
+cards changed (a lesson deck only once), adds the new lesson deck to
+`ANKI/A1/Lessons.apkg`, and ends with `Import: …`, listing the files to import.
 Claude tells you that line; import those files into Anki
 ([anki-import.md](anki-import.md)).
 

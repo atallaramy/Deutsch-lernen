@@ -5,12 +5,13 @@ VHS, Easy German):
 
 | Package | Deck | Tests |
 |---|---|---|
-| `vocabulary.apkg` | German A1 — Vocabulary | one German word or fixed phrase, typed, in a verified context where a good one exists |
-| `articles.apkg` | German A1 — Articles | der / die / das, typed |
-| `sentences.apkg` | German A1 — Sentences | replies, forms, du/Sie switches and useful patterns, typed |
+| `A1/vocabulary.apkg` | German A1 — Vocabulary | one German word or fixed phrase, typed, in a verified context where a good one exists |
+| `A1/articles.apkg` | German A1 — Articles | der / die / das, typed |
+| `A1/sentences.apkg` | German A1 — Sentences | replies, forms, du/Sie switches and useful patterns, typed |
 
 Each processed lesson also gets a typed introduction deck next to its notes
-(`<notes name>_Vocabulary.apkg`). There is no audio, TTS, images or multiple
+(`DW A1 E5L4 Das Auto ist rot - Vocabulary.apkg`). All lesson decks are also
+combined, unchanged, in `A1/Lessons.apkg`, which grows with each lesson. There is no audio, TTS, images or multiple
 choice. The rules are in `../AGENTS.md`, the reasons in `../docs/card-design.md`.
 
 ## Workflow

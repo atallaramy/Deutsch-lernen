@@ -344,7 +344,7 @@
     }
   ],
   "packages": {
-    "ANKI/articles.apkg": {
+    "ANKI/A1/articles.apkg": {
       "notes": 303,
       "cards": 303,
       "sha256": "2e00625cfd44f76c7718a1fe26e9faf08245b5f8dd66774fe36a487ad1313a79"

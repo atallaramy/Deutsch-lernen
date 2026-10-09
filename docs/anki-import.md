@@ -15,16 +15,17 @@ remove the old ones first. Otherwise you would review both.
 2. Tools → Manage Note Types: delete the old, now empty types (`German
    Vocabulary — precise production`, `German Articles — typed answers`,
    `German Sentences — …`, `DW … — Precise production`).
-3. File → Import: `ANKI/vocabulary.apkg`, `ANKI/articles.apkg`,
-   `ANKI/sentences.apkg`.
+3. File → Import: `ANKI/A1/vocabulary.apkg`, `ANKI/A1/articles.apkg`,
+   `ANKI/A1/sentences.apkg`.
 4. Lesson decks (optional, for a first typed pass through a lesson): import
-   the `… - Vocabulary.apkg` next to the lesson's notes (e.g.
-   `DW A1 E1L3 Woher kommst du - Vocabulary.apkg`). In Anki they appear under
-   one `Lessons` deck. Do not import the old `…_Vocabulary.apkg` files. Lesson
-   decks repeat cards from the cumulative decks, so either delete a lesson deck
-   once you have gone through it, or
-   skip them and use a filtered deck: *Tools → Create Filtered Deck*, search
-   `tag:lesson::dw-a1-e1-l3 is:new`.
+   `ANKI/A1/Lessons.apkg`, which holds every lesson deck and grows with each
+   lesson. Each lesson's own `… - Vocabulary.apkg` next to its notes holds the
+   same cards. In Anki they appear under one `Lessons` deck. Do not import the
+   old `…_Vocabulary.apkg` files. Lesson decks repeat cards from the cumulative
+   decks; once you have gone through a lesson, suspend its cards (Browse →
+   select them → Cards → Toggle Suspend) rather than delete the deck, because
+   the next import of `Lessons.apkg` would bring a deleted deck back as new cards. Or skip them and use a filtered deck: *Tools → Create
+   Filtered Deck*, search `tag:lesson::dw-a1-e1-l3 is:new`.
 
 ## Later updates
 

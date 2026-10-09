@@ -118,10 +118,6 @@ def write_package(spec: DeckSpec, revision: str, path: Path) -> None:
                                              "order": 1, "perDay": 20, "separate": True},
                    "lapse": {"delays": [10], "leechAction": 1, "leechFails": 8, "minInt": 1, "mult": 0},
                    "rev": {"bury": True, "ease4": 1.3, "fuzz": 0.05, "ivlFct": 1, "maxIvl": 36500, "minSpace": 1, "perDay": 200}}}
-    conf = {"activeDecks": [1], "addToCur": True, "collapseTime": 1200, "curDeck": 1,
-            "curModel": next(iter(models)), "dueCounts": True, "estTimes": True, "newBury": True, "newSpread": 0,
-            "nextPos": len(spec.notes) + 1, "sortBackwards": False, "sortType": "noteFld", "timeLim": 0}
-
     rows = []
     for note in spec.notes:
         key = f"{spec.guid_namespace}:{note.key}"
@@ -132,7 +128,43 @@ def write_package(spec: DeckSpec, revision: str, path: Path) -> None:
     ids = [row[0] for row in rows] + [row[6] for row in rows]
     if len(set(ids)) != len(ids):
         raise RuntimeError(f"{spec.name}: hashed note/card ID collision; change a card key")
+    pairs = [((note_id, guid, model_id, mod, -1, f" {tags} " if tags else "", flds, sfld, checksum(sfld), 0, ""),
+              (card_id, note_id, deck_id, 0, mod, -1, 0, queue, due, 0, 0, 0, 0, 0, 0, 0, 0, ""))
+             for note_id, guid, model_id, tags, flds, sfld, card_id, due, queue in sorted(rows)]
+    _write_collection(path, mod, models, decks, dconf, pairs)
 
+
+def merge_packages(sources: list[Path], path: Path) -> None:
+    """Combine built packages into one, copying their decks, notes and cards unchanged (same IDs, GUIDs and dates)."""
+    mod, models, decks, dconf, pairs = 0, {}, {}, {}, []
+    for source in sources:
+        with tempfile.TemporaryDirectory() as temp_name, zipfile.ZipFile(source) as archive:
+            collection = Path(temp_name) / "collection.anki2"
+            collection.write_bytes(archive.read("collection.anki2"))
+            db = sqlite3.connect(collection)
+            try:
+                col_mod, models_json, decks_json, dconf_json = db.execute("SELECT mod, models, decks, dconf FROM col").fetchone()
+                cards = {row[1]: row for row in db.execute("SELECT * FROM cards")}
+                pairs += [(note, cards[note[0]]) for note in db.execute("SELECT * FROM notes")]
+            finally:
+                db.close()
+        mod = max(mod, col_mod)
+        for key, model in json.loads(models_json).items():
+            if key not in models or model["mod"] > models[key]["mod"]:  # the packages share note types; keep the newest
+                models[key] = model
+        decks.update(json.loads(decks_json))
+        dconf.update(json.loads(dconf_json))
+    ids = [note[0] for note, _ in pairs] + [card[0] for _, card in pairs]
+    if len(set(ids)) != len(ids):
+        raise RuntimeError(f"{path.name}: the packages to combine share note/card IDs")
+    _write_collection(path, mod, models, decks, dconf, sorted(pairs))
+
+
+def _write_collection(path: Path, mod: int, models: dict, decks: dict, dconf: dict, pairs: list[tuple[tuple, tuple]]) -> None:
+    """Write a schema 11 package from full (note row, card row) pairs, inserted in the given order."""
+    conf = {"activeDecks": [1], "addToCur": True, "collapseTime": 1200, "curDeck": 1,
+            "curModel": next(iter(models)), "dueCounts": True, "estTimes": True, "newBury": True, "newSpread": 0,
+            "nextPos": len(pairs) + 1, "sortBackwards": False, "sortType": "noteFld", "timeLim": 0}
     with tempfile.TemporaryDirectory() as temp_name:
         collection = Path(temp_name) / "collection.anki2"
         db = sqlite3.connect(collection)
@@ -140,11 +172,9 @@ def write_package(spec: DeckSpec, revision: str, path: Path) -> None:
         db.execute("INSERT INTO col VALUES (1, ?, ?, ?, 11, 0, 0, 0, ?, ?, ?, ?, '{}')",
                    (mod - mod % 86400, mod, mod * 1000, json.dumps(conf, sort_keys=True), json.dumps(models, sort_keys=True),
                     json.dumps(decks, sort_keys=True), json.dumps(dconf, sort_keys=True)))
-        for note_id, guid, model_id, tags, flds, sfld, card_id, due, queue in sorted(rows):
-            db.execute("INSERT INTO notes VALUES (?, ?, ?, ?, -1, ?, ?, ?, ?, 0, '')",
-                       (note_id, guid, model_id, mod, f" {tags} " if tags else "", flds, sfld, checksum(sfld)))
-            db.execute("INSERT INTO cards VALUES (?, ?, ?, 0, ?, -1, 0, ?, ?, 0, 0, 0, 0, 0, 0, 0, 0, '')",
-                       (card_id, note_id, deck_id, mod, queue, due))
+        for note, card in pairs:
+            db.execute("INSERT INTO notes VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)", note)
+            db.execute("INSERT INTO cards VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)", card)
         db.commit()
         db.execute("VACUUM")
         db.close()

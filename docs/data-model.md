@@ -11,6 +11,8 @@
 | `gloss-snapshot.json` | Dictionary definitions (en.wiktionary, else dict.cc) for meanings that no official course source supplies (from `harvest_sources.py --glosses`). |
 | `legacy-v2-lesson-vocabulary.json` | The capture record from before the v3 redesign; the check requires every v2 word to survive. |
 | `review/coverage-ledger.json` | Which card covers each captured entry, plus the pending items. |
+| `A1/vocabulary.apkg`, `A1/articles.apkg`, `A1/sentences.apkg` | The cumulative decks (later levels: `A2/`, `B1/`). |
+| `A1/Lessons.apkg` | Every lesson deck of the level, copied unchanged; grows with each lesson. |
 | `*-scan-index.json` | Written by `package`: lessons, counts, package hashes. |
 
 ## Files in a lesson's `Materials/` (written by `harvest_sources.py`)
@@ -25,11 +27,11 @@
 
 | File | Role |
 |---|---|
-| `build_all.py` | CLI: `check` (`--lesson ID` lists that lesson's cards), `package` (writes only the files whose cards changed, a lesson deck once; `--refresh-lesson ID` rebuilds one; ends with `Import: …`). |
+| `build_all.py` | CLI: `check` (`--lesson ID` lists that lesson's cards), `package` (writes only the files whose cards changed, a lesson deck once; `--refresh-lesson ID` rebuilds one; copies every lesson deck of a level, unchanged, into `ANKI/<level>/Lessons.apkg`; ends with `Import: …`). |
 | `deck_data.py` | Loads data and snapshots; verification helpers; shared card style. |
 | `build_vocabulary_decks.py`, `build_articles_deck.py`, `build_sentences_deck.py` | Card construction for each deck (lesson decks reuse Vocabulary and Sentences cards). |
 | `card_quality.py` | Cross-deck gate: coverage, preservation of the v2 records, leakage, ambiguity, the front-sentence registry, sentence priming, known words, and every DW vocabulary-page item recorded in its lesson. |
-| `anki_package_utils.py` | Deterministic `.apkg` writer (embedded schema 11) and validator. |
+| `anki_package_utils.py` | Deterministic `.apkg` writer (embedded schema 11), the merge that combines lesson decks, and the validator. |
 | `harvest_sources.py` | Network step: snapshots official sources into `Materials/source-snapshot.json` and writes a DW lesson's `Materials/lesson-pages.md` (`--pages`: rewrite those offline; `--glosses`: dictionary check; `--tools`: save the DW teacher guides and the activity book). |
 | `tests/` | `python3 -m unittest discover -s ANKI/tests` |
 | `download_nicos_weg_a1_materials.py` | Old DW PDF downloader; do not rerun without the fix listed in [known-issues.md](known-issues.md). |

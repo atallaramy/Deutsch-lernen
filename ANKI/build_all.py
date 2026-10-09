@@ -5,6 +5,8 @@
   python3 ANKI/build_all.py package                write the decks whose cards changed; refuses unless all checks pass; lists what to import
                                                    (--refresh-lesson ID: rebuild that lesson's deck, which is otherwise built once)
 
+Packages go to ANKI/<level>/: the three cumulative decks and Lessons.apkg, every lesson deck of that level combined.
+
 Builds are deterministic: the same data produces byte-identical packages.
 """
 
@@ -23,7 +25,8 @@ import build_articles_deck
 import build_sentences_deck
 import build_vocabulary_decks
 import card_quality
-from anki_package_utils import DeckSpec, Note, content_digest, package_ids, validate_package, write_package
+from anki_package_utils import (DeckSpec, Note, content_digest, merge_packages, package_ids, validate_package,
+                                write_package)
 from deck_data import ANKI, ROOT, Card, Data, DataError, load, normalize
 
 DECKS = OrderedDict([
@@ -40,6 +43,7 @@ PRONUNCIATION_FILES = [
     ROOT / "DW Deutsch lernen/A1/00_welcome_to_A1/04_Von A bis Z/Von A bis Z_Phonetic Alphabet_Pronunciation.apkg",
 ]
 INTERFERENCE_GAP = 12
+LESSONS_PACKAGE = "Lessons.apkg"
 REVIEW_DIR = ANKI / "review"
 
 
@@ -101,7 +105,7 @@ def deck_specs(data: Data, cards: list[Card]) -> list[DeckSpec]:
             deck_cards = [card for card in cards if card.deck == deck and level_of(data, card) == level]
             if not deck_cards:
                 continue
-            output = ANKI / (f"{stem}.apkg" if level == "A1" else f"{stem}-{level}.apkg")
+            output = ANKI / level / f"{stem}.apkg"
             specs.append(DeckSpec(name=f"German {level} — {title}", description=description, output=output,
                                   guid_namespace=f"cumulative:{deck}", notes=to_notes(deck_cards)))
     for lesson in data.lessons:
@@ -199,6 +203,32 @@ def package_specs(specs: list[DeckSpec], revision: str, refresh: set[str] = froz
     return results, changed
 
 
+def combine_lesson_decks(data: Data, specs: list[DeckSpec], folder: Path = ANKI) -> tuple[dict[Path, dict], list[Path]]:
+    """Copy every built lesson deck of a level, unchanged, into <folder>/<level>/Lessons.apkg (learner, 2026-10-09)."""
+    outputs = {spec.guid_namespace.removeprefix("lesson:"): spec.output for spec in specs if spec.guid_namespace.startswith("lesson:")}
+    by_level: OrderedDict[str, list[Path]] = OrderedDict()
+    for lesson in data.lessons:
+        if lesson.id in outputs:
+            by_level.setdefault(lesson.record["level"], []).append(outputs[lesson.id])
+    results: dict[Path, dict] = {}
+    changed: list[Path] = []
+    with tempfile.TemporaryDirectory() as temp:
+        for level, sources in by_level.items():
+            target = folder / level / LESSONS_PACKAGE
+            a, b = Path(temp) / f"{level}-a.apkg", Path(temp) / f"{level}-b.apkg"
+            merge_packages(sources, a)
+            merge_packages(sources, b)
+            if a.read_bytes() != b.read_bytes():
+                raise RuntimeError(f"{target}: combining is not deterministic")
+            counts = validate_package(a, expected_cards=sum(validate_package(source)["cards"] for source in sources))
+            if not target.exists() or content_digest(target) != content_digest(a):
+                target.parent.mkdir(parents=True, exist_ok=True)
+                shutil.copyfile(a, target)
+                changed.append(target)
+            results[target] = {**counts, "sha256": hashlib.sha256(target.read_bytes()).hexdigest()}
+    return results, changed
+
+
 def cmd_package(data: Data, refresh: list[str]) -> int:
     cards, errors, _ = collect(data)
     unknown = sorted(set(refresh) - {lesson.id for lesson in data.lessons})
@@ -208,14 +238,19 @@ def cmd_package(data: Data, refresh: list[str]) -> int:
         print("Not packaged: fix the errors first.")
         return 1
     before = file_hashes(PRONUNCIATION_FILES)
-    written, changed = package_specs(deck_specs(data, cards), data.revision, set(refresh))
+    specs = deck_specs(data, cards)
+    written, changed = package_specs(specs, data.revision, set(refresh))
+    combined, combined_changed = combine_lesson_decks(data, specs)
     if file_hashes(PRONUNCIATION_FILES) != before:
         raise RuntimeError("The pronunciation resource changed during the build")
-    results = {str(path.relative_to(ROOT)): result for path, result in written.items()}
+    results = {str(path.relative_to(ROOT)): result for path, result in {**written, **combined}.items()}
     write_indexes(data, cards, results)
     for path, result in results.items():
         print(f"{path}: {result['cards']} cards")
-    print("Import: " + (" · ".join(str(path.relative_to(ROOT)) for path in changed) if changed else "nothing (no card changed)"))
+    # Lesson decks are imported through Lessons.apkg, which holds them unchanged.
+    lesson_decks = {spec.output for spec in specs if spec.guid_namespace.startswith("lesson:")}
+    to_import = [path for path in changed if path not in lesson_decks] + combined_changed
+    print("Import: " + (" · ".join(str(path.relative_to(ROOT)) for path in to_import) if to_import else "nothing (no card changed)"))
     return 0
 
 
