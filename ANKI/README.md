@@ -5,9 +5,9 @@ VHS, Easy German):
 
 | Package | Deck | Tests |
 |---|---|---|
-| `A1/vocabulary.apkg` | German A1 — Vocabulary | one German word or fixed phrase, typed, in a verified context where a good one exists |
-| `A1/articles.apkg` | German A1 — Articles | der / die / das, typed |
-| `A1/sentences.apkg` | German A1 — Sentences | replies, forms, du/Sie switches and useful patterns, typed |
+| `A1/vocabulary.apkg` | A1::Vocabulary | one German word or fixed phrase, typed, in a verified context where a good one exists |
+| `A1/articles.apkg` | A1::Articles | der / die / das, typed |
+| `A1/sentences.apkg` | A1::Sentences | replies, forms, du/Sie switches and useful patterns, typed |
 
 Each processed lesson also gets a typed introduction deck next to its notes
 (`DW A1 E5L4 Das Auto ist rot - Vocabulary.apkg`). All lesson decks are also

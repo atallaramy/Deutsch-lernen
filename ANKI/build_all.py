@@ -106,7 +106,7 @@ def deck_specs(data: Data, cards: list[Card]) -> list[DeckSpec]:
             if not deck_cards:
                 continue
             output = ANKI / level / f"{stem}.apkg"
-            specs.append(DeckSpec(name=f"German {level} — {title}", description=description, output=output,
+            specs.append(DeckSpec(name=f"{level}::{title}", description=description, output=output,
                                   guid_namespace=f"cumulative:{deck}", notes=to_notes(deck_cards)))
     for lesson in data.lessons:
         # inLessonDeck: false = captured after the lesson deck shipped; cumulative decks only (learner, 2026-09-27).
@@ -166,7 +166,7 @@ def write_indexes(data: Data, cards: list[Card], results: dict[str, dict]) -> No
         })
     for deck, (_, title, stem, description) in DECKS.items():
         index = {
-            "deck": f"German A1 — {title}", "revision": data.revision, "qualityPolicy": description,
+            "deck": f"A1::{title}", "revision": data.revision, "qualityPolicy": description,
             "cards": sum(card.deck == deck for card in cards), "sources": lessons_info,
             "packages": {path: result for path, result in results.items()
                          if Path(path).name.startswith(stem) or (deck == "vocabulary" and path.endswith("_Vocabulary.apkg"))},
@@ -204,12 +204,15 @@ def package_specs(specs: list[DeckSpec], revision: str, refresh: set[str] = froz
 
 
 def combine_lesson_decks(data: Data, specs: list[DeckSpec], folder: Path = ANKI) -> tuple[dict[Path, dict], list[Path]]:
-    """Copy every built lesson deck of a level, unchanged, into <folder>/<level>/Lessons.apkg (learner, 2026-10-09)."""
+    """Copy every built lesson deck of a level, unchanged, into <folder>/<level>/Lessons.apkg (learner, 2026-10-09).
+
+    Each deck is filed under its current lessonDeck name; lesson files built earlier keep their old name inside.
+    """
     outputs = {spec.guid_namespace.removeprefix("lesson:"): spec.output for spec in specs if spec.guid_namespace.startswith("lesson:")}
-    by_level: OrderedDict[str, list[Path]] = OrderedDict()
+    by_level: OrderedDict[str, list[tuple[Path, str]]] = OrderedDict()
     for lesson in data.lessons:
         if lesson.id in outputs:
-            by_level.setdefault(lesson.record["level"], []).append(outputs[lesson.id])
+            by_level.setdefault(lesson.record["level"], []).append((outputs[lesson.id], lesson.record["lessonDeck"]["deck"]))
     results: dict[Path, dict] = {}
     changed: list[Path] = []
     with tempfile.TemporaryDirectory() as temp:
@@ -220,7 +223,7 @@ def combine_lesson_decks(data: Data, specs: list[DeckSpec], folder: Path = ANKI)
             merge_packages(sources, b)
             if a.read_bytes() != b.read_bytes():
                 raise RuntimeError(f"{target}: combining is not deterministic")
-            counts = validate_package(a, expected_cards=sum(validate_package(source)["cards"] for source in sources))
+            counts = validate_package(a, expected_cards=sum(validate_package(source)["cards"] for source, _ in sources))
             if not target.exists() or content_digest(target) != content_digest(a):
                 target.parent.mkdir(parents=True, exist_ok=True)
                 shutil.copyfile(a, target)

@@ -98,7 +98,7 @@ class Packaging(unittest.TestCase):
 
     def test_lesson_decks_combine_unchanged_into_lessons_package(self):
         import sqlite3
-        from anki_package_utils import DeckSpec, Note, merge_packages
+        from anki_package_utils import DeckSpec, Note, merge_packages, stable_int
 
         def rows(path, temp):
             with zipfile.ZipFile(path) as archive:
@@ -117,18 +117,22 @@ class Packaging(unittest.TestCase):
             sources = []
             for name, revision in (("A", "2026-01-01T00:00:00Z"), ("B", "2026-02-01T00:00:00Z")):
                 path = Path(temp) / f"{name}.apkg"
-                write_package(DeckSpec(f"Lessons::Test::{name}", "", path, f"lesson:{name}",
+                write_package(DeckSpec(f"Old::{name}", "", path, f"lesson:{name}",
                                        [Note(card.key, note_type, card.fields, [], 1)]), revision, path)
-                sources.append(path)
+                sources.append((path, f"A1::Test::Lessons::{name}"))
             a, b = Path(temp) / "merged-1.apkg", Path(temp) / "merged-2.apkg"
             merge_packages(sources, a)
             merge_packages(sources, b)
             self.assertEqual(a.read_bytes(), b.read_bytes())
             self.assertEqual(validate_package(a, expected_cards=2)["cards"], 2)
             notes, card_rows = rows(a, temp)
-            expected = [rows(source, temp) for source in sources]
+            expected = [rows(source, temp) for source, _ in sources]
             self.assertEqual(notes, expected[0][0] | expected[1][0])
-            self.assertEqual(card_rows, expected[0][1] | expected[1][1])
+            # Cards keep every value but the deck, which follows the new name.
+            without_deck = lambda cards: {card[:2] + card[3:] for card in cards}  # noqa: E731
+            self.assertEqual(without_deck(card_rows), without_deck(expected[0][1] | expected[1][1]))
+            self.assertEqual({card[2] for card in card_rows},
+                             {stable_int(f"deck:A1::Test::Lessons::{name}") for name in ("A", "B")})
 
     def test_every_lesson_deck_is_in_the_lessons_package(self):
         data = load()

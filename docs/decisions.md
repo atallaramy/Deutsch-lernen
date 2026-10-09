@@ -5,6 +5,7 @@ One line per confirmed decision, newest first. The rules they produce live in
 
 | Date | Decision |
 |---|---|
+| 2026-10-09 | Anki layout: `A1` holds the shared `Vocabulary`, `Articles` and `Sentences`, then `DW`, `VHS` and `Easy German`, each with a `Lessons` deck holding its lessons ("vocabulary, articles and sentences should be one level higher … we do not repeat them in each folder"). |
 | 2026-10-09 | The cumulative decks live in `ANKI/A1/` (later levels in their own folder), and every lesson deck is also combined, unchanged, in `ANKI/A1/Lessons.apkg`, updated with each new lesson ("I want all the lessons ankies combined in one anki inside that folder"). |
 | 2026-10-07 | A grammar word's description is the lesson's own, verbatim, whenever a studied lesson gives one; Claude's wording only until then ("if this description available in the lesson you take the lessons description … I like the lessons ones"). |
 | 2026-10-07 | Every grammar word gets a short description of what it is, like DW's *das Adjektiv: Adjectives are used to describe people or things*, in `Grammatikbegriffe.md` and in its topic page's German terms ("add a short description for every word in both grammarbook and Grammatikbegriffe"). |

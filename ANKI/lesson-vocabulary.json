@@ -21,7 +21,7 @@
      "notesFile": "DW Deutsch lernen/A1/00_welcome_to_A1/01_Hallo/Hallo.md",
      "lessonDeck": {
       "file": "DW Deutsch lernen/A1/00_welcome_to_A1/01_Hallo/DW A1 E0L1 Hallo - Vocabulary.apkg",
-      "deck": "Lessons::DW A1::E0 L1 Hallo!"
+      "deck": "A1::DW::Lessons::E0 L1 Hallo!"
      },
      "snapshot": "DW Deutsch lernen/A1/00_welcome_to_A1/01_Hallo/Materials/source-snapshot.json",
      "sources": [
@@ -652,7 +652,7 @@
      "notesFile": "DW Deutsch lernen/A1/00_welcome_to_A1/02_Kein Problem/Kein_Problem.md",
      "lessonDeck": {
       "file": "DW Deutsch lernen/A1/00_welcome_to_A1/02_Kein Problem/DW A1 E0L2 Kein Problem - Vocabulary.apkg",
-      "deck": "Lessons::DW A1::E0 L2 Kein Problem!"
+      "deck": "A1::DW::Lessons::E0 L2 Kein Problem!"
      },
      "snapshot": "DW Deutsch lernen/A1/00_welcome_to_A1/02_Kein Problem/Materials/source-snapshot.json",
      "sources": [
@@ -1414,7 +1414,7 @@
      "notesFile": "DW Deutsch lernen/A1/00_welcome_to_A1/03_Tschüs/Tschüs.md",
      "lessonDeck": {
       "file": "DW Deutsch lernen/A1/00_welcome_to_A1/03_Tschüs/DW A1 E0L3 Tschüss - Vocabulary.apkg",
-      "deck": "Lessons::DW A1::E0 L3 Tschüss!"
+      "deck": "A1::DW::Lessons::E0 L3 Tschüss!"
      },
      "snapshot": "DW Deutsch lernen/A1/00_welcome_to_A1/03_Tschüs/Materials/source-snapshot.json",
      "sources": [
@@ -2009,7 +2009,7 @@
      "notesFile": "DW Deutsch lernen/A1/00_welcome_to_A1/04_Von A bis Z/Von A bis Z.md",
      "lessonDeck": {
       "file": "DW Deutsch lernen/A1/00_welcome_to_A1/04_Von A bis Z/DW A1 E0L4 Von A bis Z - Vocabulary.apkg",
-      "deck": "Lessons::DW A1::E0 L4 Von A bis Z"
+      "deck": "A1::DW::Lessons::E0 L4 Von A bis Z"
      },
      "snapshot": "DW Deutsch lernen/A1/00_welcome_to_A1/04_Von A bis Z/Materials/source-snapshot.json",
      "sources": [
@@ -2583,7 +2583,7 @@
      "notesFile": "DW Deutsch lernen/A1/01_meeting_people/01_Ich heiße Emma/Ich heiße Emma.md",
      "lessonDeck": {
       "file": "DW Deutsch lernen/A1/01_meeting_people/01_Ich heiße Emma/DW A1 E1L1 Ich heiße Emma - Vocabulary.apkg",
-      "deck": "Lessons::DW A1::E1 L1 Ich heiße Emma"
+      "deck": "A1::DW::Lessons::E1 L1 Ich heiße Emma"
      },
      "snapshot": "DW Deutsch lernen/A1/01_meeting_people/01_Ich heiße Emma/Materials/source-snapshot.json",
      "sources": [
@@ -2987,7 +2987,7 @@
      "notesFile": "DW Deutsch lernen/A1/01_meeting_people/02_Das ist Nico/Das ist Nico.md",
      "lessonDeck": {
       "file": "DW Deutsch lernen/A1/01_meeting_people/02_Das ist Nico/DW A1 E1L2 Das ist Nico - Vocabulary.apkg",
-      "deck": "Lessons::DW A1::E1 L2 Das ist Nico"
+      "deck": "A1::DW::Lessons::E1 L2 Das ist Nico"
      },
      "snapshot": "DW Deutsch lernen/A1/01_meeting_people/02_Das ist Nico/Materials/source-snapshot.json",
      "sources": [
@@ -3525,7 +3525,7 @@
      "notesFile": "DW Deutsch lernen/A1/01_meeting_people/03_Woher kommst du/Woher komst du.md",
      "lessonDeck": {
       "file": "DW Deutsch lernen/A1/01_meeting_people/03_Woher kommst du/DW A1 E1L3 Woher kommst du - Vocabulary.apkg",
-      "deck": "Lessons::DW A1::E1 L3 Woher kommst du?"
+      "deck": "A1::DW::Lessons::E1 L3 Woher kommst du?"
      },
      "snapshot": "DW Deutsch lernen/A1/01_meeting_people/03_Woher kommst du/Materials/source-snapshot.json",
      "sources": [
@@ -4228,7 +4228,7 @@
      "notesFile": "DW Deutsch lernen/A1/01_meeting_people/04_Nico hat ein Problem/Nico hat Problem.md",
      "lessonDeck": {
       "file": "DW Deutsch lernen/A1/01_meeting_people/04_Nico hat ein Problem/DW A1 E1L4 Nico hat ein Problem - Vocabulary.apkg",
-      "deck": "Lessons::DW A1::E1 L4 Nico hat ein Problem"
+      "deck": "A1::DW::Lessons::E1 L4 Nico hat ein Problem"
      },
      "snapshot": "DW Deutsch lernen/A1/01_meeting_people/04_Nico hat ein Problem/Materials/source-snapshot.json",
      "sources": [
@@ -4788,7 +4788,7 @@
      "notesFile": "DW Deutsch lernen/A1/02_contact_details/01_Zahlen von 1 bis 100/Zahlen von 1 bis 100.md",
      "lessonDeck": {
       "file": "DW Deutsch lernen/A1/02_contact_details/01_Zahlen von 1 bis 100/DW A1 E2L1 Zahlen von 1 bis 100 - Vocabulary.apkg",
-      "deck": "Lessons::DW A1::E2 L1 Zahlen von 1 bis 100"
+      "deck": "A1::DW::Lessons::E2 L1 Zahlen von 1 bis 100"
      },
      "snapshot": "DW Deutsch lernen/A1/02_contact_details/01_Zahlen von 1 bis 100/Materials/source-snapshot.json",
      "sources": [
@@ -5505,7 +5505,7 @@
      "notesFile": "DW Deutsch lernen/A1/02_contact_details/02_Wichtige Nummern/Wichtige Nummern.md",
      "lessonDeck": {
       "file": "DW Deutsch lernen/A1/02_contact_details/02_Wichtige Nummern/DW A1 E2L2 Wichtige Nummern - Vocabulary.apkg",
-      "deck": "Lessons::DW A1::E2 L2 Wichtige Nummern"
+      "deck": "A1::DW::Lessons::E2 L2 Wichtige Nummern"
      },
      "snapshot": "DW Deutsch lernen/A1/02_contact_details/02_Wichtige Nummern/Materials/source-snapshot.json",
      "sources": [
@@ -6022,7 +6022,7 @@
      "notesFile": "DW Deutsch lernen/A1/02_contact_details/03_Adressen/Adressen.md",
      "lessonDeck": {
       "file": "DW Deutsch lernen/A1/02_contact_details/03_Adressen/DW A1 E2L3 Adressen - Vocabulary.apkg",
-      "deck": "Lessons::DW A1::E2 L3 Adressen"
+      "deck": "A1::DW::Lessons::E2 L3 Adressen"
      },
      "snapshot": "DW Deutsch lernen/A1/02_contact_details/03_Adressen/Materials/source-snapshot.json",
      "sources": [
@@ -6735,7 +6735,7 @@
      "notesFile": "DW Deutsch lernen/A1/02_contact_details/04_Auf dem Amt/Auf dem Amt.md",
      "lessonDeck": {
       "file": "DW Deutsch lernen/A1/02_contact_details/04_Auf dem Amt/DW A1 E2L4 Auf dem Amt - Vocabulary.apkg",
-      "deck": "Lessons::DW A1::E2 L4 Auf dem Amt"
+      "deck": "A1::DW::Lessons::E2 L4 Auf dem Amt"
      },
      "snapshot": "DW Deutsch lernen/A1/02_contact_details/04_Auf dem Amt/Materials/source-snapshot.json",
      "sources": [
@@ -7527,7 +7527,7 @@
      "notesFile": "DW Deutsch lernen/A1/03_in_company/01_Was machst du hier/Was_machst_du_hier.md",
      "lessonDeck": {
       "file": "DW Deutsch lernen/A1/03_in_company/01_Was machst du hier/DW A1 E3L1 Was machst du hier - Vocabulary.apkg",
-      "deck": "Lessons::DW A1::E3 L1 Was machst du hier?"
+      "deck": "A1::DW::Lessons::E3 L1 Was machst du hier?"
      },
      "snapshot": "DW Deutsch lernen/A1/03_in_company/01_Was machst du hier/Materials/source-snapshot.json",
      "sources": [
@@ -7915,7 +7915,7 @@
      "notesFile": "DW Deutsch lernen/A1/03_in_company/02_Was trinkst du/Was trinkst du.md",
      "lessonDeck": {
       "file": "DW Deutsch lernen/A1/03_in_company/02_Was trinkst du/DW A1 E3L2 Was trinkst du - Vocabulary.apkg",
-      "deck": "Lessons::DW A1::E3 L2 Was trinkst du?"
+      "deck": "A1::DW::Lessons::E3 L2 Was trinkst du?"
      },
      "snapshot": "DW Deutsch lernen/A1/03_in_company/02_Was trinkst du/Materials/source-snapshot.json",
      "sources": [
@@ -8577,7 +8577,7 @@
      "notesFile": "DW Deutsch lernen/A1/03_in_company/03_Eine Pizza bitte/Ein Pizza bitte.md",
      "lessonDeck": {
       "file": "DW Deutsch lernen/A1/03_in_company/03_Eine Pizza bitte/DW A1 E3L3 Eine Pizza bitte - Vocabulary.apkg",
-      "deck": "Lessons::DW A1::E3 L3 Eine Pizza bitte!"
+      "deck": "A1::DW::Lessons::E3 L3 Eine Pizza bitte!"
      },
      "snapshot": "DW Deutsch lernen/A1/03_in_company/03_Eine Pizza bitte/Materials/source-snapshot.json",
      "sources": [
@@ -9024,7 +9024,7 @@
      "notesFile": "DW Deutsch lernen/A1/03_in_company/04_Zahlen bitte/Zahlen bitte.md",
      "lessonDeck": {
       "file": "DW Deutsch lernen/A1/03_in_company/04_Zahlen bitte/DW A1 E3L4 Zahlen bitte - Vocabulary.apkg",
-      "deck": "Lessons::DW A1::E3 L4 Zahlen bitte!"
+      "deck": "A1::DW::Lessons::E3 L4 Zahlen bitte!"
      },
      "snapshot": "DW Deutsch lernen/A1/03_in_company/04_Zahlen bitte/Materials/source-snapshot.json",
      "sources": [
@@ -9611,7 +9611,7 @@
      "notesFile": "DW Deutsch lernen/A1/04_around_the_world/01_Ich war schon in Berlin/Ich war schon in Berlin.md",
      "lessonDeck": {
       "file": "DW Deutsch lernen/A1/04_around_the_world/01_Ich war schon in Berlin/DW A1 E4L1 Ich war schon in Berlin - Vocabulary.apkg",
-      "deck": "Lessons::DW A1::E4 L1 Ich war schon in Berlin"
+      "deck": "A1::DW::Lessons::E4 L1 Ich war schon in Berlin"
      },
      "snapshot": "DW Deutsch lernen/A1/04_around_the_world/01_Ich war schon in Berlin/Materials/source-snapshot.json",
      "sources": [
@@ -10340,7 +10340,7 @@
      "notesFile": "DW Deutsch lernen/A1/04_around_the_world/02_Wo liegt das/Wo liegt das.md",
      "lessonDeck": {
       "file": "DW Deutsch lernen/A1/04_around_the_world/02_Wo liegt das/DW A1 E4L2 Wo liegt das - Vocabulary.apkg",
-      "deck": "Lessons::DW A1::E4 L2 Wo liegt das?"
+      "deck": "A1::DW::Lessons::E4 L2 Wo liegt das?"
      },
      "snapshot": "DW Deutsch lernen/A1/04_around_the_world/02_Wo liegt das/Materials/source-snapshot.json",
      "sources": [
@@ -10810,7 +10810,7 @@
      "notesFile": "DW Deutsch lernen/A1/04_around_the_world/03_In Europa/In Europa.md",
      "lessonDeck": {
       "file": "DW Deutsch lernen/A1/04_around_the_world/03_In Europa/DW A1 E4L3 In Europa - Vocabulary.apkg",
-      "deck": "Lessons::DW A1::E4 L3 In Europa"
+      "deck": "A1::DW::Lessons::E4 L3 In Europa"
      },
      "snapshot": "DW Deutsch lernen/A1/04_around_the_world/03_In Europa/Materials/source-snapshot.json",
      "sources": [
@@ -11247,7 +11247,7 @@
      "notesFile": "DW Deutsch lernen/A1/04_around_the_world/04_Andere Länder/Andere Länder.md",
      "lessonDeck": {
       "file": "DW Deutsch lernen/A1/04_around_the_world/04_Andere Länder/DW A1 E4L4 Andere Länder - Vocabulary.apkg",
-      "deck": "Lessons::DW A1::E4 L4 Andere Länder"
+      "deck": "A1::DW::Lessons::E4 L4 Andere Länder"
      },
      "snapshot": "DW Deutsch lernen/A1/04_around_the_world/04_Andere Länder/Materials/source-snapshot.json",
      "sources": [
@@ -12115,7 +12115,7 @@
      "notesFile": "DW Deutsch lernen/A1/05_things/01_Was ist das/Was ist das.md",
      "lessonDeck": {
       "file": "DW Deutsch lernen/A1/05_things/01_Was ist das/DW A1 E5L1 Was ist das - Vocabulary.apkg",
-      "deck": "Lessons::DW A1::E5 L1 Was ist das?"
+      "deck": "A1::DW::Lessons::E5 L1 Was ist das?"
      },
      "snapshot": "DW Deutsch lernen/A1/05_things/01_Was ist das/Materials/source-snapshot.json",
      "sources": [
@@ -12464,7 +12464,7 @@
      "notesFile": "DW Deutsch lernen/A1/05_things/02_Wem gehört das/Wem gehört das.md",
      "lessonDeck": {
       "file": "DW Deutsch lernen/A1/05_things/02_Wem gehört das/DW A1 E5L2 Wem gehört das - Vocabulary.apkg",
-      "deck": "Lessons::DW A1::E5 L2 Wem gehört das?"
+      "deck": "A1::DW::Lessons::E5 L2 Wem gehört das?"
      },
      "snapshot": "DW Deutsch lernen/A1/05_things/02_Wem gehört das/Materials/source-snapshot.json",
      "sources": [
@@ -13117,7 +13117,7 @@
      "notesFile": "DW Deutsch lernen/A1/05_things/03_Ich habe kein/Ich habe kein.md",
      "lessonDeck": {
       "file": "DW Deutsch lernen/A1/05_things/03_Ich habe kein/DW A1 E5L3 Ich habe kein - Vocabulary.apkg",
-      "deck": "Lessons::DW A1::E5 L3 Ich habe kein …"
+      "deck": "A1::DW::Lessons::E5 L3 Ich habe kein …"
      },
      "snapshot": "DW Deutsch lernen/A1/05_things/03_Ich habe kein/Materials/source-snapshot.json",
      "sources": [
@@ -13659,7 +13659,7 @@
      "notesFile": "DW Deutsch lernen/A1/05_things/04_Das Auto ist rot/Das Auto ist rot.md",
      "lessonDeck": {
       "file": "DW Deutsch lernen/A1/05_things/04_Das Auto ist rot/DW A1 E5L4 Das Auto ist rot - Vocabulary.apkg",
-      "deck": "Lessons::DW A1::E5 L4 Das Auto ist rot"
+      "deck": "A1::DW::Lessons::E5 L4 Das Auto ist rot"
      },
      "snapshot": "DW Deutsch lernen/A1/05_things/04_Das Auto ist rot/Materials/source-snapshot.json",
      "sources": [
@@ -14100,7 +14100,7 @@
      "notesFile": "VHS-Lernportal/A1/Lesson_02/lektion_02.md",
      "lessonDeck": {
       "file": "VHS-Lernportal/A1/Lesson_02/VHS A1 L02 Meine Familie und ich - Vocabulary.apkg",
-      "deck": "Lessons::VHS A1::L02 Meine Familie und ich"
+      "deck": "A1::VHS::Lessons::L02 Meine Familie und ich"
      },
      "snapshot": "VHS-Lernportal/A1/Materials/source-snapshot.json",
      "sources": [
@@ -15690,7 +15690,7 @@
      "notesFile": "EasyGerman/01LearnBasiGermanGreetings&Farewells.md",
      "lessonDeck": {
       "file": "EasyGerman/Easy German SEG274 Greetings and Farewells - Vocabulary.apkg",
-      "deck": "Lessons::Easy German::SEG 274 Greetings & Farewells"
+      "deck": "A1::Easy German::Lessons::SEG 274 Greetings & Farewells"
      },
      "snapshot": "EasyGerman/Materials/source-snapshot.json",
      "sources": [],

@@ -134,10 +134,13 @@ def write_package(spec: DeckSpec, revision: str, path: Path) -> None:
     _write_collection(path, mod, models, decks, dconf, pairs)
 
 
-def merge_packages(sources: list[Path], path: Path) -> None:
-    """Combine built packages into one, copying their decks, notes and cards unchanged (same IDs, GUIDs and dates)."""
+def merge_packages(sources: list[tuple[Path, str]], path: Path) -> None:
+    """Combine one-deck packages into one, each deck filed under the given name.
+
+    Notes and cards are copied unchanged (same IDs, GUIDs and dates); only the deck a card sits in follows the name.
+    """
     mod, models, decks, dconf, pairs = 0, {}, {}, {}, []
-    for source in sources:
+    for source, deck_name in sources:
         with tempfile.TemporaryDirectory() as temp_name, zipfile.ZipFile(source) as archive:
             collection = Path(temp_name) / "collection.anki2"
             collection.write_bytes(archive.read("collection.anki2"))
@@ -145,14 +148,20 @@ def merge_packages(sources: list[Path], path: Path) -> None:
             try:
                 col_mod, models_json, decks_json, dconf_json = db.execute("SELECT mod, models, decks, dconf FROM col").fetchone()
                 cards = {row[1]: row for row in db.execute("SELECT * FROM cards")}
-                pairs += [(note, cards[note[0]]) for note in db.execute("SELECT * FROM notes")]
+                notes = db.execute("SELECT * FROM notes").fetchall()
             finally:
                 db.close()
+        own = [deck for key, deck in json.loads(decks_json).items() if key != "1"]
+        if len(own) != 1:
+            raise RuntimeError(f"{source.name}: expected one deck besides Default, found {len(own)}")
+        deck_id = stable_int(f"deck:{deck_name}")
+        decks.setdefault("1", json.loads(decks_json)["1"])
+        decks[str(deck_id)] = {**own[0], "id": deck_id, "name": deck_name}
+        pairs += [(note, cards[note[0]][:2] + (deck_id,) + cards[note[0]][3:]) for note in notes]
         mod = max(mod, col_mod)
         for key, model in json.loads(models_json).items():
             if key not in models or model["mod"] > models[key]["mod"]:  # the packages share note types; keep the newest
                 models[key] = model
-        decks.update(json.loads(decks_json))
         dconf.update(json.loads(dconf_json))
     ids = [note[0] for note, _ in pairs] + [card[0] for _, card in pairs]
     if len(set(ids)) != len(ids):

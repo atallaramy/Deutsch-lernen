@@ -98,9 +98,11 @@ this spirit.
 ### Cumulative decks (all courses)
 
 - One cumulative system for every course (DW, VHS, Easy German), divided by
-  retrieval skill into `German A1 — Vocabulary`, `German A1 — Articles` and
-  `German A1 — Sentences` (`ANKI/A1/vocabulary.apkg`, `articles.apkg`,
-  `sentences.apkg`). Provenance lives in tags (`course::…`, `lesson::…`). Later
+  retrieval skill into `A1::Vocabulary`, `A1::Articles` and `A1::Sentences`
+  (`ANKI/A1/vocabulary.apkg`, `articles.apkg`, `sentences.apkg`). In Anki the
+  level deck holds these three, then one deck per course with its lessons:
+  `A1 › Vocabulary, Articles, Sentences, DW › Lessons, VHS › Lessons, Easy
+  German › Lessons`. Provenance lives in tags (`course::…`, `lesson::…`). Later
   levels follow `docs/learning-roadmap.md`, each in its own folder
   (`ANKI/A2/`, `ANKI/B1/`).
 - Merge only records with an identical lemma and sense, across lessons and
@@ -150,11 +152,12 @@ this spirit.
 
 - One per processed lesson, in its lesson folder, named after the lesson title,
   e.g. file `DW A1 E1L3 Woher kommst du - Vocabulary.apkg` and Anki deck
-  `Lessons::DW A1::E1 L3 Woher kommst du?`; VHS: `VHS A1 L02 Meine Familie und
-  ich - Vocabulary.apkg` / `Lessons::VHS A1::L02 Meine Familie und ich`; Easy
-  German: `Lessons::Easy German::SEG 274 Greetings & Farewells`. All sit under
-  one collapsible `Lessons` deck in Anki. Older lesson-deck files keep their
-  names and are not deleted.
+  `A1::DW::Lessons::E1 L3 Woher kommst du?`; VHS: `VHS A1 L02 Meine Familie und
+  ich - Vocabulary.apkg` / `A1::VHS::Lessons::L02 Meine Familie und ich`; Easy
+  German: `A1::Easy German::Lessons::SEG 274 Greetings & Farewells`. Older
+  lesson-deck files keep their names and are not deleted; those built before
+  2026-10-09 still carry the old `Lessons::…` deck name inside, and
+  `Lessons.apkg` files them under the new one.
 - A lesson deck covers every captured entry of its lesson (its Vocabulary cards
   plus the Sentences cards for its phrases). It is a typed introduction, not a
   second long-term queue. It is built once; later changes go into the

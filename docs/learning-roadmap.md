@@ -23,9 +23,9 @@ for every level is in [`course-index/`](course-index/).
 
 | Level | Cumulative decks | Files |
 |---|---|---|
-| A1 (now) | `German A1 — Vocabulary`, `German A1 — Articles`, `German A1 — Sentences` | `ANKI/A1/vocabulary.apkg`, `ANKI/A1/articles.apkg`, `ANKI/A1/sentences.apkg`; lesson decks in `ANKI/A1/Lessons.apkg` |
-| A2 (default plan) | `German A2 — …` | `ANKI/A2/vocabulary.apkg`, … |
-| B1 (default plan) | `German B1 — …` | `ANKI/B1/vocabulary.apkg`, … |
+| A1 (now) | `A1::Vocabulary`, `A1::Articles`, `A1::Sentences`; lessons in `A1::<course>::Lessons` | `ANKI/A1/vocabulary.apkg`, `ANKI/A1/articles.apkg`, `ANKI/A1/sentences.apkg`; lesson decks in `ANKI/A1/Lessons.apkg` |
+| A2 (default plan) | `A2::…` | `ANKI/A2/vocabulary.apkg`, … |
+| B1 (default plan) | `B1::…` | `ANKI/B1/vocabulary.apkg`, … |
 
 A card belongs to the level of the lesson where its lemma + sense first appeared.
 Repeats from later levels merge into the existing card and add a source tag.

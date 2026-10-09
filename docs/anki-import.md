@@ -20,12 +20,32 @@ remove the old ones first. Otherwise you would review both.
 4. Lesson decks (optional, for a first typed pass through a lesson): import
    `ANKI/A1/Lessons.apkg`, which holds every lesson deck and grows with each
    lesson. Each lesson's own `… - Vocabulary.apkg` next to its notes holds the
-   same cards. In Anki they appear under one `Lessons` deck. Do not import the
-   old `…_Vocabulary.apkg` files. Lesson decks repeat cards from the cumulative
+   same cards. In Anki each course's lessons sit in its `Lessons` deck
+   (`A1 › DW › Lessons › E5 L4 Das Auto ist rot`). Do not import the old
+   `…_Vocabulary.apkg` files. Lesson decks repeat cards from the cumulative
    decks; once you have gone through a lesson, suspend its cards (Browse →
    select them → Cards → Toggle Suspend) rather than delete the deck, because
-   the next import of `Lessons.apkg` would bring a deleted deck back as new cards. Or skip them and use a filtered deck: *Tools → Create
-   Filtered Deck*, search `tag:lesson::dw-a1-e1-l3 is:new`.
+   the next import of `Lessons.apkg` would bring a deleted deck back as new
+   cards. Or skip them and use a filtered deck: *Tools → Create Filtered Deck*,
+   search `tag:lesson::dw-a1-e1-l3 is:new`.
+
+## Moving to the A1 layout (one time, 2026-10-09)
+
+An import never moves cards you already have, so rename the old decks once
+(deck list → gear next to the deck → Rename; type the full new name):
+
+| Old name | New name |
+|---|---|
+| `German A1 — Vocabulary` | `A1::Vocabulary` |
+| `German A1 — Articles` | `A1::Articles` |
+| `German A1 — Sentences` | `A1::Sentences` |
+| `Lessons::DW A1` | `A1::DW::Lessons` |
+| `Lessons::VHS A1` | `A1::VHS::Lessons` |
+| `Lessons::Easy German` | `A1::Easy German::Lessons` |
+
+Renaming a deck moves everything under it. Then delete the old `Lessons` deck,
+but only once it has nothing left under it: deleting a deck deletes all decks
+and cards under it.
 
 ## Later updates
 

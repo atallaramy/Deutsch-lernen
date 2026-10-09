@@ -1,5 +1,5 @@
 {
-  "deck": "German A1 — Vocabulary",
+  "deck": "A1::Vocabulary",
   "revision": "2026-10-09T09:34:00Z",
   "qualityPolicy": "One typed German word or fixed expression per card, in a verified context where one exists. No audio.",
   "cards": 779,
@@ -347,7 +347,7 @@
     "ANKI/A1/vocabulary.apkg": {
       "notes": 779,
       "cards": 779,
-      "sha256": "a1ed24e8577f9005d98593cf5f5371b0c93adc20165df39fca07cc3c45a0d38c"
+      "sha256": "645cfd8330e8313cbf7a4b349bbb732e15954d6080b9f5eea6ffe909a3b66a3c"
     }
   }
 }

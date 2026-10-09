@@ -1,5 +1,5 @@
 {
-  "deck": "German A1 — Sentences",
+  "deck": "A1::Sentences",
   "revision": "2026-10-09T09:34:00Z",
   "qualityPolicy": "Productive sentences, replies, register switches and contextual forms from the lessons. No audio.",
   "cards": 166,
@@ -347,7 +347,7 @@
     "ANKI/A1/sentences.apkg": {
       "notes": 166,
       "cards": 166,
-      "sha256": "3b79bdb8b5ecc59d6b8809cda35000828aa84778d9425616a53402fc6fc4e89c"
+      "sha256": "48fff17cfe8bf5ff26be68f1c95fe1a61c5bfa6948d6aae7c497e0ccd31f4d6f"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "deck": "German A1 — Articles",
+  "deck": "A1::Articles",
   "revision": "2026-10-09T09:34:00Z",
   "qualityPolicy": "Typed der/die/das for singular nouns. Plural and dependable gender patterns after answering. No audio.",
   "cards": 303,
@@ -347,7 +347,7 @@
     "ANKI/A1/articles.apkg": {
       "notes": 303,
       "cards": 303,
-      "sha256": "2e00625cfd44f76c7718a1fe26e9faf08245b5f8dd66774fe36a487ad1313a79"
+      "sha256": "e485df3764b0346bb2400e60fe8b52f281bfede1ae64816709342ba139efa63f"
     }
   }
 }
