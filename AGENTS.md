@@ -51,10 +51,8 @@ this spirit.
 - Git (`main`) is the only backup; make no copies. Commit when a lesson is
   done, without asking, and before changing builders, the data format or rule
   files. Other commits when the learner asks. Never push unless asked. Never
-  commit secrets (`.env` is ignored). No history noise: commits made after the
-  last push are merged into one commit. Before any commit that does not finish
-  a lesson, ask the learner how they want it (its own commit, or merged into
-  the unpushed one).
+  commit secrets (`.env` is ignored). Every commit is its own commit (easy to
+  revert); merge commits only when the learner asks.
 
 ## Capture records
 
