@@ -1775,6 +1775,40 @@
    "note": "ich esse · du isst · er/sie/es isst. Not er ist (sein)."
   },
   {
+   "key": "deshalb-nimmt-sie",
+   "kind": "completion",
+   "lesson": "dw-a1-e3-l3",
+   "skill": "verb in position 2",
+   "scene": "Nina is a vegetarian. Type “for that reason she takes” (3 words, nehmen).",
+   "prompt": {
+    "lesson": "dw-a1-e3-l3",
+    "source": "script",
+    "text": "Nina liebt Ananas, sie ist aber Vegetarierin und deshalb nimmt sie die Pizza jedes Mal ohne Schinken.",
+    "target": "deshalb nimmt sie"
+   },
+   "answer": "deshalb nimmt sie",
+   "covers": [],
+   "note": "deshalb takes position 1, so the verb comes next and sie after it: deshalb nimmt sie",
+   "oneOff": true
+  },
+  {
+   "key": "deshalb-nimmt-sie-whole-clause",
+   "kind": "completion",
+   "lesson": "dw-a1-e3-l3",
+   "skill": "verb in position 2",
+   "scene": "Nina is a vegetarian. Finish the sentence: “for that reason she takes the pizza without ham every time.”",
+   "prompt": {
+    "lesson": "dw-a1-e3-l3",
+    "source": "script",
+    "text": "Nina liebt Ananas, sie ist aber Vegetarierin und deshalb nimmt sie die Pizza jedes Mal ohne Schinken.",
+    "target": "deshalb nimmt sie die Pizza jedes Mal ohne Schinken."
+   },
+   "answer": "deshalb nimmt sie die Pizza jedes Mal ohne Schinken.",
+   "covers": [],
+   "note": "deshalb takes position 1, so the verb comes next and sie after it: deshalb nimmt sie",
+   "oneOff": true
+  },
+  {
    "key": "ch-ach-sound",
    "kind": "rule",
    "lesson": "dw-a1-e3-l3",

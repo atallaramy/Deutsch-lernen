@@ -135,8 +135,11 @@ this spirit.
 - Quality and retrieval purpose outrank card count. Do not make two cards that
   test substantially the same recall. A source sentence may appear on the front
   of only one card. A context must not contain another card's Sentences answer;
-  a German reply prompt is the only exception, and such pairs are kept apart in
+  a German reply prompt is an exception, and such pairs are kept apart in
   the new-card order.
+- `oneOff` on a Sentences card is off by default; set it only when the learner
+  asks for that specific card. Such a card may share its sentence with other
+  cards (kept apart in the new-card order) and also goes into its lesson's deck.
 - Typed answers are strict about spelling, capitalisation, umlauts and
   punctuation. The one normalisation is the apostrophe typed on the German Mac
   keyboard (`'`); the back shows the typographic form. With a context, the

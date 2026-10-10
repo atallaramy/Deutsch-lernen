@@ -157,6 +157,13 @@ class Packaging(unittest.TestCase):
         self.assertIn(card.key, specs["cumulative:vocabulary"])
         self.assertNotIn(card.key, specs.get(f"lesson:{lesson.id}", set()))
 
+    def test_one_off_sentence_card_joins_its_lesson_deck(self):
+        data = load()
+        cards, _, _ = build_all.collect(data)
+        specs = {spec.guid_namespace: {note.key for note in spec.notes} for spec in build_all.deck_specs(data, cards)}
+        self.assertIn("sentence:deshalb-nimmt-sie", specs["lesson:dw-a1-e3-l3"])
+        self.assertNotIn("sentence:ch-ach-sound", specs["lesson:dw-a1-e3-l3"])
+
 
 if __name__ == "__main__":
     unittest.main()

@@ -5,6 +5,7 @@ One line per confirmed decision, newest first. The rules they produce live in
 
 | Date | Decision |
 |---|---|
+| 2026-10-10 | `oneOff` marker on a Sentences card, off by default, set only when the learner asks for that card: it may share its sentence and joins its lesson's deck; first use, the two *deshalb nimmt sie* cards in E3 L3 ("it should always be off until I explicitly ask to make it on for a specific card"). |
 | 2026-10-09 | Anki layout: `A1` holds the shared `Vocabulary`, `Articles` and `Sentences`, then `DW`, `VHS` and `Easy German`, each with a `Lessons` deck holding its lessons ("vocabulary, articles and sentences should be one level higher … we do not repeat them in each folder"). |
 | 2026-10-09 | The cumulative decks live in `ANKI/A1/` (later levels in their own folder), and every lesson deck is also combined, unchanged, in `ANKI/A1/Lessons.apkg`, updated with each new lesson ("I want all the lessons ankies combined in one anki inside that folder"). |
 | 2026-10-07 | A grammar word's description is the lesson's own, verbatim, whenever a studied lesson gives one; Claude's wording only until then ("if this description available in the lesson you take the lessons description … I like the lessons ones"). |

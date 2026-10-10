@@ -273,6 +273,7 @@ class Card:
     warnings: list[str] = field(default_factory=list)
     interferes: list[str] = field(default_factory=list)
     retired: str = ""
+    one_off: bool = False  # set only when the learner asks for that card (AGENTS.md → oneOff)
 
 
 def details_html(lines: list[str]) -> str:

@@ -81,6 +81,16 @@ class RealData(unittest.TestCase):
         errors, _ = card_quality.check(self.data, self.cards + [dup])
         self.assertTrue(any("Same German front" in error for error in errors))
 
+    def test_shared_sentence_passes_only_on_one_off_cards(self):
+        self.assertIn("sentence:deshalb-nimmt-sie", self.card("vocab:deshalb|therefore").interferes)
+        self.assertIn("sentence:deshalb-nimmt-sie-whole-clause", self.card("sentence:deshalb-nimmt-sie").interferes)
+        data = copy.deepcopy(self.data)
+        for spec in data.sentence_cards:
+            spec.pop("oneOff", None)
+        _, errors, _ = build_all.collect(data)
+        self.assertTrue(any("Same German front" in error and "deshalb-nimmt-sie" in error for error in errors))
+        self.assertTrue(any("contains the answer of sentence:deshalb-nimmt-sie" in error for error in errors))
+
     def test_ambiguous_cues_are_rejected(self):
         twin = copy.deepcopy(self.card("vocab:Mutter|mother"))
         twin.key, twin.answer, twin.front_german = "vocab:test-twin", "Mama2", ""

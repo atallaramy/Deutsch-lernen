@@ -121,10 +121,10 @@ def check(data: Data, cards: list[Card]) -> tuple[list[str], dict[str, list[str]
         if len(answers) > 1:
             errors.append(f"Ambiguous cue meaning {part!r} → {sorted(answers)}; add a disambiguating cue")
 
-    # Front-sentence registry across the cumulative decks.
+    # Front-sentence registry across the cumulative decks; a oneOff card may share its sentence.
     fronts = defaultdict(list)
     for card in cards:
-        if card.front_german:
+        if card.front_german and not card.one_off:
             fronts[normalize(card.front_german).casefold()].append(card.key)
     for text, keys in fronts.items():
         if len(keys) > 1:
@@ -134,13 +134,14 @@ def check(data: Data, cards: list[Card]) -> tuple[list[str], dict[str, list[str]
     def bare(text: str) -> str:
         return re.sub(r"[^\wäöüß ]+", "", normalize(text).casefold()).strip()
     sentence_answers = {bare(card.fields["Display"]): card.key for card in by_deck["sentences"]}
+    one_off = {card.key for card in cards if card.one_off}
     for card in cards:
         if card.front_german:
             front = f" {bare(card.front_german)} "
             for answer, key in sentence_answers.items():
                 if key != card.key and len(answer.split()) >= 3 and f" {answer} " in front:
-                    if "kind::response" in card.tags:
-                        card.interferes.append(key)  # a reply prompt is input, not a cue; keep the pair apart
+                    if "kind::response" in card.tags or {card.key, key} & one_off:
+                        card.interferes.append(key)  # a reply prompt or a oneOff card: keep the pair apart
                     else:
                         errors.append(f"{card.key}: its context contains the answer of {key}")
 

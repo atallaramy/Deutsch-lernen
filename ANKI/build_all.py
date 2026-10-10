@@ -111,7 +111,8 @@ def deck_specs(data: Data, cards: list[Card]) -> list[DeckSpec]:
     for lesson in data.lessons:
         # inLessonDeck: false = captured after the lesson deck shipped; cumulative decks only (learner, 2026-09-27).
         refs = {f"{lesson.id}:{entry['id']}" for entry in lesson.record.get("entries", []) if entry.get("inLessonDeck", True)}
-        lesson_cards = [card for card in cards if card.deck in {"vocabulary", "sentences"} and refs & set(card.covers)]
+        lesson_cards = [card for card in cards if card.deck in {"vocabulary", "sentences"}
+                        and (refs & set(card.covers) or (card.one_off and card.lessons[0] == lesson.id))]
         if not lesson_cards:
             continue
         deck_info = lesson.record["lessonDeck"]

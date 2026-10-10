@@ -136,6 +136,7 @@ def build(data: Data) -> tuple[list[Card], list[str]]:
             deck="sentences", key=key, fields=fields, covers=[entry.ref for entry in covered], lessons=lessons,
             order=(lesson.order, position, spec["key"]), answer=answer, cue=spec["scene"],
             front_german=prompt["text"] if prompt_front else "", warnings=warnings, retired=spec.get("retired", ""),
+            one_off=spec.get("oneOff", False) is True,
             tags=sorted(tags | ({f"retired::{spec['retired']}"} if spec.get("retired") else set())),
         ))
     return cards, errors
