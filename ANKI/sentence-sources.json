@@ -2707,6 +2707,52 @@
    "answer": "keinen",
    "covers": [],
    "note": "Hier ist kein Fahrradladen. (sein: nominative) · Es gibt … keinen Fahrradladen. (accusative)"
+  },
+  {
+   "key": "du-kannst-nur-noch-zwei-tage",
+   "kind": "completion",
+   "lesson": "dw-a1-e6-l1",
+   "skill": "können: du kannst + infinitive at the end",
+   "scene": "können, du-form: Lisa tells Nico he can only stay two more days. Type the missing word.",
+   "prompt": {
+    "lesson": "dw-a1-e6-l1",
+    "source": "script",
+    "text": "Du kannst nur noch zwei Tage in der WG bleiben.",
+    "target": "kannst"
+   },
+   "answer": "kannst",
+   "covers": [],
+   "note": "ich kann · du kannst · er/sie kann — the infinitive (bleiben) goes to the end."
+  },
+  {
+   "key": "not-as-expensive-as-a-hotel",
+   "kind": "completion",
+   "lesson": "dw-a1-e6-l1",
+   "skill": "comparison: nicht so … wie",
+   "scene": "Hostels cost less than a hotel: not as expensive as. Type the missing words.",
+   "prompt": {
+    "lesson": "dw-a1-e6-l1",
+    "source": "script",
+    "text": "Jugendherbergen und Hostels sind nicht so teuer wie ein Hotel.",
+    "target": "nicht so teuer wie"
+   },
+   "answer": "nicht so teuer wie",
+   "covers": [],
+   "note": "nicht so + adjective + wie = not as … as"
+  },
+  {
+   "key": "do-you-understand-du",
+   "kind": "production",
+   "lesson": "dw-a1-e6-l1",
+   "skill": "yes/no question: verb first",
+   "scene": "Ask a friend (du) whether they understand.",
+   "answer": "Verstehst du?",
+   "answerSource": {
+    "lesson": "dw-a1-e6-l1",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "du verstehst → Verstehst du? (the verb comes first)"
   }
  ]
 }

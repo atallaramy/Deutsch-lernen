@@ -3120,6 +3120,122 @@
   "dw-a1-e5-l4:ich-sehe-was-was-du-nicht-siehst": [
    "sentence:i-spy-red-and-new"
   ],
+  "dw-a1-e6-l1:auf-dem-land": [
+   "vocab:auf dem Land|in-the-country"
+  ],
+  "dw-a1-e6-l1:der-balkon": [
+   "article:Balkon|m",
+   "vocab:Balkon|balcony"
+  ],
+  "dw-a1-e6-l1:der-die-bekannte": [
+   "vocab:Bekannte|acquaintance"
+  ],
+  "dw-a1-e6-l1:besser": [
+   "vocab:besser|better"
+  ],
+  "dw-a1-e6-l1:frei": [
+   "vocab:frei|free"
+  ],
+  "dw-a1-e6-l1:der-garten": [
+   "article:Garten|m",
+   "vocab:Garten|garden"
+  ],
+  "dw-a1-e6-l1:die-heizung": [
+   "article:Heizung|f",
+   "vocab:Heizung|heating"
+  ],
+  "dw-a1-e6-l1:jemandem-helfen": [
+   "vocab:helfen|to-help-someone"
+  ],
+  "dw-a1-e6-l1:das-hochhaus": [
+   "article:Hochhaus|n",
+   "vocab:Hochhaus|high-rise"
+  ],
+  "dw-a1-e6-l1:etwas-hoffen": [
+   "vocab:hoffen|to-hope"
+  ],
+  "dw-a1-e6-l1:das-hostel": [
+   "article:Hostel|n",
+   "vocab:Hostel|hostel"
+  ],
+  "dw-a1-e6-l1:in-der-stadt": [
+   "vocab:in der Stadt|in-the-city"
+  ],
+  "dw-a1-e6-l1:die-jugendherberge": [
+   "article:Jugendherberge|f",
+   "vocab:Jugendherberge|youth-hostel"
+  ],
+  "dw-a1-e6-l1:kaputt": [
+   "vocab:kaputt|broken"
+  ],
+  "dw-a1-e6-l1:das-kind": [
+   "article:Kind|n",
+   "vocab:Kind|child"
+  ],
+  "dw-a1-e6-l1:konnen": [
+   "vocab:können|can"
+  ],
+  "dw-a1-e6-l1:leben": [
+   "vocab:leben|to-live"
+  ],
+  "dw-a1-e6-l1:meist": [
+   "vocab:meist|usually"
+  ],
+  "dw-a1-e6-l1:die-miete": [
+   "article:Miete|f",
+   "vocab:Miete|rent"
+  ],
+  "dw-a1-e6-l1:der-mitbewohner": [
+   "article:Mitbewohner|m",
+   "vocab:Mitbewohner|flatmate"
+  ],
+  "dw-a1-e6-l1:die-mitbewohnerin": [
+   "article:Mitbewohnerin|f",
+   "vocab:Mitbewohnerin|flatmate"
+  ],
+  "dw-a1-e6-l1:die-natur": [
+   "article:Natur|f",
+   "vocab:Natur|nature"
+  ],
+  "dw-a1-e6-l1:nett": [
+   "vocab:nett|nice"
+  ],
+  "dw-a1-e6-l1:oft": [
+   "vocab:oft|often"
+  ],
+  "dw-a1-e6-l1:schnell": [
+   "vocab:schnell|fast"
+  ],
+  "dw-a1-e6-l1:sich-etwas-teilen": [
+   "vocab:teilen|to-share"
+  ],
+  "dw-a1-e6-l1:umziehen": [
+   "vocab:umziehen|to-move-house"
+  ],
+  "dw-a1-e6-l1:der-umzug": [
+   "article:Umzug|m",
+   "vocab:Umzug|move"
+  ],
+  "dw-a1-e6-l1:der-urlaub": [
+   "article:Urlaub|m",
+   "vocab:Urlaub|vacation"
+  ],
+  "dw-a1-e6-l1:etwas-jemanden-verstehen": [
+   "vocab:verstehen|to-understand"
+  ],
+  "dw-a1-e6-l1:viele": [
+   "vocab:viele|many"
+  ],
+  "dw-a1-e6-l1:vielleicht": [
+   "vocab:vielleicht|maybe"
+  ],
+  "dw-a1-e6-l1:das-heisst": [
+   "vocab:das heißt|that-is"
+  ],
+  "dw-a1-e6-l1:die-grossstadt": [
+   "article:Großstadt|f",
+   "vocab:Großstadt|big-city"
+  ],
   "vhs-a1-l02:die-familie": [
    "article:Familie|f",
    "vocab:Familie|family"

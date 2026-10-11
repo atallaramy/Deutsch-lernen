@@ -1452,7 +1452,8 @@
     "lesson": "vhs-a1-l02",
     "source": "vhs-a1-filmskripte",
     "text": "das kann ich gut verstehen."
-   }
+   },
+   "cue": "to understand"
   },
   "verwitwet|widowed": {
    "cue": "Familienstand on a form: widowed"
@@ -3326,6 +3327,154 @@
   },
   "Du bist dran.|your-turn": {
    "cue": "It's your turn. (informal)"
+  },
+  "auf dem Land|in-the-country": {
+   "cue": "in the country (the countryside, not the city)",
+   "context": {
+    "lesson": "dw-a1-e6-l1",
+    "source": "exercises",
+    "text": "Deshalb leben Familien mit Kindern oft auf dem Land.",
+    "target": "auf dem Land"
+   }
+  },
+  "Balkon|balcony": {
+   "context": {
+    "lesson": "dw-a1-e6-l1",
+    "source": "exercises",
+    "text": "Hast du einen Balkon?",
+    "target": "Balkon"
+   }
+  },
+  "besser|better": {
+   "context": {
+    "lesson": "dw-a1-e6-l1",
+    "source": "script",
+    "text": "Eine Jugendherberge ist besser.",
+    "target": "besser"
+   },
+   "note": "gut → besser → am besten"
+  },
+  "frei|free": {
+   "cue": "free; unoccupied (a room)",
+   "context": {
+    "lesson": "dw-a1-e6-l1",
+    "source": "script",
+    "text": "Vielleicht haben sie ein Zimmer frei.",
+    "target": "frei"
+   }
+  },
+  "Garten|garden": {
+   "context": {
+    "lesson": "dw-a1-e6-l1",
+    "source": "exercises",
+    "text": "Hast du einen Garten?",
+    "target": "Garten"
+   }
+  },
+  "hoffen|to-hope": {
+   "cue": "to hope",
+   "context": {
+    "lesson": "dw-a1-e6-l1",
+    "source": "exercises",
+    "text": "Ich habe ein Problem und hoffe, ihr könnt mir helfen.",
+    "target": "hoffe"
+   }
+  },
+  "in der Stadt|in-the-city": {
+   "cue": "in the city (not in the country)",
+   "context": {
+    "lesson": "dw-a1-e6-l1",
+    "source": "exercises",
+    "text": "Eine Wohnung in der Stadt ist oft teuer.",
+    "target": "in der Stadt"
+   }
+  },
+  "meist|usually": {
+   "context": {
+    "lesson": "dw-a1-e6-l1",
+    "source": "exercises",
+    "text": "Auf dem Land sind Wohnungen und Häuser meist nicht so teuer.",
+    "target": "meist"
+   }
+  },
+  "Miete|rent": {
+   "cue": "rent (what you pay for a flat)"
+  },
+  "Mitbewohner|flatmate": {
+   "cue": "roommate, flatmate (male)"
+  },
+  "Mitbewohnerin|flatmate": {
+   "cue": "roommate, flatmate (female)"
+  },
+  "Natur|nature": {
+   "context": {
+    "lesson": "dw-a1-e6-l1",
+    "source": "exercises",
+    "text": "Auf dem Land gibt es viel Natur.",
+    "target": "Natur"
+   }
+  },
+  "oft|often": {
+   "context": {
+    "lesson": "dw-a1-e6-l1",
+    "source": "exercises",
+    "text": "Auf dem Land leben oft Familien.",
+    "target": "oft"
+   }
+  },
+  "teilen|to-share": {
+   "context": {
+    "lesson": "dw-a1-e6-l1",
+    "source": "exercises",
+    "text": "Sie können sich die Miete teilen.",
+    "target": "teilen"
+   }
+  },
+  "umziehen|to-move-house": {
+   "context": {
+    "lesson": "dw-a1-e6-l1",
+    "source": "script",
+    "text": "Dann musst du umziehen.",
+    "target": "umziehen"
+   },
+   "note": "separable: er zieht um"
+  },
+  "Umzug|move": {
+   "cue": "a move; relocation (the noun)"
+  },
+  "Urlaub|vacation": {
+   "context": {
+    "lesson": "dw-a1-e6-l1",
+    "source": "script",
+    "text": "Sebastian, Nina, Nawin und ich fahren dann in Urlaub.",
+    "target": "Urlaub"
+   }
+  },
+  "viele|many": {
+   "context": {
+    "lesson": "dw-a1-e6-l1",
+    "source": "exercises",
+    "text": "Viele Studenten leben in einer WG.",
+    "target": "Viele"
+   }
+  },
+  "das heißt|that-is": {
+   "cue": "that is; that is to say (i.e.)",
+   "context": {
+    "lesson": "dw-a1-e6-l1",
+    "source": "exercises",
+    "text": "Das heißt, zwei oder mehr Personen teilen sich eine Wohnung und leben in einer WG zusammen.",
+    "target": "Das heißt"
+   }
+  },
+  "Großstadt|big-city": {
+   "cue": "big city",
+   "context": {
+    "lesson": "dw-a1-e6-l1",
+    "source": "exercises",
+    "text": "Wohnungen in einer Großstadt sind oft teuer.",
+    "target": "Großstadt"
+   }
   }
  }
 }

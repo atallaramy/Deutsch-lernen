@@ -1,0 +1,610 @@
+{
+ "description": "Official source text captured by ANKI/harvest_sources.py for offline context verification.",
+ "harvestedOn": "2026-10-11",
+ "sources": [
+  {
+   "id": "exercises",
+   "kind": "dw-exercises",
+   "url": "https://learngerman.dw.com/en/so-wohne-ich/l-37425145",
+   "lessonUrl": "https://learngerman.dw.com/en/so-wohne-ich/l-37425145",
+   "vocabulary": {
+    "url": "https://learngerman.dw.com/en/so-wohne-ich/l-37425145/lv",
+    "items": [
+     {
+      "id": 37887743,
+      "german": "auf dem Land",
+      "english": "in the country",
+      "forms": ""
+     },
+     {
+      "id": 37501873,
+      "german": "der Balkon, die Balkons",
+      "english": "balcony; porch",
+      "forms": "alternativer Plural: die Balkone, Abkürzung: BLK"
+     },
+     {
+      "id": 37501879,
+      "german": "der Bekannte, die Bekannten",
+      "english": "acquaintance (male)",
+      "forms": "mit unbestimmtem Artikel: ein Bekannter, Bekannte"
+     },
+     {
+      "id": 37501898,
+      "german": "die Bekannte, die Bekannten",
+      "english": "acquaintance (female)",
+      "forms": "mit unbestimmtem Artikel: eine Bekannte, Bekannte"
+     },
+     {
+      "id": 37502095,
+      "german": "besser",
+      "english": "better",
+      "forms": ""
+     },
+     {
+      "id": 37502110,
+      "german": "frei",
+      "english": "free; open; here: unoccupied",
+      "forms": ""
+     },
+     {
+      "id": 37502169,
+      "german": "der Garten, die Gärten",
+      "english": "garden",
+      "forms": ""
+     },
+     {
+      "id": 37502250,
+      "german": "die Heizung, die Heizungen",
+      "english": "heating; heater",
+      "forms": ""
+     },
+     {
+      "id": 37364890,
+      "german": "(jemandem) helfen",
+      "english": "to help someone",
+      "forms": "hilft, half, hat geholfen"
+     },
+     {
+      "id": 37502260,
+      "german": "das Hochhaus, die Hochhäuser",
+      "english": "high-rise building",
+      "forms": ""
+     },
+     {
+      "id": 37503695,
+      "german": "etwas hoffen",
+      "english": "to hope something",
+      "forms": "hofft, hoffte, hat gehofft"
+     },
+     {
+      "id": 37502264,
+      "german": "das Hostel, die Hostels",
+      "english": "hostel",
+      "forms": ""
+     },
+     {
+      "id": 42659850,
+      "german": "in der Stadt",
+      "english": "in the city",
+      "forms": ""
+     },
+     {
+      "id": 37502409,
+      "german": "die Jugendherberge, die Jugendherbergen",
+      "english": "youth hostel",
+      "forms": ""
+     },
+     {
+      "id": 37395483,
+      "german": "kaputt",
+      "english": "broken",
+      "forms": "kaputter, am kaputtesten"
+     },
+     {
+      "id": 37503479,
+      "german": "das Kind, die Kinder",
+      "english": "child",
+      "forms": ""
+     },
+     {
+      "id": 37365121,
+      "german": "können",
+      "english": "to be able to; can",
+      "forms": "kann, konnte"
+     },
+     {
+      "id": 37397608,
+      "german": "leben",
+      "english": "to live; to be alive",
+      "forms": "lebt, lebte, hat gelebt"
+     },
+     {
+      "id": 37503462,
+      "german": "meist",
+      "english": "most of the time; usually",
+      "forms": "Kurzform von: meistens"
+     },
+     {
+      "id": 37503255,
+      "german": "die Miete, die Mieten",
+      "english": "rent",
+      "forms": ""
+     },
+     {
+      "id": 37503116,
+      "german": "der Mitbewohner, die Mitbewohner",
+      "english": "roommate; housemate; flatmate (male)",
+      "forms": ""
+     },
+     {
+      "id": 37526713,
+      "german": "die Mitbewohnerin, die Mitbewohnerinnen",
+      "english": "roommate; housemate; flatmate (female)",
+      "forms": ""
+     },
+     {
+      "id": 37502437,
+      "german": "die Natur",
+      "english": "nature",
+      "forms": "hier nur Singular"
+     },
+     {
+      "id": 37503780,
+      "german": "nett",
+      "english": "nice; friendly",
+      "forms": "netter, am nettesten"
+     },
+     {
+      "id": 37502440,
+      "german": "oft",
+      "english": "often",
+      "forms": "öfter, am öftesten"
+     },
+     {
+      "id": 37492458,
+      "german": "schnell",
+      "english": "fast",
+      "forms": "schneller, am schnellsten"
+     },
+     {
+      "id": 37503061,
+      "german": "sich etwas teilen",
+      "english": "to share",
+      "forms": "teilt, teilte, hat geteilt"
+     },
+     {
+      "id": 37502451,
+      "german": "um|ziehen",
+      "english": "to move (house, cities, etc.)",
+      "forms": "zieht um, zog um, ist umgezogen"
+     },
+     {
+      "id": 37503668,
+      "german": "der Umzug, die Umzüge",
+      "english": "move; relocation",
+      "forms": ""
+     },
+     {
+      "id": 37542413,
+      "german": "der Urlaub, die Urlaube",
+      "english": "vacation; holiday",
+      "forms": ""
+     },
+     {
+      "id": 37745237,
+      "german": "etwas/jemanden verstehen",
+      "english": "to understand something/someone",
+      "forms": "versteht, verstand, hat verstanden"
+     },
+     {
+      "id": 37502755,
+      "german": "viele",
+      "english": "many",
+      "forms": ""
+     },
+     {
+      "id": 37368240,
+      "german": "vielleicht",
+      "english": "perhaps; maybe",
+      "forms": ""
+     }
+    ]
+   },
+   "exercises": [
+    {
+     "id": "e-37430520",
+     "url": "https://learngerman.dw.com/en/definite-indefinite-or-negative-article/l-37425145/e-37430520",
+     "title": "Definite, indefinite, or negative article?",
+     "texts": [
+      "Beispiel:\nIst das ein Zimmer? – Nein, das ist kein Zimmer.\nDas ist eine Wohnung. Das ist die Wohnung von Jan.",
+      "ein",
+      "kein",
+      "eine",
+      "die",
+      "eine",
+      "keine",
+      "ein",
+      "das",
+      "ein",
+      "kein",
+      "eine",
+      "die",
+      "Ist das #p# Haus? – Nein, das ist #p# Haus. Das ist #p# Wohnung. Das ist #p# Wohnung von Jan.",
+      "Wähl für jede Lücke den richtigen Artikel aus und vervollständige so den Text.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "Ist das #p# Wohnung? – Nein, das ist #p# Wohnung. Das ist #p# Zimmer. Das ist #p# Zimmer von Lisa.",
+      "Wähl für jede Lücke den richtigen Artikel aus und vervollständige so den Text.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "Ist das #p#Hochhaus? – Nein, das ist #p# Hochhaus. Das ist #p# Jugendherberge. Das ist #p# Jugendherberge von Bonn.",
+      "Wähl für jede Lücke den richtigen Artikel aus und vervollständige so den Text.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37431509",
+     "url": "https://learngerman.dw.com/en/do-you-have-a-house/l-37425145/e-37431509",
+     "title": "Do you have a house?",
+     "texts": [
+      "Du wohnst auf dem Land und hast ein Haus. Du hast auch einen Garten. Der Garten ist groß. Du hast keinen Balkon, aber du hast eine Garage.",
+      "wohne auf dem Land",
+      "habe ein Haus",
+      "habe einen Garten",
+      "Garten ist groß",
+      "habe keinen Balkon",
+      "habe eine Garage",
+      "Wohnst du auf dem Land oder in der Stadt?\nIch #pl#.\nHast du ein Haus oder eine Wohnung?\nIch #pl#.\nHast du einen Garten?\nJa, ich #pl#.\nIst der Garten klein?\nNein, der #pl#.\nHast du einen Balkon?\nNein, ich #pl#.\nHast du eine Garage?\nJa, ich #pl#.",
+      "Lies die Fragen und antworte in ganzen Sätzen. Schreib die Sätze in die Lücken.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37426787",
+     "url": "https://learngerman.dw.com/en/lisa-is-looking-for-a-solution-to-nicos-problem/l-37425145/e-37426787",
+     "title": "Lisa is looking for a solution to Nico's problem",
+     "texts": [
+      "ein Hotel",
+      "Eine Jugendherberge",
+      "ein Hostel",
+      "Nico: Du bist nicht da? Ich suche mir #p#.\nLisa: Nein, das ist sehr teuer. #p# ist besser.\nNico: Jugendherberge?\nLisa: Ja, eine Jugendherberge oder #p#. Jugendherbergen und Hostels sind nicht so teuer wie ein Hotel. Viele junge Leute übernachten dort. Und ich frag meine Freunde und Bekannten. Vielleicht haben sie ein Zimmer frei.\nNico: Okay, danke.",
+      "Wähl die fehlenden Wörter in der richtigen Reihenfolge aus und vervollständige so den Dialog.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37425984",
+     "url": "https://learngerman.dw.com/en/living-arrangements-nico-has-a-problem/l-37425145/e-37425984",
+     "title": "Living arrangements: Nico has a problem",
+     "texts": [
+      "Nico wohnt in der WG.",
+      "Die Heizung ist kaputt.",
+      "Wo wohnt Nico?",
+      "Warum muss Nico umziehen?"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37425332",
+     "url": "https://learngerman.dw.com/en/living-arrangements/l-37425145/e-37425332",
+     "title": "Living arrangements",
+     "texts": [
+      "Sie sprechen über ein Problem.",
+      "Nico kann nicht in der Wohnung bleiben.",
+      "Was machen Nico und Lisa?",
+      "Was ist das Problem?"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37430076",
+     "url": "https://learngerman.dw.com/en/living-in-a-city-or-in-the-country/l-37425145/e-37430076",
+     "title": "Living in a city or in the country ",
+     "texts": [
+      "Das ist in der Stadt.",
+      "Das ist auf dem Land.",
+      "Wo ist das?",
+      "Wo ist das?"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37426741",
+     "url": "https://learngerman.dw.com/en/living-in-a-shared-apartment/l-37425145/e-37426741",
+     "title": "Living in a shared apartment",
+     "texts": [
+      "Viele Studenten leben in Deutschland in einer Wohngemeinschaft (WG). Das heißt, zwei oder mehr Personen teilen sich eine Wohnung und leben in einer WG zusammen. Sie sind dann Mitbewohner. Wohnungen in einer Großstadt sind oft teuer. Aber für zwei, drei oder vier Studenten ist es okay. Sie können sich die Miete teilen.",
+      "Eine Wohnung in der Stadt ist oft teuer.",
+      "Viele Studenten leben in einer WG.",
+      "Lies den Text und wähl aus. Zwei Antworten sind richtig."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37430176",
+     "url": "https://learngerman.dw.com/en/living-in-the-country/l-37425145/e-37430176",
+     "title": "Living in the country",
+     "texts": [
+      "Auf dem Land sind Wohnungen und Häuser meist nicht so teuer. Deshalb leben Familien mit Kindern oft auf dem Land. Aber auch Personen, die Natur lieben, wohnen gern auf dem Land.",
+      "Auf dem Land leben oft Familien.",
+      "Auf dem Land gibt es viel Natur.",
+      "Was stimmt? Zwei Antworten sind richtig."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37431148",
+     "url": "https://learngerman.dw.com/en/nico-learns-german-living-arrangements/l-37425145/e-37431148",
+     "title": "Nico learns German: Living arrangements",
+     "texts": [
+      "die Wohngemeinschaft, die Wohngemeinschaften",
+      "das Haus, die Häuser",
+      "die Wohnung, die Wohnungen",
+      "das Zimmer, die Zimmer",
+      "das Hochhaus, die Hochhäuser",
+      "die Jugendherberge, die Jugendherbergen"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37429201",
+     "url": "https://learngerman.dw.com/en/revision-articles-in-the-accusative/l-37425145/e-37429201",
+     "title": "Revision: Articles in the accusative",
+     "texts": [
+      "der Balkon – die Balkone",
+      "einen",
+      "einen",
+      "keinen",
+      "den",
+      "Hast du ... Balkon?",
+      "Careful! After the verb \"haben\", the accusative form is used. However, it is only for masculine nouns that the accusative article differs from the nominative one.",
+      "Ja, ich habe … Balkon.",
+      "Nein, ich habe … Balkon.",
+      "Ich liebe ... Balkon.",
+      "Careful! After the verb \"lieben\", the accusative form is used."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37428634",
+     "url": "https://learngerman.dw.com/en/revision-articles-in-the-nominative/l-37425145/e-37428634",
+     "title": "Revision: Articles in the nominative",
+     "texts": [
+      "eine",
+      "die",
+      "ein",
+      "das",
+      "Info: Indefinite article (ein/eine/ein): You have no other information about a shared apartment.",
+      "Das ist #p# Wohngemeinschaft.",
+      "Info: Definite article (der/die/das): You have information about this particular shared apartment — in this case, its inhabitants.",
+      "Das ist #p# Wohngemeinschaft von Lisa.",
+      "Das ist #p# Zimmer.",
+      "Das ist #p# Zimmer von Nawin."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37430716",
+     "url": "https://learngerman.dw.com/en/revision-the-plural/l-37425145/e-37430716",
+     "title": "Revision: The plural",
+     "texts": [
+      "Hotels",
+      "Wohnungen",
+      "Zimmer",
+      "Garagen",
+      "Häuser",
+      "Was passt zusammen? Ordne zu.",
+      "Do you remember? The article for plural nouns is always \"die\".",
+      "das Hotel",
+      "die Wohnung",
+      "das Zimmer",
+      "die Garage",
+      "das Haus"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37431591",
+     "url": "https://learngerman.dw.com/en/understanding-information-from-an-email/l-37425145/e-37431591",
+     "title": "Understanding information from an email",
+     "texts": [
+      "Betreff: Umzug – Nico sucht ein Zimmer!\nHallo zusammen!\nIch habe ein Problem und hoffe, ihr könnt mir helfen. Wir haben in der WG im Moment einen Gast aus Spanien. Aber die Heizung ist kaputt und in zwei Tagen kommen die Handwerker. Nawin, Nina, Sebastian und ich fahren dann in Urlaub. Habt ihr vielleicht ein Zimmer für Nico frei? Er ist sehr nett und lernt immer mehr Deutsch. Bitte antwortet mir schnell! Vielen Dank! Liebe Grüße\nLisa",
+      "Lisa schreibt an Freunde und Bekannte.",
+      "Lisa sucht ein freies Zimmer für Nico.",
+      "Was ist richtig?",
+      "Was ist richtig?"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37429030",
+     "url": "https://learngerman.dw.com/en/vocabulary-living-arrangements/l-37425145/e-37429030",
+     "title": "Vocabulary – Living arrangements",
+     "texts": [
+      "Deutschkurse | Nicos Weg | A1 E06 | A1_E06_L1_S8_Foto1",
+      "Deutschkurse | Nicos Weg | A1 E06 | A1_E06_L1_S8_Foto2",
+      "Deutschkurse | Nicos Weg | A1 E06 | A1_E06_L1_S8_Foto3",
+      "Deutschkurse | Nicos Weg | A1 E06 | A1_E06_L1_S8_Foto4",
+      "Was passt zusammen? Ordne zu.",
+      "die Garage",
+      "der Garten",
+      "der Balkon",
+      "das Auto"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37429789",
+     "url": "https://learngerman.dw.com/en/what-belongs-in-your-apartment/l-37425145/e-37429789",
+     "title": "What belongs in your apartment?",
+     "texts": [
+      "Hast du einen Balkon?",
+      "Ja, ich ... / Nein, ich ...",
+      "Hast du einen Garten?",
+      "Ja ... / Nein ...",
+      "Hast du eine Garage?",
+      "Ja ... / Nein ..."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37428730",
+     "url": "https://learngerman.dw.com/en/who-lives-where/l-37425145/e-37428730",
+     "title": "Who lives where?",
+     "texts": [
+      "Beispiel:\nIst das eine Wohnung?\n(Jugendherberge)\nNein, das ist eine Jugendherberge.",
+      "Play audio",
+      "(Zimmer)",
+      "Play audio",
+      "(Zimmer von Nawin)",
+      "Play audio",
+      "(Wohngemeinschaft)",
+      "Play audio",
+      "(Wohngemeinschaft von Lisa)"
+     ],
+     "vocabularyTags": []
+    }
+   ],
+   "pages": [
+    {
+     "id": "gr-38303814",
+     "url": "https://learngerman.dw.com/en/articles/l-37425145/gr-38303814",
+     "title": "Articles",
+     "texts": [
+      "Articles",
+      "Summary: articles in the nominative and accusative\nIst das ein Fahrrad?\nNein, das ist kein Fahrrad. Das ist ein Auto. Das ist das Auto von Lisa.\nImage:\nLisa sits in the car. In the passanger seat there is a giant pink balloon.\nYou use the definite article (e.g. das) when you have information about a particular person or thing.\nDas ist das Auto von Lisa.\nYou use the indefinite article (e.g. ein) when you have no specific information about a person or thing.\nDas ist ein Auto.\nYou use the negative article (e.g. kein) when you wish to express a noun in the negative without an article or with the indefinite article.\nDas ist kein Fahrrad.\nNominative\nAccusative*\nmasculine\nder\nden\nein\neinen\nkein\nkeinen\nfeminine\ndie\ndie\neine\neine\nkeine\nkeine\nneuter\ndas\ndas\nein\nein\nkein\nkein\nplural\ndie\ndie\n-\n-\nkeine\nkeine\n*After the verbs essen, trinken, nehmen, suchen, kennen, machen, lieben, anrufen, besuchen, besichtigen and many others, the object is expressed in the accusative."
+     ],
+     "html": "<p><strong>Summary: articles in the nominative and accusative</strong></p>\n\n<p>&#160;</p>\n\n<p><em>Ist das <strong>ein</strong> Fahrrad? </em></p>\n\n<p><em>Nein, das ist <strong>kein</strong> Fahrrad. Das ist <strong>ein</strong> Auto. Das ist <strong>das</strong> Auto von Lisa.</em></p>\n\n<p>Image:</p><ul><li>Lisa sits in the car. In the passanger seat there is a giant pink balloon.</li></ul>\n\n<p>You use&#160;the definite article (e.g. <em>das</em>) when you have information about a particular person or thing.</p>\n\n<p><em>Das ist <strong>das</strong> Auto von Lisa.</em></p>\n\n<p>&#160;</p>\n\n<p>You use the indefinite article (e.g. <em>ein</em>)&#160;when you have no specific information about a person or thing.</p>\n\n<p><em>Das ist <strong>ein</strong> Auto.</em></p>\n\n<p>&#160;</p>\n\n<p>You use the negative article (e.g. <em>kein</em>)&#160;when you wish to express a noun in the negative without an article or with the indefinite article.</p>\n\n<p><em>Das ist <strong>kein</strong> Fahrrad.</em></p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>&#160;</td>\n\t\t\t<td>Nominative</td>\n\t\t\t<td>Accusative*</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>masculine</td>\n\t\t\t<td>der</td>\n\t\t\t<td>den</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>&#160;</td>\n\t\t\t<td>ein</td>\n\t\t\t<td>einen</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>&#160;</td>\n\t\t\t<td>kein</td>\n\t\t\t<td>keinen</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>feminine</td>\n\t\t\t<td>die</td>\n\t\t\t<td>die</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>&#160;</td>\n\t\t\t<td>eine</td>\n\t\t\t<td>eine</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>&#160;</td>\n\t\t\t<td>keine</td>\n\t\t\t<td>keine</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>neuter</td>\n\t\t\t<td>das</td>\n\t\t\t<td>das</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>&#160;</td>\n\t\t\t<td>ein</td>\n\t\t\t<td>ein</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>&#160;</td>\n\t\t\t<td>kein</td>\n\t\t\t<td>kein</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>plural</td>\n\t\t\t<td>die</td>\n\t\t\t<td>die</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>&#160;</td>\n\t\t\t<td>-</td>\n\t\t\t<td>-</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>&#160;</td>\n\t\t\t<td>keine</td>\n\t\t\t<td>keine</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&#160;</p>\n\n<p>*After the verbs <em>essen, trinken, nehmen, suchen,</em> <em>kennen, machen, lieben, anrufen, besuchen, besichtigen </em>and many others, the object is expressed in the accusative.</p>\n"
+    },
+    {
+     "id": "rs-40224573",
+     "url": "https://learngerman.dw.com/en/two-rooms-kitchen-bathroom/l-37425145/rs-40224573",
+     "title": "Two rooms, kitchen, bathroom ",
+     "texts": [
+      "Two rooms, kitchen, bathroom",
+      "If you're looking for an apartment in Germany, you should check the big property firms on the internet, but also look at the local newspapers and their websites. The apartment ads are often hard to understand, as they include lots of abbreviations:\n2ZKB: zwei Zimmer, Küche und Bad: The apartment has two rooms, a separate kitchen and a separate bath.\n34 m² Wfl.: Wohnfläche: The apartment is 34 square meters in size.\nMKM: Monatskaltmiete: This is the basic monthly rent for the space. Utilities will be added.\nNK, BK: Nebenkosten, Betriebskosten: Utilities or operating costs in addition to the rent. You must pay a sum for heating, trash collection, water and maintenance costs.\nWM: Warmmiete: \"Warm rent\", or rent costs plus heating, trash collection, water and maintenance. You have to pay electricity costs yourself.\nEG: Erdgeschoss: The apartment is on the ground floor.\nDG: Dachgeschoss: The apartment is located on the attic floor.\n1. OG: erstes Obergeschoss: The apartment is located on the floor above the ground floor.\nEBK: Einbauküche: The kitchen is built-in, which means there are cabinets, a stove, dishwasher, etc.\nTLB: Tageslichtbad: The bathroom has a window (daylight). Many apartments have bathrooms without windows.\nWB: Wannenbad: There is a bathtub in the bathroom.\nDB: Duschbad: The bathroom has only a shower, but no bathtub."
+     ],
+     "html": "\n\n<p>If you're looking for an apartment in Germany, you should check the big property firms on the internet, but also look at the local newspapers and their websites. The apartment ads are often hard to understand, as they include lots of abbreviations:</p>\n\n<p><strong>2ZKB</strong>: <em>zwei Zimmer, Küche und Bad</em>: The apartment has two rooms, a separate kitchen and a separate bath.</p>\n\n<p><strong>34 m² Wfl.</strong>: <em>Wohnfläche</em>: The apartment is 34 square meters in size.</p>\n\n<p><strong>MKM</strong>: <em>Monatskaltmiete</em>: This is the basic monthly rent for the space. Utilities will be added.</p>\n\n<p><strong>NK, BK</strong>: <em>Nebenkosten, Betriebskosten</em>: Utilities or operating costs in addition to the rent. You must pay a sum for heating, trash collection, water and maintenance costs.</p>\n\n<p><strong>WM</strong>: <em>Warmmiete</em>: \"Warm rent\", or rent costs plus heating, trash collection, water and maintenance. You have to pay electricity costs yourself.</p>\n\n<p><strong>EG</strong>: <em>Erdgeschoss</em>: The apartment is on the ground floor.</p>\n\n<p><strong>DG</strong>: <em>Dachgeschoss</em>: The apartment is located on the attic floor.</p>\n\n<p><strong>1. OG</strong>: <em>erstes Obergeschoss</em>: The apartment is located on the floor above the ground floor.</p>\n\n<p><strong>EBK</strong>: <em>Einbauküche</em>: The kitchen is built-in, which means there are cabinets, a stove, dishwasher, etc.</p>\n\n<p><strong>TLB</strong>: <em>Tageslichtbad</em>: The bathroom has a window (daylight). Many apartments have bathrooms without windows.</p>\n\n<p><strong>WB</strong>: <em>Wannenbad</em>: There is a bathtub in the bathroom.</p>\n\n<p><strong>DB</strong>: <em>Duschbad</em>: The bathroom has only a shower, but no bathtub.</p>\n"
+    }
+   ]
+  },
+  {
+   "id": "script",
+   "kind": "dw-script-pdf",
+   "url": "https://learngerman.dw.com/downloads/52719959/nicos-weg-a1-e6-l1-manuskript-und-wortschatz-englisch.pdf",
+   "localFile": "DW Deutsch lernen/A1/06_living/01_So wohne ich/Materials/Script and vocabulary (English).pdf",
+   "sha256": "ea1681c5882f99e8e53ae6ea3784cd3a7d529d3f8418729b1d39010c7ad6a301",
+   "lines": [
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "(6) Living | So wohne ich",
+    "Yara’s shop is nowhere to be found and Nico can only stay in the shared",
+    "apartment for two more days. Together, Lisa and Nico try to work out",
+    "where Nico can live after that.",
+    "Script",
+    "LISA:",
+    "Nico?",
+    "NICO:",
+    "Hmm?",
+    "LISA:",
+    "Wir haben ein Problem.",
+    "NICO:",
+    "Ein Problem?",
+    "LISA:",
+    "Ja, ein Problem. Du kannst nur noch zwei Tage in der WG bleiben. Dann musst du",
+    "umziehen. Verstehst du?",
+    "NICO:",
+    "Okay. Kein Problem.",
+    "LISA:",
+    "Unsere Heizung ist kaputt. Sebastian, Nina, Nawin und ich fahren dann in Urlaub.",
+    "NICO:",
+    "Du bist nicht da? Ich suche mir ein Hotel.",
+    "LISA:",
+    "Nein. Das ist sehr teuer. Eine Jugendherberge ist besser.",
+    "NICO: Jugendherberge?",
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "LISA:",
+    "Ja. Eine Jugendherberge oder ein Hostel. Jugendherbergen und Hostels sind nicht so",
+    "teuer wie ein Hotel. Viele junge Leute übernachten dort. Und ich frag meine Freunde",
+    "und Bekannten. Vielleicht haben sie ein Zimmer frei.",
+    "NICO:",
+    "Okay, danke.",
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "Vocabulary (from script and lesson)",
+    "auf dem Land – in the country",
+    "der Balkon, die Balkons – balcony; porch",
+    "alternativer Plural: die Balkone, Abkürzung: BLK",
+    "der Bekannte, die Bekannten – acquaintance (male)",
+    "mit unbestimmtem Artikel: ein Bekannter, Bekannte",
+    "die Bekannte, die Bekannten – acquaintance (female)",
+    "mit unbestimmtem Artikel: eine Bekannte, Bekannte",
+    "besser – better",
+    "frei – free; open; here: unoccupied",
+    "der Garten, die Gärten – garden",
+    "die Heizung, die Heizungen – heating; heater",
+    "(jemandem) helfen – to help someone",
+    "hilft, half, hat geholfen",
+    "das Hochhaus, die Hochhäuser – high-rise building",
+    "etwas hoffen – to hope something",
+    "hofft, hoffte, hat gehofft",
+    "das Hostel, die Hostels – hostel",
+    "in der Stadt – in the city",
+    "die Jugendherberge, die Jugendherbergen – youth hostel",
+    "kaputt – broken",
+    "kaputter, am kaputtesten",
+    "das Kind, die Kinder – child",
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "können – to be able to; can",
+    "kann, konnte",
+    "leben – to live; to be alive",
+    "lebt, lebte, hat gelebt",
+    "meist – most of the time; usually",
+    "Kurzform von: meistens",
+    "die Miete, die Mieten – rent",
+    "der Mitbewohner, die Mitbewohner – roommate; housemate; flatmate (male)",
+    "die Mitbewohnerin, die Mitbewohnerinnen – roommate; housemate; flatmate",
+    "(female)",
+    "die Natur – nature",
+    "hier nur Singular",
+    "nett – nice; friendly",
+    "netter, am nettesten",
+    "oft – often",
+    "öfter, am öftesten",
+    "schnell – fast",
+    "schneller, am schnellsten",
+    "sich etwas teilen – to share",
+    "teilt, teilte, hat geteilt",
+    "um|ziehen – to move (house, cities, etc.)",
+    "zieht um, zog um, ist umgezogen",
+    "der Umzug, die Umzüge – move; relocation",
+    "der Urlaub, die Urlaube – vacation; holiday",
+    "etwas/jemanden verstehen – to understand something/someone",
+    "versteht, verstand, hat verstanden",
+    "viele – many",
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "vielleicht – perhaps; maybe"
+   ]
+  }
+ ]
+}

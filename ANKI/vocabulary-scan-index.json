@@ -1,8 +1,8 @@
 {
   "deck": "A1::Vocabulary",
-  "revision": "2026-10-09T09:34:00Z",
+  "revision": "2026-10-11T15:03:00Z",
   "qualityPolicy": "One typed German word or fixed expression per card, in a verified context where one exists. No audio.",
-  "cards": 779,
+  "cards": 802,
   "sources": [
     {
       "id": "dw-a1-e0-l1",
@@ -317,6 +317,19 @@
       }
     },
     {
+      "id": "dw-a1-e6-l1",
+      "course": "dw-nicos-weg",
+      "title": "So wohne ich",
+      "url": "https://learngerman.dw.com/en/so-wohne-ich/l-37425145",
+      "notesFile": "DW Deutsch lernen/A1/06_living/01_So wohne ich/So wohne ich.md",
+      "capturedEntries": 34,
+      "cards": {
+        "vocabulary": 34,
+        "articles": 14,
+        "sentences": 0
+      }
+    },
+    {
       "id": "vhs-a1-l02",
       "course": "vhs-lernportal",
       "title": "Lektion 2 · Meine Familie und ich",
@@ -345,9 +358,9 @@
   ],
   "packages": {
     "ANKI/A1/vocabulary.apkg": {
-      "notes": 779,
-      "cards": 779,
-      "sha256": "645cfd8330e8313cbf7a4b349bbb732e15954d6080b9f5eea6ffe909a3b66a3c"
+      "notes": 802,
+      "cards": 802,
+      "sha256": "517aab5710e9b8bfe268f3f1c998cd6ac9c624d4a9af4a70caa74de4e668f086"
     }
   }
 }

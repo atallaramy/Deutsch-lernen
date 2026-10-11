@@ -1333,6 +1333,18 @@
    ],
    "fetchedOn": "2026-09-25"
   },
+  "Großstadt": {
+   "url": "https://en.wiktionary.org/wiki/Gro%C3%9Fstadt#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "large city, big city, major city"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-11"
+  },
   "Großvater": {
    "url": "https://en.wiktionary.org/wiki/Gro%C3%9Fvater#German",
    "status": 200,
@@ -5386,6 +5398,18 @@
    ],
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-27"
+  },
+  "das heißt": {
+   "url": "https://en.wiktionary.org/wiki/das_hei%C3%9Ft#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Adverb",
+     "text": "that is, that is to say"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-11"
   },
   "dein": {
    "url": "https://en.wiktionary.org/wiki/dein#German",

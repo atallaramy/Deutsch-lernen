@@ -1,6 +1,6 @@
 # Nominativ und Akkusativ: subject, object, der/den, ein/einen, kein/keinen
 
-*der Nominativ*, *der Akkusativ* · A1 · from DW A1 E5 L3 *Ich habe kein …* and E5 L4 *Das Auto ist rot* · checked 2026-10-09
+*der Nominativ*, *der Akkusativ* · A1 · from DW A1 E5 L3 *Ich habe kein …*, E5 L4 *Das Auto ist rot* and E6 L1 *So wohne ich* · checked 2026-10-11
 
 ## The rule
 
@@ -26,10 +26,14 @@ German terms:
    lieben, anrufen, besuchen, besichtigen*.
 7. German has four cases. You see them best on the article. More come later (the
    dative in DW A1 E9 L3).
+8. Which article? The **definite** article (*das*) when you have information about a
+   particular person or thing; the **indefinite** article (*ein*) when you have no
+   specific information; the **negative** article (*kein*) to say the noun in the negative.
 
 Source: DW grammar pages [Sentence construction: subject](https://learngerman.dw.com/en/sentence-construction-subject/l-37382992/gr-38306217),
 [Sentence construction: accusative object](https://learngerman.dw.com/en/sentence-construction-accusative-object/l-37382992/gr-38306279)
-and [Article: negation](https://learngerman.dw.com/en/article-negation/l-37382992/gr-38306441) (E5 L3).
+and [Article: negation](https://learngerman.dw.com/en/article-negation/l-37382992/gr-38306441) (E5 L3);
+rule 8 and the summary table: [Articles](https://learngerman.dw.com/en/articles/l-37425145/gr-38303814) (E6 L1).
 
 ## Table
 
@@ -40,8 +44,8 @@ and [Article: negation](https://learngerman.dw.com/en/article-negation/l-3738299
 | neuter | das · ein · kein Buch | das · ein · kein Buch |
 | plural | die · – · keine Stifte | die · – · keine Stifte |
 
-Source: DW exercises *The nominative* and *The accusative*, and the grammar page *Article:
-negation*. The genders: [Genus](Genus.md); *ein*: [Unbestimmter Artikel](Unbestimmter-Artikel.md).
+Source: DW exercises *The nominative* and *The accusative*, and the grammar pages *Article:
+negation* and *Articles* (E6 L1). The genders: [Genus](Genus.md); *ein*: [Unbestimmter Artikel](Unbestimmter-Artikel.md).
 
 ## Examples from my lessons
 
@@ -61,6 +65,10 @@ negation*. The genders: [Genus](Genus.md); *ein*: [Unbestimmter Artikel](Unbesti
 | Isst Nina Schinken? – Nein, Nina isst **keinen** Schinken. | [DW A1 E5 L3 · grammar page](https://learngerman.dw.com/en/article-negation/l-37382992/gr-38306441) |
 | Hier ist **kein** Fahrradladen. | [DW A1 E5 L4 · script](https://learngerman.dw.com/downloads/52719956/nicos-weg-a1-e5-l4-manuskript-und-wortschatz-englisch.pdf) |
 | Es gibt hier wirklich **keinen** Fahrradladen. | [DW A1 E5 L4 · script](https://learngerman.dw.com/downloads/52719956/nicos-weg-a1-e5-l4-manuskript-und-wortschatz-englisch.pdf) |
+| Ist das **ein** Fahrrad? | [DW A1 E6 L1 · grammar page](https://learngerman.dw.com/en/articles/l-37425145/gr-38303814) |
+| Nein, das ist **kein** Fahrrad. Das ist **ein** Auto. Das ist **das** Auto von Lisa. | [DW A1 E6 L1 · grammar page](https://learngerman.dw.com/en/articles/l-37425145/gr-38303814) |
+| Du hast auch **einen** Garten. **Der** Garten ist groß. | [DW A1 E6 L1 · exercise](https://learngerman.dw.com/en/do-you-have-a-house/l-37425145/e-37431509) |
+| Du hast **keinen** Balkon, aber du hast **eine** Garage. | [DW A1 E6 L1 · exercise](https://learngerman.dw.com/en/do-you-have-a-house/l-37425145/e-37431509) |
 
 *hab* is the spoken form of *habe*.
 
@@ -77,13 +85,18 @@ negation*. The genders: [Genus](Genus.md); *ein*: [Unbestimmter Artikel](Unbesti
 
 - DW: [Sentence construction: subject](https://learngerman.dw.com/en/sentence-construction-subject/l-37382992/gr-38306217) ·
   [Sentence construction: accusative object](https://learngerman.dw.com/en/sentence-construction-accusative-object/l-37382992/gr-38306279) ·
-  [Article: negation](https://learngerman.dw.com/en/article-negation/l-37382992/gr-38306441) (E5 L3)
+  [Article: negation](https://learngerman.dw.com/en/article-negation/l-37382992/gr-38306441) (E5 L3) ·
+  [Articles](https://learngerman.dw.com/en/articles/l-37425145/gr-38303814) (E6 L1)
 - DW exercises: [The nominative](https://learngerman.dw.com/en/the-nominative/l-37382992/e-37385184) ·
   [The accusative](https://learngerman.dw.com/en/the-accusative/l-37382992/e-37385861) ·
   [Subject and object](https://learngerman.dw.com/en/subject-and-object/l-37382992/e-37386081) ·
   [Definite articles in the accusative](https://learngerman.dw.com/en/definite-articles-in-the-accusative/l-37382992/e-37386490) ·
   [I have a garage, but no car](https://learngerman.dw.com/en/i-have-a-garage-but-no-car/l-37382992/e-37386210) ·
-  [The article: definite, indefinite, negative](https://learngerman.dw.com/en/the-article-definite-indefinite-negative/l-37382992/e-37383823)
+  [The article: definite, indefinite, negative](https://learngerman.dw.com/en/the-article-definite-indefinite-negative/l-37382992/e-37383823) (E5 L3) ·
+  [Definite, indefinite, or negative article?](https://learngerman.dw.com/en/definite-indefinite-or-negative-article/l-37425145/e-37430520) ·
+  [Do you have a house?](https://learngerman.dw.com/en/do-you-have-a-house/l-37425145/e-37431509) ·
+  [Revision: Articles in the nominative](https://learngerman.dw.com/en/revision-articles-in-the-nominative/l-37425145/e-37428634) ·
+  [Revision: Articles in the accusative](https://learngerman.dw.com/en/revision-articles-in-the-accusative/l-37425145/e-37429201) (E6 L1)
 - Later: DW A1 E9 L3 *The dative*; *nicht* and *kein* in DW A1 E6 L2 and E11 L1.
 
 ## Sentences cards
@@ -106,4 +119,5 @@ negation*. The genders: [Genus](Genus.md); *ein*: [Unbestimmter Artikel](Unbesti
 > …
 
 My notes: [Ich habe kein …](<../../DW Deutsch lernen/A1/05_things/03_Ich habe kein/Ich habe kein.md>) ·
-[Das Auto ist rot](<../../DW Deutsch lernen/A1/05_things/04_Das Auto ist rot/Das Auto ist rot.md>)
+[Das Auto ist rot](<../../DW Deutsch lernen/A1/05_things/04_Das Auto ist rot/Das Auto ist rot.md>) ·
+[So wohne ich](<../../DW Deutsch lernen/A1/06_living/01_So wohne ich/So wohne ich.md>)

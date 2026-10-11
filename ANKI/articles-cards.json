@@ -308,6 +308,13 @@
     "source": "exercises",
     "text": "Das T-Shirt ist groß."
    }
+  },
+  "Garten": {
+   "context": {
+    "lesson": "dw-a1-e6-l1",
+    "source": "exercises",
+    "text": "Der Garten ist groß."
+   }
   }
  }
 }

@@ -36,7 +36,7 @@ official DW/VHS pages · the Sentences cards that practise it · my rule in my o
 | Simple past of sein: war | [Praeteritum](A1/Praeteritum.md) | DW E4 L1 |
 | man: people in general | [man](A1/man.md) | DW E4 L3 |
 | Statements: the verb in position 2 | [Aussagesatz](A1/Aussagesatz.md) | DW E4 L3 |
-| Nominative and accusative: subject, object, der/den, ein/einen, kein/keinen | [Nominativ-Akkusativ](A1/Nominativ-Akkusativ.md) | DW E5 L3–L4 |
+| Nominative and accusative: subject, object, der/den, ein/einen, kein/keinen | [Nominativ-Akkusativ](A1/Nominativ-Akkusativ.md) | DW E5 L3–L4, E6 L1 |
 | Adjectives after sein: Das Auto ist rot. | [Adjektive-nach-sein](A1/Adjektive-nach-sein.md) | DW E5 L4 |
 
 ## A1: coming
@@ -49,7 +49,7 @@ Built when I have studied the lesson. Topics from
   [Nico hat ein Problem](<../DW Deutsch lernen/A1/01_meeting_people/04_Nico hat ein Problem/Nico hat Problem.md>);
   its articles match Wiktionary.
 - **DW Nicos Weg A1** ([index](../docs/course-index/dw-nicos-weg-a1.md)):
-  - E6: articles (L1) · *nicht* (L2) · *zu* + adjective (L3) · possessive determiners (L4)
+  - E6: *nicht* (L2) · *zu* + adjective (L3) · possessive determiners (L4)
   - E7: 12-hour clock (L1) · separable verbs (L2) · *an* for time (L3) · sequence adverbs (L4)
   - E8: 24-hour clock (L1) · ordinal numbers (L2) · *können* (L3) · simple past of *haben* (L4)
   - E9: professions (L1) · modal verbs (L2) · the dative (L3) · *wollen* (L4)

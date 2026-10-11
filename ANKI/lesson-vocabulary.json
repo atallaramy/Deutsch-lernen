@@ -1,6 +1,6 @@
 {
  "schemaVersion": 3,
- "revision": "2026-10-09T09:34:00Z",
+ "revision": "2026-10-11T15:03:00Z",
  "policy": "Faithful capture of what the learner studied: official lesson glossaries, useful words and phrases from the official scripts and exercises, and items from the learner's notes. Official spelling is canonical; the learner's spelling is kept as learnerForm. Nothing captured is removed. pendingEntries wait for the learner's yes/no and are never built; declinedEntries record a learner's no.",
  "courses": [
   {
@@ -14076,6 +14076,561 @@
         "why": "du siehst (e → ie) · ich sehe"
        },
        "home": "sentences"
+      }
+     ],
+     "pendingEntries": [],
+     "declinedEntries": []
+    },
+    {
+     "id": "dw-a1-e6-l1",
+     "legacyId": null,
+     "level": "A1",
+     "title": "So wohne ich",
+     "unit": 6,
+     "lesson": 1,
+     "url": "https://learngerman.dw.com/en/so-wohne-ich/l-37425145",
+     "notesFile": "DW Deutsch lernen/A1/06_living/01_So wohne ich/So wohne ich.md",
+     "lessonDeck": {
+      "file": "DW Deutsch lernen/A1/06_living/01_So wohne ich/DW A1 E6L1 So wohne ich - Vocabulary.apkg",
+      "deck": "A1::DW::Lessons::E6 L1 So wohne ich"
+     },
+     "snapshot": "DW Deutsch lernen/A1/06_living/01_So wohne ich/Materials/source-snapshot.json",
+     "sources": [
+      {
+       "id": "script",
+       "kind": "dw-script-pdf",
+       "url": "https://learngerman.dw.com/downloads/52719959/nicos-weg-a1-e6-l1-manuskript-und-wortschatz-englisch.pdf",
+       "localFile": "DW Deutsch lernen/A1/06_living/01_So wohne ich/Materials/Script and vocabulary (English).pdf"
+      },
+      {
+       "id": "exercises",
+       "kind": "dw-exercises",
+       "url": "https://learngerman.dw.com/en/so-wohne-ich/l-37425145"
+      }
+     ],
+     "entries": [
+      {
+       "id": "auf-dem-land",
+       "german": "auf dem Land",
+       "english": "in the country",
+       "pos": "expression",
+       "lemma": "auf dem Land",
+       "sense": "in-the-country",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-balkon",
+       "german": "der Balkon",
+       "english": "balcony; porch",
+       "pos": "noun",
+       "lemma": "Balkon",
+       "sense": "balcony",
+       "plural": "die Balkons",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises"
+       ],
+       "note": "alternativer Plural: die Balkone, Abkürzung: BLK",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-die-bekannte",
+       "german": "der/die Bekannte",
+       "english": "acquaintance (male or female)",
+       "pos": "noun",
+       "lemma": "Bekannte",
+       "sense": "acquaintance",
+       "plural": "die Bekannten",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "articles": "exempt:gender-follows-the-person",
+       "home": "vocabulary"
+      },
+      {
+       "id": "besser",
+       "german": "besser",
+       "english": "better",
+       "pos": "word",
+       "lemma": "besser",
+       "sense": "better",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "frei",
+       "german": "frei",
+       "english": "free; open; here: unoccupied",
+       "pos": "adjective",
+       "lemma": "frei",
+       "sense": "free",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-garten",
+       "german": "der Garten",
+       "english": "garden",
+       "pos": "noun",
+       "lemma": "Garten",
+       "sense": "garden",
+       "plural": "die Gärten",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-heizung",
+       "german": "die Heizung",
+       "english": "heating; heater",
+       "pos": "noun",
+       "lemma": "Heizung",
+       "sense": "heating",
+       "plural": "die Heizungen",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "jemandem-helfen",
+       "german": "(jemandem) helfen",
+       "english": "to help someone",
+       "pos": "verb",
+       "lemma": "helfen",
+       "sense": "to-help-someone",
+       "forms": "hilft, half, hat geholfen",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-hochhaus",
+       "german": "das Hochhaus",
+       "english": "high-rise building",
+       "pos": "noun",
+       "lemma": "Hochhaus",
+       "sense": "high-rise",
+       "plural": "die Hochhäuser",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "etwas-hoffen",
+       "german": "etwas hoffen",
+       "english": "to hope something",
+       "pos": "verb",
+       "lemma": "hoffen",
+       "sense": "to-hope",
+       "forms": "hofft, hoffte, hat gehofft",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-hostel",
+       "german": "das Hostel",
+       "english": "hostel",
+       "pos": "noun",
+       "lemma": "Hostel",
+       "sense": "hostel",
+       "plural": "die Hostels",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "in-der-stadt",
+       "german": "in der Stadt",
+       "english": "in the city",
+       "pos": "expression",
+       "lemma": "in der Stadt",
+       "sense": "in-the-city",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-jugendherberge",
+       "german": "die Jugendherberge",
+       "english": "youth hostel",
+       "pos": "noun",
+       "lemma": "Jugendherberge",
+       "sense": "youth-hostel",
+       "plural": "die Jugendherbergen",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "kaputt",
+       "german": "kaputt",
+       "english": "broken",
+       "pos": "word",
+       "lemma": "kaputt",
+       "sense": "broken",
+       "forms": "kaputter, am kaputtesten",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-kind",
+       "german": "das Kind",
+       "english": "child",
+       "pos": "noun",
+       "lemma": "Kind",
+       "sense": "child",
+       "plural": "die Kinder",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "konnen",
+       "german": "können",
+       "english": "to be able to; can",
+       "pos": "verb",
+       "lemma": "können",
+       "sense": "can",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "leben",
+       "german": "leben",
+       "english": "to live; to be alive",
+       "pos": "verb",
+       "lemma": "leben",
+       "sense": "to-live",
+       "forms": "lebt, lebte, hat gelebt",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "meist",
+       "german": "meist",
+       "english": "most of the time; usually",
+       "pos": "word",
+       "lemma": "meist",
+       "sense": "usually",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "note": "Kurzform von: meistens",
+       "learnerForm": "meist: Kurzform von: meinstens",
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-miete",
+       "german": "die Miete",
+       "english": "rent",
+       "pos": "noun",
+       "lemma": "Miete",
+       "sense": "rent",
+       "plural": "die Mieten",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-mitbewohner",
+       "german": "der Mitbewohner",
+       "english": "roommate; housemate; flatmate (male)",
+       "pos": "noun",
+       "lemma": "Mitbewohner",
+       "sense": "flatmate",
+       "plural": "die Mitbewohner",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-mitbewohnerin",
+       "german": "die Mitbewohnerin",
+       "english": "roommate; housemate; flatmate (female)",
+       "pos": "noun",
+       "lemma": "Mitbewohnerin",
+       "sense": "flatmate",
+       "plural": "die Mitbewohnerinnen",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-natur",
+       "german": "die Natur",
+       "english": "nature",
+       "pos": "noun",
+       "lemma": "Natur",
+       "sense": "nature",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "note": "hier nur Singular",
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "nett",
+       "german": "nett",
+       "english": "nice; friendly",
+       "pos": "word",
+       "lemma": "nett",
+       "sense": "nice",
+       "forms": "netter, am nettesten",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "learnerForm": "net: netter, am nettesten",
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "oft",
+       "german": "oft",
+       "english": "often",
+       "pos": "word",
+       "lemma": "oft",
+       "sense": "often",
+       "forms": "öfter, am öftesten",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "schnell",
+       "german": "schnell",
+       "english": "fast",
+       "pos": "adjective",
+       "lemma": "schnell",
+       "sense": "fast",
+       "forms": "schneller, am schnellsten",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "sich-etwas-teilen",
+       "german": "sich etwas teilen",
+       "english": "to share",
+       "pos": "verb",
+       "lemma": "teilen",
+       "sense": "to-share",
+       "forms": "teilt, teilte, hat geteilt",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "learnerForm": "sich etwas teilen: tielt, tielte, hat getielt",
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "umziehen",
+       "german": "umziehen",
+       "english": "to move (house, cities, etc.)",
+       "pos": "verb",
+       "lemma": "umziehen",
+       "sense": "to-move-house",
+       "forms": "zieht um, zog um, ist umgezogen",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "vocabularyPageForm": "um|ziehen",
+       "learnerForm": "um|ziehen: zeiht um, zug um, ist umgezogen",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-umzug",
+       "german": "der Umzug",
+       "english": "move; relocation",
+       "pos": "noun",
+       "lemma": "Umzug",
+       "sense": "move",
+       "plural": "die Umzüge",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-urlaub",
+       "german": "der Urlaub",
+       "english": "vacation; holiday",
+       "pos": "noun",
+       "lemma": "Urlaub",
+       "sense": "vacation",
+       "plural": "die Urlaube",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "etwas-jemanden-verstehen",
+       "german": "etwas/jemanden verstehen",
+       "english": "to understand something/someone",
+       "pos": "verb",
+       "lemma": "verstehen",
+       "sense": "to-understand",
+       "forms": "versteht, verstand, hat verstanden",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "viele",
+       "german": "viele",
+       "english": "many",
+       "pos": "word",
+       "lemma": "viele",
+       "sense": "many",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "vielleicht",
+       "german": "vielleicht",
+       "english": "perhaps; maybe",
+       "pos": "word",
+       "lemma": "vielleicht",
+       "sense": "maybe",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-heisst",
+       "german": "das heißt",
+       "english": "that is; i.e.",
+       "pos": "expression",
+       "lemma": "das heißt",
+       "sense": "that-is",
+       "origin": [
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "glossLookup": [
+        "das heißt"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-grossstadt",
+       "german": "die Großstadt",
+       "english": "city; big city",
+       "pos": "noun",
+       "lemma": "Großstadt",
+       "sense": "big-city",
+       "plural": "die Großstädte",
+       "origin": [
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
       }
      ],
      "pendingEntries": [],
