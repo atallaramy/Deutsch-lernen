@@ -77,6 +77,12 @@ Built when I have studied the lesson. Topics from
 See [docs/learning-roadmap.md](../docs/learning-roadmap.md) and the A2/B1 files in
 [docs/course-index](../docs/course-index/).
 
+## Colours
+
+[Farben](../Spickzettel/Farben.md): one colour, one meaning, in this book and in all my
+cheatsheets (blue Nominativ, red Akkusativ, green Dativ, purple Genitiv, orange verb). It
+opens the PDF. The colours come from one fixed list; the check refuses any other.
+
 ## My recurring mistakes
 
 [Meine Fehler](Meine-Fehler.md): the mistakes I made three times or more, with the

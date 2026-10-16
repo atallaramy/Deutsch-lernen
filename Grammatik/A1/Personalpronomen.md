@@ -13,9 +13,9 @@ German terms:
 1. The pronoun decides the verb ending: *ich heiße, du heißt, wir heißen* (see [Präsens](Praesens.md)).
 2. *er* (he), *sie* (she) and *es* (it) take the same verb form: *er/sie/es wohnt*.
 3. There are three *sie*. The verb and the capital letter tell them apart:
-   - *sie* = she: verb in **-t**: *sie heißt*
-   - *sie* = they: verb in **-en**: *sie heißen*
-   - *Sie* = you (formal, one or more people): verb in **-en**, always a capital S: *Wie heißen Sie?*
+   - *sie* = she: verb in <verb>-t</verb>: *sie heißt*
+   - *sie* = they: verb in <verb>-en</verb>: *sie heißen*
+   - *Sie* = you (formal, one or more people): verb in <verb>-en</verb>, always a capital S: *Wie heißen Sie?*
 4. At the start of a sentence all three are written *Sie*. Then the verb ending and
    the situation tell you which one it is.
 
@@ -23,10 +23,10 @@ German terms:
 
 | | Singular | Plural |
 |---|---|---|
-| 1st person | ich (I) | wir (we) |
-| 2nd person | du (you, informal) | ihr (you, informal, to several people) |
-| 3rd person | er (he) · sie (she) · es (it) | sie (they) |
-| formal | Sie (you) | Sie (you) |
+| 1st person | <nom>ich</nom> (I) | <nom>wir</nom> (we) |
+| 2nd person | <nom>du</nom> (you, informal) | <nom>ihr</nom> (you, informal, to several people) |
+| 3rd person | <nom>er</nom> (he) · <nom>sie</nom> (she) · <nom>es</nom> (it) | <nom>sie</nom> (they) |
+| formal | <nom>Sie</nom> (you) | <nom>Sie</nom> (you) |
 
 Source: DW grammar pages *Personal pronouns: ich, du*, *Sie*, *er, sie*, *plural*;
 DW E1 L4 glossary (*es* – it, *sie* – they, *ihr* – you, plural, informal);
@@ -36,21 +36,21 @@ VHS Lektion 2 vocabulary trainer (*wir* = we, *sie* = she / they).
 
 | German | Pronoun | Source |
 |---|---|---|
-| Hallo, **ich** heiße Nico. Und wie heißt **du**? | ich, du | [DW A1 E1 L1 · script](https://static.dw.com/downloads/52719106/nicos-weg-a1-e1-l1-manuskript-und-wortschatz-englisch.pdf) |
-| **Er** heißt Nico. | he | [DW A1 E1 L4 · grammar page](https://learngerman.dw.com/en/personal-pronouns-er-sie/l-37265543/gr-38320906) |
-| **Sie** heißt Lisa. | she | [DW A1 E1 L4 · grammar page](https://learngerman.dw.com/en/personal-pronouns-er-sie/l-37265543/gr-38320906) |
-| **Wir** heißen Nico und Emma. | we | [DW A1 E1 L4 · grammar page](https://learngerman.dw.com/en/personal-pronouns-plural/l-37265543/gr-38321282) |
-| Wie heißt **ihr**? | you (several) | [DW A1 E1 L4 · grammar page](https://learngerman.dw.com/en/personal-pronouns-plural/l-37265543/gr-38321282) |
-| **Sie** heißen Pepe und Emma. | they | [DW A1 E1 L4 · grammar page](https://learngerman.dw.com/en/personal-pronouns-plural/l-37265543/gr-38321282) |
-| Das sind Lisa und Emma. Lisa ist Emmas Tante. **Sie** helfen Nico. | they | [DW A1 E1 L2 · exercise](https://learngerman.dw.com/en/upper-and-lower-cases/l-37262923/e-37264861) |
-| Ich heiße Lisa Brunner. Und wie heißen **Sie**? – Ich heiße Sigi Körner. | you (formal) | [DW A1 E1 L1 · grammar page](https://learngerman.dw.com/en/personal-pronouns-sie/l-37262882/gr-38320692) |
+| Hallo, **<nom>ich</nom>** heiße Nico. Und wie heißt **<nom>du</nom>**? | ich, du | [DW A1 E1 L1 · script](https://static.dw.com/downloads/52719106/nicos-weg-a1-e1-l1-manuskript-und-wortschatz-englisch.pdf) |
+| **<nom>Er</nom>** heißt Nico. | he | [DW A1 E1 L4 · grammar page](https://learngerman.dw.com/en/personal-pronouns-er-sie/l-37265543/gr-38320906) |
+| **<nom>Sie</nom>** heißt Lisa. | she | [DW A1 E1 L4 · grammar page](https://learngerman.dw.com/en/personal-pronouns-er-sie/l-37265543/gr-38320906) |
+| **<nom>Wir</nom>** heißen Nico und Emma. | we | [DW A1 E1 L4 · grammar page](https://learngerman.dw.com/en/personal-pronouns-plural/l-37265543/gr-38321282) |
+| Wie heißt **<nom>ihr</nom>**? | you (several) | [DW A1 E1 L4 · grammar page](https://learngerman.dw.com/en/personal-pronouns-plural/l-37265543/gr-38321282) |
+| **<nom>Sie</nom>** heißen Pepe und Emma. | they | [DW A1 E1 L4 · grammar page](https://learngerman.dw.com/en/personal-pronouns-plural/l-37265543/gr-38321282) |
+| Das sind Lisa und Emma. Lisa ist Emmas Tante. **<nom>Sie</nom>** helfen Nico. | they | [DW A1 E1 L2 · exercise](https://learngerman.dw.com/en/upper-and-lower-cases/l-37262923/e-37264861) |
+| Ich heiße Lisa Brunner. Und wie heißen **<nom>Sie</nom>**? – Ich heiße Sigi Körner. | you (formal) | [DW A1 E1 L1 · grammar page](https://learngerman.dw.com/en/personal-pronouns-sie/l-37262882/gr-38320692) |
 
 ## Common mistakes
 
 | Wrong | Right | Why | From |
 |---|---|---|---|
 | wie arbeiten | wir arbeiten | *wie* = how, *wir* = we. The same slip is in *wie sind* and *wie haben*. | [my notes: Nico hat ein Problem](<../../DW Deutsch lernen/A1/01_meeting_people/04_Nico hat ein Problem/Nico hat Problem.md>) |
-| sie heißt (they) | sie heißen | They → **-en**. She → **-t**. | rule |
+| sie heißt (they) | sie heißen | They → <verb>-en</verb>. She → <verb>-t</verb>. | rule |
 | sie kommen (to a stranger) | Sie kommen | The formal Sie always has a capital S. | rule |
 
 ## Official pages

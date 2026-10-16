@@ -18,8 +18,8 @@ German terms:
    ist teuer.*
 6. To make an adjective negative, use **nicht**. *nicht* comes **immediately before the
    adjective**: *Das Zimmer ist nicht groß.* (= *Das Zimmer ist klein.*)
-7. To go on talking about the same thing, use a pronoun: **der** noun → **er**, **das**
-   noun → **es**, **die** noun → **sie**: *Der Flur ist nicht hell, er ist dunkel.*
+7. To go on talking about the same thing, use a pronoun: **der** noun → **<nom>er</nom>**, **das**
+   noun → **<nom>es</nom>**, **die** noun → **<nom>sie</nom>**: *Der Flur ist nicht hell, <nom>er</nom> ist dunkel.*
    More: [Personalpronomen](Personalpronomen.md).
 
 Source: DW grammar pages [Adjectives following "sein"](https://learngerman.dw.com/en/adjectives-following-sein/l-37401537/gr-38306500) (E5 L4)

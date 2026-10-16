@@ -10,11 +10,11 @@ German terms:
 - *das Subjekt* (subject: The subject is the person or thing that is active or central in the sentence. The subject is also known as "der Satzgegenstand". It is usually a noun or pronoun.)
 
 1. A W-question asks for information. You cannot answer it with *ja* or *nein*.
-2. Order: **question word – verb – subject**: *Woher kommst du?*
-3. The verb is the conjugated form that matches the subject: *Woher kommst du?* ·
-   *Woher kommen Sie?*
+2. Order: **question word – verb – subject**: *Woher <verb>kommst</verb> du?*
+3. The verb is the conjugated form that matches the subject: *Woher <verb>kommst</verb> du?* ·
+   *Woher <verb>kommen</verb> Sie?*
 4. **wer** asks about people; **was** asks about everything else (DW E3 L2):
-   *Wer kennt diesen Fahrradladen?* · *Was möchtet ihr trinken?*
+   *Wer <verb>kennt</verb> diesen Fahrradladen?* · *Was <verb>möchtet</verb> ihr trinken?*
 
 DW explains the order on the grammar page [W-questions](https://learngerman.dw.com/en/w-questions/l-37269671/gr-38306976) (E2 L3), and
 again in E4 L2: [Questions and statements](https://learngerman.dw.com/en/questions-and-statements/l-37337877/gr-38306265).
@@ -23,24 +23,24 @@ again in E4 L2: [Questions and statements](https://learngerman.dw.com/en/questio
 
 | Fragewort | Asks for | German | Source |
 |---|---|---|---|
-| wer | who | Wer ist Yara? | [DW A1 E0 L4 · script](https://static.dw.com/downloads/52719090/nicos-weg-a1-e0-l4-manuskript-und-wortschatz-englisch.pdf) |
-| wie | how | Wie geht es dir? | [DW A1 E0 L1 · script](https://static.dw.com/downloads/52718683/nicos-weg-a1-e0-l1-manuskript-und-wortschatz-englisch.pdf) |
-| wie | a name (with heißen) | Wie heißt du? | [DW A1 E1 L1 · script](https://static.dw.com/downloads/52719106/nicos-weg-a1-e1-l1-manuskript-und-wortschatz-englisch.pdf) |
-| wie alt | age | Wie alt ist Emma? | [DW A1 E2 L1 · script](https://static.dw.com/downloads/52719212/nicos-weg-a1-e2-l1-manuskript-und-wortschatz-englisch.pdf) |
-| wie viel | how much | Wie viel kostet die Pizza? | [DW A1 E3 L4 · exercise](https://learngerman.dw.com/en/asking-what-the-price-is-1/l-37280348/e-37283950) |
-| wie viele | how many | Wie viele Zahlen sind das? | [DW A1 E2 L1 · script](https://static.dw.com/downloads/52719212/nicos-weg-a1-e2-l1-manuskript-und-wortschatz-englisch.pdf) |
-| wo | where | Wo ist die Tasche? | [DW A1 E0 L3 · script](https://static.dw.com/downloads/52719087/nicos-weg-a1-e0-l3-manuskript-und-wortschatz-englisch.pdf) |
-| woher | where from | Woher kommst du? | [DW A1 E1 L3 · script](https://static.dw.com/downloads/52719129/nicos-weg-a1-e1-l3-manuskript-und-wortschatz-englisch.pdf) |
-| wohin | where to | Wohin möchte Chi fahren? | [DW A1 E4 L1 · exercise](https://learngerman.dw.com/en/nawins-friend-chi/l-37325550/e-37328344) |
-| was | what | Was machst du hier? | [DW A1 E1 L3 · script](https://static.dw.com/downloads/52719129/nicos-weg-a1-e1-l3-manuskript-und-wortschatz-englisch.pdf) |
+| wer | who | Wer <verb>ist</verb> Yara? | [DW A1 E0 L4 · script](https://static.dw.com/downloads/52719090/nicos-weg-a1-e0-l4-manuskript-und-wortschatz-englisch.pdf) |
+| wie | how | Wie <verb>geht</verb> es dir? | [DW A1 E0 L1 · script](https://static.dw.com/downloads/52718683/nicos-weg-a1-e0-l1-manuskript-und-wortschatz-englisch.pdf) |
+| wie | a name (with heißen) | Wie <verb>heißt</verb> du? | [DW A1 E1 L1 · script](https://static.dw.com/downloads/52719106/nicos-weg-a1-e1-l1-manuskript-und-wortschatz-englisch.pdf) |
+| wie alt | age | Wie alt <verb>ist</verb> Emma? | [DW A1 E2 L1 · script](https://static.dw.com/downloads/52719212/nicos-weg-a1-e2-l1-manuskript-und-wortschatz-englisch.pdf) |
+| wie viel | how much | Wie viel <verb>kostet</verb> die Pizza? | [DW A1 E3 L4 · exercise](https://learngerman.dw.com/en/asking-what-the-price-is-1/l-37280348/e-37283950) |
+| wie viele | how many | Wie viele Zahlen <verb>sind</verb> das? | [DW A1 E2 L1 · script](https://static.dw.com/downloads/52719212/nicos-weg-a1-e2-l1-manuskript-und-wortschatz-englisch.pdf) |
+| wo | where | Wo <verb>ist</verb> die Tasche? | [DW A1 E0 L3 · script](https://static.dw.com/downloads/52719087/nicos-weg-a1-e0-l3-manuskript-und-wortschatz-englisch.pdf) |
+| woher | where from | Woher <verb>kommst</verb> du? | [DW A1 E1 L3 · script](https://static.dw.com/downloads/52719129/nicos-weg-a1-e1-l3-manuskript-und-wortschatz-englisch.pdf) |
+| wohin | where to | Wohin <verb>möchte</verb> Chi fahren? | [DW A1 E4 L1 · exercise](https://learngerman.dw.com/en/nawins-friend-chi/l-37325550/e-37328344) |
+| was | what | Was <verb>machst</verb> du hier? | [DW A1 E1 L3 · script](https://static.dw.com/downloads/52719129/nicos-weg-a1-e1-l3-manuskript-und-wortschatz-englisch.pdf) |
 | warum | why | Warum nicht so gut? | [DW A1 E2 L3 · script](https://static.dw.com/downloads/52719223/nicos-weg-a1-e2-l3-manuskript-und-wortschatz-englisch.pdf) |
-| mit wem | with whom | Mit wem telefoniert Nico? | [DW A1 E2 L3 · exercise](https://learngerman.dw.com/en/in-front-of-lottes-house/l-37269671/e-37270908) |
+| mit wem | with whom | Mit wem <verb>telefoniert</verb> Nico? | [DW A1 E2 L3 · exercise](https://learngerman.dw.com/en/in-front-of-lottes-house/l-37269671/e-37270908) |
 
 | Question word | Verb | Subject | Rest |
 |---|---|---|---|
-| Woher | kommst | du? | |
-| Wo | wohnen | Sie? | |
-| Was | machst | du | hier? |
+| Woher | <verb>kommst</verb> | du? | |
+| Wo | <verb>wohnen</verb> | Sie? | |
+| Was | <verb>machst</verb> | du | hier? |
 
 *wohin* asks for a direction; the answer takes *nach* ([wohnen in](wohnen-in.md)).
 Also met, full topic later: *welche* (which; DW A1 E14 L2 *welch-*). *wie viel* (how much) comes in DW A1 E12 L3.
@@ -49,31 +49,31 @@ Also met, full topic later: *welche* (which; DW A1 E14 L2 *welch-*). *wie viel* 
 
 | German | Source |
 |---|---|
-| **Woher** kommen Sie, Herr González? – Ich komme aus Spanien. | [DW A1 E1 L3 · grammar page](https://learngerman.dw.com/en/conjugation-present-tense-1/l-37263828/gr-38320838) |
-| **Wo** wohnst du, Georgi? | [DW A1 E1 L3 · exercise](https://learngerman.dw.com/en/nico-is-learning-german-where-do-you-come-from/l-37263828/e-37266783) |
-| **Wer** ist das? | [DW A1 E1 L2 · exercise](https://learngerman.dw.com/en/here-are-nico-and-emma/l-37262923/e-37264626) |
-| **Was** machen Sie in Deutschland? | [DW A1 E1 L4 · exercise](https://learngerman.dw.com/en/nico-reflects/l-37265543/e-37269418) |
-| **Wohin** willst du? | [DW A1 E0 L3 · script](https://static.dw.com/downloads/52719087/nicos-weg-a1-e0-l3-manuskript-und-wortschatz-englisch.pdf) |
-| **Wie** ist deine Telefonnummer? | [DW A1 E2 L2 · script](https://static.dw.com/downloads/52719221/nicos-weg-a1-e2-l2-manuskript-und-wortschatz-englisch.pdf) |
-| **Wie alt** sind Sie? | [DW A1 E2 L2 · exercise](https://learngerman.dw.com/en/pronunciation-training-how-old-are-you/l-37269501/e-37272394) |
-| **Welche** Sprachen spricht er? | [DW A1 E1 L2 · exercise](https://learngerman.dw.com/en/this-is-nico/l-37262923/e-37265408) |
-| **Wer** ist da? | [DW A1 E2 L3 · exercise](https://learngerman.dw.com/en/who-is-there/l-37269671/e-37271746) |
-| **Wie** heißt die Straße? | [DW A1 E2 L3 · exercise](https://learngerman.dw.com/en/street-names-and-street-numbers/l-37269671/e-37272782) |
-| **Wie** ist die Hausnummer? | [DW A1 E2 L3 · exercise](https://learngerman.dw.com/en/street-names-and-street-numbers/l-37269671/e-37272782) |
-| **Mit wem** spreche ich, bitte? | [DW A1 E2 L3 · culture page](https://learngerman.dw.com/en/on-the-telephone/l-37269671/rs-39370877) |
-| **Wie** war nochmal Ihr Name? | [DW A1 E2 L3 · culture page](https://learngerman.dw.com/en/on-the-telephone/l-37269671/rs-39370877) |
-| Hi, Lisa! **Wer** ist denn das? | [DW A1 E3 L1 · script](https://learngerman.dw.com/downloads/52719567/nicos-weg-a1-e3-l1-manuskript-und-wortschatz-englisch.pdf) |
-| Auch nicht so gut. Und **wie alt** bist du? | [DW A1 E3 L1 · script](https://learngerman.dw.com/downloads/52719567/nicos-weg-a1-e3-l1-manuskript-und-wortschatz-englisch.pdf) |
-| So. **Was** möchtet ihr trinken? | [DW A1 E3 L2 · script](https://learngerman.dw.com/downloads/52719579/nicos-weg-a1-e3-l2-manuskript-und-wortschatz-englisch.pdf) |
-| **Was** gibt es denn? | [DW A1 E3 L2 · script](https://learngerman.dw.com/downloads/52719579/nicos-weg-a1-e3-l2-manuskript-und-wortschatz-englisch.pdf) |
-| **Wer** kennt diesen Fahrradladen? | [DW A1 E3 L2 · script](https://learngerman.dw.com/downloads/52719579/nicos-weg-a1-e3-l2-manuskript-und-wortschatz-englisch.pdf) |
-| **Was** möchten Sie trinken? | [DW A1 E3 L2 · exercise](https://learngerman.dw.com/en/offering-drinks/l-37279418/e-37283848) |
-| Zusammen. **Was** kostet das? | [DW A1 E3 L4 · script](https://learngerman.dw.com/downloads/52719590/nicos-weg-a1-e3-l4-manuskript-und-wortschatz-englisch.pdf) |
-| **Was** kostet das Sushi? | [DW A1 E3 L4 · exercise](https://learngerman.dw.com/en/asking-what-the-price-is-1/l-37280348/e-37283950) |
-| **Wie viel** Euro macht das? | [DW A1 E3 L4 · exercise](https://learngerman.dw.com/en/how-much-is-that-in-euros/l-37280348/e-37283048) |
-| So … **Wer** bekommt die Hawaii ohne Schinken? | [DW A1 E3 L4 · script](https://learngerman.dw.com/downloads/52719590/nicos-weg-a1-e3-l4-manuskript-und-wortschatz-englisch.pdf) |
-| **Wo** liegt Baden-Württemberg? | [DW A1 E4 L2 · exercise](https://learngerman.dw.com/en/baden-württemberg/l-37337877/e-37345227) |
-| **Was** ist im Süden von Baden-Württemberg? | [DW A1 E4 L2 · exercise](https://learngerman.dw.com/en/baden-württemberg/l-37337877/e-37345227) |
+| **Woher** <verb>kommen</verb> Sie, Herr González? – Ich <verb>komme</verb> aus Spanien. | [DW A1 E1 L3 · grammar page](https://learngerman.dw.com/en/conjugation-present-tense-1/l-37263828/gr-38320838) |
+| **Wo** <verb>wohnst</verb> du, Georgi? | [DW A1 E1 L3 · exercise](https://learngerman.dw.com/en/nico-is-learning-german-where-do-you-come-from/l-37263828/e-37266783) |
+| **Wer** <verb>ist</verb> das? | [DW A1 E1 L2 · exercise](https://learngerman.dw.com/en/here-are-nico-and-emma/l-37262923/e-37264626) |
+| **Was** <verb>machen</verb> Sie in Deutschland? | [DW A1 E1 L4 · exercise](https://learngerman.dw.com/en/nico-reflects/l-37265543/e-37269418) |
+| **Wohin** <verb>willst</verb> du? | [DW A1 E0 L3 · script](https://static.dw.com/downloads/52719087/nicos-weg-a1-e0-l3-manuskript-und-wortschatz-englisch.pdf) |
+| **Wie** <verb>ist</verb> deine Telefonnummer? | [DW A1 E2 L2 · script](https://static.dw.com/downloads/52719221/nicos-weg-a1-e2-l2-manuskript-und-wortschatz-englisch.pdf) |
+| **Wie alt** <verb>sind</verb> Sie? | [DW A1 E2 L2 · exercise](https://learngerman.dw.com/en/pronunciation-training-how-old-are-you/l-37269501/e-37272394) |
+| **Welche** Sprachen <verb>spricht</verb> er? | [DW A1 E1 L2 · exercise](https://learngerman.dw.com/en/this-is-nico/l-37262923/e-37265408) |
+| **Wer** <verb>ist</verb> da? | [DW A1 E2 L3 · exercise](https://learngerman.dw.com/en/who-is-there/l-37269671/e-37271746) |
+| **Wie** <verb>heißt</verb> die Straße? | [DW A1 E2 L3 · exercise](https://learngerman.dw.com/en/street-names-and-street-numbers/l-37269671/e-37272782) |
+| **Wie** <verb>ist</verb> die Hausnummer? | [DW A1 E2 L3 · exercise](https://learngerman.dw.com/en/street-names-and-street-numbers/l-37269671/e-37272782) |
+| **Mit wem** <verb>spreche</verb> ich, bitte? | [DW A1 E2 L3 · culture page](https://learngerman.dw.com/en/on-the-telephone/l-37269671/rs-39370877) |
+| **Wie** <verb>war</verb> nochmal Ihr Name? | [DW A1 E2 L3 · culture page](https://learngerman.dw.com/en/on-the-telephone/l-37269671/rs-39370877) |
+| Hi, Lisa! **Wer** <verb>ist</verb> denn das? | [DW A1 E3 L1 · script](https://learngerman.dw.com/downloads/52719567/nicos-weg-a1-e3-l1-manuskript-und-wortschatz-englisch.pdf) |
+| Auch nicht so gut. Und **wie alt** <verb>bist</verb> du? | [DW A1 E3 L1 · script](https://learngerman.dw.com/downloads/52719567/nicos-weg-a1-e3-l1-manuskript-und-wortschatz-englisch.pdf) |
+| So. **Was** <verb>möchtet</verb> ihr trinken? | [DW A1 E3 L2 · script](https://learngerman.dw.com/downloads/52719579/nicos-weg-a1-e3-l2-manuskript-und-wortschatz-englisch.pdf) |
+| **Was** <verb>gibt</verb> es denn? | [DW A1 E3 L2 · script](https://learngerman.dw.com/downloads/52719579/nicos-weg-a1-e3-l2-manuskript-und-wortschatz-englisch.pdf) |
+| **Wer** <verb>kennt</verb> diesen Fahrradladen? | [DW A1 E3 L2 · script](https://learngerman.dw.com/downloads/52719579/nicos-weg-a1-e3-l2-manuskript-und-wortschatz-englisch.pdf) |
+| **Was** <verb>möchten</verb> Sie trinken? | [DW A1 E3 L2 · exercise](https://learngerman.dw.com/en/offering-drinks/l-37279418/e-37283848) |
+| Zusammen. **Was** <verb>kostet</verb> das? | [DW A1 E3 L4 · script](https://learngerman.dw.com/downloads/52719590/nicos-weg-a1-e3-l4-manuskript-und-wortschatz-englisch.pdf) |
+| **Was** <verb>kostet</verb> das Sushi? | [DW A1 E3 L4 · exercise](https://learngerman.dw.com/en/asking-what-the-price-is-1/l-37280348/e-37283950) |
+| **Wie viel** Euro <verb>macht</verb> das? | [DW A1 E3 L4 · exercise](https://learngerman.dw.com/en/how-much-is-that-in-euros/l-37280348/e-37283048) |
+| So … **Wer** <verb>bekommt</verb> die Hawaii ohne Schinken? | [DW A1 E3 L4 · script](https://learngerman.dw.com/downloads/52719590/nicos-weg-a1-e3-l4-manuskript-und-wortschatz-englisch.pdf) |
+| **Wo** <verb>liegt</verb> Baden-Württemberg? | [DW A1 E4 L2 · exercise](https://learngerman.dw.com/en/baden-württemberg/l-37337877/e-37345227) |
+| **Was** <verb>ist</verb> im Süden von Baden-Württemberg? | [DW A1 E4 L2 · exercise](https://learngerman.dw.com/en/baden-württemberg/l-37337877/e-37345227) |
 
 ## Common mistakes
 

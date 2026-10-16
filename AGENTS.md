@@ -259,6 +259,7 @@ every captured entry is covered.
   only from studied lessons. `python3 docs/tools/check_grammar_book.py` must
   report no errors; it also requires every DW grammar page of a studied lesson
   to be linked from a topic page.
+- Colours as in `Spickzettel/Farben.md` (see *Cheatsheets*); that page opens the PDF.
 - No audio. The grammar book never changes the decks. If a grammar check finds
   a card error, fix the card through check → package.
 - `Grammatik/Grammatik.pdf` is the whole book in one printable, clickable file.
@@ -291,8 +292,17 @@ every captured entry is covered.
   knowledge in the learner's head: minimal, built to the learner's own taste and
   way of understanding. When it holds too much, it is no longer a cheatsheet.
 - Cheatsheets cover all the grammar the learner should know, as cheatsheets,
-  not as a grammar book: tables with the endings in colour and one example per
-  row, like the learner's *Possessivartikel* sheet.
+  not as a grammar book: one page each, a band per case (or verb topic), tables
+  with one example per row and at most three short notes, in the style of the
+  learner's *Possessivartikel* sheet. Each is written in `Spickzettel/<name>.md`;
+  `build_grammar_pdf.py` makes its PDF and a phone copy in `Spickzettel/PNG/`.
+- Colours follow `Spickzettel/Farben.md`, the same in every sheet and in the
+  grammar book: one colour, one meaning (Nominativ blue, Akkusativ red, Dativ
+  green, Genitiv purple, verb orange); gender never has a colour; the case colour
+  goes on the ending (a pronoun or short form as a whole word); colour only what
+  changes, on pages about cases or verbs; a second thing is bold. The colours
+  live in one fixed list (`COLOURS` in `docs/tools/check_grammar_book.py`) and the
+  check refuses any other. A new colour needs the learner's yes.
 - After each lesson Claude suggests, in one line, an update to an existing
   cheatsheet, an addition to one, or a new sheet, when the lesson's grammar
   needs it. Agents do not create, edit or restructure cheatsheets on their own:
@@ -304,7 +314,8 @@ every captured entry is covered.
 - Collect grammar pages or lessons into a printable file only when the learner
   asks. The grammar-book PDF and the grammar-words cheatsheet are the standing
   exceptions: `build_grammar_pdf.py` rebuilds both after every lesson, with every
-  other `Spickzettel/*.md` sheet as a one-page PDF in the learner's style.
+  other `Spickzettel/*.md` sheet as a one-page PDF in the learner's style and a
+  PNG copy in `Spickzettel/PNG/`.
 
 ## Open decisions and new rules
 

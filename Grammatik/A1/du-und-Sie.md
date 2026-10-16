@@ -31,20 +31,20 @@ German terms:
 
 | German (du) | German (Sie) | Source |
 |---|---|---|
-| Wie geht es dir? | Wie geht es Ihnen? | [DW A1 E0 L1 · script](https://static.dw.com/downloads/52718683/nicos-weg-a1-e0-l1-manuskript-und-wortschatz-englisch.pdf) |
+| Wie <verb>geht</verb> es dir? | Wie <verb>geht</verb> es Ihnen? | [DW A1 E0 L1 · script](https://static.dw.com/downloads/52718683/nicos-weg-a1-e0-l1-manuskript-und-wortschatz-englisch.pdf) |
 | Und dir? | Und Ihnen? | [DW A1 E0 L1 · script](https://static.dw.com/downloads/52718683/nicos-weg-a1-e0-l1-manuskript-und-wortschatz-englisch.pdf) |
-| Wie heißt du? | Wie heißen Sie? | [DW A1 E1 L1 · script](https://static.dw.com/downloads/52719106/nicos-weg-a1-e1-l1-manuskript-und-wortschatz-englisch.pdf) |
-| Wer bist du? | Wer sind Sie? | [DW A1 E1 L1 · script](https://static.dw.com/downloads/52719106/nicos-weg-a1-e1-l1-manuskript-und-wortschatz-englisch.pdf) |
-| Wie ist dein Name? | Wie ist Ihr Name? | [DW A1 E0 L4 · script](https://static.dw.com/downloads/52719090/nicos-weg-a1-e0-l4-manuskript-und-wortschatz-englisch.pdf) |
-| Bitte buchstabiere das. | Bitte buchstabieren Sie das. | [DW A1 E0 L4 · script](https://static.dw.com/downloads/52719090/nicos-weg-a1-e0-l4-manuskript-und-wortschatz-englisch.pdf) |
-| Woher kommst du? | Woher kommen Sie? | [DW A1 E1 L3 · script](https://static.dw.com/downloads/52719129/nicos-weg-a1-e1-l3-manuskript-und-wortschatz-englisch.pdf) |
-| Was machst du hier? | Was machen Sie hier? | [DW A1 E1 L3 · script](https://static.dw.com/downloads/52719129/nicos-weg-a1-e1-l3-manuskript-und-wortschatz-englisch.pdf) |
-| Hast du Kinder? | Haben Sie Kinder? | [VHS A1 L2 · phrase trainer](https://a1.vhs-lernportal.de/) |
-| Wie ist deine Adresse? | Wie ist Ihre Adresse? | [VHS A1 L2 · phrase trainer](https://a1.vhs-lernportal.de/) |
-| Wie ist deine Telefonnummer? | Wie ist Ihre Telefonnummer? | [DW A1 E2 L2 · script](https://static.dw.com/downloads/52719221/nicos-weg-a1-e2-l2-manuskript-und-wortschatz-englisch.pdf) |
-| Welche Nummer hast du? | Welche Nummer haben Sie? | [DW A1 E2 L4 · script](https://learngerman.dw.com/downloads/52719359/nicos-weg-a1-e2-l4-manuskript-und-wortschatz-englisch.pdf) |
-| Was möchtest du trinken? | Was möchten Sie trinken? | [DW A1 E3 L2 · exercise](https://learngerman.dw.com/en/offering-drinks/l-37279418/e-37283848) |
-| Wie alt bist du? | Wie alt sind Sie? | [DW A1 E2 L2 · exercise](https://learngerman.dw.com/en/pronunciation-training-how-old-are-you/l-37269501/e-37272394) |
+| Wie <verb>heißt</verb> du? | Wie <verb>heißen</verb> Sie? | [DW A1 E1 L1 · script](https://static.dw.com/downloads/52719106/nicos-weg-a1-e1-l1-manuskript-und-wortschatz-englisch.pdf) |
+| Wer <verb>bist</verb> du? | Wer <verb>sind</verb> Sie? | [DW A1 E1 L1 · script](https://static.dw.com/downloads/52719106/nicos-weg-a1-e1-l1-manuskript-und-wortschatz-englisch.pdf) |
+| Wie <verb>ist</verb> dein Name? | Wie <verb>ist</verb> Ihr Name? | [DW A1 E0 L4 · script](https://static.dw.com/downloads/52719090/nicos-weg-a1-e0-l4-manuskript-und-wortschatz-englisch.pdf) |
+| Bitte <verb>buchstabiere</verb> das. | Bitte <verb>buchstabieren</verb> Sie das. | [DW A1 E0 L4 · script](https://static.dw.com/downloads/52719090/nicos-weg-a1-e0-l4-manuskript-und-wortschatz-englisch.pdf) |
+| Woher <verb>kommst</verb> du? | Woher <verb>kommen</verb> Sie? | [DW A1 E1 L3 · script](https://static.dw.com/downloads/52719129/nicos-weg-a1-e1-l3-manuskript-und-wortschatz-englisch.pdf) |
+| Was <verb>machst</verb> du hier? | Was <verb>machen</verb> Sie hier? | [DW A1 E1 L3 · script](https://static.dw.com/downloads/52719129/nicos-weg-a1-e1-l3-manuskript-und-wortschatz-englisch.pdf) |
+| <verb>Hast</verb> du Kinder? | <verb>Haben</verb> Sie Kinder? | [VHS A1 L2 · phrase trainer](https://a1.vhs-lernportal.de/) |
+| Wie <verb>ist</verb> deine Adresse? | Wie <verb>ist</verb> Ihre Adresse? | [VHS A1 L2 · phrase trainer](https://a1.vhs-lernportal.de/) |
+| Wie <verb>ist</verb> deine Telefonnummer? | Wie <verb>ist</verb> Ihre Telefonnummer? | [DW A1 E2 L2 · script](https://static.dw.com/downloads/52719221/nicos-weg-a1-e2-l2-manuskript-und-wortschatz-englisch.pdf) |
+| Welche Nummer <verb>hast</verb> du? | Welche Nummer <verb>haben</verb> Sie? | [DW A1 E2 L4 · script](https://learngerman.dw.com/downloads/52719359/nicos-weg-a1-e2-l4-manuskript-und-wortschatz-englisch.pdf) |
+| Was <verb>möchtest</verb> du trinken? | Was <verb>möchten</verb> Sie trinken? | [DW A1 E3 L2 · exercise](https://learngerman.dw.com/en/offering-drinks/l-37279418/e-37283848) |
+| Wie alt <verb>bist</verb> du? | Wie alt <verb>sind</verb> Sie? | [DW A1 E2 L2 · exercise](https://learngerman.dw.com/en/pronunciation-training-how-old-are-you/l-37269501/e-37272394) |
 | Tschüss, Martina. Gute Reise! | Auf Wiedersehen, Herr Tillmanns. Gute Reise! | [DW A1 E0 L3 · script](https://static.dw.com/downloads/52719087/nicos-weg-a1-e0-l3-manuskript-und-wortschatz-englisch.pdf) |
 
 ## Examples from my lessons
@@ -53,18 +53,18 @@ German terms:
 |---|---|
 | Guten Tag, Frau Mohr! Wie geht es **Ihnen**? | [DW A1 E0 L1 · exercise](https://learngerman.dw.com/en/thanks-im-great/l-37250531/e-37251246) |
 | Hallo, Peter! Wie geht’s? | [DW A1 E0 L1 · exercise](https://learngerman.dw.com/en/thanks-im-great/l-37250531/e-37251246) |
-| Ich heiße Lisa Brunner. Und wie **heißen Sie**? – Ich heiße Sigi Körner. | [DW A1 E1 L1 · grammar page](https://learngerman.dw.com/en/personal-pronouns-sie/l-37262882/gr-38320692) |
-| Hallo, **du bist** auch im Deutschkurs, oder? Wie **heißt du**? | [DW A1 E1 L1 · exercise](https://learngerman.dw.com/en/nico-is-learning-german-conversation-during-break-time/l-37262882/e-37264470) |
+| Ich heiße Lisa Brunner. Und wie **<verb>heißen</verb> Sie**? – Ich heiße Sigi Körner. | [DW A1 E1 L1 · grammar page](https://learngerman.dw.com/en/personal-pronouns-sie/l-37262882/gr-38320692) |
+| Hallo, **du <verb>bist</verb>** auch im Deutschkurs, oder? Wie **<verb>heißt</verb> du**? | [DW A1 E1 L1 · exercise](https://learngerman.dw.com/en/nico-is-learning-german-conversation-during-break-time/l-37262882/e-37264470) |
 | Guten Tag, ich bin Frau Moll. Ich bin **Ihre** Deutschlehrerin. | [DW A1 E1 L1 · exercise](https://learngerman.dw.com/en/nico-is-learning-german-introduction/l-37262882/e-37263816) |
-| Guten Tag, Jürgen Brunner mein Name. **Sie sind** Nico? | [DW A1 E2 L4 · script](https://learngerman.dw.com/downloads/52719359/nicos-weg-a1-e2-l4-manuskript-und-wortschatz-englisch.pdf) |
-| Herr González, freut mich sehr. **Setzen Sie sich** doch bitte. Wie kann ich **Ihnen** helfen? | [DW A1 E2 L4 · script](https://learngerman.dw.com/downloads/52719359/nicos-weg-a1-e2-l4-manuskript-und-wortschatz-englisch.pdf) |
+| Guten Tag, Jürgen Brunner mein Name. **Sie <verb>sind</verb>** Nico? | [DW A1 E2 L4 · script](https://learngerman.dw.com/downloads/52719359/nicos-weg-a1-e2-l4-manuskript-und-wortschatz-englisch.pdf) |
+| Herr González, freut mich sehr. **<verb>Setzen</verb> Sie sich** doch bitte. Wie kann ich **Ihnen** helfen? | [DW A1 E2 L4 · script](https://learngerman.dw.com/downloads/52719359/nicos-weg-a1-e2-l4-manuskript-und-wortschatz-englisch.pdf) |
 | Hallo, Lisa! Wie geht es **dir**? | [DW A1 E2 L4 · exercise](https://learngerman.dw.com/en/at-the-reception-desk/l-37269629/e-37270780) |
-| Guten Tag. Ja, einen Moment, bitte. **Sind Sie** Jürgens Tochter Lisa? | [DW A1 E2 L4 · exercise](https://learngerman.dw.com/en/at-the-reception-desk/l-37269629/e-37270780) |
-| Hallo, Nico. Ich bin Sebastian. **Was machst du** hier? | [DW A1 E3 L1 · script](https://learngerman.dw.com/downloads/52719567/nicos-weg-a1-e3-l1-manuskript-und-wortschatz-englisch.pdf) |
-| Ah, guten Morgen, Frau Schröder. … Entschuldigung, **wollen wir uns nicht duzen**? | [DW A1 E3 L1 · exercise](https://learngerman.dw.com/en/offering-to-use-du-with-someone-2-speaking/l-37278679/e-37288325) |
+| Guten Tag. Ja, einen Moment, bitte. **<verb>Sind</verb> Sie** Jürgens Tochter Lisa? | [DW A1 E2 L4 · exercise](https://learngerman.dw.com/en/at-the-reception-desk/l-37269629/e-37270780) |
+| Hallo, Nico. Ich bin Sebastian. **Was <verb>machst</verb> du** hier? | [DW A1 E3 L1 · script](https://learngerman.dw.com/downloads/52719567/nicos-weg-a1-e3-l1-manuskript-und-wortschatz-englisch.pdf) |
+| Ah, guten Morgen, Frau Schröder. … Entschuldigung, **<verb>wollen</verb> wir uns nicht duzen**? | [DW A1 E3 L1 · exercise](https://learngerman.dw.com/en/offering-to-use-du-with-someone-2-speaking/l-37278679/e-37288325) |
 | **Gern.** Ich heiße Kerstin. | [DW A1 E3 L1 · exercise](https://learngerman.dw.com/en/offering-to-use-du-with-someone-2-speaking/l-37278679/e-37288325) |
-| Guten Tag, **Ihre** Bestellung. **Zahlen Sie** zusammen oder getrennt? | [DW A1 E3 L4 · script](https://learngerman.dw.com/downloads/52719590/nicos-weg-a1-e3-l4-manuskript-und-wortschatz-englisch.pdf) |
-| Zehn Euro plus Trinkgeld. Und **du bist** eingeladen! | [DW A1 E3 L4 · script](https://learngerman.dw.com/downloads/52719590/nicos-weg-a1-e3-l4-manuskript-und-wortschatz-englisch.pdf) |
+| Guten Tag, **Ihre** Bestellung. **<verb>Zahlen</verb> Sie** zusammen oder getrennt? | [DW A1 E3 L4 · script](https://learngerman.dw.com/downloads/52719590/nicos-weg-a1-e3-l4-manuskript-und-wortschatz-englisch.pdf) |
+| Zehn Euro plus Trinkgeld. Und **du <verb>bist</verb>** eingeladen! | [DW A1 E3 L4 · script](https://learngerman.dw.com/downloads/52719590/nicos-weg-a1-e3-l4-manuskript-und-wortschatz-englisch.pdf) |
 
 The two dialogues at the police station: Lisa and Peter know each other (*Hallo*, *dir*);
 the police officer does not know Lisa (*Guten Tag*, *Sie*).

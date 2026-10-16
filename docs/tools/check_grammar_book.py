@@ -37,6 +37,19 @@ BOOK = ROOT / "Grammatik"
 SNAPSHOT = BOOK / "Materials" / "wiktionary-snapshot.json"
 GLOSSARY = "Grammatikbegriffe.md"
 MISTAKES = "Meine-Fehler.md"  # the learner's recurring mistakes; printed just before GLOSSARY
+SHEETS = ROOT / "Spickzettel"
+COLOUR_RULES = SHEETS / "Farben.md"  # the colour rules: a cheatsheet that also opens the grammar book
+# One colour, one meaning, in the grammar book and every cheatsheet. A new one needs the learner's yes.
+COLOURS = {
+    "nom": ("Nominativ", "#1f5f8b"),
+    "akk": ("Akkusativ", "#a33b20"),
+    "dat": ("Dativ", "#2e7d4f"),
+    "gen": ("Genitiv", "#6b3fa0"),
+    "verb": ("Verb", "#d97706"),
+}
+HTML_TAGS = {"b", "i", "small", "div", "h2", "br"}
+LAYOUT_CLASSES = {"case", "foot"}
+TAG_RE = re.compile(r"<\s*/?\s*([A-Za-z][A-Za-z0-9]*)([^>]*)>")
 CHEATSHEET = ROOT / "Spickzettel" / GLOSSARY
 sys.path.insert(0, str(ROOT / "ANKI"))
 
@@ -85,8 +98,9 @@ class Report:
 
 
 def plain(cell: str) -> str:
-    """Visible text of a Markdown cell: link texts, no emphasis or code marks."""
+    """Visible text of a Markdown cell: link texts, no emphasis, colour tags or code marks."""
     text = LINK_RE.sub(lambda m: m.group(1), cell)
+    text = re.sub(r"</?[A-Za-z][^>]*>", "", text)
     return re.sub(r"[*_`]", "", text).strip()
 
 
@@ -310,6 +324,26 @@ def check_conjugation(table: Table, verbs: dict, where: str, report: Report) -> 
                 report.errors.append(f"{where}: {verb}, {person}: {form!r} (Wiktionary: {sorted(allowed)})")
 
 
+def check_colours(page: str, where: str, report: Report) -> None:
+    """Colour only through the fixed COLOURS tags and classes; never a style or a colour of its own."""
+    text = re.sub(r"<https?://[^>]*>", "", LINK_RE.sub(lambda m: m.group(1), page))
+    for tag, attributes in TAG_RE.findall(text):
+        if tag.lower() not in COLOURS and tag.lower() not in HTML_TAGS:
+            report.errors.append(f"{where}: <{tag}> is not on the colour list ({', '.join(COLOURS)})")
+        if re.search(r"style\s*=|colou?r", attributes, re.I):
+            report.errors.append(f"{where}: <{tag}{attributes}>: colours come only from the colour list")
+        for name in " ".join(re.findall(r'class\s*=\s*"([^"]*)"', attributes)).split():
+            if name not in COLOURS and name not in LAYOUT_CLASSES:
+                report.errors.append(f"{where}: class {name!r} is not on the colour list")
+
+
+def check_colour_rules(report: Report, rules: Path = COLOUR_RULES) -> None:
+    text = rules.read_text(encoding="utf-8") if rules.exists() else ""
+    for tag, (meaning, _) in COLOURS.items():
+        if f"<{tag}>" not in text or meaning not in text:
+            report.errors.append(f"Spickzettel/{rules.name}: the colour rules must show {meaning} (<{tag}>)")
+
+
 def check_links(page: str, page_path: Path, where: str, report: Report) -> None:
     for _, target in LINK_RE.findall(page):
         target = target.strip("<>")
@@ -368,11 +402,16 @@ def check(book: Path = BOOK, data: deck_data.Data | None = None, snapshot: Path 
             if plain(table.header[0]) == "Person":
                 check_conjugation(table, verbs, where, report)
         check_links(page, page_path, where, report)
+        check_colours(page, where, report)
         check_cards(page, cards, where, report)
         described[page_path.resolve()] = check_terms(page, words, where, report)
     if glossary_path.exists():
         check_word_pages(words, glossary_path, described, report)
         check_cheatsheet(set(words), cheatsheet, report)
+    for sheet in sorted(cheatsheet.parent.glob("*.md")):
+        check_colours(sheet.read_text(encoding="utf-8"), f"Spickzettel/{sheet.name}", report)
+    if cheatsheet == CHEATSHEET:
+        check_colour_rules(report)
     if grammar_pages:
         check_grammar_pages(data, linked, report)
         check_lesson_descriptions(words, lesson_descriptions(data), report)

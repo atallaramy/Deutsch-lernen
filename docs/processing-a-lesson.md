@@ -168,6 +168,7 @@ The rules are in `AGENTS.md` → *Grammar book*; the layout is in
   grammar check has errors or the cheatsheet needs a second page, and the tests
   fail if a PDF lags its pages. A new topic page joins the PDF by being listed in
   the index's *studied* table.
+- Colours: new tables and examples follow [`Spickzettel/Farben.md`](../Spickzettel/Farben.md).
 - Cheatsheets: in the final reply, suggest in one line an update to an existing
   cheatsheet, an addition, or a new sheet when the lesson's grammar needs it
   (`AGENTS.md` → *Cheatsheets*). Write only what you say yes to.

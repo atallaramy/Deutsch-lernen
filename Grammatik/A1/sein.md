@@ -5,7 +5,7 @@
 ## The rule
 
 1. *sein* is irregular. DW: "always learn the verb forms as well!"
-2. One person or thing: **ist**. Two or more: **sind**: *Das ist Emma.* – *Das sind Nico und Emma.*
+2. One person or thing: <verb>ist</verb>. Two or more: <verb>sind</verb>: *Das ist Emma.* – *Das sind Nico und Emma.*
 3. In my lessons *sein* says:
    - who someone is: *Ich bin Nico.*
    - where someone or something is: *Wo ist die Tasche?*
@@ -18,13 +18,13 @@
 
 | Person | sein |
 |---|---|
-| ich | bin |
-| du | bist |
-| er/sie/es | ist |
-| wir | sind |
-| ihr | seid |
-| sie | sind |
-| Sie | sind |
+| ich | <verb>bin</verb> |
+| du | <verb>bist</verb> |
+| er/sie/es | <verb>ist</verb> |
+| wir | <verb>sind</verb> |
+| ihr | <verb>seid</verb> |
+| sie | <verb>sind</verb> |
+| Sie | <verb>sind</verb> |
 
 Source: DW grammar page *Conjugation: present tense (2)*; VHS Lektion 2 word list
 (*sein: ich bin; du bist; er/sie/es ist; Sie sind*);
@@ -34,22 +34,22 @@ Source: DW grammar page *Conjugation: present tense (2)*; VHS Lektion 2 word lis
 
 | German | Source |
 |---|---|
-| Ich **bin** Nico. Und wer **bist** du? – Ich **bin** Emma. | [DW A1 E1 L3 · grammar page](https://learngerman.dw.com/en/conjugation-present-tense-1/l-37263828/gr-38320838) |
-| Ich **bin** Lisa Brunner. Und wer **sind** Sie? – Ich **bin** Sigi Körner. | [DW A1 E1 L3 · grammar page](https://learngerman.dw.com/en/conjugation-present-tense-1/l-37263828/gr-38320838) |
-| Das **sind** Nico, Lisa und Emma. | [DW A1 E1 L2 · exercise](https://learngerman.dw.com/en/here-are-nico-and-emma/l-37262923/e-37264626) |
-| Er **ist** Taxifahrer. | [DW A1 E1 L2 · script](https://static.dw.com/downloads/52719126/nicos-weg-a1-e1-l2-manuskript-und-wortschatz-englisch.pdf) |
-| Nicos Tasche **ist** weg. | [DW A1 E1 L2 · exercise](https://learngerman.dw.com/en/upper-and-lower-cases/l-37262923/e-37264861) |
-| Ja. Ich **bin** aus Frankfurt. | [DW A1 E1 L3 · exercise](https://learngerman.dw.com/en/nico-is-learning-german-verb-conjugation/l-37263828/e-37267180) |
-| Wir **sind** Touristen! | [DW A1 E1 L3 · exercise](https://learngerman.dw.com/en/verb-conjugation-when-using-the-formal-sie/l-37263828/e-37268148) |
-| Wie alt **sind** Sie? | [DW A1 E2 L2 · exercise](https://learngerman.dw.com/en/pronunciation-training-how-old-are-you/l-37269501/e-37272394) |
-| Ich **bin** 15 Jahre alt. | [DW A1 E2 L2 · exercise](https://learngerman.dw.com/en/pronunciation-training-how-old-are-you/l-37269501/e-37272394) |
-| Wo **ist** die Tasche? | [DW A1 E0 L3 · script](https://static.dw.com/downloads/52719087/nicos-weg-a1-e0-l3-manuskript-und-wortschatz-englisch.pdf) |
+| Ich <verb>bin</verb> Nico. Und wer <verb>bist</verb> du? – Ich <verb>bin</verb> Emma. | [DW A1 E1 L3 · grammar page](https://learngerman.dw.com/en/conjugation-present-tense-1/l-37263828/gr-38320838) |
+| Ich <verb>bin</verb> Lisa Brunner. Und wer <verb>sind</verb> Sie? – Ich <verb>bin</verb> Sigi Körner. | [DW A1 E1 L3 · grammar page](https://learngerman.dw.com/en/conjugation-present-tense-1/l-37263828/gr-38320838) |
+| Das <verb>sind</verb> Nico, Lisa und Emma. | [DW A1 E1 L2 · exercise](https://learngerman.dw.com/en/here-are-nico-and-emma/l-37262923/e-37264626) |
+| Er <verb>ist</verb> Taxifahrer. | [DW A1 E1 L2 · script](https://static.dw.com/downloads/52719126/nicos-weg-a1-e1-l2-manuskript-und-wortschatz-englisch.pdf) |
+| Nicos Tasche <verb>ist</verb> weg. | [DW A1 E1 L2 · exercise](https://learngerman.dw.com/en/upper-and-lower-cases/l-37262923/e-37264861) |
+| Ja. Ich <verb>bin</verb> aus Frankfurt. | [DW A1 E1 L3 · exercise](https://learngerman.dw.com/en/nico-is-learning-german-verb-conjugation/l-37263828/e-37267180) |
+| Wir <verb>sind</verb> Touristen! | [DW A1 E1 L3 · exercise](https://learngerman.dw.com/en/verb-conjugation-when-using-the-formal-sie/l-37263828/e-37268148) |
+| Wie alt <verb>sind</verb> Sie? | [DW A1 E2 L2 · exercise](https://learngerman.dw.com/en/pronunciation-training-how-old-are-you/l-37269501/e-37272394) |
+| Ich <verb>bin</verb> 15 Jahre alt. | [DW A1 E2 L2 · exercise](https://learngerman.dw.com/en/pronunciation-training-how-old-are-you/l-37269501/e-37272394) |
+| Wo <verb>ist</verb> die Tasche? | [DW A1 E0 L3 · script](https://static.dw.com/downloads/52719087/nicos-weg-a1-e0-l3-manuskript-und-wortschatz-englisch.pdf) |
 
 ## Common mistakes
 
 | Wrong | Right | Why | From |
 |---|---|---|---|
-| ich bin, du bist, er/sie/es sind, Sie sind | ich bin, du bist, er/sie/es ist, Sie sind | er/sie/es → **ist**. *sind* is for wir, sie and Sie. | [my notes: Woher kommst du?](<../../DW Deutsch lernen/A1/01_meeting_people/03_Woher kommst du/Woher komst du.md>) |
+| ich bin, du bist, er/sie/es sind, Sie sind | ich bin, du bist, er/sie/es ist, Sie sind | er/sie/es → <verb>ist</verb>. *sind* is for wir, sie and Sie. | [my notes: Woher kommst du?](<../../DW Deutsch lernen/A1/01_meeting_people/03_Woher kommst du/Woher komst du.md>) |
 | ihr sind | ihr seid | The ihr form is irregular too. | rule |
 | Das ist Nico und Emma. | Das sind Nico und Emma. | Two people → *sind*. | rule |
 

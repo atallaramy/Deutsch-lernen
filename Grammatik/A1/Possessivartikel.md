@@ -12,16 +12,16 @@ German terms:
 2. The ending depends on the **noun that follows**, not on the owner.
 3. Here, before the subject of the sentence (nominative):
    - *der* noun or *das* noun: no ending: *mein Vater*, *mein Telefon*
-   - *die* noun or a plural: **-e**: *meine Tante*, *meine Eltern*
+   - *die* noun or a plural: <nom>-e</nom>: *mein<nom>e</nom> Tante*, *mein<nom>e</nom> Eltern*
 4. Other cases (*meinen*, *meinem* …) come later with the cases.
 
 ## Table
 
 | | der noun | das noun | die noun | plural |
 |---|---|---|---|---|
-| ich → | mein | mein | meine | meine |
-| du → | dein | dein | deine | deine |
-| Sie → | Ihr | Ihr | Ihre | Ihre |
+| ich → | mein | mein | mein<nom>e</nom> | mein<nom>e</nom> |
+| du → | dein | dein | dein<nom>e</nom> | dein<nom>e</nom> |
+| Sie → | Ihr | Ihr | Ihr<nom>e</nom> | Ihr<nom>e</nom> |
 
 Source: VHS Lektion 2 word list (*mein, meine · dein, deine · Ihr, Ihre*); Wiktionary
 [mein](https://de.wiktionary.org/wiki/mein) · [dein](https://de.wiktionary.org/wiki/dein) ·
@@ -33,21 +33,21 @@ Source: VHS Lektion 2 word list (*mein, meine · dein, deine · Ihr, Ihre*); Wik
 |---|---|---|
 | **Mein** Vater ist Polizist. | der Vater | [DW A1 E1 L3 · script](https://static.dw.com/downloads/52719129/nicos-weg-a1-e1-l3-manuskript-und-wortschatz-englisch.pdf) |
 | **Mein** Telefon ist weg. | das Telefon | [DW A1 E1 L3 · script](https://static.dw.com/downloads/52719129/nicos-weg-a1-e1-l3-manuskript-und-wortschatz-englisch.pdf) |
-| **Mein** Name ist Emma! Und das ist **meine** Tante. | der Name · die Tante | [DW A1 E0 L4 · script](https://static.dw.com/downloads/52719090/nicos-weg-a1-e0-l4-manuskript-und-wortschatz-englisch.pdf) |
-| Das sind **meine** Eltern, **meine** Mutter und **mein** Vater. | die Eltern · die Mutter · der Vater | [VHS A1 L2 · film script](https://www.vhs-lernportal.de/wws/bin/4007498-4014866-1-dvv_filmskripte_a1.pdf) |
+| **Mein** Name ist Emma! Und das ist **mein<nom>e</nom>** Tante. | der Name · die Tante | [DW A1 E0 L4 · script](https://static.dw.com/downloads/52719090/nicos-weg-a1-e0-l4-manuskript-und-wortschatz-englisch.pdf) |
+| Das sind **mein<nom>e</nom>** Eltern, **mein<nom>e</nom>** Mutter und **mein** Vater. | die Eltern · die Mutter · der Vater | [VHS A1 L2 · film script](https://www.vhs-lernportal.de/wws/bin/4007498-4014866-1-dvv_filmskripte_a1.pdf) |
 | Kann **dein** Vater nicht helfen? | der Vater | [DW A1 E1 L3 · script](https://static.dw.com/downloads/52719129/nicos-weg-a1-e1-l3-manuskript-und-wortschatz-englisch.pdf) |
 | Wie ist **dein** Name? | der Name | [DW A1 E0 L4 · script](https://static.dw.com/downloads/52719090/nicos-weg-a1-e0-l4-manuskript-und-wortschatz-englisch.pdf) |
-| Wie ist **Ihre** Adresse? Wie ist **deine** Adresse? | die Adresse | [VHS A1 L2 · phrase trainer](https://a1.vhs-lernportal.de/) |
-| Wie ist **deine** Telefonnummer? | die Telefonnummer | [DW A1 E2 L2 · script](https://static.dw.com/downloads/52719221/nicos-weg-a1-e2-l2-manuskript-und-wortschatz-englisch.pdf) |
-| **Meine** Telefonnummer ist 02253429. | die Telefonnummer | [DW A1 E2 L2 · exercise](https://learngerman.dw.com/en/understanding-phone-numbers-2/l-37269501/e-37273380) |
-| Ich bin **Ihre** Deutschlehrerin. | die Deutschlehrerin | [DW A1 E1 L1 · exercise](https://learngerman.dw.com/en/nico-is-learning-german-introduction/l-37262882/e-37263816) |
+| Wie ist **Ihr<nom>e</nom>** Adresse? Wie ist **dein<nom>e</nom>** Adresse? | die Adresse | [VHS A1 L2 · phrase trainer](https://a1.vhs-lernportal.de/) |
+| Wie ist **dein<nom>e</nom>** Telefonnummer? | die Telefonnummer | [DW A1 E2 L2 · script](https://static.dw.com/downloads/52719221/nicos-weg-a1-e2-l2-manuskript-und-wortschatz-englisch.pdf) |
+| **Mein<nom>e</nom>** Telefonnummer ist 02253429. | die Telefonnummer | [DW A1 E2 L2 · exercise](https://learngerman.dw.com/en/understanding-phone-numbers-2/l-37269501/e-37273380) |
+| Ich bin **Ihr<nom>e</nom>** Deutschlehrerin. | die Deutschlehrerin | [DW A1 E1 L1 · exercise](https://learngerman.dw.com/en/nico-is-learning-german-introduction/l-37262882/e-37263816) |
 
 ## Common mistakes
 
 | Wrong | Right | Why | From |
 |---|---|---|---|
 | meine Vater | mein Vater | *der Vater*: no ending. | rule |
-| mein Tante | meine Tante | *die Tante*: add **-e**. | rule |
+| mein Tante | meine Tante | *die Tante*: add <nom>-e</nom>. | rule |
 | ihr Name (to a stranger) | Ihr Name | Formal *Ihr* has a capital I. Small *ihr* means her or their. | rule |
 
 My possessive table in the *Ich heiße Emma* notes is right (checked with Wiktionary).

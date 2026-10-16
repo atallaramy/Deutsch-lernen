@@ -11,15 +11,15 @@ German terms:
 
 1. In some irregular verbs the stem vowel **e** becomes **i** (or **ie**) in two forms:
    **du** and **er/sie/es**. All the other forms are regular.
-2. The endings stay the same as in the [Präsens](Praesens.md): *du nimm**st***, *er nimm**t***.
+2. The endings stay the same as in the [Präsens](Praesens.md): *du nimm<verb>st</verb>*, *er nimm<verb>t</verb>*.
 3. *nehmen* also changes the letter after the vowel: *nehm-* → *nimm-*
    (*du nimmst, er nimmt*).
-4. *essen*: the stem ends in **-s**, so du adds only **-t**: *du isst* = *er isst*.
+4. *essen*: the stem ends in **-s**, so du adds only <verb>-t</verb>: *du isst* = *er isst*.
 5. Do not confuse *er isst* (*essen*, eats) with *er ist* (*sein*, is).
 6. *sprechen* works the same way: *du sprichst, er spricht* (DW E4 L4). *helfen*
    (*du hilfst*) does too; its table is on the [Präsens](Praesens.md) page.
 7. *lesen* changes **e** to **ie**, spoken as a long *i*: *du liest, er liest* (DW E5 L2).
-   Like *essen*, its stem ends in **-s**, so du adds only **-t**: *du liest* = *er liest*.
+   Like *essen*, its stem ends in **-s**, so du adds only <verb>-t</verb>: *du liest* = *er liest*.
 
 Source: DW grammar pages [Vowel change: e to i](https://learngerman.dw.com/en/vowel-change-e-to-i/l-37279261/gr-38306672) (E3 L3)
 and [Conjugation: sprechen](https://learngerman.dw.com/en/conjugation-sprechen/l-37337244/gr-38306997) (E4 L4);
@@ -30,13 +30,13 @@ DW exercise tip [The order (2)](https://learngerman.dw.com/en/the-order-2/l-3727
 
 | Person | essen | nehmen | sprechen | lesen |
 |---|---|---|---|---|
-| ich | esse | nehme | spreche | lese |
-| du | isst | nimmst | sprichst | liest |
-| er/sie/es | isst | nimmt | spricht | liest |
-| wir | essen | nehmen | sprechen | lesen |
-| ihr | esst | nehmt | sprecht | lest |
-| sie | essen | nehmen | sprechen | lesen |
-| Sie | essen | nehmen | sprechen | lesen |
+| ich | ess<verb>e</verb> | nehm<verb>e</verb> | sprech<verb>e</verb> | les<verb>e</verb> |
+| du | **i**ss<verb>t</verb> | n**i**mm<verb>st</verb> | spr**i**ch<verb>st</verb> | l**ie**s<verb>t</verb> |
+| er/sie/es | **i**ss<verb>t</verb> | n**i**mm<verb>t</verb> | spr**i**ch<verb>t</verb> | l**ie**s<verb>t</verb> |
+| wir | ess<verb>en</verb> | nehm<verb>en</verb> | sprech<verb>en</verb> | les<verb>en</verb> |
+| ihr | ess<verb>t</verb> | nehm<verb>t</verb> | sprech<verb>t</verb> | les<verb>t</verb> |
+| sie | ess<verb>en</verb> | nehm<verb>en</verb> | sprech<verb>en</verb> | les<verb>en</verb> |
+| Sie | ess<verb>en</verb> | nehm<verb>en</verb> | sprech<verb>en</verb> | les<verb>en</verb> |
 
 Source: DW grammar pages *Vowel change: e to i*, *Conjugation: sprechen* and *Conjugation: lesen*; Wiktionary
 [essen](https://de.wiktionary.org/wiki/Flexion:essen) ·
@@ -48,18 +48,18 @@ Source: DW grammar pages *Vowel change: e to i*, *Conjugation: sprechen* and *Co
 
 | German | Source |
 |---|---|
-| Ich **esse** gern Pizza mit Salami. Und was **isst** du gern, Nina? – Ich **esse** gern Pizza Hawaii ohne Schinken. | [DW A1 E3 L3 · grammar page](https://learngerman.dw.com/en/vowel-change-e-to-i/l-37279261/gr-38306672) |
-| Ich **nehme** eine Pizza mit Thunfisch. Und was **nimmst** du, Nico? – Ich **nehme** eine Pizza mit Salami. | [DW A1 E3 L3 · grammar page](https://learngerman.dw.com/en/vowel-change-e-to-i/l-37279261/gr-38306672) |
-| Leute, die Speisekarte. Was **nehmt** ihr? | [DW A1 E3 L3 · script](https://learngerman.dw.com/downloads/52719582/nicos-weg-a1-e3-l3-manuskript-und-wortschatz-englisch.pdf) |
-| Nina liebt Ananas, sie ist aber Vegetarierin und deshalb **nimmt** sie die Pizza jedes Mal ohne Schinken. | [DW A1 E3 L3 · script](https://learngerman.dw.com/downloads/52719582/nicos-weg-a1-e3-l3-manuskript-und-wortschatz-englisch.pdf) |
-| Er **nimmt** eine Pizza mit Salami. | [DW A1 E3 L3 · exercise](https://learngerman.dw.com/en/the-verb-nehmen/l-37279261/e-37287011) |
-| Ja gern, was **nehmen** Sie? | [DW A1 E3 L3 · exercise](https://learngerman.dw.com/en/sebastian-orders-pizza-2/l-37279261/e-37289933) |
-| Welche Sprachen **sprichst** du, Lisa? – Ich **spreche** Deutsch, Englisch und Italienisch. | [DW A1 E4 L4 · grammar page](https://learngerman.dw.com/en/conjugation-sprechen/l-37337244/gr-38306997) |
-| Sie **spricht** sehr gut Deutsch! | [DW A1 E4 L4 · script](https://learngerman.dw.com/downloads/52719637/nicos-weg-a1-e4-l4-manuskript-und-wortschatz-englisch.pdf) |
-| Na, und Spanisch! Und du **sprichst** ein bisschen Deutsch. | [DW A1 E4 L4 · exercise](https://learngerman.dw.com/en/the-verb-sprechen/l-37337244/e-37340487) |
-| In Frankreich **spricht** man Französisch. | [DW A1 E4 L4 · exercise](https://learngerman.dw.com/en/nico-is-learning-german-countries-and-languages/l-37337244/e-37339631) |
-| **Liest** du gern? – Ja, ich **lese** gern. | [DW A1 E5 L2 · grammar page](https://learngerman.dw.com/en/conjugation-lesen/l-37372077/gr-38306055) |
-| Wir **lesen** Texte. | [DW A1 E5 L2 · exercise](https://learngerman.dw.com/en/describing-learning-activities-1/l-37372077/e-37433852) |
+| Ich <verb>esse</verb> gern Pizza mit Salami. Und was <verb>isst</verb> du gern, Nina? – Ich <verb>esse</verb> gern Pizza Hawaii ohne Schinken. | [DW A1 E3 L3 · grammar page](https://learngerman.dw.com/en/vowel-change-e-to-i/l-37279261/gr-38306672) |
+| Ich <verb>nehme</verb> eine Pizza mit Thunfisch. Und was <verb>nimmst</verb> du, Nico? – Ich <verb>nehme</verb> eine Pizza mit Salami. | [DW A1 E3 L3 · grammar page](https://learngerman.dw.com/en/vowel-change-e-to-i/l-37279261/gr-38306672) |
+| Leute, die Speisekarte. Was <verb>nehmt</verb> ihr? | [DW A1 E3 L3 · script](https://learngerman.dw.com/downloads/52719582/nicos-weg-a1-e3-l3-manuskript-und-wortschatz-englisch.pdf) |
+| Nina liebt Ananas, sie ist aber Vegetarierin und deshalb <verb>nimmt</verb> sie die Pizza jedes Mal ohne Schinken. | [DW A1 E3 L3 · script](https://learngerman.dw.com/downloads/52719582/nicos-weg-a1-e3-l3-manuskript-und-wortschatz-englisch.pdf) |
+| Er <verb>nimmt</verb> eine Pizza mit Salami. | [DW A1 E3 L3 · exercise](https://learngerman.dw.com/en/the-verb-nehmen/l-37279261/e-37287011) |
+| Ja gern, was <verb>nehmen</verb> Sie? | [DW A1 E3 L3 · exercise](https://learngerman.dw.com/en/sebastian-orders-pizza-2/l-37279261/e-37289933) |
+| Welche Sprachen <verb>sprichst</verb> du, Lisa? – Ich <verb>spreche</verb> Deutsch, Englisch und Italienisch. | [DW A1 E4 L4 · grammar page](https://learngerman.dw.com/en/conjugation-sprechen/l-37337244/gr-38306997) |
+| Sie <verb>spricht</verb> sehr gut Deutsch! | [DW A1 E4 L4 · script](https://learngerman.dw.com/downloads/52719637/nicos-weg-a1-e4-l4-manuskript-und-wortschatz-englisch.pdf) |
+| Na, und Spanisch! Und du <verb>sprichst</verb> ein bisschen Deutsch. | [DW A1 E4 L4 · exercise](https://learngerman.dw.com/en/the-verb-sprechen/l-37337244/e-37340487) |
+| In Frankreich <verb>spricht</verb> man Französisch. | [DW A1 E4 L4 · exercise](https://learngerman.dw.com/en/nico-is-learning-german-countries-and-languages/l-37337244/e-37339631) |
+| <verb>Liest</verb> du gern? – Ja, ich <verb>lese</verb> gern. | [DW A1 E5 L2 · grammar page](https://learngerman.dw.com/en/conjugation-lesen/l-37372077/gr-38306055) |
+| Wir <verb>lesen</verb> Texte. | [DW A1 E5 L2 · exercise](https://learngerman.dw.com/en/describing-learning-activities-1/l-37372077/e-37433852) |
 
 In the script Nina says *ich nehm*, the spoken short form of *ich nehme*.
 

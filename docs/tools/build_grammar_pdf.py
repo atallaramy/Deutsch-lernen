@@ -16,6 +16,7 @@ from __future__ import annotations
 import hashlib
 import html
 import json
+import os
 import re
 import shutil
 import subprocess
@@ -29,9 +30,12 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 import check_grammar_book  # noqa: E402
-from check_grammar_book import BOOK, CHEATSHEET, GLOSSARY, MISTAKES, ROOT, link_targets, plain, tables  # noqa: E402
+from check_grammar_book import (BOOK, CHEATSHEET, COLOUR_RULES, COLOURS, GLOSSARY, MISTAKES, ROOT,  # noqa: E402
+                                link_targets, plain, tables)
 
 PDF = BOOK / "Grammatik.pdf"
+PNG_DIR = CHEATSHEET.parent / "PNG"  # a phone copy of every cheatsheet
+PNG_DPI = "150"
 CHEATSHEET_PDF = CHEATSHEET.with_suffix(".pdf")
 MANIFEST = BOOK / "Materials" / "pdf-build.json"
 CHROME = Path("/Applications/Google Chrome.app/Contents/MacOS/Google Chrome")
@@ -72,6 +76,8 @@ tr { break-inside: avoid; }
 a { color: #1f5fa8; text-decoration: none; }
 code { font-size: 9pt; background: #f2f2f2; padding: 0 2pt; border-radius: 2pt; }
 h2[id$="sentences-cards"] + ul { font-size: 8.5pt; color: #666; }
+.case { margin: 0 0 12pt; break-inside: avoid; }
+.case h2 { margin: 0; padding: 4pt 8pt; border-radius: 5pt 5pt 0 0; color: #fff; border: 0; background: #4a5560; }
 .write-here { height: 30mm; border: 1px dashed #9aa3ad; border-radius: 3pt; break-inside: avoid;
   background: repeating-linear-gradient(transparent 0 7.4mm, #dde1e6 7.4mm 7.5mm); }
 """
@@ -92,30 +98,27 @@ th:nth-child(2), td:nth-child(2) { width: 27%; }
 td:nth-child(3) { font-style: italic; }
 """
 
-# The learner's own sheet style: a coloured band per case, **ending** in the case colour, <b>word</b> in bold.
+# The learner's own sheet style: a coloured band per case, endings in their colour tag, **word** in bold.
 SHEET_CSS = """
-@page { size: A4; margin: 14mm 15mm; }
+@page { size: A4; margin: 10mm 13mm; }
 html { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
-body { font-family: -apple-system, "Helvetica Neue", Arial, sans-serif; font-size: 11pt; line-height: 1.35;
+body { font-family: -apple-system, "Helvetica Neue", Arial, sans-serif; font-size: 10pt; line-height: 1.25;
   color: #222; margin: 0; }
-h1 { font-size: 30pt; margin: 0 0 2pt; }
-h1 + p { font-size: 11.5pt; color: #666; margin: 0 0 14pt; }
-.case { margin: 0 0 16pt; break-inside: avoid; }
-.case h2 { display: flex; justify-content: space-between; align-items: baseline; margin: 0; padding: 5pt 10pt;
-  border-radius: 6pt 6pt 0 0; color: #fff; font-size: 16pt; }
+h1 { font-size: 26pt; margin: 0 0 2pt; }
+h1 + p { font-size: 11pt; color: #666; margin: 0 0 9pt; }
+.case { margin: 0 0 9pt; break-inside: avoid; }
+.case h2 { display: flex; justify-content: space-between; align-items: baseline; margin: 0; padding: 4pt 10pt;
+  border-radius: 6pt 6pt 0 0; color: #fff; font-size: 14.5pt; background: #4a5560; }
 .case h2 small { font-size: 10pt; font-weight: normal; }
 table { border-collapse: collapse; width: 100%; border-bottom: 1.5px solid #bbb; }
-th { background: #eee; text-align: left; padding: 5pt 8pt; font-size: 10.5pt; }
-td { padding: 6pt 8pt; vertical-align: top; }
+th { background: #eee; text-align: left; padding: 3.5pt 7pt; font-size: 9.5pt; }
+td { padding: 3pt 7pt; vertical-align: top; }
 tbody tr:nth-child(even) { background: #f6f6f6; }
-td:first-child { color: #666; width: 13%; }
-th:last-child, td:last-child { border-left: 1.5px solid #ccc; width: 44%; }
-td:last-child em { color: #888; font-size: 9.5pt; }
-strong { font-weight: 700; }
-.nom h2 { background: #1f5f8b; } .nom strong { color: #1f5f8b; }
-.akk h2 { background: #a33b20; } .akk strong { color: #a33b20; }
-.dat h2 { background: #2e7d4f; } .dat strong { color: #2e7d4f; }
-.gen h2 { background: #6b3fa0; } .gen strong { color: #6b3fa0; }
+td:first-child { color: #666; }
+th:not(:last-child), td:not(:last-child) { white-space: nowrap; }
+th:last-child, td:last-child { border-left: 1.5px solid #ccc; }
+td em { color: #888; font-size: 9pt; }
+strong, b { font-weight: 700; color: #222; }
 .foot { color: #666; font-size: 9.5pt; }
 .foot p { margin: 3pt 0; }
 """
@@ -133,9 +136,14 @@ class Page:
         return f"{self.level or 'book'}-{self.path.stem}"  # unique across levels (A1/Zahlen vs a later A2/Zahlen)
 
 
+# Each colour tag (<akk>en</akk>) and band (<div class="case akk">) comes from the one fixed list.
+COLOUR_CSS = "".join(f"{tag} {{ color: {hex_}; font-weight: 700; }}\n.case.{tag} h2 {{ background: {hex_}; }}\n"
+                     for tag, (_, hex_) in COLOURS.items())
+
+
 def book_pages(book: Path = BOOK) -> list[Page]:
-    """Studied pages in index order."""
-    pages = []
+    """The colour rules, then the studied pages in index order, then my mistakes and the grammar words."""
+    pages = [Page("", "Colours", COLOUR_RULES.resolve(), "")] if COLOUR_RULES.exists() else []
     for table in tables((book / "README.md").read_text(encoding="utf-8")):
         match = STUDIED_RE.match(table.section)
         if not match:
@@ -161,7 +169,7 @@ def inputs_digest(pages: list[Page], book: Path = BOOK, cheatsheet: Path = CHEAT
     digest = hashlib.sha256(Path(__file__).read_bytes())
     digest.update((book / "README.md").read_bytes())
     for page in pages:
-        digest.update(str(page.path.relative_to(book)).encode("utf-8") + b"\0" + page.path.read_bytes())
+        digest.update(os.path.relpath(page.path, book).encode("utf-8") + b"\0" + page.path.read_bytes())
     if cheatsheet.exists():
         digest.update(b"cheatsheet\0" + cheatsheet.read_bytes())
     for sheet in sheets(cheatsheet):
@@ -213,13 +221,16 @@ def book_html(pages: list[Page]) -> str:
                         f'<span class="from">· {html.escape(page.source)}</span></li>'
                         for page in topics if page.level == level)
         contents.append(f"<h2>{level}</h2><ol>{items}</ol>")
-    contents += [f'<h2><a href="#{page.slug}">{html.escape(page.topic)}</a></h2>' for page in pages if not page.level]
+    first = next((i for i, page in enumerate(pages) if page.level), len(pages))
+    links = [f'<h2><a href="#{page.slug}">{html.escape(page.topic)}</a></h2>' for page in pages]
+    contents = [link for i, link in enumerate(links[:first])] + contents
+    contents += [link for i, link in enumerate(links) if i >= first and not pages[i].level]
     cover = (f'<div class="cover"><h1>Grammatik</h1><div class="sub">my German grammar book</div>'
              f'<div class="meta">{" · ".join(levels)} · {len(topics)} topics · updated {updated_on(pages)}<br>'
              f"Built from the pages in Grammatik/ after every lesson.</div></div>")
     body = "".join(page_html(page, slugs) for page in pages)
     return (f'<!doctype html><html lang="en"><head><meta charset="utf-8"><title>{TITLE}</title>'
-            f"<style>{CSS}</style></head><body>{cover}<div class=\"contents\"><h1>Contents</h1>{''.join(contents)}</div>"
+            f"<style>{CSS}{COLOUR_CSS}</style></head><body>{cover}<div class=\"contents\"><h1>Contents</h1>{''.join(contents)}</div>"
             f"{body}</body></html>")
 
 
@@ -227,14 +238,14 @@ def cheatsheet_html(cheatsheet: Path = CHEATSHEET) -> str:
     result = subprocess.run(["pandoc", "-f", "gfm", "-t", "html5", "--wrap=none"],
                             input=cheatsheet.read_text(encoding="utf-8"), capture_output=True, text=True, check=True)
     return (f'<!doctype html><html lang="en"><head><meta charset="utf-8"><title>{cheatsheet.stem}</title>'
-            f"<style>{CHEATSHEET_CSS}</style></head><body>{result.stdout}</body></html>")
+            f"<style>{CHEATSHEET_CSS}{COLOUR_CSS}</style></head><body>{result.stdout}</body></html>")
 
 
 def sheet_html(sheet: Path) -> str:
     result = subprocess.run(["pandoc", "-f", "gfm", "-t", "html5", "--wrap=none"],
                             input=sheet.read_text(encoding="utf-8"), capture_output=True, text=True, check=True)
     return (f'<!doctype html><html lang="de"><head><meta charset="utf-8"><title>{sheet.stem}</title>'
-            f"<style>{SHEET_CSS}</style></head><body>{result.stdout}</body></html>")
+            f"<style>{SHEET_CSS}{COLOUR_CSS}</style></head><body>{result.stdout}</body></html>")
 
 
 def sheet_date(sheet: Path) -> str:
@@ -273,10 +284,17 @@ def print_pdf(document: str, output: Path, date: str) -> None:
     output.write_bytes(PDF_DATE_RE.sub(lambda m: b"(D:" + stamp + m.group(2) + b")", data))
 
 
+def png_of(pdf: Path, output: Path) -> None:
+    """A phone copy of a one-page PDF."""
+    subprocess.run(["pdftoppm", "-png", "-r", PNG_DPI, "-singlefile", str(pdf), str(output.with_suffix(""))],
+                   check=True, capture_output=True)
+
+
 def tool_versions() -> dict[str, str]:
     pandoc = subprocess.run(["pandoc", "--version"], capture_output=True, text=True, check=True).stdout.splitlines()[0]
     chrome = subprocess.run([str(CHROME), "--version"], capture_output=True, text=True, check=True).stdout.strip()
-    return {"pandoc": pandoc, "chrome": chrome}
+    poppler = subprocess.run(["pdftoppm", "-v"], capture_output=True, text=True).stderr.splitlines()[0]
+    return {"pandoc": pandoc, "chrome": chrome, "pdftoppm": poppler}
 
 
 def stale_reason(book: Path = BOOK, cheatsheet: Path = CHEATSHEET) -> str | None:
@@ -298,6 +316,10 @@ def stale_reason(book: Path = BOOK, cheatsheet: Path = CHEATSHEET) -> str | None
             return f"{sheet_pdf.name} has not been built yet"
         if recorded.get("sheets", {}).get(sheet.name) != hashlib.sha256(sheet_pdf.read_bytes()).hexdigest():
             return f"{sheet_pdf.name} differs from the recorded build"
+    for sheet in [cheatsheet] + sheets(cheatsheet):
+        png = cheatsheet.parent / PNG_DIR.name / f"{sheet.stem}.png"
+        if not png.exists() or recorded.get("png", {}).get(png.name) != hashlib.sha256(png.read_bytes()).hexdigest():
+            return f"PNG/{png.name} is missing or differs from the recorded build"
     return None
 
 
@@ -325,13 +347,28 @@ def build() -> int:
                 print(f"ERROR the {target.name} build is not deterministic; nothing written")
                 return 1
             built[target] = first.read_bytes()
-    for target in [CHEATSHEET_PDF] + [sheet.with_suffix(".pdf") for sheet in sheets()]:
+    one_page = [CHEATSHEET_PDF] + [sheet.with_suffix(".pdf") for sheet in sheets()]
+    for target in one_page:
         pages_needed = page_count(built[target])
         if pages_needed != 1:
             print(f"ERROR {target.with_suffix('.md').relative_to(ROOT)} needs {pages_needed} pages; a cheatsheet fits "
                   "on one. Ask the learner what to shorten or split. Nothing written.")
             return 1
+    pngs = {}
+    with tempfile.TemporaryDirectory() as tmp:
+        for target in one_page:
+            pdf, first, second = Path(tmp) / target.name, Path(tmp) / "a.png", Path(tmp) / "b.png"
+            pdf.write_bytes(built[target])
+            png_of(pdf, first)
+            png_of(pdf, second)
+            if first.read_bytes() != second.read_bytes():
+                print(f"ERROR the PNG of {target.name} is not deterministic; nothing written")
+                return 1
+            pngs[PNG_DIR / f"{target.stem}.png"] = first.read_bytes()
     for target, data in built.items():
+        target.write_bytes(data)
+    PNG_DIR.mkdir(exist_ok=True)
+    for target, data in pngs.items():
         target.write_bytes(data)
     MANIFEST.write_text(json.dumps({
         "description": "Written by docs/tools/build_grammar_pdf.py. 'inputs' fingerprints the builder, README.md, "
@@ -340,10 +377,12 @@ def build() -> int:
         "inputs": inputs_digest(pages), "pdf": hashlib.sha256(PDF.read_bytes()).hexdigest(),
         "cheatsheet": hashlib.sha256(CHEATSHEET_PDF.read_bytes()).hexdigest(),
         "sheets": {sheet.name: hashlib.sha256(sheet.with_suffix(".pdf").read_bytes()).hexdigest() for sheet in sheets()},
-        "pages": [str(page.path.relative_to(BOOK)) for page in pages], "tools": tool_versions(),
+        "png": {path.name: hashlib.sha256(data).hexdigest() for path, data in sorted(pngs.items())},
+        "pages": [os.path.relpath(page.path, BOOK) for page in pages], "tools": tool_versions(),
     }, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
     print(f"{PDF.relative_to(ROOT)}: {len(pages)} pages; {CHEATSHEET_PDF.relative_to(ROOT)}: 1 page"
-          + "".join(f"; {sheet.with_suffix('.pdf').relative_to(ROOT)}: 1 page" for sheet in sheets()))
+          + "".join(f"; {sheet.with_suffix('.pdf').relative_to(ROOT)}: 1 page" for sheet in sheets())
+          + f"; {len(pngs)} PNG copies in {PNG_DIR.relative_to(ROOT)}")
     return 0
 
 

@@ -70,4 +70,4 @@ agents; change rules there. This file adds only how Claude works here.
   - `python3 ANKI/harvest_sources.py --glosses` — network: dictionary check of meanings no glossary supplies
   - `python3 docs/tools/build_course_index.py` — network: rebuild the lesson index
   - `python3 docs/tools/check_grammar_book.py` — check the grammar book (`fetch`: network, Wiktionary verb tables)
-  - `python3 docs/tools/build_grammar_pdf.py` — rebuild `Grammatik/Grammatik.pdf`, `Spickzettel/Grammatikbegriffe.pdf` and every other cheatsheet PDF after the check (`--check`: are they current?)
+  - `python3 docs/tools/build_grammar_pdf.py` — rebuild `Grammatik/Grammatik.pdf`, every cheatsheet PDF and their PNG copies in `Spickzettel/PNG/` after the check (`--check`: are they current?)

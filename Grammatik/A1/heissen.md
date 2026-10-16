@@ -5,7 +5,7 @@
 ## The rule
 
 1. *heißen* is a regular verb with one special form. The stem *heiß-* ends in **-ß**,
-   so du adds only **-t**: *du heißt*. That is the same form as *er/sie/es heißt*
+   so du adds only <verb>-t</verb>: *du heißt*. That is the same form as *er/sie/es heißt*
    and *ihr heißt*.
 2. There are three ways to say your name: *Ich heiße Nico.* · *Ich bin Nico.* ·
    *Mein Name ist Nico.*
@@ -18,13 +18,13 @@
 
 | Person | heißen |
 |---|---|
-| ich | heiße |
-| du | heißt |
-| er/sie/es | heißt |
-| wir | heißen |
-| ihr | heißt |
-| sie | heißen |
-| Sie | heißen |
+| ich | heiß<verb>e</verb> |
+| du | heiß<verb>t</verb> |
+| er/sie/es | heiß<verb>t</verb> |
+| wir | heiß<verb>en</verb> |
+| ihr | heiß<verb>t</verb> |
+| sie | heiß<verb>en</verb> |
+| Sie | heiß<verb>en</verb> |
 
 Source: DW grammar pages *Personal pronouns* (E1 L1, E1 L4) and *Conjugation: present tense (1)*;
 [Wiktionary](https://de.wiktionary.org/wiki/Flexion:heißen).
@@ -33,11 +33,11 @@ Source: DW grammar pages *Personal pronouns* (E1 L1, E1 L4) and *Conjugation: pr
 
 | German | Source |
 |---|---|
-| Hallo, ich **heiße** Nico. Und wie **heißt** du? | [DW A1 E1 L1 · script](https://static.dw.com/downloads/52719106/nicos-weg-a1-e1-l1-manuskript-und-wortschatz-englisch.pdf) |
-| Nein, du **heißt** Nico. | [DW A1 E1 L1 · script](https://static.dw.com/downloads/52719106/nicos-weg-a1-e1-l1-manuskript-und-wortschatz-englisch.pdf) |
-| Guten Tag, ich **heiße** Djamal Hamad. Wie ist Ihr Name? | [DW A1 E1 L1 · exercise](https://learngerman.dw.com/en/nico-is-learning-german-meeting-new-people/l-37262882/e-37264183) |
-| Er **heißt** Nico. | [DW A1 E1 L4 · grammar page](https://learngerman.dw.com/en/personal-pronouns-er-sie/l-37265543/gr-38320906) |
-| Das sind meine Freunde. Sie **heißen** Nina und Sebastian. | [DW A1 E1 L4 · exercise](https://learngerman.dw.com/en/the-verb-heißen/l-37265543/e-37266832) |
+| Hallo, ich <verb>heiße</verb> Nico. Und wie <verb>heißt</verb> du? | [DW A1 E1 L1 · script](https://static.dw.com/downloads/52719106/nicos-weg-a1-e1-l1-manuskript-und-wortschatz-englisch.pdf) |
+| Nein, du <verb>heißt</verb> Nico. | [DW A1 E1 L1 · script](https://static.dw.com/downloads/52719106/nicos-weg-a1-e1-l1-manuskript-und-wortschatz-englisch.pdf) |
+| Guten Tag, ich <verb>heiße</verb> Djamal Hamad. Wie ist Ihr Name? | [DW A1 E1 L1 · exercise](https://learngerman.dw.com/en/nico-is-learning-german-meeting-new-people/l-37262882/e-37264183) |
+| Er <verb>heißt</verb> Nico. | [DW A1 E1 L4 · grammar page](https://learngerman.dw.com/en/personal-pronouns-er-sie/l-37265543/gr-38320906) |
+| Das sind meine Freunde. Sie <verb>heißen</verb> Nina und Sebastian. | [DW A1 E1 L4 · exercise](https://learngerman.dw.com/en/the-verb-heißen/l-37265543/e-37266832) |
 | Mein Name ist Sophie Meier. | [DW A1 E0 L4 · exercise](https://learngerman.dw.com/en/nico-learns-german-what-is-your-name/l-37256418/e-37262329) |
 
 ## Common mistakes

@@ -15,8 +15,8 @@ German terms:
    (people) or **Was?** (things). It is in the **nominative**: *Die Frau isst eine Pizza.*
 2. Many verbs also need an **object**. It answers **Wen?** (people) or **Was?** (things).
    Most objects are in the **accusative**: *Ich schreibe einen Text.*
-3. In the accusative **only the masculine singular changes**: *der → den, ein → einen,
-   kein → keinen*. Feminine, neuter and plural stay the same.
+3. In the accusative **only the masculine singular changes**: *d<nom>er</nom> → d<akk>en</akk>, ein → ein<akk>en</akk>,
+   kein → kein<akk>en</akk>*. Feminine, neuter and plural stay the same.
 4. *sein* always takes the nominative: *Das ist kein Stift.* *haben* takes the
    accusative: *Ich habe keinen Stift.* So does *es gibt*: *Es gibt hier wirklich
    keinen Fahrradladen.* ([Wiktionary: geben](https://en.wiktionary.org/wiki/geben#German), *es gibt* [with accusative])
@@ -39,10 +39,10 @@ rule 8 and the summary table: [Articles](https://learngerman.dw.com/en/articles/
 
 | | Nominativ (subject; after *sein*) | Akkusativ (object; after *haben*) |
 |---|---|---|
-| masculine | der · ein · kein Stift | **den** · **einen** · **keinen** Stift |
-| feminine | die · eine · keine Brille | die · eine · keine Brille |
-| neuter | das · ein · kein Buch | das · ein · kein Buch |
-| plural | die · – · keine Stifte | die · – · keine Stifte |
+| masculine | d<nom>er</nom> · ein · kein Stift | **d<akk>en</akk>** · **ein<akk>en</akk>** · **kein<akk>en</akk>** Stift |
+| feminine | d<nom>ie</nom> · ein<nom>e</nom> · kein<nom>e</nom> Brille | d<akk>ie</akk> · ein<akk>e</akk> · kein<akk>e</akk> Brille |
+| neuter | d<nom>as</nom> · ein · kein Buch | d<akk>as</akk> · ein · kein Buch |
+| plural | d<nom>ie</nom> · – · kein<nom>e</nom> Stifte | d<akk>ie</akk> · – · kein<akk>e</akk> Stifte |
 
 Source: DW exercises *The nominative* and *The accusative*, and the grammar pages *Article:
 negation* and *Articles* (E6 L1). The genders: [Genus](Genus.md); *ein*: [Unbestimmter Artikel](Unbestimmter-Artikel.md).
@@ -51,24 +51,24 @@ negation* and *Articles* (E6 L1). The genders: [Genus](Genus.md); *ein*: [Unbest
 
 | German | Source |
 |---|---|
-| **Die Frau** isst **einen Hamburger**. | [DW A1 E5 L3 · exercise](https://learngerman.dw.com/en/the-nominative/l-37382992/e-37385184) |
-| **Der Hamburger** ist gut. | [DW A1 E5 L3 · exercise](https://learngerman.dw.com/en/the-nominative/l-37382992/e-37385184) |
-| **Der Polizist** trinkt **einen Apfelsaft**. | [DW A1 E5 L3 · exercise](https://learngerman.dw.com/en/subject-and-object/l-37382992/e-37386081) |
-| **Das Buch** kostet **einen Euro**. | [DW A1 E5 L3 · exercise](https://learngerman.dw.com/en/subject-and-object/l-37382992/e-37386081) |
+| **D<nom>ie</nom> Frau** isst **ein<akk>en</akk> Hamburger**. | [DW A1 E5 L3 · exercise](https://learngerman.dw.com/en/the-nominative/l-37382992/e-37385184) |
+| **D<nom>er</nom> Hamburger** ist gut. | [DW A1 E5 L3 · exercise](https://learngerman.dw.com/en/the-nominative/l-37382992/e-37385184) |
+| **D<nom>er</nom> Polizist** trinkt **ein<akk>en</akk> Apfelsaft**. | [DW A1 E5 L3 · exercise](https://learngerman.dw.com/en/subject-and-object/l-37382992/e-37386081) |
+| **D<nom>as</nom> Buch** kostet **ein<akk>en</akk> Euro**. | [DW A1 E5 L3 · exercise](https://learngerman.dw.com/en/subject-and-object/l-37382992/e-37386081) |
 | Nein, im Haus ist **kein** Aufzug. | [DW A1 E5 L3 · script](https://learngerman.dw.com/downloads/52719694/nicos-weg-a1-e5-l3-manuskript-und-wortschatz-englisch.pdf) |
-| Ja, die Wohnung hat **eine** Terrasse. | [DW A1 E5 L3 · script](https://learngerman.dw.com/downloads/52719694/nicos-weg-a1-e5-l3-manuskript-und-wortschatz-englisch.pdf) |
-| Hast du **einen** Stift? | [DW A1 E5 L3 · script](https://learngerman.dw.com/downloads/52719694/nicos-weg-a1-e5-l3-manuskript-und-wortschatz-englisch.pdf) |
-| Nein, ich hab **keinen** Stift. | [DW A1 E5 L3 · script](https://learngerman.dw.com/downloads/52719694/nicos-weg-a1-e5-l3-manuskript-und-wortschatz-englisch.pdf) |
-| Wir suchen also **einen** Mieter für Nawins Zimmer. | [DW A1 E5 L3 · script](https://learngerman.dw.com/downloads/52719694/nicos-weg-a1-e5-l3-manuskript-und-wortschatz-englisch.pdf) |
-| Ich habe **eine** Garage, aber **kein** Auto. | [DW A1 E5 L3 · exercise](https://learngerman.dw.com/en/i-have-a-garage-but-no-car/l-37382992/e-37386210) |
-| Sind das Stifte? - Nein, das sind **keine** Stifte. | [DW A1 E5 L3 · grammar page](https://learngerman.dw.com/en/article-negation/l-37382992/gr-38306441) |
-| Isst Nina Schinken? – Nein, Nina isst **keinen** Schinken. | [DW A1 E5 L3 · grammar page](https://learngerman.dw.com/en/article-negation/l-37382992/gr-38306441) |
+| Ja, die Wohnung hat **ein<akk>e</akk>** Terrasse. | [DW A1 E5 L3 · script](https://learngerman.dw.com/downloads/52719694/nicos-weg-a1-e5-l3-manuskript-und-wortschatz-englisch.pdf) |
+| Hast du **ein<akk>en</akk>** Stift? | [DW A1 E5 L3 · script](https://learngerman.dw.com/downloads/52719694/nicos-weg-a1-e5-l3-manuskript-und-wortschatz-englisch.pdf) |
+| Nein, ich hab **kein<akk>en</akk>** Stift. | [DW A1 E5 L3 · script](https://learngerman.dw.com/downloads/52719694/nicos-weg-a1-e5-l3-manuskript-und-wortschatz-englisch.pdf) |
+| Wir suchen also **ein<akk>en</akk>** Mieter für Nawins Zimmer. | [DW A1 E5 L3 · script](https://learngerman.dw.com/downloads/52719694/nicos-weg-a1-e5-l3-manuskript-und-wortschatz-englisch.pdf) |
+| Ich habe **ein<akk>e</akk>** Garage, aber **kein** Auto. | [DW A1 E5 L3 · exercise](https://learngerman.dw.com/en/i-have-a-garage-but-no-car/l-37382992/e-37386210) |
+| Sind das Stifte? - Nein, das sind **kein<nom>e</nom>** Stifte. | [DW A1 E5 L3 · grammar page](https://learngerman.dw.com/en/article-negation/l-37382992/gr-38306441) |
+| Isst Nina Schinken? – Nein, Nina isst **kein<akk>en</akk>** Schinken. | [DW A1 E5 L3 · grammar page](https://learngerman.dw.com/en/article-negation/l-37382992/gr-38306441) |
 | Hier ist **kein** Fahrradladen. | [DW A1 E5 L4 · script](https://learngerman.dw.com/downloads/52719956/nicos-weg-a1-e5-l4-manuskript-und-wortschatz-englisch.pdf) |
-| Es gibt hier wirklich **keinen** Fahrradladen. | [DW A1 E5 L4 · script](https://learngerman.dw.com/downloads/52719956/nicos-weg-a1-e5-l4-manuskript-und-wortschatz-englisch.pdf) |
+| Es gibt hier wirklich **kein<akk>en</akk>** Fahrradladen. | [DW A1 E5 L4 · script](https://learngerman.dw.com/downloads/52719956/nicos-weg-a1-e5-l4-manuskript-und-wortschatz-englisch.pdf) |
 | Ist das **ein** Fahrrad? | [DW A1 E6 L1 · grammar page](https://learngerman.dw.com/en/articles/l-37425145/gr-38303814) |
-| Nein, das ist **kein** Fahrrad. Das ist **ein** Auto. Das ist **das** Auto von Lisa. | [DW A1 E6 L1 · grammar page](https://learngerman.dw.com/en/articles/l-37425145/gr-38303814) |
-| Du hast auch **einen** Garten. **Der** Garten ist groß. | [DW A1 E6 L1 · exercise](https://learngerman.dw.com/en/do-you-have-a-house/l-37425145/e-37431509) |
-| Du hast **keinen** Balkon, aber du hast **eine** Garage. | [DW A1 E6 L1 · exercise](https://learngerman.dw.com/en/do-you-have-a-house/l-37425145/e-37431509) |
+| Nein, das ist **kein** Fahrrad. Das ist **ein** Auto. Das ist **d<nom>as</nom>** Auto von Lisa. | [DW A1 E6 L1 · grammar page](https://learngerman.dw.com/en/articles/l-37425145/gr-38303814) |
+| Du hast auch **ein<akk>en</akk>** Garten. **D<nom>er</nom>** Garten ist groß. | [DW A1 E6 L1 · exercise](https://learngerman.dw.com/en/do-you-have-a-house/l-37425145/e-37431509) |
+| Du hast **kein<akk>en</akk>** Balkon, aber du hast **ein<akk>e</akk>** Garage. | [DW A1 E6 L1 · exercise](https://learngerman.dw.com/en/do-you-have-a-house/l-37425145/e-37431509) |
 
 *hab* is the spoken form of *habe*.
 

@@ -38,17 +38,17 @@ All three lines are from the DW E1 L3 script.
 
 | German (question) | German (answer) | Source |
 |---|---|---|
-| **Hast** du einen Pass? | Nein. Nicos Pass ist in seiner Tasche. | [DW A1 E1 L4 · script](https://static.dw.com/downloads/52719209/nicos-weg-a1-e1-l4-manuskript-und-wortschatz-englisch.pdf) |
-| **Hat** Lisa ein Telefon? | Ja, sie hat ein Telefon. | [DW A1 E1 L4 · exercise](https://learngerman.dw.com/en/do-you-have-a-passport/l-37265543/e-37269072) |
-| **Haben** Lisa und Emma die Adresse von Yara? | Nein, sie haben die Adresse nicht. | [DW A1 E1 L4 · exercise](https://learngerman.dw.com/en/do-you-have-a-passport/l-37265543/e-37269072) |
-| Sonia, **kommst** du aus Frankreich? | Ich? Nein. | [DW A1 E1 L3 · exercise](https://learngerman.dw.com/en/nico-is-learning-german-where-do-you-come-from/l-37263828/e-37266783) |
-| **Ist** Nicos Tasche in Ihrem Taxi? | Nicos Tasche? Nein. Die Tasche ist nicht im Taxi. | [DW A1 E1 L2 · script](https://static.dw.com/downloads/52719126/nicos-weg-a1-e1-l2-manuskript-und-wortschatz-englisch.pdf) |
-| **Brauchst** du Hilfe? | Ja! Hilfe! | [DW A1 E0 L3 · script](https://static.dw.com/downloads/52719087/nicos-weg-a1-e0-l3-manuskript-und-wortschatz-englisch.pdf) |
-| **Haben** Sie Kinder? **Hast** du Kinder? | — | [VHS A1 L2 · phrase trainer](https://a1.vhs-lernportal.de/) |
-| **Kommst** du aus Italien? | Nein, ich komme aus Spanien. | [DW A1 E4 L2 · grammar page](https://learngerman.dw.com/en/questions-and-statements/l-37337877/gr-38306265) |
-| **Ist** Tübingen in der Nähe von Stuttgart? | Ja, Tübingen ist in der Nähe von Stuttgart. | [DW A1 E4 L2 · exercise](https://learngerman.dw.com/en/baden-württemberg/l-37337877/e-37345227) |
-| **Heißt** die Hauptstadt Freiburg? | Nein, die Hauptstadt heißt Stuttgart. | [DW A1 E4 L2 · exercise](https://learngerman.dw.com/en/baden-württemberg/l-37337877/e-37345227) |
-| **Warst** du schon mal in Bayern? | Ja, ich war schon mal in Bayern. | [DW A1 E4 L2 · exercise](https://learngerman.dw.com/en/match-questions/l-37337877/e-44225618) |
+| <verb>Hast</verb> du einen Pass? | Nein. Nicos Pass ist in seiner Tasche. | [DW A1 E1 L4 · script](https://static.dw.com/downloads/52719209/nicos-weg-a1-e1-l4-manuskript-und-wortschatz-englisch.pdf) |
+| <verb>Hat</verb> Lisa ein Telefon? | Ja, sie hat ein Telefon. | [DW A1 E1 L4 · exercise](https://learngerman.dw.com/en/do-you-have-a-passport/l-37265543/e-37269072) |
+| <verb>Haben</verb> Lisa und Emma die Adresse von Yara? | Nein, sie haben die Adresse nicht. | [DW A1 E1 L4 · exercise](https://learngerman.dw.com/en/do-you-have-a-passport/l-37265543/e-37269072) |
+| Sonia, <verb>kommst</verb> du aus Frankreich? | Ich? Nein. | [DW A1 E1 L3 · exercise](https://learngerman.dw.com/en/nico-is-learning-german-where-do-you-come-from/l-37263828/e-37266783) |
+| <verb>Ist</verb> Nicos Tasche in Ihrem Taxi? | Nicos Tasche? Nein. Die Tasche ist nicht im Taxi. | [DW A1 E1 L2 · script](https://static.dw.com/downloads/52719126/nicos-weg-a1-e1-l2-manuskript-und-wortschatz-englisch.pdf) |
+| <verb>Brauchst</verb> du Hilfe? | Ja! Hilfe! | [DW A1 E0 L3 · script](https://static.dw.com/downloads/52719087/nicos-weg-a1-e0-l3-manuskript-und-wortschatz-englisch.pdf) |
+| <verb>Haben</verb> Sie Kinder? <verb>Hast</verb> du Kinder? | — | [VHS A1 L2 · phrase trainer](https://a1.vhs-lernportal.de/) |
+| <verb>Kommst</verb> du aus Italien? | Nein, ich komme aus Spanien. | [DW A1 E4 L2 · grammar page](https://learngerman.dw.com/en/questions-and-statements/l-37337877/gr-38306265) |
+| <verb>Ist</verb> Tübingen in der Nähe von Stuttgart? | Ja, Tübingen ist in der Nähe von Stuttgart. | [DW A1 E4 L2 · exercise](https://learngerman.dw.com/en/baden-württemberg/l-37337877/e-37345227) |
+| <verb>Heißt</verb> die Hauptstadt Freiburg? | Nein, die Hauptstadt heißt Stuttgart. | [DW A1 E4 L2 · exercise](https://learngerman.dw.com/en/baden-württemberg/l-37337877/e-37345227) |
+| <verb>Warst</verb> du schon mal in Bayern? | Ja, ich war schon mal in Bayern. | [DW A1 E4 L2 · exercise](https://learngerman.dw.com/en/match-questions/l-37337877/e-44225618) |
 
 ## Common mistakes
 

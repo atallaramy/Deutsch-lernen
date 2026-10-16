@@ -13,13 +13,13 @@
 
 | Person | haben |
 |---|---|
-| ich | habe |
-| du | hast |
-| er/sie/es | hat |
-| wir | haben |
-| ihr | habt |
-| sie | haben |
-| Sie | haben |
+| ich | hab<verb>e</verb> |
+| du | ha<verb>st</verb> |
+| er/sie/es | ha<verb>t</verb> |
+| wir | hab<verb>en</verb> |
+| ihr | hab<verb>t</verb> |
+| sie | hab<verb>en</verb> |
+| Sie | hab<verb>en</verb> |
 
 Source: DW grammar page *Conjugation: haben*; VHS Lektion 2 word list
 (*haben: ich habe; du hast; er/sie/es hat; Sie haben*);
@@ -29,17 +29,17 @@ Source: DW grammar page *Conjugation: haben*; VHS Lektion 2 word list
 
 | German | Source |
 |---|---|
-| Welche Nummer **hast** du? – Ich **habe** die Nummer vier, eins, acht, sieben. | [DW A1 E1 L4 · grammar page](https://learngerman.dw.com/en/conjugation-haben/l-37265543/gr-38310825) |
-| Nico, **hast** du einen Pass? | [DW A1 E1 L4 · exercise](https://learngerman.dw.com/en/do-you-have-a-passport/l-37265543/e-37269072) |
-| Ja, wir **haben** ein Problem. Nicos Pass ist weg. | [DW A1 E1 L4 · exercise](https://learngerman.dw.com/en/do-you-have-a-passport/l-37265543/e-37269072) |
-| Hallo, Lisa und Nico, **habt** ihr ein Problem? | [DW A1 E1 L4 · exercise](https://learngerman.dw.com/en/do-you-have-a-passport/l-37265543/e-37269072) |
-| Nein, sie **haben** die Adresse nicht. | [DW A1 E1 L4 · exercise](https://learngerman.dw.com/en/do-you-have-a-passport/l-37265543/e-37269072) |
-| Seine Tante **hat** ein Geschäft, ein Fahrradgeschäft. | [DW A1 E1 L4 · script](https://static.dw.com/downloads/52719209/nicos-weg-a1-e1-l4-manuskript-und-wortschatz-englisch.pdf) |
-| **Haben** Sie Kinder? **Hast** du Kinder? | [VHS A1 L2 · phrase trainer](https://a1.vhs-lernportal.de/) |
-| Ich **habe** Geburtstag und mache eine Party. | [DW A1 E2 L1 · exercise](https://learngerman.dw.com/en/an-invitation/l-37265621/e-37271074) |
-| Lotte **hat** Geburtstag. | [DW A1 E2 L1 · exercise](https://learngerman.dw.com/en/an-invitation/l-37265621/e-37271074) |
-| Was ist mit dir, Nico? **Hast** du auch Durst? | [DW A1 E3 L2 · script](https://learngerman.dw.com/downloads/52719579/nicos-weg-a1-e3-l2-manuskript-und-wortschatz-englisch.pdf) |
-| **Habt** ihr Hunger? | [DW A1 E3 L2 · script](https://learngerman.dw.com/downloads/52719579/nicos-weg-a1-e3-l2-manuskript-und-wortschatz-englisch.pdf) |
+| Welche Nummer <verb>hast</verb> du? – Ich <verb>habe</verb> die Nummer vier, eins, acht, sieben. | [DW A1 E1 L4 · grammar page](https://learngerman.dw.com/en/conjugation-haben/l-37265543/gr-38310825) |
+| Nico, <verb>hast</verb> du einen Pass? | [DW A1 E1 L4 · exercise](https://learngerman.dw.com/en/do-you-have-a-passport/l-37265543/e-37269072) |
+| Ja, wir <verb>haben</verb> ein Problem. Nicos Pass ist weg. | [DW A1 E1 L4 · exercise](https://learngerman.dw.com/en/do-you-have-a-passport/l-37265543/e-37269072) |
+| Hallo, Lisa und Nico, <verb>habt</verb> ihr ein Problem? | [DW A1 E1 L4 · exercise](https://learngerman.dw.com/en/do-you-have-a-passport/l-37265543/e-37269072) |
+| Nein, sie <verb>haben</verb> die Adresse nicht. | [DW A1 E1 L4 · exercise](https://learngerman.dw.com/en/do-you-have-a-passport/l-37265543/e-37269072) |
+| Seine Tante <verb>hat</verb> ein Geschäft, ein Fahrradgeschäft. | [DW A1 E1 L4 · script](https://static.dw.com/downloads/52719209/nicos-weg-a1-e1-l4-manuskript-und-wortschatz-englisch.pdf) |
+| <verb>Haben</verb> Sie Kinder? <verb>Hast</verb> du Kinder? | [VHS A1 L2 · phrase trainer](https://a1.vhs-lernportal.de/) |
+| Ich <verb>habe</verb> Geburtstag und mache eine Party. | [DW A1 E2 L1 · exercise](https://learngerman.dw.com/en/an-invitation/l-37265621/e-37271074) |
+| Lotte <verb>hat</verb> Geburtstag. | [DW A1 E2 L1 · exercise](https://learngerman.dw.com/en/an-invitation/l-37265621/e-37271074) |
+| Was ist mit dir, Nico? <verb>Hast</verb> du auch Durst? | [DW A1 E3 L2 · script](https://learngerman.dw.com/downloads/52719579/nicos-weg-a1-e3-l2-manuskript-und-wortschatz-englisch.pdf) |
+| <verb>Habt</verb> ihr Hunger? | [DW A1 E3 L2 · script](https://learngerman.dw.com/downloads/52719579/nicos-weg-a1-e3-l2-manuskript-und-wortschatz-englisch.pdf) |
 
 ## Common mistakes
 

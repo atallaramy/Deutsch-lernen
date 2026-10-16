@@ -10,9 +10,9 @@ German terms:
 1. Where you live: **wohnen in** + town or country: *Ich wohne in Sevilla.*
    Question: *Wo …?*
 2. Streets: look at the end of the street name.
-   - *-straße*, *-gasse*, *-allee*: **in der** … (*Ich wohne in der Adalbert-Stifter-Straße.*)
-   - *-weg*: **im** … (*im* = *in dem*: *Ich wohne im Adalbert-Stifter-Weg.*)
-   - *-platz*, and *der Markt*: **am** … (*am* = *an dem*: *Ich wohne am Adalbert-Stifter-Platz.*)
+   - *-straße*, *-gasse*, *-allee*: **in d<dat>er</dat>** … (*Ich wohne in der Adalbert-Stifter-Straße.*)
+   - *-weg*: **<dat>im</dat>** … (*im* = *in dem*: *Ich wohne im Adalbert-Stifter-Weg.*)
+   - *-platz*, and *der Markt*: **<dat>am</dat>** … (*am* = *an dem*: *Ich wohne am Adalbert-Stifter-Platz.*)
    
    The house number comes after the name: *in der Schreinerstraße 144*.
 3. Where you come from: **kommen aus** + country or town: *Ich komme aus Spanien.*
@@ -21,17 +21,20 @@ German terms:
    Question: *Wohin …?* DW, for towns and countries without an article:
    **Wo …?** → *in* · **Wohin …?** → *nach* · **Woher …?** → *aus*.
 5. Most countries have no article: *aus Spanien*, *in Deutschland*. Masculine,
-   feminine and plural country names take one: **aus dem** Irak, **aus der** Schweiz,
-   **aus den** Niederlanden. For a group of islands you can also say **von den**
+   feminine and plural country names take one: **aus d<dat>em</dat>** Irak, **aus d<dat>er</dat>** Schweiz,
+   **aus d<dat>en</dat>** Niederlanden. For a group of islands you can also say **von d<dat>en</dat>**
    Bahamas. The full list is on the DW page and in my notes.
 6. *wohnen* is a regular verb ([Präsens](Praesens.md)).
-7. Where in a country or region: **im** Norden / Süden / Osten / Westen **von** …:
+7. Where in a country or region: **<dat>im</dat>** Norden / Süden / Osten / Westen **von** …:
    *Sevilla ist im Süden von Spanien.* The compass directions are all *der*, so *in dem* → *im* (DW tip).
-   Also **in der Nähe von** … (near) and **in der Mitte von** … (in the middle of).
+   Also **in d<dat>er</dat> Nähe von** … (near) and **in d<dat>er</dat> Mitte von** … (in the middle of).
    *liegen* (to be located) works like *sein* here: *Füssen liegt im Süden von Bayern.*
 8. Beside a country, outside it: **nördlich / südlich / östlich / westlich von** …:
    *Tschechien liegt östlich von Deutschland.* No *im*, no article. Compare rule 7:
    *im Osten von Deutschland* is inside Germany.
+9. Green marks the Dativ: after *in* (wo?), *aus* and *von* the article is in the Dativ:
+   *in d<dat>er</dat>, <dat>im</dat>, <dat>am</dat>, aus d<dat>em</dat>*. The Dativ comes in DW A1 E9 L3
+   ([colours](../../Spickzettel/Farben.md)).
 
 ## Table
 
@@ -64,23 +67,23 @@ DW E4 L1: [Prepositions of place: in, nach](https://learngerman.dw.com/en/prepos
 | Wo **wohnst** du **in** Spanien? **Wohnst** du **in** Barcelona oder **in** Madrid? | [DW A1 E1 L3 · script](https://static.dw.com/downloads/52719129/nicos-weg-a1-e1-l3-manuskript-und-wortschatz-englisch.pdf) |
 | Nicos Tante **wohnt** hier **in** Deutschland. | [DW A1 E1 L3 · script](https://static.dw.com/downloads/52719129/nicos-weg-a1-e1-l3-manuskript-und-wortschatz-englisch.pdf) |
 | Sie **kommt aus** Indien. Sonia **wohnt in** Berlin und lernt Deutsch. | [DW A1 E1 L3 · exercise](https://learngerman.dw.com/en/nico-is-learning-german-describing-people/l-37263828/e-37265614) |
-| Mein Name ist Amira. Ich **komme aus** dem Irak. Meine Familie **wohnt in** Bagdad. | [DW A1 E1 L4 · exercise](https://learngerman.dw.com/en/introducing-someone/l-37265543/e-37266520) |
+| Mein Name ist Amira. Ich **komme aus d<dat>em</dat>** Irak. Meine Familie **wohnt in** Bagdad. | [DW A1 E1 L4 · exercise](https://learngerman.dw.com/en/introducing-someone/l-37265543/e-37266520) |
 | Peter Stein (42) ist Pilot bei der Lufthansa und **wohnt** mit seiner Familie **in** Frankfurt. | [DW A1 E0 L2 · exercise](https://learngerman.dw.com/en/people-at-the-airport/l-37251054/e-37255866) |
 | Wo **wohnen** Sie? Wo **wohnst** du? | [VHS A1 L2 · phrase trainer](https://a1.vhs-lernportal.de/) |
-| Die Polizei ist **in der** Schreinerstraße. | [DW A1 E2 L3 · exercise](https://learngerman.dw.com/en/street-names-and-street-numbers/l-37269671/e-37272782) |
-| Die ist **in der** Schreinerstraße 144. | [DW A1 E2 L3 · script](https://static.dw.com/downloads/52719223/nicos-weg-a1-e2-l3-manuskript-und-wortschatz-englisch.pdf) |
-| Ich wohne **in der** Schillerstraße/Schillergasse/Schillerallee. | [DW A1 E2 L3 · exercise](https://learngerman.dw.com/en/the-police-are-on-schreinerstraße/l-37269671/e-37280249) |
-| Ich wohne **am** Schillerplatz/Markt. | [DW A1 E2 L3 · exercise](https://learngerman.dw.com/en/the-police-are-on-schreinerstraße/l-37269671/e-37280249) |
-| Ich wohne **im** Schillerweg. | [DW A1 E2 L3 · exercise](https://learngerman.dw.com/en/the-police-are-on-schreinerstraße/l-37269671/e-37280249) |
+| Die Polizei ist **in d<dat>er</dat>** Schreinerstraße. | [DW A1 E2 L3 · exercise](https://learngerman.dw.com/en/street-names-and-street-numbers/l-37269671/e-37272782) |
+| Die ist **in d<dat>er</dat>** Schreinerstraße 144. | [DW A1 E2 L3 · script](https://static.dw.com/downloads/52719223/nicos-weg-a1-e2-l3-manuskript-und-wortschatz-englisch.pdf) |
+| Ich wohne **in d<dat>er</dat>** Schillerstraße/Schillergasse/Schillerallee. | [DW A1 E2 L3 · exercise](https://learngerman.dw.com/en/the-police-are-on-schreinerstraße/l-37269671/e-37280249) |
+| Ich wohne **<dat>am</dat>** Schillerplatz/Markt. | [DW A1 E2 L3 · exercise](https://learngerman.dw.com/en/the-police-are-on-schreinerstraße/l-37269671/e-37280249) |
+| Ich wohne **<dat>im</dat>** Schillerweg. | [DW A1 E2 L3 · exercise](https://learngerman.dw.com/en/the-police-are-on-schreinerstraße/l-37269671/e-37280249) |
 | Ich **komme aus** Deutschland. | [DW A1 E2 L3 · exercise](https://learngerman.dw.com/en/i-live-in/l-37269671/e-37282057) |
 | Nächste Woche fahre ich **nach** München! | [DW A1 E4 L1 · script](https://learngerman.dw.com/downloads/52719600/nicos-weg-a1-e4-l1-manuskript-und-wortschatz-englisch.pdf) |
 | Ich möchte auch mal **nach** Berlin. | [DW A1 E4 L1 · exercise](https://learngerman.dw.com/en/the-past-tense-of-sein/l-37325550/e-37335845) |
 | Er möchte **nach** Dresden fahren. | [DW A1 E4 L1 · exercise](https://learngerman.dw.com/en/nawins-friend-chi/l-37325550/e-37328344) |
 | Er studiert **in** Leipzig. | [DW A1 E4 L1 · exercise](https://learngerman.dw.com/en/nawins-friend-chi/l-37325550/e-37328344) |
 | Wohin fahren Sie am Wochenende? | [DW A1 E4 L1 · exercise](https://learngerman.dw.com/en/nico-is-learning-german-questions-and-answers/l-37325550/e-37328493) |
-| Damaskus ist auch **im Süden**. **Im Süden von** Syrien. | [DW A1 E4 L2 · script](https://learngerman.dw.com/downloads/52719615/nicos-weg-a1-e4-l2-manuskript-und-wortschatz-englisch.pdf) |
-| Füssen **liegt im Süden von** Bayern. | [DW A1 E4 L2 · exercise](https://learngerman.dw.com/en/the-location-of-a-city-2/l-37337877/e-37344521) |
-| Stuttgart ist die Hauptstadt und **liegt in der Mitte von** Baden-Württemberg. | [DW A1 E4 L2 · exercise](https://learngerman.dw.com/en/baden-württemberg/l-37337877/e-37345227) |
+| Damaskus ist auch **<dat>im</dat> Süden**. **<dat>Im</dat> Süden von** Syrien. | [DW A1 E4 L2 · script](https://learngerman.dw.com/downloads/52719615/nicos-weg-a1-e4-l2-manuskript-und-wortschatz-englisch.pdf) |
+| Füssen **liegt <dat>im</dat> Süden von** Bayern. | [DW A1 E4 L2 · exercise](https://learngerman.dw.com/en/the-location-of-a-city-2/l-37337877/e-37344521) |
+| Stuttgart ist die Hauptstadt und **liegt in d<dat>er</dat> Mitte von** Baden-Württemberg. | [DW A1 E4 L2 · exercise](https://learngerman.dw.com/en/baden-württemberg/l-37337877/e-37345227) |
 | **Westlich von** Österreich liegt die Schweiz. | [DW A1 E4 L4 · exercise](https://learngerman.dw.com/en/germanys-neighbors/l-37337244/e-37340924) |
 | **Nördlich von** Deutschland liegt Dänemark. | [DW A1 E4 L4 · exercise](https://learngerman.dw.com/en/germanys-neighbors/l-37337244/e-37340924) |
 | Tschechien liegt **südlich von** Polen. | [DW A1 E4 L4 · exercise](https://learngerman.dw.com/en/germanys-neighbors/l-37337244/e-37340924) |

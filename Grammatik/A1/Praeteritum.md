@@ -12,7 +12,7 @@ German terms:
    *haben* are often used in the Präteritum when speaking too.
 2. *sein* in the Präteritum has the stem **war**:
    - ich and er/sie/es: just **war**, no ending.
-   - du **warst** · ihr **wart** · wir, sie and Sie **waren**.
+   - du **war<verb>st</verb>** · ihr **war<verb>t</verb>** · wir, sie and Sie **war<verb>en</verb>**.
 3. Been somewhere before: **Ich war schon mal in …** (*schon mal* is short for *schon einmal*).
    Never been there: **Ich war noch nie in …**. To ask: **Warst du schon mal in …?**
 4. A town or country after *war* takes **in**, as with *wohnen* ([wohnen in](wohnen-in.md)).
@@ -25,25 +25,25 @@ DW exercise tip [Where has Nawin already been?](https://learngerman.dw.com/en/wh
 | German: Präsens | German: Präteritum | Source |
 |---|---|---|
 | ich bin | ich **war** | [DW A1 E4 L1 · grammar page](https://learngerman.dw.com/en/simple-past-sein/l-37325550/gr-38306053) |
-| du bist | du **warst** | [DW A1 E4 L1 · grammar page](https://learngerman.dw.com/en/simple-past-sein/l-37325550/gr-38306053) |
+| du bist | du **war<verb>st</verb>** | [DW A1 E4 L1 · grammar page](https://learngerman.dw.com/en/simple-past-sein/l-37325550/gr-38306053) |
 | er/sie/es ist | er/sie/es **war** | [DW A1 E4 L1 · grammar page](https://learngerman.dw.com/en/simple-past-sein/l-37325550/gr-38306053) |
-| wir sind | wir **waren** | [DW A1 E4 L1 · grammar page](https://learngerman.dw.com/en/simple-past-sein/l-37325550/gr-38306053) |
-| ihr seid | ihr **wart** | [DW A1 E4 L1 · grammar page](https://learngerman.dw.com/en/simple-past-sein/l-37325550/gr-38306053) |
-| sie sind | sie **waren** | [DW A1 E4 L1 · grammar page](https://learngerman.dw.com/en/simple-past-sein/l-37325550/gr-38306053) |
-| Sie sind | Sie **waren** | [DW A1 E4 L1 · grammar page](https://learngerman.dw.com/en/simple-past-sein/l-37325550/gr-38306053) |
+| wir sind | wir **war<verb>en</verb>** | [DW A1 E4 L1 · grammar page](https://learngerman.dw.com/en/simple-past-sein/l-37325550/gr-38306053) |
+| ihr seid | ihr **war<verb>t</verb>** | [DW A1 E4 L1 · grammar page](https://learngerman.dw.com/en/simple-past-sein/l-37325550/gr-38306053) |
+| sie sind | sie **war<verb>en</verb>** | [DW A1 E4 L1 · grammar page](https://learngerman.dw.com/en/simple-past-sein/l-37325550/gr-38306053) |
+| Sie sind | Sie **war<verb>en</verb>** | [DW A1 E4 L1 · grammar page](https://learngerman.dw.com/en/simple-past-sein/l-37325550/gr-38306053) |
 
 ## Examples from my lessons
 
 | German | Source |
 |---|---|
-| **Warst** du schon mal in Köln? Kennst du die Stadt? | [DW A1 E4 L1 · script](https://learngerman.dw.com/downloads/52719600/nicos-weg-a1-e4-l1-manuskript-und-wortschatz-englisch.pdf) |
-| **Warst** du noch nie in Deutschland? Oder in Österreich oder in der Schweiz? | [DW A1 E4 L1 · script](https://learngerman.dw.com/downloads/52719600/nicos-weg-a1-e4-l1-manuskript-und-wortschatz-englisch.pdf) |
-| Ich **war** schon mal in Hamburg und in Köln. In Heidelberg **war** ich noch nie. | [DW A1 E4 L1 · script](https://learngerman.dw.com/downloads/52719600/nicos-weg-a1-e4-l1-manuskript-und-wortschatz-englisch.pdf) |
-| Aber Nina **war** schon mal in Berlin. Und Sebastian. Ihr **wart** schon mal in Berlin, oder? | [DW A1 E4 L1 · script](https://learngerman.dw.com/downloads/52719600/nicos-weg-a1-e4-l1-manuskript-und-wortschatz-englisch.pdf) |
-| Wir beide **waren** schon mal in Berlin, ja. Wir **waren** sogar am Brandenburger Tor. | [DW A1 E4 L1 · script](https://learngerman.dw.com/downloads/52719600/nicos-weg-a1-e4-l1-manuskript-und-wortschatz-englisch.pdf) |
-| Ja, ich **war** schon mal in München. | [DW A1 E4 L1 · exercise](https://learngerman.dw.com/en/have-you-been-to-munich-before/l-37325550/e-37328598) |
-| Nein, ich **war** noch nie in München. | [DW A1 E4 L1 · exercise](https://learngerman.dw.com/en/have-you-been-to-munich-before/l-37325550/e-37328598) |
-| Wo **waren** Chi und ein Freund gestern? | [DW A1 E4 L1 · exercise](https://learngerman.dw.com/en/ask/l-37325550/e-37337265) |
+| <verb>Warst</verb> du schon mal in Köln? Kennst du die Stadt? | [DW A1 E4 L1 · script](https://learngerman.dw.com/downloads/52719600/nicos-weg-a1-e4-l1-manuskript-und-wortschatz-englisch.pdf) |
+| <verb>Warst</verb> du noch nie in Deutschland? Oder in Österreich oder in der Schweiz? | [DW A1 E4 L1 · script](https://learngerman.dw.com/downloads/52719600/nicos-weg-a1-e4-l1-manuskript-und-wortschatz-englisch.pdf) |
+| Ich <verb>war</verb> schon mal in Hamburg und in Köln. In Heidelberg <verb>war</verb> ich noch nie. | [DW A1 E4 L1 · script](https://learngerman.dw.com/downloads/52719600/nicos-weg-a1-e4-l1-manuskript-und-wortschatz-englisch.pdf) |
+| Aber Nina <verb>war</verb> schon mal in Berlin. Und Sebastian. Ihr <verb>wart</verb> schon mal in Berlin, oder? | [DW A1 E4 L1 · script](https://learngerman.dw.com/downloads/52719600/nicos-weg-a1-e4-l1-manuskript-und-wortschatz-englisch.pdf) |
+| Wir beide <verb>waren</verb> schon mal in Berlin, ja. Wir <verb>waren</verb> sogar am Brandenburger Tor. | [DW A1 E4 L1 · script](https://learngerman.dw.com/downloads/52719600/nicos-weg-a1-e4-l1-manuskript-und-wortschatz-englisch.pdf) |
+| Ja, ich <verb>war</verb> schon mal in München. | [DW A1 E4 L1 · exercise](https://learngerman.dw.com/en/have-you-been-to-munich-before/l-37325550/e-37328598) |
+| Nein, ich <verb>war</verb> noch nie in München. | [DW A1 E4 L1 · exercise](https://learngerman.dw.com/en/have-you-been-to-munich-before/l-37325550/e-37328598) |
+| Wo <verb>waren</verb> Chi und ein Freund gestern? | [DW A1 E4 L1 · exercise](https://learngerman.dw.com/en/ask/l-37325550/e-37337265) |
 
 ## Common mistakes
 

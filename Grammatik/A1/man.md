@@ -24,21 +24,21 @@ DW exercise [The use of "man" (2)](https://learngerman.dw.com/en/the-use-of-man-
 
 | Subject | German | Source |
 |---|---|---|
-| Nico | Nico **isst** gern Gazpacho. | [DW A1 E4 L3 · grammar page](https://learngerman.dw.com/en/indefinite-pronouns-man/l-37328492/gr-38306317) |
-| er | Er **isst** gern Gazpacho. | [DW A1 E4 L3 · grammar page](https://learngerman.dw.com/en/indefinite-pronouns-man/l-37328492/gr-38306317) |
-| man | Man **isst** in Spanien gern Gazpacho. | [DW A1 E4 L3 · grammar page](https://learngerman.dw.com/en/indefinite-pronouns-man/l-37328492/gr-38306317) |
+| Nico | Nico <verb>isst</verb> gern Gazpacho. | [DW A1 E4 L3 · grammar page](https://learngerman.dw.com/en/indefinite-pronouns-man/l-37328492/gr-38306317) |
+| er | Er <verb>isst</verb> gern Gazpacho. | [DW A1 E4 L3 · grammar page](https://learngerman.dw.com/en/indefinite-pronouns-man/l-37328492/gr-38306317) |
+| man | Man <verb>isst</verb> in Spanien gern Gazpacho. | [DW A1 E4 L3 · grammar page](https://learngerman.dw.com/en/indefinite-pronouns-man/l-37328492/gr-38306317) |
 
 ## Examples from my lessons
 
 | German | Source |
 |---|---|
-| In Frankreich **isst** man gern Käse. | [DW A1 E4 L3 · script](https://learngerman.dw.com/downloads/52719617/nicos-weg-a1-e4-l3-manuskript-und-wortschatz-englisch.pdf) |
-| Also, Sushi **isst** man in Japan und in Italien **isst** man Pizza! | [DW A1 E4 L3 · script](https://learngerman.dw.com/downloads/52719617/nicos-weg-a1-e4-l3-manuskript-und-wortschatz-englisch.pdf) |
-| Und Nico, was **isst** man in Spanien? | [DW A1 E4 L3 · script](https://learngerman.dw.com/downloads/52719617/nicos-weg-a1-e4-l3-manuskript-und-wortschatz-englisch.pdf) |
-| Und was **isst** und **trinkt** man dort? | [DW A1 E4 L3 · exercise](https://learngerman.dw.com/en/countries-and-food/l-37328492/e-37337895) |
-| In Deutschland **isst** man viel Brot und man **trinkt** gern Kaffee. | [DW A1 E4 L3 · exercise](https://learngerman.dw.com/en/countries-and-food/l-37328492/e-37337895) |
-| Bei uns **isst** man gern Pizza und Pasta. | [DW A1 E4 L3 · exercise](https://learngerman.dw.com/en/countries-and-food/l-37328492/e-37337895) |
-| Hier **isst** man sehr gut und viel. | [DW A1 E4 L3 · exercise](https://learngerman.dw.com/en/a-postcard/l-37328492/e-37338370) |
+| In Frankreich <verb>isst</verb> man gern Käse. | [DW A1 E4 L3 · script](https://learngerman.dw.com/downloads/52719617/nicos-weg-a1-e4-l3-manuskript-und-wortschatz-englisch.pdf) |
+| Also, Sushi <verb>isst</verb> man in Japan und in Italien <verb>isst</verb> man Pizza! | [DW A1 E4 L3 · script](https://learngerman.dw.com/downloads/52719617/nicos-weg-a1-e4-l3-manuskript-und-wortschatz-englisch.pdf) |
+| Und Nico, was <verb>isst</verb> man in Spanien? | [DW A1 E4 L3 · script](https://learngerman.dw.com/downloads/52719617/nicos-weg-a1-e4-l3-manuskript-und-wortschatz-englisch.pdf) |
+| Und was <verb>isst</verb> und <verb>trinkt</verb> man dort? | [DW A1 E4 L3 · exercise](https://learngerman.dw.com/en/countries-and-food/l-37328492/e-37337895) |
+| In Deutschland <verb>isst</verb> man viel Brot und man <verb>trinkt</verb> gern Kaffee. | [DW A1 E4 L3 · exercise](https://learngerman.dw.com/en/countries-and-food/l-37328492/e-37337895) |
+| Bei uns <verb>isst</verb> man gern Pizza und Pasta. | [DW A1 E4 L3 · exercise](https://learngerman.dw.com/en/countries-and-food/l-37328492/e-37337895) |
+| Hier <verb>isst</verb> man sehr gut und viel. | [DW A1 E4 L3 · exercise](https://learngerman.dw.com/en/a-postcard/l-37328492/e-37338370) |
 
 ## Common mistakes
 

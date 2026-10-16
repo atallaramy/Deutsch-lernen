@@ -28,25 +28,25 @@ All lines are from the DW E4 L3 grammar page.
 
 | First | 1 | 2: verb | 3 | Rest |
 |---|---|---|---|---|
-| subject | Ich | **bin** | jetzt | in Deutschland. |
-| time | Jetzt | **bin** | ich | in Deutschland. |
-| subject | Man | **isst** | in Frankreich | viel Käse. |
-| place | In Frankreich | **isst** | man | viel Käse. |
-| subject | Man | **isst** | in Italien | Pizza. |
-| place | In Italien | **isst** | man | Pizza. |
-| object | Pizza | **isst** | man | in Italien. |
+| subject | Ich | <verb>bin</verb> | jetzt | in Deutschland. |
+| time | Jetzt | <verb>bin</verb> | ich | in Deutschland. |
+| subject | Man | <verb>isst</verb> | in Frankreich | viel Käse. |
+| place | In Frankreich | <verb>isst</verb> | man | viel Käse. |
+| subject | Man | <verb>isst</verb> | in Italien | Pizza. |
+| place | In Italien | <verb>isst</verb> | man | Pizza. |
+| object | Pizza | <verb>isst</verb> | man | in Italien. |
 
 ## Examples from my lessons
 
 | German | Source |
 |---|---|
-| Jetzt **bin** ich in Deutschland. | [DW A1 E4 L3 · grammar page](https://learngerman.dw.com/en/sentence-construction-statements/l-37328492/gr-38306661) |
-| Heute **besichtigen** wir den Dom. | [DW A1 E4 L3 · exercise](https://learngerman.dw.com/en/a-postcard/l-37328492/e-37338370) |
-| In Frankreich **isst** man gern Käse. | [DW A1 E4 L3 · script](https://learngerman.dw.com/downloads/52719617/nicos-weg-a1-e4-l3-manuskript-und-wortschatz-englisch.pdf) |
-| In Japan **isst** man Sushi. | [DW A1 E4 L3 · exercise](https://learngerman.dw.com/en/where-does-one-eat-what/l-37328492/e-37337312) |
-| Gazpacho **isst** man in Spanien. | [DW A1 E4 L3 · exercise](https://learngerman.dw.com/en/where-does-one-eat-what/l-37328492/e-37337312) |
-| Nächste Woche **fahre** ich nach München! | [DW A1 E4 L1 · script](https://learngerman.dw.com/downloads/52719600/nicos-weg-a1-e4-l1-manuskript-und-wortschatz-englisch.pdf) |
-| In Heidelberg **war** ich noch nie. | [DW A1 E4 L1 · script](https://learngerman.dw.com/downloads/52719600/nicos-weg-a1-e4-l1-manuskript-und-wortschatz-englisch.pdf) |
+| Jetzt <verb>bin</verb> ich in Deutschland. | [DW A1 E4 L3 · grammar page](https://learngerman.dw.com/en/sentence-construction-statements/l-37328492/gr-38306661) |
+| Heute <verb>besichtigen</verb> wir den Dom. | [DW A1 E4 L3 · exercise](https://learngerman.dw.com/en/a-postcard/l-37328492/e-37338370) |
+| In Frankreich <verb>isst</verb> man gern Käse. | [DW A1 E4 L3 · script](https://learngerman.dw.com/downloads/52719617/nicos-weg-a1-e4-l3-manuskript-und-wortschatz-englisch.pdf) |
+| In Japan <verb>isst</verb> man Sushi. | [DW A1 E4 L3 · exercise](https://learngerman.dw.com/en/where-does-one-eat-what/l-37328492/e-37337312) |
+| Gazpacho <verb>isst</verb> man in Spanien. | [DW A1 E4 L3 · exercise](https://learngerman.dw.com/en/where-does-one-eat-what/l-37328492/e-37337312) |
+| Nächste Woche <verb>fahre</verb> ich nach München! | [DW A1 E4 L1 · script](https://learngerman.dw.com/downloads/52719600/nicos-weg-a1-e4-l1-manuskript-und-wortschatz-englisch.pdf) |
+| In Heidelberg <verb>war</verb> ich noch nie. | [DW A1 E4 L1 · script](https://learngerman.dw.com/downloads/52719600/nicos-weg-a1-e4-l1-manuskript-und-wortschatz-englisch.pdf) |
 
 ## Common mistakes
 
