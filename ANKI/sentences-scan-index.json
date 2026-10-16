@@ -1,8 +1,8 @@
 {
   "deck": "A1::Sentences",
-  "revision": "2026-10-11T15:03:00Z",
+  "revision": "2026-10-16T09:00:00Z",
   "qualityPolicy": "Productive sentences, replies, register switches and contextual forms from the lessons. No audio.",
-  "cards": 171,
+  "cards": 173,
   "sources": [
     {
       "id": "dw-a1-e0-l1",
@@ -330,6 +330,19 @@
       }
     },
     {
+      "id": "dw-a1-e6-l2",
+      "course": "dw-nicos-weg",
+      "title": "Meine Wohnung",
+      "url": "https://learngerman.dw.com/en/meine-wohnung/l-37425763",
+      "notesFile": "DW Deutsch lernen/A1/06_living/02_Meine Wohnung/Meine Wohnung.md",
+      "capturedEntries": 32,
+      "cards": {
+        "vocabulary": 32,
+        "articles": 15,
+        "sentences": 0
+      }
+    },
+    {
       "id": "vhs-a1-l02",
       "course": "vhs-lernportal",
       "title": "Lektion 2 · Meine Familie und ich",
@@ -358,9 +371,9 @@
   ],
   "packages": {
     "ANKI/A1/sentences.apkg": {
-      "notes": 171,
-      "cards": 171,
-      "sha256": "6bf5fae3c162bc4a33ea4b0b0b27f78da576e00bcefd5a97138ce3e0a0f9ef2b"
+      "notes": 173,
+      "cards": 173,
+      "sha256": "1d600d44fe2a0c6e7028b32336cbb8c4490d0e21c62d80e291c1f69adb5e5c9e"
     }
   }
 }

@@ -1,8 +1,8 @@
 {
   "deck": "A1::Articles",
-  "revision": "2026-10-11T15:03:00Z",
+  "revision": "2026-10-16T09:00:00Z",
   "qualityPolicy": "Typed der/die/das for singular nouns. Plural and dependable gender patterns after answering. No audio.",
-  "cards": 315,
+  "cards": 329,
   "sources": [
     {
       "id": "dw-a1-e0-l1",
@@ -330,6 +330,19 @@
       }
     },
     {
+      "id": "dw-a1-e6-l2",
+      "course": "dw-nicos-weg",
+      "title": "Meine Wohnung",
+      "url": "https://learngerman.dw.com/en/meine-wohnung/l-37425763",
+      "notesFile": "DW Deutsch lernen/A1/06_living/02_Meine Wohnung/Meine Wohnung.md",
+      "capturedEntries": 32,
+      "cards": {
+        "vocabulary": 32,
+        "articles": 15,
+        "sentences": 0
+      }
+    },
+    {
       "id": "vhs-a1-l02",
       "course": "vhs-lernportal",
       "title": "Lektion 2 · Meine Familie und ich",
@@ -358,9 +371,9 @@
   ],
   "packages": {
     "ANKI/A1/articles.apkg": {
-      "notes": 315,
-      "cards": 315,
-      "sha256": "6b7435b27a3c433ade7043d5839ebc15fc0bf984511906b2bf2296d70f6a8c51"
+      "notes": 329,
+      "cards": 329,
+      "sha256": "b41754cee0a98c32201ccab0dbcf675d1a0f3f57c0d9576af6a6da2f3ff6e713"
     }
   }
 }

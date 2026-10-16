@@ -1,0 +1,595 @@
+{
+ "description": "Official source text captured by ANKI/harvest_sources.py for offline context verification.",
+ "harvestedOn": "2026-10-14",
+ "sources": [
+  {
+   "id": "exercises",
+   "kind": "dw-exercises",
+   "url": "https://learngerman.dw.com/en/meine-wohnung/l-37425763",
+   "lessonUrl": "https://learngerman.dw.com/en/meine-wohnung/l-37425763",
+   "vocabulary": {
+    "url": "https://learngerman.dw.com/en/meine-wohnung/l-37425763/lv",
+    "items": [
+     {
+      "id": 37501224,
+      "german": "das Arbeitszimmer, die Arbeitszimmer",
+      "english": "office; study",
+      "forms": ""
+     },
+     {
+      "id": 37524751,
+      "german": "das Bad, die Bäder",
+      "english": "bathroom",
+      "forms": ""
+     },
+     {
+      "id": 37524759,
+      "german": "das Badezimmer, die Badezimmer",
+      "english": "bathroom",
+      "forms": ""
+     },
+     {
+      "id": 37502098,
+      "german": "dunkel",
+      "english": "dark",
+      "forms": "dunkler, am dunkelsten"
+     },
+     {
+      "id": 39600228,
+      "german": "Es gibt …",
+      "english": "there are (literally: it gives, it exists)",
+      "forms": ""
+     },
+     {
+      "id": 37524766,
+      "german": "das Fenster, die Fenster",
+      "english": "window",
+      "forms": ""
+     },
+     {
+      "id": 37524790,
+      "german": "der Flur, die Flure",
+      "english": "hallway",
+      "forms": ""
+     },
+     {
+      "id": 42664245,
+      "german": "Freut mich.",
+      "english": "Pleased to meet you.",
+      "forms": ""
+     },
+     {
+      "id": 37524806,
+      "german": "gemütlich",
+      "english": "cozy; comfortable",
+      "forms": "gemütlicher, am gemütlichsten"
+     },
+     {
+      "id": 37524807,
+      "german": "hell",
+      "english": "light; bright",
+      "forms": "heller, am hellsten"
+     },
+     {
+      "id": 40022026,
+      "german": "hoch",
+      "english": "expensive",
+      "forms": "höher, am höchsten"
+     },
+     {
+      "id": 42664495,
+      "german": "der Interessent, die Interessenten",
+      "english": "interested person; interested party; prospects (here: implies \"potential\" or \"prospective\") (male)",
+      "forms": ""
+     },
+     {
+      "id": 42664599,
+      "german": "die Interessentin, die Interessentinnen",
+      "english": "interested person; interested party; prospects (here: implies \"potential\" or \"prospective\") (female)",
+      "forms": ""
+     },
+     {
+      "id": 38084999,
+      "german": "der Keller, die Keller",
+      "english": "cellar; basement",
+      "forms": ""
+     },
+     {
+      "id": 37524828,
+      "german": "die Küche, die Küchen",
+      "english": "kitchen",
+      "forms": ""
+     },
+     {
+      "id": 37744994,
+      "german": "kurz",
+      "english": "short",
+      "forms": "kürzer, am kürzesten"
+     },
+     {
+      "id": 37524829,
+      "german": "lang",
+      "english": "long",
+      "forms": "länger, am längsten"
+     },
+     {
+      "id": 37524830,
+      "german": "laut",
+      "english": "loud/loudly",
+      "forms": "lauter, am lautesten"
+     },
+     {
+      "id": 37525032,
+      "german": "der Monat, die Monate",
+      "english": "month",
+      "forms": ""
+     },
+     {
+      "id": 37524876,
+      "german": "die Pommes frites (Plural)",
+      "english": "French fries",
+      "forms": "aus dem Französischen, nur Plural"
+     },
+     {
+      "id": 37524916,
+      "german": "der Quadratmeter, die Quadratmeter",
+      "english": "square meter",
+      "forms": "Abkürzung: qm oder m²"
+     },
+     {
+      "id": 37524925,
+      "german": "ruhig",
+      "english": "quiet; calm",
+      "forms": "ruhiger, am ruhigsten"
+     },
+     {
+      "id": 37525163,
+      "german": "das Schlafzimmer, die Schlafzimmer",
+      "english": "bedroom",
+      "forms": ""
+     },
+     {
+      "id": 37743219,
+      "german": "etwas/jemanden sehen",
+      "english": "to see something/somebody",
+      "forms": "sieht, sah, hat gesehen"
+     },
+     {
+      "id": 37395529,
+      "german": "sitzen",
+      "english": "to sit",
+      "forms": "sitzt, saß, hat gesessen"
+     },
+     {
+      "id": 37362343,
+      "german": "die Toilette, die Toiletten",
+      "english": "toilet",
+      "forms": ""
+     },
+     {
+      "id": 37524927,
+      "german": "ungemütlich",
+      "english": "uncomfortable; unpleasant; awkward",
+      "forms": "ungemütlicher, am ungemütlichsten"
+     },
+     {
+      "id": 37524933,
+      "german": "das Wohnzimmer, die Wohnzimmer",
+      "english": "living room",
+      "forms": ""
+     }
+    ]
+   },
+   "exercises": [
+    {
+     "id": "e-37426478",
+     "url": "https://learngerman.dw.com/en/adjectives-in-pairs/l-37425763/e-37426478",
+     "title": "Adjectives in pairs",
+     "texts": [
+      "kurz",
+      "alt",
+      "laut",
+      "ungemütlich",
+      "dunkel",
+      "Was passt zusammen? Ordne das Gegenteil zu.",
+      "lang",
+      "neu",
+      "ruhig",
+      "gemütlich",
+      "hell"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37430839",
+     "url": "https://learngerman.dw.com/en/answering-questions-about-living-arrangements/l-37425763/e-37430839",
+     "title": "Answering questions about living arrangements",
+     "texts": [
+      "Stadt oder Land: Stadt\nHaus oder Wohnung: Wohnung\nZimmer: 7\nQuadratmeter: 135\nBalkon: ja\nBalkon: groß\nGarten: nein\nMiete: 800 Euro im Monat",
+      "Play audio",
+      "Play audio",
+      "Play audio",
+      "Play audio",
+      "Play audio",
+      "Play audio",
+      "Play audio",
+      "Play audio"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37426444",
+     "url": "https://learngerman.dw.com/en/describing-an-apartment-with-adjectives/l-37425763/e-37426444",
+     "title": "Describing an apartment with adjectives",
+     "texts": [
+      "teuer",
+      "klein",
+      "laut",
+      "alt",
+      "Die Wohnung hat zwei Zimmer und kostet 2000 Euro. Das ist nicht billig, das ist sehr …",
+      "Die Wohnung ist nicht groß. Sie hat 20 Quadratmeter. Für drei Personen ist das …",
+      "Die Wohnung ist im Stadtzentrum. Hier fahren viele Autos und es ist nicht sehr ruhig. Im Stadtzentrum ist es …",
+      "Die Wohnung ist nicht neu. Sie ist von 1876. Die Wohnung ist sehr …"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37426248",
+     "url": "https://learngerman.dw.com/en/describing-rooms-with-adjectives/l-37425763/e-37426248",
+     "title": "Describing rooms with adjectives",
+     "texts": [
+      "groß",
+      "gemütlich",
+      "hell",
+      "klein",
+      "ruhig",
+      "lang",
+      "dunkel",
+      "ungemütlich",
+      "Unsere Wohnung hat vier Zimmer, eine Küche, ein Bad, eine Toilette, einen Flur und einen Balkon. Unser Wohnzimmer ist groß und gemütlich. Das Arbeitszimmer ist sehr hell. Das Schlafzimmer ist zwar klein, aber es ist ruhig. Man hört keine Autos. Der Flur ist lang und dunkel. Wir haben auch einen Keller. Der Keller hat keine Fenster und ist sehr ungemütlich.\nAdjektive:\n#p#\n#p#\n#p#\n#p#\n#p#\n#p#\n#p#\n#p#",
+      "Schreib die Adjektive in die Lücken. In jede Lücke passt ein Wort.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37430197",
+     "url": "https://learngerman.dw.com/en/how-is-the-apartment-great/l-37425763/e-37430197",
+     "title": "How is the apartment? Great!",
+     "texts": [
+      "Beispiel:\nInteressent: Ist die Wohnung klein?\nDu: Nein, die Wohnung ist nicht klein. Sie ist groß.",
+      "Play audio",
+      "...",
+      "Play audio",
+      "...",
+      "Play audio",
+      "...",
+      "Play audio",
+      "..."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37425905",
+     "url": "https://learngerman.dw.com/en/lisa-spells-the-new-words/l-37425763/e-37425905",
+     "title": "Lisa spells the new words",
+     "texts": [
+      "Wohnzimmer",
+      "Küche",
+      "Bad",
+      "das #pm#",
+      "die #ps#",
+      "das #ps#"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37430481",
+     "url": "https://learngerman.dw.com/en/nawins-room/l-37425763/e-37430481",
+     "title": "Nawin's room",
+     "texts": [
+      "Zimmer",
+      "Quadratmeter",
+      "kostet",
+      "Die Wohnung ist groß. Sie hat 5 #p#.\nDas Zimmer von Nawin ist 11 Quadratmeter groß. 11 #p# sind nicht groß, aber auch nicht klein. Die Miete ist nicht so hoch. Das Zimmer #p# 400 Euro im Monat.",
+      "Wähl die fehlenden Wörter in der richtigen Reihenfolge aus.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37425787",
+     "url": "https://learngerman.dw.com/en/new-roommates-1/l-37425763/e-37425787",
+     "title": "New roommates (1)",
+     "texts": [
+      "Marvin isst Pommes Frites.",
+      "Was macht Marvin?"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37426158",
+     "url": "https://learngerman.dw.com/en/new-roommates-2/l-37425763/e-37426158",
+     "title": "New roommates  (2)",
+     "texts": [
+      "Wohnzimmer",
+      "Zimmer",
+      "Zimmer",
+      "Küche",
+      "Bad",
+      "Lisa: Das ist das #p#.\nSebastian: Die Fenster sind groß und das Zimmer ist hell.\nMarvin: Cool. Wie viele #p# hat die Wohnung?\nNawin: Es gibt fünf #p#, eine #p# und ein #p#. Ja, dann komm mal mit.",
+      "Sieh dir das Video noch einmal an und lies dann den Text. Wähle die fehlenden Wörter in der richtigen Reihenfolge aus.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37430413",
+     "url": "https://learngerman.dw.com/en/room-for-rent/l-37425763/e-37430413",
+     "title": "Room for rent",
+     "texts": [
+      "Die Wohnung hat fünf Zimmer.",
+      "Das Zimmer hat elf Quadratmeter.",
+      "Das Zimmer kostet 400 Euro.",
+      "Wie viele Zimmer hat die Wohnung?",
+      "Wie viele Quadratmeter hat das Zimmer?",
+      "Wie teuer ist das Zimmer?"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37430166",
+     "url": "https://learngerman.dw.com/en/the-kitchen-is-not-small/l-37425763/e-37430166",
+     "title": "The kitchen is not small",
+     "texts": [
+      "Beispiel:\nVermieter: Das Wohnzimmer ist hell.\nInteressentin: Nein. Das Wohnzimmer ist nicht hell. Es ist dunkel.",
+      "Do you remember? Can you recall how to use the personal pronouns? \"der Flur\" (masculine) = \"er\", \"das Wohnzimmer\" (neuter) = \"es\", \"die Küche\" (feminine) = \"sie\"",
+      "Die Küche ist klein.",
+      "...",
+      "Der Flur ist kurz.",
+      "...",
+      "Das Schlafzimmer ist gemütlich.",
+      "...",
+      "Das Wohnzimmer ist laut.",
+      "..."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37425841",
+     "url": "https://learngerman.dw.com/en/the-rooms-in-an-apartment/l-37425763/e-37425841",
+     "title": "The rooms in an apartment",
+     "texts": [
+      "Bring die Wörter in die richtige Reihenfolge.",
+      "Das ist die Küche .",
+      "Bring die Wörter in die richtige Reihenfolge.",
+      "Das ist das Wohnzimmer .",
+      "Bring die Wörter in die richtige Reihenfolge.",
+      "Das ist das Badezimmer ."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37426917",
+     "url": "https://learngerman.dw.com/en/the-word-nicht-adjective-1/l-37425763/e-37426917",
+     "title": "The word \"nicht\" + adjective (1)",
+     "texts": [
+      "Das Zimmer ist klein.\n= Das Zimmer ist nicht groß.",
+      "nicht",
+      "-",
+      "nicht",
+      "Das Arbeitszimmer ist hell.",
+      "Das Arbeitszimmer ist #ps# dunkel.",
+      "Die Wohnung ist nicht teuer.",
+      "Die Wohnung ist #ps# billig.",
+      "Der Flur ist lang.",
+      "Der Flur ist #ps# kurz."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37429856",
+     "url": "https://learngerman.dw.com/en/the-word-nicht-adjective-2/l-37425763/e-37429856",
+     "title": "The word \"nicht\" + adjective (2)",
+     "texts": [
+      "When you use \"nicht\" to negate an adjective, \"nicht\" comes immediately before the adjective.",
+      "Bring die Wörter in die richtige Reihenfolge.",
+      "Die Küche ist nicht groß, sie ist klein.",
+      "Bring die Wörter in die richtige Reihenfolge.",
+      "Das Wohnzimmer ist nicht gemütlich, es ist ungemütlich.",
+      "Bring die Wörter in die richtige Reihenfolge.",
+      "Der Flur ist nicht hell, er ist dunkel."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37430641",
+     "url": "https://learngerman.dw.com/en/typical-questions-and-answers-on-living-arrangements/l-37425763/e-37430641",
+     "title": "Typical questions and answers on living arrangements",
+     "texts": [
+      "Wohnst du in der Stadt oder auf dem Land?",
+      "Ich wohne in der Stadt .",
+      "Wohnst du in einem Haus oder in einer Wohnung?",
+      "Ich wohne in einer Wohnung .",
+      "Wie viele Quadratmeter hat deine Wohnung?",
+      "Meine Wohnung hat 65 Quadratmeter .",
+      "Und wie viele Zimmer hat deine Wohnung?",
+      "Meine Wohnung hat drei Zimmer .",
+      "Hat deine Wohnung einen Balkon?",
+      "Nein , meine Wohnung hat keinen Balkon ."
+     ],
+     "vocabularyTags": []
+    }
+   ],
+   "pages": [
+    {
+     "id": "gr-38303845",
+     "url": "https://learngerman.dw.com/en/negatives-nicht/l-37425763/gr-38303845",
+     "title": "Negatives: nicht",
+     "texts": [
+      "Negatives: nicht",
+      "Adjectives are made negative with nicht.\nDas Zimmer ist klein.\nDas Zimmer ist nicht groß.\nDas Zimmer ist dunkel.\nDas Zimmer ist nicht hell."
+     ],
+     "html": "<p>Adjectives are made negative with <em>nicht</em>.</p>\n\n<p><em>Das Zimmer ist <strong>klein</strong>.<br>\nDas Zimmer ist <strong>nicht groß</strong>.</em></p>\n\n<p><em>Das Zimmer ist <strong>dunkel</strong>.<br>\nDas Zimmer ist <strong>nicht hell</strong>.</em></p>\n"
+    },
+    {
+     "id": "rs-40224591",
+     "url": "https://learngerman.dw.com/en/wanted-room-in-a-shared-apartment/l-37425763/rs-40224591",
+     "title": "Wanted: room in a shared apartment",
+     "texts": [
+      "Wanted: room in a shared apartment",
+      "Finding the right room in a shared apartment (WG-Zimmer) is not exactly easy because they are scarce and in high demand in university cities. There are often many people vying for the room, and you have to be prepared to go through an \"audition\" for it. It's a kind of informal interview in which the other members of the apartment want to discover whether you would be a good fit. You should be prepared to answer questions about whether you're willing to clean, what your music tastes are, and what your daily routine is."
+     ],
+     "html": "\n\n<p>Finding the right room in a shared apartment (WG-Zimmer) is not exactly easy because they are scarce and in high demand in university cities. There are often many people vying for the room, and you have to be prepared to go through an \"audition\" for it. It's a kind of informal interview in which the other members of the apartment want to discover whether you would be a good fit. You should be prepared to answer questions about whether you're willing to clean, what your music tastes are, and what your daily routine is.</p>\n"
+    }
+   ]
+  },
+  {
+   "id": "script",
+   "kind": "dw-script-pdf",
+   "url": "https://learngerman.dw.com/downloads/52719961/nicos-weg-a1-e6-l2-manuskript-und-wortschatz-englisch.pdf",
+   "localFile": "DW Deutsch lernen/A1/06_living/02_Meine Wohnung/Materials/Script and vocabulary (English).pdf",
+   "sha256": "242c819ed71d7431bccec6a4c3a2437c383785f3ee7bdab3cddb644105888966",
+   "lines": [
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "(6) Living | Meine Wohnung",
+    "Open for inspection in Wagnergasse: One applicant arrives and takes a look",
+    "at Nawin’s room. Is he the right candidate for the apartment?",
+    "Script",
+    "LISA:",
+    "Du willst dir das Zimmer anschauen?",
+    "MARVIN:",
+    "Ja. Ich suche eine neue WG.",
+    "LISA:",
+    "Wir haben telefoniert. Ich bin Lisa Brunner.",
+    "MARVIN:",
+    "Cool.",
+    "LISA:",
+    "So, das ist die Wohnung.",
+    "SEBASTIAN:",
+    "Hi, Lisa.",
+    "LISA:",
+    "Das ist …",
+    "MARVIN:",
+    "Marvin, hi.",
+    "LISA:",
+    "Marvin möchte dein Zimmer sehen.",
+    "NAWIN:",
+    "Ah, hi! Ich bin Nawin. Freut mich.",
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "MARVIN:",
+    "Hi.",
+    "NAWIN:",
+    "Schon okay …",
+    "LISA:",
+    "Wo ist Emma?",
+    "SEBASTIAN:",
+    "Draußen mit Nina.",
+    "LISA:",
+    "Okay.",
+    "NAWIN:",
+    "Okay, dann fangen wir an!",
+    "LISA:",
+    "Das ist das Wohnzimmer.",
+    "SEBASTIAN:",
+    "Die Fenster sind groß und das Zimmer ist hell.",
+    "MARVIN:",
+    "Cool. Wie viele Zimmer hat die Wohnung?",
+    "NAWIN:",
+    "Es gibt fünf Zimmer, eine Küche und ein Bad. Ja, dann komm mal mit.",
+    "LISA:",
+    "Los, los, los, los, komm!",
+    "NAWIN:",
+    "Das Zimmer ist bald frei.",
+    "MARVIN:",
+    "Ganz schön groß. Wie viele Quadratmeter hat das Zimmer denn?",
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "NAWIN:",
+    "Ich glaube, es hat zehn Quadratmeter, oder?",
+    "LISA:",
+    "Das Zimmer hat elf Quadratmeter.",
+    "MARVIN:",
+    "Ah.",
+    "NAWIN:",
+    "Ja, und es ist sehr ruhig. Keine Autos.",
+    "SEBASTIAN:",
+    "So, das ist die Küche. Die Küche ist sehr gemütlich. Hier sitzen wir oft.",
+    "MARVIN:",
+    "Wie teuer ist das Zimmer?",
+    "NAWIN:",
+    "Die Miete kostet mit Nebenkosten 400 Euro im Monat.",
+    "MARVIN:",
+    "Okay. Ich nehme das Zimmer!",
+    "LISA:",
+    "Super! Es kommen noch andere Interessenten. Aber wir rufen dich an.",
+    "MARVIN:",
+    "Ja, cool. Na dann! Tschüss!",
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "Vocabulary (from script and lesson)",
+    "das Arbeitszimmer, die Arbeitszimmer – office, study",
+    "das Bad, die Bäder – bathroom",
+    "das Badezimmer, die Badezimmer – bathroom",
+    "dunkel – dark",
+    "dunkler, am dunkelsten",
+    "es gibt – there are (literally: it gives, it exists)",
+    "es gibt, es gab, es hat gegeben",
+    "das Fenster, die Fenster – window",
+    "der Flur, die Flur – hallway",
+    "Freut mich. – Pleased to meet you.",
+    "gemütlich – cozy; comfortable",
+    "gemütlicher, am gemütlichsten",
+    "hell – light; bright",
+    "heller, am hellsten",
+    "hoch – expensive",
+    "höher, am höchsten",
+    "der Interessent, die Interessenten – interested person, interested party, prospects",
+    "(here: implies „potential“ or „prospective“) (male)",
+    "die Interessentin, die Interessentinnen – interested person; interested party;",
+    "prospects (here: implies „potential“ or „prospective“) (female)",
+    "der Keller, die Keller – cellar; basement",
+    "die Küche, die Küchen – kitchen",
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "kurz – short",
+    "kürzer, am kürzesten",
+    "lang – long",
+    "länger, am längsten",
+    "laut – loud/loudly",
+    "lauter, am lautesten",
+    "der Monat, die Monate – month",
+    "die Pommes frites – French fries",
+    "Plural, aus dem Französischen, nur Plural",
+    "der Quadratmeter, die Quadratmeter – square meter",
+    "Abkürzung: qm oder m²",
+    "ruhig – quiet; calm",
+    "ruhiger, am ruhigsten",
+    "das Schlafzimmer, die Schlafzimmer – bedroom",
+    "etwas/jemanden sehen – to see something/somebody",
+    "sieht, sah, hat gesehen",
+    "sitzen – to sit",
+    "sitzt, saß, hat gesessen",
+    "die Toilette, die Toiletten – toilet",
+    "ungemütlich – uncomfortable; unpleasant; awkward",
+    "ungemütlicher, am ungemütlichsten",
+    "das Wohnzimmer, die Wohnzimmer – living room"
+   ]
+  }
+ ]
+}

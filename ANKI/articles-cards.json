@@ -315,6 +315,55 @@
     "source": "exercises",
     "text": "Der Garten ist groß."
    }
+  },
+  "Flur": {
+   "context": {
+    "lesson": "dw-a1-e6-l2",
+    "source": "exercises",
+    "text": "Der Flur ist kurz."
+   }
+  },
+  "Keller": {
+   "context": {
+    "lesson": "dw-a1-e6-l2",
+    "source": "exercises",
+    "text": "Der Keller hat keine Fenster und ist sehr ungemütlich."
+   }
+  },
+  "Küche": {
+   "context": {
+    "lesson": "dw-a1-e6-l2",
+    "source": "exercises",
+    "text": "Die Küche ist klein."
+   }
+  },
+  "Wohnzimmer": {
+   "context": {
+    "lesson": "dw-a1-e6-l2",
+    "source": "exercises",
+    "text": "Das Wohnzimmer ist hell."
+   }
+  },
+  "Schlafzimmer": {
+   "context": {
+    "lesson": "dw-a1-e6-l2",
+    "source": "exercises",
+    "text": "Das Schlafzimmer ist gemütlich."
+   }
+  },
+  "Arbeitszimmer": {
+   "context": {
+    "lesson": "dw-a1-e6-l2",
+    "source": "exercises",
+    "text": "Das Arbeitszimmer ist hell."
+   }
+  },
+  "Badezimmer": {
+   "context": {
+    "lesson": "dw-a1-e6-l2",
+    "source": "exercises",
+    "text": "Das ist das Badezimmer"
+   }
   }
  }
 }

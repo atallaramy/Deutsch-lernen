@@ -2363,6 +2363,18 @@
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-10-03"
   },
+  "Nebenkosten": {
+   "url": "https://en.wiktionary.org/wiki/Nebenkosten#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "side costs, additional costs"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-16"
+  },
   "Niederlande": {
    "url": "https://en.wiktionary.org/wiki/Niederlande#German",
    "status": 200,
@@ -3436,6 +3448,22 @@
     }
    ],
    "fetchedOn": "2026-09-25"
+  },
+  "Stadtzentrum": {
+   "url": "https://en.wiktionary.org/wiki/Stadtzentrum#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "city centre"
+    },
+    {
+     "pos": "Noun",
+     "text": "downtown, city hub"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-16"
   },
   "Steckdose": {
    "url": "https://en.wiktionary.org/wiki/Steckdose#German",
@@ -4817,6 +4845,18 @@
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-27"
   },
+  "anschauen": {
+   "url": "https://en.wiktionary.org/wiki/anschauen#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Verb",
+     "text": "to look at; to behold; to observe (visually); to view"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-16"
+  },
   "arbeiten": {
    "url": "https://en.wiktionary.org/wiki/arbeiten#German",
    "status": 200,
@@ -5488,6 +5528,22 @@
    ],
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-27"
+  },
+  "draußen": {
+   "url": "https://en.wiktionary.org/wiki/drau%C3%9Fen#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Adverb",
+     "text": "outside"
+    },
+    {
+     "pos": "Adverb",
+     "text": "out there"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-16"
   },
   "drei": {
    "url": "https://en.wiktionary.org/wiki/drei#German",

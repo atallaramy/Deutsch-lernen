@@ -1,6 +1,6 @@
 {
  "schemaVersion": 3,
- "revision": "2026-10-11T15:03:00Z",
+ "revision": "2026-10-16T09:00:00Z",
  "policy": "Faithful capture of what the learner studied: official lesson glossaries, useful words and phrases from the official scripts and exercises, and items from the learner's notes. Official spelling is canonical; the learner's spelling is kept as learnerForm. Nothing captured is removed. pendingEntries wait for the learner's yes/no and are never built; declinedEntries record a learner's no.",
  "courses": [
   {
@@ -14628,6 +14628,533 @@
        "origin": [
         "dw-exercises",
         "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      }
+     ],
+     "pendingEntries": [],
+     "declinedEntries": []
+    },
+    {
+     "id": "dw-a1-e6-l2",
+     "legacyId": null,
+     "level": "A1",
+     "title": "Meine Wohnung",
+     "unit": 6,
+     "lesson": 2,
+     "url": "https://learngerman.dw.com/en/meine-wohnung/l-37425763",
+     "notesFile": "DW Deutsch lernen/A1/06_living/02_Meine Wohnung/Meine Wohnung.md",
+     "lessonDeck": {
+      "file": "DW Deutsch lernen/A1/06_living/02_Meine Wohnung/DW A1 E6L2 Meine Wohnung - Vocabulary.apkg",
+      "deck": "A1::DW::Lessons::E6 L2 Meine Wohnung"
+     },
+     "snapshot": "DW Deutsch lernen/A1/06_living/02_Meine Wohnung/Materials/source-snapshot.json",
+     "sources": [
+      {
+       "id": "script",
+       "kind": "dw-script-pdf",
+       "url": "https://learngerman.dw.com/downloads/52719961/nicos-weg-a1-e6-l2-manuskript-und-wortschatz-englisch.pdf",
+       "localFile": "DW Deutsch lernen/A1/06_living/02_Meine Wohnung/Materials/Script and vocabulary (English).pdf"
+      },
+      {
+       "id": "exercises",
+       "kind": "dw-exercises",
+       "url": "https://learngerman.dw.com/en/meine-wohnung/l-37425763"
+      }
+     ],
+     "entries": [
+      {
+       "id": "das-arbeitszimmer",
+       "german": "das Arbeitszimmer",
+       "english": "office; study",
+       "pos": "noun",
+       "lemma": "Arbeitszimmer",
+       "sense": "office",
+       "plural": "die Arbeitszimmer",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises"
+       ],
+       "learnerForm": "das Arbeitzimmer",
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-bad",
+       "german": "das Bad",
+       "english": "bathroom",
+       "pos": "noun",
+       "lemma": "Bad",
+       "sense": "bathroom",
+       "plural": "die Bäder",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-badezimmer",
+       "german": "das Badezimmer",
+       "english": "bathroom",
+       "pos": "noun",
+       "lemma": "Badezimmer",
+       "sense": "bathroom",
+       "plural": "die Badezimmer",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "dunkel",
+       "german": "dunkel",
+       "english": "dark",
+       "pos": "word",
+       "lemma": "dunkel",
+       "sense": "dark",
+       "forms": "dunkler, am dunkelsten",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "es-gibt",
+       "german": "es gibt",
+       "english": "there are (literally: it gives, it exists)",
+       "pos": "expression",
+       "lemma": "es gibt",
+       "sense": "there-is",
+       "forms": "es gibt, es gab, es hat gegeben",
+       "origin": [
+        "dw-glossary",
+        "dw-script"
+       ],
+       "vocabularyPageForm": "Es gibt …",
+       "glossLookup": [
+        "es gibt"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-fenster",
+       "german": "das Fenster",
+       "english": "window",
+       "pos": "noun",
+       "lemma": "Fenster",
+       "sense": "window",
+       "plural": "die Fenster",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-flur",
+       "german": "der Flur",
+       "english": "hallway",
+       "pos": "noun",
+       "lemma": "Flur",
+       "sense": "hallway",
+       "plural": "die Flure",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises"
+       ],
+       "learnerForm": "die Flur",
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "freut-mich",
+       "german": "Freut mich.",
+       "english": "Pleased to meet you.",
+       "pos": "expression",
+       "lemma": "Freut mich.",
+       "sense": "pleased-to-meet-you",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "learner-notes"
+       ],
+       "glossLookup": [
+        "freut mich"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "gemuetlich",
+       "german": "gemütlich",
+       "english": "cozy; comfortable",
+       "pos": "word",
+       "lemma": "gemütlich",
+       "sense": "cozy",
+       "forms": "gemütlicher, am gemütlichsten",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "hell",
+       "german": "hell",
+       "english": "light; bright",
+       "pos": "word",
+       "lemma": "hell",
+       "sense": "bright",
+       "forms": "heller, am hellsten",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "hoch",
+       "german": "hoch",
+       "english": "expensive",
+       "pos": "word",
+       "lemma": "hoch",
+       "sense": "expensive",
+       "forms": "höher, am höchsten",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-interessent",
+       "german": "der Interessent",
+       "english": "interested person; interested party (male)",
+       "pos": "noun",
+       "lemma": "Interessent",
+       "sense": "prospective-male",
+       "plural": "die Interessenten",
+       "origin": [
+        "dw-glossary",
+        "dw-script"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-interessentin",
+       "german": "die Interessentin",
+       "english": "interested person; interested party (female)",
+       "pos": "noun",
+       "lemma": "Interessentin",
+       "sense": "prospective-female",
+       "plural": "die Interessentinnen",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-keller",
+       "german": "der Keller",
+       "english": "cellar; basement",
+       "pos": "noun",
+       "lemma": "Keller",
+       "sense": "cellar",
+       "plural": "die Keller",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises"
+       ],
+       "learnerForm": "der keller",
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-kueche",
+       "german": "die Küche",
+       "english": "kitchen",
+       "pos": "noun",
+       "lemma": "Küche",
+       "sense": "kitchen",
+       "plural": "die Küchen",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "kurz",
+       "german": "kurz",
+       "english": "short",
+       "pos": "word",
+       "lemma": "kurz",
+       "sense": "briefly",
+       "forms": "kürzer, am kürzesten",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "lang",
+       "german": "lang",
+       "english": "long",
+       "pos": "word",
+       "lemma": "lang",
+       "sense": "long",
+       "forms": "länger, am längsten",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "laut",
+       "german": "laut",
+       "english": "loud/loudly",
+       "pos": "word",
+       "lemma": "laut",
+       "sense": "loud",
+       "forms": "lauter, am lautesten",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-monat",
+       "german": "der Monat",
+       "english": "month",
+       "pos": "noun",
+       "lemma": "Monat",
+       "sense": "month",
+       "plural": "die Monate",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises"
+       ],
+       "learnerForm": "Motat",
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-pommes-frites",
+       "german": "die Pommes frites",
+       "english": "French fries",
+       "pos": "noun",
+       "lemma": "Pommes frites",
+       "sense": "french-fries",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "pluralOnly": true,
+       "articles": "exempt:plural-only",
+       "note": "nur Plural, aus dem Französischen",
+       "vocabularyPageForm": "die Pommes frites (Plural)",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-quadratmeter",
+       "german": "der Quadratmeter",
+       "english": "square meter",
+       "pos": "noun",
+       "lemma": "Quadratmeter",
+       "sense": "square-meter",
+       "plural": "die Quadratmeter",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises"
+       ],
+       "note": "Abkürzung: qm oder m²",
+       "home": "vocabulary"
+      },
+      {
+       "id": "ruhig",
+       "german": "ruhig",
+       "english": "quiet; calm",
+       "pos": "word",
+       "lemma": "ruhig",
+       "sense": "quiet",
+       "forms": "ruhiger, am ruhigsten",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "learnerForm": "ruich",
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-schlafzimmer",
+       "german": "das Schlafzimmer",
+       "english": "bedroom",
+       "pos": "noun",
+       "lemma": "Schlafzimmer",
+       "sense": "bedroom",
+       "plural": "die Schlafzimmer",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "etwas-jemanden-sehen",
+       "german": "etwas/jemanden sehen",
+       "english": "to see something/somebody",
+       "pos": "verb",
+       "lemma": "sehen",
+       "sense": "to-see",
+       "forms": "sieht, sah, hat gesehen",
+       "origin": [
+        "dw-glossary",
+        "dw-script"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "sitzen",
+       "german": "sitzen",
+       "english": "to sit",
+       "pos": "verb",
+       "lemma": "sitzen",
+       "sense": "to-sit",
+       "forms": "sitzt, saß, hat gesessen",
+       "origin": [
+        "dw-glossary",
+        "dw-script"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-toilette",
+       "german": "die Toilette",
+       "english": "toilet",
+       "pos": "noun",
+       "lemma": "Toilette",
+       "sense": "toilet",
+       "plural": "die Toiletten",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises"
+       ],
+       "learnerForm": "die Toilete",
+       "home": "vocabulary"
+      },
+      {
+       "id": "ungemuetlich",
+       "german": "ungemütlich",
+       "english": "uncomfortable; unpleasant; awkward",
+       "pos": "word",
+       "lemma": "ungemütlich",
+       "sense": "uncomfortable",
+       "forms": "ungemütlicher, am ungemütlichsten",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-wohnzimmer",
+       "german": "das Wohnzimmer",
+       "english": "living room",
+       "pos": "noun",
+       "lemma": "Wohnzimmer",
+       "sense": "living-room",
+       "plural": "die Wohnzimmer",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "draussen",
+       "german": "draußen",
+       "english": "outside",
+       "pos": "word",
+       "lemma": "draußen",
+       "sense": "outside",
+       "origin": [
+        "dw-script"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "sich-etwas-anschauen",
+       "german": "sich etwas anschauen",
+       "english": "to look at; to view",
+       "pos": "verb",
+       "lemma": "anschauen",
+       "sense": "to-look-at",
+       "forms": "schaut an, schaute an, hat angeschaut",
+       "origin": [
+        "dw-script"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-nebenkosten",
+       "german": "die Nebenkosten",
+       "english": "additional costs; side costs",
+       "pos": "noun",
+       "lemma": "Nebenkosten",
+       "sense": "additional-costs",
+       "origin": [
+        "dw-script"
+       ],
+       "pluralOnly": true,
+       "articles": "exempt:plural-only",
+       "level": "beyond-A1",
+       "home": "vocabulary",
+       "genderEvidence": "https://de.wiktionary.org/wiki/Nebenkosten (Genus 0, Singular —, Plural Nebenkosten: kein Singular)"
+      },
+      {
+       "id": "das-stadtzentrum",
+       "german": "das Stadtzentrum",
+       "english": "city centre; downtown",
+       "pos": "noun",
+       "lemma": "Stadtzentrum",
+       "sense": "city-centre",
+       "plural": "die Stadtzentren",
+       "origin": [
+        "dw-exercises"
        ],
        "level": "beyond-A1",
        "home": "vocabulary"

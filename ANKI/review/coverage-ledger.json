@@ -1,5 +1,5 @@
 {
- "revision": "2026-10-09T09:34:00Z",
+ "revision": "2026-10-16T09:00:00Z",
  "entries": {
   "dw-a1-e0-l1:auch": [
    "vocab:auch|also"
@@ -3235,6 +3235,117 @@
   "dw-a1-e6-l1:die-grossstadt": [
    "article:Großstadt|f",
    "vocab:Großstadt|big-city"
+  ],
+  "dw-a1-e6-l2:das-arbeitszimmer": [
+   "article:Arbeitszimmer|n",
+   "vocab:Arbeitszimmer|office"
+  ],
+  "dw-a1-e6-l2:das-bad": [
+   "article:Bad|n",
+   "vocab:Bad|bathroom"
+  ],
+  "dw-a1-e6-l2:das-badezimmer": [
+   "article:Badezimmer|n",
+   "vocab:Badezimmer|bathroom"
+  ],
+  "dw-a1-e6-l2:dunkel": [
+   "vocab:dunkel|dark"
+  ],
+  "dw-a1-e6-l2:es-gibt": [
+   "vocab:es gibt|there-is"
+  ],
+  "dw-a1-e6-l2:das-fenster": [
+   "article:Fenster|n",
+   "vocab:Fenster|window"
+  ],
+  "dw-a1-e6-l2:der-flur": [
+   "article:Flur|m",
+   "vocab:Flur|hallway"
+  ],
+  "dw-a1-e6-l2:freut-mich": [
+   "vocab:Freut mich.|pleased-to-meet-you"
+  ],
+  "dw-a1-e6-l2:gemuetlich": [
+   "vocab:gemütlich|cozy"
+  ],
+  "dw-a1-e6-l2:hell": [
+   "vocab:hell|bright"
+  ],
+  "dw-a1-e6-l2:hoch": [
+   "vocab:hoch|expensive"
+  ],
+  "dw-a1-e6-l2:der-interessent": [
+   "article:Interessent|m",
+   "vocab:Interessent|prospective-male"
+  ],
+  "dw-a1-e6-l2:die-interessentin": [
+   "article:Interessentin|f",
+   "vocab:Interessentin|prospective-female"
+  ],
+  "dw-a1-e6-l2:der-keller": [
+   "article:Keller|m",
+   "vocab:Keller|cellar"
+  ],
+  "dw-a1-e6-l2:die-kueche": [
+   "article:Küche|f",
+   "vocab:Küche|kitchen"
+  ],
+  "dw-a1-e6-l2:kurz": [
+   "vocab:kurz|briefly"
+  ],
+  "dw-a1-e6-l2:lang": [
+   "vocab:lang|long"
+  ],
+  "dw-a1-e6-l2:laut": [
+   "vocab:laut|loud"
+  ],
+  "dw-a1-e6-l2:der-monat": [
+   "article:Monat|m",
+   "vocab:Monat|month"
+  ],
+  "dw-a1-e6-l2:die-pommes-frites": [
+   "vocab:Pommes frites|french-fries"
+  ],
+  "dw-a1-e6-l2:der-quadratmeter": [
+   "article:Quadratmeter|m",
+   "vocab:Quadratmeter|square-meter"
+  ],
+  "dw-a1-e6-l2:ruhig": [
+   "vocab:ruhig|quiet"
+  ],
+  "dw-a1-e6-l2:das-schlafzimmer": [
+   "article:Schlafzimmer|n",
+   "vocab:Schlafzimmer|bedroom"
+  ],
+  "dw-a1-e6-l2:etwas-jemanden-sehen": [
+   "vocab:sehen|to-see"
+  ],
+  "dw-a1-e6-l2:sitzen": [
+   "vocab:sitzen|to-sit"
+  ],
+  "dw-a1-e6-l2:die-toilette": [
+   "article:Toilette|f",
+   "vocab:Toilette|toilet"
+  ],
+  "dw-a1-e6-l2:ungemuetlich": [
+   "vocab:ungemütlich|uncomfortable"
+  ],
+  "dw-a1-e6-l2:das-wohnzimmer": [
+   "article:Wohnzimmer|n",
+   "vocab:Wohnzimmer|living-room"
+  ],
+  "dw-a1-e6-l2:draussen": [
+   "vocab:draußen|outside"
+  ],
+  "dw-a1-e6-l2:sich-etwas-anschauen": [
+   "vocab:anschauen|to-look-at"
+  ],
+  "dw-a1-e6-l2:die-nebenkosten": [
+   "vocab:Nebenkosten|additional-costs"
+  ],
+  "dw-a1-e6-l2:das-stadtzentrum": [
+   "article:Stadtzentrum|n",
+   "vocab:Stadtzentrum|city-centre"
   ],
   "vhs-a1-l02:die-familie": [
    "article:Familie|f",

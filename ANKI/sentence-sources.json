@@ -2753,6 +2753,34 @@
    },
    "covers": [],
    "note": "du verstehst → Verstehst du? (the verb comes first)"
+  },
+  {
+   "key": "hallway-not-bright-but-dark",
+   "kind": "production",
+   "lesson": "dw-a1-e6-l2",
+   "skill": "nicht + adjective; der Flur → er",
+   "scene": "Describe the hallway: it isn't bright, it's dark. Say it with nicht, then a pronoun.",
+   "answer": "Der Flur ist nicht hell, er ist dunkel.",
+   "answerSource": {
+    "lesson": "dw-a1-e6-l2",
+    "source": "exercises"
+   },
+   "covers": [],
+   "note": "nicht comes right before the adjective · der Flur → er"
+  },
+  {
+   "key": "how-many-square-meters",
+   "kind": "production",
+   "lesson": "dw-a1-e6-l2",
+   "skill": "W-question: Wie viele …?",
+   "scene": "Viewing a room in a WG: ask how many square meters the room (das Zimmer) has.",
+   "answer": "Wie viele Quadratmeter hat das Zimmer?",
+   "answerSource": {
+    "lesson": "dw-a1-e6-l2",
+    "source": "exercises"
+   },
+   "covers": [],
+   "note": "Wie viele + plural: Quadratmeter, Zimmer"
   }
  ]
 }

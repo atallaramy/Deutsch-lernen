@@ -966,7 +966,10 @@
     "lesson": "dw-a1-e0-l2",
     "source": "script",
     "text": "Ins Zentrum, zum Königshof."
-   }
+   },
+   "interferesWith": [
+    "Stadtzentrum|city-centre"
+   ]
   },
   "aber|but": {
    "context": {
@@ -3475,6 +3478,174 @@
     "text": "Wohnungen in einer Großstadt sind oft teuer.",
     "target": "Großstadt"
    }
+  },
+  "Arbeitszimmer|office": {
+   "cue": "study; home office (a room for working at home)"
+  },
+  "Bad|bathroom": {
+   "cue": "bathroom (the short word)",
+   "context": {
+    "lesson": "dw-a1-e6-l2",
+    "source": "script",
+    "text": "Es gibt fünf Zimmer, eine Küche und ein Bad.",
+    "target": "Bad"
+   },
+   "interferesWith": [
+    "Badezimmer|bathroom"
+   ]
+  },
+  "Badezimmer|bathroom": {
+   "cue": "bathroom (the full word)",
+   "interferesWith": [
+    "Bad|bathroom"
+   ]
+  },
+  "dunkel|dark": {
+   "context": {
+    "lesson": "dw-a1-e6-l2",
+    "source": "exercises",
+    "text": "Das Zimmer ist dunkel.",
+    "target": "dunkel"
+   }
+  },
+  "Fenster|window": {
+   "context": {
+    "lesson": "dw-a1-e6-l2",
+    "source": "script",
+    "text": "Die Fenster sind groß und das Zimmer ist hell.",
+    "target": "Fenster"
+   }
+  },
+  "Flur|hallway": {
+   "context": {
+    "lesson": "dw-a1-e6-l2",
+    "source": "exercises",
+    "text": "Der Flur ist lang und dunkel.",
+    "target": "Flur"
+   }
+  },
+  "gemütlich|cozy": {
+   "context": {
+    "lesson": "dw-a1-e6-l2",
+    "source": "script",
+    "text": "Die Küche ist sehr gemütlich.",
+    "target": "gemütlich"
+   }
+  },
+  "hell|bright": {
+   "context": {
+    "lesson": "dw-a1-e6-l2",
+    "source": "exercises",
+    "text": "Das Arbeitszimmer ist sehr hell.",
+    "target": "hell"
+   }
+  },
+  "hoch|expensive": {
+   "cue": "high (of a rent or price)",
+   "context": {
+    "lesson": "dw-a1-e6-l2",
+    "source": "exercises",
+    "text": "Die Miete ist nicht so hoch.",
+    "target": "hoch"
+   }
+  },
+  "Interessent|prospective-male": {
+   "cue": "a prospective tenant or other interested person (male)"
+  },
+  "Interessentin|prospective-female": {
+   "cue": "a prospective tenant or other interested person (female)"
+  },
+  "Keller|cellar": {
+   "context": {
+    "lesson": "dw-a1-e6-l2",
+    "source": "exercises",
+    "text": "Wir haben auch einen Keller.",
+    "target": "Keller"
+   }
+  },
+  "lang|long": {
+   "context": {
+    "lesson": "dw-a1-e6-l2",
+    "source": "exercises",
+    "text": "Der Flur ist lang.",
+    "target": "lang"
+   }
+  },
+  "laut|loud": {
+   "context": {
+    "lesson": "dw-a1-e6-l2",
+    "source": "exercises",
+    "text": "Das Wohnzimmer ist laut.",
+    "target": "laut"
+   }
+  },
+  "Monat|month": {
+   "context": {
+    "lesson": "dw-a1-e6-l2",
+    "source": "exercises",
+    "text": "Miete: 800 Euro im Monat",
+    "target": "Monat"
+   }
+  },
+  "Quadratmeter|square-meter": {
+   "context": {
+    "lesson": "dw-a1-e6-l2",
+    "source": "script",
+    "text": "Das Zimmer hat elf Quadratmeter.",
+    "target": "Quadratmeter"
+   }
+  },
+  "ruhig|quiet": {
+   "context": {
+    "lesson": "dw-a1-e6-l2",
+    "source": "script",
+    "text": "Ja, und es ist sehr ruhig.",
+    "target": "ruhig"
+   }
+  },
+  "ungemütlich|uncomfortable": {
+   "context": {
+    "lesson": "dw-a1-e6-l2",
+    "source": "exercises",
+    "text": "Das Wohnzimmer ist nicht gemütlich, es ist ungemütlich.",
+    "target": "ungemütlich"
+   }
+  },
+  "Wohnzimmer|living-room": {
+   "context": {
+    "lesson": "dw-a1-e6-l2",
+    "source": "exercises",
+    "text": "Unser Wohnzimmer ist groß und gemütlich.",
+    "target": "Wohnzimmer"
+   }
+  },
+  "anschauen|to-look-at": {
+   "context": {
+    "lesson": "dw-a1-e6-l2",
+    "source": "script",
+    "text": "Du willst dir das Zimmer anschauen?",
+    "target": "anschauen"
+   }
+  },
+  "Nebenkosten|additional-costs": {
+   "context": {
+    "lesson": "dw-a1-e6-l2",
+    "source": "script",
+    "text": "Die Miete kostet mit Nebenkosten 400 Euro im Monat.",
+    "target": "Nebenkosten"
+   }
+  },
+  "Stadtzentrum|city-centre": {
+   "cue": "city centre (the long compound word)",
+   "context": {
+    "lesson": "dw-a1-e6-l2",
+    "source": "exercises",
+    "text": "Die Wohnung ist im Stadtzentrum.",
+    "target": "Stadtzentrum"
+   },
+   "interferesWith": [
+    "Zentrum|city-centre"
+   ]
   }
  }
 }
