@@ -36,6 +36,7 @@ ROOT = Path(__file__).resolve().parents[2]
 BOOK = ROOT / "Grammatik"
 SNAPSHOT = BOOK / "Materials" / "wiktionary-snapshot.json"
 GLOSSARY = "Grammatikbegriffe.md"
+MISTAKES = "Meine-Fehler.md"  # the learner's recurring mistakes; printed just before GLOSSARY
 CHEATSHEET = ROOT / "Spickzettel" / GLOSSARY
 sys.path.insert(0, str(ROOT / "ANKI"))
 

@@ -27,7 +27,10 @@ mistakes, corrects the notes itself and continues.
    corrects them in your notes and says so in `mistakes.md`.
 2. **Round 1:** Claude saves the list in the lesson's `Materials/mistakes.md`, then
    shows you its table: the wrong words exactly as you wrote them, with line
-   numbers. No comments.
+   numbers. No comments, except one line naming the mistakes that are already
+   in [`Grammatik/Meine-Fehler.md`](../Grammatik/Meine-Fehler.md) (*Again: is → ist, 7×*).
+   Claude raises their counts there and adds a mistake that reaches 3× (`AGENTS.md`
+   → *Grammar book*).
 3. You fix your notes and say so.
 4. **Round 2:** Claude checks again and adds what is still wrong to `mistakes.md`
    as *wrong → correct*, and shows you that table.
@@ -165,6 +168,9 @@ The rules are in `AGENTS.md` → *Grammar book*; the layout is in
   grammar check has errors or the cheatsheet needs a second page, and the tests
   fail if a PDF lags its pages. A new topic page joins the PDF by being listed in
   the index's *studied* table.
+- Cheatsheets: in the final reply, suggest in one line an update to an existing
+  cheatsheet, an addition, or a new sheet when the lesson's grammar needs it
+  (`AGENTS.md` → *Cheatsheets*). Write only what you say yes to.
 
 ## 8. Extra tasks (DW)
 

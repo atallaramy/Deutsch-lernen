@@ -77,6 +77,12 @@ Built when I have studied the lesson. Topics from
 See [docs/learning-roadmap.md](../docs/learning-roadmap.md) and the A2/B1 files in
 [docs/course-index](../docs/course-index/).
 
+## My recurring mistakes
+
+[Meine Fehler](Meine-Fehler.md): the mistakes I made three times or more, with the
+rule and the lessons. Claude updates it at every Round 1. It comes just before the
+grammar words in the PDF.
+
 ## Grammar words
 
 [Grammatikbegriffe](Grammatikbegriffe.md): every German grammar word from my

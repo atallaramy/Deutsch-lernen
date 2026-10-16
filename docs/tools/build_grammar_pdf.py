@@ -6,7 +6,7 @@
 
 The Markdown pages stay the source. Page order is the order of the "<level>: studied" tables in
 Grammatik/README.md, so a page added there joins the PDF on the next build; Grammatikbegriffe.md
-closes the book. The cheatsheet must fit on one page. Every build runs twice and must give
+closes the book, right after Meine-Fehler.md. The cheatsheet must fit on one page. Every build runs twice and must give
 identical bytes. Needs pandoc and Google Chrome; no network.
 """
 
@@ -28,7 +28,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 import check_grammar_book  # noqa: E402
-from check_grammar_book import BOOK, CHEATSHEET, GLOSSARY, ROOT, link_targets, plain, tables  # noqa: E402
+from check_grammar_book import BOOK, CHEATSHEET, GLOSSARY, MISTAKES, ROOT, link_targets, plain, tables  # noqa: E402
 
 PDF = BOOK / "Grammatik.pdf"
 CHEATSHEET_PDF = CHEATSHEET.with_suffix(".pdf")
@@ -116,6 +116,8 @@ def book_pages(book: Path = BOOK) -> list[Page]:
             if links:
                 pages.append(Page(match.group(1), plain(row[0]), (book / urllib.parse.unquote(links[0][1])).resolve(),
                                   plain(row[2]) if len(row) > 2 else ""))
+    if (book / MISTAKES).exists():
+        pages.append(Page("", "My recurring mistakes", (book / MISTAKES).resolve(), ""))
     if (book / GLOSSARY).exists():
         pages.append(Page("", "Grammar words", (book / GLOSSARY).resolve(), ""))
     return pages

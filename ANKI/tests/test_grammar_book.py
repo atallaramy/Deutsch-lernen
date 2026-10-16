@@ -209,6 +209,9 @@ class GrammarPdf(unittest.TestCase):
     def test_the_grammar_words_close_the_book(self):
         self.assertEqual(build_grammar_pdf.book_pages()[-1].path.name, check_grammar_book.GLOSSARY)
 
+    def test_my_mistakes_come_just_before_the_grammar_words(self):
+        self.assertEqual(build_grammar_pdf.book_pages()[-2].path.name, check_grammar_book.MISTAKES)
+
     def test_cheatsheet_is_one_page(self):
         self.assertEqual(build_grammar_pdf.page_count(b"<</Type /Pages /Count 2>> <</Type /Page>> <</Type/Page>>"), 2)
         self.assertEqual(build_grammar_pdf.page_count(build_grammar_pdf.CHEATSHEET_PDF.read_bytes()), 1)

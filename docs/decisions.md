@@ -5,6 +5,8 @@ One line per confirmed decision, newest first. The rules they produce live in
 
 | Date | Decision |
 |---|---|
+| 2026-10-16 | Cheatsheets cover all the grammar the learner should know, as cheatsheets in the style of their *Possessivartikel* sheet (tables, coloured endings, one example per row); after each lesson Claude suggests an update, addition or new sheet in one line, and writes only what the learner says yes to ("Make it a rule to suggest an update or addition to an existing cheatsheet and also an append suggestion if needed"). |
+| 2026-10-16 | `Grammatik/Meine-Fehler.md`: the learner's mistakes made 3× or more, updated at every Round 1 with one *Again: …* line, printed before the grammar words; a mistake at 3× gets one Sentences card unless typed cards already test it ("good do it"). |
 | 2026-10-10 | Git: every commit is its own commit by default; merged only when the learner asks ("let's make own commit the default it is always easier to revert"). Replaces the 2026-10-01 merging rule. |
 | 2026-10-10 | `oneOff` marker on a Sentences card, off by default, set only when the learner asks for that card: it may share its sentence and joins its lesson's deck; first use, the two *deshalb nimmt sie* cards in E3 L3 ("it should always be off until I explicitly ask to make it on for a specific card"). |
 | 2026-10-09 | Anki layout: `A1` holds the shared `Vocabulary`, `Articles` and `Sentences`, then `DW`, `VHS` and `Easy German`, each with a `Lessons` deck holding its lessons ("vocabulary, articles and sentences should be one level higher … we do not repeat them in each folder"). |

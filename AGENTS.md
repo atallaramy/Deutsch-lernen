@@ -277,14 +277,26 @@ every captured entry is covered.
   page it links to, while a word in a studied lesson's DW box is missing or not
   given the box's description, or while it and `Spickzettel/Grammatikbegriffe.md`
   list different words.
+- `Grammatik/Meine-Fehler.md` lists the learner's mistakes made 3× or more
+  (wrong, right, rule, times, lessons), quoted from the lessons'
+  `Materials/mistakes.md`, and is printed just before `Grammatikbegriffe.md`. At
+  every Round 1 Claude raises the counts, adds a mistake that reaches 3×, and
+  names each repeat in one line under the Round 1 table (*Again: is → ist, 7×*).
+  A mistake that reaches 3× gets one Sentences card that practises it, unless
+  typed cards already test it.
 
 ## Cheatsheets (`Spickzettel/`) and printing
 
 - `Spickzettel/` is the learner's folder. A cheatsheet holds the keys to the
   knowledge in the learner's head: minimal, built to the learner's own taste and
   way of understanding. When it holds too much, it is no longer a cheatsheet.
-- Agents do not create, edit or restructure cheatsheets on their own. An agent
-  may suggest one, but asks first, and writes only what the learner decides.
+- Cheatsheets cover all the grammar the learner should know, as cheatsheets,
+  not as a grammar book: tables with the endings in colour and one example per
+  row, like the learner's *Possessivartikel* sheet.
+- After each lesson Claude suggests, in one line, an update to an existing
+  cheatsheet, an addition to one, or a new sheet, when the lesson's grammar
+  needs it. Agents do not create, edit or restructure cheatsheets on their own:
+  they write only what the learner says yes to.
 - The learner's standing exception: `Spickzettel/Grammatikbegriffe.md` (each
   grammar word with its English and a short example) and its one-page
   `Grammatikbegriffe.pdf`. Agents add each lesson's new grammar words to it and

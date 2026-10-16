@@ -1,7 +1,7 @@
 {
  "description": "Written by docs/tools/build_grammar_pdf.py. 'inputs' fingerprints the builder, README.md, every page and the cheatsheet; the unit tests fail when it no longer matches, so the PDFs never lag the pages.",
- "inputs": "14d3b76ff3b0dee51aa09b80a8f2da4af860043cd701041c219ca05421b04890",
- "pdf": "0907f109798c413e4c0ed4b388ac6dc2edb3bed56a68effd79b90a668d717555",
+ "inputs": "33180fc8cc1f6b882b1ddfca2fd414eead2a36dc6a413656b8cdfb26b3b02c1a",
+ "pdf": "d3f1a9befdc0d663e24f6097996e86fb16d4592ee5d83cc51558d1685171880e",
  "cheatsheet": "37dd7489e317961a3c8009f87606ceb30d80ad3ba9d4fa480732c83cecf5f40f",
  "pages": [
   "A1/du-und-Sie.md",
@@ -25,6 +25,7 @@
   "A1/Aussagesatz.md",
   "A1/Nominativ-Akkusativ.md",
   "A1/Adjektive-nach-sein.md",
+  "Meine-Fehler.md",
   "Grammatikbegriffe.md"
  ],
  "tools": {
