@@ -1,12 +1,13 @@
 #!/usr/bin/env python3
-"""Build Grammatik/Grammatik.pdf (the whole grammar book) and Spickzettel/Grammatikbegriffe.pdf (one page).
+"""Build Grammatik/Grammatik.pdf (the whole grammar book), Spickzettel/Grammatikbegriffe.pdf and every other
+Spickzettel/*.md cheatsheet as a one-page PDF of the same name.
 
   python3 docs/tools/build_grammar_pdf.py           rebuild both (after the grammar check passes)
   python3 docs/tools/build_grammar_pdf.py --check   exit 1 if a PDF is missing or older than its pages
 
 The Markdown pages stay the source. Page order is the order of the "<level>: studied" tables in
 Grammatik/README.md, so a page added there joins the PDF on the next build; Grammatikbegriffe.md
-closes the book, right after Meine-Fehler.md. The cheatsheet must fit on one page. Every build runs twice and must give
+closes the book, right after Meine-Fehler.md. Every cheatsheet must fit on one page. Every build runs twice and must give
 identical bytes. Needs pandoc and Google Chrome; no network.
 """
 
@@ -91,6 +92,34 @@ th:nth-child(2), td:nth-child(2) { width: 27%; }
 td:nth-child(3) { font-style: italic; }
 """
 
+# The learner's own sheet style: a coloured band per case, **ending** in the case colour, <b>word</b> in bold.
+SHEET_CSS = """
+@page { size: A4; margin: 14mm 15mm; }
+html { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+body { font-family: -apple-system, "Helvetica Neue", Arial, sans-serif; font-size: 11pt; line-height: 1.35;
+  color: #222; margin: 0; }
+h1 { font-size: 30pt; margin: 0 0 2pt; }
+h1 + p { font-size: 11.5pt; color: #666; margin: 0 0 14pt; }
+.case { margin: 0 0 16pt; break-inside: avoid; }
+.case h2 { display: flex; justify-content: space-between; align-items: baseline; margin: 0; padding: 5pt 10pt;
+  border-radius: 6pt 6pt 0 0; color: #fff; font-size: 16pt; }
+.case h2 small { font-size: 10pt; font-weight: normal; }
+table { border-collapse: collapse; width: 100%; border-bottom: 1.5px solid #bbb; }
+th { background: #eee; text-align: left; padding: 5pt 8pt; font-size: 10.5pt; }
+td { padding: 6pt 8pt; vertical-align: top; }
+tbody tr:nth-child(even) { background: #f6f6f6; }
+td:first-child { color: #666; width: 13%; }
+th:last-child, td:last-child { border-left: 1.5px solid #ccc; width: 44%; }
+td:last-child em { color: #888; font-size: 9.5pt; }
+strong { font-weight: 700; }
+.nom h2 { background: #1f5f8b; } .nom strong { color: #1f5f8b; }
+.akk h2 { background: #a33b20; } .akk strong { color: #a33b20; }
+.dat h2 { background: #2e7d4f; } .dat strong { color: #2e7d4f; }
+.gen h2 { background: #6b3fa0; } .gen strong { color: #6b3fa0; }
+.foot { color: #666; font-size: 9.5pt; }
+.foot p { margin: 3pt 0; }
+"""
+
 
 @dataclass
 class Page:
@@ -123,6 +152,11 @@ def book_pages(book: Path = BOOK) -> list[Page]:
     return pages
 
 
+def sheets(cheatsheet: Path = CHEATSHEET) -> list[Path]:
+    """The learner's other cheatsheets: every Spickzettel/*.md beside Grammatikbegriffe.md."""
+    return sorted(path for path in cheatsheet.parent.glob("*.md") if path.name != cheatsheet.name)
+
+
 def inputs_digest(pages: list[Page], book: Path = BOOK, cheatsheet: Path = CHEATSHEET) -> str:
     digest = hashlib.sha256(Path(__file__).read_bytes())
     digest.update((book / "README.md").read_bytes())
@@ -130,6 +164,8 @@ def inputs_digest(pages: list[Page], book: Path = BOOK, cheatsheet: Path = CHEAT
         digest.update(str(page.path.relative_to(book)).encode("utf-8") + b"\0" + page.path.read_bytes())
     if cheatsheet.exists():
         digest.update(b"cheatsheet\0" + cheatsheet.read_bytes())
+    for sheet in sheets(cheatsheet):
+        digest.update(b"sheet\0" + sheet.name.encode("utf-8") + b"\0" + sheet.read_bytes())
     return digest.hexdigest()
 
 
@@ -194,6 +230,19 @@ def cheatsheet_html(cheatsheet: Path = CHEATSHEET) -> str:
             f"<style>{CHEATSHEET_CSS}</style></head><body>{result.stdout}</body></html>")
 
 
+def sheet_html(sheet: Path) -> str:
+    result = subprocess.run(["pandoc", "-f", "gfm", "-t", "html5", "--wrap=none"],
+                            input=sheet.read_text(encoding="utf-8"), capture_output=True, text=True, check=True)
+    return (f'<!doctype html><html lang="de"><head><meta charset="utf-8"><title>{sheet.stem}</title>'
+            f"<style>{SHEET_CSS}</style></head><body>{result.stdout}</body></html>")
+
+
+def sheet_date(sheet: Path) -> str:
+    """The sheet's own "checked" date, so a sheet's PDF changes only when the sheet does."""
+    dates = CHECKED_RE.findall(sheet.read_text(encoding="utf-8"))
+    return max(dates) if dates else "2026-01-01"
+
+
 def print_pdf(document: str, output: Path, date: str) -> None:
     with tempfile.TemporaryDirectory() as tmp:
         source = Path(tmp) / "grammatik.html"
@@ -243,6 +292,12 @@ def stale_reason(book: Path = BOOK, cheatsheet: Path = CHEATSHEET) -> str | None
         return "Grammatik.pdf differs from the recorded build"
     if recorded.get("cheatsheet") != hashlib.sha256(cheatsheet_pdf.read_bytes()).hexdigest():
         return f"{cheatsheet_pdf.name} differs from the recorded build"
+    for sheet in sheets(cheatsheet):
+        sheet_pdf = sheet.with_suffix(".pdf")
+        if not sheet_pdf.exists():
+            return f"{sheet_pdf.name} has not been built yet"
+        if recorded.get("sheets", {}).get(sheet.name) != hashlib.sha256(sheet_pdf.read_bytes()).hexdigest():
+            return f"{sheet_pdf.name} differs from the recorded build"
     return None
 
 
@@ -258,21 +313,24 @@ def build() -> int:
         print("Not built: fix the grammar book first (python3 docs/tools/check_grammar_book.py).")
         return 1
     pages = book_pages()
+    jobs = [(PDF, book_html(pages), updated_on(pages)), (CHEATSHEET_PDF, cheatsheet_html(), updated_on(pages))]
+    jobs += [(sheet.with_suffix(".pdf"), sheet_html(sheet), sheet_date(sheet)) for sheet in sheets()]
     built = {}
     with tempfile.TemporaryDirectory() as tmp:
-        for target, document in ((PDF, book_html(pages)), (CHEATSHEET_PDF, cheatsheet_html())):
+        for target, document, date in jobs:
             first, second = Path(tmp) / f"{target.stem}-a.pdf", Path(tmp) / f"{target.stem}-b.pdf"
-            print_pdf(document, first, updated_on(pages))
-            print_pdf(document, second, updated_on(pages))
+            print_pdf(document, first, date)
+            print_pdf(document, second, date)
             if first.read_bytes() != second.read_bytes():
                 print(f"ERROR the {target.name} build is not deterministic; nothing written")
                 return 1
             built[target] = first.read_bytes()
-    pages_needed = page_count(built[CHEATSHEET_PDF])
-    if pages_needed != 1:
-        print(f"ERROR {CHEATSHEET.relative_to(ROOT)} needs {pages_needed} pages; a cheatsheet fits on one. "
-              "Ask the learner what to shorten or split. Nothing written.")
-        return 1
+    for target in [CHEATSHEET_PDF] + [sheet.with_suffix(".pdf") for sheet in sheets()]:
+        pages_needed = page_count(built[target])
+        if pages_needed != 1:
+            print(f"ERROR {target.with_suffix('.md').relative_to(ROOT)} needs {pages_needed} pages; a cheatsheet fits "
+                  "on one. Ask the learner what to shorten or split. Nothing written.")
+            return 1
     for target, data in built.items():
         target.write_bytes(data)
     MANIFEST.write_text(json.dumps({
@@ -281,16 +339,18 @@ def build() -> int:
                        "never lag the pages.",
         "inputs": inputs_digest(pages), "pdf": hashlib.sha256(PDF.read_bytes()).hexdigest(),
         "cheatsheet": hashlib.sha256(CHEATSHEET_PDF.read_bytes()).hexdigest(),
+        "sheets": {sheet.name: hashlib.sha256(sheet.with_suffix(".pdf").read_bytes()).hexdigest() for sheet in sheets()},
         "pages": [str(page.path.relative_to(BOOK)) for page in pages], "tools": tool_versions(),
     }, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
-    print(f"{PDF.relative_to(ROOT)}: {len(pages)} pages; {CHEATSHEET_PDF.relative_to(ROOT)}: 1 page")
+    print(f"{PDF.relative_to(ROOT)}: {len(pages)} pages; {CHEATSHEET_PDF.relative_to(ROOT)}: 1 page"
+          + "".join(f"; {sheet.with_suffix('.pdf').relative_to(ROOT)}: 1 page" for sheet in sheets()))
     return 0
 
 
 def main() -> int:
     if sys.argv[1:] == ["--check"]:
         reason = stale_reason()
-        print(f"Out of date: {reason}. Run python3 docs/tools/build_grammar_pdf.py" if reason else "Both PDFs are up to date")
+        print(f"Out of date: {reason}. Run python3 docs/tools/build_grammar_pdf.py" if reason else "All PDFs are up to date")
         return 1 if reason else 0
     return build()
 

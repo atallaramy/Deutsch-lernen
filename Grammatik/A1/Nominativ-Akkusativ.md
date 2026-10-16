@@ -97,7 +97,7 @@ negation* and *Articles* (E6 L1). The genders: [Genus](Genus.md); *ein*: [Unbest
   [Do you have a house?](https://learngerman.dw.com/en/do-you-have-a-house/l-37425145/e-37431509) ·
   [Revision: Articles in the nominative](https://learngerman.dw.com/en/revision-articles-in-the-nominative/l-37425145/e-37428634) ·
   [Revision: Articles in the accusative](https://learngerman.dw.com/en/revision-articles-in-the-accusative/l-37425145/e-37429201) (E6 L1)
-- Later: DW A1 E9 L3 *The dative*; *nicht* and *kein* in DW A1 E6 L2 and E11 L1.
+- *nicht* + adjective: [Adjektive nach sein](Adjektive-nach-sein.md) (E6 L2). Later: DW A1 E9 L3 *The dative*; *nicht* or *kein* in DW A1 E11 L1.
 
 ## Sentences cards
 

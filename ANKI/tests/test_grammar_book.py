@@ -215,6 +215,8 @@ class GrammarPdf(unittest.TestCase):
     def test_cheatsheet_is_one_page(self):
         self.assertEqual(build_grammar_pdf.page_count(b"<</Type /Pages /Count 2>> <</Type /Page>> <</Type/Page>>"), 2)
         self.assertEqual(build_grammar_pdf.page_count(build_grammar_pdf.CHEATSHEET_PDF.read_bytes()), 1)
+        for sheet in build_grammar_pdf.sheets():
+            self.assertEqual(build_grammar_pdf.page_count(sheet.with_suffix(".pdf").read_bytes()), 1, sheet.name)
 
     def test_links_in_the_pdf(self):
         book = check_grammar_book.BOOK

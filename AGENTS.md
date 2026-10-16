@@ -303,7 +303,8 @@ every captured entry is covered.
   to the grammar book's page. If it no longer fits on one page, ask the learner.
 - Collect grammar pages or lessons into a printable file only when the learner
   asks. The grammar-book PDF and the grammar-words cheatsheet are the standing
-  exceptions: `build_grammar_pdf.py` rebuilds both after every lesson.
+  exceptions: `build_grammar_pdf.py` rebuilds both after every lesson, with every
+  other `Spickzettel/*.md` sheet as a one-page PDF in the learner's style.
 
 ## Open decisions and new rules
 
