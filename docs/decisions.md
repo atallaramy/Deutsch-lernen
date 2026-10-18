@@ -5,6 +5,7 @@ One line per confirmed decision, newest first. The rules they produce live in
 
 | Date | Decision |
 |---|---|
+| 2026-10-18 | The grammar-words cheatsheet (`Spickzettel/Grammatikbegriffe`) is set in two columns so it stays on one page; it outgrew one column with *das Kompositum* (E6 L3). Chosen over splitting it or dropping the examples. |
 | 2026-10-18 | Rules the learner writes in a lesson's notes (mostly for Anki) are their rules for that lesson: followed without asking, before the general rules; ask only if a check would need weakening ("they are my rules for anki for this lesson and should be listened to"). |
 | 2026-10-18 | A Vocabulary or Articles context may contain a Sentences answer (about 70 reusable script lines were blocked); a Sentences front still may not show another Sentences answer, except a reply prompt ("allow"). |
 | 2026-10-18 | *Sentences per lesson*: every lesson gets Sentences cards from the same five sources (reusable script lines, 1–2 per DW grammar page, one per table row, 1–2 exercise gaps, the teacher guide's situations); the check fails while a grammar page has no card and warns below 6 cards a lesson; applied to all old lessons ("go ahead. and of course fix the old lessons"). Replaces "a handful … none is fine", which let E5–E6 drop to 2–5 cards. |

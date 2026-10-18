@@ -89,12 +89,16 @@ body { font-family: -apple-system, "Helvetica Neue", Arial, sans-serif; font-siz
   color: #1f2328; margin: 0; }
 h1 { font-size: 18pt; color: #1f3a5f; margin: 0 0 4pt; }
 h2 { font-size: 8.5pt; letter-spacing: .12em; text-transform: uppercase; color: #8a6d1f; margin: 7pt 0 2pt; }
+.level1 { column-count: 2; column-gap: 7mm; }
+.level1 > h1 { column-span: all; }
+.level2 { break-inside: avoid; }
+.level2 > h2 { margin-top: 0; padding-top: 7pt; }
 table { border-collapse: collapse; width: 100%; table-layout: fixed; }
-table:not(:first-of-type) thead { display: none; }
-th { font-size: 8pt; color: #777; font-weight: normal; text-align: left; padding: 0 5pt 2pt; }
-td { border-top: 1px solid #dde1e6; padding: 2pt 5pt; vertical-align: top; }
-th:nth-child(1), td:nth-child(1) { width: 40%; font-weight: 600; color: #1f3a5f; }
-th:nth-child(2), td:nth-child(2) { width: 27%; }
+.level2:not(:first-of-type) thead { display: none; }
+th { font-size: 8pt; color: #777; font-weight: normal; text-align: left; padding: 0 4pt 2pt; }
+td { border-top: 1px solid #dde1e6; padding: 2pt 4pt; vertical-align: top; }
+th:nth-child(1), td:nth-child(1) { width: 37%; font-weight: 600; color: #1f3a5f; }
+th:nth-child(2), td:nth-child(2) { width: 28%; }
 td:nth-child(3) { font-style: italic; }
 """
 
@@ -235,7 +239,8 @@ def book_html(pages: list[Page]) -> str:
 
 
 def cheatsheet_html(cheatsheet: Path = CHEATSHEET) -> str:
-    result = subprocess.run(["pandoc", "-f", "gfm", "-t", "html5", "--wrap=none"],
+    # --section-divs: CHEATSHEET_CSS sets the sheet in two columns and keeps each section in one column
+    result = subprocess.run(["pandoc", "-f", "gfm", "-t", "html5", "--wrap=none", "--section-divs"],
                             input=cheatsheet.read_text(encoding="utf-8"), capture_output=True, text=True, check=True)
     return (f'<!doctype html><html lang="en"><head><meta charset="utf-8"><title>{cheatsheet.stem}</title>'
             f"<style>{CHEATSHEET_CSS}{COLOUR_CSS}</style></head><body>{result.stdout}</body></html>")
