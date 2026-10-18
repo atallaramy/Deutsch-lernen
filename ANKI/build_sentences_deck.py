@@ -112,6 +112,10 @@ def build(data: Data) -> tuple[list[Card], list[str]]:
             if learner and normalize(learner) != normalize(entry.raw["german"]):
                 details.append(f"In your notes: “{html.escape(learner)}”")
 
+        grammar_page = spec.get("grammarPage", "")
+        if grammar_page and not data.snapshots.grammar_page(grammar_page):
+            errors.append(f"{where}: grammarPage {grammar_page!r} is not a DW grammar page of a studied lesson")
+
         lesson = data.lesson(spec["lesson"])
         sources.extend(source_label(entry) for entry in covered)
         if not covered:
@@ -136,7 +140,7 @@ def build(data: Data) -> tuple[list[Card], list[str]]:
             deck="sentences", key=key, fields=fields, covers=[entry.ref for entry in covered], lessons=lessons,
             order=(lesson.order, position, spec["key"]), answer=answer, cue=spec["scene"],
             front_german=prompt["text"] if prompt_front else "", warnings=warnings, retired=spec.get("retired", ""),
-            one_off=spec.get("oneOff", False) is True,
+            one_off=spec.get("oneOff", False) is True, grammar_page=grammar_page,
             tags=sorted(tags | ({f"retired::{spec['retired']}"} if spec.get("retired") else set())),
         ))
     return cards, errors

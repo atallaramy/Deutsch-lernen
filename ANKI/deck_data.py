@@ -112,6 +112,14 @@ class Snapshots:
         haystack = self.texts.get((lesson_id, source_id))
         return haystack is not None and normalize(text) in haystack
 
+    def grammar_page(self, page_id: str) -> tuple[str, dict] | None:
+        """(lesson id, page) of a studied lesson's DW grammar page, or None."""
+        for lesson_id, pages in self.pages.items():
+            for page in pages:
+                if page["id"] == page_id and page_id.startswith("gr-"):
+                    return lesson_id, page
+        return None
+
 
 @dataclass
 class Data:
@@ -274,6 +282,7 @@ class Card:
     interferes: list[str] = field(default_factory=list)
     retired: str = ""
     one_off: bool = False  # set only when the learner asks for that card (AGENTS.md → oneOff)
+    grammar_page: str = ""  # Sentences: the DW grammar page (gr- id) this card practises
 
 
 def details_html(lines: list[str]) -> str:

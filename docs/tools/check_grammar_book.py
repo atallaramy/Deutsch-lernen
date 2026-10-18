@@ -12,6 +12,7 @@ Page conventions the check relies on (see Grammatik/README.md):
 - A table whose first column is "Person" is a conjugation table; each verb column must match Wiktionary.
 - Backticked keys under "## Sentences cards" must be live cards in ANKI/sentence-sources.json.
 - Every DW grammar page (gr-) in a studied lesson's snapshot must be linked from some topic page.
+- A Sentences card with a grammarPage is listed under "## Sentences cards" on a topic page that links that page.
 - A page's "German terms" list gives each word as in Grammatikbegriffe.md: its synonyms together
   (split by " / ") and, in parentheses, the same English cell (English and a short description).
   Every word there is in the "German terms" of the page its row links to.
@@ -372,6 +373,15 @@ def check_grammar_pages(data: deck_data.Data, linked: set[str], report: Report) 
                                      f"topic page: {page['url']}")
 
 
+def check_page_cards(cards: dict, listed: dict[str, set[str]], report: Report) -> None:
+    """A Sentences card that practises a DW grammar page is listed on a topic page that links that page."""
+    for key, card in cards.items():
+        page = card.get("grammarPage")
+        if page and not card.get("retired") and key not in listed.get(page, set()):
+            report.errors.append(f"Sentences card {key!r} practises DW grammar page {page} but is not listed under "
+                                 f"'Sentences cards' on the topic page that links it")
+
+
 def check(book: Path = BOOK, data: deck_data.Data | None = None, snapshot: Path | None = None,
           grammar_pages: bool = True, cheatsheet: Path = CHEATSHEET) -> Report:
     data = data or deck_data.load()
@@ -381,6 +391,7 @@ def check(book: Path = BOOK, data: deck_data.Data | None = None, snapshot: Path 
     report = Report()
     index = (book / "README.md").read_text(encoding="utf-8") if (book / "README.md").exists() else ""
     linked: set[str] = set()
+    listed: dict[str, set[str]] = {}  # gr- page id → card keys listed on the topic pages that link it
     glossary_path = book / GLOSSARY
     words = glossary_words(glossary_path.read_text(encoding="utf-8")) if glossary_path.exists() else {}
     report.counts["grammar words"] = len(words)
@@ -390,7 +401,11 @@ def check(book: Path = BOOK, data: deck_data.Data | None = None, snapshot: Path 
             continue
         page, where = page_path.read_text(encoding="utf-8"), str(page_path.relative_to(book))
         if page_path != glossary_path:  # its DW links stand in for topic pages not written yet
-            linked |= set(re.findall(r"/(gr-\d+)\b", " ".join(target for _, target in LINK_RE.findall(page))))
+            page_links = set(re.findall(r"/(gr-\d+)\b", " ".join(target for _, target in LINK_RE.findall(page))))
+            linked |= page_links
+            keys = set(re.findall(r"`([^`]+)`", section_text(page, "Sentences cards")))
+            for gr in page_links:
+                listed.setdefault(gr, set()).update(keys)
         report.counts["pages"] += 1
         if page_path.name != "README.md" and where not in {urllib.parse.unquote(t.strip("<>")) for _, t in LINK_RE.findall(index)}:
             report.errors.append(f"{where}: not listed in Grammatik/README.md")
@@ -414,6 +429,7 @@ def check(book: Path = BOOK, data: deck_data.Data | None = None, snapshot: Path 
         check_colour_rules(report)
     if grammar_pages:
         check_grammar_pages(data, linked, report)
+        check_page_cards(cards, listed, report)
         check_lesson_descriptions(words, lesson_descriptions(data), report)
     return report
 

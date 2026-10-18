@@ -191,8 +191,17 @@ class GrammarBook(unittest.TestCase):
     def test_every_studied_dw_grammar_page_is_linked(self):
         linked = GOOD_PAGE + "\n[haben](https://learngerman.dw.com/en/conjugation-haben/l-37265543/gr-38310825)\n"
         errors = self.errors(linked, grammar_pages=True)
-        self.assertFalse(any("gr-38310825" in error for error in errors), errors)
+        self.assertFalse(any("gr-38310825" in error and "not linked" in error for error in errors), errors)
         self.assertTrue(any("'Numbers from 11 to 19'" in error and "gr-38307006" in error for error in errors), errors)
+
+    def test_grammar_page_card_is_listed_on_the_topic_page(self):
+        data = copy.copy(self.data)
+        data.sentence_cards = [dict(card, grammarPage="gr-38310825") if card["key"] == "from-spain" else card
+                               for card in self.data.sentence_cards]
+        linked = GOOD_PAGE + "\n[haben](https://learngerman.dw.com/en/conjugation-haben/l-37265543/gr-38310825)\n"
+        self.assertFalse(any("'from-spain'" in error for error in self.errors(linked, data, grammar_pages=True)))
+        errors = self.errors(GOOD_PAGE, data, grammar_pages=True)
+        self.assertTrue(any("'from-spain' practises DW grammar page gr-38310825" in error for error in errors), errors)
 
 
 class GrammarPdf(unittest.TestCase):

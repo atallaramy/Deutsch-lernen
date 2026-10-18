@@ -127,14 +127,14 @@ this spirit.
   Herr/Frau + surname ↔ Sie/Auf Wiedersehen). Unanalysed formulas (greetings,
   thanks, *Kein Problem*) belong to Vocabulary. A DW tip the learner asks to
   keep in Anki (e.g. the *ich*/*ach* sound) gets one typed rule card here.
-  Every article table the learner studies (*der → ein → kein*, later the
-  cases) gets one table card per row: the official row with one form
-  blanked, so the system is practised a row at a time.
+  Which Sentences cards each lesson gets: *Sentences per lesson* below.
 - Quality and retrieval purpose outrank card count. Do not make two cards that
   test substantially the same recall. A source sentence may appear on the front
-  of only one card. A context must not contain another card's Sentences answer;
-  a German reply prompt is an exception, and such pairs are kept apart in
-  the new-card order.
+  of only one card. A Sentences card's German front must not contain another
+  Sentences card's answer; a German reply prompt is an exception, and such
+  pairs are kept apart in the new-card order. A Vocabulary or Articles context
+  may contain a Sentences answer: one blanked word is a different recall from
+  the whole sentence.
 - `oneOff` on a Sentences card is off by default; set it only when the learner
   asks for that specific card. Such a card may share its sentence with other
   cards (kept apart in the new-card order) and also goes into its lesson's deck.
@@ -236,9 +236,32 @@ Before adding a card, confirm all of the following:
 7. A context earns its place (usage, collocation, register or situation);
    otherwise use a bare, precise cue. No context is better than a forced one.
 
-Most short lessons contribute a handful of curated Sentences cards beyond the
-ones needed for coverage; none is fine. Vocabulary and Articles have no quotas:
-every captured entry is covered.
+Vocabulary and Articles have no quotas: every captured entry is covered.
+
+### Sentences per lesson
+
+The same five sources in every lesson:
+
+1. **Script:** every reusable line (one the learner could say elsewhere, as it
+   is or with one word swapped) gets a card: an English situation → the German
+   line, or a German line → the reply. Lines that only tell the story are
+   skipped.
+2. **Grammar pages:** each DW grammar page gets 1–2 cards from its own
+   examples, the new form blanked; `grammarPage` names the page. A card that
+   already practises the page carries its `grammarPage` instead.
+3. **Tables:** every table on a grammar page (articles, verbs, later cases)
+   gets one `table` card per row, the row's form blanked. A row is skipped when
+   another row of the table asks for the same form (*wir/sie/Sie kommen*) or a
+   card already tests it.
+4. **Exercises:** 1–2 gap cards from exercise sentences that practise the
+   lesson's grammar, when rules 2–3 do not already.
+5. **Teacher guide:** read its page 1 first; a situation it practises gets a
+   card when the script has a line for it. It gives no card text itself.
+
+`build_all.py check` fails while a DW grammar page has no card and warns when a
+lesson has fewer than 6 Sentences cards; when a lesson truly has no more, its
+record says why (`fewSentences`). For VHS, the film script and grammar
+list play the parts of the script and grammar pages.
 
 ## Grammar book (`Grammatik/`)
 

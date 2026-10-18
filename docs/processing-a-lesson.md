@@ -98,12 +98,15 @@ Which items to capture:
   - Articles contexts need the gender article directly before the noun
   - no context is better than a forced one
 - **Cues:** precise English; add a disambiguator when two cards could share an answer.
-- **Sentences** (`ANKI/sentence-sources.json`):
-  - cover every `home: sentences` entry
-  - add a few useful extras (replies, forms, register switches)
-  - an article table on a grammar page (or VHS grammar list): one `table` card
-    per row; the prompt is the row's cells as the snapshot joins them (` ¶ `),
-    one form blanked, preferably the one that is new in this lesson
+- **Sentences** (`ANKI/sentence-sources.json`), in this order (`AGENTS.md` →
+  *Sentences per lesson*):
+  1. cover every `home: sentences` entry
+  2. teacher guide page 1: note the situations it practises
+  3. script: a card for every reusable line
+  4. grammar pages: 1–2 cards each, with `grammarPage`
+  5. tables: one `table` card per row; the prompt is the row's cells as the
+     snapshot joins them (` ¶ `, e.g. `2nd person ¶ du hast`), the form blanked
+  6. exercises: 1–2 gap cards for grammar not yet practised
   - German on the front must be verbatim
   - answers must be verbatim in a snapshot or be your own captured sentence
 
@@ -181,8 +184,9 @@ after watching, more activities) and, for the unit, the activity book. Only task
 you can do alone or with Claude (a short own text, a dialogue, a role-play); skip
 class-only games and worksheets that repeat the online exercises. After the tasks,
 one line: *Activity book (unit N Title: the activity in a few words): how it works
-p. X, worksheet p. Y.* Nothing is built from them. When you do one, write your answers under the task and tell Claude;
-Claude marks it there as `AGENTS.md` → *Processing a lesson* says.
+p. X, worksheet p. Y.* Nothing is built from them. When you do one, write your
+answers under the task and tell Claude; Claude marks it there as `AGENTS.md` →
+*Processing a lesson* says.
 
 ## 9. Commit
 

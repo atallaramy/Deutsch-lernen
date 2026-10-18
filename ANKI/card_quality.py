@@ -130,7 +130,8 @@ def check(data: Data, cards: list[Card]) -> tuple[list[str], dict[str, list[str]
         if len(keys) > 1:
             errors.append(f"Same German front on several cards {keys}: {text!r}")
 
-    # A context on another card must not show a whole Sentences answer (it would prime or give that card away).
+    # A Sentences front must not show another Sentences answer (it would prime or give that card away). A Vocabulary
+    # or Articles context may: one blanked word is a different recall than the whole sentence (learner, 2026-10-18).
     def bare(text: str) -> str:
         return re.sub(r"[^\wäöüß ]+", "", normalize(text).casefold()).strip()
     sentence_answers = {bare(card.fields["Display"]): card.key for card in by_deck["sentences"]}
@@ -140,8 +141,8 @@ def check(data: Data, cards: list[Card]) -> tuple[list[str], dict[str, list[str]
             front = f" {bare(card.front_german)} "
             for answer, key in sentence_answers.items():
                 if key != card.key and len(answer.split()) >= 3 and f" {answer} " in front:
-                    if "kind::response" in card.tags or {card.key, key} & one_off:
-                        card.interferes.append(key)  # a reply prompt or a oneOff card: keep the pair apart
+                    if card.deck != "sentences" or "kind::response" in card.tags or {card.key, key} & one_off:
+                        card.interferes.append(key)  # a word context, reply prompt or oneOff card: keep the pair apart
                     else:
                         errors.append(f"{card.key}: its context contains the answer of {key}")
 
@@ -179,7 +180,30 @@ def check(data: Data, cards: list[Card]) -> tuple[list[str], dict[str, list[str]
     for key in data.articles_cards:
         if key not in article_lemmas:
             errors.append(f"articles-cards.json: {key!r} matches no Articles card")
+
+    # Every DW grammar page of a studied lesson is practised by at least one Sentences card.
+    practised = {card.grammar_page for card in by_deck["sentences"] if not card.retired}
+    for lesson in data.lessons:
+        for page in data.snapshots.pages.get(lesson.id, []):
+            if page["id"].startswith("gr-") and page["id"] not in practised:
+                errors.append(f"Grammar page {page['title'].strip()!r} of {lesson.id} has no Sentences card "
+                              f"(set grammarPage {page['id']!r} on the card that practises it; {page['url']})")
     return errors, warnings
+
+
+MIN_SENTENCES = 6  # per lesson with official sources: fewer is a warning, not a quota
+
+
+def sentence_shortfalls(data: Data, cards: list[Card]) -> list[str]:
+    """Lessons with few Sentences cards, so a drop shows at once; a lesson's `fewSentences` records why it has few."""
+    counts = defaultdict(int)
+    for card in cards:
+        if card.deck == "sentences" and not card.retired:
+            counts[card.lessons[0]] += 1
+    return [f"{lesson.id}: {counts[lesson.id]} Sentences cards (fewer than {MIN_SENTENCES}); "
+            f"check its script lines, grammar pages and exercises"
+            for lesson in data.lessons
+            if lesson.record.get("sources") and not lesson.record.get("fewSentences") and counts[lesson.id] < MIN_SENTENCES]
 
 
 def vocabulary_page_key(text: str) -> str:

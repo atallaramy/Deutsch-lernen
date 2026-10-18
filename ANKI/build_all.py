@@ -146,6 +146,8 @@ def cmd_check(data: Data, lesson: str | None = None) -> int:
         ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
     counts = {deck: sum(card.deck == deck for card in cards) for deck in DECKS}
     report(errors)
+    for shortfall in card_quality.sentence_shortfalls(data, cards):
+        print(f"WARN   {shortfall}")
     if lesson:
         show_cards(cards, warnings, lesson)
     print(f"Cards: {counts}; entries: {len(data.entries)}; pending yes/no: {len(data.pending)}")

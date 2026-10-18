@@ -81,6 +81,9 @@ class RealData(unittest.TestCase):
         errors, _ = card_quality.check(self.data, self.cards + [dup])
         self.assertTrue(any("Same German front" in error for error in errors))
 
+    def test_word_context_may_show_a_sentences_answer(self):
+        self.assertIn("sentence:where-do-you-want-to-go", self.card("vocab:Wohin?|where-to").interferes)
+
     def test_shared_sentence_passes_only_on_one_off_cards(self):
         self.assertIn("sentence:deshalb-nimmt-sie", self.card("vocab:deshalb|therefore").interferes)
         self.assertIn("sentence:deshalb-nimmt-sie-whole-clause", self.card("sentence:deshalb-nimmt-sie").interferes)
@@ -127,6 +130,34 @@ class TableRows(unittest.TestCase):
     def test_only_table_rows_may_share_a_vocabulary_answer(self):
         _, errors = self.row("completion")
         self.assertTrue(any("test-row" in error and "same target" in error for error in errors))
+
+
+class SentencesPerLesson(unittest.TestCase):
+    def test_every_studied_lesson_has_enough_sentences_cards(self):
+        data = load()
+        cards, _, _ = build_all.collect(data)
+        self.assertEqual(card_quality.sentence_shortfalls(data, cards), [])
+
+    def test_grammar_page_without_card_is_rejected(self):
+        data = load()
+        for spec in data.sentence_cards:
+            spec.pop("grammarPage", None)
+        _, errors, _ = build_all.collect(data)
+        self.assertTrue(any(error.startswith("Grammar page 'Conjugation: haben' of dw-a1-e1-l4 has no Sentences card")
+                            for error in errors))
+
+    def test_unknown_grammar_page_is_rejected(self):
+        data = load()
+        data.sentence_cards[0]["grammarPage"] = "gr-0"
+        _, errors = build_sentences_deck.build(data)
+        self.assertTrue(any("'gr-0' is not a DW grammar page" in error for error in errors))
+
+    def test_lesson_with_few_sentences_cards_warns(self):
+        data = load()
+        data.sentence_cards = [spec for spec in data.sentence_cards if spec["lesson"] != "dw-a1-e2-l3"]
+        cards, _, _ = build_all.collect(data)
+        self.assertIn("dw-a1-e2-l3: 0 Sentences cards (fewer than 6); check its script lines, grammar pages and exercises",
+                      card_quality.sentence_shortfalls(data, cards))
 
 
 class GlossRules(unittest.TestCase):
