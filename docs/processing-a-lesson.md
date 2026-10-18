@@ -42,7 +42,8 @@ Cards (`learnerForm`) and the grammar book quote your mistakes from
 ## 1. Read
 
 - Your Markdown notes for the lesson, all of it: vocabulary lists, glossed
-  items, exercise answers, errors, Anki instructions.
+  items, exercise answers, errors, and your rules for this lesson (followed
+  before the general rules: `AGENTS.md` → *Capture records*).
 - The official materials. For DW, the script/vocabulary PDF in `Materials/`
   (download it if missing), and after step 2 the vocabulary, grammar and culture
   pages in `Materials/lesson-pages.md`. For VHS, the word list, film script and grammar list

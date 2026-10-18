@@ -70,9 +70,10 @@ this spirit.
   tagged `beyond-A1` (Goethe-Zertifikat A1 word list). Other borderline items
   go to `pendingEntries` until the learner says yes or no; pending items are
   never built.
-- An Anki instruction in the learner's notes (*Add it to anki*, *should be in
-  anki as well*) is their decision: carry it out without asking, with cards
-  that pass the check.
+- A rule the learner writes in a lesson's notes (mostly for Anki: *Add it to
+  anki*, *no card for this*) is their rule for that lesson: follow it without
+  asking, before the general rules, for that lesson only. Ask only when it
+  would need a check weakened.
 - Nothing on a studied lesson's vocabulary page or grammar pages is left out.
   Every item on a DW vocabulary page is recorded in that lesson (entry, pending
   or declined), with `vocabularyPageForm` when the page writes it differently.

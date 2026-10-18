@@ -5,6 +5,7 @@ One line per confirmed decision, newest first. The rules they produce live in
 
 | Date | Decision |
 |---|---|
+| 2026-10-18 | Rules the learner writes in a lesson's notes (mostly for Anki) are their rules for that lesson: followed without asking, before the general rules; ask only if a check would need weakening ("they are my rules for anki for this lesson and should be listened to"). |
 | 2026-10-18 | A Vocabulary or Articles context may contain a Sentences answer (about 70 reusable script lines were blocked); a Sentences front still may not show another Sentences answer, except a reply prompt ("allow"). |
 | 2026-10-18 | *Sentences per lesson*: every lesson gets Sentences cards from the same five sources (reusable script lines, 1–2 per DW grammar page, one per table row, 1–2 exercise gaps, the teacher guide's situations); the check fails while a grammar page has no card and warns below 6 cards a lesson; applied to all old lessons ("go ahead. and of course fix the old lessons"). Replaces "a handful … none is fine", which let E5–E6 drop to 2–5 cards. |
 | 2026-10-18 | After a lesson's extra tasks, one line names the unit's activity-book activity and its pages ("after each extra tasks you add at the end of each lesson add one line to tell what pages are lesson related in the activity book"); added to the five lessons that already had extra tasks. |
