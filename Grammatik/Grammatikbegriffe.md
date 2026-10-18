@@ -1,6 +1,6 @@
 # Grammatikbegriffe: grammar words
 
-Every German grammar word from my studied lessons · checked 2026-10-09
+Every German grammar word from my studied lessons · checked 2026-10-18
 
 Words that mean the same share a row, split by ` / `. Each word has its English and a
 short description of what it is, in my lessons' own words where they give one; its page
@@ -34,6 +34,7 @@ words, with a short example each, are on my one-page cheatsheet
 | *der Singular* | singular: The singular is used when we are talking about one individual person or thing. | [Plural](A1/Plural.md) |
 | *der Plural* | plural: The plural is used when we are talking about several people or things. | [Plural](A1/Plural.md) |
 | *der Umlaut* | umlaut: "Ä", "Ö" and "Ü" are the three letters in German with umlauts. | [Plural](A1/Plural.md) |
+| *das Kompositum* | compound: A composite is a compound word. This word is often a noun but it can be, for example, a verb or adjective. The different components of a compound can also be different types of words. The base word determines which type of word this compound is. | [Komposita](A1/Komposita.md) |
 
 ## Verbs
 

@@ -774,6 +774,22 @@
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-27"
   },
+  "Couchtisch": {
+   "url": "https://www.dict.cc/?s=Couchtisch",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "",
+     "text": "cocktail table"
+    },
+    {
+     "pos": "",
+     "text": "coffee table"
+    }
+   ],
+   "dictionary": "dict.cc",
+   "fetchedOn": "2026-10-18"
+  },
   "Cousin": {
    "url": "https://en.wiktionary.org/wiki/Cousin#German",
    "status": 200,
@@ -899,6 +915,46 @@
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-10-04"
   },
+  "Ecke": {
+   "url": "https://en.wiktionary.org/wiki/Ecke#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "corner, edge"
+    },
+    {
+     "pos": "Noun",
+     "text": "a roughly triangular or quadrangular piece of something"
+    },
+    {
+     "pos": "Noun",
+     "text": "corner of a house / of two streets"
+    },
+    {
+     "pos": "Noun",
+     "text": "region, area, neighbourhood"
+    },
+    {
+     "pos": "Noun",
+     "text": "bit, tad"
+    },
+    {
+     "pos": "Noun",
+     "text": "vertex, node"
+    },
+    {
+     "pos": "Noun",
+     "text": "corner, corner kick"
+    },
+    {
+     "pos": "Noun",
+     "text": "one of the two areas of a goal near where the post and goalline meet; bottom or lower corner"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-18"
+  },
   "Einladung": {
    "url": "https://en.wiktionary.org/wiki/Einladung#German",
    "status": 200,
@@ -961,6 +1017,18 @@
    ],
    "dictionary": "dict.cc",
    "fetchedOn": "2026-09-28"
+  },
+  "Esstisch": {
+   "url": "https://en.wiktionary.org/wiki/Esstisch#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "table upon which meals are eaten; eating table; dinner table"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-18"
   },
   "Euro": {
    "url": "https://en.wiktionary.org/wiki/Euro#German",
@@ -1791,6 +1859,18 @@
    ],
    "fetchedOn": "2026-09-25"
   },
+  "Kinderzimmer": {
+   "url": "https://en.wiktionary.org/wiki/Kinderzimmer#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "child's room, children's room, nursery"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-18"
+  },
   "Konjugation": {
    "url": "https://en.wiktionary.org/wiki/Konjugation#German",
    "status": 200,
@@ -1859,6 +1939,30 @@
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-10-03"
   },
+  "Küchenschrank": {
+   "url": "https://en.wiktionary.org/wiki/K%C3%BCchenschrank#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "cupboard, kitchen cabinet (built-in cabinet found in a kitchen)"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-18"
+  },
+  "Küchenstuhl": {
+   "url": "https://www.dict.cc/?s=K%C3%BCchenstuhl",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "",
+     "text": "kitchen chair"
+    }
+   ],
+   "dictionary": "dict.cc",
+   "fetchedOn": "2026-10-18"
+  },
   "LKW": {
    "url": "https://en.wiktionary.org/wiki/LKW#German",
    "status": 200,
@@ -1869,6 +1973,26 @@
     }
    ],
    "fetchedOn": "2026-09-25"
+  },
+  "Lampe": {
+   "url": "https://en.wiktionary.org/wiki/Lampe#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "lamp, light (piece of furniture, or fixture mounted on a wall or ceiling, holding one or more electric light sockets)"
+    },
+    {
+     "pos": "Noun",
+     "text": "clipping of Glühlampe: bulb, light bulb (evacuated glass bulb containing a metal filament or an article that resembles such a bulb)"
+    },
+    {
+     "pos": "Proper noun",
+     "text": "personification of scut (rabbit)"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-18"
   },
   "Land": {
    "url": "https://en.wiktionary.org/wiki/Land#German",
@@ -2362,6 +2486,18 @@
    ],
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-10-03"
+  },
+  "Nachttischlampe": {
+   "url": "https://en.wiktionary.org/wiki/Nachttischlampe#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "bedside light"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-18"
   },
   "Nebenkosten": {
    "url": "https://en.wiktionary.org/wiki/Nebenkosten#German",
@@ -3124,6 +3260,42 @@
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-27"
   },
+  "Schlagzeug": {
+   "url": "https://en.wiktionary.org/wiki/Schlagzeug#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "drum set, drum kit, drums, percussion (musical instrument)"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-18"
+  },
+  "Schreibtisch": {
+   "url": "https://en.wiktionary.org/wiki/Schreibtisch#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "desk, cabinet (any table, frame, or case for the use of writers and readers; also a place for storing the papers)"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-18"
+  },
+  "Schreibtischlampe": {
+   "url": "https://en.wiktionary.org/wiki/Schreibtischlampe#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "desklamp"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-18"
+  },
   "Schwester": {
    "url": "https://en.wiktionary.org/wiki/Schwester#German",
    "status": 200,
@@ -3405,6 +3577,26 @@
    ],
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-27"
+  },
+  "Spiegelschrank": {
+   "url": "https://www.dict.cc/?s=Spiegelschrank",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "",
+     "text": "medicine cabinet"
+    },
+    {
+     "pos": "",
+     "text": "mirrored wardrobe"
+    },
+    {
+     "pos": "",
+     "text": "mirror cabinet"
+    }
+   ],
+   "dictionary": "dict.cc",
+   "fetchedOn": "2026-10-18"
   },
   "Spinnst du": {
    "url": "https://www.dict.cc/?s=Spinnst+du",
@@ -3754,6 +3946,18 @@
    ],
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-27"
+  },
+  "Tankstelle": {
+   "url": "https://en.wiktionary.org/wiki/Tankstelle#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "gas station"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-18"
   },
   "Tante": {
    "url": "https://en.wiktionary.org/wiki/Tante#German",
@@ -4159,6 +4363,22 @@
    ],
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-28"
+  },
+  "Wand": {
+   "url": "https://en.wiktionary.org/wiki/Wand#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "wall, partition"
+    },
+    {
+     "pos": "Noun",
+     "text": "vertical face of a precipice, any large vertical surface"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-18"
   },
   "Was ist los": {
    "url": "https://www.dict.cc/?s=Was+ist+los",
@@ -4768,6 +4988,54 @@
    ],
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-27"
+  },
+  "an": {
+   "url": "https://en.wiktionary.org/wiki/an#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Preposition",
+     "text": "on, upon, at, in, against"
+    },
+    {
+     "pos": "Preposition",
+     "text": "by, near, close to, next to"
+    },
+    {
+     "pos": "Preposition",
+     "text": "on; in; at"
+    },
+    {
+     "pos": "Preposition",
+     "text": "a, per, only used with the word Tag (“day”), otherwise use in"
+    },
+    {
+     "pos": "Preposition",
+     "text": "on, onto"
+    },
+    {
+     "pos": "Preposition",
+     "text": "at, against"
+    },
+    {
+     "pos": "Preposition",
+     "text": "to, for"
+    },
+    {
+     "pos": "Preposition",
+     "text": "of, on, in, for, about"
+    },
+    {
+     "pos": "Adverb",
+     "text": "onward; on"
+    },
+    {
+     "pos": "Adjective",
+     "text": "on"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-18"
   },
   "anfangen": {
    "url": "https://en.wiktionary.org/wiki/anfangen#German",
@@ -5481,6 +5749,18 @@
    ],
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-10-03"
+  },
+  "deswegen": {
+   "url": "https://en.wiktionary.org/wiki/deswegen#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Adverb",
+     "text": "therefore, because of that"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-18"
   },
   "deutsch": {
    "url": "https://en.wiktionary.org/wiki/deutsch#German",
@@ -7279,6 +7559,18 @@
    ],
    "fetchedOn": "2026-09-25"
   },
+  "leider": {
+   "url": "https://en.wiktionary.org/wiki/leider#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Adverb",
+     "text": "unfortunately"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-18"
+  },
   "lesen": {
    "url": "https://en.wiktionary.org/wiki/lesen#German",
    "status": 200,
@@ -7685,6 +7977,26 @@
    ],
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-10-04"
+  },
+  "natürlich": {
+   "url": "https://en.wiktionary.org/wiki/nat%C3%BCrlich#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Adjective",
+     "text": "natural, normal"
+    },
+    {
+     "pos": "Adverb",
+     "text": "naturally"
+    },
+    {
+     "pos": "Adverb",
+     "text": "of course, obviously"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-18"
   },
   "nehmen": {
    "url": "https://en.wiktionary.org/wiki/nehmen#German",

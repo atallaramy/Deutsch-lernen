@@ -4731,6 +4731,215 @@
    },
    "covers": [],
    "note": "gemütlich ↔ ungemütlich"
+  },
+  {
+   "key": "you-are-wolfgang-right",
+   "kind": "production",
+   "lesson": "dw-a1-e6-l3",
+   "skill": "check: …, oder?",
+   "scene": "A candidate for the room arrives. Check that he is Wolfgang (du), then add “right?”.",
+   "answer": "Du bist Wolfgang, oder?",
+   "answerSource": {
+    "lesson": "dw-a1-e6-l3",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "…, oder? = …, right?"
+  },
+  {
+   "key": "reply-everyone-calls-me-wolf",
+   "kind": "response",
+   "lesson": "dw-a1-e6-l3",
+   "skill": "reply: alle sagen …",
+   "scene": "You are Wolfgang. Say yes, but everyone just calls you Wolf.",
+   "prompt": {
+    "lesson": "dw-a1-e6-l3",
+    "source": "script",
+    "text": "Du bist Wolfgang, oder?"
+   },
+   "answer": "Ja, aber alle sagen nur Wolf.",
+   "answerSource": {
+    "lesson": "dw-a1-e6-l3",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "alle = everyone: alle sagen (plural verb)"
+  },
+  {
+   "key": "the-table-isnt-nice",
+   "kind": "production",
+   "lesson": "dw-a1-e6-l3",
+   "skill": "spoken German: noun, then der again",
+   "scene": "Pointing at the table (der Tisch), say it isn't nice. Name it first, then pick it up again with der.",
+   "answer": "Der Tisch, der ist nicht schön.",
+   "answerSource": {
+    "lesson": "dw-a1-e6-l3",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "Spoken style: Der Tisch, der ist … = Der Tisch ist … · nicht comes right before the adjective"
+  },
+  {
+   "key": "cupboard-far-too-big",
+   "kind": "completion",
+   "lesson": "dw-a1-e6-l3",
+   "skill": "zu + adjective: viel zu",
+   "scene": "The cupboard is far too big. Type the missing words.",
+   "prompt": {
+    "lesson": "dw-a1-e6-l3",
+    "source": "script",
+    "text": "Die Stühle sind alt und der Schrank ist viel zu groß.",
+    "target": "viel zu groß"
+   },
+   "answer": "viel zu groß",
+   "covers": [],
+   "grammarPage": "gr-38303864",
+   "note": "zu groß = too big (not good) · viel zu groß = far too big"
+  },
+  {
+   "key": "the-house-is-too-small",
+   "kind": "completion",
+   "lesson": "dw-a1-e6-l3",
+   "skill": "zu + adjective",
+   "scene": "The house is nice, but it is too small for you. Type the missing words.",
+   "prompt": {
+    "lesson": "dw-a1-e6-l3",
+    "source": "exercises",
+    "text": "Das Haus ist schön. Aber es ist zu klein.",
+    "target": "zu klein"
+   },
+   "answer": "zu klein",
+   "covers": [],
+   "grammarPage": "gr-38303864",
+   "note": "zu + adjective = more than is good for you: zu klein, zu groß, zu teuer"
+  },
+  {
+   "key": "reply-not-too-big-too-small",
+   "kind": "response",
+   "lesson": "dw-a1-e6-l3",
+   "skill": "nicht zu + adjective",
+   "scene": "Disagree: the house isn't too big, it's too small. (Three short sentences.)",
+   "prompt": {
+    "lesson": "dw-a1-e6-l3",
+    "source": "exercises",
+    "text": "Das Haus ist zu groß."
+   },
+   "answer": "Nein. Das Haus ist nicht zu groß. Das Haus ist zu klein.",
+   "answerSource": {
+    "lesson": "dw-a1-e6-l3",
+    "source": "exercises"
+   },
+   "covers": [],
+   "note": "nicht zu groß = not too big"
+  },
+  {
+   "key": "reply-wolf-finds-living-room-too-square",
+   "kind": "response",
+   "lesson": "dw-a1-e6-l3",
+   "skill": "finden: give an opinion",
+   "scene": "Answer: Wolf finds the living room too bourgeois (spießig).",
+   "prompt": {
+    "lesson": "dw-a1-e6-l3",
+    "source": "exercises",
+    "text": "Wie findet Wolf das Wohnzimmer?"
+   },
+   "answer": "Wolf findet das Wohnzimmer zu spießig.",
+   "answerSource": {
+    "lesson": "dw-a1-e6-l3",
+    "source": "exercises"
+   },
+   "covers": [],
+   "note": "finden here = to think (an opinion): Wie findest du …? – Ich finde … zu …"
+  },
+  {
+   "key": "sofa-against-the-wall",
+   "kind": "production",
+   "lesson": "dw-a1-e6-l3",
+   "skill": "an die Wand: where to",
+   "scene": "Planning the living room: say we'll put the sofa (das Sofa) there against the wall. Start with “Das Sofa, das”.",
+   "answer": "Das Sofa, das stellen wir da an die Wand.",
+   "answerSource": {
+    "lesson": "dw-a1-e6-l3",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "stellen = to put (standing up) · an die Wand = against the wall"
+  },
+  {
+   "key": "thats-great-doch",
+   "kind": "production",
+   "lesson": "dw-a1-e6-l3",
+   "skill": "doch for emphasis",
+   "scene": "Your flatmates don't look convinced. Say: but that's great! Use doch and super.",
+   "answer": "Das ist doch super.",
+   "answerSource": {
+    "lesson": "dw-a1-e6-l3",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "doch makes it stronger: Das ist super → Das ist doch super."
+  },
+  {
+   "key": "then-we-can-jam-together",
+   "kind": "production",
+   "lesson": "dw-a1-e6-l3",
+   "skill": "können + infinitive at the end",
+   "scene": "Suggest to your flatmates: then we can jam (play music) together. Start with Dann.",
+   "answer": "Dann können wir zusammen jammen.",
+   "answerSource": {
+    "lesson": "dw-a1-e6-l3",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "Dann takes position 1, so the verb comes next: können wir … jammen"
+  },
+  {
+   "key": "well-get-in-touch-du",
+   "kind": "production",
+   "lesson": "dw-a1-e6-l3",
+   "skill": "sich melden bei",
+   "scene": "End a flat viewing with a candidate (du): we'll get in touch with you, OK? End with “ja?”.",
+   "answer": "Wir melden uns bei dir, ja?",
+   "answerSource": {
+    "lesson": "dw-a1-e6-l3",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "sich melden bei = to get in touch with · bei dir (du) · bei Ihnen (Sie)"
+  },
+  {
+   "key": "compound-schlafzimmerschrank",
+   "kind": "table",
+   "lesson": "dw-a1-e6-l3",
+   "skill": "compound nouns: the last noun gives the article",
+   "scene": "Build the compound noun with its article. The last noun decides the article.",
+   "prompt": {
+    "lesson": "dw-a1-e6-l3",
+    "source": "exercises",
+    "text": "das Schlafzimmer + der Schrank: ¶ der Schlafzimmerschrank",
+    "target": "der Schlafzimmerschrank"
+   },
+   "answer": "der Schlafzimmerschrank",
+   "covers": [],
+   "grammarPage": "gr-38304035",
+   "note": "der Schrank → der Schlafzimmerschrank"
+  },
+  {
+   "key": "compound-tankstelle",
+   "kind": "table",
+   "lesson": "dw-a1-e6-l3",
+   "skill": "compound nouns: the last noun gives the article",
+   "scene": "Build the compound noun with its article. The first part can be a verb; the last noun decides the article.",
+   "prompt": {
+    "lesson": "dw-a1-e6-l3",
+    "source": "exercises",
+    "text": "tanken + die Stelle: ¶ die Tankstelle",
+    "target": "die Tankstelle"
+   },
+   "answer": "die Tankstelle",
+   "covers": [],
+   "grammarPage": "gr-38304035",
+   "note": "die Stelle → die Tankstelle (petrol station)"
   }
  ]
 }

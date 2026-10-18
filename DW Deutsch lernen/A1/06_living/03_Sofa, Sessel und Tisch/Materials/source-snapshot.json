@@ -1,0 +1,628 @@
+{
+ "description": "Official source text captured by ANKI/harvest_sources.py for offline context verification.",
+ "harvestedOn": "2026-10-18",
+ "sources": [
+  {
+   "id": "exercises",
+   "kind": "dw-exercises",
+   "url": "https://learngerman.dw.com/en/sofa-sessel-und-tisch/l-37438475",
+   "lessonUrl": "https://learngerman.dw.com/en/sofa-sessel-und-tisch/l-37438475",
+   "vocabulary": {
+    "url": "https://learngerman.dw.com/en/sofa-sessel-und-tisch/l-37438475/lv",
+    "items": [
+     {
+      "id": 37365265,
+      "german": "arbeiten",
+      "english": "to work",
+      "forms": "arbeitet, arbeitete, hat gearbeitet"
+     },
+     {
+      "id": 37768545,
+      "german": "bequem",
+      "english": "comfortable",
+      "forms": "bequemer, am bequemsten"
+     },
+     {
+      "id": 37525997,
+      "german": "das Bett, die Betten",
+      "english": "bed",
+      "forms": ""
+     },
+     {
+      "id": 37526008,
+      "german": "das Bild, die Bilder",
+      "english": "picture",
+      "forms": ""
+     },
+     {
+      "id": 37526010,
+      "german": "das Bücherregal, die Bücherregale",
+      "english": "bookcase; bookshelf",
+      "forms": ""
+     },
+     {
+      "id": 37526062,
+      "german": "der Bürostuhl, die Bürostühle",
+      "english": "office chair",
+      "forms": ""
+     },
+     {
+      "id": 37526106,
+      "german": "die Couch, die Couches",
+      "english": "couch",
+      "forms": "alternativer Plural: die Couchen"
+     },
+     {
+      "id": 37526118,
+      "german": "der Fernseher, die Fernseher",
+      "english": "television",
+      "forms": ""
+     },
+     {
+      "id": 37743418,
+      "german": "finden",
+      "english": "to find",
+      "forms": "findet, fand, hat gefunden"
+     },
+     {
+      "id": 37526133,
+      "german": "die Gardine, die Gardinen",
+      "english": "curtain; drapes",
+      "forms": ""
+     },
+     {
+      "id": 37526362,
+      "german": "der Herd, die Herde",
+      "english": "stove",
+      "forms": ""
+     },
+     {
+      "id": 42682806,
+      "german": "das Kissen, die Kissen",
+      "english": "cushion; pillow",
+      "forms": ""
+     },
+     {
+      "id": 37526383,
+      "german": "der Kleiderschrank, die Kleiderschränke",
+      "english": "closet; wardrobe",
+      "forms": ""
+     },
+     {
+      "id": 37395355,
+      "german": "der Kühlschrank, die Kühlschränke",
+      "english": "refrigerator; fridge; ice box",
+      "forms": ""
+     },
+     {
+      "id": 37395230,
+      "german": "die Lampe, die Lampen",
+      "english": "lamp",
+      "forms": ""
+     },
+     {
+      "id": 40024258,
+      "german": "das Möbel, die Möbel",
+      "english": "furniture",
+      "forms": "meist im Plural"
+     },
+     {
+      "id": 42682920,
+      "german": "der Nachttisch, die Nachttische",
+      "english": "bedside table; nightstand",
+      "forms": ""
+     },
+     {
+      "id": 37526403,
+      "german": "das Regal, die Regale",
+      "english": "(book) shelf; storage rack",
+      "forms": ""
+     },
+     {
+      "id": 37526407,
+      "german": "der Schrank, die Schränke",
+      "english": "cabinet; wardrobe",
+      "forms": ""
+     },
+     {
+      "id": 37526430,
+      "german": "der Schreibtisch, die Schreibtische",
+      "english": "desk",
+      "forms": ""
+     },
+     {
+      "id": 37526431,
+      "german": "der Schreibtischstuhl, die Schreibtischstühle",
+      "english": "desk chair",
+      "forms": ""
+     },
+     {
+      "id": 37527078,
+      "german": "der Sessel, die Sessel",
+      "english": "armchair; easy chair",
+      "forms": ""
+     },
+     {
+      "id": 37527196,
+      "german": "das Sofa, die Sofas",
+      "english": "sofa; couch",
+      "forms": ""
+     },
+     {
+      "id": 37529360,
+      "german": "der Spiegel, die Spiegel",
+      "english": "mirror",
+      "forms": ""
+     },
+     {
+      "id": 37529481,
+      "german": "spießig",
+      "english": "bourgeois; square",
+      "forms": "spießiger, am spießigsten"
+     },
+     {
+      "id": 37529551,
+      "german": "die Spüle, die Spülen",
+      "english": "kitchen sink",
+      "forms": ""
+     },
+     {
+      "id": 37742591,
+      "german": "stehen",
+      "english": "to stand; to be",
+      "forms": "steht, stand, hat gestanden"
+     },
+     {
+      "id": 37529736,
+      "german": "die Stehlampe, die Stehlampen",
+      "english": "floor lamp",
+      "forms": ""
+     },
+     {
+      "id": 37529739,
+      "german": "der Stuhl, die Stühle",
+      "english": "chair",
+      "forms": ""
+     },
+     {
+      "id": 37529748,
+      "german": "der Teppich, die Teppiche",
+      "english": "carpet",
+      "forms": ""
+     },
+     {
+      "id": 37529770,
+      "german": "der Tisch, die Tische",
+      "english": "table",
+      "forms": ""
+     },
+     {
+      "id": 42680986,
+      "german": "unbequem",
+      "english": "uncomfortable",
+      "forms": "unbequemer, am unbequemsten"
+     },
+     {
+      "id": 37530427,
+      "german": "die Waschmaschine, die Waschmaschinen",
+      "english": "washer",
+      "forms": ""
+     },
+     {
+      "id": 37530513,
+      "german": "zu",
+      "english": "too",
+      "forms": ""
+     }
+    ]
+   },
+   "exercises": [
+    {
+     "id": "e-37443116",
+     "url": "https://learngerman.dw.com/en/a-room-in-a-hotel/l-37438475/e-37443116",
+     "title": "A room in a hotel",
+     "texts": [
+      "Bett",
+      "Stehlampe",
+      "Schreibtisch",
+      "Sessel",
+      "Teppich",
+      "Spiegel",
+      "1. das #p#\n2. der Kleiderschrank\n3. die #p#\n4. der #p#\n5. der Schreibtischstuhl\n6. der #p#\n7. der #p#\n8. der #p#",
+      "Schreib die passenden Nomen in die Lücken.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37442131",
+     "url": "https://learngerman.dw.com/en/compounds-and-articles/l-37438475/e-37442131",
+     "title": "Compounds and articles",
+     "texts": [
+      "das",
+      "der",
+      "der",
+      "Schreib den passenden Artikel in die Lücke.",
+      "die Bücher + das Regal = #ps# Bücherregal",
+      "Schreib den passenden Artikel in die Lücke.",
+      "der Spiegel + der Schrank = #ps# Spiegelschrank",
+      "Schreib den passenden Artikel in die Lücke.",
+      "das Büro + der Stuhl = #ps# Bürostuhl"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37442044",
+     "url": "https://learngerman.dw.com/en/compounds/l-37438475/e-37442044",
+     "title": "Compounds",
+     "texts": [
+      "Ein Bücherregal ist ein Regal.\n\"Bücherregal\" is a compound word.\n\"Regal\" is the root word.\nThe root word at the end of the compound determines:\n1. gender: masculine, feminine, or neuter\n2. number: singular or plural",
+      "die",
+      "das",
+      "das",
+      "#p# Bücher + #p# Regal = #p# Bücherregal",
+      "Wähl die passenden Artikel in der richtigen Reihenfolge aus.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37445161",
+     "url": "https://learngerman.dw.com/en/describing-rooms/l-37438475/e-37445161",
+     "title": "Describing rooms",
+     "texts": [
+      "das Schlafzimmer",
+      "Play audio",
+      "zu laut, zu hell",
+      "der Schrank",
+      "Play audio",
+      "zu alt, zu klein",
+      "das Wohnzimmer",
+      "Play audio",
+      "zu klein, zu dunkel",
+      "das Sofa",
+      "Play audio",
+      "zu unbequem"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37438617",
+     "url": "https://learngerman.dw.com/en/furniture-and-interior-design-1/l-37438475/e-37438617",
+     "title": "Furniture and interior design (1)",
+     "texts": [
+      "Deutschkurse | Nicos Weg | A1 E06 | A1_E06_L3_S2_Foto1",
+      "Deutschkurse | Nicos Weg | A1 E06 | A1_E06_L3_S2_Foto2",
+      "Deutschkurse | Nicos Weg | A1 E06 | A1_E06_L3_S2_Foto3",
+      "Deutschkurse | Nicos Weg | A1 E06 | A1_E06_L3_S2_Foto4",
+      "Deutschkurse | Nicos Weg | A1 E06 | A1_E06_L3_S2_Foto5",
+      "Deutschkurse | Nicos Weg | A1 E06 | A1_E06_L3_S2_Foto6",
+      "Deutschkurse | Nicos Weg | A1 E06 | A1_E06_L3_S5_Foto2",
+      "Was passt zusammen? Ordne zu.",
+      "Tip: Words belonging to the same thematic area are best learned together.",
+      "der Schrank",
+      "das Bett",
+      "der Sessel",
+      "das Sofa",
+      "der Teppich",
+      "die Lampe",
+      "der Stuhl"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37438858",
+     "url": "https://learngerman.dw.com/en/furniture-and-interior-design-2/l-37438475/e-37438858",
+     "title": "Furniture and interior design (2)",
+     "texts": [
+      "Wohnzimmer",
+      "Sessel",
+      "Bilder",
+      "Schlafzimmer",
+      "Betten",
+      "Spiegel",
+      "Arbeitszimmer",
+      "Stühle",
+      "Bücherregal",
+      "Unser #p# ist sehr schön. Wir haben ein großes Sofa, zwei #p# und einen Tisch. Drei Teppiche und vier #p# machen das Wohnzimmer sehr gemütlich. Oder nicht?",
+      "Was passt wo?",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "Hier ist unser #p#. Unser Schrank ist sehr groß und die zwei #p# sind sehr gemütlich. Ich liebe auch die drei #p#.",
+      "Was passt wo?",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "Und das ist unser #p#. Hier arbeiten mein Mann und ich zusammen. Wir haben zwei Schreibtische und natürlich zwei #p#. Drei Stehlampen machen das Zimmer sehr hell. Wir haben viele Bücher. Die sind im #p#.",
+      "Was passt wo?",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37444270",
+     "url": "https://learngerman.dw.com/en/indicating-intensity-with-zu/l-37438475/e-37444270",
+     "title": "Indicating intensity with \"zu\"",
+     "texts": [
+      "Wolf spricht nach der Wohnungsbesichtigung mit Ben – einem Freund.\nBen fragt: „Und? Ist die Wohnung cool?“\nWolf antwortet: „Das Wohnzimmer ist zu spießig. Da kann man nicht chillen und auch nicht jammen. Die Möbel sind alt. Die Küche finde ich nicht so schön. Sie ist zu dunkel.“",
+      "Wolf findet das Wohnzimmer zu spießig.",
+      "zu dunkel.",
+      "Wie findet Wolf das Wohnzimmer?",
+      "Info: Decor is described as \"spießig\", when it comes across as traditional and not modern or creative.",
+      "Die Küche findet Wolf …"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37439257",
+     "url": "https://learngerman.dw.com/en/nico-is-learning-german-talking-about-furniture-rooms/l-37438475/e-37439257",
+     "title": "Nico is learning German: Talking about furniture/rooms",
+     "texts": [
+      "Der Tisch und die Stühle stehen in der Küche.",
+      "Der Tisch ist schön und die Stühle sind bequem.",
+      "New words: You can wash dirty clothing in a \"Waschmaschine\" (wash machine). Normally a wash machine is in the basement, bathroom or in the kitchen.",
+      "In der Küche stehen auch eine Waschmaschine und ein Kühlschrank.",
+      "Die Waschmaschine ist alt und der Kühlschrank ist neu."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37443075",
+     "url": "https://learngerman.dw.com/en/rooms-and-interior-design/l-37438475/e-37443075",
+     "title": "Rooms and interior design",
+     "texts": [
+      "Spüle",
+      "Sessel",
+      "Bett",
+      "Bücherregal",
+      "Küche: Esstisch, Küchenstuhl , Küchenschrank, #p#, Kühlschrank\nWohnzimmer: Sofa/Couch, #p# , Couchtisch, Fernseher, Teppich\nSchlafzimmer: #p#, Nachttisch, Kleiderschrank, Nachttischlampe\nArbeitszimmer: Schreibtisch , Schreibtischstuhl, Schreibtischlampe, #p#",
+      "Wähl die fehlenden Wörter in der passenden Reihenfolge aus.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37439181",
+     "url": "https://learngerman.dw.com/en/talking-about-objects-in-the-living-room/l-37438475/e-37439181",
+     "title": "Talking about objects in the living room",
+     "texts": [
+      "nicht",
+      "alt",
+      "groß",
+      "Der Tisch da ist #p# schön. Die Stühle sind #p# und der Schrank ist viel zu #p#.",
+      "Wähl die fehlenden Wörter in der richtigen Reihenfolge aus.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37445086",
+     "url": "https://learngerman.dw.com/en/the-kitchen-is-too-small/l-37438475/e-37445086",
+     "title": "The kitchen is too small",
+     "texts": [
+      "Beispiel: groß – klein\nMann: Das Haus ist zu groß.\nFrau: Nein. Das Haus ist nicht zu groß. Das Haus ist zu klein.",
+      "Play audio",
+      "klein – groß",
+      "Play audio",
+      "teuer – billig",
+      "Play audio",
+      "lang – kurz"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37438553",
+     "url": "https://learngerman.dw.com/en/the-next-candidate-for-the-room/l-37438475/e-37438553",
+     "title": "The next candidate for the room",
+     "texts": [
+      "das Wohnzimmer",
+      "Welches Zimmer sieht Wolfgang?"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37444500",
+     "url": "https://learngerman.dw.com/en/the-word-zu-adjective-1/l-37438475/e-37444500",
+     "title": "The word \"zu\" + adjective (1)",
+     "texts": [
+      "-",
+      "zu",
+      "-",
+      "zu",
+      "-",
+      "zu",
+      "Wir zahlen 700 Euro Miete für unsere Wohnung. Das ist #p# teuer, aber nicht #p# teuer für zwei Personen. Unser Wohnzimmer ist groß und #p# hell, hier sind zwei Fenster. Aber der Flur ist #p# dunkel, deswegen sind hier drei Stehlampen. Die Wohnung ist #p# schön, aber wir suchen jetzt eine neue Wohnung. Wir brauchen bald ein Kinderzimmer. Die Wohnung ist dann #p# klein.",
+      "Wähl für jede Lücke das richtige Wort aus.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37444749",
+     "url": "https://learngerman.dw.com/en/the-word-zu-adjective-2/l-37438475/e-37444749",
+     "title": "The word \"zu\" + adjective (2)",
+     "texts": [
+      "zu",
+      "klein",
+      "zu",
+      "lang",
+      "Der Stuhl ist #p# #p#.",
+      "Schreib die richtigen Wörter in die Lücken.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "Die Gardine ist #p# #p#.",
+      "Schreib die richtigen Wörter in die Lücken.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37998670",
+     "url": "https://learngerman.dw.com/en/understanding-room-descriptions-1/l-37438475/e-37998670",
+     "title": "Understanding room descriptions (1)",
+     "texts": [
+      "Deutschkurse | Nicos Weg | A1_E06_L3_S14_Foto2",
+      "Deutschkurse | Nicos Weg | A1_E06_L3_S14_Foto4",
+      "Unsere Küche ist sehr hell. Das Fenster hier ist groß und man sieht den Garten. Wir haben einen Herd, eine Spüle und einen großen Kühlschrank. Leider ist hier kein Platz für einen Esstisch und Stühle.",
+      "New words: Nowadays a “Herd” (stove or stove top) is an electronic stovetop with four cooking plates that you can prepare food on.",
+      "Die Kinder haben ein schönes Kinderzimmer. Sie schlafen hier zusammen und haben zwei Betten, einen Kleiderschrank, eine Stehlampe und leider nur einen Schreibtisch und einen Stuhl für zwei."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37998949",
+     "url": "https://learngerman.dw.com/en/understanding-room-descriptions-2/l-37438475/e-37998949",
+     "title": "Understanding room descriptions (2)",
+     "texts": [
+      "Deutschkurse | Nicos Weg | A1_E06_L3_S15_Foto1",
+      "Deutschkurse | Nicos Weg | A1_E06_L3_S15_Foto4",
+      "Welches Bild passt?",
+      "Welches Bild passt?"
+     ],
+     "vocabularyTags": []
+    }
+   ],
+   "pages": [
+    {
+     "id": "rs-40224593",
+     "url": "https://learngerman.dw.com/en/in-the-living-room/l-37438475/rs-40224593",
+     "title": "In the living room",
+     "texts": [
+      "In the living room",
+      "Most people in Germany like to spend a lot of time in their house or apartment, so they like it to be comfortable and attractive, and a pleasant place to be – especially the living room. Most Germans spend a lot of money furnishing their living rooms. There's usually a couch, one or two armchairs and a small table. Nearly everyone also has a television and stereo in their living room, and often there are also bookshelves, a carpet and of course indoor plants."
+     ],
+     "html": "\n\n<p>Most people in Germany like to spend a lot of time in their house or apartment, so they like it to be comfortable and attractive, and a pleasant place to be – especially the living room. Most Germans spend a lot of money furnishing their living rooms. There's usually a couch, one or two armchairs and a small table. Nearly everyone also has a television and stereo in their living room, and often there are also bookshelves, a carpet and of course indoor plants.</p>\n"
+    },
+    {
+     "id": "gr-38304035",
+     "url": "https://learngerman.dw.com/en/word-formation-compounds/l-37438475/gr-38304035",
+     "title": "Word formation: compounds",
+     "texts": [
+      "Word formation: compounds",
+      "Compounds\nIn German you can combine two or more nouns to make a new word with a different meaning. You can find many such \"composites\" that have become part of German vocabulary.\nA compound noun consists of one base noun that always comes at the end of the combination and one or more further determining words that help to explain the base noun in more detail. The article of the base noun is also the article of the compound noun.\nLook at a few compounds that can be formed from the basic word Schrank, together with different modifiers:\nder Spiegel + der Schrank:\nder Spiegelschrank\n(a cupboard with mirrored doors)\ndie Küche + der Schrank:\nder Küchenschrank*\n(a cupboard that stands in the kitchen)\ndas Schlafzimmer + der Schrank:\nder Schlafzimmerschrank\n(a cupboard that stands in the bedroom)\ndie Bücher + der Schrank:\nder Bücherschrank\n(a cupboard used to keep books)\n*When a word is made up of two or more nouns, a sound may be added between the defining word and the base word. After -e (e.g. Küche) this is often an -n. In many cases an –s is used, sometimes also -es, ­-ens or -er. Since you usually do not form compound nouns yourself, but learn them like other words, you do not need to learn the rules for this.\nThe defining word is often a noun, although it can also be a verb or an adjective, e.g.:\nschlafen + das Zimmer:\ndas Schlafzimmer\ntanken + die Stelle:\ndie Tankstelle\nhoch + das Haus:\ndas Hochhaus\nGrammatical terms in German:\ndas Kompositum: A composite is a compound word. This word is often a noun but it can be, for example, a verb or adjective. The different components of a compound can also be different types of words. The base word determines which type of word this compound is."
+     ],
+     "html": "<p><strong>Compounds</strong></p>\n\n<p>In German you can combine two or more nouns to make a new word with a different meaning. You can find many such \"composites\"&#160;that have become part of German vocabulary.</p>\n\n<p>A compound noun consists of one base noun that always comes at the end of the combination&#160;and one or more further determining words that help to explain the base noun in more detail. The article of the base noun is also the article of the compound noun.</p>\n\n<p>Look at a few compounds that can be formed from the basic word Schrank, together with different modifiers:</p>\n\n<p>der Spiegel + <strong>der Schrank</strong>:<br>\n<strong><em>der</em></strong><em> Spiegel<strong>schrank</strong></em><br>\n(a cupboard with mirrored doors)</p>\n\n<p><em>die Küche + <strong>der</strong> <strong>Schrank</strong>: </em><br>\n<strong><em>der</em></strong><em> Küchen<strong>schrank</strong></em><em>*</em><br>\n(a cupboard that stands in the kitchen)</p>\n\n<p><em>das Schlafzimmer + <strong>der</strong> <strong>Schrank</strong>: </em><br>\n<strong><em>der</em></strong><em> Schlafzimmer<strong>schrank</strong></em><br>\n(a cupboard that stands in the bedroom)</p>\n\n<p><em>die Bücher + <strong>der</strong> <strong>Schrank</strong>: </em><br>\n<strong><em>der</em></strong><em> Bücher<strong>schrank</strong></em><br>\n(a cupboard used to keep books)</p>\n\n<p>*When a word is made up of two or more nouns, a sound may be&#160;added between the defining word and the base word. After <em>-e</em> (e.g. <em>Küche</em>) this is often an <em>-n</em>. In many cases an <em>–s </em>&#160;is used, sometimes also&#160;<em>-es</em>, ­<em>-ens</em> or <em>-er</em>. Since you usually do not form compound nouns yourself, but learn them like other words, you do not need to learn the rules for this.</p>\n\n<p>&#160;</p>\n\n<p>The defining word is often a noun, although it can also be a verb or an adjective, e.g.:</p>\n\n<p><em>schlafen + <strong>das</strong> <strong>Zimmer:</strong><br>\n<strong>das</strong> Schlaf<strong>zimmer</strong></em></p>\n\n<p><em>tanken + <strong>die</strong> <strong>Stelle:</strong><br>\n<strong>die</strong> Tank<strong>stelle</strong></em></p>\n\n<p><em>hoch + <strong>das</strong> <strong>Haus:</strong><br>\n<strong>das</strong> Hoch<strong>haus</strong></em></p>\n\n<p>&#160;</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>Grammatical terms in German:</p>\n\t\t\tdas Kompositum: A composite is a compound word. This word is often a noun but it can be, for example, a verb or adjective. The different components of a compound can also be different types of words. The base word determines which type of word this compound is.</td>\n\t\t</tr>\n\t</tbody>\n</table>\n"
+    },
+    {
+     "id": "gr-38303864",
+     "url": "https://learngerman.dw.com/en/zu-adjective-1/l-37438475/gr-38303864",
+     "title": "zu + adjective (1)",
+     "texts": [
+      "zu + adjective (1)",
+      "Image:\nA woman, a man, a girl and a boy smile at the camera.\nWir suchen ein Haus mit vier Zimmern, Küche und Bad.\nImage:\nA red log cabin on a field.\nDas Haus ist schön. Aber es ist zu klein.\nImage:\nA large white villa with garden.\nDas Haus ist schön. Aber es ist zu groß. Und es ist zu teuer!\nBy using zu + adjective you can indicate that you find the amount, the size or the intensity of something not good or not right. That means that you consider something unsuitable or unacceptable.\nDas Haus ist zu teuer.\nThis can mean:\n1. The price of the house is unreasonably high.\n2. The price is reasonable, but I do not have enough money to buy the house."
+     ],
+     "html": "<p>Image:</p><ul><li>A woman, a man, a girl and a boy smile at the camera.</li></ul><p></p>\n\n<p><em>Wir suchen ein Haus mit vier Zimmern, Küche und Bad.</em></p>\n\n<p>Image:</p><ul><li>A red log cabin on a field.</li></ul><p></p>\n\n<p><em>Das Haus ist schön. Aber es ist <strong>zu klein</strong>.</em></p>\n\n<p>Image:</p><ul><li>A large white villa with garden.</li></ul>\n\n<p><em>Das Haus ist schön. Aber es ist <strong>zu groß</strong>. Und es ist <strong>zu teuer</strong>!</em></p>\n\n<p>&#160;</p>\n\n<p>By using <em>zu</em> + adjective you can indicate that you find the amount, the size or the intensity of something not good or not right. That means that you consider something unsuitable or unacceptable.</p>\n\n<p><em>Das Haus ist <strong>zu</strong> teuer.</em></p>\n\n<p>This can mean:</p>\n\n<p>1. The price of the house is unreasonably high.</p>\n\n<p>2. The price is reasonable, but I do not have enough money to buy the house.</p>\n"
+    }
+   ]
+  },
+  {
+   "id": "script",
+   "kind": "dw-script-pdf",
+   "url": "https://learngerman.dw.com/downloads/52719964/nicos-weg-a1-e6-l3-manuskript-und-wortschatz-englisch.pdf",
+   "localFile": "DW Deutsch lernen/A1/06_living/03_Sofa, Sessel und Tisch/Materials/Script and vocabulary (English).pdf",
+   "sha256": "b354ed5495a888e12bac52a5669cad8bfc3df4af4fa7e2f4da72fb9e52647689",
+   "lines": [
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "(6) Living | Sofa, Sessel und Tisch",
+    "The next applicant, Wolfgang, arrives. When he comes into the living room,",
+    "he has lots of ideas about setting it up differently. Would he be a good fit in",
+    "the shared apartment?",
+    "Script",
+    "WOLFGANG:",
+    "Hi, Mädels.",
+    "LISA:",
+    "Du bist Wolfgang, oder?",
+    "WOLFGANG:",
+    "Ja, aber alle sagen nur Wolf.",
+    "SEBASTIAN:",
+    "Hi, Wolf.",
+    "WOLFGANG:",
+    "Nice. Das ist das Wohnzimmer, hm?",
+    "NAWIN:",
+    "Ja, genau.",
+    "WOLFGANG:",
+    "Der Tisch, der ist nicht schön. Die Stühle sind alt und der Schrank ist viel zu groß.",
+    "Das Sofa, das stellen wir da an die Wand. Und in die Ecke kommt mein Schlagzeug, die",
+    "Drums. Das ist doch super. Dann können wir zusammen jammen. Und da in die Ecke …",
+    "Teppiche, wir brauchen viele Teppiche, Lampen und Kissen – zum Chillen.",
+    "LISA:",
+    "Wir melden uns bei dir, ja?",
+    "WOLFGANG:",
+    "Ja ...",
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "LISA:",
+    "Wow.",
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "Vocabulary (from script and lesson)",
+    "arbeiten – to work",
+    "arbeitet, arbeitete, hat gearbeitet",
+    "bequem – comfortable",
+    "bequemer, am bequemsten",
+    "das Bett, die Betten – bed",
+    "das Bild, die Bilder – picture",
+    "das Bücherregal, die Bücherregale – bookcase; bookshelf",
+    "der Bürostuhl, die Bürostühle – office chair",
+    "die Couch, die Couches – couch",
+    "alternativer Plural: die Couchen",
+    "der Fernseher, die Fernseher – television",
+    "finden – to find",
+    "findet, fand, hat gefunden",
+    "die Gardine, die Gardinen – curtain; drapes",
+    "der Herd, die Herde – stove",
+    "das Kissen, die Kissen – cushion; pillow",
+    "der Kleiderschrank, die Kleiderschränke – closet; wardrobe",
+    "der Kühlschrank, die Kühlschränke – refrigerator; fridge; ice box",
+    "die Lampe, die Lampen – lamp",
+    "das Möbel, die Möbel – furniture",
+    "meist im Plural",
+    "der Nachttisch, die Nachttische – bedside table; nightstand",
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "das Regal, die Regale – (book) shelf; storage rack",
+    "der Schrank, die Schränke – cabinet; wardrobe",
+    "der Schreibtisch, die Schreibtische – desk",
+    "der Schreibtischstuhl, die Schreibtischstühle – desk chair",
+    "der Sessel, die Sessel – armchair; easy chair",
+    "das Sofa, die Sofas – sofa; couch",
+    "der Spiegel, die Spiegel – mirror",
+    "spießig – bourgeois; square",
+    "spießiger, am spießigsten",
+    "die Spüle, die Spülen – kitchen sink",
+    "stehen – to stand; to be",
+    "steht, stand, hat gestanden",
+    "die Stehlampe, die Stehlampen – floor lamp",
+    "der Stuhl, die Stühle – chair",
+    "der Teppich, die Teppiche – carpet",
+    "der Tisch, die Tische – table",
+    "unbequem – uncomfortable",
+    "unbequemer, am unbequemsten",
+    "die Waschmaschine, die Waschmaschinen – washer",
+    "zu – too"
+   ]
+  }
+ ]
+}

@@ -3347,6 +3347,199 @@
    "article:Stadtzentrum|n",
    "vocab:Stadtzentrum|city-centre"
   ],
+  "dw-a1-e6-l3:arbeiten": [
+   "vocab:arbeiten|to-work"
+  ],
+  "dw-a1-e6-l3:bequem": [
+   "vocab:bequem|comfortable"
+  ],
+  "dw-a1-e6-l3:das-bett": [
+   "article:Bett|n",
+   "vocab:Bett|bed"
+  ],
+  "dw-a1-e6-l3:das-bild": [
+   "article:Bild|n",
+   "vocab:Bild|picture"
+  ],
+  "dw-a1-e6-l3:das-buecherregal": [
+   "article:Bücherregal|n",
+   "vocab:Bücherregal|bookcase"
+  ],
+  "dw-a1-e6-l3:der-buerostuhl": [
+   "article:Bürostuhl|m",
+   "vocab:Bürostuhl|office-chair"
+  ],
+  "dw-a1-e6-l3:die-couch": [
+   "article:Couch|f",
+   "vocab:Couch|couch"
+  ],
+  "dw-a1-e6-l3:der-fernseher": [
+   "article:Fernseher|m",
+   "vocab:Fernseher|television"
+  ],
+  "dw-a1-e6-l3:finden": [
+   "vocab:finden|to-find"
+  ],
+  "dw-a1-e6-l3:die-gardine": [
+   "article:Gardine|f",
+   "vocab:Gardine|curtain"
+  ],
+  "dw-a1-e6-l3:der-herd": [
+   "article:Herd|m",
+   "vocab:Herd|stove"
+  ],
+  "dw-a1-e6-l3:das-kissen": [
+   "article:Kissen|n",
+   "vocab:Kissen|cushion"
+  ],
+  "dw-a1-e6-l3:der-kleiderschrank": [
+   "article:Kleiderschrank|m",
+   "vocab:Kleiderschrank|wardrobe"
+  ],
+  "dw-a1-e6-l3:der-kuehlschrank": [
+   "article:Kühlschrank|m",
+   "vocab:Kühlschrank|refrigerator"
+  ],
+  "dw-a1-e6-l3:die-lampe": [
+   "article:Lampe|f",
+   "vocab:Lampe|lamp"
+  ],
+  "dw-a1-e6-l3:das-moebel": [
+   "article:Möbel|n",
+   "vocab:Möbel|furniture"
+  ],
+  "dw-a1-e6-l3:der-nachttisch": [
+   "article:Nachttisch|m",
+   "vocab:Nachttisch|bedside-table"
+  ],
+  "dw-a1-e6-l3:das-regal": [
+   "article:Regal|n",
+   "vocab:Regal|shelf"
+  ],
+  "dw-a1-e6-l3:der-schrank": [
+   "article:Schrank|m",
+   "vocab:Schrank|cabinet"
+  ],
+  "dw-a1-e6-l3:der-schreibtisch": [
+   "article:Schreibtisch|m",
+   "vocab:Schreibtisch|desk"
+  ],
+  "dw-a1-e6-l3:der-schreibtischstuhl": [
+   "article:Schreibtischstuhl|m",
+   "vocab:Schreibtischstuhl|desk-chair"
+  ],
+  "dw-a1-e6-l3:der-sessel": [
+   "article:Sessel|m",
+   "vocab:Sessel|armchair"
+  ],
+  "dw-a1-e6-l3:das-sofa": [
+   "article:Sofa|n",
+   "vocab:Sofa|sofa"
+  ],
+  "dw-a1-e6-l3:der-spiegel": [
+   "article:Spiegel|m",
+   "vocab:Spiegel|mirror"
+  ],
+  "dw-a1-e6-l3:spiessig": [
+   "vocab:spießig|bourgeois"
+  ],
+  "dw-a1-e6-l3:die-spuele": [
+   "article:Spüle|f",
+   "vocab:Spüle|kitchen-sink"
+  ],
+  "dw-a1-e6-l3:stehen": [
+   "vocab:stehen|to-stand"
+  ],
+  "dw-a1-e6-l3:die-stehlampe": [
+   "article:Stehlampe|f",
+   "vocab:Stehlampe|floor-lamp"
+  ],
+  "dw-a1-e6-l3:der-stuhl": [
+   "article:Stuhl|m",
+   "vocab:Stuhl|chair"
+  ],
+  "dw-a1-e6-l3:der-teppich": [
+   "article:Teppich|m",
+   "vocab:Teppich|carpet"
+  ],
+  "dw-a1-e6-l3:der-tisch": [
+   "article:Tisch|m",
+   "vocab:Tisch|table"
+  ],
+  "dw-a1-e6-l3:unbequem": [
+   "vocab:unbequem|uncomfortable"
+  ],
+  "dw-a1-e6-l3:die-waschmaschine": [
+   "article:Waschmaschine|f",
+   "vocab:Waschmaschine|washer"
+  ],
+  "dw-a1-e6-l3:zu": [
+   "vocab:zu|too"
+  ],
+  "dw-a1-e6-l3:die-ecke": [
+   "article:Ecke|f",
+   "vocab:Ecke|corner"
+  ],
+  "dw-a1-e6-l3:die-wand": [
+   "article:Wand|f",
+   "vocab:Wand|wall"
+  ],
+  "dw-a1-e6-l3:an": [
+   "vocab:an|against"
+  ],
+  "dw-a1-e6-l3:das-schlagzeug": [
+   "article:Schlagzeug|n",
+   "vocab:Schlagzeug|drum-kit"
+  ],
+  "dw-a1-e6-l3:der-platz": [
+   "article:Platz|m",
+   "vocab:Platz|space"
+  ],
+  "dw-a1-e6-l3:leider": [
+   "vocab:leider|unfortunately"
+  ],
+  "dw-a1-e6-l3:natuerlich": [
+   "vocab:natürlich|of-course"
+  ],
+  "dw-a1-e6-l3:deswegen": [
+   "vocab:deswegen|therefore"
+  ],
+  "dw-a1-e6-l3:das-kinderzimmer": [
+   "article:Kinderzimmer|n",
+   "vocab:Kinderzimmer|childs-room"
+  ],
+  "dw-a1-e6-l3:der-esstisch": [
+   "article:Esstisch|m",
+   "vocab:Esstisch|dining-table"
+  ],
+  "dw-a1-e6-l3:der-kuechenstuhl": [
+   "article:Küchenstuhl|m",
+   "vocab:Küchenstuhl|kitchen-chair"
+  ],
+  "dw-a1-e6-l3:der-kuechenschrank": [
+   "article:Küchenschrank|m",
+   "vocab:Küchenschrank|kitchen-cupboard"
+  ],
+  "dw-a1-e6-l3:der-couchtisch": [
+   "article:Couchtisch|m",
+   "vocab:Couchtisch|coffee-table"
+  ],
+  "dw-a1-e6-l3:die-nachttischlampe": [
+   "article:Nachttischlampe|f",
+   "vocab:Nachttischlampe|bedside-lamp"
+  ],
+  "dw-a1-e6-l3:die-schreibtischlampe": [
+   "article:Schreibtischlampe|f",
+   "vocab:Schreibtischlampe|desk-lamp"
+  ],
+  "dw-a1-e6-l3:der-spiegelschrank": [
+   "article:Spiegelschrank|m",
+   "vocab:Spiegelschrank|mirrored-cabinet"
+  ],
+  "dw-a1-e6-l3:die-tankstelle": [
+   "article:Tankstelle|f",
+   "vocab:Tankstelle|petrol-station"
+  ],
   "vhs-a1-l02:die-familie": [
    "article:Familie|f",
    "vocab:Familie|family"

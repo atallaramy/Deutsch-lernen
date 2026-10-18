@@ -26,6 +26,7 @@
 | der Singular | singular (one) | der Stift |
 | der Plural | plural (more) | die Stifte |
 | der Umlaut | umlaut | das Haus → die Häuser |
+| das Kompositum | compound | der Spiegelschrank |
 
 ## Verbs
 

@@ -19,7 +19,7 @@ German terms:
 5. In the plural every noun takes **die**: *der Saft → die Säfte*, *das Bier → die Biere*
    (DW vocabulary list).
 6. In my lessons, a compound noun takes the gender of its last part:
-   *der Saft → der Apfelsaft, der Orangensaft*.
+   *der Saft → der Apfelsaft, der Orangensaft*. More: [Komposita](Komposita.md).
 7. With the plural the verb changes too: *Wo **ist** der Stift?* → *Wo **sind** die Stifte?*
 8. Use the definite article for a thing or person the listener already knows:
    *Wo ist die Brille?* means Lisa's own glasses, not just any glasses.

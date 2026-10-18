@@ -1,6 +1,6 @@
 {
  "schemaVersion": 3,
- "revision": "2026-10-18T17:00:00Z",
+ "revision": "2026-10-18T20:00:00Z",
  "policy": "Faithful capture of what the learner studied: official lesson glossaries, useful words and phrases from the official scripts and exercises, and items from the learner's notes. Official spelling is canonical; the learner's spelling is kept as learnerForm. Nothing captured is removed. pendingEntries wait for the learner's yes/no and are never built; declinedEntries record a learner's no.",
  "courses": [
   {
@@ -15158,6 +15158,854 @@
         "dw-exercises"
        ],
        "level": "beyond-A1",
+       "home": "vocabulary"
+      }
+     ],
+     "pendingEntries": [],
+     "declinedEntries": []
+    },
+    {
+     "id": "dw-a1-e6-l3",
+     "legacyId": null,
+     "level": "A1",
+     "title": "Sofa, Sessel und Tisch",
+     "unit": 6,
+     "lesson": 3,
+     "url": "https://learngerman.dw.com/en/sofa-sessel-und-tisch/l-37438475",
+     "notesFile": "DW Deutsch lernen/A1/06_living/03_Sofa, Sessel und Tisch/Sofa Sessel und Tisch.md",
+     "lessonDeck": {
+      "file": "DW Deutsch lernen/A1/06_living/03_Sofa, Sessel und Tisch/DW A1 E6L3 Sofa, Sessel und Tisch - Vocabulary.apkg",
+      "deck": "A1::DW::Lessons::E6 L3 Sofa, Sessel und Tisch"
+     },
+     "snapshot": "DW Deutsch lernen/A1/06_living/03_Sofa, Sessel und Tisch/Materials/source-snapshot.json",
+     "sources": [
+      {
+       "id": "script",
+       "kind": "dw-script-pdf",
+       "url": "https://learngerman.dw.com/downloads/52719964/nicos-weg-a1-e6-l3-manuskript-und-wortschatz-englisch.pdf",
+       "localFile": "DW Deutsch lernen/A1/06_living/03_Sofa, Sessel und Tisch/Materials/Script and vocabulary (English).pdf"
+      },
+      {
+       "id": "exercises",
+       "kind": "dw-exercises",
+       "url": "https://learngerman.dw.com/en/sofa-sessel-und-tisch/l-37438475"
+      }
+     ],
+     "entries": [
+      {
+       "id": "arbeiten",
+       "german": "arbeiten",
+       "english": "to work",
+       "pos": "verb",
+       "lemma": "arbeiten",
+       "sense": "to-work",
+       "forms": "arbeitet, arbeitete, hat gearbeitet",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "bequem",
+       "german": "bequem",
+       "english": "comfortable",
+       "pos": "word",
+       "lemma": "bequem",
+       "sense": "comfortable",
+       "forms": "bequemer, am bequemsten",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-bett",
+       "german": "das Bett",
+       "english": "bed",
+       "pos": "noun",
+       "lemma": "Bett",
+       "sense": "bed",
+       "plural": "die Betten",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-bild",
+       "german": "das Bild",
+       "english": "picture",
+       "pos": "noun",
+       "lemma": "Bild",
+       "sense": "picture",
+       "plural": "die Bilder",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-buecherregal",
+       "german": "das Bücherregal",
+       "english": "bookcase; bookshelf",
+       "pos": "noun",
+       "lemma": "Bücherregal",
+       "sense": "bookcase",
+       "plural": "die Bücherregale",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-buerostuhl",
+       "german": "der Bürostuhl",
+       "english": "office chair",
+       "pos": "noun",
+       "lemma": "Bürostuhl",
+       "sense": "office-chair",
+       "plural": "die Bürostühle",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-couch",
+       "german": "die Couch",
+       "english": "couch",
+       "pos": "noun",
+       "lemma": "Couch",
+       "sense": "couch",
+       "plural": "die Couches",
+       "note": "alternativer Plural: die Couchen",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-fernseher",
+       "german": "der Fernseher",
+       "english": "television",
+       "pos": "noun",
+       "lemma": "Fernseher",
+       "sense": "television",
+       "plural": "die Fernseher",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "finden",
+       "german": "finden",
+       "english": "to find",
+       "pos": "verb",
+       "lemma": "finden",
+       "sense": "to-find",
+       "forms": "findet, fand, hat gefunden",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-gardine",
+       "german": "die Gardine",
+       "english": "curtain; drapes",
+       "pos": "noun",
+       "lemma": "Gardine",
+       "sense": "curtain",
+       "plural": "die Gardinen",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-herd",
+       "german": "der Herd",
+       "english": "stove",
+       "pos": "noun",
+       "lemma": "Herd",
+       "sense": "stove",
+       "plural": "die Herde",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "learnerForm": "der herd",
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-kissen",
+       "german": "das Kissen",
+       "english": "cushion; pillow",
+       "pos": "noun",
+       "lemma": "Kissen",
+       "sense": "cushion",
+       "plural": "die Kissen",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-kleiderschrank",
+       "german": "der Kleiderschrank",
+       "english": "closet; wardrobe",
+       "pos": "noun",
+       "lemma": "Kleiderschrank",
+       "sense": "wardrobe",
+       "plural": "die Kleiderschränke",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-kuehlschrank",
+       "german": "der Kühlschrank",
+       "english": "refrigerator; fridge; ice box",
+       "pos": "noun",
+       "lemma": "Kühlschrank",
+       "sense": "refrigerator",
+       "plural": "die Kühlschränke",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-lampe",
+       "german": "die Lampe",
+       "english": "lamp",
+       "pos": "noun",
+       "lemma": "Lampe",
+       "sense": "lamp",
+       "plural": "die Lampen",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-moebel",
+       "german": "das Möbel",
+       "english": "furniture",
+       "pos": "noun",
+       "lemma": "Möbel",
+       "sense": "furniture",
+       "plural": "die Möbel",
+       "note": "meist im Plural",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-nachttisch",
+       "german": "der Nachttisch",
+       "english": "bedside table; nightstand",
+       "pos": "noun",
+       "lemma": "Nachttisch",
+       "sense": "bedside-table",
+       "plural": "die Nachttische",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-regal",
+       "german": "das Regal",
+       "english": "(book) shelf; storage rack",
+       "pos": "noun",
+       "lemma": "Regal",
+       "sense": "shelf",
+       "plural": "die Regale",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-schrank",
+       "german": "der Schrank",
+       "english": "cabinet; wardrobe",
+       "pos": "noun",
+       "lemma": "Schrank",
+       "sense": "cabinet",
+       "plural": "die Schränke",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "dw-grammar-page",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-schreibtisch",
+       "german": "der Schreibtisch",
+       "english": "desk",
+       "pos": "noun",
+       "lemma": "Schreibtisch",
+       "sense": "desk",
+       "plural": "die Schreibtische",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "learnerForm": "der Schreibtish",
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-schreibtischstuhl",
+       "german": "der Schreibtischstuhl",
+       "english": "desk chair",
+       "pos": "noun",
+       "lemma": "Schreibtischstuhl",
+       "sense": "desk-chair",
+       "plural": "die Schreibtischstühle",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-sessel",
+       "german": "der Sessel",
+       "english": "armchair; easy chair",
+       "pos": "noun",
+       "lemma": "Sessel",
+       "sense": "armchair",
+       "plural": "die Sessel",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-sofa",
+       "german": "das Sofa",
+       "english": "sofa; couch",
+       "pos": "noun",
+       "lemma": "Sofa",
+       "sense": "sofa",
+       "plural": "die Sofas",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-spiegel",
+       "german": "der Spiegel",
+       "english": "mirror",
+       "pos": "noun",
+       "lemma": "Spiegel",
+       "sense": "mirror",
+       "plural": "die Spiegel",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "dw-grammar-page",
+        "learner-notes"
+       ],
+       "learnerForm": "der Spegel",
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "spiessig",
+       "german": "spießig",
+       "english": "bourgeois; square",
+       "pos": "word",
+       "lemma": "spießig",
+       "sense": "bourgeois",
+       "forms": "spießiger, am spießigsten",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-spuele",
+       "german": "die Spüle",
+       "english": "kitchen sink",
+       "pos": "noun",
+       "lemma": "Spüle",
+       "sense": "kitchen-sink",
+       "plural": "die Spülen",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "stehen",
+       "german": "stehen",
+       "english": "to stand; to be",
+       "pos": "verb",
+       "lemma": "stehen",
+       "sense": "to-stand",
+       "forms": "steht, stand, hat gestanden",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-stehlampe",
+       "german": "die Stehlampe",
+       "english": "floor lamp",
+       "pos": "noun",
+       "lemma": "Stehlampe",
+       "sense": "floor-lamp",
+       "plural": "die Stehlampen",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-stuhl",
+       "german": "der Stuhl",
+       "english": "chair",
+       "pos": "noun",
+       "lemma": "Stuhl",
+       "sense": "chair",
+       "plural": "die Stühle",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-teppich",
+       "german": "der Teppich",
+       "english": "carpet",
+       "pos": "noun",
+       "lemma": "Teppich",
+       "sense": "carpet",
+       "plural": "die Teppiche",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-tisch",
+       "german": "der Tisch",
+       "english": "table",
+       "pos": "noun",
+       "lemma": "Tisch",
+       "sense": "table",
+       "plural": "die Tische",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "unbequem",
+       "german": "unbequem",
+       "english": "uncomfortable",
+       "pos": "word",
+       "lemma": "unbequem",
+       "sense": "uncomfortable",
+       "forms": "unbequemer, am unbequemsten",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-waschmaschine",
+       "german": "die Waschmaschine",
+       "english": "washer",
+       "pos": "noun",
+       "lemma": "Waschmaschine",
+       "sense": "washer",
+       "plural": "die Waschmaschinen",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "zu",
+       "german": "zu",
+       "english": "too",
+       "pos": "word",
+       "lemma": "zu",
+       "sense": "too",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "dw-grammar-page",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-ecke",
+       "german": "die Ecke",
+       "english": "corner",
+       "pos": "noun",
+       "lemma": "Ecke",
+       "sense": "corner",
+       "plural": "die Ecken",
+       "origin": [
+        "dw-script",
+        "learner-notes"
+       ],
+       "genderEvidence": "https://de.wiktionary.org/wiki/Ecke (Genus f, Plural Ecken); Goethe A1 Wortliste: die Ecke, -n",
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-wand",
+       "german": "die Wand",
+       "english": "wall",
+       "pos": "noun",
+       "lemma": "Wand",
+       "sense": "wall",
+       "plural": "die Wände",
+       "origin": [
+        "dw-script",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "genderEvidence": "https://de.wiktionary.org/wiki/Wand (Genus f, Plural Wände)",
+       "home": "vocabulary"
+      },
+      {
+       "id": "an",
+       "german": "an",
+       "english": "against (a wall)",
+       "pos": "word",
+       "lemma": "an",
+       "sense": "against",
+       "origin": [
+        "dw-script",
+        "learner-notes"
+       ],
+       "glossLookup": [
+        "an"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-schlagzeug",
+       "german": "das Schlagzeug",
+       "english": "drum kit; drums",
+       "pos": "noun",
+       "lemma": "Schlagzeug",
+       "sense": "drum-kit",
+       "plural": "die Schlagzeuge",
+       "origin": [
+        "dw-script",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "genderEvidence": "https://de.wiktionary.org/wiki/Schlagzeug (Genus n, Plural Schlagzeuge)",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-platz",
+       "german": "der Platz",
+       "english": "space; room",
+       "pos": "noun",
+       "lemma": "Platz",
+       "sense": "space",
+       "plural": "die Plätze",
+       "origin": [
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "leider",
+       "german": "leider",
+       "english": "unfortunately",
+       "pos": "word",
+       "lemma": "leider",
+       "sense": "unfortunately",
+       "origin": [
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "learnerForm": "Leiber",
+       "home": "vocabulary"
+      },
+      {
+       "id": "natuerlich",
+       "german": "natürlich",
+       "english": "of course; naturally",
+       "pos": "word",
+       "lemma": "natürlich",
+       "sense": "of-course",
+       "origin": [
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "deswegen",
+       "german": "deswegen",
+       "english": "therefore; that's why",
+       "pos": "word",
+       "lemma": "deswegen",
+       "sense": "therefore",
+       "origin": [
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-kinderzimmer",
+       "german": "das Kinderzimmer",
+       "english": "child's room",
+       "pos": "noun",
+       "lemma": "Kinderzimmer",
+       "sense": "childs-room",
+       "plural": "die Kinderzimmer",
+       "origin": [
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "learnerForm": "das Kindzimmer",
+       "level": "beyond-A1",
+       "genderEvidence": "https://de.wiktionary.org/wiki/Kinderzimmer (Genus n, Plural Kinderzimmer)",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-esstisch",
+       "german": "der Esstisch",
+       "english": "dinner table",
+       "pos": "noun",
+       "lemma": "Esstisch",
+       "sense": "dining-table",
+       "plural": "die Esstische",
+       "origin": [
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "genderEvidence": "https://de.wiktionary.org/wiki/Esstisch (Genus m, Plural Esstische)",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-kuechenstuhl",
+       "german": "der Küchenstuhl",
+       "english": "kitchen chair",
+       "pos": "noun",
+       "lemma": "Küchenstuhl",
+       "sense": "kitchen-chair",
+       "plural": "die Küchenstühle",
+       "origin": [
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "genderEvidence": "https://de.wiktionary.org/wiki/Küchenstuhl (Genus m, Plural Küchenstühle)",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-kuechenschrank",
+       "german": "der Küchenschrank",
+       "english": "kitchen cupboard",
+       "pos": "noun",
+       "lemma": "Küchenschrank",
+       "sense": "kitchen-cupboard",
+       "plural": "die Küchenschränke",
+       "origin": [
+        "dw-exercises",
+        "dw-grammar-page",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "genderEvidence": "https://de.wiktionary.org/wiki/Küchenschrank (Genus m, Plural Küchenschränke)",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-couchtisch",
+       "german": "der Couchtisch",
+       "english": "coffee table",
+       "pos": "noun",
+       "lemma": "Couchtisch",
+       "sense": "coffee-table",
+       "plural": "die Couchtische",
+       "origin": [
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "genderEvidence": "https://de.wiktionary.org/wiki/Couchtisch (Genus m, Plural Couchtische)",
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-nachttischlampe",
+       "german": "die Nachttischlampe",
+       "english": "bedside lamp",
+       "pos": "noun",
+       "lemma": "Nachttischlampe",
+       "sense": "bedside-lamp",
+       "plural": "die Nachttischlampen",
+       "origin": [
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "genderEvidence": "https://de.wiktionary.org/wiki/Nachttischlampe (Genus f, Plural Nachttischlampen)",
+       "home": "vocabulary",
+       "glossLookup": [
+        "Nachttischlampe",
+        "Lampe"
+       ]
+      },
+      {
+       "id": "die-schreibtischlampe",
+       "german": "die Schreibtischlampe",
+       "english": "desk lamp",
+       "pos": "noun",
+       "lemma": "Schreibtischlampe",
+       "sense": "desk-lamp",
+       "plural": "die Schreibtischlampen",
+       "origin": [
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "genderEvidence": "https://de.wiktionary.org/wiki/Schreibtischlampe (Genus f, Plural Schreibtischlampen)",
+       "home": "vocabulary",
+       "glossLookup": [
+        "Schreibtisch",
+        "Lampe"
+       ]
+      },
+      {
+       "id": "der-spiegelschrank",
+       "german": "der Spiegelschrank",
+       "english": "mirrored cabinet",
+       "pos": "noun",
+       "lemma": "Spiegelschrank",
+       "sense": "mirrored-cabinet",
+       "plural": "die Spiegelschränke",
+       "origin": [
+        "dw-exercises",
+        "dw-grammar-page",
+        "learner-notes"
+       ],
+       "learnerForm": "der Spegelschrank",
+       "level": "beyond-A1",
+       "genderEvidence": "https://de.wiktionary.org/wiki/Spiegelschrank (Genus m, Plural Spiegelschränke)",
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-tankstelle",
+       "german": "die Tankstelle",
+       "english": "petrol station; gas station",
+       "pos": "noun",
+       "lemma": "Tankstelle",
+       "sense": "petrol-station",
+       "plural": "die Tankstellen",
+       "origin": [
+        "dw-grammar-page"
+       ],
+       "level": "beyond-A1",
+       "genderEvidence": "https://de.wiktionary.org/wiki/Tankstelle (Genus f, Plural Tankstellen)",
        "home": "vocabulary"
       }
      ],

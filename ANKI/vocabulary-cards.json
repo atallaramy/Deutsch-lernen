@@ -3646,6 +3646,212 @@
    "interferesWith": [
     "Zentrum|city-centre"
    ]
+  },
+  "arbeiten|to-work": {
+   "context": {
+    "lesson": "dw-a1-e6-l3",
+    "source": "exercises",
+    "text": "Hier arbeiten mein Mann und ich zusammen.",
+    "target": "arbeiten"
+   }
+  },
+  "bequem|comfortable": {
+   "cue": "comfortable (to sit on)",
+   "context": {
+    "lesson": "dw-a1-e6-l3",
+    "source": "exercises",
+    "text": "Der Tisch ist schön und die Stühle sind bequem.",
+    "target": "bequem"
+   }
+  },
+  "Bücherregal|bookcase": {
+   "context": {
+    "lesson": "dw-a1-e6-l3",
+    "source": "exercises",
+    "text": "Ein Bücherregal ist ein Regal.",
+    "target": "Bücherregal"
+   }
+  },
+  "Couch|couch": {
+   "cue": "couch (the word borrowed from English)",
+   "interferesWith": [
+    "Sofa|sofa"
+   ]
+  },
+  "Sofa|sofa": {
+   "cue": "sofa",
+   "context": {
+    "lesson": "dw-a1-e6-l3",
+    "source": "exercises",
+    "text": "Wir haben ein großes Sofa",
+    "target": "Sofa"
+   },
+   "interferesWith": [
+    "Couch|couch"
+   ]
+  },
+  "Herd|stove": {
+   "context": {
+    "lesson": "dw-a1-e6-l3",
+    "source": "exercises",
+    "text": "Wir haben einen Herd, eine Spüle und einen großen Kühlschrank.",
+    "target": "Herd"
+   }
+  },
+  "Kissen|cushion": {
+   "context": {
+    "lesson": "dw-a1-e6-l3",
+    "source": "script",
+    "text": "wir brauchen viele Teppiche, Lampen und Kissen",
+    "target": "Kissen"
+   }
+  },
+  "Kleiderschrank|wardrobe": {
+   "cue": "wardrobe (for clothes)",
+   "interferesWith": [
+    "Schrank|cabinet"
+   ]
+  },
+  "Schrank|cabinet": {
+   "cue": "cupboard; cabinet (the general word)",
+   "context": {
+    "lesson": "dw-a1-e6-l3",
+    "source": "exercises",
+    "text": "Unser Schrank ist sehr groß",
+    "target": "Schrank"
+   },
+   "interferesWith": [
+    "Kleiderschrank|wardrobe"
+   ]
+  },
+  "Möbel|furniture": {
+   "context": {
+    "lesson": "dw-a1-e6-l3",
+    "source": "exercises",
+    "text": "Die Möbel sind alt.",
+    "target": "Möbel"
+   }
+  },
+  "spießig|bourgeois": {
+   "context": {
+    "lesson": "dw-a1-e6-l3",
+    "source": "exercises",
+    "text": "Wolf findet das Wohnzimmer zu spießig.",
+    "target": "spießig"
+   }
+  },
+  "stehen|to-stand": {
+   "cue": "to stand (of furniture: to be in a place)",
+   "context": {
+    "lesson": "dw-a1-e6-l3",
+    "source": "exercises",
+    "text": "In der Küche stehen auch eine Waschmaschine und ein Kühlschrank.",
+    "target": "stehen"
+   }
+  },
+  "Tisch|table": {
+   "context": {
+    "lesson": "dw-a1-e6-l3",
+    "source": "script",
+    "text": "Der Tisch, der ist nicht schön.",
+    "target": "Tisch"
+   }
+  },
+  "unbequem|uncomfortable": {
+   "cue": "uncomfortable (to sit on)",
+   "context": {
+    "lesson": "dw-a1-e6-l3",
+    "source": "exercises",
+    "text": "zu unbequem",
+    "target": "unbequem"
+   },
+   "interferesWith": [
+    "ungemütlich|uncomfortable"
+   ]
+  },
+  "Waschmaschine|washer": {
+   "context": {
+    "lesson": "dw-a1-e6-l3",
+    "source": "exercises",
+    "text": "Die Waschmaschine ist alt und der Kühlschrank ist neu.",
+    "target": "Waschmaschine"
+   }
+  },
+  "zu|too": {
+   "cue": "too (more than is good)",
+   "context": {
+    "lesson": "dw-a1-e6-l3",
+    "source": "exercises",
+    "text": "Sie ist zu dunkel.",
+    "target": "zu"
+   },
+   "interferesWith": [
+    "zu|to-towards"
+   ]
+  },
+  "Ecke|corner": {
+   "context": {
+    "lesson": "dw-a1-e6-l3",
+    "source": "script",
+    "text": "Und in die Ecke kommt mein Schlagzeug, die Drums.",
+    "target": "Ecke"
+   }
+  },
+  "an|against": {
+   "cue": "against (a wall)",
+   "context": {
+    "lesson": "dw-a1-e6-l3",
+    "source": "script",
+    "text": "Das Sofa, das stellen wir da an die Wand.",
+    "target": "an"
+   }
+  },
+  "Platz|space": {
+   "cue": "space; room (for something)",
+   "context": {
+    "lesson": "dw-a1-e6-l3",
+    "source": "exercises",
+    "text": "Leider ist hier kein Platz für einen Esstisch und Stühle.",
+    "target": "Platz"
+   },
+   "interferesWith": [
+    "Platz|square",
+    "Zimmer|room"
+   ]
+  },
+  "leider|unfortunately": {
+   "context": {
+    "lesson": "dw-a1-e6-l3",
+    "source": "exercises",
+    "text": "Sie schlafen hier zusammen und haben zwei Betten, einen Kleiderschrank, eine Stehlampe und leider nur einen Schreibtisch und einen Stuhl für zwei.",
+    "target": "leider"
+   }
+  },
+  "deswegen|therefore": {
+   "cue": "that's why (the other word for deshalb)",
+   "context": {
+    "lesson": "dw-a1-e6-l3",
+    "source": "exercises",
+    "text": "deswegen sind hier drei Stehlampen",
+    "target": "deswegen"
+   },
+   "interferesWith": [
+    "deshalb|therefore"
+   ]
+  },
+  "Kinderzimmer|childs-room": {
+   "context": {
+    "lesson": "dw-a1-e6-l3",
+    "source": "exercises",
+    "text": "Wir brauchen bald ein Kinderzimmer.",
+    "target": "Kinderzimmer"
+   }
+  },
+  "Esstisch|dining-table": {
+   "cue": "dining table (dinner table)"
+  },
+  "Spiegelschrank|mirrored-cabinet": {
+   "cue": "mirrored cabinet (a cupboard with mirrored doors)"
   }
  }
 }

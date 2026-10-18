@@ -364,6 +364,103 @@
     "source": "exercises",
     "text": "Das ist das Badezimmer"
    }
+  },
+  "Tisch": {
+   "context": {
+    "lesson": "dw-a1-e6-l3",
+    "source": "exercises",
+    "text": "Der Tisch und die Stühle stehen in der Küche."
+   }
+  },
+  "Kleiderschrank": {
+   "hints": [
+    "Compound: the last part (…schrank) decides the gender."
+   ]
+  },
+  "Küchenschrank": {
+   "hints": [
+    "Compound: the last part (…schrank) decides the gender."
+   ]
+  },
+  "Spiegelschrank": {
+   "hints": [
+    "Compound: the last part (…schrank) decides the gender."
+   ]
+  },
+  "Bürostuhl": {
+   "hints": [
+    "Compound: the last part (…stuhl) decides the gender."
+   ]
+  },
+  "Schreibtischstuhl": {
+   "hints": [
+    "Compound: the last part (…stuhl) decides the gender."
+   ]
+  },
+  "Küchenstuhl": {
+   "hints": [
+    "Compound: the last part (…stuhl) decides the gender."
+   ]
+  },
+  "Nachttisch": {
+   "hints": [
+    "Compound: the last part (…tisch) decides the gender."
+   ]
+  },
+  "Schreibtisch": {
+   "hints": [
+    "Compound: the last part (…tisch) decides the gender."
+   ]
+  },
+  "Esstisch": {
+   "hints": [
+    "Compound: the last part (…tisch) decides the gender."
+   ]
+  },
+  "Couchtisch": {
+   "hints": [
+    "Compound: the last part (…tisch) decides the gender."
+   ]
+  },
+  "Stehlampe": {
+   "hints": [
+    "Compound: the last part (…lampe) decides the gender."
+   ]
+  },
+  "Nachttischlampe": {
+   "hints": [
+    "Compound: the last part (…lampe) decides the gender."
+   ]
+  },
+  "Schreibtischlampe": {
+   "hints": [
+    "Compound: the last part (…lampe) decides the gender."
+   ]
+  },
+  "Bücherregal": {
+   "hints": [
+    "Compound: the last part (…regal) decides the gender."
+   ]
+  },
+  "Kinderzimmer": {
+   "hints": [
+    "Compound: the last part (…zimmer) decides the gender."
+   ]
+  },
+  "Waschmaschine": {
+   "hints": [
+    "Compound: the last part (…maschine) decides the gender."
+   ]
+  },
+  "Tankstelle": {
+   "hints": [
+    "Compound: the last part (…stelle) decides the gender."
+   ]
+  },
+  "Möbel": {
+   "hints": [
+    "Mostly used in the plural: die Möbel."
+   ]
   }
  }
 }
