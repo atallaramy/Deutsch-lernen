@@ -45,3 +45,5 @@ Extra tasks
 - Write a short dialogue (4–6 lines): Lisa and Nico look for Yara's bike shop, but the address is wrong.
 
 - Play "Ich sehe was, was du nicht siehst" with Claude, with adjectives: you say "… und das ist klein und weiß." Claude asks "Ist es teuer?" or "Ist es eine Brille?" and you answer. Then: is there a game like this in your country? Write 2 sentences.
+
+Activity book (unit 5 Dinge beschreiben: the game "Ich sehe was, was du nicht siehst" with picture cards): how it works p. 8, worksheet p. 19.

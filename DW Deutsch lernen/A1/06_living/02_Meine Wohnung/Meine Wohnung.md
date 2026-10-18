@@ -56,3 +56,5 @@ Extra tasks
 - Marvin has left. Write a short dialogue (6–8 lines): Lisa, Nawin and Sebastian talk about Marvin. Is he nice? Does he get the room?
 
 - Role-play with Claude: a WG viewing. Claude shows you the flat; you are the Interessent or Interessentin and ask about the rooms, the square meters and the rent (Wie viele Zimmer …? Wie teuer …?).
+
+Activity book (unit 6 Möbel: furnish a living room in pairs, e.g. "Nehmen wir das Sofa hier?"): how it works p. 8, worksheet p. 20–21.

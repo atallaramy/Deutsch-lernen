@@ -99,3 +99,5 @@ Extra tasks
 - Look at your desk. Write 5 short dialogues: Hast du einen Zettel? – Ja, ich habe einen Zettel. / Nein, ich habe keinen Zettel.
 
 - Play "Ich sehe was, was du nicht siehst" with Claude: you think of a thing in your room, Claude asks "Ist es eine Brille?", you answer: Nein, das ist keine Brille. / Ja!
+
+Activity book (unit 5 Dinge beschreiben: the game "Ich sehe was, was du nicht siehst" with picture cards): how it works p. 8, worksheet p. 19.

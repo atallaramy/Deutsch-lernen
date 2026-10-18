@@ -48,3 +48,5 @@ Extra tasks
 - Learn the dialogue between Lisa and Nico by heart and say it aloud. Then move it to a café or to the phone: write it again with 2 new lines (e.g. Möchtest du noch einen Kaffee?).
 
 - Role-play with Claude: Claude is Lisa, you are Nico. Lisa tells you the problem; you ask questions and decide where you sleep.
+
+Activity book (unit 6 Möbel: furnish a living room in pairs, e.g. "Nehmen wir das Sofa hier?"): how it works p. 8, worksheet p. 20–21.

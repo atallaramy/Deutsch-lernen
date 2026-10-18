@@ -197,7 +197,8 @@ package, grammar book, tests, extra tasks, commit.
 
 Extra tasks (DW): when a lesson is done, add a short list of tasks from its
 teacher guide and, for its unit, the activity book to the end of its notes file.
-The learner chooses whether and when to do them, writes the answers under each
+After the tasks, one line names the unit's activity-book activity and its pages
+(how it works, worksheet). The learner chooses whether and when to do them, writes the answers under each
 task, and may redo a task later to see progress; every try stays in the file.
 When they say a try is done, mark it once, under the task, as a teacher would: a
 short comment on what is good and what to expect at their level, then each

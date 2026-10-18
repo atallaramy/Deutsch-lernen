@@ -158,3 +158,5 @@ der computer                  der Computer                nouns start with a cap
 eine Bildschrim               ein Bildschirm              der Bildschirm (screen): ein; spelling B-i-l-d-s-c-h-i-r-m
 eine Fenster. (die Fenster)   ein Fenster (das Fenster)   das Fenster: ein; die Fenster is the plural
 ```
+
+Activity book (unit 5 Dinge beschreiben: the game "Ich sehe was, was du nicht siehst" with picture cards): how it works p. 8, worksheet p. 19.

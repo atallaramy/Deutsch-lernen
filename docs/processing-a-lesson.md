@@ -179,8 +179,9 @@ Claude adds a short list of extra tasks to the end of your notes file, under the
 heading *Extra tasks*, read from the teacher guide (page 1: before, during and
 after watching, more activities) and, for the unit, the activity book. Only tasks
 you can do alone or with Claude (a short own text, a dialogue, a role-play); skip
-class-only games and worksheets that repeat the online exercises. Nothing is built
-from them. When you do one, write your answers under the task and tell Claude;
+class-only games and worksheets that repeat the online exercises. After the tasks,
+one line: *Activity book (unit N Title: the activity in a few words): how it works
+p. X, worksheet p. Y.* Nothing is built from them. When you do one, write your answers under the task and tell Claude;
 Claude marks it there as `AGENTS.md` → *Processing a lesson* says.
 
 ## 9. Commit
