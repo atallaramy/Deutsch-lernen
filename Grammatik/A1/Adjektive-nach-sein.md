@@ -110,6 +110,7 @@ The adjectives and *das Adjektiv* are also in the Vocabulary deck.
 - `what-is-the-car-like`: *Wie ist das Auto?*
 - `is-the-car-old-no-new`: *Nein, das Auto ist neu.*
 - `hallway-not-bright-but-dark`: *Der Flur ist nicht hell, er ist dunkel.*
+- `the-address-is-wrong`: *Die Adresse ist falsch.*
 
 ## My rule in my own words
 

@@ -89,6 +89,7 @@ Plural: **die** Stifte, **die** Brillen, **die** Bücher.
 The genders are practised in the Anki *Articles* deck.
 
 - `where-are-the-pens`: *Wo sind die Stifte?*
+- `pizza-please-moechte`: *Ich möchte eine Pizza bitte.*
 
 ## My rule in my own words
 

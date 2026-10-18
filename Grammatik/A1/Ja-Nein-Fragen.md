@@ -66,7 +66,7 @@ All three lines are from the DW E1 L3 script.
 
 ## Sentences cards
 
-- yes/no: `need-help`, `want-to-centre`, `yes-no-from-italy`, `do-you-understand-du`
+- yes/no: `need-help`, `want-to-centre`, `yes-no-from-italy`, `do-you-understand-du`, `is-hamburg-in-the-north`
 - W-questions: see [W-Fragen](W-Fragen.md)
 
 ## My rule in my own words

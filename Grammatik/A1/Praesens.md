@@ -106,6 +106,7 @@ DW A1 E4 L4 *Conjugation: sprechen*.
 - machen, studieren: `what-doing-informal`, `what-doing-formal`, `eva-studies`
 - sprechen: `compliment-german`, `speaks-not-well`, `she-speaks-chinese`, `they-speak-english`
 - zahlen: `pay-cash-reply`
+- arbeiten (extra -e-): `table-arbeiten-ich`, `table-arbeiten-du`, `table-arbeiten-er`
 
 ## My rule in my own words
 

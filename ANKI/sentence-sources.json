@@ -80,7 +80,8 @@
    "covers": [
     "dw-a1-e0-l1:und-dir"
    ],
-   "note": "Formal: Und Ihnen?"
+   "note": "Formal: Und Ihnen?",
+   "grammarPage": "gr-38310488"
   },
   {
    "key": "doing-well",
@@ -118,6 +119,68 @@
     "dw-a1-e0-l1:es-ist-neun-uhr"
    ],
    "note": "Uhr stays singular in times: neun Uhr."
+  },
+  {
+   "key": "greet-frau-schneider-morning",
+   "kind": "production",
+   "lesson": "dw-a1-e0-l1",
+   "skill": "formal address",
+   "scene": "It is 9 a.m. Greet your neighbour Mrs Schneider, an adult you don't know well: the morning greeting and her name.",
+   "answer": "Guten Morgen, Frau Schneider!",
+   "answerSource": {
+    "lesson": "dw-a1-e0-l1",
+    "source": "exercises"
+   },
+   "covers": [],
+   "grammarPage": "gr-38310488",
+   "note": "Formal: Herr/Frau + surname. Informal: first name (Hallo, Sarah!)."
+  },
+  {
+   "key": "fine-too-informal",
+   "kind": "response",
+   "lesson": "dw-a1-e0-l1",
+   "skill": "conversation response",
+   "scene": "Your friend says she is fine and asks how you are. Thank her and say you are fine too (three words).",
+   "prompt": {
+    "lesson": "dw-a1-e0-l1",
+    "source": "exercises",
+    "text": "Danke, gut. Und dir?"
+   },
+   "answer": "Danke, auch gut.",
+   "answerSource": {
+    "lesson": "dw-a1-e0-l1",
+    "source": "exercises"
+   },
+   "covers": [],
+   "note": "auch = also, too"
+  },
+  {
+   "key": "the-bag-is-nice",
+   "kind": "production",
+   "lesson": "dw-a1-e0-l1",
+   "skill": "giving a compliment",
+   "scene": "You like your friend's bag. Say: the bag is nice!",
+   "answer": "Die Tasche ist schön!",
+   "answerSource": {
+    "lesson": "dw-a1-e0-l1",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "schön = nice; beautiful"
+  },
+  {
+   "key": "come-now-emma",
+   "kind": "production",
+   "lesson": "dw-a1-e0-l1",
+   "skill": "du imperative",
+   "scene": "You are Lisa. Tell Emma (du) to come now. Start with her name.",
+   "answer": "Emma, komm jetzt!",
+   "answerSource": {
+    "lesson": "dw-a1-e0-l1",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "kommen → du-imperative: komm"
   },
   {
    "key": "arrived-safely",
@@ -163,6 +226,20 @@
    "note": "studieren → sie studiert"
   },
   {
+   "key": "to-the-koenigshof",
+   "kind": "production",
+   "lesson": "dw-a1-e0-l2",
+   "skill": "taxi request",
+   "scene": "In a taxi, tell the driver where to go: to the Königshof. Two words.",
+   "answer": "Zum Königshof.",
+   "answerSource": {
+    "lesson": "dw-a1-e0-l2",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "zum = zu dem; ins = in das (Ins Zentrum bitte.)"
+  },
+  {
    "key": "bye-martina",
    "kind": "production",
    "lesson": "dw-a1-e0-l3",
@@ -176,7 +253,8 @@
    "covers": [
     "dw-a1-e0-l3:martina"
    ],
-   "note": "Formal counterpart: Auf Wiedersehen, Herr Tillmanns. Gute Reise!"
+   "note": "Formal counterpart: Auf Wiedersehen, Herr Tillmanns. Gute Reise!",
+   "grammarPage": "gr-38310645"
   },
   {
    "key": "take-care-herbert",
@@ -259,6 +337,35 @@
    "note": "ins = in das"
   },
   {
+   "key": "bye-herr-tillmanns",
+   "kind": "production",
+   "lesson": "dw-a1-e0-l3",
+   "skill": "formal address",
+   "scene": "Mr Tillmanns, a business contact, is leaving on a trip. Say goodbye formally, with his name, and wish him a good trip.",
+   "answer": "Auf Wiedersehen, Herr Tillmanns. Gute Reise!",
+   "answerSource": {
+    "lesson": "dw-a1-e0-l3",
+    "source": "script"
+   },
+   "covers": [],
+   "grammarPage": "gr-38310645",
+   "note": "Informal: Tschüss, Martina. Gute Reise!"
+  },
+  {
+   "key": "where-do-you-want-to-go",
+   "kind": "production",
+   "lesson": "dw-a1-e0-l3",
+   "skill": "asking where to",
+   "scene": "Ask a friend (du) where they want to go.",
+   "answer": "Wohin willst du?",
+   "answerSource": {
+    "lesson": "dw-a1-e0-l3",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "wohin = where to; wo = where"
+  },
+  {
    "key": "spell-informal",
    "kind": "production",
    "lesson": "dw-a1-e0-l4",
@@ -334,6 +441,81 @@
    "covers": [
     "dw-a1-e0-l4:wie-ist-ihr-name"
    ]
+  },
+  {
+   "key": "this-is-my-aunt",
+   "kind": "production",
+   "lesson": "dw-a1-e0-l4",
+   "skill": "introducing someone",
+   "scene": "You have just told Nico your name. Now introduce Lisa: and this is my aunt.",
+   "answer": "Und das ist meine Tante.",
+   "answerSource": {
+    "lesson": "dw-a1-e0-l4",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "die Tante → meine Tante"
+  },
+  {
+   "key": "lisa-not-my-mum",
+   "kind": "response",
+   "lesson": "dw-a1-e0-l4",
+   "skill": "saying no",
+   "scene": "You are Emma. Nico asks whether Lisa is your mum. Say no: Lisa is not my mum (use her name).",
+   "prompt": {
+    "lesson": "dw-a1-e0-l4",
+    "source": "script",
+    "text": "Deine Mama?"
+   },
+   "answer": "Nein, Lisa ist nicht meine Mama.",
+   "answerSource": {
+    "lesson": "dw-a1-e0-l4",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "deine (your) → meine (my)"
+  },
+  {
+   "key": "do-you-have-the-address",
+   "kind": "production",
+   "lesson": "dw-a1-e0-l4",
+   "skill": "yes/no question",
+   "scene": "Ask a friend (du) whether they have the address.",
+   "answer": "Hast du die Adresse?",
+   "answerSource": {
+    "lesson": "dw-a1-e0-l4",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "haben → du hast"
+  },
+  {
+   "key": "come-we-help-you",
+   "kind": "production",
+   "lesson": "dw-a1-e0-l4",
+   "skill": "offering help",
+   "scene": "A friend (du) is lost. Say: come on, we'll help you!",
+   "answer": "Komm, wir helfen dir!",
+   "answerSource": {
+    "lesson": "dw-a1-e0-l4",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "helfen + dir (du → dir)"
+  },
+  {
+   "key": "she-works-there",
+   "kind": "production",
+   "lesson": "dw-a1-e0-l4",
+   "skill": "verb form",
+   "scene": "Emma's mum works in America. Say: she works there.",
+   "answer": "Sie arbeitet da.",
+   "answerSource": {
+    "lesson": "dw-a1-e0-l4",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "arbeiten → sie arbeitet"
   },
   {
    "key": "this-is-nico",
@@ -438,7 +620,8 @@
    },
    "covers": [
     "dw-a1-e1-l1:wie-heien-sie"
-   ]
+   ],
+   "grammarPage": "gr-38320692"
   },
   {
    "key": "name-informal-heissen",
@@ -453,7 +636,22 @@
    },
    "covers": [
     "dw-a1-e1-l1:wie-heit-du"
-   ]
+   ],
+   "grammarPage": "gr-38320451"
+  },
+  {
+   "key": "have-to-fill-up",
+   "kind": "production",
+   "lesson": "dw-a1-e1-l1",
+   "skill": "müssen + infinitive",
+   "scene": "At a gas station, tell your passengers: I still have to fill up quickly (müssen).",
+   "answer": "Ich muss noch kurz tanken.",
+   "answerSource": {
+    "lesson": "dw-a1-e1-l1",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "With muss, the infinitive tanken goes to the end."
   },
   {
    "key": "he-is-taxi-driver",
@@ -469,7 +667,8 @@
    "covers": [
     "dw-a1-e1-l2:er-ist-taxifahrer"
    ],
-   "note": "No article before a profession: Er ist Taxifahrer."
+   "note": "No article before a profession: Er ist Taxifahrer.",
+   "grammarPage": "gr-38320906"
   },
   {
    "key": "she-is-taxi-driver",
@@ -543,6 +742,48 @@
    }
   },
   {
+   "key": "nico-looking-for-bag",
+   "kind": "production",
+   "lesson": "dw-a1-e1-l2",
+   "skill": "suchen: er sucht",
+   "scene": "Introduce Nico's problem: Nico is looking for his bag. Start with Nico.",
+   "answer": "Nico sucht seine Tasche.",
+   "answerSource": {
+    "lesson": "dw-a1-e1-l2",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "Nico → seine Tasche (his bag)"
+  },
+  {
+   "key": "come-lets-look-for-bag",
+   "kind": "production",
+   "lesson": "dw-a1-e1-l2",
+   "skill": "suggestion with wir",
+   "scene": "Nico's bag is gone. Tell him (du): come on, we'll look for the bag!",
+   "answer": "Komm, wir suchen die Tasche!",
+   "answerSource": {
+    "lesson": "dw-a1-e1-l2",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "Komm (du) + a wir sentence: a suggestion to do it together."
+  },
+  {
+   "key": "bag-not-in-taxi",
+   "kind": "production",
+   "lesson": "dw-a1-e1-l2",
+   "skill": "negation with nicht",
+   "scene": "The taxi driver tells Nico: the bag is not in the taxi. Start with Die Tasche; use the short form im.",
+   "answer": "Die Tasche ist nicht im Taxi.",
+   "answerSource": {
+    "lesson": "dw-a1-e1-l2",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "nicht goes before the place: nicht im Taxi."
+  },
+  {
    "key": "from-spain",
    "kind": "production",
    "lesson": "dw-a1-e1-l3",
@@ -555,7 +796,8 @@
    },
    "covers": [
     "dw-a1-e1-l3:ich-komme-aus-spanien"
-   ]
+   ],
+   "grammarPage": "gr-38307071"
   },
   {
    "key": "compliment-german",
@@ -661,7 +903,8 @@
    },
    "covers": [
     "dw-a1-e1-l3:woher-kommst-du"
-   ]
+   ],
+   "grammarPage": "gr-38320838"
   },
   {
    "key": "live-in-sevilla",
@@ -677,6 +920,89 @@
    "covers": [
     "dw-a1-e1-l3:ich-wohne-in-sevilla"
    ]
+  },
+  {
+   "key": "not-from-germany-oder",
+   "kind": "production",
+   "lesson": "dw-a1-e1-l3",
+   "skill": "tag question with oder",
+   "scene": "Check with a new acquaintance (du): you don't come from Germany, right? End with oder.",
+   "answer": "Du kommst nicht aus Deutschland, oder?",
+   "answerSource": {
+    "lesson": "dw-a1-e1-l3",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "…, oder? = …, right?"
+  },
+  {
+   "key": "live-barcelona-or-madrid",
+   "kind": "production",
+   "lesson": "dw-a1-e1-l3",
+   "skill": "yes-no question",
+   "scene": "Ask a friend (du) whether they live in Barcelona or in Madrid.",
+   "answer": "Wohnst du in Barcelona oder in Madrid?",
+   "answerSource": {
+    "lesson": "dw-a1-e1-l3",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "Yes-no question: the verb comes first."
+  },
+  {
+   "key": "looking-for-my-aunt",
+   "kind": "production",
+   "lesson": "dw-a1-e1-l3",
+   "skill": "suchen: ich suche",
+   "scene": "Say what you are doing here: you are looking for your aunt.",
+   "answer": "Ich suche meine Tante.",
+   "answerSource": {
+    "lesson": "dw-a1-e1-l3",
+    "source": "script"
+   },
+   "covers": []
+  },
+  {
+   "key": "he-doesnt-have-address",
+   "kind": "production",
+   "lesson": "dw-a1-e1-l3",
+   "skill": "negation with nicht",
+   "scene": "Say about Nico: but he doesn't have the address. Start with Aber and use nicht.",
+   "answer": "Aber er hat die Adresse nicht.",
+   "answerSource": {
+    "lesson": "dw-a1-e1-l3",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "nicht goes to the end: Er hat die Adresse nicht."
+  },
+  {
+   "key": "can-you-call-family",
+   "kind": "production",
+   "lesson": "dw-a1-e1-l3",
+   "skill": "modal question",
+   "scene": "Ask a friend (du) whether they can call their family.",
+   "answer": "Kannst du deine Familie anrufen?",
+   "answerSource": {
+    "lesson": "dw-a1-e1-l3",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "With kannst, the infinitive anrufen goes to the end."
+  },
+  {
+   "key": "maybe-he-helps-us",
+   "kind": "production",
+   "lesson": "dw-a1-e1-l3",
+   "skill": "helfen: er hilft",
+   "scene": "Lisa's father is a police officer. Say: maybe he'll help us. Start with Vielleicht; use helfen, no modal verb.",
+   "answer": "Vielleicht hilft er uns.",
+   "answerSource": {
+    "lesson": "dw-a1-e1-l3",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "helfen → er hilft (e → i); after Vielleicht the verb comes second."
   },
   {
    "key": "phone-hier-ist",
@@ -712,7 +1038,8 @@
    },
    "answer": "hat",
    "covers": [],
-   "note": "haben → er/sie/es hat"
+   "note": "haben → er/sie/es hat",
+   "grammarPage": "gr-38310825"
   },
   {
    "key": "comes-from-spain",
@@ -791,6 +1118,120 @@
    "note": "weg = gone"
   },
   {
+   "key": "does-he-have-papers",
+   "kind": "production",
+   "lesson": "dw-a1-e1-l4",
+   "skill": "haben question",
+   "scene": "At the police: ask whether he has (identity) papers.",
+   "answer": "Hat er Papiere?",
+   "answerSource": {
+    "lesson": "dw-a1-e1-l4",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "die Papiere = identity papers"
+  },
+  {
+   "key": "have-passport-informal",
+   "kind": "production",
+   "lesson": "dw-a1-e1-l4",
+   "skill": "haben question",
+   "scene": "Ask a friend (du) whether they have a passport.",
+   "answer": "Hast du einen Pass?",
+   "answerSource": {
+    "lesson": "dw-a1-e1-l4",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "der Pass → einen Pass after haben"
+  },
+  {
+   "key": "doch-dont-worry",
+   "kind": "response",
+   "lesson": "dw-a1-e1-l4",
+   "skill": "doch after a negative question",
+   "scene": "Lisa's father asks this. Emma is fine: contradict him with one word, then tell him not to worry.",
+   "prompt": {
+    "lesson": "dw-a1-e1-l4",
+    "source": "script",
+    "text": "Geht es Emma nicht gut?"
+   },
+   "answer": "Doch, keine Sorge!",
+   "answerSource": {
+    "lesson": "dw-a1-e1-l4",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "doch = yes, after a negative question"
+  },
+  {
+   "key": "table-arbeiten-ich",
+   "kind": "table",
+   "lesson": "dw-a1-e1-l4",
+   "skill": "arbeiten: present tense",
+   "scene": "arbeiten, present tense: the ich row.",
+   "prompt": {
+    "lesson": "dw-a1-e1-l4",
+    "source": "exercises",
+    "text": "1st person ¶ ich arbeite",
+    "target": "arbeite"
+   },
+   "answer": "arbeite",
+   "covers": [],
+   "grammarPage": "gr-38321810"
+  },
+  {
+   "key": "table-arbeiten-du",
+   "kind": "table",
+   "lesson": "dw-a1-e1-l4",
+   "skill": "arbeiten: present tense",
+   "scene": "arbeiten, present tense: the du row.",
+   "prompt": {
+    "lesson": "dw-a1-e1-l4",
+    "source": "exercises",
+    "text": "2nd person ¶ du arbeitest",
+    "target": "arbeitest"
+   },
+   "answer": "arbeitest",
+   "covers": [],
+   "grammarPage": "gr-38321810",
+   "note": "Stem ends in -t: an extra -e- (du arbeitest)."
+  },
+  {
+   "key": "table-arbeiten-er",
+   "kind": "table",
+   "lesson": "dw-a1-e1-l4",
+   "skill": "arbeiten: present tense",
+   "scene": "arbeiten, present tense: the er/sie/es row.",
+   "prompt": {
+    "lesson": "dw-a1-e1-l4",
+    "source": "exercises",
+    "text": "3rd person ¶ er/sie/es arbeitet",
+    "target": "arbeitet"
+   },
+   "answer": "arbeitet",
+   "covers": [],
+   "grammarPage": "gr-38321810",
+   "note": "Same form for ihr: ihr arbeitet."
+  },
+  {
+   "key": "table-heissen-ihr",
+   "kind": "table",
+   "lesson": "dw-a1-e1-l4",
+   "skill": "heißen: present tense",
+   "scene": "Personal pronouns, plural — heißen: the ihr row.",
+   "prompt": {
+    "lesson": "dw-a1-e1-l4",
+    "source": "exercises",
+    "text": "2nd person ¶ ihr heißt",
+    "target": "heißt"
+   },
+   "answer": "heißt",
+   "covers": [],
+   "grammarPage": "gr-38321282",
+   "note": "ihr takes -t: ihr heißt, ihr kommt."
+  },
+  {
    "key": "how-many-children",
    "kind": "production",
    "lesson": "vhs-a1-l02",
@@ -813,6 +1254,104 @@
    "covers": [
     "vhs-a1-l02:ich-buchstabiere"
    ]
+  },
+  {
+   "key": "my-cousins",
+   "kind": "production",
+   "lesson": "vhs-a1-l02",
+   "skill": "mein / meine",
+   "scene": "Show a family photo: your uncle's son and daughter. Say they are my cousin (male) and my cousin (female). Start with Sie.",
+   "answer": "Sie sind mein Cousin und meine Cousine.",
+   "answerSource": {
+    "lesson": "vhs-a1-l02",
+    "source": "vhs-a1-filmskripte"
+   },
+   "covers": [],
+   "note": "der Cousin → mein · die Cousine → meine"
+  },
+  {
+   "key": "now-you-know-my-whole-family",
+   "kind": "production",
+   "lesson": "vhs-a1-l02",
+   "skill": "ihr-form; meine + feminine",
+   "scene": "You've shown your class (ihr) your family photos. Say: now you know my whole family. Start with Jetzt.",
+   "answer": "Jetzt kennt ihr meine ganze Familie.",
+   "answerSource": {
+    "lesson": "vhs-a1-l02",
+    "source": "vhs-a1-filmskripte"
+   },
+   "covers": [],
+   "note": "ihr kennt · die Familie → meine ganze Familie"
+  },
+  {
+   "key": "mina-is-arians-sister",
+   "kind": "production",
+   "lesson": "vhs-a1-l02",
+   "skill": "X ist die Schwester von Y",
+   "scene": "Explain the family photo: Mina is Arian's sister. Use von.",
+   "answer": "Mina ist die Schwester von Arian.",
+   "answerSource": {
+    "lesson": "vhs-a1-l02",
+    "source": "vhs-a1-filmskripte"
+   },
+   "covers": [],
+   "note": "die Schwester von … · der Bruder von …"
+  },
+  {
+   "key": "these-are-my-parents",
+   "kind": "production",
+   "lesson": "vhs-a1-l02",
+   "skill": "Das sind + mein / meine",
+   "scene": "Show a family photo: these are my parents, my mother and my father. Start with Das sind.",
+   "answer": "Das sind meine Eltern, meine Mutter und mein Vater.",
+   "answerSource": {
+    "lesson": "vhs-a1-l02",
+    "source": "vhs-a1-filmskripte"
+   },
+   "covers": [],
+   "note": "Das sind + plural · meine Mutter (die) · mein Vater (der)"
+  },
+  {
+   "key": "my-father-has-a-brother",
+   "kind": "production",
+   "lesson": "vhs-a1-l02",
+   "skill": "haben + einen; der Bruder → er",
+   "scene": "Explain who your uncle is: my father has a brother, he is my uncle.",
+   "answer": "Mein Vater hat einen Bruder, er ist mein Onkel.",
+   "answerSource": {
+    "lesson": "vhs-a1-l02",
+    "source": "vhs-a1-filmskripte"
+   },
+   "covers": [],
+   "note": "haben + accusative: der Bruder → einen Bruder · der Bruder → er"
+  },
+  {
+   "key": "do-you-have-children-formal",
+   "kind": "production",
+   "lesson": "vhs-a1-l02",
+   "skill": "yes/no question: verb first",
+   "scene": "Ask a person formally (Sie) whether they have children.",
+   "answer": "Haben Sie Kinder?",
+   "answerSource": {
+    "lesson": "vhs-a1-l02",
+    "source": "vhs-a1-l02-phrasentrainer"
+   },
+   "covers": [],
+   "note": "Informal: Hast du Kinder?"
+  },
+  {
+   "key": "do-you-have-children-informal",
+   "kind": "production",
+   "lesson": "vhs-a1-l02",
+   "skill": "yes/no question: verb first",
+   "scene": "Ask a friend (du) whether they have children.",
+   "answer": "Hast du Kinder?",
+   "answerSource": {
+    "lesson": "vhs-a1-l02",
+    "source": "vhs-a1-l02-phrasentrainer"
+   },
+   "covers": [],
+   "note": "Formal: Haben Sie Kinder?"
   },
   {
    "key": "how-old-emma",
@@ -929,7 +1468,115 @@
    },
    "answer": "zweiundsechzig",
    "covers": [],
-   "note": "One word: zwei + und + sechzig; sechzig drops the s of sechs. In your notes: “vier und sechszig” for 64 (vierundsechzig)."
+   "note": "One word: zwei + und + sechzig; sechzig drops the s of sechs. In your notes: “vier und sechszig” for 64 (vierundsechzig).",
+   "grammarPage": "gr-38307981"
+  },
+  {
+   "key": "table-numbers-16",
+   "kind": "table",
+   "lesson": "dw-a1-e2-l1",
+   "skill": "numbers 13–19",
+   "scene": "Numbers from 11 to 19: the 16 row.",
+   "prompt": {
+    "lesson": "dw-a1-e2-l1",
+    "source": "exercises",
+    "text": "16 ¶ sechs + zehn ¶ sechzehn",
+    "target": "sechzehn"
+   },
+   "answer": "sechzehn",
+   "covers": [],
+   "grammarPage": "gr-38307006",
+   "learnerError": {
+    "wrong": "sechszehn",
+    "why": "sechs loses its s before -zehn"
+   },
+   "note": "Also sechzig (60); but sechsundzwanzig keeps the s."
+  },
+  {
+   "key": "table-numbers-26",
+   "kind": "table",
+   "lesson": "dw-a1-e2-l1",
+   "skill": "numbers 21–99",
+   "scene": "Numbers from 20 to 100: the 26 row.",
+   "prompt": {
+    "lesson": "dw-a1-e2-l1",
+    "source": "exercises",
+    "text": "26 ¶ sechsundzwanzig",
+    "target": "sechsundzwanzig"
+   },
+   "answer": "sechsundzwanzig",
+   "covers": [],
+   "grammarPage": "gr-38307981",
+   "note": "sechs keeps its s before und; only sechzehn and sechzig drop it."
+  },
+  {
+   "key": "invite-coming-too",
+   "kind": "production",
+   "lesson": "dw-a1-e2-l1",
+   "skill": "yes/no question",
+   "scene": "You invite a friend (du) to your birthday party. Ask whether they are coming too.",
+   "answer": "Kommst du auch?",
+   "answerSource": {
+    "lesson": "dw-a1-e2-l1",
+    "source": "exercises"
+   },
+   "covers": [],
+   "note": "Yes/no question: the verb comes first."
+  },
+  {
+   "key": "his-phone-number",
+   "kind": "production",
+   "lesson": "dw-a1-e2-l1",
+   "skill": "possessive: his",
+   "scene": "You are talking about Jürgen. Ask what his phone number is.",
+   "answer": "Wie ist seine Telefonnummer?",
+   "answerSource": {
+    "lesson": "dw-a1-e2-l1",
+    "source": "exercises"
+   },
+   "covers": [],
+   "note": "his: sein/seine · her: ihr/ihre"
+  },
+  {
+   "key": "how-many-numbers",
+   "kind": "production",
+   "lesson": "dw-a1-e2-l1",
+   "skill": "asking how many",
+   "scene": "Someone shows you a page full of numbers. Ask how many numbers those are.",
+   "answer": "Wie viele Zahlen sind das?",
+   "answerSource": {
+    "lesson": "dw-a1-e2-l1",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "wie viele + plural: die Zahl → die Zahlen"
+  },
+  {
+   "key": "my-birthday-party",
+   "kind": "production",
+   "lesson": "dw-a1-e2-l1",
+   "skill": "haben + Geburtstag",
+   "scene": "Write in an invitation: it is your birthday and you are having a party (machen).",
+   "answer": "Ich habe Geburtstag und mache eine Party.",
+   "answerSource": {
+    "lesson": "dw-a1-e2-l1",
+    "source": "exercises"
+   },
+   "covers": []
+  },
+  {
+   "key": "stay-at-mine",
+   "kind": "production",
+   "lesson": "dw-a1-e2-l1",
+   "skill": "können: offering",
+   "scene": "Invite a friend (du): tell them they can stay overnight at your place.",
+   "answer": "Du kannst bei mir übernachten.",
+   "answerSource": {
+    "lesson": "dw-a1-e2-l1",
+    "source": "exercises"
+   },
+   "covers": [],
+   "note": "können → du kannst; the infinitive goes to the end."
   },
   {
    "key": "phone-number-informal",
@@ -1098,7 +1745,8 @@
    },
    "covers": [
     "dw-a1-e2-l3:wie-heisst-die-strasse"
-   ]
+   ],
+   "grammarPage": "gr-38306976"
   },
   {
    "key": "house-number-question",
@@ -1158,7 +1806,8 @@
    "covers": [
     "dw-a1-e2-l3:in-der-strasse"
    ],
-   "note": "-weg: im …weg · -platz and der Markt: am …"
+   "note": "-weg: im …weg · -platz and der Markt: am …",
+   "grammarPage": "gr-38309222"
   },
   {
    "key": "street-im",
@@ -1176,7 +1825,8 @@
    "covers": [
     "dw-a1-e2-l3:im-weg"
    ],
-   "note": "im = in dem"
+   "note": "im = in dem",
+   "grammarPage": "gr-38309222"
   },
   {
    "key": "street-am",
@@ -1194,7 +1844,8 @@
    "covers": [
     "dw-a1-e2-l3:am-platz"
    ],
-   "note": "am = an dem"
+   "note": "am = an dem",
+   "grammarPage": "gr-38309222"
   },
   {
    "key": "phone-who-speaking",
@@ -1289,6 +1940,34 @@
    ]
   },
   {
+   "key": "two-or-seven",
+   "kind": "production",
+   "lesson": "dw-a1-e2-l3",
+   "skill": "checking a number",
+   "scene": "You can't read a handwritten digit. Ask: is that a two or a seven?",
+   "answer": "Ist das eine Zwei oder eine Sieben?",
+   "answerSource": {
+    "lesson": "dw-a1-e2-l3",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "A digit as a noun: die Zwei, die Sieben (capital letter)."
+  },
+  {
+   "key": "how-did-it-happen",
+   "kind": "production",
+   "lesson": "dw-a1-e2-l3",
+   "skill": "asking what happened",
+   "scene": "A friend tells you they lost their bag. Ask how that happened.",
+   "answer": "Wie ist das passiert?",
+   "answerSource": {
+    "lesson": "dw-a1-e2-l3",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "passieren → ist passiert"
+  },
+  {
    "key": "address-informal",
    "kind": "production",
    "lesson": "dw-a1-e2-l4",
@@ -1316,7 +1995,8 @@
    },
    "covers": [
     "dw-a1-e2-l4:wie-ist-ihre-adresse"
-   ]
+   ],
+   "grammarPage": "gr-38311389"
   },
   {
    "key": "which-number-formal",
@@ -1369,7 +2049,8 @@
    ],
    "accept": [
     "Ich habe die Nummer eins, fünf, drei, zwei."
-   ]
+   ],
+   "grammarPage": "gr-38310279"
   },
   {
    "key": "date-of-birth-formal",
@@ -1481,7 +2162,50 @@
    },
    "covers": [
     "dw-a1-e2-l4:das-fahrrad-kostet-834-euro"
-   ]
+   ],
+   "grammarPage": "gr-38309547"
+  },
+  {
+   "key": "number-2976",
+   "kind": "production",
+   "lesson": "dw-a1-e2-l4",
+   "skill": "numbers over 1000",
+   "scene": "Write 2976 as one word.",
+   "answer": "zweitausendneunhundertsechsundsiebzig",
+   "covers": [],
+   "grammarPage": "gr-38309923",
+   "note": "Thousands, then hundreds, then the number below 100: zweitausend · neunhundert · sechsundsiebzig",
+   "answerSource": {
+    "lesson": "dw-a1-e2-l4",
+    "source": "exercises"
+   }
+  },
+  {
+   "key": "he-lost-his-bag",
+   "kind": "production",
+   "lesson": "dw-a1-e2-l4",
+   "skill": "reporting a loss",
+   "scene": "At the police station, explain that Nico (er) has lost his bag.",
+   "answer": "Er hat seine Tasche verloren.",
+   "answerSource": {
+    "lesson": "dw-a1-e2-l4",
+    "source": "exercises"
+   },
+   "covers": [],
+   "note": "verlieren → hat verloren · Ich habe meine Tasche verloren."
+  },
+  {
+   "key": "looking-for-at-reception",
+   "kind": "production",
+   "lesson": "dw-a1-e2-l4",
+   "skill": "formal: at a reception desk",
+   "scene": "At the police reception, greet formally and say that you two are looking for Jürgen Brunner.",
+   "answer": "Guten Tag, wir suchen Jürgen Brunner.",
+   "answerSource": {
+    "lesson": "dw-a1-e2-l4",
+    "source": "exercises"
+   },
+   "covers": []
   },
   {
    "key": "who-is-that-denn",
@@ -1496,7 +2220,8 @@
    },
    "covers": [
     "dw-a1-e3-l1:wer-ist-denn-das"
-   ]
+   ],
+   "grammarPage": "gr-38306502"
   },
   {
    "key": "offer-du",
@@ -1548,6 +2273,108 @@
    "covers": [
     "dw-a1-e3-l1:moechtest-du-etwas-trinken"
    ]
+  },
+  {
+   "key": "small-problem-wir",
+   "kind": "production",
+   "lesson": "dw-a1-e3-l1",
+   "skill": "haben + noun",
+   "scene": "A friend asks if the party is still on. Say yes, but we have a small problem.",
+   "answer": "Ja, aber wir haben ein kleines Problem.",
+   "answerSource": {
+    "lesson": "dw-a1-e3-l1",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "das Problem → ein kleines Problem (-es after ein)"
+  },
+  {
+   "key": "can-nico-stay-two-days",
+   "kind": "production",
+   "lesson": "dw-a1-e3-l1",
+   "skill": "asking permission",
+   "scene": "Ask your flatmates if Nico can live here for two days (können; time before place).",
+   "answer": "Kann Nico zwei Tage hier wohnen?",
+   "answerSource": {
+    "lesson": "dw-a1-e3-l1",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "können first, the infinitive (wohnen) at the end · time (zwei Tage) before place (hier)"
+  },
+  {
+   "key": "bad-news-not-so-good",
+   "kind": "response",
+   "lesson": "dw-a1-e3-l1",
+   "skill": "conversation response",
+   "scene": "Nico tells you his bad news. React as Sebastian does: okay, that's not so good.",
+   "prompt": {
+    "lesson": "dw-a1-e3-l1",
+    "source": "script",
+    "text": "Ich habe ein Problem: Meine Tasche ist weg und mein Handy und mein Pass sind auch weg."
+   },
+   "answer": "Okay, das ist nicht so gut.",
+   "answerSource": {
+    "lesson": "dw-a1-e3-l1",
+    "source": "script"
+   },
+   "covers": []
+  },
+  {
+   "key": "is-emma-ok",
+   "kind": "production",
+   "lesson": "dw-a1-e3-l1",
+   "skill": "asking about a person",
+   "scene": "Ask whether Emma is doing well (a yes/no question; the short spoken form with an apostrophe).",
+   "answer": "Geht’s Emma gut?",
+   "answerSource": {
+    "lesson": "dw-a1-e3-l1",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "Geht’s = Geht es · about you: Wie geht es dir?"
+  },
+  {
+   "key": "the-lamp-is-broken",
+   "kind": "production",
+   "lesson": "dw-a1-e3-l1",
+   "skill": "describing things",
+   "scene": "Tell your flatmates that the lamp is broken.",
+   "answer": "Die Lampe ist kaputt.",
+   "answerSource": {
+    "lesson": "dw-a1-e3-l1",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "die Lampe · kaputt = broken"
+  },
+  {
+   "key": "the-lamp-works-again",
+   "kind": "production",
+   "lesson": "dw-a1-e3-l1",
+   "skill": "describing things",
+   "scene": "Nico has fixed the lamp. Say: wow, the lamp works again (start with Wow).",
+   "answer": "Wow, die Lampe funktioniert wieder.",
+   "answerSource": {
+    "lesson": "dw-a1-e3-l1",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "funktionieren → es funktioniert · wieder = again"
+  },
+  {
+   "key": "welcome-to-wagnergasse",
+   "kind": "production",
+   "lesson": "dw-a1-e3-l1",
+   "skill": "welcoming",
+   "scene": "Nico moves in with you. Welcome him to Wagnergasse (the street; one word for welcome).",
+   "answer": "Willkommen in der Wagnergasse!",
+   "answerSource": {
+    "lesson": "dw-a1-e3-l1",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "streets in -gasse, -straße: in der … · Herzlich willkommen!"
   },
   {
    "key": "ask-drink-du",
@@ -1610,7 +2437,8 @@
    "covers": [
     "dw-a1-e3-l2:was-trinkst-du"
    ],
-   "note": "Sie: Und was trinken Sie?"
+   "note": "Sie: Und was trinken Sie?",
+   "grammarPage": "gr-38306502"
   },
   {
    "key": "what-is-there",
@@ -1693,6 +2521,80 @@
    "note": "Hunger haben, Durst haben: Hast du auch Durst?"
   },
   {
+   "key": "does-she-live-in-town",
+   "kind": "production",
+   "lesson": "dw-a1-e3-l2",
+   "skill": "yes/no question",
+   "scene": "Ask whether Yara (sie) lives here in the city (a yes/no question with wohnen).",
+   "answer": "Wohnt sie hier in der Stadt?",
+   "answerSource": {
+    "lesson": "dw-a1-e3-l2",
+    "source": "script"
+   },
+   "covers": [],
+   "learnerError": {
+    "wrong": "Und sie hier",
+    "why": "a yes/no question starts with the verb: Wohnt sie …"
+   },
+   "note": "yes/no question: the verb first · W-question: Wo wohnt sie?"
+  },
+  {
+   "key": "do-you-know-yaras-shop-ihr",
+   "kind": "production",
+   "lesson": "dw-a1-e3-l2",
+   "skill": "kennen: ihr kennt",
+   "scene": "Ask your two flatmates (ihr) if they know Yara's bike shop (der Fahrradladen).",
+   "answer": "Kennt ihr Yaras Fahrradladen?",
+   "answerSource": {
+    "lesson": "dw-a1-e3-l2",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "ihr kennt · Yaras = Yara's (no apostrophe)"
+  },
+  {
+   "key": "what-about-you-du",
+   "kind": "production",
+   "lesson": "dw-a1-e3-l2",
+   "skill": "offering",
+   "scene": "Everyone has a drink except Nico. Ask him (du): what about you, Nico?",
+   "answer": "Was ist mit dir, Nico?",
+   "answerSource": {
+    "lesson": "dw-a1-e3-l2",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "mit + dir (du)"
+  },
+  {
+   "key": "isnt-he-here",
+   "kind": "production",
+   "lesson": "dw-a1-e3-l2",
+   "skill": "negation with nicht",
+   "scene": "Your friend Nawin is missing. Ask: isn't he here?",
+   "answer": "Ist er nicht hier?",
+   "answerSource": {
+    "lesson": "dw-a1-e3-l2",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "yes/no question: the verb first, nicht before hier"
+  },
+  {
+   "key": "here-are-the-menus",
+   "kind": "production",
+   "lesson": "dw-a1-e3-l2",
+   "skill": "hier ist / hier sind",
+   "scene": "Hand your friends the menus (more than one): here are the menus!",
+   "answer": "Hier sind die Speisekarten!",
+   "answerSource": {
+    "lesson": "dw-a1-e3-l2",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "die Speisekarte, die Speisekarten: plural → sind"
+  },
+  {
    "key": "ask-order-ihr",
    "kind": "production",
    "lesson": "dw-a1-e3-l3",
@@ -1740,7 +2642,8 @@
    },
    "answer": "nimmst",
    "covers": [],
-   "note": "ich nehme · du nimmst · er/sie/es nimmt: e → i, and h → mm"
+   "note": "ich nehme · du nimmst · er/sie/es nimmt: e → i, and h → mm",
+   "grammarPage": "gr-38306672"
   },
   {
    "key": "nehmen-er-nimmt",
@@ -1756,7 +2659,8 @@
    },
    "answer": "nimmt",
    "covers": [],
-   "note": "du nimmst · er nimmt (no s)"
+   "note": "du nimmst · er nimmt (no s)",
+   "grammarPage": "gr-38306672"
   },
   {
    "key": "essen-du-isst",
@@ -1772,7 +2676,8 @@
    },
    "answer": "isst",
    "covers": [],
-   "note": "ich esse · du isst · er/sie/es isst. Not er ist (sein)."
+   "note": "ich esse · du isst · er/sie/es isst. Not er ist (sein).",
+   "grammarPage": "gr-38306672"
   },
   {
    "key": "deshalb-nimmt-sie",
@@ -1821,6 +2726,73 @@
    },
    "covers": [],
    "note": "a, o, u → ach sound: auch, suchen, acht · i, e, ä, ö, ü → ich sound: ich, Milch, möchten"
+  },
+  {
+   "key": "pizza-please-moechte",
+   "kind": "production",
+   "lesson": "dw-a1-e3-l3",
+   "skill": "ordering: article by gender",
+   "scene": "You've decided what to eat. Say you'd like a pizza, please (with möchten).",
+   "answer": "Ich möchte eine Pizza bitte.",
+   "answerSource": {
+    "lesson": "dw-a1-e3-l3",
+    "source": "script"
+   },
+   "covers": [],
+   "learnerError": {
+    "wrong": "Ein Pizza",
+    "why": "die Pizza → eine Pizza"
+   },
+   "note": "die Pizza → eine Pizza · Also: Ich nehme eine Pizza. · Ich esse eine Pizza.",
+   "grammarPage": "gr-38306435"
+  },
+  {
+   "key": "table-essen-ich",
+   "kind": "table",
+   "lesson": "dw-a1-e3-l3",
+   "skill": "vowel change e to i",
+   "scene": "essen, present tense: the ich row.",
+   "grammarPage": "gr-38306672",
+   "prompt": {
+    "lesson": "dw-a1-e3-l3",
+    "source": "exercises",
+    "text": "1st person ¶ ich esse",
+    "target": "esse"
+   },
+   "answer": "esse",
+   "covers": [],
+   "note": "ich esse · du isst: the e → i change is only in du and er/sie/es"
+  },
+  {
+   "key": "table-essen-ihr",
+   "kind": "table",
+   "lesson": "dw-a1-e3-l3",
+   "skill": "vowel change e to i",
+   "scene": "essen, present tense: the ihr row.",
+   "grammarPage": "gr-38306672",
+   "prompt": {
+    "lesson": "dw-a1-e3-l3",
+    "source": "exercises",
+    "text": "2nd person ¶ ihr esst",
+    "target": "esst"
+   },
+   "answer": "esst",
+   "covers": [],
+   "note": "ihr esst: no vowel change · du isst, er isst"
+  },
+  {
+   "key": "phone-order-gern",
+   "kind": "production",
+   "lesson": "dw-a1-e3-l3",
+   "skill": "ordering",
+   "scene": "You phone a pizza service. Say you would like to order (with möchten and gern).",
+   "answer": "Ich möchte gern bestellen.",
+   "answerSource": {
+    "lesson": "dw-a1-e3-l3",
+    "source": "exercises"
+   },
+   "covers": [],
+   "note": "möchten + infinitive at the end: Ich möchte zahlen bitte."
   },
   {
    "key": "ask-to-pay",
@@ -1978,6 +2950,73 @@
    "note": "DW: „7,55 Euro“ is said „7 Euro 55“, without „Cent“; „0,99 Euro“ is „99 Cent“."
   },
   {
+   "key": "three-pizzas-plural",
+   "kind": "completion",
+   "lesson": "dw-a1-e3-l4",
+   "skill": "noun plural",
+   "scene": "The delivery woman reads the bill: three salami pizzas. Type the plural of die Pizza.",
+   "prompt": {
+    "lesson": "dw-a1-e3-l4",
+    "source": "script",
+    "text": "Die drei Pizzen mit Salami sind 22,50.",
+    "target": "Pizzen"
+   },
+   "answer": "Pizzen",
+   "covers": [],
+   "learnerError": {
+    "wrong": "Die drei Pizza",
+    "why": "plural: die Pizza → die Pizzen"
+   },
+   "note": "die Pizza, die Pizzen · plural subject → sind"
+  },
+  {
+   "key": "who-gets-the-hawaii",
+   "kind": "production",
+   "lesson": "dw-a1-e3-l4",
+   "skill": "asking about a person",
+   "scene": "You hand out the pizzas. Ask who gets the Hawaii (die Hawaii) without ham (with bekommen).",
+   "answer": "Wer bekommt die Hawaii ohne Schinken?",
+   "answerSource": {
+    "lesson": "dw-a1-e3-l4",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "wer asks about a person: Wer bekommt …? – Ich!"
+  },
+  {
+   "key": "keep-the-change-45",
+   "kind": "response",
+   "lesson": "dw-a1-e3-l4",
+   "skill": "paying",
+   "scene": "You hand over €45, tip included. Say here are 45 euros, and that she can keep the change.",
+   "prompt": {
+    "lesson": "dw-a1-e3-l4",
+    "source": "script",
+    "text": "Das macht zusammen 40,50 Euro."
+   },
+   "answer": "Hier sind 45 Euro. Das stimmt so.",
+   "answerSource": {
+    "lesson": "dw-a1-e3-l4",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "Stimmt so = keep the change (the rest is the tip) · Hier sind (plural: Euro)"
+  },
+  {
+   "key": "here-is-the-bill",
+   "kind": "production",
+   "lesson": "dw-a1-e3-l4",
+   "skill": "paying",
+   "scene": "You're the waiter. Hand the guest the bill: here is the bill.",
+   "answer": "Hier ist die Rechnung.",
+   "answerSource": {
+    "lesson": "dw-a1-e3-l4",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "one thing: Hier ist … · more: Hier sind die Speisekarten!"
+  },
+  {
    "key": "glad-youre-here-ihr",
    "kind": "production",
    "lesson": "dw-a1-e4-l1",
@@ -2024,7 +3063,8 @@
    },
    "covers": [
     "dw-a1-e4-l1:warst-du-schon-mal-in"
-   ]
+   ],
+   "grammarPage": "gr-38306053"
   },
   {
    "key": "never-been-to-munich",
@@ -2040,7 +3080,8 @@
    "covers": [
     "dw-a1-e4-l1:ich-war-noch-nie-in"
    ],
-   "note": "Yes: Ja, ich war schon mal in München."
+   "note": "Yes: Ja, ich war schon mal in München.",
+   "grammarPage": "gr-38306053"
   },
   {
    "key": "sein-past-ihr-wart",
@@ -2060,7 +3101,8 @@
     "wrong": "Ihr war",
     "why": "ihr takes wart"
    },
-   "note": "ich war · du warst · er/sie/es war · wir waren · ihr wart · sie/Sie waren"
+   "note": "ich war · du warst · er/sie/es war · wir waren · ihr wart · sie/Sie waren",
+   "grammarPage": "gr-38306053"
   },
   {
    "key": "want-to-go-to-berlin",
@@ -2075,7 +3117,8 @@
    },
    "covers": [
     "dw-a1-e4-l1:ich-moechte-auch-mal-nach-berlin"
-   ]
+   ],
+   "grammarPage": "gr-38306057"
   },
   {
    "key": "where-study-in-leipzig",
@@ -2094,7 +3137,71 @@
     "source": "exercises"
    },
    "covers": [],
-   "note": "Wo? → in Leipzig · Wohin? → nach Leipzig · Woher? → aus Leipzig"
+   "note": "Wo? → in Leipzig · Wohin? → nach Leipzig · Woher? → aus Leipzig",
+   "grammarPage": "gr-38306057"
+  },
+  {
+   "key": "do-you-know-berlin",
+   "kind": "production",
+   "lesson": "dw-a1-e4-l1",
+   "skill": "kennen: yes-no question",
+   "scene": "Ask a friend (du) if they know Berlin.",
+   "answer": "Kennst du Berlin?",
+   "answerSource": {
+    "lesson": "dw-a1-e4-l1",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "kennen: to know a person or a place. W-question: Welche Städte kennst du?"
+  },
+  {
+   "key": "which-cities-do-you-know",
+   "kind": "production",
+   "lesson": "dw-a1-e4-l1",
+   "skill": "welche + plural",
+   "scene": "At a party, ask a friend (du) which cities they already know (start with Und).",
+   "answer": "Und welche Städte kennst du schon?",
+   "answerSource": {
+    "lesson": "dw-a1-e4-l1",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "welche + plural: welche Städte · welche Sprachen. die Stadt, die Städte"
+  },
+  {
+   "key": "in-der-schweiz",
+   "kind": "completion",
+   "lesson": "dw-a1-e4-l1",
+   "skill": "die Schweiz: with article",
+   "scene": "Sebastian asks Nico (du) about Germany, Austria and Switzerland. Fill in Switzerland (it always has its article).",
+   "prompt": {
+    "lesson": "dw-a1-e4-l1",
+    "source": "script",
+    "text": "Warst du noch nie in Deutschland? Oder in Österreich oder in der Schweiz?",
+    "target": "der Schweiz"
+   },
+   "answer": "der Schweiz",
+   "covers": [],
+   "learnerError": {
+    "wrong": "der Sweiz",
+    "why": "sch: S-c-h-w-e-i-z"
+   },
+   "note": "die Schweiz → in der Schweiz, aus der Schweiz. Deutschland, Österreich: no article."
+  },
+  {
+   "key": "next-week-to-munich",
+   "kind": "production",
+   "lesson": "dw-a1-e4-l1",
+   "skill": "wohin: nach + city",
+   "scene": "Say that next week you are going to Munich (start with Nächste Woche; fahren).",
+   "answer": "Nächste Woche fahre ich nach München!",
+   "answerSource": {
+    "lesson": "dw-a1-e4-l1",
+    "source": "script"
+   },
+   "covers": [],
+   "grammarPage": "gr-38306057",
+   "note": "Time first: the verb stays 2nd, ich comes 3rd. Wohin? → nach München"
   },
   {
    "key": "come-and-play-along",
@@ -2129,7 +3236,8 @@
    },
    "covers": [
     "dw-a1-e4-l2:wo-liegt"
-   ]
+   ],
+   "grammarPage": "gr-38306265"
   },
   {
    "key": "seville-south-of-spain",
@@ -2178,7 +3286,79 @@
     "source": "exercises"
    },
    "covers": [],
-   "note": "The verb comes first. W-question: Woher kommst du?"
+   "note": "The verb comes first. W-question: Woher kommst du?",
+   "grammarPage": "gr-38306265"
+  },
+  {
+   "key": "is-hamburg-in-the-north",
+   "kind": "production",
+   "lesson": "dw-a1-e4-l2",
+   "skill": "yes-no question: verb first",
+   "scene": "Ask whether Hamburg is in the north of Germany (a yes-no question with liegen).",
+   "answer": "Liegt Hamburg im Norden von Deutschland?",
+   "answerSource": {
+    "lesson": "dw-a1-e4-l2",
+    "source": "exercises"
+   },
+   "covers": [],
+   "grammarPage": "gr-38306265",
+   "note": "Statement: Hamburg liegt im Norden von Deutschland. W-question: Wo liegt Hamburg?"
+  },
+  {
+   "key": "we-were-good",
+   "kind": "production",
+   "lesson": "dw-a1-e4-l2",
+   "skill": "past of sein: wir",
+   "scene": "After the party game, say to your teammates: we were good!",
+   "answer": "Wir waren gut!",
+   "answerSource": {
+    "lesson": "dw-a1-e4-l2",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "ich war · du warst · er/sie/es war · wir waren · ihr wart · sie/Sie waren"
+  },
+  {
+   "key": "yes-im-coming",
+   "kind": "production",
+   "lesson": "dw-a1-e4-l2",
+   "skill": "kommen: I'm coming",
+   "scene": "Your mother phones and calls you home. Answer: yes, I'm coming.",
+   "answer": "Ja, ich komme.",
+   "answerSource": {
+    "lesson": "dw-a1-e4-l2",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "Ich komme. = I'm coming. Ich komme aus … = I come from …"
+  },
+  {
+   "key": "lets-go-dancing-ihr",
+   "kind": "production",
+   "lesson": "dw-a1-e4-l2",
+   "skill": "suggestions: gehen wir",
+   "scene": "Call to your friends (ihr): come on, let's go dancing!",
+   "answer": "Kommt, gehen wir tanzen!",
+   "answerSource": {
+    "lesson": "dw-a1-e4-l2",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "One friend (du): Komm! · gehen wir … = let's go …"
+  },
+  {
+   "key": "not-that-good-yet",
+   "kind": "production",
+   "lesson": "dw-a1-e4-l2",
+   "skill": "noch nicht so gut",
+   "scene": "Nina explains to Selma: Nico doesn't speak German that well yet.",
+   "answer": "Nico spricht noch nicht so gut Deutsch.",
+   "answerSource": {
+    "lesson": "dw-a1-e4-l2",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "noch nicht = not yet. sprechen: er/sie/es spricht"
   },
   {
    "key": "man-isst-in-spanien",
@@ -2194,7 +3374,8 @@
    },
    "answer": "isst",
    "covers": [],
-   "note": "man takes the er/sie/es form: er isst · man isst. man (one n) ≠ der Mann."
+   "note": "man takes the er/sie/es form: er isst · man isst. man (one n) ≠ der Mann.",
+   "grammarPage": "gr-38306317"
   },
   {
    "key": "now-in-germany-time-first",
@@ -2208,7 +3389,8 @@
     "source": "exercises"
    },
    "covers": [],
-   "note": "The verb stays 2nd; the subject comes 3rd. Subject first: Ich bin jetzt in Deutschland."
+   "note": "The verb stays 2nd; the subject comes 3rd. Subject first: Ich bin jetzt in Deutschland.",
+   "grammarPage": "gr-38306661"
   },
   {
    "key": "cheese-in-france-place-first",
@@ -2222,7 +3404,8 @@
     "source": "exercises"
    },
    "covers": [],
-   "note": "In Frankreich fills position 1 together; the verb is 2nd. Subject first: Man isst in Frankreich viel Käse."
+   "note": "In Frankreich fills position 1 together; the verb is 2nd. Subject first: Man isst in Frankreich viel Käse.",
+   "grammarPage": "gr-38306661"
   },
   {
    "key": "pizza-in-italy-object-first",
@@ -2236,7 +3419,8 @@
     "source": "exercises"
    },
    "covers": [],
-   "note": "Place first: In Italien isst man Pizza. Subject first: Man isst in Italien Pizza."
+   "note": "Place first: In Italien isst man Pizza. Subject first: Man isst in Italien Pizza.",
+   "grammarPage": "gr-38306661"
   },
   {
    "key": "today-cathedral-time-first",
@@ -2251,6 +3435,66 @@
    },
    "covers": [],
    "note": "The verb stays 2nd; the subject comes 3rd. Subject first: Wir besichtigen heute den Dom."
+  },
+  {
+   "key": "take-me-along-du",
+   "kind": "production",
+   "lesson": "dw-a1-e4-l3",
+   "skill": "mitnehmen: question",
+   "scene": "Your friend is going to Norway next year. Ask (du): will you take me along?",
+   "answer": "Nimmst du mich mit?",
+   "answerSource": {
+    "lesson": "dw-a1-e4-l3",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "mitnehmen splits: nimmst … mit. nehmen: du nimmst (e → i)."
+  },
+  {
+   "key": "what-eat-drink-there-man",
+   "kind": "production",
+   "lesson": "dw-a1-e4-l3",
+   "skill": "man + verb",
+   "scene": "Someone tells you they come from Germany. Ask what people eat and drink there (man, dort; start with Und).",
+   "answer": "Und was isst und trinkt man dort?",
+   "answerSource": {
+    "lesson": "dw-a1-e4-l3",
+    "source": "exercises"
+   },
+   "covers": [],
+   "learnerError": {
+    "wrong": "drinkt",
+    "why": "German trinken starts with t: man trinkt"
+   },
+   "note": "man takes the er/sie/es form: man isst, man trinkt."
+  },
+  {
+   "key": "i-like-germany",
+   "kind": "production",
+   "lesson": "dw-a1-e4-l3",
+   "skill": "mögen",
+   "scene": "Say that you like Germany (mögen).",
+   "answer": "Ich mag Deutschland.",
+   "answerSource": {
+    "lesson": "dw-a1-e4-l3",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "mögen: ich mag · du magst · er/sie/es mag"
+  },
+  {
+   "key": "i-have-a-job-there",
+   "kind": "production",
+   "lesson": "dw-a1-e4-l3",
+   "skill": "haben + einen",
+   "scene": "You are moving to France soon. Explain why: you have a job there (with da).",
+   "answer": "Ich habe da einen Job.",
+   "answerSource": {
+    "lesson": "dw-a1-e4-l3",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "der Job → einen Job (after haben)"
   },
   {
    "key": "which-languages-du",
@@ -2270,7 +3514,8 @@
     "wrong": "Welche Sprachen sprechst du?",
     "why": "sprechen → du sprichst (e → i)"
    },
-   "note": "Formal: Welche Sprachen sprechen Sie?"
+   "note": "Formal: Welche Sprachen sprechen Sie?",
+   "grammarPage": "gr-38306997"
   },
   {
    "key": "speak-a-little-german",
@@ -2365,6 +3610,83 @@
    "note": "Inside: im Osten von … · next to it, outside: östlich von …"
   },
   {
+   "key": "table-sprechen-ihr",
+   "kind": "table",
+   "lesson": "dw-a1-e4-l4",
+   "skill": "sprechen: present tense",
+   "scene": "sprechen, present tense: the ihr row.",
+   "prompt": {
+    "lesson": "dw-a1-e4-l4",
+    "source": "exercises",
+    "text": "2nd person ¶ ihr sprecht",
+    "target": "sprecht"
+   },
+   "answer": "sprecht",
+   "covers": [],
+   "grammarPage": "gr-38306997",
+   "note": "e → i only in du sprichst and er/sie/es spricht."
+  },
+  {
+   "key": "was-the-party-good",
+   "kind": "production",
+   "lesson": "dw-a1-e4-l4",
+   "skill": "past of sein: question",
+   "scene": "The morning after a party, ask your flatmate whether the party was good.",
+   "answer": "War die Party gut?",
+   "answerSource": {
+    "lesson": "dw-a1-e4-l4",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "Yes-no question: the verb comes first."
+  },
+  {
+   "key": "party-was-great-reply",
+   "kind": "response",
+   "lesson": "dw-a1-e4-l4",
+   "skill": "past of sein: reply",
+   "scene": "Lisa asks you about last night's party. Say: very good! The party was great (super).",
+   "prompt": {
+    "lesson": "dw-a1-e4-l4",
+    "source": "script",
+    "text": "War die Party gut?"
+   },
+   "answer": "Sehr gut! Die Party war super!",
+   "answerSource": {
+    "lesson": "dw-a1-e4-l4",
+    "source": "script"
+   },
+   "covers": []
+  },
+  {
+   "key": "may-selma-stay",
+   "kind": "production",
+   "lesson": "dw-a1-e4-l4",
+   "skill": "dürfen: question",
+   "scene": "Ask whether Selma is allowed to stay in Germany (dürfen).",
+   "answer": "Darf Selma in Deutschland bleiben?",
+   "answerSource": {
+    "lesson": "dw-a1-e4-l4",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "dürfen: the infinitive goes to the end. Darf ich …? = May I …?"
+  },
+  {
+   "key": "german-course-learns-fast",
+   "kind": "production",
+   "lesson": "dw-a1-e4-l4",
+   "skill": "describing someone",
+   "scene": "Nico says Selma speaks very good German. Explain: she is doing a German course and learns very fast.",
+   "answer": "Sie macht einen Deutschkurs und lernt sehr schnell.",
+   "answerSource": {
+    "lesson": "dw-a1-e4-l4",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "einen Deutschkurs machen = to do a German course"
+  },
+  {
    "key": "where-are-the-pens",
    "kind": "production",
    "lesson": "dw-a1-e5-l1",
@@ -2380,7 +3702,8 @@
     "wrong": "wo ist die Stifte",
     "why": "die Stifte is plural: sind"
    },
-   "note": "One: Wo ist der Stift? · more than one: Wo sind die Stifte?"
+   "note": "One: Wo ist der Stift? · more than one: Wo sind die Stifte?",
+   "grammarPage": "gr-38305882"
   },
   {
    "key": "have-to-go-to-class",
@@ -2394,6 +3717,66 @@
     "source": "script"
    },
    "covers": []
+  },
+  {
+   "key": "what-are-you-looking-for-du",
+   "kind": "production",
+   "lesson": "dw-a1-e5-l1",
+   "skill": "W-question: suchen, du-form",
+   "scene": "A friend is rushing around the kitchen, searching for something. Ask what they're looking for (du).",
+   "answer": "Was suchst du?",
+   "answerSource": {
+    "lesson": "dw-a1-e5-l1",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "ich suche · du suchst · er/sie sucht"
+  },
+  {
+   "key": "she-teaches-german",
+   "kind": "production",
+   "lesson": "dw-a1-e5-l1",
+   "skill": "verb ending -et: unterrichten",
+   "scene": "Lisa works at a language school. Say what she does there: she teaches German. Start with Sie.",
+   "answer": "Sie unterrichtet Deutsch.",
+   "answerSource": {
+    "lesson": "dw-a1-e5-l1",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "The stem ends in -t, so er/sie adds -et: unterrichtet"
+  },
+  {
+   "key": "emma-is-already-waiting",
+   "kind": "production",
+   "lesson": "dw-a1-e5-l1",
+   "skill": "verb ending -et: warten",
+   "scene": "You're in a hurry. Say that Emma is already waiting too! Start with Emma.",
+   "answer": "Emma wartet auch schon!",
+   "answerSource": {
+    "lesson": "dw-a1-e5-l1",
+    "source": "script"
+   },
+   "covers": [],
+   "learnerError": {
+    "wrong": "warter",
+    "why": "warten, er/sie-form: wartet"
+   },
+   "note": "The stem ends in -t, so er/sie adds -et: wartet"
+  },
+  {
+   "key": "where-are-my-glasses",
+   "kind": "production",
+   "lesson": "dw-a1-e5-l1",
+   "skill": "possessive: meine",
+   "scene": "You can't find your own glasses. Ask out loud where they are (my glasses).",
+   "answer": "Wo ist meine Brille?",
+   "answerSource": {
+    "lesson": "dw-a1-e5-l1",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "One pair of glasses is one Brille: ist · die Brille → meine Brille · der Stift → mein Stift"
   },
   {
    "key": "whose-is-that",
@@ -2423,7 +3806,8 @@
     "source": "exercises"
    },
    "covers": [],
-   "note": "Any bag: eine Tasche · a known bag (Jenny's): die Tasche"
+   "note": "Any bag: eine Tasche · a known bag (Jenny's): die Tasche",
+   "grammarPage": "gr-38305937"
   },
   {
    "key": "no-those-are-pens",
@@ -2445,7 +3829,8 @@
    "accept": [
     "Nein, das sind Stifte."
    ],
-   "note": "One: Das ist ein Stift. · More than one: Das sind Stifte (no article)."
+   "note": "One: Das ist ein Stift. · More than one: Das sind Stifte (no article).",
+   "grammarPage": "gr-38305916"
   },
   {
    "key": "what-you-learn-in-class",
@@ -2464,7 +3849,8 @@
     "source": "exercises"
    },
    "covers": [],
-   "note": "das Wort → die Wörter · der Satz → die Sätze"
+   "note": "das Wort → die Wörter · der Satz → die Sätze",
+   "grammarPage": "gr-38306003"
   },
   {
    "key": "lesen-du-liest",
@@ -2480,7 +3866,97 @@
    },
    "answer": "Liest",
    "covers": [],
-   "note": "ich lese · du liest · er/sie/es liest: e → ie · ihr lest"
+   "note": "ich lese · du liest · er/sie/es liest: e → ie · ihr lest",
+   "grammarPage": "gr-38306055"
+  },
+  {
+   "key": "table-lesen-ich",
+   "kind": "table",
+   "lesson": "dw-a1-e5-l2",
+   "skill": "lesen: present tense",
+   "scene": "lesen, present tense: the ich row.",
+   "prompt": {
+    "lesson": "dw-a1-e5-l2",
+    "source": "exercises",
+    "text": "1st person ¶ ich lese",
+    "target": "lese"
+   },
+   "answer": "lese",
+   "covers": [],
+   "grammarPage": "gr-38306055",
+   "note": "ich lese · du liest · er/sie/es liest: e → ie only for du and er/sie/es"
+  },
+  {
+   "key": "table-lesen-ihr",
+   "kind": "table",
+   "lesson": "dw-a1-e5-l2",
+   "skill": "lesen: present tense",
+   "scene": "lesen, present tense: the ihr row.",
+   "prompt": {
+    "lesson": "dw-a1-e5-l2",
+    "source": "exercises",
+    "text": "2nd person ¶ ihr lest",
+    "target": "lest"
+   },
+   "answer": "lest",
+   "covers": [],
+   "grammarPage": "gr-38306055",
+   "note": "ihr lest: no ie (only du liest, er/sie/es liest)"
+  },
+  {
+   "key": "plural-notizbloecke",
+   "kind": "completion",
+   "lesson": "dw-a1-e5-l2",
+   "skill": "plural with umlaut",
+   "scene": "Nouns: plural. Type the plural of der Notizblock.",
+   "prompt": {
+    "lesson": "dw-a1-e5-l2",
+    "source": "exercises",
+    "text": "der Notizblock, die Notizblöcke",
+    "target": "Notizblöcke"
+   },
+   "answer": "Notizblöcke",
+   "covers": [],
+   "grammarPage": "gr-38306003",
+   "note": "Ending -e plus an umlaut: o → ö (like das Buch → die Bücher)"
+  },
+  {
+   "key": "that-is-a-board",
+   "kind": "response",
+   "lesson": "dw-a1-e5-l2",
+   "skill": "indefinite article: eine",
+   "scene": "Your teacher points at the board in the classroom. Say what it is (a board).",
+   "prompt": {
+    "lesson": "dw-a1-e5-l2",
+    "source": "script",
+    "text": "Also, was ist das?"
+   },
+   "answer": "Das ist eine Tafel.",
+   "answerSource": {
+    "lesson": "dw-a1-e5-l2",
+    "source": "script"
+   },
+   "covers": [],
+   "grammarPage": "gr-38305916",
+   "note": "Any board: eine Tafel · Jenny's bag: die Tasche von Jenny"
+  },
+  {
+   "key": "know-other-nouns-ihr",
+   "kind": "production",
+   "lesson": "dw-a1-e5-l2",
+   "skill": "ihr-question: kennen",
+   "scene": "You're the teacher. Ask the whole class (ihr) whether they know any other nouns with articles (use noch andere).",
+   "answer": "Kennt ihr noch andere Nomen mit Artikeln?",
+   "answerSource": {
+    "lesson": "dw-a1-e5-l2",
+    "source": "script"
+   },
+   "covers": [],
+   "learnerError": {
+    "wrong": "Kennt noch",
+    "why": "you ask the whole class: Kennt ihr"
+   },
+   "note": "ihr kennt · mit + plural adds -n: mit Artikeln"
   },
   {
    "key": "table-nominative-masculine",
@@ -2496,7 +3972,8 @@
    },
    "answer": "kein",
    "covers": [],
-   "note": "Das ist kein Stift. · accusative: den/einen/keinen"
+   "note": "Das ist kein Stift. · accusative: den/einen/keinen",
+   "grammarPage": "gr-38306217"
   },
   {
    "key": "table-feminine",
@@ -2512,7 +3989,8 @@
    },
    "answer": "keine",
    "covers": [],
-   "note": "Das ist keine Brille. · Ich habe keine Brille."
+   "note": "Das ist keine Brille. · Ich habe keine Brille.",
+   "grammarPage": "gr-38306441"
   },
   {
    "key": "table-neuter",
@@ -2528,7 +4006,8 @@
    },
    "answer": "kein",
    "covers": [],
-   "note": "Das ist kein Buch. · Ich habe kein Buch."
+   "note": "Das ist kein Buch. · Ich habe kein Buch.",
+   "grammarPage": "gr-38306441"
   },
   {
    "key": "table-plural",
@@ -2544,7 +4023,8 @@
    },
    "answer": "keine",
    "covers": [],
-   "note": "Das sind keine Stifte. · Ich habe keine Bücher."
+   "note": "Das sind keine Stifte. · Ich habe keine Bücher.",
+   "grammarPage": "gr-38306441"
   },
   {
    "key": "table-accusative-masculine",
@@ -2560,7 +4040,8 @@
    },
    "answer": "den",
    "covers": [],
-   "note": "Only the masculine changes: der → den, ein → einen, kein → keinen."
+   "note": "Only the masculine changes: der → den, ein → einen, kein → keinen.",
+   "grammarPage": "gr-38306279"
   },
   {
    "key": "no-i-have-no-pen",
@@ -2579,7 +4060,8 @@
     "source": "exercises"
    },
    "covers": [],
-   "note": "der Stift → einen/keinen Stift after haben (accusative). In the film Nico says: ich hab keinen Stift."
+   "note": "der Stift → einen/keinen Stift after haben (accusative). In the film Nico says: ich hab keinen Stift.",
+   "grammarPage": "gr-38306441"
   },
   {
    "key": "no-that-is-no-pen",
@@ -2598,7 +4080,8 @@
     "source": "exercises"
    },
    "covers": [],
-   "note": "After sein the nominative stays: ein → kein. After haben: keinen Stift."
+   "note": "After sein the nominative stays: ein → kein. After haben: keinen Stift.",
+   "grammarPage": "gr-38306441"
   },
   {
    "key": "glasses-case-but-no-glasses",
@@ -2627,7 +4110,8 @@
    },
    "answer": "einen",
    "covers": [],
-   "note": "Subjekt (Nominativ): das Buch · Objekt (Akkusativ): einen Euro"
+   "note": "Subjekt (Nominativ): das Buch · Objekt (Akkusativ): einen Euro",
+   "grammarPage": "gr-38306279"
   },
   {
    "key": "answer-the-phone-with-your-name",
@@ -2642,6 +4126,87 @@
    },
    "covers": [],
    "note": "On the phone, hier + your name = this is … speaking."
+  },
+  {
+   "key": "sorry-du-entschuldige",
+   "kind": "production",
+   "lesson": "dw-a1-e5-l3",
+   "skill": "register: sorry to a friend (du)",
+   "scene": "Your phone rings while you're talking to a friend. Say sorry with the du-form of entschuldigen. Start with Oh.",
+   "answer": "Oh, entschuldige!",
+   "answerSource": {
+    "lesson": "dw-a1-e5-l3",
+    "source": "script"
+   },
+   "covers": [],
+   "learnerError": {
+    "wrong": "Oh, entschuldigung.",
+    "why": "to a friend (du) the verb: entschuldige! · die Entschuldigung is the noun"
+   },
+   "note": "du: entschuldige! · Sie: entschuldigen Sie!"
+  },
+  {
+   "key": "where-is-my-pen",
+   "kind": "production",
+   "lesson": "dw-a1-e5-l3",
+   "skill": "possessive: mein",
+   "scene": "You can't find your own pen. Ask out loud where it is (my pen).",
+   "answer": "Wo ist mein Stift?",
+   "answerSource": {
+    "lesson": "dw-a1-e5-l3",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "der Stift → mein Stift · die Brille → meine Brille"
+  },
+  {
+   "key": "flat-has-a-terrace",
+   "kind": "production",
+   "lesson": "dw-a1-e5-l3",
+   "skill": "haben + accusative: eine",
+   "scene": "Someone calls about your flat-share ad. Say yes, the apartment has a terrace.",
+   "answer": "Ja, die Wohnung hat eine Terrasse.",
+   "answerSource": {
+    "lesson": "dw-a1-e5-l3",
+    "source": "script"
+   },
+   "covers": [],
+   "learnerError": {
+    "wrong": "Terrase",
+    "why": "double s: die Terrasse"
+   },
+   "note": "Feminine: eine stays eine after haben"
+  },
+  {
+   "key": "no-lift-in-the-house",
+   "kind": "production",
+   "lesson": "dw-a1-e5-l3",
+   "skill": "sein + kein (nominative)",
+   "scene": "Someone asks about your flat-share. Say no, there's no lift in the house. Start with Nein, im Haus.",
+   "answer": "Nein, im Haus ist kein Aufzug.",
+   "answerSource": {
+    "lesson": "dw-a1-e5-l3",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "sein: kein Aufzug · haben: Wir haben im Haus keinen Aufzug."
+  },
+  {
+   "key": "no-ham-keinen",
+   "kind": "completion",
+   "lesson": "dw-a1-e5-l3",
+   "skill": "kein with a noun without article",
+   "scene": "der Schinken, here without an article. Type the missing word.",
+   "prompt": {
+    "lesson": "dw-a1-e5-l3",
+    "source": "exercises",
+    "text": "Isst Nina Schinken? – Nein, Nina isst keinen Schinken.",
+    "target": "keinen"
+   },
+   "answer": "keinen",
+   "covers": [],
+   "grammarPage": "gr-38306441",
+   "note": "No article in the question → kein- in the answer, not nicht: keinen Schinken"
   },
   {
    "key": "i-spy-red-and-new",
@@ -2690,7 +4255,8 @@
     "source": "exercises"
    },
    "covers": [],
-   "note": "Learn adjectives in pairs: alt – neu · groß – klein · billig – teuer"
+   "note": "Learn adjectives in pairs: alt – neu · groß – klein · billig – teuer",
+   "grammarPage": "gr-38306500"
   },
   {
    "key": "es-gibt-keinen-fahrradladen",
@@ -2707,6 +4273,49 @@
    "answer": "keinen",
    "covers": [],
    "note": "Hier ist kein Fahrradladen. (sein: nominative) · Es gibt … keinen Fahrradladen. (accusative)"
+  },
+  {
+   "key": "no-bike-shop-here",
+   "kind": "production",
+   "lesson": "dw-a1-e5-l4",
+   "skill": "sein + kein (nominative)",
+   "scene": "You're at the address, but you can't see the bike shop. Say there's no bike shop here. Start with Hier.",
+   "answer": "Hier ist kein Fahrradladen.",
+   "answerSource": {
+    "lesson": "dw-a1-e5-l4",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "sein: kein Fahrradladen · es gibt: keinen Fahrradladen (accusative)"
+  },
+  {
+   "key": "the-address-is-wrong",
+   "kind": "production",
+   "lesson": "dw-a1-e5-l4",
+   "skill": "adjective after sein",
+   "scene": "You're standing at the wrong place. Say the address is wrong.",
+   "answer": "Die Adresse ist falsch.",
+   "answerSource": {
+    "lesson": "dw-a1-e5-l4",
+    "source": "script"
+   },
+   "covers": [],
+   "grammarPage": "gr-38306500",
+   "note": "The adjective comes after ist · falsch ≠ richtig"
+  },
+  {
+   "key": "we-are-in-the-right-place",
+   "kind": "production",
+   "lesson": "dw-a1-e5-l4",
+   "skill": "richtig sein",
+   "scene": "Your friend says there's no bike shop here. Agree, but say you're in the right place. Start with Ja, aber.",
+   "answer": "Ja, aber wir sind richtig.",
+   "answerSource": {
+    "lesson": "dw-a1-e5-l4",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "wir sind richtig = we're in the right place"
   },
   {
    "key": "du-kannst-nur-noch-zwei-tage",
@@ -2755,6 +4364,140 @@
    "note": "du verstehst → Verstehst du? (the verb comes first)"
   },
   {
+   "key": "our-heating-is-broken",
+   "kind": "production",
+   "lesson": "dw-a1-e6-l1",
+   "skill": "possessive: unsere",
+   "scene": "Explain to your guest why he must move out: our heating (die Heizung) is broken.",
+   "answer": "Unsere Heizung ist kaputt.",
+   "answerSource": {
+    "lesson": "dw-a1-e6-l1",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "die Heizung → unsere Heizung · der/das: unser"
+  },
+  {
+   "key": "find-myself-a-hotel",
+   "kind": "production",
+   "lesson": "dw-a1-e6-l1",
+   "skill": "suchen + accusative",
+   "scene": "You can't stay in the shared flat. Say you'll look for a hotel for yourself (suchen, with mir).",
+   "answer": "Ich suche mir ein Hotel.",
+   "answerSource": {
+    "lesson": "dw-a1-e6-l1",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "das Hotel → ein Hotel (neuter: same in nominative and accusative)"
+  },
+  {
+   "key": "reply-hotel-very-expensive",
+   "kind": "response",
+   "lesson": "dw-a1-e6-l1",
+   "skill": "reply: disagree",
+   "scene": "Your friend wants to stay in a hotel. Say no: that is very expensive. (Two short sentences.)",
+   "prompt": {
+    "lesson": "dw-a1-e6-l1",
+    "source": "script",
+    "text": "Du bist nicht da? Ich suche mir ein Hotel."
+   },
+   "answer": "Nein. Das ist sehr teuer.",
+   "answerSource": {
+    "lesson": "dw-a1-e6-l1",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "sehr + adjective: sehr teuer"
+  },
+  {
+   "key": "young-people-stay-there",
+   "kind": "production",
+   "lesson": "dw-a1-e6-l1",
+   "skill": "plural subject + verb",
+   "scene": "Recommend a youth hostel: many young people stay overnight there (dort).",
+   "answer": "Viele junge Leute übernachten dort.",
+   "answerSource": {
+    "lesson": "dw-a1-e6-l1",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "übernachten = to stay overnight · die Leute is plural: sie übernachten"
+  },
+  {
+   "key": "this-is-lisas-car-definite",
+   "kind": "completion",
+   "lesson": "dw-a1-e6-l1",
+   "skill": "definite article: a particular thing",
+   "scene": "First any car, then Lisa's car: a particular one. Type the article and the noun.",
+   "prompt": {
+    "lesson": "dw-a1-e6-l1",
+    "source": "exercises",
+    "text": "Das ist ein Auto. Das ist das Auto von Lisa.",
+    "target": "das Auto"
+   },
+   "answer": "das Auto",
+   "covers": [],
+   "grammarPage": "gr-38303814",
+   "note": "das Auto von Lisa (you know which one) · ein Auto (no details) · kein Fahrrad (not a bike)"
+  },
+  {
+   "key": "we-have-a-problem",
+   "kind": "production",
+   "lesson": "dw-a1-e6-l1",
+   "skill": "haben: wir haben",
+   "scene": "Tell your flatmate there is trouble: we have a problem.",
+   "answer": "Wir haben ein Problem.",
+   "answerSource": {
+    "lesson": "dw-a1-e6-l1",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "wir haben · das Problem → ein Problem"
+  },
+  {
+   "key": "then-you-must-move-out",
+   "kind": "production",
+   "lesson": "dw-a1-e6-l1",
+   "skill": "müssen + infinitive at the end",
+   "scene": "Tell your guest (du): then you have to move out (umziehen). Start with Dann.",
+   "answer": "Dann musst du umziehen.",
+   "answerSource": {
+    "lesson": "dw-a1-e6-l1",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "müssen: du musst · the infinitive umziehen goes to the end"
+  },
+  {
+   "key": "maybe-they-have-a-room-free",
+   "kind": "production",
+   "lesson": "dw-a1-e6-l1",
+   "skill": "verb in position 2",
+   "scene": "Your friend needs a room. Say: maybe they (your friends) have a room free. Start with Vielleicht.",
+   "answer": "Vielleicht haben sie ein Zimmer frei.",
+   "answerSource": {
+    "lesson": "dw-a1-e6-l1",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "Vielleicht takes position 1, so the verb comes next: haben sie"
+  },
+  {
+   "key": "a-youth-hostel-is-better",
+   "kind": "production",
+   "lesson": "dw-a1-e6-l1",
+   "skill": "recommend: X ist besser",
+   "scene": "Your friend wants a hotel. Recommend something else: a youth hostel is better.",
+   "answer": "Eine Jugendherberge ist besser.",
+   "answerSource": {
+    "lesson": "dw-a1-e6-l1",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "gut → besser · die Jugendherberge → eine"
+  },
+  {
    "key": "hallway-not-bright-but-dark",
    "kind": "production",
    "lesson": "dw-a1-e6-l2",
@@ -2766,7 +4509,8 @@
     "source": "exercises"
    },
    "covers": [],
-   "note": "nicht comes right before the adjective · der Flur → er"
+   "note": "nicht comes right before the adjective · der Flur → er",
+   "grammarPage": "gr-38303845"
   },
   {
    "key": "how-many-square-meters",
@@ -2781,6 +4525,212 @@
    },
    "covers": [],
    "note": "Wie viele + plural: Quadratmeter, Zimmer"
+  },
+  {
+   "key": "looking-for-a-new-wg",
+   "kind": "production",
+   "lesson": "dw-a1-e6-l2",
+   "skill": "suchen + accusative",
+   "scene": "At a flat viewing, say why you came: you're looking for a new shared flat (the short word).",
+   "answer": "Ich suche eine neue WG.",
+   "answerSource": {
+    "lesson": "dw-a1-e6-l2",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "die WG → eine neue WG"
+  },
+  {
+   "key": "marvin-would-like-to-see-your-room",
+   "kind": "production",
+   "lesson": "dw-a1-e6-l2",
+   "skill": "möchte + infinitive at the end",
+   "scene": "Introduce the visitor Marvin to your flatmate (du): Marvin would like to see your room.",
+   "answer": "Marvin möchte dein Zimmer sehen.",
+   "answerSource": {
+    "lesson": "dw-a1-e6-l2",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "möchte … sehen: the infinitive goes to the end"
+  },
+  {
+   "key": "okay-then-lets-start",
+   "kind": "production",
+   "lesson": "dw-a1-e6-l2",
+   "skill": "separable verb; verb before subject",
+   "scene": "Everyone is here for the viewing. Say: okay, then let's start (anfangen)! Start with “Okay, dann”.",
+   "answer": "Okay, dann fangen wir an!",
+   "answerSource": {
+    "lesson": "dw-a1-e6-l2",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "anfangen: wir fangen … an · after dann the verb comes before wir"
+  },
+  {
+   "key": "how-many-rooms-does-the-flat-have",
+   "kind": "production",
+   "lesson": "dw-a1-e6-l2",
+   "skill": "W-question: Wie viele …?",
+   "scene": "At a WG viewing, ask how many rooms the flat (die Wohnung) has.",
+   "answer": "Wie viele Zimmer hat die Wohnung?",
+   "answerSource": {
+    "lesson": "dw-a1-e6-l2",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "Wie viele + plural: das Zimmer → die Zimmer"
+  },
+  {
+   "key": "the-room-is-free-soon",
+   "kind": "production",
+   "lesson": "dw-a1-e6-l2",
+   "skill": "sein + bald + adjective",
+   "scene": "Tell a visitor the room (das Zimmer) will soon be free. Use ist and bald.",
+   "answer": "Das Zimmer ist bald frei.",
+   "answerSource": {
+    "lesson": "dw-a1-e6-l2",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "German often uses the present for the near future: ist bald frei"
+  },
+  {
+   "key": "i-think-ten-square-meters",
+   "kind": "production",
+   "lesson": "dw-a1-e6-l2",
+   "skill": "Ich glaube, … oder?",
+   "scene": "Asked how big the room (das Zimmer) is, you're not sure. Say you think (glauben) it has ten square meters (number as a word), then add “right?”. Use a pronoun for the room.",
+   "answer": "Ich glaube, es hat zehn Quadratmeter, oder?",
+   "answerSource": {
+    "lesson": "dw-a1-e6-l2",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "das Zimmer → es · …, oder? = …, right?"
+  },
+  {
+   "key": "we-often-sit-here",
+   "kind": "production",
+   "lesson": "dw-a1-e6-l2",
+   "skill": "verb in position 2",
+   "scene": "Showing the kitchen: say we often sit here. Start with Hier.",
+   "answer": "Hier sitzen wir oft.",
+   "answerSource": {
+    "lesson": "dw-a1-e6-l2",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "Hier takes position 1, so the verb comes next, then wir"
+  },
+  {
+   "key": "how-expensive-is-the-room",
+   "kind": "production",
+   "lesson": "dw-a1-e6-l2",
+   "skill": "W-question: Wie teuer …?",
+   "scene": "At a WG viewing, ask how expensive the room (das Zimmer) is. Use teuer.",
+   "answer": "Wie teuer ist das Zimmer?",
+   "answerSource": {
+    "lesson": "dw-a1-e6-l2",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "Also possible: Was kostet das Zimmer?"
+  },
+  {
+   "key": "ill-take-the-room",
+   "kind": "production",
+   "lesson": "dw-a1-e6-l2",
+   "skill": "nehmen: ich nehme",
+   "scene": "After the viewing you decide at once: I'll take the room (das Zimmer)!",
+   "answer": "Ich nehme das Zimmer!",
+   "answerSource": {
+    "lesson": "dw-a1-e6-l2",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "nehmen: ich nehme · du nimmst · er nimmt"
+  },
+  {
+   "key": "but-well-call-you",
+   "kind": "production",
+   "lesson": "dw-a1-e6-l2",
+   "skill": "separable verb: anrufen",
+   "scene": "End a WG viewing with a visitor (du): other people are still coming, but we'll call you (anrufen). Start with Aber.",
+   "answer": "Aber wir rufen dich an.",
+   "answerSource": {
+    "lesson": "dw-a1-e6-l2",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "anrufen: wir rufen … an · dich = you (du, accusative)"
+  },
+  {
+   "key": "you-want-to-see-the-room",
+   "kind": "production",
+   "lesson": "dw-a1-e6-l2",
+   "skill": "wollen + infinitive at the end",
+   "scene": "Greet a visitor (du) at a flat viewing and check: you want to look at the room (sich anschauen)? Start with Du.",
+   "answer": "Du willst dir das Zimmer anschauen?",
+   "answerSource": {
+    "lesson": "dw-a1-e6-l2",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "wollen: du willst · anschauen goes to the end"
+  },
+  {
+   "key": "reply-five-rooms-kitchen-bath",
+   "kind": "response",
+   "lesson": "dw-a1-e6-l2",
+   "skill": "es gibt + accusative",
+   "scene": "Answer: there are five rooms, a kitchen and a bathroom (the short word). Use es gibt.",
+   "prompt": {
+    "lesson": "dw-a1-e6-l2",
+    "source": "script",
+    "text": "Wie viele Zimmer hat die Wohnung?"
+   },
+   "answer": "Es gibt fünf Zimmer, eine Küche und ein Bad.",
+   "answerSource": {
+    "lesson": "dw-a1-e6-l2",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "es gibt + accusative: eine Küche, ein Bad"
+  },
+  {
+   "key": "reply-rent-400-a-month",
+   "kind": "response",
+   "lesson": "dw-a1-e6-l2",
+   "skill": "price: kosten + im Monat",
+   "scene": "Answer: the rent with additional costs is 400 euros a month. Use kosten and write the number in digits.",
+   "prompt": {
+    "lesson": "dw-a1-e6-l2",
+    "source": "script",
+    "text": "Wie teuer ist das Zimmer?"
+   },
+   "answer": "Die Miete kostet mit Nebenkosten 400 Euro im Monat.",
+   "answerSource": {
+    "lesson": "dw-a1-e6-l2",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "die Miete = the rent · mit Nebenkosten = with additional costs · im Monat = a month"
+  },
+  {
+   "key": "the-kitchen-is-very-cozy",
+   "kind": "production",
+   "lesson": "dw-a1-e6-l2",
+   "skill": "describe a room: sein + adjective",
+   "scene": "Showing the flat: say the kitchen (die Küche) is very cozy.",
+   "answer": "Die Küche ist sehr gemütlich.",
+   "answerSource": {
+    "lesson": "dw-a1-e6-l2",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "gemütlich ↔ ungemütlich"
   }
  ]
 }

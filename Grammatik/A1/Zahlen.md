@@ -123,7 +123,7 @@ In the first example the phone number is said one digit at a time; Lotte's numbe
 ## Sentences cards
 
 - `time-nine`, `phone-number-pairs`, `how-many-people`, `my-phone-number`, `price-answer-834`,
-  `ticket-number-reply`, `total-together`, `say-price-750`. The number words themselves are in the Vocabulary deck (VHS Lektion 2,
+  `ticket-number-reply`, `total-together`, `say-price-750`, `table-numbers-16`, `table-numbers-26`, `number-2976`. The number words themselves are in the Vocabulary deck (VHS Lektion 2,
   DW E2 L1, E2 L4).
 
 ## My rule in my own words

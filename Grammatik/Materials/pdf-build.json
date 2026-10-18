@@ -1,7 +1,7 @@
 {
  "description": "Written by docs/tools/build_grammar_pdf.py. 'inputs' fingerprints the builder, README.md, every page and the cheatsheet; the unit tests fail when it no longer matches, so the PDFs never lag the pages.",
- "inputs": "06443a731301fedb354d446f5dd32993a7a195f92f43678b76cef2e0ec43383b",
- "pdf": "c6276f4486902120747cf6214b0b36860867b795c18307199ead1708d6844126",
+ "inputs": "534516f96923e9794b5fd1aa3648ac022111097985a9282c379a37eefeee9e01",
+ "pdf": "1cd8f79ff513f5ee42fd40d71e0be168f1ab5a1bf14e8fda4f005437c481edaa",
  "cheatsheet": "37dd7489e317961a3c8009f87606ceb30d80ad3ba9d4fa480732c83cecf5f40f",
  "sheets": {
   "Artikel.md": "306449f71c80cf7e5020abb8876eb34b80036347ba919d20aef40389bc350509",
@@ -52,7 +52,7 @@
  ],
  "tools": {
   "pandoc": "pandoc 3.9.0.2",
-  "chrome": "Google Chrome 155.0.8059.40",
+  "chrome": "Google Chrome 155.0.8059.82",
   "pdftoppm": "pdftoppm version 26.04.0"
  }
 }

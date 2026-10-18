@@ -70,6 +70,7 @@ Source: DW grammar page *Articles: indefinite*. The genders: [Genus](Genus.md).
 - `that-is-jennys-bag`: *Das ist die Tasche von Jenny.*
 - `whose-is-that`: *Wem gehört das?*
 - `no-those-are-pens`: *Nein. Das sind Stifte.*
+- `that-is-a-board`: *Das ist eine Tafel.*
 
 ## My rule in my own words
 

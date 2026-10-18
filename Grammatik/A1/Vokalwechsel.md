@@ -90,9 +90,9 @@ In the script Nina says *ich nehm*, the spoken short form of *ich nehme*.
 
 ## Sentences cards
 
-- `nehmen-du-nimmst`, `nehmen-er-nimmt`, `essen-du-isst`, `ask-order-ihr`, `anything-else-tuna`
-- sprechen: `which-languages-du`, `speak-a-little-german`, `she-speaks-chinese`, `speaks-not-well`
-- lesen: `lesen-du-liest`
+- `nehmen-du-nimmst`, `nehmen-er-nimmt`, `essen-du-isst`, `ask-order-ihr`, `anything-else-tuna`, `table-essen-ich`, `table-essen-ihr`
+- sprechen: `which-languages-du`, `speak-a-little-german`, `she-speaks-chinese`, `speaks-not-well`, `table-sprechen-ihr`
+- lesen: `lesen-du-liest`, `table-lesen-ich`, `table-lesen-ihr`
 
 ## My rule in my own words
 

@@ -121,7 +121,7 @@ DW E4 L1: [Prepositions of place: in, nach](https://learngerman.dw.com/en/prepos
 - wohnen in: `live-in-sevilla`, `where-live-informal`, `where-live-formal`
 - kommen aus: `from-spain`, `comes-from-spain`, `where-from-informal`, `where-from-formal`
 - streets: `street-in-der`, `street-im`, `street-am`, `police-on-schreinerstrasse`
-- nach and in: `want-to-go-to-berlin`, `where-study-in-leipzig`
+- nach and in: `want-to-go-to-berlin`, `where-study-in-leipzig`, `next-week-to-munich`
 - im … von, in der Nähe von: `seville-south-of-spain`, `potsdam-near-berlin`
 - …lich von or im … von: `switzerland-west-of-austria`, `sudan-south-of-egypt`, `red-sea-east-of-egypt`, `egypt-in-east-of-north-africa`
 

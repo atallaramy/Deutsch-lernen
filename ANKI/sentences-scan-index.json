@@ -1,8 +1,8 @@
 {
   "deck": "A1::Sentences",
-  "revision": "2026-10-16T09:00:00Z",
+  "revision": "2026-10-18T17:00:00Z",
   "qualityPolicy": "Productive sentences, replies, register switches and contextual forms from the lessons. No audio.",
-  "cards": 173,
+  "cards": 299,
   "sources": [
     {
       "id": "dw-a1-e0-l1",
@@ -371,9 +371,9 @@
   ],
   "packages": {
     "ANKI/A1/sentences.apkg": {
-      "notes": 173,
-      "cards": 173,
-      "sha256": "1d600d44fe2a0c6e7028b32336cbb8c4490d0e21c62d80e291c1f69adb5e5c9e"
+      "notes": 299,
+      "cards": 299,
+      "sha256": "9ed74675af45e8534f27ebb73524860aa2a8aec14eddddcff8605b2b2b7d4530"
     }
   }
 }

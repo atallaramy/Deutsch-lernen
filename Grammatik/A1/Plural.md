@@ -70,6 +70,7 @@ Every plural is on the back of its Vocabulary card.
 - `no-those-are-pens`: *Nein. Das sind Stifte.*
 - `what-you-learn-in-class`: *Ich lerne Wörter und Sätze.*
 - `where-are-the-pens`: *Wo sind die Stifte?*
+- `plural-notizbloecke`: *der Notizblock, die Notizblöcke*
 
 ## My rule in my own words
 

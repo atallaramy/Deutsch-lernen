@@ -1,6 +1,6 @@
 {
  "schemaVersion": 3,
- "revision": "2026-10-16T09:00:00Z",
+ "revision": "2026-10-18T17:00:00Z",
  "policy": "Faithful capture of what the learner studied: official lesson glossaries, useful words and phrases from the official scripts and exercises, and items from the learner's notes. Official spelling is canonical; the learner's spelling is kept as learnerForm. Nothing captured is removed. pendingEntries wait for the learner's yes/no and are never built; declinedEntries record a learner's no.",
  "courses": [
   {
@@ -668,6 +668,7 @@
        "url": "https://learngerman.dw.com/en/kein-problem/l-37251054"
       }
      ],
+     "fewSentences": "Short welcome lesson: a few script lines, mostly formulas (Mist!, Kein Problem, Stopp!); the rest are single words (Vocabulary).",
      "entries": [
       {
        "id": "die-bank",

@@ -95,6 +95,7 @@ auto-generated, so this page quotes DW only.
 
 - `how-are-you-informal`, `how-are-you-formal`, `reply-informal`, `reply-formal`, `doing-well`, `doing-well-short`
 - `bye-martina`, `take-care-herbert`
+- Herr/Frau + surname: `greet-frau-schneider-morning`, `bye-herr-tillmanns`
 
 ## My rule in my own words
 

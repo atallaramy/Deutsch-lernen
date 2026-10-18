@@ -113,6 +113,8 @@ negation* and *Articles* (E6 L1). The genders: [Genus](Genus.md); *ein*: [Unbest
 - `glasses-case-but-no-glasses`: *Ich habe ein Brillenetui, aber keine Brille.*
 - `the-book-costs-a-euro`: *Das Buch kostet einen Euro.*
 - `es-gibt-keinen-fahrradladen`: *Es gibt hier wirklich keinen Fahrradladen.*
+- `no-ham-keinen`: *Isst Nina Schinken? – Nein, Nina isst keinen Schinken.*
+- `this-is-lisas-car-definite`: *Das ist ein Auto. Das ist das Auto von Lisa.*
 
 ## My rule in my own words
 

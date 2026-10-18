@@ -68,7 +68,7 @@ VHS Lektion 2 vocabulary trainer (*wir* = we, *sie* = she / they).
 
 - she / they: `she-computer-course`, `they-german-course`, `she-speaks-chinese`, `they-speak-english`
 - he / she: `he-is-taxi-driver`, `she-is-taxi-driver`, `comes-from-spain`
-- ich, du, ihr: `i-am-nico`, `you-are-emma`, `have-problem-plural`
+- ich, du, ihr: `i-am-nico`, `you-are-emma`, `have-problem-plural`, `table-heissen-ihr`
 
 ## My rule in my own words
 
