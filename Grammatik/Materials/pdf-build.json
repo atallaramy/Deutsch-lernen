@@ -1,6 +1,6 @@
 {
  "description": "Written by docs/tools/build_grammar_pdf.py. 'inputs' fingerprints the builder, README.md, every page and the cheatsheet; the unit tests fail when it no longer matches, so the PDFs never lag the pages.",
- "inputs": "d055b3da353081e083130b15b625f0b12eee17d5fa7274ca7a6be0089631443b",
+ "inputs": "a882fbaf4446318c8f3c010a83044a86ab641fb109865840a270742233a8b222",
  "pdf": "47d21ebcd286762609cd6edd9112609079078acef00a76ce517fe1566ca0c65b",
  "cheatsheet": "4f7b6f0c2a387ec448dc073fe941f2fa067704569f5e5812b39bb30bf6f2b675",
  "sheets": {
@@ -8,7 +8,7 @@
   "Farben.md": "2e65ea13a0f911a60186682ae981065182dc247809fd7fc203af596ec3b4dcd9",
   "Nomen.md": "adf8cbd1b02697100261d22f829081565dc1ec575d37f732d1ae2da42a32a377",
   "Possessivartikel.md": "6a722d555e7b3012138b27909a257fb7397144da47d48101e31638c8a90cdf73",
-  "Saetze.md": "12323e032dd2ba2cf15a164621d290d80ff1e8abd768044d4adfed7d6eb36240",
+  "Saetze.md": "c69f977b0bf787ae43adcaa738b93c9c1057ccdb743f765b8188b293e9f5ecb6",
   "Verben.md": "08a02ec5b533f4cb5c0defd772d478de2950fc6a86764898227016ee1f97290a",
   "Wo-Woher-Wohin.md": "42c641cd9b0e6fb2fb1b33f3cb1e5d65813c47d217ac9b5e8a9209247b22d182",
   "Zahlen.md": "bcd6f47adf983780c80ba77b45da1567746093ca0e536d353d082000c08e19e4"
@@ -19,7 +19,7 @@
   "Grammatikbegriffe.png": "4fd3c66c09651c78577b6ae1617e793bea86d0fdb86de0f1bb6b4010441f4c71",
   "Nomen.png": "766bd550bc8243874712d9e0afa660f834f9ce41691d95013d224608cd7bda19",
   "Possessivartikel.png": "ca3304e6efbd528ec47f62af6169240e0dee55c68ac30bf604262767d7afd549",
-  "Saetze.png": "901121b56d8f1792946526f83e8dd1d20047de7f896cff7ae0050fedaa1ee00e",
+  "Saetze.png": "eb8ecc9839868d235818f0b3be6c3b719172c1d270866f5c7152d22c3ef172d4",
   "Verben.png": "87785b14976a567870b4b23eeb948d1ebac0f4fef0e19c42235c0a18f0eb791d",
   "Wo-Woher-Wohin.png": "990096351b02b0058929de7def378e75bd049dff022e14bac8c0270845099647",
   "Zahlen.png": "e90088f54ec2007d8afc40f042e1da812672eda2ad91393c83148e39f5a54316"

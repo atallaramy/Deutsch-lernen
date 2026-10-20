@@ -1,4 +1,4 @@
-<!-- checked 2026-10-16 · from DW A1 E1 L1–E6 L2 -->
+<!-- checked 2026-10-20 · from DW A1 E1 L1–E7 L2 -->
 
 # Sätze
 
@@ -36,6 +36,18 @@ Where the verb goes. Coloured = the conjugated verb.
 |---|---|---|---|
 | <verb>Kommst</verb> | du | aus Italien? | Nein, ich <verb>komme</verb> aus Spanien. |
 | <verb>Warst</verb> | du | schon mal in Bayern? | Ja, ich <verb>war</verb> schon mal in Bayern. |
+
+</div>
+
+<div class="case verb">
+
+<h2>Trennbare Verben <small>the prefix goes to the end</small></h2>
+
+| 1 | 2: verb | … | end | English |
+|---|---|---|---|---|
+| Emma | <verb>steht</verb> | um halb sieben | **auf**. | *Emma gets up at half past six.* |
+| Lisa | <verb>kauft</verb> | immer im Supermarkt | **ein**. | *Lisa always shops at the supermarket.* |
+| Wann | <verb>stehst</verb> | du morgen | **auf**? | *When are you getting up tomorrow?* |
 
 </div>
 
