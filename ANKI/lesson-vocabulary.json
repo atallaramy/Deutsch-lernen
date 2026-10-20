@@ -1,6 +1,6 @@
 {
  "schemaVersion": 3,
- "revision": "2026-10-20T18:00:00Z",
+ "revision": "2026-10-20T19:30:00Z",
  "policy": "Faithful capture of what the learner studied: official lesson glossaries, useful words and phrases from the official scripts and exercises, and items from the learner's notes. Official spelling is canonical; the learner's spelling is kept as learnerForm. Nothing captured is removed. pendingEntries wait for the learner's yes/no and are never built; declinedEntries record a learner's no.",
  "courses": [
   {
@@ -16574,6 +16574,614 @@
        "glossLookup": [
         "naja"
        ]
+      }
+     ],
+     "pendingEntries": [],
+     "declinedEntries": []
+    },
+    {
+     "id": "dw-a1-e7-l1",
+     "legacyId": null,
+     "level": "A1",
+     "title": "Emmas Tag",
+     "unit": 7,
+     "lesson": 1,
+     "url": "https://learngerman.dw.com/en/emmas-tag/l-37442425",
+     "notesFile": "DW Deutsch lernen/A1/07_days_and_times/01_Emmas Tag/Emmas Tag.md",
+     "lessonDeck": {
+      "file": "DW Deutsch lernen/A1/07_days_and_times/01_Emmas Tag/DW A1 E7L1 Emmas Tag - Vocabulary.apkg",
+      "deck": "A1::DW::Lessons::E7 L1 Emmas Tag"
+     },
+     "snapshot": "DW Deutsch lernen/A1/07_days_and_times/01_Emmas Tag/Materials/source-snapshot.json",
+     "sources": [
+      {
+       "id": "script",
+       "kind": "dw-script-pdf",
+       "url": "https://learngerman.dw.com/downloads/52719975/nicos-weg-a1-e7-l1-manuskript-und-wortschatz-englisch.pdf",
+       "localFile": "DW Deutsch lernen/A1/07_days_and_times/01_Emmas Tag/Materials/Script and vocabulary (English).pdf"
+      },
+      {
+       "id": "exercises",
+       "kind": "dw-exercises",
+       "url": "https://learngerman.dw.com/en/emmas-tag/l-37442425"
+      }
+     ],
+     "entries": [
+      {
+       "id": "der-arzt",
+       "german": "der Arzt",
+       "english": "doctor (male)",
+       "pos": "noun",
+       "lemma": "Arzt",
+       "sense": "doctor-male",
+       "plural": "die Ärzte",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-aerztin",
+       "german": "die Ärztin",
+       "english": "doctor (female)",
+       "pos": "noun",
+       "lemma": "Ärztin",
+       "sense": "doctor-female",
+       "plural": "die Ärztinnen",
+       "origin": [
+        "dw-glossary",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-babysitter",
+       "german": "der Babysitter",
+       "english": "babysitter (male)",
+       "pos": "noun",
+       "lemma": "Babysitter",
+       "sense": "babysitter-male",
+       "plural": "die Babysitter",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "vocabulary",
+       "level": "beyond-A1"
+      },
+      {
+       "id": "die-babysitterin",
+       "german": "die Babysitterin",
+       "english": "babysitter (female)",
+       "pos": "noun",
+       "lemma": "Babysitterin",
+       "sense": "babysitter-female",
+       "plural": "die Babysitterinnen",
+       "origin": [
+        "dw-glossary"
+       ],
+       "home": "vocabulary",
+       "level": "beyond-A1"
+      },
+      {
+       "id": "beginnen",
+       "german": "beginnen",
+       "english": "to begin; to start",
+       "pos": "verb",
+       "lemma": "beginnen",
+       "sense": "to-begin",
+       "forms": "beginnt, begann, hat begonnen",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "dw-grammar-page",
+        "learner-notes"
+       ],
+       "learnerForm": "behinnen",
+       "home": "vocabulary"
+      },
+      {
+       "id": "bis",
+       "german": "bis",
+       "english": "until",
+       "pos": "word",
+       "lemma": "bis",
+       "sense": "until",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "dw-grammar-page",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-geht-nicht",
+       "german": "Das geht nicht.",
+       "english": "That won't/doesn't work.",
+       "pos": "expression",
+       "lemma": "Das geht nicht.",
+       "sense": "that-wont-work",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-weiss-ich-leider-nicht",
+       "german": "Das weiß ich leider nicht.",
+       "english": "Unfortunately, I don't know.",
+       "pos": "expression",
+       "lemma": "Das weiß ich leider nicht.",
+       "sense": "unfortunately-i-dont-know",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "halb",
+       "german": "halb",
+       "english": "half (here it is used to express time and say it is halfway to the next full hour)",
+       "pos": "word",
+       "lemma": "halb",
+       "sense": "half-hour",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "dw-grammar-page",
+        "learner-notes"
+       ],
+       "learnerForm": "halp",
+       "home": "vocabulary"
+      },
+      {
+       "id": "krank",
+       "german": "krank",
+       "english": "sick; ill",
+       "pos": "word",
+       "lemma": "krank",
+       "sense": "sick",
+       "forms": "kränker, am kränksten",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-loesung",
+       "german": "die Lösung",
+       "english": "solution",
+       "pos": "noun",
+       "lemma": "Lösung",
+       "sense": "solution",
+       "plural": "die Lösungen",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-mittagspause",
+       "german": "die Mittagspause",
+       "english": "lunch break",
+       "pos": "noun",
+       "lemma": "Mittagspause",
+       "sense": "lunch-break",
+       "plural": "die Mittagspausen",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "morgen",
+       "german": "morgen",
+       "english": "tomorrow",
+       "pos": "word",
+       "lemma": "morgen",
+       "sense": "tomorrow",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-schule",
+       "german": "die Schule",
+       "english": "school",
+       "pos": "noun",
+       "lemma": "Schule",
+       "sense": "school",
+       "plural": "die Schulen",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-tag",
+       "german": "der Tag",
+       "english": "day",
+       "pos": "noun",
+       "lemma": "Tag",
+       "sense": "day",
+       "plural": "die Tage",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-termin",
+       "german": "der Termin",
+       "english": "appointment",
+       "pos": "noun",
+       "lemma": "Termin",
+       "sense": "appointment",
+       "plural": "die Termine",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-training",
+       "german": "das Training",
+       "english": "training; workout; (sports) practice",
+       "pos": "noun",
+       "lemma": "Training",
+       "sense": "training",
+       "plural": "die Trainings",
+       "origin": [
+        "dw-glossary",
+        "dw-script"
+       ],
+       "home": "vocabulary",
+       "level": "beyond-A1"
+      },
+      {
+       "id": "tut-mir-leid",
+       "german": "Tut mir leid.",
+       "english": "I'm sorry.",
+       "pos": "expression",
+       "lemma": "Tut mir leid.",
+       "sense": "im-sorry",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "learnerForm": "Tut mir Leid.",
+       "home": "vocabulary",
+       "level": "beyond-A1"
+      },
+      {
+       "id": "um",
+       "german": "um",
+       "english": "at; around",
+       "pos": "word",
+       "lemma": "um",
+       "sense": "at-time",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "dw-grammar-page",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-uni",
+       "german": "die Uni",
+       "english": "university; college",
+       "pos": "noun",
+       "lemma": "Uni",
+       "sense": "university",
+       "plural": "die Unis",
+       "note": "Kurzform von: Universität",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "vocabulary",
+       "level": "beyond-A1"
+      },
+      {
+       "id": "das-volleyballtraining",
+       "german": "das Volleyballtraining",
+       "english": "volleyball practice",
+       "pos": "noun",
+       "lemma": "Volleyballtraining",
+       "sense": "volleyball-practice",
+       "plural": "die Volleyballtrainings",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "learnerForm": "Vollyballtraining",
+       "home": "vocabulary",
+       "level": "beyond-A1"
+      },
+      {
+       "id": "von",
+       "german": "von",
+       "english": "from",
+       "pos": "word",
+       "lemma": "von",
+       "sense": "from",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "dw-grammar-page",
+        "learner-notes"
+       ],
+       "learnerForm": "won",
+       "home": "vocabulary"
+      },
+      {
+       "id": "wann",
+       "german": "wann",
+       "english": "when",
+       "pos": "word",
+       "lemma": "wann",
+       "sense": "when",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "dw-grammar-page",
+        "learner-notes"
+       ],
+       "learnerForm": "vann",
+       "home": "vocabulary"
+      },
+      {
+       "id": "wie-spaet-ist-es",
+       "german": "Wie spät ist es?",
+       "english": "How late is it?/What time is it?",
+       "pos": "expression",
+       "lemma": "Wie spät ist es?",
+       "sense": "what-time-is-it",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "wie-viel-uhr-ist-es",
+       "german": "Wie viel Uhr ist es?",
+       "english": "What time is it?",
+       "pos": "expression",
+       "lemma": "Wie viel Uhr ist es?",
+       "sense": "what-time-is-it",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-kollegin",
+       "german": "die Kollegin",
+       "english": "colleague (female)",
+       "pos": "noun",
+       "lemma": "Kollegin",
+       "sense": "colleague-female",
+       "plural": "die Kolleginnen",
+       "origin": [
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "vocabulary",
+       "genderEvidence": "https://de.wiktionary.org/wiki/Kollegin (Genus f, Nominativ Plural Kolleginnen)",
+       "glossLookup": [
+        "Kollegin",
+        "Kollege"
+       ]
+      },
+      {
+       "id": "das-mittagessen",
+       "german": "das Mittagessen",
+       "english": "lunch",
+       "pos": "noun",
+       "lemma": "Mittagessen",
+       "sense": "lunch",
+       "plural": "die Mittagessen",
+       "origin": [
+        "dw-script",
+        "dw-exercises"
+       ],
+       "home": "vocabulary",
+       "level": "beyond-A1",
+       "genderEvidence": "https://de.wiktionary.org/wiki/Mittagessen (Genus n, Nominativ Plural Mittagessen)"
+      },
+      {
+       "id": "danach",
+       "german": "danach",
+       "english": "afterwards; after that",
+       "pos": "word",
+       "lemma": "danach",
+       "sense": "afterwards",
+       "origin": [
+        "dw-script",
+        "learner-notes"
+       ],
+       "learnerForm": "denach",
+       "home": "vocabulary",
+       "level": "beyond-A1"
+      },
+      {
+       "id": "etwas-absagen",
+       "german": "(etwas) absagen",
+       "english": "to cancel (something)",
+       "pos": "verb",
+       "lemma": "absagen",
+       "sense": "to-cancel",
+       "forms": "sagt ab, sagte ab, hat abgesagt",
+       "origin": [
+        "dw-script",
+        "learner-notes"
+       ],
+       "home": "vocabulary",
+       "level": "beyond-A1"
+      },
+      {
+       "id": "auf-jemanden-aufpassen",
+       "german": "auf (jemanden) aufpassen",
+       "english": "to look after (someone)",
+       "pos": "verb",
+       "lemma": "aufpassen",
+       "sense": "to-look-after",
+       "forms": "passt auf, passte auf, hat aufgepasst",
+       "note": "auf + Akkusativ: auf Emma aufpassen",
+       "origin": [
+        "dw-script",
+        "learner-notes"
+       ],
+       "home": "vocabulary",
+       "level": "beyond-A1"
+      },
+      {
+       "id": "den-ganzen-tag",
+       "german": "den ganzen Tag",
+       "english": "all day; the whole day",
+       "pos": "expression",
+       "lemma": "den ganzen Tag",
+       "sense": "all-day",
+       "origin": [
+        "dw-script",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "auf-der-arbeit",
+       "german": "auf der Arbeit",
+       "english": "at work",
+       "pos": "expression",
+       "lemma": "auf der Arbeit",
+       "sense": "at-work",
+       "origin": [
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "morgens",
+       "german": "morgens",
+       "english": "in the morning",
+       "pos": "word",
+       "lemma": "morgens",
+       "sense": "in-the-morning",
+       "origin": [
+        "dw-grammar-page"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "vormittags",
+       "german": "vormittags",
+       "english": "before noon; in the morning",
+       "pos": "word",
+       "lemma": "vormittags",
+       "sense": "before-noon",
+       "origin": [
+        "dw-grammar-page"
+       ],
+       "home": "vocabulary",
+       "level": "beyond-A1"
+      },
+      {
+       "id": "mittags",
+       "german": "mittags",
+       "english": "at midday",
+       "pos": "word",
+       "lemma": "mittags",
+       "sense": "at-noon",
+       "origin": [
+        "dw-grammar-page"
+       ],
+       "home": "vocabulary",
+       "level": "beyond-A1"
+      },
+      {
+       "id": "nachmittags",
+       "german": "nachmittags",
+       "english": "in the afternoon",
+       "pos": "word",
+       "lemma": "nachmittags",
+       "sense": "in-the-afternoon",
+       "origin": [
+        "dw-grammar-page"
+       ],
+       "home": "vocabulary",
+       "level": "beyond-A1"
+      },
+      {
+       "id": "abends",
+       "german": "abends",
+       "english": "in the evening",
+       "pos": "word",
+       "lemma": "abends",
+       "sense": "in-the-evening",
+       "origin": [
+        "dw-grammar-page"
+       ],
+       "home": "vocabulary",
+       "level": "beyond-A1"
+      },
+      {
+       "id": "nachts",
+       "german": "nachts",
+       "english": "at night",
+       "pos": "word",
+       "lemma": "nachts",
+       "sense": "at-night",
+       "origin": [
+        "dw-grammar-page"
+       ],
+       "home": "vocabulary",
+       "level": "beyond-A1"
       }
      ],
      "pendingEntries": [],

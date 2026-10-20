@@ -1871,6 +1871,34 @@
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-10-18"
   },
+  "Kollege": {
+   "url": "https://en.wiktionary.org/wiki/Kollege#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "colleague, coworker, workmate, fellow worker or member"
+    },
+    {
+     "pos": "Noun",
+     "text": "buddy, mate, homie"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-20"
+  },
+  "Kollegin": {
+   "url": "https://en.wiktionary.org/wiki/Kollegin#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "female equivalent of Kollege"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-20"
+  },
   "Konjugation": {
    "url": "https://en.wiktionary.org/wiki/Konjugation#German",
    "status": 200,
@@ -2364,6 +2392,18 @@
    ],
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-27"
+  },
+  "Mittagessen": {
+   "url": "https://en.wiktionary.org/wiki/Mittagessen#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "lunch"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-20"
   },
   "Moin": {
    "url": "https://www.dict.cc/?s=Moin",
@@ -4720,6 +4760,22 @@
    ],
    "fetchedOn": "2026-09-25"
   },
+  "abends": {
+   "url": "https://en.wiktionary.org/wiki/abends#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Adverb",
+     "text": "in the evening, at night, see Abend;"
+    },
+    {
+     "pos": "Adverb",
+     "text": "p.m., indicating that a time is in the evening or early night. a.m./p.m. have no direct equivalents in German; the appropriate time of day is used instead."
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-20"
+  },
   "abgeben": {
    "url": "https://en.wiktionary.org/wiki/abgeben#German",
    "status": 200,
@@ -4803,6 +4859,22 @@
    ],
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-27"
+  },
+  "absagen": {
+   "url": "https://en.wiktionary.org/wiki/absagen#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Verb",
+     "text": "to cancel, to call off (an activity or event)"
+    },
+    {
+     "pos": "Verb",
+     "text": "to decline"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-20"
   },
   "ach so": {
    "url": "https://en.wiktionary.org/wiki/ach_so#German",
@@ -5192,6 +5264,18 @@
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-25"
   },
+  "auf der Arbeit": {
+   "url": "https://www.dict.cc/?s=auf+der+Arbeit",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "",
+     "text": "at work"
+    }
+   ],
+   "dictionary": "dict.cc",
+   "fetchedOn": "2026-10-20"
+  },
   "auf keinen Fall": {
    "url": "https://en.wiktionary.org/wiki/auf_keinen_Fall#German",
    "status": 200,
@@ -5226,6 +5310,26 @@
     }
    ],
    "fetchedOn": "2026-09-25"
+  },
+  "aufpassen": {
+   "url": "https://en.wiktionary.org/wiki/aufpassen#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Verb",
+     "text": "to watch out, to be alert"
+    },
+    {
+     "pos": "Verb",
+     "text": "to look after, to take care of .mw-parser-output .object-usage-tag{font-style:italic}.mw-parser-output .deprecated{color:var(--wikt-palette-grey-lime-8,olivedrab)}[with auf (+ accusative) ‘someone/something’]"
+    },
+    {
+     "pos": "Verb",
+     "text": "to be attentive [with mit ‘with something’]"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-20"
   },
   "aufschreiben": {
    "url": "https://en.wiktionary.org/wiki/aufschreiben#German",
@@ -5691,6 +5795,26 @@
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-27"
   },
+  "danach": {
+   "url": "https://en.wiktionary.org/wiki/danach#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Adverb",
+     "text": "after it, after that; thereafter , afterwards"
+    },
+    {
+     "pos": "Adverb",
+     "text": "behind it/that"
+    },
+    {
+     "pos": "Adverb",
+     "text": "accordingly, in accordance with that"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-20"
+  },
   "daneben": {
    "url": "https://en.wiktionary.org/wiki/daneben#German",
    "status": 200,
@@ -5749,6 +5873,26 @@
     }
    ],
    "fetchedOn": "2026-09-25"
+  },
+  "den ganzen Tag": {
+   "url": "https://www.dict.cc/?s=den+ganzen+Tag",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "",
+     "text": "all day long"
+    },
+    {
+     "pos": "",
+     "text": "all day through"
+    },
+    {
+     "pos": "",
+     "text": "the whole day"
+    }
+   ],
+   "dictionary": "dict.cc",
+   "fetchedOn": "2026-10-20"
   },
   "deshalb": {
    "url": "https://en.wiktionary.org/wiki/deshalb#German",
@@ -7854,6 +7998,18 @@
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-10-03"
   },
+  "mittags": {
+   "url": "https://en.wiktionary.org/wiki/mittags#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Adverb",
+     "text": "at midday"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-20"
+  },
   "moinsen": {
    "url": "https://en.wiktionary.org/wiki/moinsen#German",
    "status": 200,
@@ -7877,6 +8033,18 @@
    ],
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-27"
+  },
+  "morgens": {
+   "url": "https://en.wiktionary.org/wiki/morgens#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Adverb",
+     "text": "in the morning, a.m."
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-20"
   },
   "möchten": {
    "url": "https://en.wiktionary.org/wiki/m%C3%B6chten#German",
@@ -8013,6 +8181,30 @@
    ],
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-27"
+  },
+  "nachmittags": {
+   "url": "https://en.wiktionary.org/wiki/nachmittags#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Adverb",
+     "text": "in the afternoon, p.m."
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-20"
+  },
+  "nachts": {
+   "url": "https://en.wiktionary.org/wiki/nachts#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Adverb",
+     "text": "at night, nights"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-20"
   },
   "naja": {
    "url": "https://en.wiktionary.org/wiki/naja#German",
@@ -9485,6 +9677,18 @@
    ],
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-10-07"
+  },
+  "vormittags": {
+   "url": "https://en.wiktionary.org/wiki/vormittags#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Adverb",
+     "text": "before noon, a.m., in the morning"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-20"
   },
   "wann": {
    "url": "https://en.wiktionary.org/wiki/wann#German",

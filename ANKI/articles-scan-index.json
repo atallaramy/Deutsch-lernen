@@ -1,8 +1,8 @@
 {
   "deck": "A1::Articles",
-  "revision": "2026-10-20T18:00:00Z",
+  "revision": "2026-10-20T19:30:00Z",
   "qualityPolicy": "Typed der/die/das for singular nouns. Plural and dependable gender patterns after answering. No audio.",
-  "cards": 372,
+  "cards": 385,
   "sources": [
     {
       "id": "dw-a1-e0-l1",
@@ -369,6 +369,19 @@
       }
     },
     {
+      "id": "dw-a1-e7-l1",
+      "course": "dw-nicos-weg",
+      "title": "Emmas Tag",
+      "url": "https://learngerman.dw.com/en/emmas-tag/l-37442425",
+      "notesFile": "DW Deutsch lernen/A1/07_days_and_times/01_Emmas Tag/Emmas Tag.md",
+      "capturedEntries": 38,
+      "cards": {
+        "vocabulary": 38,
+        "articles": 14,
+        "sentences": 0
+      }
+    },
+    {
       "id": "vhs-a1-l02",
       "course": "vhs-lernportal",
       "title": "Lektion 2 · Meine Familie und ich",
@@ -397,9 +410,9 @@
   ],
   "packages": {
     "ANKI/A1/articles.apkg": {
-      "notes": 372,
-      "cards": 372,
-      "sha256": "d725de70affb8fa20c4df466562e90ea55272eed021ec4b06530534c1f432824"
+      "notes": 385,
+      "cards": 385,
+      "sha256": "9de2ec748ddb50689831adb654ba37193dd683b886dd0e1239d4f549a67dd0e1"
     }
   }
 }

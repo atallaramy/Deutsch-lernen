@@ -1,8 +1,8 @@
 {
   "deck": "A1::Sentences",
-  "revision": "2026-10-20T18:00:00Z",
+  "revision": "2026-10-20T19:30:00Z",
   "qualityPolicy": "Productive sentences, replies, register switches and contextual forms from the lessons. No audio.",
-  "cards": 326,
+  "cards": 345,
   "sources": [
     {
       "id": "dw-a1-e0-l1",
@@ -369,6 +369,19 @@
       }
     },
     {
+      "id": "dw-a1-e7-l1",
+      "course": "dw-nicos-weg",
+      "title": "Emmas Tag",
+      "url": "https://learngerman.dw.com/en/emmas-tag/l-37442425",
+      "notesFile": "DW Deutsch lernen/A1/07_days_and_times/01_Emmas Tag/Emmas Tag.md",
+      "capturedEntries": 38,
+      "cards": {
+        "vocabulary": 38,
+        "articles": 14,
+        "sentences": 0
+      }
+    },
+    {
       "id": "vhs-a1-l02",
       "course": "vhs-lernportal",
       "title": "Lektion 2 · Meine Familie und ich",
@@ -397,9 +410,9 @@
   ],
   "packages": {
     "ANKI/A1/sentences.apkg": {
-      "notes": 326,
-      "cards": 326,
-      "sha256": "1c5600a4ca70b1ad8cdcad37e141a9845850dbdabc89375eae62149fbc3c92ca"
+      "notes": 345,
+      "cards": 345,
+      "sha256": "c1d7b1a90ee7174d5209155f2cb5e42c8bedcc153e43af1d0f1f97895d274ed0"
     }
   }
 }

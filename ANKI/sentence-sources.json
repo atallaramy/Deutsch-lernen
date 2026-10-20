@@ -5163,6 +5163,334 @@
    "answer": "eure",
    "covers": [],
    "note": "ihr → euer Wohnzimmer (das) · eure Kinder (plural: -e, and euer drops its e)"
+  },
+  {
+   "key": "when-does-the-course-start",
+   "kind": "production",
+   "lesson": "dw-a1-e7-l1",
+   "skill": "W-question: Wann …?",
+   "scene": "Ask when the course starts.",
+   "answer": "Wann beginnt der Kurs?",
+   "answerSource": {
+    "lesson": "dw-a1-e7-l1",
+    "source": "script"
+   },
+   "covers": [],
+   "grammarPage": "gr-38303646",
+   "learnerError": {
+    "wrong": "Wann beggint der Kurs?",
+    "why": "one g, double n: beginnen → beginnt"
+   },
+   "note": "beginnen → der Kurs beginnt"
+  },
+  {
+   "key": "reply-course-starts-at-nine",
+   "kind": "response",
+   "lesson": "dw-a1-e7-l1",
+   "skill": "um + time",
+   "scene": "It starts at nine. Answer in a full sentence, starting with Der Kurs.",
+   "prompt": {
+    "lesson": "dw-a1-e7-l1",
+    "source": "script",
+    "text": "Wann beginnt der Kurs?"
+   },
+   "answer": "Der Kurs beginnt um neun.",
+   "answerSource": {
+    "lesson": "dw-a1-e7-l1",
+    "source": "exercises"
+   },
+   "covers": [],
+   "grammarPage": "gr-38303646",
+   "note": "um = at a specific time"
+  },
+  {
+   "key": "when-do-you-work-tomorrow",
+   "kind": "production",
+   "lesson": "dw-a1-e7-l1",
+   "skill": "W-question: Wann …?",
+   "scene": "Ask your flatmate (du) when they work tomorrow.",
+   "answer": "Wann arbeitest du morgen?",
+   "answerSource": {
+    "lesson": "dw-a1-e7-l1",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "arbeiten → du arbeitest (-est after t)"
+  },
+  {
+   "key": "reply-work-eight-to-twelve",
+   "kind": "response",
+   "lesson": "dw-a1-e7-l1",
+   "skill": "von … bis …",
+   "scene": "You work from eight to twelve tomorrow. Start with Ich.",
+   "prompt": {
+    "lesson": "dw-a1-e7-l1",
+    "source": "script",
+    "text": "Wann arbeitest du morgen?"
+   },
+   "answer": "Ich arbeite morgen von acht bis zwölf.",
+   "answerSource": {
+    "lesson": "dw-a1-e7-l1",
+    "source": "script"
+   },
+   "covers": [],
+   "grammarPage": "gr-38303646",
+   "note": "von … bis … = a period of time"
+  },
+  {
+   "key": "when-do-you-have-uni",
+   "kind": "production",
+   "lesson": "dw-a1-e7-l1",
+   "skill": "W-question: Wann hast du …?",
+   "scene": "Ask your flatmate (du) when they have university tomorrow. Use the short word for university.",
+   "answer": "Wann hast du morgen Uni?",
+   "answerSource": {
+    "lesson": "dw-a1-e7-l1",
+    "source": "script"
+   },
+   "covers": [],
+   "learnerError": {
+    "wrong": "Wann hast do morgen Uni?",
+    "why": "du (you) is written with u"
+   },
+   "note": "Uni haben = to have classes at university (no article)"
+  },
+  {
+   "key": "reply-uni-nine-to-five",
+   "kind": "response",
+   "lesson": "dw-a1-e7-l1",
+   "skill": "von … bis …",
+   "scene": "You are at university from nine to five. Start with Ich bin, end with the place, and use the short word for university.",
+   "prompt": {
+    "lesson": "dw-a1-e7-l1",
+    "source": "script",
+    "text": "Wann hast du morgen Uni?"
+   },
+   "answer": "Ich bin von neun bis fünf in der Uni.",
+   "answerSource": {
+    "lesson": "dw-a1-e7-l1",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "in der Uni: where?"
+  },
+  {
+   "key": "doctors-appointment-at-eight",
+   "kind": "production",
+   "lesson": "dw-a1-e7-l1",
+   "skill": "um + Termin beim Arzt",
+   "scene": "Say that Nina has an appointment at the doctor's at eight tomorrow.",
+   "answer": "Nina hat morgen um acht einen Termin beim Arzt.",
+   "answerSource": {
+    "lesson": "dw-a1-e7-l1",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "der Termin → einen Termin (Akkusativ) · beim = bei dem"
+  },
+  {
+   "key": "and-after-that-at-school",
+   "kind": "production",
+   "lesson": "dw-a1-e7-l1",
+   "skill": "word order: danach + verb",
+   "scene": "Then (after that) Nina is at school from ten to three. Start with Und danach.",
+   "answer": "Und danach ist sie von zehn bis drei in der Schule.",
+   "answerSource": {
+    "lesson": "dw-a1-e7-l1",
+    "source": "script"
+   },
+   "covers": [],
+   "learnerError": {
+    "wrong": "Und denach ist sie von zehn bis drei in der Schule.",
+    "why": "danach = da + nach"
+   },
+   "note": "danach takes position 1, so the verb comes next: danach ist sie"
+  },
+  {
+   "key": "there-is-no-solution",
+   "kind": "production",
+   "lesson": "dw-a1-e7-l1",
+   "skill": "es gibt + kein",
+   "scene": "Nothing works. Say: there's no solution.",
+   "answer": "Es gibt keine Lösung.",
+   "answerSource": {
+    "lesson": "dw-a1-e7-l1",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "die Lösung → keine Lösung"
+  },
+  {
+   "key": "we-cancel-the-lesson",
+   "kind": "production",
+   "lesson": "dw-a1-e7-l1",
+   "skill": "separable verb: absagen",
+   "scene": "Say that you (wir) cancel the lesson (der Unterricht). Use absagen.",
+   "answer": "Wir sagen den Unterricht ab.",
+   "answerSource": {
+    "lesson": "dw-a1-e7-l1",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "absagen → wir sagen … ab · der Unterricht → den Unterricht (Akkusativ)"
+  },
+  {
+   "key": "will-you-look-after-emma",
+   "kind": "production",
+   "lesson": "dw-a1-e7-l1",
+   "skill": "separable verb: aufpassen auf",
+   "scene": "Ask Nico (du) whether he'll look after Emma tomorrow. Start with Nico and use aufpassen.",
+   "answer": "Nico, passt du morgen auf Emma auf?",
+   "answerSource": {
+    "lesson": "dw-a1-e7-l1",
+    "source": "script"
+   },
+   "covers": [],
+   "learnerError": {
+    "wrong": "Nico, passt do morgen auf Emma auf?",
+    "why": "du (you) is written with u"
+   },
+   "note": "auf jemanden aufpassen: passt … auf Emma auf"
+  },
+  {
+   "key": "when-is-your-lunch-break",
+   "kind": "production",
+   "lesson": "dw-a1-e7-l1",
+   "skill": "W-question: Wann …?",
+   "scene": "Ask your colleague (du) when they take their lunch break. Use machen.",
+   "answer": "Wann machst du Mittagspause?",
+   "answerSource": {
+    "lesson": "dw-a1-e7-l1",
+    "source": "exercises"
+   },
+   "covers": [],
+   "note": "Mittagspause machen = to take a lunch break (no article)"
+  },
+  {
+   "key": "reply-lunch-at-half-twelve",
+   "kind": "response",
+   "lesson": "dw-a1-e7-l1",
+   "skill": "Uhrzeit: halb",
+   "scene": "Your lunch break is at 12:30. Answer starting with Um.",
+   "prompt": {
+    "lesson": "dw-a1-e7-l1",
+    "source": "exercises",
+    "text": "Wann machst du Mittagspause?"
+   },
+   "answer": "Um halb eins mache ich Mittagspause.",
+   "answerSource": {
+    "lesson": "dw-a1-e7-l1",
+    "source": "exercises"
+   },
+   "covers": [],
+   "grammarPage": "gr-38303328",
+   "learnerError": {
+    "wrong": "Um halp eins mache ich Mittagspause.",
+    "why": "halb ends in b"
+   },
+   "note": "12:30 = halb eins (half to one) · Um … first, then the verb: mache ich"
+  },
+  {
+   "key": "from-when-until-when",
+   "kind": "production",
+   "lesson": "dw-a1-e7-l1",
+   "skill": "W-question: Von wann bis wann …?",
+   "scene": "Ask your friend (du) from when until when they work.",
+   "answer": "Von wann bis wann arbeitest du?",
+   "answerSource": {
+    "lesson": "dw-a1-e7-l1",
+    "source": "exercises"
+   },
+   "covers": [],
+   "learnerError": {
+    "wrong": "Von wann bis vann",
+    "why": "wann is written with w (it sounds like English v)"
+   }
+  },
+  {
+   "key": "supermarket-four-to-half-four",
+   "kind": "production",
+   "lesson": "dw-a1-e7-l1",
+   "skill": "von … bis … + halb",
+   "scene": "From 4:00 to 4:30 you are at the supermarket. Say it, starting with Von.",
+   "answer": "Von vier bis halb fünf bin ich im Supermarkt.",
+   "answerSource": {
+    "lesson": "dw-a1-e7-l1",
+    "source": "exercises"
+   },
+   "covers": [],
+   "learnerError": {
+    "wrong": "Von vier bis halb fünf bin ich in der Supermakt.",
+    "why": "der Supermarkt → in dem = im Supermarkt; Super-markt with r"
+   },
+   "note": "4:30 = halb fünf · Von … first, then the verb: bin ich"
+  },
+  {
+   "key": "do-you-know-what-time-it-is",
+   "kind": "production",
+   "lesson": "dw-a1-e7-l1",
+   "skill": "polite question: Wissen Sie, …?",
+   "scene": "Ask a stranger (Sie) very politely: do you know what time it is? Use wissen and spät.",
+   "answer": "Wissen Sie, wie spät es ist?",
+   "answerSource": {
+    "lesson": "dw-a1-e7-l1",
+    "source": "exercises"
+   },
+   "covers": [],
+   "learnerError": {
+    "wrong": "Entschuldigung, wissen Sie, wie spät ist es?",
+    "why": "after Wissen Sie, the verb goes to the end: wie spät es ist"
+   },
+   "note": "DW: more polite than Wie spät ist es?"
+  },
+  {
+   "key": "table-half-past-seven",
+   "kind": "table",
+   "lesson": "dw-a1-e7-l1",
+   "skill": "Uhrzeit: halb",
+   "scene": "The 12-hour clock table, half hours: say 7:30.",
+   "prompt": {
+    "lesson": "dw-a1-e7-l1",
+    "source": "exercises",
+    "text": "7:30 Uhr ¶ Es ist halb acht.",
+    "target": "halb acht"
+   },
+   "answer": "halb acht",
+   "covers": [],
+   "grammarPage": "gr-38303328",
+   "note": "halb + the next full hour: 7:30 = halb acht · no Uhr"
+  },
+  {
+   "key": "table-half-past-two",
+   "kind": "table",
+   "lesson": "dw-a1-e7-l1",
+   "skill": "Uhrzeit: halb",
+   "scene": "The 12-hour clock table, half hours: say 14:30.",
+   "prompt": {
+    "lesson": "dw-a1-e7-l1",
+    "source": "exercises",
+    "text": "14:30 Uhr ¶ Es ist halb drei.",
+    "target": "halb drei"
+   },
+   "answer": "halb drei",
+   "covers": [],
+   "grammarPage": "gr-38303328",
+   "note": "14:30 → 2:30 → halb drei (12-hour clock)"
+  },
+  {
+   "key": "one-oclock-with-uhr",
+   "kind": "production",
+   "lesson": "dw-a1-e7-l1",
+   "skill": "Uhrzeit: volle Stunde",
+   "scene": "It's 1:00. Say the time with the word Uhr.",
+   "answer": "Es ist ein Uhr.",
+   "answerSource": {
+    "lesson": "dw-a1-e7-l1",
+    "source": "exercises"
+   },
+   "covers": [],
+   "grammarPage": "gr-38303328",
+   "note": "with Uhr: ein Uhr · without: Es ist eins."
   }
  ]
 }

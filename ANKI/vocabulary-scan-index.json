@@ -1,8 +1,8 @@
 {
   "deck": "A1::Vocabulary",
-  "revision": "2026-10-20T18:00:00Z",
+  "revision": "2026-10-20T19:30:00Z",
   "qualityPolicy": "One typed German word or fixed expression per card, in a verified context where one exists. No audio.",
-  "cards": 891,
+  "cards": 924,
   "sources": [
     {
       "id": "dw-a1-e0-l1",
@@ -369,6 +369,19 @@
       }
     },
     {
+      "id": "dw-a1-e7-l1",
+      "course": "dw-nicos-weg",
+      "title": "Emmas Tag",
+      "url": "https://learngerman.dw.com/en/emmas-tag/l-37442425",
+      "notesFile": "DW Deutsch lernen/A1/07_days_and_times/01_Emmas Tag/Emmas Tag.md",
+      "capturedEntries": 38,
+      "cards": {
+        "vocabulary": 38,
+        "articles": 14,
+        "sentences": 0
+      }
+    },
+    {
       "id": "vhs-a1-l02",
       "course": "vhs-lernportal",
       "title": "Lektion 2 · Meine Familie und ich",
@@ -397,9 +410,9 @@
   ],
   "packages": {
     "ANKI/A1/vocabulary.apkg": {
-      "notes": 891,
-      "cards": 891,
-      "sha256": "8f317c61fa2791dfdfe2397ea1d5a76c57fbc0c11027e923d9a45cda91b93114"
+      "notes": 924,
+      "cards": 924,
+      "sha256": "58b9d4808098f5f83793aad84f9d0d79c2dfeaa8296c3384ebab26860a7b9572"
     }
   }
 }

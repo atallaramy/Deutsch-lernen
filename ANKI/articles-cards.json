@@ -504,6 +504,18 @@
    "hints": [
     "Female form with -in: always die."
    ]
+  },
+  "Training": {
+   "context": {
+    "lesson": "dw-a1-e7-l1",
+    "source": "script",
+    "text": "das Training ist von zwei bis vier."
+   }
+  },
+  "Uni": {
+   "hints": [
+    "Short for die Universität: the same gender."
+   ]
   }
  }
 }

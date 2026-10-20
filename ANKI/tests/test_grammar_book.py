@@ -170,7 +170,7 @@ class GrammarBook(unittest.TestCase):
         self.write_glossary(own)
         errors = self.errors(GOOD_PAGE, grammar_pages=True)
         self.assertTrue(any("'das Verb' must use the lesson's description (dw-a1-e1-l3)" in e for e in errors), errors)
-        self.assertTrue(any("'die Präposition' (dw-a1-e2-l3) is missing" in e for e in errors), errors)
+        self.assertTrue(any("'die Präposition' (dw-a1-e2-l3" in e and e.endswith("is missing") for e in errors), errors)
         self.write_glossary(lesson)
         self.assertFalse(any("'das Verb'" in e for e in self.errors(GOOD_PAGE, grammar_pages=True)))
 

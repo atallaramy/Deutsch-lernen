@@ -1,7 +1,7 @@
 {
  "description": "Written by docs/tools/build_grammar_pdf.py. 'inputs' fingerprints the builder, README.md, every page and the cheatsheet; the unit tests fail when it no longer matches, so the PDFs never lag the pages.",
- "inputs": "31afd6aad2314d5589d3699458139e337cbdaf86ac61f066705cdafc640d60fb",
- "pdf": "5d640d249f8b2ff3b5225ea6e19efb58b751a23170a05c5b3d1c42519505b013",
+ "inputs": "4d6253b13ea19bcf723139adb6458f2e446c3c52ab61eea6b1fea09d9e6a1d5b",
+ "pdf": "38d9c0ebc634ac2e807822f5c0f43f3ec25a7bd6525838187d0cced50abbbf7b",
  "cheatsheet": "40100aba4954facc0d1843518f7d99546b591e60281356971897d9a62372d407",
  "sheets": {
   "Artikel.md": "306449f71c80cf7e5020abb8876eb34b80036347ba919d20aef40389bc350509",
@@ -48,6 +48,7 @@
   "A1/Nominativ-Akkusativ.md",
   "A1/Adjektive-nach-sein.md",
   "A1/Komposita.md",
+  "A1/Uhrzeit.md",
   "Meine-Fehler.md",
   "Grammatikbegriffe.md"
  ],

@@ -1,5 +1,5 @@
 {
- "revision": "2026-10-18T20:00:00Z",
+ "revision": "2026-10-20T19:30:00Z",
  "entries": {
   "dw-a1-e0-l1:auch": [
    "vocab:auch|also"
@@ -3653,6 +3653,134 @@
   ],
   "dw-a1-e6-l4:na-ja": [
    "vocab:na ja|oh-well"
+  ],
+  "dw-a1-e7-l1:der-arzt": [
+   "article:Arzt|m",
+   "vocab:Arzt|doctor-male"
+  ],
+  "dw-a1-e7-l1:die-aerztin": [
+   "article:Ärztin|f",
+   "vocab:Ärztin|doctor-female"
+  ],
+  "dw-a1-e7-l1:der-babysitter": [
+   "article:Babysitter|m",
+   "vocab:Babysitter|babysitter-male"
+  ],
+  "dw-a1-e7-l1:die-babysitterin": [
+   "article:Babysitterin|f",
+   "vocab:Babysitterin|babysitter-female"
+  ],
+  "dw-a1-e7-l1:beginnen": [
+   "vocab:beginnen|to-begin"
+  ],
+  "dw-a1-e7-l1:bis": [
+   "vocab:bis|until"
+  ],
+  "dw-a1-e7-l1:das-geht-nicht": [
+   "vocab:Das geht nicht.|that-wont-work"
+  ],
+  "dw-a1-e7-l1:das-weiss-ich-leider-nicht": [
+   "vocab:Das weiß ich leider nicht.|unfortunately-i-dont-know"
+  ],
+  "dw-a1-e7-l1:halb": [
+   "vocab:halb|half-hour"
+  ],
+  "dw-a1-e7-l1:krank": [
+   "vocab:krank|sick"
+  ],
+  "dw-a1-e7-l1:die-loesung": [
+   "article:Lösung|f",
+   "vocab:Lösung|solution"
+  ],
+  "dw-a1-e7-l1:die-mittagspause": [
+   "article:Mittagspause|f",
+   "vocab:Mittagspause|lunch-break"
+  ],
+  "dw-a1-e7-l1:morgen": [
+   "vocab:morgen|tomorrow"
+  ],
+  "dw-a1-e7-l1:die-schule": [
+   "article:Schule|f",
+   "vocab:Schule|school"
+  ],
+  "dw-a1-e7-l1:der-tag": [
+   "article:Tag|m",
+   "vocab:Tag|day"
+  ],
+  "dw-a1-e7-l1:der-termin": [
+   "article:Termin|m",
+   "vocab:Termin|appointment"
+  ],
+  "dw-a1-e7-l1:das-training": [
+   "article:Training|n",
+   "vocab:Training|training"
+  ],
+  "dw-a1-e7-l1:tut-mir-leid": [
+   "vocab:Tut mir leid.|im-sorry"
+  ],
+  "dw-a1-e7-l1:um": [
+   "vocab:um|at-time"
+  ],
+  "dw-a1-e7-l1:die-uni": [
+   "article:Uni|f",
+   "vocab:Uni|university"
+  ],
+  "dw-a1-e7-l1:das-volleyballtraining": [
+   "article:Volleyballtraining|n",
+   "vocab:Volleyballtraining|volleyball-practice"
+  ],
+  "dw-a1-e7-l1:von": [
+   "vocab:von|from"
+  ],
+  "dw-a1-e7-l1:wann": [
+   "vocab:wann|when"
+  ],
+  "dw-a1-e7-l1:wie-spaet-ist-es": [
+   "vocab:Wie spät ist es?|what-time-is-it"
+  ],
+  "dw-a1-e7-l1:wie-viel-uhr-ist-es": [
+   "vocab:Wie viel Uhr ist es?|what-time-is-it"
+  ],
+  "dw-a1-e7-l1:die-kollegin": [
+   "article:Kollegin|f",
+   "vocab:Kollegin|colleague-female"
+  ],
+  "dw-a1-e7-l1:das-mittagessen": [
+   "article:Mittagessen|n",
+   "vocab:Mittagessen|lunch"
+  ],
+  "dw-a1-e7-l1:danach": [
+   "vocab:danach|afterwards"
+  ],
+  "dw-a1-e7-l1:etwas-absagen": [
+   "vocab:absagen|to-cancel"
+  ],
+  "dw-a1-e7-l1:auf-jemanden-aufpassen": [
+   "vocab:aufpassen|to-look-after"
+  ],
+  "dw-a1-e7-l1:den-ganzen-tag": [
+   "vocab:den ganzen Tag|all-day"
+  ],
+  "dw-a1-e7-l1:auf-der-arbeit": [
+   "vocab:auf der Arbeit|at-work"
+  ],
+  "dw-a1-e7-l1:morgens": [
+   "vocab:morgens|in-the-morning"
+  ],
+  "dw-a1-e7-l1:vormittags": [
+   "vocab:vormittags|before-noon"
+  ],
+  "dw-a1-e7-l1:mittags": [
+   "vocab:mittags|at-noon"
+  ],
+  "dw-a1-e7-l1:nachmittags": [
+   "vocab:nachmittags|in-the-afternoon"
+  ],
+  "dw-a1-e7-l1:abends": [
+   "vocab:abends|in-the-evening"
+  ],
+  "dw-a1-e7-l1:nachts": [
+   "vocab:nachts|at-night"
   ],
   "vhs-a1-l02:die-familie": [
    "article:Familie|f",

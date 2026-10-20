@@ -4004,6 +4004,192 @@
    "interferesWith": [
     "daneben|next-to-it"
    ]
+  },
+  "Arzt|doctor-male": {
+   "context": {
+    "lesson": "dw-a1-e7-l1",
+    "source": "script",
+    "text": "Nina hat morgen um acht einen Termin beim Arzt.",
+    "target": "Arzt"
+   }
+  },
+  "Babysitter|babysitter-male": {
+   "context": {
+    "lesson": "dw-a1-e7-l1",
+    "source": "exercises",
+    "text": "Nico ist Emmas Babysitter.",
+    "target": "Babysitter"
+   }
+  },
+  "halb|half-hour": {
+   "cue": "half (telling the time: 6:30)",
+   "context": {
+    "lesson": "dw-a1-e7-l1",
+    "source": "exercises",
+    "text": "Es ist halb sieben.",
+    "target": "halb"
+   }
+  },
+  "krank|sick": {
+   "context": {
+    "lesson": "dw-a1-e7-l1",
+    "source": "script",
+    "text": "Meine Kollegin Manja ist krank.",
+    "target": "krank"
+   }
+  },
+  "Lösung|solution": {
+   "context": {
+    "lesson": "dw-a1-e7-l1",
+    "source": "script",
+    "text": "Es gibt keine Lösung.",
+    "target": "Lösung"
+   }
+  },
+  "Mittagspause|lunch-break": {
+   "context": {
+    "lesson": "dw-a1-e7-l1",
+    "source": "exercises",
+    "text": "Um halb eins mache ich Mittagspause.",
+    "target": "Mittagspause"
+   }
+  },
+  "Schule|school": {
+   "context": {
+    "lesson": "dw-a1-e7-l1",
+    "source": "exercises",
+    "text": "Wann bist du in der Schule?",
+    "target": "Schule"
+   }
+  },
+  "Termin|appointment": {
+   "context": {
+    "lesson": "dw-a1-e7-l1",
+    "source": "exercises",
+    "text": "Wann hast du einen Termin beim Arzt?",
+    "target": "Termin"
+   }
+  },
+  "Tut mir leid.|im-sorry": {
+   "cue": "I'm sorry. (when you can't help or have to say no)"
+  },
+  "Uni|university": {
+   "cue": "university — the short, everyday word",
+   "context": {
+    "lesson": "dw-a1-e7-l1",
+    "source": "exercises",
+    "text": "Nawin ist von 9:00 Uhr bis 17:00 Uhr in der Uni.",
+    "target": "Uni"
+   }
+  },
+  "Volleyballtraining|volleyball-practice": {
+   "context": {
+    "lesson": "dw-a1-e7-l1",
+    "source": "exercises",
+    "text": "Wann hat Sebastian Volleyballtraining?",
+    "target": "Volleyballtraining"
+   }
+  },
+  "von|from": {
+   "cue": "from (a time)",
+   "context": {
+    "lesson": "dw-a1-e7-l1",
+    "source": "exercises",
+    "text": "Ich arbeite von acht bis fünf.",
+    "target": "von"
+   }
+  },
+  "Wie spät ist es?|what-time-is-it": {
+   "cue": "What time is it? (literally: how late is it?)"
+  },
+  "Wie viel Uhr ist es?|what-time-is-it": {
+   "cue": "What time is it? (literally: how much o’clock is it?)"
+  },
+  "Kollegin|colleague-female": {
+   "context": {
+    "lesson": "dw-a1-e7-l1",
+    "source": "exercises",
+    "text": "Lisas Kollegin Manja ist krank.",
+    "target": "Kollegin"
+   }
+  },
+  "Mittagessen|lunch": {
+   "context": {
+    "lesson": "dw-a1-e7-l1",
+    "source": "exercises",
+    "text": "Und nach dem Mittagessen habe ich Volleyballtraining",
+    "target": "Mittagessen"
+   }
+  },
+  "danach|afterwards": {
+   "context": {
+    "lesson": "dw-a1-e7-l1",
+    "source": "script",
+    "text": "Und danach ist sie von zehn bis drei in der Schule.",
+    "target": "danach"
+   }
+  },
+  "auf der Arbeit|at-work": {
+   "context": {
+    "lesson": "dw-a1-e7-l1",
+    "source": "exercises",
+    "text": "Sebastian ist von 8:00 Uhr bis 12:00 Uhr auf der Arbeit.",
+    "target": "auf der Arbeit"
+   }
+  },
+  "morgens|in-the-morning": {
+   "cue": "in the morning (early)",
+   "context": {
+    "lesson": "dw-a1-e7-l1",
+    "source": "exercises",
+    "text": "Es ist acht Uhr morgens.",
+    "target": "morgens"
+   }
+  },
+  "vormittags|before-noon": {
+   "cue": "in the morning (before noon)",
+   "context": {
+    "lesson": "dw-a1-e7-l1",
+    "source": "exercises",
+    "text": "Es ist zehn Uhr vormittags.",
+    "target": "vormittags"
+   }
+  },
+  "mittags|at-noon": {
+   "cue": "at midday",
+   "context": {
+    "lesson": "dw-a1-e7-l1",
+    "source": "exercises",
+    "text": "Es ist zwölf Uhr mittags.",
+    "target": "mittags"
+   }
+  },
+  "nachmittags|in-the-afternoon": {
+   "context": {
+    "lesson": "dw-a1-e7-l1",
+    "source": "exercises",
+    "text": "Es ist drei Uhr nachmittags.",
+    "target": "nachmittags"
+   }
+  },
+  "abends|in-the-evening": {
+   "context": {
+    "lesson": "dw-a1-e7-l1",
+    "source": "exercises",
+    "text": "Es ist acht Uhr abends.",
+    "target": "abends"
+   }
+  },
+  "nachts|at-night": {
+   "context": {
+    "lesson": "dw-a1-e7-l1",
+    "source": "exercises",
+    "text": "Es ist zwölf Uhr nachts.",
+    "target": "nachts"
+   }
+  },
+  "beginnen|to-begin": {
+   "cue": "to begin, to start (not separable)"
   }
  }
 }

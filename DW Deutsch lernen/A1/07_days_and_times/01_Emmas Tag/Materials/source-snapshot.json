@@ -1,0 +1,599 @@
+{
+ "description": "Official source text captured by ANKI/harvest_sources.py for offline context verification.",
+ "harvestedOn": "2026-10-20",
+ "sources": [
+  {
+   "id": "exercises",
+   "kind": "dw-exercises",
+   "url": "https://learngerman.dw.com/en/emmas-tag/l-37442425",
+   "lessonUrl": "https://learngerman.dw.com/en/emmas-tag/l-37442425",
+   "vocabulary": {
+    "url": "https://learngerman.dw.com/en/emmas-tag/l-37442425/lv",
+    "items": [
+     {
+      "id": 37535068,
+      "german": "der Arzt, die Ärzte",
+      "english": "doctor (male)",
+      "forms": ""
+     },
+     {
+      "id": 37549535,
+      "german": "die Ärztin, die Ärztinnen",
+      "english": "doctor (female)",
+      "forms": ""
+     },
+     {
+      "id": 37532433,
+      "german": "der Babysitter, die Babysitter",
+      "english": "babysitter (male)",
+      "forms": ""
+     },
+     {
+      "id": 37532466,
+      "german": "die Babysitterin, die Babysitterinnen",
+      "english": "babysitter (female)",
+      "forms": ""
+     },
+     {
+      "id": 37532598,
+      "german": "beginnen",
+      "english": "to begin; to start",
+      "forms": "beginnt, begann, hat begonnen"
+     },
+     {
+      "id": 37532655,
+      "german": "bis",
+      "english": "until",
+      "forms": ""
+     },
+     {
+      "id": 37533967,
+      "german": "Das geht nicht.",
+      "english": "That won't/doesn't work.",
+      "forms": ""
+     },
+     {
+      "id": 37533974,
+      "german": "Das weiß ich leider nicht.",
+      "english": "Unfortunately, I don't know.",
+      "forms": ""
+     },
+     {
+      "id": 37532979,
+      "german": "halb",
+      "english": "half (here it is used to express time and say it is halfway to the next full hour)",
+      "forms": ""
+     },
+     {
+      "id": 37533096,
+      "german": "krank",
+      "english": "sick; ill",
+      "forms": "kränker, am kränksten"
+     },
+     {
+      "id": 38082732,
+      "german": "die Lösung, die Lösungen",
+      "english": "solution",
+      "forms": ""
+     },
+     {
+      "id": 37533936,
+      "german": "die Mittagspause, die Mittagspausen",
+      "english": "lunch break",
+      "forms": ""
+     },
+     {
+      "id": 37540941,
+      "german": "morgen",
+      "english": "tomorrow",
+      "forms": ""
+     },
+     {
+      "id": 40025063,
+      "german": "die Schule, die Schulen",
+      "english": "school",
+      "forms": ""
+     },
+     {
+      "id": 37395537,
+      "german": "der Tag, die Tage",
+      "english": "day",
+      "forms": ""
+     },
+     {
+      "id": 37533125,
+      "german": "der Termin, die Termine",
+      "english": "appointment",
+      "forms": ""
+     },
+     {
+      "id": 37533171,
+      "german": "das Training, die Trainings",
+      "english": "training; workout; (sports) practice",
+      "forms": ""
+     },
+     {
+      "id": 37533234,
+      "german": "Tut mir leid.",
+      "english": "I'm sorry.",
+      "forms": ""
+     },
+     {
+      "id": 37533605,
+      "german": "um",
+      "english": "at; around",
+      "forms": ""
+     },
+     {
+      "id": 37533677,
+      "german": "die Uni, die Unis",
+      "english": "university; college",
+      "forms": "Kurzform von: Universität"
+     },
+     {
+      "id": 37533774,
+      "german": "das Volleyballtraining, die Volleyballtrainings",
+      "english": "volleyball practice",
+      "forms": ""
+     },
+     {
+      "id": 37533828,
+      "german": "von",
+      "english": "from",
+      "forms": ""
+     },
+     {
+      "id": 37533860,
+      "german": "wann",
+      "english": "when",
+      "forms": ""
+     },
+     {
+      "id": 37534022,
+      "german": "Wie spät ist es?",
+      "english": "How late is it?/What time is it?",
+      "forms": ""
+     },
+     {
+      "id": 37534032,
+      "german": "Wie viel Uhr ist es?",
+      "english": "What time is it?",
+      "forms": ""
+     }
+    ]
+   },
+   "exercises": [
+    {
+     "id": "e-37452691",
+     "url": "https://learngerman.dw.com/en/asking-for-the-time/l-37442425/e-37452691",
+     "title": "Asking for the time",
+     "texts": [
+      "Entschuldigung, wie viel …?",
+      "Entschuldigung, wie spät …?"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37442622",
+     "url": "https://learngerman.dw.com/en/lisa-has-a-problem-1/l-37442425/e-37442622",
+     "title": "Lisa has a problem (1)",
+     "texts": [
+      "Lisas Kollegin Manja ist krank.",
+      "Nico ist Emmas Babysitter.",
+      "Lisa macht Manjas Unterricht.",
+      "Lisa hat keine Zeit für Emma.",
+      "Was ist richtig?"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37442663",
+     "url": "https://learngerman.dw.com/en/lisa-has-a-problem-2/l-37442425/e-37442663",
+     "title": "Lisa has a problem (2)",
+     "texts": [
+      "8",
+      "12",
+      "2",
+      "4",
+      "9",
+      "5",
+      "8",
+      "10",
+      "3",
+      "Sebastian: Wann beginnt der Kurs?\nLisa: Um 9. Das geht nicht.\nNawin: Wann arbeitest du morgen?\nSebastian: Ich arbeite morgen von #ps# bis #ps#. Und nach dem Mittagessen habe ich Volleyballtraining und das Training ist von #ps# bis #ps#.",
+      "Schreib die Zahlen.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "Lisa: Und du, Nawin? Wann hast du morgen Uni?\nNawin: Ich bin von #ps# bis #ps# in der Uni. Also den ganzen Tag. Tut mir leid.\nSebastian: Was macht Nina morgen?\nLisa: Nina hat morgen um #ps# einen Termin beim Arzt.\nSebastian: Und danach ist sie von #ps# bis #ps# in der Schule.",
+      "Schreib die Zahlen.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37453092",
+     "url": "https://learngerman.dw.com/en/nawins-day/l-37442425/e-37453092",
+     "title": "Nawin's day",
+     "texts": [
+      "studiert Nawin",
+      "isst er",
+      "ist er auf der Arbeit",
+      "bestellt er Essen",
+      "Um neun #pl#.\nVon zwölf bis halb eins #pm#.\nVon eins bis halb sechs #pl#.\nUm acht #pl#.",
+      "Wähl die Informationen in der richtigen Reihenfolge aus.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37452127",
+     "url": "https://learngerman.dw.com/en/nicos-day/l-37442425/e-37452127",
+     "title": "Nico's day ",
+     "texts": [
+      "Um 10:30 Uhr.",
+      "Um 13:30 Uhr.",
+      "Um 16:30 Uhr.",
+      "Wann hat Nico einen Termin?",
+      "Wann beginnt heute der Deutschkurs?",
+      "Wann trinkt Nico Kaffee?"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37443086",
+     "url": "https://learngerman.dw.com/en/prepositions-of-time-1/l-37442425/e-37443086",
+     "title": "Prepositions of time (1)",
+     "texts": [
+      "When you ask a question using \"Wann ...?\", you are asking about time. If the answer refers to a point in time, you use the preposition \"um\". When you are referring to a period between two points in time, you use the prepositions \"von\" and \"bis\". \"Von\" refers to the beginning of the period and \"bis\" refers to the end. In formal speech, you add the word \"Uhr\" (hour) to the end of a time. For example: \"Um neun Uhr.\" / \"Von neun Uhr bis zwölf Uhr.\"",
+      "Deutschkurse | Nicos Weg | A1 E07 | A1_E07_L1_S4_Foto1",
+      "Deutschkurse | Nicos Weg | A1 E07 | A1_E07_L1_S4_Foto2",
+      "Deutschkurse | Nicos Weg | A1 E07 | A1_E07_L1_S4_Foto3",
+      "Deutschkurse | Nicos Weg | A1 E07 | A1_E07_L1_S4_Foto4",
+      "Was passt zusammen? Ordne zu.",
+      "Um neun Uhr.",
+      "Von acht bis neun Uhr.",
+      "Um drei Uhr.",
+      "Von drei Uhr bis neun Uhr."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37594210",
+     "url": "https://learngerman.dw.com/en/prepositions-of-time-2/l-37442425/e-37594210",
+     "title": "Prepositions of time (2)",
+     "texts": [
+      "um",
+      "bis",
+      "um",
+      "von",
+      "Wann beginnt der Kurs?",
+      "Der Kurs beginnt #ps# 9.",
+      "Wann arbeitest du?",
+      "Ich arbeite von 9 #ps# 5.",
+      "Wann bist du beim Arzt?",
+      "Did you know? When you are sick and need to go to the doctor, it is best to call the office first. Then you can make an appointment.",
+      "Ich bin #ps# 3 beim Arzt.",
+      "Wann bist du in der Schule?",
+      "Careful! When speaking informally, you can just use the numbers 1 to 12 to express time. When speaking formally, you continue with numbers after noon: 13 Uhr, 14 Uhr, 15 Uhr, 16 Uhr, 17 Uhr, 18 Uhr, …",
+      "Ich bin #ps# 9 bis 1 in der Schule."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37443553",
+     "url": "https://learngerman.dw.com/en/questions-with-wann-1/l-37442425/e-37443553",
+     "title": "Questions with \"Wann …?\" (1)",
+     "texts": [
+      "Bring die Wörter in die richtige Reihenfolge.",
+      "Wann arbeitest du?",
+      "Bring die Wörter in die richtige Reihenfolge.",
+      "Wann machst du Mittagspause?",
+      "Bring die Wörter in die richtige Reihenfolge.",
+      "Info: With \"Wann …?\" you ask about a point in time or a period of time. You can also ask about the length of time like this: \"Von wann bis wann arbeitest du?\"",
+      "Wann bist du in der Schule?"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37443757",
+     "url": "https://learngerman.dw.com/en/questions-with-wann-2/l-37442425/e-37443757",
+     "title": "Questions with  \"Wann …?\" (2)",
+     "texts": [
+      "Wann beginnt der Kurs?",
+      "Wann arbeitest du morgen?",
+      "Wann hast du morgen Uni?"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37594590",
+     "url": "https://learngerman.dw.com/en/saying-the-time-1/l-37442425/e-37594590",
+     "title": "Saying the time (1)",
+     "texts": [
+      "Wie spät ist es?",
+      "Deutschkurse | Nicos Weg | A1 E07 | A1_E07_L1_S4_Foto1",
+      "Deutschkurse | Nicos Weg | A1 E07 | A1_E07_L1_S14_Foto7",
+      "Es ist neun Uhr.",
+      "Info: In response to the question \"Wie spät ist es?\", you answer: \"Es ist sieben.\" Formally, you say: \"Es ist sieben Uhr.\" Remember: None of the prepositions you have learned in this lesson are necessary.",
+      "Es ist halb sieben."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37452315",
+     "url": "https://learngerman.dw.com/en/saying-the-time-2/l-37442425/e-37452315",
+     "title": "Saying the time (2)",
+     "texts": [
+      "Es ist acht Uhr .",
+      "Es ist halb elf .",
+      "Info: Instead of \"Wie spät ist es?\", you can also ask: \"Wie viel Uhr ist es?\" The answer does not change.",
+      "Es ist 9 Uhr 30 .",
+      "Info: \"Tut mir leid. Das weiß ich leider nicht.\" is what you say when you do not know the answer. The phrase means \"I am sorry. Unfortunately, I do not know.\"",
+      "Tut mir leid. Das weiß ich leider nicht."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37452560",
+     "url": "https://learngerman.dw.com/en/saying-the-time-3/l-37442425/e-37452560",
+     "title": "Saying the time (3)",
+     "texts": [
+      "Play audio",
+      "8:00 Uhr",
+      "Play audio",
+      "15:00 Uhr",
+      "Play audio",
+      "14:30 Uhr",
+      "Play audio",
+      "12:30 Uhr",
+      "Tip: If you see a clock, practice saying the time out loud. \"Wissen Sie, wie spät es ist?\" means \"Do you know what time it is?\". This is more polite than the other questions.",
+      "Play audio",
+      "Tut mir leid. Das weiß ich leider nicht."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37451901",
+     "url": "https://learngerman.dw.com/en/sebastians-day-1/l-37442425/e-37451901",
+     "title": "Sebastian's day (1)",
+     "texts": [
+      "8:00 Uhr – 12:00 Uhr: auf der Arbeit\n12:30 Uhr: Mittagspause\n13:00 Uhr: Termin beim Arzt\n14:00 Uhr – 16:00 Uhr: Volleyball\n16:00 Uhr – 16:30 Uhr: im Supermarkt\n17:00 Uhr – 19:00 Uhr: im Englischkurs\n20:30 Uhr – 21:30 Uhr: im Sportkurs",
+      "Wann bist du auf der Arbeit?",
+      "Ich bin von acht ... zwölf auf der Arbeit.",
+      "Wann hast du einen Termin beim Arzt?",
+      "Ich habe … eins einen Termin beim Arzt.",
+      "Wann hast du Volleyball?",
+      "Ich habe … zwei ... vier Volleyball.",
+      "Von wann bis wann ist der Englischkurs?",
+      "Der Englischkurs ist ... fünf ... sieben."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37594522",
+     "url": "https://learngerman.dw.com/en/sebastians-day-2/l-37442425/e-37594522",
+     "title": "Sebastian's day (2)",
+     "texts": [
+      "8:00 Uhr – 12:00 Uhr: auf der Arbeit\n12:30: Mittagspause\n13:00 Uhr: Termin beim Arzt\n14:00 Uhr – 16:00 Uhr: Volleyball\n16:00 Uhr – 16:30 Uhr: im Supermarkt\n17:00 Uhr – 19:00 Uhr: im Englischkurs\n20:30 Uhr – 21:30 Uhr: im Sportkurs",
+      "Deutschkurse | Nicos Weg | A1 E07 | A1_E07_L1_S11_Foto3",
+      "Deutschkurse | Nicos Weg | A1 E07 | A1_E07_L1_S11_Foto6",
+      "Deutschkurse | Nicos Weg | A1 E07 | A1_E07_L1_S11_Foto10",
+      "Um halb eins mache ich Mittagspause.",
+      "Von vier bis halb fünf bin ich im Supermarkt.",
+      "Von halb neun bis halb zehn bin ich im Sportkurs.",
+      "Careful! For \"9:30 Uhr\" you say \"halb zehn\". Formally you would say \"neun Uhr dreißig\". Remember: \"halb …\" cannot be combined with \"Uhr\"."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37452046",
+     "url": "https://learngerman.dw.com/en/ten-thirty/l-37442425/e-37452046",
+     "title": "Ten-thirty",
+     "texts": [
+      "halb zehn",
+      "halb elf",
+      "halb eins",
+      "halb drei",
+      "halb vier",
+      "Was passt zusammen?",
+      "Do you remember? \"halb\"+ the next full hour. That is: \"8:30\" = \"halb\" + the next full hour after 8 = \"halb 9\".",
+      "9:30 Uhr",
+      "10:30 Uhr",
+      "12:30 Uhr",
+      "14:30 Uhr",
+      "3:30 Uhr"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37443904",
+     "url": "https://learngerman.dw.com/en/times-and-appointments/l-37442425/e-37443904",
+     "title": "Times and appointments",
+     "texts": [
+      "Lisa ist um 9:00 Uhr in der Sprachschule.",
+      "Nawin ist von 9:00 Uhr bis 17:00 Uhr in der Uni.",
+      "Nina ist um 8:00 Uhr beim Arzt.",
+      "Nina ist von 16:00 Uhr bis 16:30 Uhr im Supermarkt.",
+      "Sebastian ist von 8:00 Uhr bis 12:00 Uhr auf der Arbeit.",
+      "Wo ist Lisa um 9:00 Uhr?",
+      "Wo ist Nawin von 9:00 Uhr bis 17:00 Uhr?",
+      "Wo ist Nina um 8:00 Uhr?",
+      "Wo ist Nina von 16:00 Uhr bis 16:30 Uhr?",
+      "Wo ist Sebastian von 8:00 Uhr bis 12:00 Uhr?"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37442982",
+     "url": "https://learngerman.dw.com/en/when-is-sebastian-working-tomorrow/l-37442425/e-37442982",
+     "title": "When is Sebastian working tomorrow?",
+     "texts": [
+      "von",
+      "bis",
+      "von",
+      "bis",
+      "von",
+      "bis",
+      "um",
+      "von",
+      "bis",
+      "Er arbeitet #p# acht #p# zwölf.",
+      "Wann arbeitet Sebastian morgen?",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "Er hat Volleyballtraining #p# zwei #p# vier.",
+      "Wann hat Sebastian Volleyballtraining?",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "Er ist #p# neun #p# fünf in der Uni.",
+      "Wann ist Nawin in der Uni?",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "Sie hat #p# acht einen Termin beim Arzt und ist #p# zehn #p# drei in der Schule.",
+      "Wann hat Nina einen Termin beim Arzt? Wann ist sie in der Schule?",
+      "Careful! Lisa and the others speak casually together. The phrases \"um neun\" or \"von zehn bis zwölf\" are not formal times.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT"
+     ],
+     "vocabularyTags": []
+    }
+   ],
+   "pages": [
+    {
+     "id": "rs-39370922",
+     "url": "https://learngerman.dw.com/en/childcare/l-37442425/rs-39370922",
+     "title": "Childcare",
+     "texts": [
+      "Childcare",
+      "If you're looking for childcare for your child under school age at a Kindertagesstätte, or \"Kita\" for short, then you're in for a tough time. For children under three, there are childcare options at Kinderkrippen (daycare centers or groups). Children from the age of three to six can go to Kindergarten.\nLots of primary schools offer Hort (after-school care) or offene Ganztagsschule (OGS).\nSince 2013, every working parent in Germany has had a legal entitlement to a Kita place for their child from the age of one, but it is still hard to find a place close to home. This is especially true in western Germany. There are historical reasons for this. When Germany was divided, it was common in the GDR for women to work and for their children to be in daycare from a very young age. In West Germany, women with young children usually didn't work, and there was no great demand for childcare centers. Today, the situation is different.\nIf you live in Germany and want to have a child with your partner, then you should find out about childcare options in your area and register for a place even before the child is born.\nYou pay fees for daycare to the city in which you live if it is a public facility. You can also apply for a spot at a private daycare center. These have their own fees, which are usually higher than public childcare centers."
+     ],
+     "html": "\n\n<p>If you're looking for childcare for your child under school age at a <em>Kindertagesstätte</em>, or \"<em>Kita</em>\" for short, then you're in for a tough time. For children under three, there are childcare options at <em>Kinderkrippen</em> (daycare centers or groups). Children from the age of three to six can go to Kindergarten.</p>\n\n<p>Lots of primary schools offer <em>Hort&#160;</em>(after-school care) or <em>offene Ganztagsschule</em> (<em>OGS</em>).</p>\n\n<p>Since 2013, every working parent in Germany has had a legal entitlement to a <em>Kita</em> place for their child from the age of one, but it is still hard to find a place close to home. This is especially true in western Germany. There are historical reasons for this. When Germany was divided, it was common in the GDR for women to work and for their children to be in daycare from a very young age. In West Germany, women with young children usually didn't work, and there was no great demand for childcare centers. Today, the situation is different.</p>\n\n<p>If you live in Germany and want to have a child with your partner, then you should find out about childcare options in your area and register for a place even before the child is born.</p>\n\n<p>You pay fees for daycare to the city in which you live if it is a public facility. You can also apply for a spot at a private daycare center. These have their own fees, which are usually higher than public childcare centers.</p>\n"
+    },
+    {
+     "id": "gr-38303646",
+     "url": "https://learngerman.dw.com/en/prepositions-of-time-um-von-bis/l-37442425/gr-38303646",
+     "title": "Prepositions of time: um, von – bis",
+     "texts": [
+      "Prepositions of time: um, von – bis",
+      "Times are often requested with the question word wann:\nWann beginnt der Kurs?\nWann arbeitest du?\nTo answer with a time …\nuse um, if you are talking about a specific time:\nDer Kurs beginnt um neun.\nuse von … bis …, if you are talking about a period of time:\nIch arbeite von acht bis fünf.\nGrammatical terms in German:\ndie Präposition: Prepositions are usually short words that connect words or groups of words together. They describe the relationship between people or things."
+     ],
+     "html": "<p>Times are often requested with the question word <em>wann</em>:</p>\n\n<p><em>Wann beginnt der Kurs?</em></p>\n\n<p><em>Wann arbeitest du?</em></p>\n\n<p>&#160;</p>\n\n<p>To answer with a time …</p>\n\n<ul>\n\t<li><span dir=\"LTR\"></span>use <strong><em>um</em></strong>, if you are talking about a <strong>specific time</strong>:<br>\n\t<em>Der Kurs beginnt <strong>um</strong> neun.</em></li>\n\t<li><span dir=\"LTR\"></span>use <strong><em>von … bis …</em></strong>, if you are talking about a <strong>period of time</strong>:<br>\n\t<em>Ich arbeite <strong>von</strong> acht <strong>bis</strong> fünf.</em></li>\n</ul>\n\n<p>&#160;</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>Grammatical terms in German:</p>\n\n\t\t\t<p>die Präposition: Prepositions are usually short words that connect words or groups of words together. They describe the relationship between people or things.</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n"
+    },
+    {
+     "id": "gr-38303328",
+     "url": "https://learngerman.dw.com/en/time-12-hour-clock-1/l-37442425/gr-38303328",
+     "title": "Time: 12-hour clock (1)",
+     "texts": [
+      "Time: 12-hour clock (1)",
+      "In German there are two ways of telling the time: the 12-hour clock and the 24-hour clock. In normal daily situations, the 12-hour clock is almost always used.\nFull hours:\nJust use the numbers from one to 12.\nYou can use the word Uhr, but you can also leave it out:\nImage:\nAn example: \"Es ist ein Uhr.\" or \"Es ist eins.\"An example: \"Es ist zwei Uhr.\" or \"Es ist zwei.\"\nImage:\nAn example: \"Es ist drei Uhr.\" or \"Es ist drei.\"An example: \"Es ist vier Uhr.\" or \"Es ist vier.\"\nImage:\nAn example: \"Es ist zwölf Uhr.\" or \"Es ist zwölf.\"\nTo make it clear that you are talking about, for example, eight o'clock in the morning or evening, you can use an additional adverb. In this case, always use the word Uhr.\n8:00 Uhr\nEs ist acht Uhr morgens.\n10:00 Uhr\nEs ist zehn Uhr vormittags.\n12:00 Uhr\nEs ist zwölf Uhr mittags.\n15:00 Uhr\nEs ist drei Uhr nachmittags.\n20:00 Uhr\nEs ist acht Uhr abends.\n00:00 Uhr\nEs ist zwölf Uhr nachts.\nHalf hours:\nWhen you are speaking about half hours, give the next full hour minus half an hour.\nDo not use the word Uhr.\nExamples:\n7:30 Uhr\nEs ist halb acht.\n14:30 Uhr\nEs ist halb drei."
+     ],
+     "html": "<p>In German there are two ways of telling the time: the 12-hour clock and the 24-hour clock. In normal daily situations, the 12-hour clock&#160;is almost always used.</p>\n\n<p>Full hours:</p>\n\n<ul>\n\t<li>Just use the numbers from one to 12.</li>\n\t<li>You can use the word <em>Uhr</em>, but you can also leave it out:</li>\n</ul>\n\n<p>Image:</p><ul><li>An example: &quot;Es ist ein Uhr.&quot; or &quot;Es ist eins.&quot;An example: &quot;Es ist zwei Uhr.&quot; or &quot;Es ist zwei.&quot;</li></ul><p>Image:</p><ul><li>An example: &quot;Es ist drei Uhr.&quot; or &quot;Es ist drei.&quot;An example: &quot;Es ist vier Uhr.&quot; or &quot;Es ist vier.&quot;</li></ul><p>Image:</p><ul><li>An example: &quot;Es ist zwölf Uhr.&quot; or &quot;Es ist zwölf.&quot;</li></ul>\n\n<p>To make it clear that you are talking about, for example, eight o'clock in the morning or evening, you can use an additional adverb. In this case, always use the word <em>Uhr</em>.</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>8:00 Uhr</td>\n\t\t\t<td><em>Es ist acht Uhr <strong>morgens</strong>.</em></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>10:00 Uhr</td>\n\t\t\t<td><em>Es ist zehn Uhr <strong>vormittags</strong>.</em></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>12:00 Uhr</td>\n\t\t\t<td><em>Es ist zwölf Uhr <strong>mittags</strong>.</em></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>15:00 Uhr</td>\n\t\t\t<td><em>Es ist drei Uhr <strong>nachmittags</strong>.</em></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>20:00 Uhr</td>\n\t\t\t<td><em>Es ist acht Uhr <strong>abends</strong>.</em></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>00:00 Uhr</td>\n\t\t\t<td><em>Es ist zwölf Uhr <strong>nachts</strong>.</em></td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&#160;</p>\n\n<p>Half hours:</p>\n\n<ul>\n\t<li>When you are speaking about half hours, give the next full hour <em>minus</em> half an hour.</li>\n\t<li>Do not use the word <em>Uhr</em>.</li>\n</ul>\n\n<p>Examples:</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>7:30 Uhr</td>\n\t\t\t<td><em>Es ist halb acht.</em></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>14:30 Uhr</td>\n\t\t\t<td><em>Es ist halb drei.</em></td>\n\t\t</tr>\n\t</tbody>\n</table>\n"
+    }
+   ]
+  },
+  {
+   "id": "script",
+   "kind": "dw-script-pdf",
+   "url": "https://learngerman.dw.com/downloads/52719975/nicos-weg-a1-e7-l1-manuskript-und-wortschatz-englisch.pdf",
+   "localFile": "DW Deutsch lernen/A1/07_days_and_times/01_Emmas Tag/Materials/Script and vocabulary (English).pdf",
+   "sha256": "5b191aef0ff2a23608da4c41da8d3a2d3741c2559815471e96719874d403dae7",
+   "lines": [
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "(7) Days and times | Emmas Tag",
+    "Lisa needs someone to look after her niece Emma the following day. She",
+    "asks her roommates about their plans for the day and when they are going",
+    "to be home. Who is going to babysit Emma?",
+    "Script",
+    "SEBASTIAN:",
+    "Was ist?",
+    "LISA:",
+    "Meine Kollegin Manja ist krank. Ich mache morgen Manjas Unterricht.",
+    "SEBASTIAN:",
+    "Das ist doch super.",
+    "LISA:",
+    "Ja und was mache ich mit Emma?",
+    "SEBASTIAN:",
+    "Wann beginnt der Kurs?",
+    "LISA:",
+    "Um neun. Das geht nicht.",
+    "NAWIN:",
+    "Wann arbeitest du morgen?",
+    "SEBASTIAN:",
+    "Ich arbeite morgen von acht bis zwölf. Und nach dem Mittagessen hab ich",
+    "Volleyballtraining und das Training ist von zwei bis vier.",
+    "LISA:",
+    "Und du, Nawin? Wann hast du morgen Uni?",
+    "NAWIN:",
+    "Ich bin von neun bis fünf in der Uni. Also den ganzen Tag. Tut mir leid.",
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "SEBASTIAN:",
+    "Was macht Nina morgen?",
+    "LISA:",
+    "Nina hat morgen um acht einen Termin beim Arzt.",
+    "SEBASTIAN:",
+    "Und danach ist sie von zehn bis drei in der Schule.",
+    "NAWIN:",
+    "Hm …",
+    "LISA:",
+    "Es gibt keine Lösung. Ich rufe Manja an. Wir sagen den Unterricht ab.",
+    "SEBASTIAN:",
+    "Nico ist doch da.",
+    "NICO:",
+    "Wie bitte?",
+    "SEBASTIAN:",
+    "Nico, passt du morgen auf Emma auf?",
+    "NICO:",
+    "Emma?",
+    "NAWIN:",
+    "Babysitting.",
+    "NICO:",
+    "Ja! Gerne!",
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "Vocabulary (from script and lesson)",
+    "der Arzt, die Ärzte – doctor (male)",
+    "die Ärztin, die Ärztinnen – doctor (female)",
+    "der Babysitter, die Babysitter – babysitter (male)",
+    "die Babysitterin, die Babysitterinnen – babysitter (female)",
+    "beginnen – to begin; to start",
+    "beginnt, begann, hat begonnen",
+    "bis – until",
+    "Das geht nicht. – That won't/doesn't work.",
+    "Das weiß ich leider nicht. – Unfortunately, I don't know.",
+    "halb – half (here it is used to express time and say it is halfway to the next full hour)",
+    "krank – sick; ill",
+    "kränker, am kränksten",
+    "die Lösung, die Lösungen – solution",
+    "die Mittagspause, die Mittagspausen – lunch break",
+    "morgen – tomorrow",
+    "die Schule, die Schulen – school",
+    "der Tag, die Tage – day",
+    "der Termin, die Termine – appointment",
+    "das Training, die Trainings – training; workout; (sports) practice",
+    "Tut mir leid. – I'm sorry.",
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "um – at, around",
+    "die Uni, die Unis – university; college",
+    "Kurzform von: Universität",
+    "das Volleyballtraining, die Volleyballtrainings – volleyball practice",
+    "von – from",
+    "wann – when",
+    "Wie spät ist es? – How late is it?/What time is it?",
+    "Wie viel Uhr ist es? – What time is it?"
+   ]
+  }
+ ]
+}
