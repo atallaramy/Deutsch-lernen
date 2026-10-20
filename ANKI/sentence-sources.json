@@ -5491,6 +5491,394 @@
    "covers": [],
    "grammarPage": "gr-38303328",
    "note": "with Uhr: ein Uhr · without: Es ist eins."
+  },
+  {
+   "key": "emma-gets-up-at-half-six",
+   "kind": "production",
+   "lesson": "dw-a1-e7-l2",
+   "skill": "separable verb: aufstehen",
+   "scene": "Say that Emma gets up at half past six (6:30).",
+   "answer": "Emma steht um halb sieben auf.",
+   "answerSource": {
+    "lesson": "dw-a1-e7-l2",
+    "source": "script"
+   },
+   "covers": [],
+   "grammarPage": "gr-38304805",
+   "learnerError": {
+    "wrong": "Emma steht om halb sieben auf.",
+    "why": "um + clock time: um halb sieben"
+   },
+   "note": "aufstehen → steht … auf: the prefix goes to the end"
+  },
+  {
+   "key": "after-that-she-brushes-her-teeth",
+   "kind": "production",
+   "lesson": "dw-a1-e7-l2",
+   "skill": "word order: danach + verb",
+   "scene": "After that, Emma brushes her teeth. Start with Danach and use sie.",
+   "answer": "Danach putzt sie Zähne.",
+   "answerSource": {
+    "lesson": "dw-a1-e7-l2",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "Danach in position 1, then the verb: putzt sie"
+  },
+  {
+   "key": "i-always-brush-my-teeth",
+   "kind": "response",
+   "lesson": "dw-a1-e7-l2",
+   "skill": "adverbs of frequency: immer",
+   "scene": "Lisa reminds Emma: brushing your teeth is important. Protest as Emma: you always brush your teeth!",
+   "prompt": {
+    "lesson": "dw-a1-e7-l2",
+    "source": "script",
+    "text": "Das ist wichtig, Emma, okay?"
+   },
+   "answer": "Ich putze immer meine Zähne!",
+   "answerSource": {
+    "lesson": "dw-a1-e7-l2",
+    "source": "script"
+   },
+   "covers": [],
+   "grammarPage": "gr-38304940",
+   "note": "immer comes right after the verb: ich putze immer …"
+  },
+  {
+   "key": "breakfast-normally-granola-with-milk",
+   "kind": "production",
+   "lesson": "dw-a1-e7-l2",
+   "skill": "zum Frühstück + essen",
+   "scene": "Say that for breakfast Emma normally eats granola with milk. Start with the words for “for breakfast”.",
+   "answer": "Zum Frühstück isst Emma normalerweise Müsli mit Milch.",
+   "answerSource": {
+    "lesson": "dw-a1-e7-l2",
+    "source": "script"
+   },
+   "covers": [],
+   "learnerError": {
+    "wrong": "Zum Früstück ist Emma normalerweiser Müsli mit Milch.",
+    "why": "Frühstück with h · essen → sie isst (double s) · normalerweise ends in e"
+   },
+   "note": "zum Frühstück = for breakfast · essen → isst (e → i)"
+  },
+  {
+   "key": "sometimes-also-an-apple",
+   "kind": "production",
+   "lesson": "dw-a1-e7-l2",
+   "skill": "essen + einen (Akkusativ)",
+   "scene": "But sometimes Emma (sie) also eats an apple. Start with Aber.",
+   "answer": "Aber manchmal isst sie auch einen Apfel.",
+   "answerSource": {
+    "lesson": "dw-a1-e7-l2",
+    "source": "script"
+   },
+   "covers": [],
+   "learnerError": {
+    "wrong": "Aber manchmal isst sie auch ein Apfel.",
+    "why": "der Apfel → einen Apfel (Akkusativ)"
+   }
+  },
+  {
+   "key": "lunch-often-vegetables",
+   "kind": "production",
+   "lesson": "dw-a1-e7-l2",
+   "skill": "es gibt + oft",
+   "scene": "And for lunch there are often vegetables. Start with Und, then the words for “for lunch”.",
+   "answer": "Und zum Mittagessen gibt es oft Gemüse.",
+   "answerSource": {
+    "lesson": "dw-a1-e7-l2",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "zum Mittagessen = for lunch · das Gemüse: no plural"
+  },
+  {
+   "key": "reply-lunch-at-twelve",
+   "kind": "response",
+   "lesson": "dw-a1-e7-l2",
+   "skill": "um + time",
+   "scene": "Lunch is at twelve. Answer starting with Mittagessen.",
+   "prompt": {
+    "lesson": "dw-a1-e7-l2",
+    "source": "exercises",
+    "text": "Wann gibt es Mittagessen?"
+   },
+   "answer": "Mittagessen gibt es um zwölf.",
+   "answerSource": {
+    "lesson": "dw-a1-e7-l2",
+    "source": "script"
+   },
+   "covers": [],
+   "learnerError": {
+    "wrong": "Mittagessen gibt es im zwölf.",
+    "why": "um + clock time: um zwölf"
+   }
+  },
+  {
+   "key": "homework-from-two-to-three",
+   "kind": "production",
+   "lesson": "dw-a1-e7-l2",
+   "skill": "von … bis … + verb",
+   "scene": "From two to three o’clock Emma normally does homework (Hausaufgaben, no article). Start with Von.",
+   "answer": "Von zwei bis drei Uhr macht Emma normalerweise Hausaufgaben.",
+   "answerSource": {
+    "lesson": "dw-a1-e7-l2",
+    "source": "script"
+   },
+   "covers": [],
+   "learnerError": {
+    "wrong": "Von zwei bis drei Uhr Mach Emma normalerweiser Hausaufgaben.",
+    "why": "machen → Emma macht (small m, -t) · normalerweise ends in e"
+   },
+   "note": "Von … bis … first, then the verb: macht Emma"
+  },
+  {
+   "key": "flute-from-four-to-half-four",
+   "kind": "production",
+   "lesson": "dw-a1-e7-l2",
+   "skill": "von … bis … + halb",
+   "scene": "And from four to half past four (4:30) Emma (sie) practises the flute (Flöte, no article). Start with Und von.",
+   "answer": "Und von vier bis halb fünf übt sie Flöte.",
+   "answerSource": {
+    "lesson": "dw-a1-e7-l2",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "4:30 = halb fünf · Flöte üben (no article)"
+  },
+  {
+   "key": "i-will-check-that",
+   "kind": "production",
+   "lesson": "dw-a1-e7-l2",
+   "skill": "verb: kontrollieren",
+   "scene": "Tell the children firmly: I’ll check that!",
+   "answer": "Ich kontrolliere das!",
+   "answerSource": {
+    "lesson": "dw-a1-e7-l2",
+    "source": "script"
+   },
+   "covers": [],
+   "learnerError": {
+    "wrong": "Ich kontroliere das!",
+    "why": "kontrollieren has a double l"
+   }
+  },
+  {
+   "key": "and-you-dont-watch-tv",
+   "kind": "production",
+   "lesson": "dw-a1-e7-l2",
+   "skill": "separable verb: fernsehen",
+   "scene": "Tell Emma (du): and you don’t watch TV. Start with Und.",
+   "answer": "Und du siehst nicht fern.",
+   "answerSource": {
+    "lesson": "dw-a1-e7-l2",
+    "source": "script"
+   },
+   "covers": [],
+   "grammarPage": "gr-38304805",
+   "note": "fernsehen → du siehst … fern (e → ie for du and er/sie/es) · your notes had “Siest”: keep the h"
+  },
+  {
+   "key": "after-playing-you-tidy-up",
+   "kind": "production",
+   "lesson": "dw-a1-e7-l2",
+   "skill": "separable verb: aufräumen",
+   "scene": "Tell Emma (du): and after playing, you tidy up. Start with Und nach.",
+   "answer": "Und nach dem Spielen räumst du auf.",
+   "answerSource": {
+    "lesson": "dw-a1-e7-l2",
+    "source": "script"
+   },
+   "covers": [],
+   "grammarPage": "gr-38304805",
+   "note": "aufräumen → du räumst … auf · nach dem Spielen = after playing (DW)"
+  },
+  {
+   "key": "i-dont-want-chaos-here",
+   "kind": "production",
+   "lesson": "dw-a1-e7-l2",
+   "skill": "kein + noun · möchte + infinitive",
+   "scene": "Say firmly: you don’t want any chaos here! Use möchte; hier comes right after möchte.",
+   "answer": "Ich möchte hier kein Chaos haben!",
+   "answerSource": {
+    "lesson": "dw-a1-e7-l2",
+    "source": "script"
+   },
+   "covers": [],
+   "learnerError": {
+    "wrong": "Keine Chaos",
+    "why": "das Chaos is neuter: kein Chaos"
+   },
+   "note": "möchte … haben: the infinitive goes to the end"
+  },
+  {
+   "key": "reply-i-know",
+   "kind": "response",
+   "lesson": "dw-a1-e7-l2",
+   "skill": "wissen: ich weiß",
+   "scene": "Nico promises it’s no problem. You trust him: say you know.",
+   "prompt": {
+    "lesson": "dw-a1-e7-l2",
+    "source": "script",
+    "text": "Kein Problem."
+   },
+   "answer": "Ich weiß.",
+   "answerSource": {
+    "lesson": "dw-a1-e7-l2",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "wissen → ich weiß, du weißt, er weiß (no -e for ich)"
+  },
+  {
+   "key": "home-for-dinner-around-six",
+   "kind": "production",
+   "lesson": "dw-a1-e7-l2",
+   "skill": "gegen + time",
+   "scene": "Tell Nico: tomorrow you’ll be back home around six for dinner. Order: Ich bin morgen · around six · for dinner · back home.",
+   "answer": "Ich bin morgen gegen sechs zum Abendessen wieder zu Hause.",
+   "answerSource": {
+    "lesson": "dw-a1-e7-l2",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "gegen sechs = around six · zum Abendessen = for dinner"
+  },
+  {
+   "key": "emma-always-does-homework",
+   "kind": "production",
+   "lesson": "dw-a1-e7-l2",
+   "skill": "adverbs of frequency: immer",
+   "scene": "Say that Emma always does her homework (die Hausaufgaben).",
+   "answer": "Emma macht immer die Hausaufgaben.",
+   "answerSource": {
+    "lesson": "dw-a1-e7-l2",
+    "source": "exercises"
+   },
+   "covers": [],
+   "grammarPage": "gr-38304940",
+   "note": "Adverbs of frequency usually come right after the conjugated verb (DW)."
+  },
+  {
+   "key": "lisa-always-shops-at-supermarket",
+   "kind": "production",
+   "lesson": "dw-a1-e7-l2",
+   "skill": "separable verb + adverb",
+   "scene": "Say that Lisa always shops at the supermarket. Use einkaufen.",
+   "answer": "Lisa kauft immer im Supermarkt ein.",
+   "answerSource": {
+    "lesson": "dw-a1-e7-l2",
+    "source": "exercises"
+   },
+   "covers": [],
+   "grammarPage": "gr-38304805",
+   "note": "kauft in position 2, ein at the very end · immer right after the verb"
+  },
+  {
+   "key": "order-when-get-up-tomorrow",
+   "kind": "production",
+   "lesson": "dw-a1-e7-l2",
+   "skill": "word order: W-question + separable verb",
+   "scene": "Word-order game (DW tip): put the words in order and conjugate the verb.",
+   "prompt": {
+    "lesson": "dw-a1-e7-l2",
+    "source": "exercises",
+    "text": "aufstehen – morgen – du – wann?"
+   },
+   "answer": "Wann stehst du morgen auf?",
+   "answerSource": "learner-notes",
+   "covers": [
+    "dw-a1-e7-l2:wann-stehst-du-morgen-auf"
+   ],
+   "grammarPage": "gr-38304805",
+   "note": "W-word, verb, subject … prefix at the very end"
+  },
+  {
+   "key": "order-when-lisa-calls-london",
+   "kind": "production",
+   "lesson": "dw-a1-e7-l2",
+   "skill": "word order: W-question + separable verb",
+   "scene": "Word-order game (DW tip): put the words in order and conjugate the verb.",
+   "prompt": {
+    "lesson": "dw-a1-e7-l2",
+    "source": "exercises",
+    "text": "wann – anrufen – Lisa – in London?"
+   },
+   "answer": "Wann ruft Lisa in London an?",
+   "answerSource": "learner-notes",
+   "covers": [
+    "dw-a1-e7-l2:wann-ruft-lisa-in-london-an"
+   ],
+   "note": "anrufen → Lisa ruft … an"
+  },
+  {
+   "key": "order-when-we-tidy-room",
+   "kind": "production",
+   "lesson": "dw-a1-e7-l2",
+   "skill": "word order: W-question + separable verb",
+   "scene": "Word-order game (DW tip): put the words in order and conjugate the verb.",
+   "prompt": {
+    "lesson": "dw-a1-e7-l2",
+    "source": "exercises",
+    "text": "das – Zimmer – aufräumen – wann – wir?"
+   },
+   "answer": "Wann räumen wir das Zimmer auf?",
+   "answerSource": "learner-notes",
+   "covers": [
+    "dw-a1-e7-l2:wann-raeumen-wir-das-zimmer-auf"
+   ],
+   "note": "aufräumen → wir räumen … auf"
+  },
+  {
+   "key": "order-when-you-watch-tv",
+   "kind": "production",
+   "lesson": "dw-a1-e7-l2",
+   "skill": "word order: W-question + separable verb",
+   "scene": "Word-order game (DW tip): put the words in order and conjugate the verb.",
+   "prompt": {
+    "lesson": "dw-a1-e7-l2",
+    "source": "exercises",
+    "text": "fernsehen – du – wann?"
+   },
+   "answer": "Wann siehst du fern?",
+   "answerSource": "learner-notes",
+   "covers": [
+    "dw-a1-e7-l2:wann-siehst-du-fern"
+   ],
+   "note": "fernsehen → du siehst … fern"
+  },
+  {
+   "key": "reply-yes-i-call-my-family-today",
+   "kind": "response",
+   "lesson": "dw-a1-e7-l2",
+   "skill": "separable verb: anrufen",
+   "scene": "Answer yes, in a full sentence starting with Ja.",
+   "prompt": {
+    "lesson": "dw-a1-e7-l2",
+    "source": "exercises",
+    "text": "Rufst du heute deine Familie an?"
+   },
+   "answer": "Ja, ich rufe heute meine Familie an.",
+   "answerSource": "learner-notes",
+   "covers": [
+    "dw-a1-e7-l2:ja-ich-rufe-heute-meine-familie-an"
+   ],
+   "note": "anrufen → ich rufe … an · deine (your) → meine (my)"
+  },
+  {
+   "key": "shopping-almost-always-before-noon",
+   "kind": "production",
+   "lesson": "dw-a1-e7-l2",
+   "skill": "am + time of day",
+   "scene": "Say that you almost always go shopping before noon. Use einkaufen; fast immer comes right after the verb.",
+   "answer": "Ich kaufe fast immer am Vormittag ein.",
+   "answerSource": "learner-notes",
+   "covers": [
+    "dw-a1-e7-l2:ich-kaufe-fast-immer-am-vormittag-ein"
+   ],
+   "note": "am + part of the day (am Vormittag, am Abend) · um + clock time (um zwölf)"
   }
  ]
 }

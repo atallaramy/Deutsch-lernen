@@ -4190,6 +4190,200 @@
   },
   "beginnen|to-begin": {
    "cue": "to begin, to start (not separable)"
+  },
+  "Abendessen|dinner": {
+   "context": {
+    "lesson": "dw-a1-e7-l2",
+    "source": "exercises",
+    "text": "Wann gibt es Abendessen?",
+    "target": "Abendessen"
+   }
+  },
+  "am Morgen|in-the-morning": {
+   "cue": "in the morning (two words: am + the noun)"
+  },
+  "Apfel|apple": {
+   "context": {
+    "lesson": "dw-a1-e7-l2",
+    "source": "exercises",
+    "text": "Und manchmal esse ich auch am Nachmittag einen Apfel.",
+    "target": "Apfel"
+   }
+  },
+  "aufstehen|to-get-up": {
+   "context": {
+    "lesson": "dw-a1-e7-l2",
+    "source": "exercises",
+    "text": "6:30 Uhr: aufstehen und Zähne putzen",
+    "target": "aufstehen"
+   }
+  },
+  "fast immer|almost-always": {
+   "context": {
+    "lesson": "dw-a1-e7-l2",
+    "source": "exercises",
+    "text": "Danach esse ich normalerweise Müsli – oder fast immer.",
+    "target": "fast immer"
+   }
+  },
+  "Flöte|flute": {
+   "context": {
+    "lesson": "dw-a1-e7-l2",
+    "source": "exercises",
+    "text": "16:00 – 16:30 Uhr: Flöte üben",
+    "target": "Flöte"
+   }
+  },
+  "Frühstück|breakfast": {
+   "context": {
+    "lesson": "dw-a1-e7-l2",
+    "source": "exercises",
+    "text": "Frühstück: Müsli, Milch, einen Apfel",
+    "target": "Frühstück"
+   }
+  },
+  "Gemüse|vegetables": {
+   "context": {
+    "lesson": "dw-a1-e7-l2",
+    "source": "exercises",
+    "text": "Ich esse auch viel Gemüse zum Mittagessen.",
+    "target": "Gemüse"
+   }
+  },
+  "jeden Tag|every-day": {
+   "context": {
+    "lesson": "dw-a1-e7-l2",
+    "source": "exercises",
+    "text": "Und ich räume auch jeden Tag das Wohnzimmer und die Küche auf.",
+    "target": "jeden Tag"
+   }
+  },
+  "manchmal|sometimes": {
+   "context": {
+    "lesson": "dw-a1-e7-l2",
+    "source": "script",
+    "text": "Immer oder manchmal?",
+    "target": "manchmal"
+   }
+  },
+  "meistens|most-of-the-time": {
+   "cue": "most of the time (the long form)",
+   "context": {
+    "lesson": "dw-a1-e7-l2",
+    "source": "exercises",
+    "text": "Am Sonntag esse ich meistens Brötchen.",
+    "target": "meistens"
+   }
+  },
+  "Morgen|morning": {
+   "cue": "morning (early: about 6 to 10 a.m.)"
+  },
+  "Müsli|granola": {
+   "context": {
+    "lesson": "dw-a1-e7-l2",
+    "source": "script",
+    "text": "Zum Frühstück isst Emma normalerweise Müsli mit Milch.",
+    "target": "Müsli"
+   }
+  },
+  "nach|after": {
+   "cue": "after (in time)",
+   "context": {
+    "lesson": "dw-a1-e7-l2",
+    "source": "script",
+    "text": "Und nach dem Spielen räumst du auf.",
+    "target": "nach"
+   },
+   "note": "nach dem Spielen = after playing (DW)"
+  },
+  "Nacht|night": {
+   "context": {
+    "lesson": "dw-a1-e7-l2",
+    "source": "exercises",
+    "text": "22:00 – 6:00 Uhr: Nacht",
+    "target": "Nacht"
+   }
+  },
+  "nie|never": {
+   "context": {
+    "lesson": "dw-a1-e7-l2",
+    "source": "exercises",
+    "text": "Lotte macht nie die Hausaufgaben.",
+    "target": "nie"
+   }
+  },
+  "normalerweise|normally": {
+   "context": {
+    "lesson": "dw-a1-e7-l2",
+    "source": "script",
+    "text": "Von zwei bis drei Uhr macht Emma normalerweise Hausaufgaben.",
+    "target": "normalerweise"
+   }
+  },
+  "selten|seldom": {
+   "context": {
+    "lesson": "dw-a1-e7-l2",
+    "source": "exercises",
+    "text": "Nein, ich putze selten meine Wohnung.",
+    "target": "selten"
+   }
+  },
+  "Vormittag|morning-before-noon": {
+   "cue": "late morning; before noon",
+   "context": {
+    "lesson": "dw-a1-e7-l2",
+    "source": "exercises",
+    "text": "10:00 – 12:00 Uhr: Vormittag",
+    "target": "Vormittag"
+   }
+  },
+  "gegen|around-time": {
+   "cue": "around (a time): approximately, not exactly at",
+   "context": {
+    "lesson": "dw-a1-e7-l2",
+    "source": "script",
+    "text": "Ich bin morgen gegen sechs zum Abendessen wieder zu Hause.",
+    "target": "gegen"
+   }
+  },
+  "Chaos|chaos": {
+   "context": {
+    "lesson": "dw-a1-e7-l2",
+    "source": "script",
+    "text": "Ich möchte hier kein Chaos haben!",
+    "target": "Chaos"
+   }
+  },
+  "Fernsehen|television": {
+   "cue": "TV as a medium (watching television), not the set",
+   "context": {
+    "lesson": "dw-a1-e7-l2",
+    "source": "exercises",
+    "text": "Lisa sagt: Fernsehen ist nicht gut.",
+    "target": "Fernsehen"
+   }
+  },
+  "Schokolade|chocolate": {
+   "context": {
+    "lesson": "dw-a1-e7-l2",
+    "source": "exercises",
+    "text": "Schokolade esse ich nur selten.",
+    "target": "Schokolade"
+   }
+  },
+  "Chef|boss-male": {
+   "context": {
+    "lesson": "dw-a1-e7-l2",
+    "source": "exercises",
+    "text": "Und ich rufe um 9 Uhr den Chef an.",
+    "target": "Chef"
+   }
+  },
+  "Fernseher|television": {
+   "cue": "television (the TV set)"
+  },
+  "wissen|to-know": {
+   "cue": "to know (a fact)"
   }
  }
 }

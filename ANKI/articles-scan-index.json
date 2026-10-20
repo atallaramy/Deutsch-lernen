@@ -1,8 +1,8 @@
 {
   "deck": "A1::Articles",
-  "revision": "2026-10-20T19:30:00Z",
+  "revision": "2026-10-20T20:12:00Z",
   "qualityPolicy": "Typed der/die/das for singular nouns. Plural and dependable gender patterns after answering. No audio.",
-  "cards": 385,
+  "cards": 399,
   "sources": [
     {
       "id": "dw-a1-e0-l1",
@@ -382,6 +382,19 @@
       }
     },
     {
+      "id": "dw-a1-e7-l2",
+      "course": "dw-nicos-weg",
+      "title": "Tageszeiten",
+      "url": "https://learngerman.dw.com/en/tageszeiten/l-37445884",
+      "notesFile": "DW Deutsch lernen/A1/07_days_and_times/02_Tageszeiten/Tageszeiten.md",
+      "capturedEntries": 53,
+      "cards": {
+        "vocabulary": 47,
+        "articles": 20,
+        "sentences": 6
+      }
+    },
+    {
       "id": "vhs-a1-l02",
       "course": "vhs-lernportal",
       "title": "Lektion 2 · Meine Familie und ich",
@@ -410,9 +423,9 @@
   ],
   "packages": {
     "ANKI/A1/articles.apkg": {
-      "notes": 385,
-      "cards": 385,
-      "sha256": "9de2ec748ddb50689831adb654ba37193dd683b886dd0e1239d4f549a67dd0e1"
+      "notes": 399,
+      "cards": 399,
+      "sha256": "ba705b91def76b58a6973784e9056d6d4486892a1b75e12c75a1ccb064dbf4af"
     }
   }
 }

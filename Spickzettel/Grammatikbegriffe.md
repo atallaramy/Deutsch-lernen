@@ -16,6 +16,7 @@
 | das Fragewort | question word | wer, wen, was, wo |
 | das Adjektiv | adjective | groß, klein, rot |
 | die Präposition | preposition | in, aus, nach |
+| das Adverb | adverb | immer, oft, nie |
 
 ## Nouns
 
@@ -36,6 +37,7 @@
 | der Verbstamm | stem | komm- |
 | die Endung | ending | ich komm-e, du komm-st |
 | die Konjugation | conjugation | ich komme, du kommst, er kommt |
+| das trennbare Verb | separable verb | aufstehen → ich stehe auf |
 | der Vokalwechsel | vowel change | ich nehme → du nimmst |
 | das Präsens | present tense | ich bin |
 | das Präteritum | simple past | ich war |

@@ -24,6 +24,7 @@ words, with a short example each, are on my one-page cheatsheet
 | *das Fragewort* | question word: At the beginning of a W-question there is a question word that usually begins with the letter *W*. | [W-Fragen](A1/W-Fragen.md) |
 | *das Adjektiv* | adjective: Adjectives are used to describe people or things. | [Adjektive nach sein](A1/Adjektive-nach-sein.md) |
 | *die Präposition* | preposition: Prepositions are usually short words that connect words or groups of words together. They describe the relationship between people or things. | [wohnen in](A1/wohnen-in.md) |
+| *das Adverb* | adverb: An adverb describes when, where or how something happens. It refers to another word in the sentence (e.g. a verb or adjective) or to the whole sentence. | [Häufigkeit](A1/Haeufigkeit.md) |
 
 ## Nouns
 
@@ -44,6 +45,7 @@ words, with a short example each, are on my one-page cheatsheet
 | *der Verbstamm* | stem: When conjugating verbs, you remove "-en" from the infinitive form and add the appropriate ending. For example: The root of "lernen" is "lern-". | [Präsens](A1/Praesens.md) |
 | *die Endung* | ending: In conjugation, the endings of the verbs often change. The ending depends on which person is doing the action. The ending comes after the verb stem. | [Präsens](A1/Praesens.md) |
 | *die Konjugation* | conjugation: When a verb is used in a different tense, or with a different person, it changes. It often gets a specific ending. This change in the verb form is known as conjugation. | [Präsens](A1/Praesens.md) |
+| *das trennbare Verb* | separable verb: Separable verbs have a prefix that can be separated in the sentence, and which then comes at the end. | [Trennbare Verben](A1/Trennbare-Verben.md) |
 | *der Vokalwechsel* | vowel change: In some situations, where the verb stem includes an "e", it changes to "i" in the second- and third-person singular ("du" and "er/sie/es"). | [Vokalwechsel](A1/Vokalwechsel.md) |
 | *das Präsens* | present tense: The present is a verb tense. It is used when speaking about events, activities or situations that happen in the present or are continuing to happen. | [Präsens](A1/Praesens.md) |
 | *das Präteritum* | simple past: The simple past is a verb tense. It is used in written language to describe events, activities or situations that happened in the past. The simple past of certain verbs, e.g. *sein*, is often also used in spoken language. | [Präteritum](A1/Praeteritum.md) |

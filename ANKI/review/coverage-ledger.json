@@ -3782,6 +3782,185 @@
   "dw-a1-e7-l1:nachts": [
    "vocab:nachts|at-night"
   ],
+  "dw-a1-e7-l2:der-abend": [
+   "article:Abend|m",
+   "vocab:Abend|evening"
+  ],
+  "dw-a1-e7-l2:das-abendessen": [
+   "article:Abendessen|n",
+   "vocab:Abendessen|dinner"
+  ],
+  "dw-a1-e7-l2:am-morgen": [
+   "vocab:am Morgen|in-the-morning"
+  ],
+  "dw-a1-e7-l2:jemanden-anrufen": [
+   "vocab:anrufen|to-call-someone"
+  ],
+  "dw-a1-e7-l2:der-apfel": [
+   "article:Apfel|m",
+   "vocab:Apfel|apple"
+  ],
+  "dw-a1-e7-l2:etwas-aufraeumen": [
+   "vocab:aufräumen|to-tidy-up"
+  ],
+  "dw-a1-e7-l2:aufstehen": [
+   "vocab:aufstehen|to-get-up"
+  ],
+  "dw-a1-e7-l2:ausgehen": [
+   "vocab:ausgehen|to-go-out"
+  ],
+  "dw-a1-e7-l2:etwas-einkaufen": [
+   "vocab:einkaufen|to-shop"
+  ],
+  "dw-a1-e7-l2:fast-immer": [
+   "vocab:fast immer|almost-always"
+  ],
+  "dw-a1-e7-l2:fernsehen": [
+   "vocab:fernsehen|to-watch-tv"
+  ],
+  "dw-a1-e7-l2:die-floete": [
+   "article:Flöte|f",
+   "vocab:Flöte|flute"
+  ],
+  "dw-a1-e7-l2:das-fruehstueck": [
+   "article:Frühstück|n",
+   "vocab:Frühstück|breakfast"
+  ],
+  "dw-a1-e7-l2:fruehstuecken": [
+   "vocab:frühstücken|to-eat-breakfast"
+  ],
+  "dw-a1-e7-l2:das-gemuese": [
+   "article:Gemüse|n",
+   "vocab:Gemüse|vegetables"
+  ],
+  "dw-a1-e7-l2:jeden-tag": [
+   "vocab:jeden Tag|every-day"
+  ],
+  "dw-a1-e7-l2:manchmal": [
+   "vocab:manchmal|sometimes"
+  ],
+  "dw-a1-e7-l2:meistens": [
+   "vocab:meistens|most-of-the-time"
+  ],
+  "dw-a1-e7-l2:der-mittag": [
+   "article:Mittag|m",
+   "vocab:Mittag|noon"
+  ],
+  "dw-a1-e7-l2:das-mittagessen": [
+   "article:Mittagessen|n",
+   "vocab:Mittagessen|lunch"
+  ],
+  "dw-a1-e7-l2:der-morgen": [
+   "article:Morgen|m",
+   "vocab:Morgen|morning"
+  ],
+  "dw-a1-e7-l2:das-muesli": [
+   "article:Müsli|n",
+   "vocab:Müsli|granola"
+  ],
+  "dw-a1-e7-l2:nach": [
+   "vocab:nach|after"
+  ],
+  "dw-a1-e7-l2:der-nachmittag": [
+   "article:Nachmittag|m",
+   "vocab:Nachmittag|afternoon"
+  ],
+  "dw-a1-e7-l2:die-nacht": [
+   "article:Nacht|f",
+   "vocab:Nacht|night"
+  ],
+  "dw-a1-e7-l2:nie": [
+   "vocab:nie|never"
+  ],
+  "dw-a1-e7-l2:normalerweise": [
+   "vocab:normalerweise|normally"
+  ],
+  "dw-a1-e7-l2:oft": [
+   "vocab:oft|often"
+  ],
+  "dw-a1-e7-l2:selten": [
+   "vocab:selten|seldom"
+  ],
+  "dw-a1-e7-l2:der-vormittag": [
+   "article:Vormittag|m",
+   "vocab:Vormittag|morning-before-noon"
+  ],
+  "dw-a1-e7-l2:wichtig": [
+   "vocab:wichtig|important"
+  ],
+  "dw-a1-e7-l2:wissen": [
+   "vocab:wissen|to-know"
+  ],
+  "dw-a1-e7-l2:zaehne-putzen": [
+   "vocab:Zähne putzen|to-brush-teeth"
+  ],
+  "dw-a1-e7-l2:immer": [
+   "vocab:immer|always"
+  ],
+  "dw-a1-e7-l2:fast-nie": [
+   "vocab:fast nie|almost-never"
+  ],
+  "dw-a1-e7-l2:verkaufen": [
+   "vocab:verkaufen|to-sell"
+  ],
+  "dw-a1-e7-l2:danach": [
+   "vocab:danach|afterwards"
+  ],
+  "dw-a1-e7-l2:die-hausaufgabe": [
+   "article:Hausaufgabe|f",
+   "vocab:Hausaufgabe|homework"
+  ],
+  "dw-a1-e7-l2:etwas-ueben": [
+   "vocab:üben|to-practice"
+  ],
+  "dw-a1-e7-l2:kontrollieren": [
+   "vocab:kontrollieren|to-check"
+  ],
+  "dw-a1-e7-l2:das-chaos": [
+   "article:Chaos|n",
+   "vocab:Chaos|chaos"
+  ],
+  "dw-a1-e7-l2:gegen": [
+   "vocab:gegen|around-time"
+  ],
+  "dw-a1-e7-l2:das-fernsehen": [
+   "article:Fernsehen|n",
+   "vocab:Fernsehen|television"
+  ],
+  "dw-a1-e7-l2:der-fernseher": [
+   "article:Fernseher|m",
+   "vocab:Fernseher|television"
+  ],
+  "dw-a1-e7-l2:das-broetchen": [
+   "article:Brötchen|n",
+   "vocab:Brötchen|bread-roll"
+  ],
+  "dw-a1-e7-l2:die-schokolade": [
+   "article:Schokolade|f",
+   "vocab:Schokolade|chocolate"
+  ],
+  "dw-a1-e7-l2:der-chef": [
+   "article:Chef|m",
+   "vocab:Chef|boss-male"
+  ],
+  "dw-a1-e7-l2:wann-stehst-du-morgen-auf": [
+   "sentence:order-when-get-up-tomorrow"
+  ],
+  "dw-a1-e7-l2:wann-ruft-lisa-in-london-an": [
+   "sentence:order-when-lisa-calls-london"
+  ],
+  "dw-a1-e7-l2:wann-raeumen-wir-das-zimmer-auf": [
+   "sentence:order-when-we-tidy-room"
+  ],
+  "dw-a1-e7-l2:wann-siehst-du-fern": [
+   "sentence:order-when-you-watch-tv"
+  ],
+  "dw-a1-e7-l2:ja-ich-rufe-heute-meine-familie-an": [
+   "sentence:reply-yes-i-call-my-family-today"
+  ],
+  "dw-a1-e7-l2:ich-kaufe-fast-immer-am-vormittag-ein": [
+   "sentence:shopping-almost-always-before-noon"
+  ],
   "vhs-a1-l02:die-familie": [
    "article:Familie|f",
    "vocab:Familie|family"

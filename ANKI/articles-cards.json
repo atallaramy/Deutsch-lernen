@@ -516,6 +516,21 @@
    "hints": [
     "Short for die Universität: the same gender."
    ]
+  },
+  "Vormittag": {
+   "hints": [
+    "Your notes had “die Vormittag”: it is der Vormittag, like der Mittag (…mittag decides the gender)."
+   ]
+  },
+  "Nacht": {
+   "hints": [
+    "⚠ die Nacht, though der Morgen, der Mittag and der Abend are der."
+   ]
+  },
+  "Fernsehen": {
+   "hints": [
+    "A verb used as a noun (fernsehen → das Fernsehen) is always das."
+   ]
   }
  }
 }

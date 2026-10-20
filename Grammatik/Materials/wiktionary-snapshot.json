@@ -193,6 +193,30 @@
     ]
    }
   },
+  "sehen": {
+   "url": "https://de.wiktionary.org/wiki/Flexion:sehen",
+   "fetchedOn": "2026-10-20",
+   "praesens": {
+    "1s": [
+     "sehe"
+    ],
+    "2s": [
+     "siehst"
+    ],
+    "3s": [
+     "sieht"
+    ],
+    "1p": [
+     "sehen"
+    ],
+    "2p": [
+     "seht"
+    ],
+    "3p": [
+     "sehen"
+    ]
+   }
+  },
   "sein": {
    "url": "https://de.wiktionary.org/wiki/Flexion:sein",
    "fetchedOn": "2026-09-26",

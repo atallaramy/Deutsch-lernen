@@ -703,6 +703,22 @@
    ],
    "fetchedOn": "2026-09-25"
   },
+  "Brötchen": {
+   "url": "https://en.wiktionary.org/wiki/Br%C3%B6tchen#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "a bun, bread roll"
+    },
+    {
+     "pos": "Noun",
+     "text": "a small open sandwich"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-20"
+  },
   "Buchstabieren Sie das": {
    "url": "https://www.dict.cc/?s=Buchstabieren+Sie+das",
    "status": 404,
@@ -745,6 +761,30 @@
    ],
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-27"
+  },
+  "Chaos": {
+   "url": "https://en.wiktionary.org/wiki/Chaos#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "chaos"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-20"
+  },
+  "Chef": {
+   "url": "https://en.wiktionary.org/wiki/Chef#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "boss, chief"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-20"
   },
   "China": {
    "url": "https://en.wiktionary.org/wiki/China#German",
@@ -1163,6 +1203,34 @@
    ],
    "fetchedOn": "2026-09-25"
   },
+  "Fernsehen": {
+   "url": "https://en.wiktionary.org/wiki/Fernsehen#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "television"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-20"
+  },
+  "Fernseher": {
+   "url": "https://en.wiktionary.org/wiki/Fernseher#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "a television set, a TV"
+    },
+    {
+     "pos": "Noun",
+     "text": "a television viewer (person)"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-20"
+  },
   "Flugnummer": {
    "url": "https://en.wiktionary.org/wiki/Flugnummer#German",
    "status": 200,
@@ -1536,6 +1604,18 @@
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-25"
   },
+  "Hausaufgabe": {
+   "url": "https://en.wiktionary.org/wiki/Hausaufgabe#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "homework assignment, a piece of exercise or examination by which a teacher or examiner tries the performance of a student"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-20"
+  },
   "Hausnummer": {
    "url": "https://en.wiktionary.org/wiki/Hausnummer#German",
    "status": 200,
@@ -1637,6 +1717,13 @@
    "dictionary": "dict.cc",
    "fetchedOn": "2026-10-07"
   },
+  "Ich kaufe fast immer am Vormittag ein": {
+   "url": "https://www.dict.cc/?s=Ich+kaufe+fast+immer+am+Vormittag+ein",
+   "status": 404,
+   "definitions": [],
+   "dictionary": "dict.cc",
+   "fetchedOn": "2026-10-20"
+  },
   "Idee": {
    "url": "https://en.wiktionary.org/wiki/Idee#German",
    "status": 200,
@@ -1711,6 +1798,13 @@
    ],
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-27"
+  },
+  "Ja, ich rufe heute meine Familie an": {
+   "url": "https://www.dict.cc/?s=Ja%2C+ich+rufe+heute+meine+Familie+an",
+   "status": 404,
+   "definitions": [],
+   "dictionary": "dict.cc",
+   "fetchedOn": "2026-10-20"
   },
   "Jahr": {
    "url": "https://en.wiktionary.org/wiki/Jahr#German",
@@ -3324,6 +3418,22 @@
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-10-18"
   },
+  "Schokolade": {
+   "url": "https://en.wiktionary.org/wiki/Schokolade#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "chocolate (food made from ground roasted cocoa beans)"
+    },
+    {
+     "pos": "Noun",
+     "text": "cocoa drink"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-20"
+  },
   "Schreibtisch": {
    "url": "https://en.wiktionary.org/wiki/Schreibtisch#German",
    "status": 200,
@@ -4431,6 +4541,34 @@
    ],
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-10-18"
+  },
+  "Wann ruft Lisa in London an": {
+   "url": "https://www.dict.cc/?s=Wann+ruft+Lisa+in+London+an",
+   "status": 404,
+   "definitions": [],
+   "dictionary": "dict.cc",
+   "fetchedOn": "2026-10-20"
+  },
+  "Wann räumen wir das Zimmer auf": {
+   "url": "https://www.dict.cc/?s=Wann+r%C3%A4umen+wir+das+Zimmer+auf",
+   "status": 404,
+   "definitions": [],
+   "dictionary": "dict.cc",
+   "fetchedOn": "2026-10-20"
+  },
+  "Wann siehst du fern": {
+   "url": "https://www.dict.cc/?s=Wann+siehst+du+fern",
+   "status": 404,
+   "definitions": [],
+   "dictionary": "dict.cc",
+   "fetchedOn": "2026-10-20"
+  },
+  "Wann stehst du morgen auf": {
+   "url": "https://www.dict.cc/?s=Wann+stehst+du+morgen+auf",
+   "status": 404,
+   "definitions": [],
+   "dictionary": "dict.cc",
+   "fetchedOn": "2026-10-20"
   },
   "Was ist los": {
    "url": "https://www.dict.cc/?s=Was+ist+los",
@@ -6387,6 +6525,42 @@
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-27"
   },
+  "fast": {
+   "url": "https://en.wiktionary.org/wiki/fast#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Adverb",
+     "text": "almost; nearly"
+    },
+    {
+     "pos": "Adverb",
+     "text": "hardly"
+    },
+    {
+     "pos": "Adverb",
+     "text": "extremely, very much"
+    },
+    {
+     "pos": "Verb",
+     "text": "inflection of fasen:\nsecond/third-person singular present\nsecond-person plural present\nplural imperative"
+    },
+    {
+     "pos": "Verb",
+     "text": "second/third-person singular present"
+    },
+    {
+     "pos": "Verb",
+     "text": "second-person plural present"
+    },
+    {
+     "pos": "Verb",
+     "text": "plural imperative"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-20"
+  },
   "fehlen": {
    "url": "https://en.wiktionary.org/wiki/fehlen#German",
    "status": 200,
@@ -6631,6 +6805,46 @@
    ],
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-10-04"
+  },
+  "gegen": {
+   "url": "https://en.wiktionary.org/wiki/gegen#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Preposition",
+     "text": "against"
+    },
+    {
+     "pos": "Preposition",
+     "text": "toward (i.e. directed to someone/something)"
+    },
+    {
+     "pos": "Preposition",
+     "text": "toward (i.e. in the direction of)"
+    },
+    {
+     "pos": "Preposition",
+     "text": "approximately, around"
+    },
+    {
+     "pos": "Preposition",
+     "text": "in exchange for"
+    },
+    {
+     "pos": "Preposition",
+     "text": "facing"
+    },
+    {
+     "pos": "Preposition",
+     "text": "compare to"
+    },
+    {
+     "pos": "Preposition",
+     "text": "for"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-20"
   },
   "gehen": {
    "url": "https://en.wiktionary.org/wiki/gehen#German",
@@ -7581,6 +7795,22 @@
    ],
    "fetchedOn": "2026-09-25"
   },
+  "kontrollieren": {
+   "url": "https://en.wiktionary.org/wiki/kontrollieren#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Verb",
+     "text": "to check .mw-parser-output .defdate{font-size:smaller}"
+    },
+    {
+     "pos": "Verb",
+     "text": "to control"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-20"
+  },
   "kosten": {
    "url": "https://en.wiktionary.org/wiki/kosten#German",
    "status": 200,
@@ -8343,6 +8573,22 @@
     }
    ],
    "fetchedOn": "2026-09-25"
+  },
+  "nie": {
+   "url": "https://en.wiktionary.org/wiki/nie#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Adverb",
+     "text": "never, never at all (referring to an indefinite period of time)"
+    },
+    {
+     "pos": "Adverb",
+     "text": "never, not once (referring to a defined period of time; see usage notes below)"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-20"
   },
   "noch": {
    "url": "https://en.wiktionary.org/wiki/noch#German",
@@ -9442,6 +9688,22 @@
    ],
    "fetchedOn": "2026-09-25"
   },
+  "verkaufen": {
+   "url": "https://en.wiktionary.org/wiki/verkaufen#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Verb",
+     "text": "to sell (something in exchange for money)"
+    },
+    {
+     "pos": "Verb",
+     "text": "to sell (for a certain amount or at a certain rate)"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-20"
+  },
   "verpartnern": {
    "url": "https://www.dict.cc/?s=verpartnern",
    "status": 404,
@@ -10316,6 +10578,34 @@
    "definitions": [],
    "dictionary": "dict.cc",
    "fetchedOn": "2026-10-05"
+  },
+  "üben": {
+   "url": "https://en.wiktionary.org/wiki/%C3%BCben#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Verb",
+     "text": "to practice, to drill, to train"
+    },
+    {
+     "pos": "Verb",
+     "text": "to exercise, to perform; used to form verbal phrases with certain behavior-describing nouns"
+    },
+    {
+     "pos": "Verb",
+     "text": "to practice .mw-parser-output .object-usage-tag{font-style:italic}.mw-parser-output .deprecated{color:var(--wikt-palette-grey-lime-8,olivedrab)}[with in (+ dative) ‘(doing) an action’]"
+    },
+    {
+     "pos": "Verb",
+     "text": "to practice"
+    },
+    {
+     "pos": "Adverb",
+     "text": "over there, across, beyond, on the other side"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-20"
   },
   "über": {
    "url": "https://en.wiktionary.org/wiki/%C3%BCber#German",

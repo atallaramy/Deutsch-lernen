@@ -1,8 +1,8 @@
 {
   "deck": "A1::Vocabulary",
-  "revision": "2026-10-20T19:30:00Z",
+  "revision": "2026-10-20T20:12:00Z",
   "qualityPolicy": "One typed German word or fixed expression per card, in a verified context where one exists. No audio.",
-  "cards": 924,
+  "cards": 958,
   "sources": [
     {
       "id": "dw-a1-e0-l1",
@@ -382,6 +382,19 @@
       }
     },
     {
+      "id": "dw-a1-e7-l2",
+      "course": "dw-nicos-weg",
+      "title": "Tageszeiten",
+      "url": "https://learngerman.dw.com/en/tageszeiten/l-37445884",
+      "notesFile": "DW Deutsch lernen/A1/07_days_and_times/02_Tageszeiten/Tageszeiten.md",
+      "capturedEntries": 53,
+      "cards": {
+        "vocabulary": 47,
+        "articles": 20,
+        "sentences": 6
+      }
+    },
+    {
       "id": "vhs-a1-l02",
       "course": "vhs-lernportal",
       "title": "Lektion 2 · Meine Familie und ich",
@@ -410,9 +423,9 @@
   ],
   "packages": {
     "ANKI/A1/vocabulary.apkg": {
-      "notes": 924,
-      "cards": 924,
-      "sha256": "58b9d4808098f5f83793aad84f9d0d79c2dfeaa8296c3384ebab26860a7b9572"
+      "notes": 958,
+      "cards": 958,
+      "sha256": "37e58139ca2363c5240c2e2000f430d7bd16e9510a30f73825ca544f0f1fd9c7"
     }
   }
 }

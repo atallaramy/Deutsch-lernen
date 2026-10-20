@@ -1,6 +1,6 @@
 {
  "schemaVersion": 3,
- "revision": "2026-10-20T19:30:00Z",
+ "revision": "2026-10-20T20:12:00Z",
  "policy": "Faithful capture of what the learner studied: official lesson glossaries, useful words and phrases from the official scripts and exercises, and items from the learner's notes. Official spelling is canonical; the learner's spelling is kept as learnerForm. Nothing captured is removed. pendingEntries wait for the learner's yes/no and are never built; declinedEntries record a learner's no.",
  "courses": [
   {
@@ -17182,6 +17182,858 @@
        ],
        "home": "vocabulary",
        "level": "beyond-A1"
+      }
+     ],
+     "pendingEntries": [],
+     "declinedEntries": []
+    },
+    {
+     "id": "dw-a1-e7-l2",
+     "legacyId": null,
+     "level": "A1",
+     "title": "Tageszeiten",
+     "unit": 7,
+     "lesson": 2,
+     "url": "https://learngerman.dw.com/en/tageszeiten/l-37445884",
+     "notesFile": "DW Deutsch lernen/A1/07_days_and_times/02_Tageszeiten/Tageszeiten.md",
+     "lessonDeck": {
+      "file": "DW Deutsch lernen/A1/07_days_and_times/02_Tageszeiten/DW A1 E7L2 Tageszeiten - Vocabulary.apkg",
+      "deck": "A1::DW::Lessons::E7 L2 Tageszeiten"
+     },
+     "snapshot": "DW Deutsch lernen/A1/07_days_and_times/02_Tageszeiten/Materials/source-snapshot.json",
+     "sources": [
+      {
+       "id": "script",
+       "kind": "dw-script-pdf",
+       "url": "https://learngerman.dw.com/downloads/52719984/nicos-weg-a1-e7-l2-manuskript-und-wortschatz-englisch.pdf",
+       "localFile": "DW Deutsch lernen/A1/07_days_and_times/02_Tageszeiten/Materials/Script and vocabulary (English).pdf"
+      },
+      {
+       "id": "exercises",
+       "kind": "dw-exercises",
+       "url": "https://learngerman.dw.com/en/tageszeiten/l-37445884"
+      }
+     ],
+     "entries": [
+      {
+       "id": "der-abend",
+       "german": "der Abend",
+       "english": "evening",
+       "pos": "noun",
+       "lemma": "Abend",
+       "sense": "evening",
+       "plural": "die Abende",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-abendessen",
+       "german": "das Abendessen",
+       "english": "dinner",
+       "pos": "noun",
+       "lemma": "Abendessen",
+       "sense": "dinner",
+       "plural": "die Abendessen",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "am-morgen",
+       "german": "am Morgen",
+       "english": "in the morning",
+       "pos": "expression",
+       "lemma": "am Morgen",
+       "sense": "in-the-morning",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "jemanden-anrufen",
+       "german": "(jemanden) anrufen",
+       "english": "to call someone",
+       "pos": "verb",
+       "lemma": "anrufen",
+       "sense": "to-call-someone",
+       "forms": "ruft an, rief an, hat angerufen",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "vocabularyPageForm": "jemanden an|rufen",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-apfel",
+       "german": "der Apfel",
+       "english": "apple",
+       "pos": "noun",
+       "lemma": "Apfel",
+       "sense": "apple",
+       "plural": "die Äpfel",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "etwas-aufraeumen",
+       "german": "(etwas) aufräumen",
+       "english": "to clean up something; to tidy up something",
+       "pos": "verb",
+       "lemma": "aufräumen",
+       "sense": "to-tidy-up",
+       "forms": "räumt auf, räumte auf, hat aufgeräumt",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "vocabularyPageForm": "etwas auf|räumen",
+       "learnerForm": "aufräume",
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "aufstehen",
+       "german": "aufstehen",
+       "english": "to get up",
+       "pos": "verb",
+       "lemma": "aufstehen",
+       "sense": "to-get-up",
+       "forms": "steht auf, stand auf, ist aufgestanden",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "vocabularyPageForm": "auf|stehen",
+       "home": "vocabulary"
+      },
+      {
+       "id": "ausgehen",
+       "german": "ausgehen",
+       "english": "to go out",
+       "pos": "verb",
+       "lemma": "ausgehen",
+       "sense": "to-go-out",
+       "forms": "geht aus, ging aus, ist ausgegangen",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "vocabularyPageForm": "aus|gehen",
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "etwas-einkaufen",
+       "german": "(etwas) einkaufen",
+       "english": "to buy/shop for something",
+       "pos": "verb",
+       "lemma": "einkaufen",
+       "sense": "to-shop",
+       "forms": "kauft ein, kaufte ein, hat eingekauft",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "dw-grammar-page",
+        "learner-notes"
+       ],
+       "vocabularyPageForm": "etwas ein|kaufen",
+       "home": "vocabulary"
+      },
+      {
+       "id": "fast-immer",
+       "german": "fast immer",
+       "english": "almost always",
+       "pos": "expression",
+       "lemma": "fast immer",
+       "sense": "almost-always",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "dw-grammar-page",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "fernsehen",
+       "german": "fernsehen",
+       "english": "to watch television",
+       "pos": "verb",
+       "lemma": "fernsehen",
+       "sense": "to-watch-tv",
+       "forms": "sieht fern, sah fern, hat ferngesehen",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "dw-grammar-page",
+        "learner-notes"
+       ],
+       "vocabularyPageForm": "fern|sehen",
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-floete",
+       "german": "die Flöte",
+       "english": "flute",
+       "pos": "noun",
+       "lemma": "Flöte",
+       "sense": "flute",
+       "plural": "die Flöten",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-fruehstueck",
+       "german": "das Frühstück",
+       "english": "breakfast",
+       "pos": "noun",
+       "lemma": "Frühstück",
+       "sense": "breakfast",
+       "plural": "die Frühstücke",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "learnerForm": "das Früstück, die Früstücke",
+       "home": "vocabulary"
+      },
+      {
+       "id": "fruehstuecken",
+       "german": "frühstücken",
+       "english": "to eat breakfast",
+       "pos": "verb",
+       "lemma": "frühstücken",
+       "sense": "to-eat-breakfast",
+       "forms": "frühstückt, frühstückte, hat gefrühstückt",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "learnerForm": "früstücken: früstückt, früstückte, hat gefrüstückt",
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-gemuese",
+       "german": "das Gemüse",
+       "english": "vegetables",
+       "pos": "noun",
+       "lemma": "Gemüse",
+       "sense": "vegetables",
+       "note": "nur Singular",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "jeden-tag",
+       "german": "jeden Tag",
+       "english": "every day",
+       "pos": "expression",
+       "lemma": "jeden Tag",
+       "sense": "every-day",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "manchmal",
+       "german": "manchmal",
+       "english": "sometimes",
+       "pos": "word",
+       "lemma": "manchmal",
+       "sense": "sometimes",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "dw-grammar-page",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "meistens",
+       "german": "meistens",
+       "english": "most of the time",
+       "pos": "word",
+       "lemma": "meistens",
+       "sense": "most-of-the-time",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "learnerForm": "meistig",
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-mittag",
+       "german": "der Mittag",
+       "english": "noon; midday",
+       "pos": "noun",
+       "lemma": "Mittag",
+       "sense": "noon",
+       "plural": "die Mittage",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-mittagessen",
+       "german": "das Mittagessen",
+       "english": "lunch",
+       "pos": "noun",
+       "lemma": "Mittagessen",
+       "sense": "lunch",
+       "plural": "die Mittagessen",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-morgen",
+       "german": "der Morgen",
+       "english": "morning",
+       "pos": "noun",
+       "lemma": "Morgen",
+       "sense": "morning",
+       "plural": "die Morgen",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-muesli",
+       "german": "das Müsli",
+       "english": "granola",
+       "pos": "noun",
+       "lemma": "Müsli",
+       "sense": "granola",
+       "plural": "die Müslis",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "nach",
+       "german": "nach",
+       "english": "after",
+       "pos": "word",
+       "lemma": "nach",
+       "sense": "after",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-nachmittag",
+       "german": "der Nachmittag",
+       "english": "afternoon",
+       "pos": "noun",
+       "lemma": "Nachmittag",
+       "sense": "afternoon",
+       "plural": "die Nachmittage",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "learnerForm": "der Nackmittag, die Nackmittage",
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-nacht",
+       "german": "die Nacht",
+       "english": "night",
+       "pos": "noun",
+       "lemma": "Nacht",
+       "sense": "night",
+       "plural": "die Nächte",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "nie",
+       "german": "nie",
+       "english": "never",
+       "pos": "word",
+       "lemma": "nie",
+       "sense": "never",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "dw-grammar-page",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "normalerweise",
+       "german": "normalerweise",
+       "english": "normally",
+       "pos": "word",
+       "lemma": "normalerweise",
+       "sense": "normally",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "learnerForm": "normalerweiser",
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "oft",
+       "german": "oft",
+       "english": "often",
+       "pos": "word",
+       "lemma": "oft",
+       "sense": "often",
+       "forms": "öfter, am öftesten",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "dw-grammar-page",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "selten",
+       "german": "selten",
+       "english": "seldom",
+       "pos": "word",
+       "lemma": "selten",
+       "sense": "seldom",
+       "forms": "seltener, am seltensten",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "dw-grammar-page",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-vormittag",
+       "german": "der Vormittag",
+       "english": "morning; before noon",
+       "pos": "noun",
+       "lemma": "Vormittag",
+       "sense": "morning-before-noon",
+       "plural": "die Vormittage",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "learnerForm": "die Vormittag, die Vormittage",
+       "home": "vocabulary"
+      },
+      {
+       "id": "wichtig",
+       "german": "wichtig",
+       "english": "important",
+       "pos": "word",
+       "lemma": "wichtig",
+       "sense": "important",
+       "forms": "wichtiger, am wichtigsten",
+       "origin": [
+        "dw-glossary",
+        "dw-script"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "wissen",
+       "german": "wissen",
+       "english": "to know",
+       "pos": "verb",
+       "lemma": "wissen",
+       "sense": "to-know",
+       "forms": "weiß, wusste, hat gewusst",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "zaehne-putzen",
+       "german": "Zähne putzen",
+       "english": "to brush one's teeth",
+       "pos": "verb",
+       "lemma": "Zähne putzen",
+       "sense": "to-brush-teeth",
+       "forms": "putzt, putzte, hat geputzt",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "immer",
+       "german": "immer",
+       "english": "always",
+       "pos": "word",
+       "lemma": "immer",
+       "sense": "always",
+       "origin": [
+        "dw-script",
+        "dw-exercises",
+        "dw-grammar-page",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "fast-nie",
+       "german": "fast nie",
+       "english": "almost never",
+       "pos": "expression",
+       "lemma": "fast nie",
+       "sense": "almost-never",
+       "origin": [
+        "dw-grammar-page",
+        "learner-notes"
+       ],
+       "glossLookup": [
+        "fast",
+        "nie"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "verkaufen",
+       "german": "verkaufen",
+       "english": "to sell",
+       "pos": "verb",
+       "lemma": "verkaufen",
+       "sense": "to-sell",
+       "forms": "verkauft, verkaufte, hat verkauft",
+       "origin": [
+        "dw-grammar-page"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "danach",
+       "german": "danach",
+       "english": "afterwards; after that",
+       "pos": "word",
+       "lemma": "danach",
+       "sense": "afterwards",
+       "origin": [
+        "dw-script",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-hausaufgabe",
+       "german": "die Hausaufgabe",
+       "english": "homework",
+       "pos": "noun",
+       "lemma": "Hausaufgabe",
+       "sense": "homework",
+       "plural": "die Hausaufgaben",
+       "note": "meist im Plural",
+       "origin": [
+        "dw-script",
+        "dw-exercises",
+        "dw-grammar-page",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "etwas-ueben",
+       "german": "(etwas) üben",
+       "english": "to practice (something)",
+       "pos": "verb",
+       "lemma": "üben",
+       "sense": "to-practice",
+       "forms": "übt, übte, hat geübt",
+       "origin": [
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "kontrollieren",
+       "german": "kontrollieren",
+       "english": "to check; to control",
+       "pos": "verb",
+       "lemma": "kontrollieren",
+       "sense": "to-check",
+       "forms": "kontrolliert, kontrollierte, hat kontrolliert",
+       "origin": [
+        "dw-script",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-chaos",
+       "german": "das Chaos",
+       "english": "chaos",
+       "pos": "noun",
+       "lemma": "Chaos",
+       "sense": "chaos",
+       "note": "nur Singular",
+       "origin": [
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "genderEvidence": "https://de.wiktionary.org/wiki/Chaos (Genus n, kein Plural)",
+       "home": "vocabulary"
+      },
+      {
+       "id": "gegen",
+       "german": "gegen",
+       "english": "around (with a time)",
+       "pos": "word",
+       "lemma": "gegen",
+       "sense": "around-time",
+       "note": "gegen sechs = around six",
+       "origin": [
+        "dw-script"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-fernsehen",
+       "german": "das Fernsehen",
+       "english": "television",
+       "pos": "noun",
+       "lemma": "Fernsehen",
+       "sense": "television",
+       "note": "nur Singular",
+       "origin": [
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "genderEvidence": "https://de.wiktionary.org/wiki/Fernsehen (Genus n, kein Plural)",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-fernseher",
+       "german": "der Fernseher",
+       "english": "television",
+       "pos": "noun",
+       "lemma": "Fernseher",
+       "sense": "television",
+       "plural": "die Fernseher",
+       "origin": [
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-broetchen",
+       "german": "das Brötchen",
+       "english": "bread roll",
+       "pos": "noun",
+       "lemma": "Brötchen",
+       "sense": "bread-roll",
+       "plural": "die Brötchen",
+       "origin": [
+        "dw-exercises"
+       ],
+       "genderEvidence": "https://de.wiktionary.org/wiki/Brötchen (Genus n, Nominativ Plural Brötchen)",
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-schokolade",
+       "german": "die Schokolade",
+       "english": "chocolate",
+       "pos": "noun",
+       "lemma": "Schokolade",
+       "sense": "chocolate",
+       "plural": "die Schokoladen",
+       "origin": [
+        "dw-exercises"
+       ],
+       "level": "beyond-A1",
+       "genderEvidence": "https://de.wiktionary.org/wiki/Schokolade (Genus f, Nominativ Plural Schokoladen)",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-chef",
+       "german": "der Chef",
+       "english": "boss (male)",
+       "pos": "noun",
+       "lemma": "Chef",
+       "sense": "boss-male",
+       "plural": "die Chefs",
+       "origin": [
+        "dw-exercises"
+       ],
+       "genderEvidence": "https://de.wiktionary.org/wiki/Chef (Genus m, Nominativ Plural Chefs)",
+       "home": "vocabulary"
+      },
+      {
+       "id": "wann-stehst-du-morgen-auf",
+       "german": "Wann stehst du morgen auf?",
+       "english": "When are you getting up tomorrow?",
+       "pos": "expression",
+       "lemma": "Wann stehst du morgen auf?",
+       "sense": "when-do-you-get-up-tomorrow",
+       "origin": [
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "sentences"
+      },
+      {
+       "id": "wann-ruft-lisa-in-london-an",
+       "german": "Wann ruft Lisa in London an?",
+       "english": "When is Lisa calling London?",
+       "pos": "expression",
+       "lemma": "Wann ruft Lisa in London an?",
+       "sense": "when-does-lisa-call-london",
+       "origin": [
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "sentences"
+      },
+      {
+       "id": "wann-raeumen-wir-das-zimmer-auf",
+       "german": "Wann räumen wir das Zimmer auf?",
+       "english": "When are we tidying up the room?",
+       "pos": "expression",
+       "lemma": "Wann räumen wir das Zimmer auf?",
+       "sense": "when-do-we-tidy-the-room",
+       "origin": [
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "sentences"
+      },
+      {
+       "id": "wann-siehst-du-fern",
+       "german": "Wann siehst du fern?",
+       "english": "When do you watch TV?",
+       "pos": "expression",
+       "lemma": "Wann siehst du fern?",
+       "sense": "when-do-you-watch-tv",
+       "origin": [
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "sentences"
+      },
+      {
+       "id": "ja-ich-rufe-heute-meine-familie-an",
+       "german": "Ja, ich rufe heute meine Familie an.",
+       "english": "Yes, I'm calling my family today.",
+       "pos": "expression",
+       "lemma": "Ja, ich rufe heute meine Familie an.",
+       "sense": "yes-i-call-my-family-today",
+       "origin": [
+        "learner-notes"
+       ],
+       "learnerForm": "Ja, Ich rufe Heute meine Familie an.",
+       "home": "sentences"
+      },
+      {
+       "id": "ich-kaufe-fast-immer-am-vormittag-ein",
+       "german": "Ich kaufe fast immer am Vormittag ein.",
+       "english": "I almost always go shopping before noon.",
+       "pos": "expression",
+       "lemma": "Ich kaufe fast immer am Vormittag ein.",
+       "sense": "i-almost-always-shop-before-noon",
+       "origin": [
+        "learner-notes"
+       ],
+       "learnerForm": "Ich kaufe fast immer um Vormittag ein.",
+       "home": "sentences"
       }
      ],
      "pendingEntries": [],

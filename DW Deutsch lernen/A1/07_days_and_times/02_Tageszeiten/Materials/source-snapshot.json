@@ -1,0 +1,666 @@
+{
+ "description": "Official source text captured by ANKI/harvest_sources.py for offline context verification.",
+ "harvestedOn": "2026-10-20",
+ "sources": [
+  {
+   "id": "exercises",
+   "kind": "dw-exercises",
+   "url": "https://learngerman.dw.com/en/tageszeiten/l-37445884",
+   "lessonUrl": "https://learngerman.dw.com/en/tageszeiten/l-37445884",
+   "vocabulary": {
+    "url": "https://learngerman.dw.com/en/tageszeiten/l-37445884/lv",
+    "items": [
+     {
+      "id": 37491565,
+      "german": "der Abend, die Abende",
+      "english": "evening",
+      "forms": ""
+     },
+     {
+      "id": 37491794,
+      "german": "das Abendessen, die Abendessen",
+      "english": "dinner",
+      "forms": ""
+     },
+     {
+      "id": 41602381,
+      "german": "am Morgen",
+      "english": "in the morning",
+      "forms": ""
+     },
+     {
+      "id": 37366976,
+      "german": "jemanden an|rufen",
+      "english": "to call someone",
+      "forms": "ruft an, rief an, hat angerufen"
+     },
+     {
+      "id": 37531581,
+      "german": "der Apfel, die Äpfel",
+      "english": "apple",
+      "forms": ""
+     },
+     {
+      "id": 37532291,
+      "german": "etwas auf|räumen",
+      "english": "to clean up something; to tidy up something",
+      "forms": "räumt auf, räumte auf, hat aufgeräumt"
+     },
+     {
+      "id": 37532329,
+      "german": "auf|stehen",
+      "english": "to get up",
+      "forms": "steht auf, stand auf, ist aufgestanden"
+     },
+     {
+      "id": 37532406,
+      "german": "aus|gehen",
+      "english": "to go out",
+      "forms": "geht aus, ging aus, ist ausgegangen"
+     },
+     {
+      "id": 37532434,
+      "german": "etwas ein|kaufen",
+      "english": "to buy/shop for something",
+      "forms": "kauft ein, kaufte ein, hat eingekauft"
+     },
+     {
+      "id": 42849162,
+      "german": "fast immer",
+      "english": "almost always",
+      "forms": ""
+     },
+     {
+      "id": 37532450,
+      "german": "fern|sehen",
+      "english": "to watch television",
+      "forms": "sieht fern, sah fern, hat ferngesehen"
+     },
+     {
+      "id": 37533555,
+      "german": "die Flöte, die Flöten",
+      "english": "flute",
+      "forms": ""
+     },
+     {
+      "id": 37532639,
+      "german": "das Frühstück, die Frühstücke",
+      "english": "breakfast",
+      "forms": ""
+     },
+     {
+      "id": 37532640,
+      "german": "frühstücken",
+      "english": "to eat breakfast",
+      "forms": "frühstückt, frühstückte, hat gefrühstückt"
+     },
+     {
+      "id": 37532642,
+      "german": "das Gemüse",
+      "english": "vegetables",
+      "forms": "nur Singular"
+     },
+     {
+      "id": 42805791,
+      "german": "jeden Tag",
+      "english": "every day",
+      "forms": ""
+     },
+     {
+      "id": 37532645,
+      "german": "manchmal",
+      "english": "sometimes",
+      "forms": ""
+     },
+     {
+      "id": 37743095,
+      "german": "meistens",
+      "english": "most of the time",
+      "forms": ""
+     },
+     {
+      "id": 37532768,
+      "german": "der Mittag, die Mittage",
+      "english": "noon; midday",
+      "forms": ""
+     },
+     {
+      "id": 37533965,
+      "german": "das Mittagessen, die Mittagessen",
+      "english": "lunch",
+      "forms": ""
+     },
+     {
+      "id": 37492222,
+      "german": "der Morgen, die Morgen",
+      "english": "morning",
+      "forms": ""
+     },
+     {
+      "id": 37532830,
+      "german": "das Müsli, die Müslis",
+      "english": "granola",
+      "forms": ""
+     },
+     {
+      "id": 37367323,
+      "german": "nach",
+      "english": "after",
+      "forms": ""
+     },
+     {
+      "id": 37495494,
+      "german": "der Nachmittag, die Nachmittage",
+      "english": "afternoon",
+      "forms": ""
+     },
+     {
+      "id": 37533063,
+      "german": "die Nacht, die Nächte",
+      "english": "night",
+      "forms": ""
+     },
+     {
+      "id": 37533095,
+      "german": "nie",
+      "english": "never",
+      "forms": ""
+     },
+     {
+      "id": 37533098,
+      "german": "normalerweise",
+      "english": "normally",
+      "forms": ""
+     },
+     {
+      "id": 37502440,
+      "german": "oft",
+      "english": "often",
+      "forms": "öfter, am öftesten"
+     },
+     {
+      "id": 37533121,
+      "german": "selten",
+      "english": "seldom",
+      "forms": "seltener, am seltensten"
+     },
+     {
+      "id": 37533124,
+      "german": "der Vormittag, die Vormittage",
+      "english": "morning; before noon",
+      "forms": ""
+     },
+     {
+      "id": 38073128,
+      "german": "wichtig",
+      "english": "important",
+      "forms": "wichtiger, am wichtigsten"
+     },
+     {
+      "id": 37401484,
+      "german": "wissen",
+      "english": "to know",
+      "forms": "weiß, wusste, hat gewusst"
+     },
+     {
+      "id": 37533151,
+      "german": "Zähne putzen",
+      "english": "to brush one's teeth",
+      "forms": "putzt, putzte, hat geputzt"
+     }
+    ]
+   },
+   "exercises": [
+    {
+     "id": "e-37454298",
+     "url": "https://learngerman.dw.com/en/always-or-almost-always-1/l-37445884/e-37454298",
+     "title": "Always or almost always? (1)",
+     "texts": [
+      "immer",
+      "manchmal",
+      "Fast immer",
+      "normalerweise",
+      "manchmal",
+      "oft",
+      "Emma: Ich putze #p# meine Zähne.\nLisa: Immer? Oder #p#?\nEmma: #p#.",
+      "Wähl die fehlenden Wörter in der richtigen Reihenfolge aus.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "Lisa: Zum Frühstück isst Emma #p# Müsli mit Milch. Aber #p# isst sie auch einen Apfel. Und zum Mittagessen gibt es #p# Gemüse.",
+      "Wähl die fehlenden Wörter in der richtigen Reihenfolge aus.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37454892",
+     "url": "https://learngerman.dw.com/en/always-or-almost-always-2/l-37445884/e-37454892",
+     "title": "Always or almost always? (2)",
+     "texts": [
+      "Sortier die Wörter.",
+      "immer fast immer oft manchmal selten nie"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37454654",
+     "url": "https://learngerman.dw.com/en/dear-mom/l-37445884/e-37454654",
+     "title": "Dear Mom!",
+     "texts": [
+      "Liebe Mama,\nwie geht es dir? Mir geht es sehr gut. Ich bin bei Lisa und wir haben viel Spaß. Jeden Tag stehe ich um 6:30 Uhr auf. Natürlich putze ich immer meine Zähne. Danach esse ich normalerweise Müsli – oder fast immer. Am Sonntag esse ich meistens Brötchen. Aber ich trinke immer Milch. Ich liebe Milch. Das weißt du ja. Ich esse auch viel Gemüse zum Mittagessen. Nicht immer, aber sehr oft. Fast jeden Tag esse ich Gemüse … Nur Brokkoli mag ich nicht. Und manchmal esse ich auch am Nachmittag einen Apfel. Schokolade esse ich nur selten. Und Chips gibt es nie…\nBis bald!\nEmma",
+      "selten",
+      "immer",
+      "oft",
+      "Ich sehe … fern. Lisa sagt: Fernsehen ist nicht gut.",
+      "Und natürlich räume ich … mein Zimmer auf. Und ich räume auch jeden Tag das Wohnzimmer und die Küche auf.",
+      "Manchmal spielen Lisa und ich Fußball. Lisa spielt gut. Und ich übe … am Nachmittag Flöte."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37455058",
+     "url": "https://learngerman.dw.com/en/do-you-drink-coffee-often/l-37445884/e-37455058",
+     "title": "Do you drink coffee often?",
+     "texts": [
+      "Play Audio",
+      "Ja, ich trinke oft Kaffee.",
+      "Play Audio",
+      "Nein, aber ich sehe oft am Abend fern.",
+      "Play Audio",
+      "Nein, ich putze selten meine Wohnung.",
+      "Play Audio",
+      "Ja, ich gehe oft aus.",
+      "Play Audio",
+      "Say when you normally get up. In the solution audio, you will hear an example.",
+      "Play Audio",
+      "Say when you almost always go shopping. In the solution audio, you will hear an example."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37447187",
+     "url": "https://learngerman.dw.com/en/emma-gets-up-at-six-thirty/l-37445884/e-37447187",
+     "title": "Emma gets up at six-thirty",
+     "texts": [
+      "aufstehen",
+      "Emma steht um halb sieben auf.",
+      "fernsehen",
+      "Careful! In the case of \"sehen\", the vowel changes in the second and third person singular: \"e\" becomes \"ie\". Do you remember what verbs have a vowel change from \"e\" to \"i\"?",
+      "Und du siehst nicht fern.",
+      "aufräumen",
+      "Info: \"nach dem Spielen\" means \"after playing\".",
+      "Und nach dem Spielen räumst du auf."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37446035",
+     "url": "https://learngerman.dw.com/en/emmas-day-1/l-37445884/e-37446035",
+     "title": "Emma's day (1)",
+     "texts": [
+      "Um zwölf Uhr.",
+      "Von zwei bis drei Uhr.",
+      "Um sechs Uhr.",
+      "Wann gibt es Mittagessen?",
+      "Wann macht Emma die Hausaufgaben für die Schule?",
+      "Wann gibt es Abendessen?"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37594796",
+     "url": "https://learngerman.dw.com/en/emmas-day-2/l-37445884/e-37594796",
+     "title": "Emma's day (2)",
+     "texts": [
+      "Deutschkurse | Nicos Weg | A1 E07 | A1_E07_L2_S2_Foto1",
+      "Deutschkurse | Nicos Weg | A1 E07 | A1_E07_L2_S2_Foto3",
+      "Deutschkurse | Nicos Weg | A1 E07 | A1_E07_L2_S2_Foto4",
+      "Was passt zusammen? Ordne zu.",
+      "aufstehen",
+      "Zähne putzen",
+      "Flöte üben"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37594868",
+     "url": "https://learngerman.dw.com/en/lisas-list/l-37445884/e-37594868",
+     "title": "Lisa's list",
+     "texts": [
+      "Sortiere die Sätze.",
+      "Emma steht auf. Emma putzt Zähne. Emma frühstückt. Emma isst Gemüse. Emma macht Hausaufgaben. Emma übt Flöte."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37454233",
+     "url": "https://learngerman.dw.com/en/nico-is-learning-german-do-you-get-up-at-6/l-37445884/e-37454233",
+     "title": "Nico is learning German: Do you get up at 6?",
+     "texts": [
+      "Stehst du um sechs Uhr auf?",
+      "Ja, …",
+      "Siehst du am Abend fern?",
+      "Ja, …",
+      "Rufst du heute deine Familie an?",
+      "Ja, …"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37453867",
+     "url": "https://learngerman.dw.com/en/nico-is-learning-german-stress-on-separable-verbs/l-37445884/e-37453867",
+     "title": "Nico is learning German: Stress on separable verbs",
+     "texts": [
+      "Careful! In the case of separable verbs, the stress in the infinitive is on the first syllable. In a sentence, however, this does not mean that the separated prefix is also stressed.",
+      "aufräumen",
+      "Ich räume auf.",
+      "fernsehen",
+      "Ich sehe fern.",
+      "aufstehen",
+      "Ich stehe auf."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-44969581",
+     "url": "https://learngerman.dw.com/en/nicos-list/l-37445884/e-44969581",
+     "title": "Nico's list",
+     "texts": [
+      "6:30 Uhr",
+      "7:00 Uhr",
+      "12:00 Uhr",
+      "14:00 – 15:00 Uhr",
+      "16:00 – 16:30 Uhr",
+      "aufstehen",
+      "das Frühstück",
+      "Mittagessen",
+      "die Hausaufgaben",
+      "Flöte üben"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37452090",
+     "url": "https://learngerman.dw.com/en/separable-verbs-1/l-37445884/e-37452090",
+     "title": "Separable verbs (1)",
+     "texts": [
+      "auf",
+      "auf",
+      "fern",
+      "an",
+      "ein",
+      "aus",
+      "Ich stehe um acht #ps#.",
+      "Am Vormittag räume ich #ps#.",
+      "Am Nachmittag sehen wir #ps#.",
+      "New words: \"anrufen\" means \"to call\".",
+      "Um 3 Uhr rufe ich den Arzt #ps#.",
+      "New words: \"einkaufen\" means to go shopping, usually this refers to running errands or buying groceries.",
+      "Um vier kaufe ich im Supermarkt #ps#.",
+      "New words: \"ausgehen\" means \"to go out\".",
+      "Am Abend gehe ich #ps#."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37452217",
+     "url": "https://learngerman.dw.com/en/separable-verbs-2/l-37445884/e-37452217",
+     "title": "Separable verbs (2) ",
+     "texts": [
+      "Some verbs are called separable verbs. These are verbs that have a separable prefix. In the glossary pages of this course you will find a line written where the verb is separated: \"auf|stehen\", This line should help you to learn these verbs. This line is not written in normal texts.\nFor example: auf|stehen (infinitive)\nIn a sentence: Ich stehe um 7 Uhr auf.\nIn a declarative sentence, the conjugated verb form is always in position 2. The prefix comes at the end.\nYou can tell from the prefix whether a verb is separable. Separable prefixes are, for example, \"auf\", \"aus\", \"mit\", \"ein\".\nThere are even more separable prefixes. You will learn these during the course.",
+      "aufstehen",
+      "anrufen",
+      "aufräumen",
+      "Ich stehe um 5 auf.",
+      "Und ich rufe um 9 Uhr den Chef an.",
+      "Careful! Words like \"und\", \"oder\" and \"aber\" do not count when determining word positions. Therefore the verb is also in position two.",
+      "Ich räume meine Wohnung auf.",
+      "Tip: When you learn verbs, you should learn right away whether or not they are separable. When you write them out, you can put a line between the prefix and the verb stem: auf|räumen."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37452470",
+     "url": "https://learngerman.dw.com/en/separable-verbs-3/l-37445884/e-37452470",
+     "title": "Separable verbs (3)",
+     "texts": [
+      "Wann stehst du auf ?",
+      "Wann stehst du heute auf ?",
+      "Wann stehst du heute Morgen auf ?",
+      "Wann kaufst du heute ein ?",
+      "Did you notice anything? Here you can see that the separable prefix is always found at the very end of the sentence, no matter how many words there are between the finite verb and prefix.",
+      "Wann kaufst du heute Abend im Supermarkt ein ?"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37446654",
+     "url": "https://learngerman.dw.com/en/times-of-day-and-time-in-hours-and-minutes/l-37445884/e-37446654",
+     "title": "Times of day and time in hours and minutes ",
+     "texts": [
+      "Morgen",
+      "Mittag",
+      "Abend",
+      "6:00 – 10:00 Uhr: #ps#\n10:00 – 12:00 Uhr: Vormittag\n12:00 – 14:00 Uhr: #ps#\n14:00 – 18:00 Uhr: Nachmittag\n18:00 – 22:00 Uhr: #ps#\n22:00 – 6:00 Uhr: Nacht",
+      "Wähl die fehlenden Wörter in der richtigen Reihenfolge aus.",
+      "New words: Take another look at the words \"Vormittag\", \"Mittag\" and \"Nachmittag\". What do you notice about them? Can you imagine what the prefixes \"Vor-\" and \"Nach-\" mean?",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37446729",
+     "url": "https://learngerman.dw.com/en/what-does-emma-do-in-the-morning/l-37445884/e-37446729",
+     "title": "What does Emma do in the morning?",
+     "texts": [
+      "6:30 Uhr: aufstehen und Zähne putzen\nFrühstück: Müsli, Milch, einen Apfel\n12:00 Uhr: Mittagessen\n14:00 – 15:00 Uhr: Hausaufgaben\n16:00 – 16:30 Uhr: Flöte üben\n18:00 Uhr: Abendessen\nNICHT FERNSEHEN!\nAUFRÄUMEN – KEIN CHAOS!",
+      "putzt Emma Zähne.",
+      "frühstückt Emma.",
+      "übt Emma Flöte.",
+      "macht Emma Hausaufgaben.",
+      "Am Morgen …",
+      "Info: You can use \"am\" with \"Morgen\", \"Vormittag\", \"Mittag\", \"Nachmittag\" and \"Abend\".",
+      "Am Nachmittag …"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37454077",
+     "url": "https://learngerman.dw.com/en/when-do-you-get-up/l-37445884/e-37454077",
+     "title": "When do you get up? ",
+     "texts": [
+      "Wann",
+      "stehst",
+      "du",
+      "morgen",
+      "auf",
+      "Wann",
+      "ruft",
+      "Lisa",
+      "in",
+      "London",
+      "an",
+      "Wann",
+      "räumen",
+      "wir",
+      "das",
+      "Zimmer",
+      "auf",
+      "Wann",
+      "siehst",
+      "du",
+      "fern",
+      "#ps# #ps# #ps# #ps# #ps#?",
+      "aufstehen – morgen – du – wann?",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "#ps# #ps# #ps# #ps# #ps# #ps#?",
+      "wann – anrufen – Lisa – in London?",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "#ps# #ps# #ps# #ps# #ps# #ps#?",
+      "das – Zimmer – aufräumen – wann – wir?",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "#ps# #ps# #ps# #ps#?",
+      "fernsehen – du – wann?",
+      "Tip: Make a game out of it! Write the sentences with separable verbs on a piece of paper and cut the words apart and mix them up. Then sort out the words and put them in the correct order. This game also works in a group.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT"
+     ],
+     "vocabularyTags": []
+    }
+   ],
+   "pages": [
+    {
+     "id": "gr-38304940",
+     "url": "https://learngerman.dw.com/en/adverbs-frequency-1/l-37445884/gr-38304940",
+     "title": "Adverbs: frequency (1)",
+     "texts": [
+      "Adverbs: frequency (1)",
+      "When you wish to say how often you do something, you can use certain Adverbs of Time (e.g. immer, nie).\nEmma macht immer die Hausaufgaben. (every time)\nLotte macht nie die Hausaufgaben. (never)\nImage:\nA list of adverbs of frequency in a diminishing sequence: immer; fast immer; oft; manchmal; selten; fast nie; nie\nThese adverbs are usually placed directly after the conjugated verb.\nGrammatical terms in German:\ndas Adverb: An adverb describes when, where or how something happens. It refers to another word in the sentence (e.g. a verb or adjective) or to the whole sentence."
+     ],
+     "html": "<p>When you wish to say how often you do something, you can use certain Adverbs of Time (e.g. <em>immer</em>, <em>nie</em>).</p>\n\n<p><em>Emma macht <strong>immer</strong> die Hausaufgaben.</em>&#160;(every time)</p>\n\n<p><em>Lotte macht <strong>nie</strong> die Hausaufgaben.</em>&#160;(never)</p>\n\n<p>Image:</p><ul><li>A list of adverbs of frequency in a diminishing sequence: immer; fast immer; oft; manchmal; selten; fast nie; nie</li></ul>\n\n<p>These adverbs are usually placed directly after the conjugated verb.</p>\n\n<p>&#160;</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>Grammatical terms in German:</p>\n\n\t\t\t<p>das Adverb: An adverb describes when, where or how something happens. It refers to another word in the sentence (e.g. a verb or adjective) or to the whole sentence.</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n"
+    },
+    {
+     "id": "rs-39371007",
+     "url": "https://learngerman.dw.com/en/enjoy-your-meal/l-37445884/rs-39371007",
+     "title": "Enjoy your meal!",
+     "texts": [
+      "Enjoy your meal!",
+      "Germany is well-known for having a breakfast culture. In fact, breakfast is an important meal in Germany, especially on the weekends. Most cafés, bars, and bistros serve a delicious breakfast with a variety of options. However, most Germans only manage to enjoy a cup of coffee or tea and a piece of toast or a roll in their busy daily lives. Lunch is also an important meal, but most people don't eat lunch at home during the week. Larger companies usually have a canteen for employees and most schools usually serve lunch. If you want to eat at a restaurant for lunch, you can usually find good lunch specials.\nA classic German dinner consists of bread with cold cuts or cheese, which is why it's called \"Abendbrot.\" But many families who don't see each other during the day eat a cooked meal in the evening. If you're invited to dinner, your hosts will usually cook a hot meal for you rather than offer you sandwiches. Restaurants and pubs, of course, serve hot meals in the evening."
+     ],
+     "html": "<p></p>\n\n<p>Germany is well-known for having a breakfast culture. In fact, breakfast is an important meal in Germany, especially on the weekends. Most&#160;cafés, bars, and bistros serve a delicious breakfast with a variety of options. However, most Germans only manage to enjoy a cup of coffee or tea and a piece of toast or a roll in their busy daily lives. Lunch is also an important meal, but most people don't eat lunch at home during the week. Larger companies usually have a canteen for employees and most schools usually serve lunch. If you want to eat at a restaurant for lunch, you can usually find good lunch specials.</p>\n\n<p>A classic German dinner consists of bread with cold cuts or cheese, which is why it's called \"Abendbrot.\" But many families who don't see each other during the day eat a cooked meal in the evening. If you're invited to dinner, your hosts will usually cook a hot meal for you rather than offer you sandwiches. Restaurants and pubs, of course, serve hot meals in the evening.</p>\n"
+    },
+    {
+     "id": "gr-38304805",
+     "url": "https://learngerman.dw.com/en/separable-verbs-1/l-37445884/gr-38304805",
+     "title": "Separable verbs (1)",
+     "texts": [
+      "Separable verbs (1)",
+      "In German it is possible to add a prefix to a simple verb, thus forming a verb with a new meaning.\nprefix +\nverb\n= new verb\nfern +\nsehen\n= fernsehen\nein +\nkaufen\n= einkaufen\nMany of these new verbs are separable. So, for a simple statement in the present, the original simple verb is conjugated and comes in second position in the sentence. The prefix comes at the end of the sentence.\nImage:\nDiagram of the grammar problem\nLisa kauft ein.\nLisa kauft im Supermarkt ein.\nLisa kauft immer im Supermarkt ein.\nYou can often tell if a verb is separable by its prefix.\nVerbs with certain prefixes, for example: ab-, an-, auf-, aus-, ein-, mit-, nach-, weg-, zu- are always separable.\nIn contrast, verbs with certain prefixes, for example: be-, ent-, er-, ver-, zer- are not separable.\nVerbs with prefixes like durch-, über-, um-, unter- can be separable or inseparable.\nYou can also recognize separable verbs by their pronunciation. With separable verbs, the prefix is always stressed.\neinkaufen: separable\nverkaufen: not separable\nGrammatical terms in German:\ndas trennbare Verb: Separable verbs have a prefix that can be separated in the sentence, and which then comes at the end."
+     ],
+     "html": "<p>In German it is possible to add a prefix to a simple verb, thus forming a verb with a new meaning.</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><em>prefix&#160; + </em></td>\n\t\t\t<td><em>verb</em></td>\n\t\t\t<td><em>= new verb</em></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><em>fern +</em></td>\n\t\t\t<td><em>sehen</em></td>\n\t\t\t<td><em>= fernsehen</em></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><em>ein +</em></td>\n\t\t\t<td><em>kaufen</em></td>\n\t\t\t<td><em>= einkaufen</em></td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&#160;</p>\n\n<p>Many of these new verbs are separable. So, for a simple statement in the present, the original simple verb is conjugated and comes in second position in the sentence. The prefix comes at the end of the sentence.</p>\n\n<p>Image:</p><ul><li>Diagram of the grammar problem</li></ul>\n\n<p><em>Lisa <strong>kauft</strong> <strong>ein</strong>.</em></p>\n\n<p><em>Lisa <strong>kauft</strong> im Supermarkt <strong>ein</strong>.</em></p>\n\n<p><em>Lisa <strong>kauft</strong> immer im Supermarkt <strong>ein</strong>.</em></p>\n\n<p>&#160;</p>\n\n<p>You can often tell if a verb is separable by its prefix.</p>\n\n<ul>\n\t<li>Verbs with certain prefixes, for example: <em>ab-, an-, auf-, aus-, ein-, mit-, nach-, weg-, zu- </em>&#160;are always separable.</li>\n\t<li>In contrast, verbs with certain prefixes, for example: &#160;<em>be-, ent-, er-, ver-, zer-</em><em> </em>are<em> </em><strong>not</strong><em> </em>separable<em>.</em></li>\n\t<li>Verbs with prefixes like <em>durch-, über-, um-, unter- </em>can be separable or inseparable.</li>\n</ul>\n\n<p>&#160;</p>\n\n<p>You can also recognize separable verbs by their pronunciation. With separable verbs, the prefix is always stressed.</p>\n\n<p><strong><em>ein</em></strong>kaufen: separable</p>\n\n<p>ver<strong><em>kau</em></strong>fen: not separable</p>\n\n<p>&#160;</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>Grammatical terms in German:</p>\n\t\t\tdas trennbare&#160;Verb: Separable verbs have a prefix that can be separated in the sentence, and which then comes at the end.</td>\n\t\t</tr>\n\t</tbody>\n</table>\n"
+    }
+   ]
+  },
+  {
+   "id": "script",
+   "kind": "dw-script-pdf",
+   "url": "https://learngerman.dw.com/downloads/52719984/nicos-weg-a1-e7-l2-manuskript-und-wortschatz-englisch.pdf",
+   "localFile": "DW Deutsch lernen/A1/07_days_and_times/02_Tageszeiten/Materials/Script and vocabulary (English).pdf",
+   "sha256": "51354615d13b177baa9d770f938d318208d1bd56399d6b1c9fd62c39c45e5754",
+   "lines": [
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "(7) Days and times | Tageszeiten",
+    "That evening Lisa gives Nico an exact description of Emma’s daily routine:",
+    "when Emma gets up, what she eats and what she is supposed to do. Nico",
+    "and Emma are anticipating a relaxed day…",
+    "Script",
+    "LISA:",
+    "Emma steht um halb sieben auf. Danach putzt sie Zähne. Das ist wichtig, Emma,",
+    "okay?",
+    "EMMA:",
+    "Ich putze immer meine Zähne!",
+    "LISA:",
+    "Immer oder manchmal?",
+    "EMMA:",
+    "Fast immer.",
+    "LISA:",
+    "Okay … Zum Frühstück isst Emma normalerweise Müsli mit Milch. Aber",
+    "manchmal isst sie auch einen Apfel. Und zum Mittagessen gibt es oft Gemüse.",
+    "NICO:",
+    "Gemüse?",
+    "LISA:",
+    "Ja, Gemüse ... Tomaten, Salat, Brokkoli. Mittagessen gibt es um zwölf. Von zwei bis drei",
+    "Uhr macht Emma normalerweise Hausaufgaben. Und von vier bis halb fünf übt sie",
+    "Flöte. Ich kontrolliere das!",
+    "EMMA:",
+    "Ja, ja …",
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "LISA:",
+    "Und du siehst nicht fern. Und nach dem Spielen räumst du auf. Ich möchte hier",
+    "kein Chaos haben!",
+    "NICO:",
+    "Kein Problem.",
+    "LISA:",
+    "Ich weiß.",
+    "EMMA:",
+    "Morgen ist ein super Tag!",
+    "LISA:",
+    "Danke, Nico! Ich bin morgen gegen sechs zum Abendessen wieder zu Hause.",
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "Vocabulary (from script and lesson)",
+    "der Abend, die Abende – evening",
+    "das Abendessen, die Abendessen – dinner",
+    "am Morgen – in the morning",
+    "jemanden an|rufen – to call someone",
+    "ruft an, rief an, hat angerufen",
+    "der Apfel, die Äpfel – apple",
+    "etwas auf|räumen – to clean up something; to tidy up something",
+    "räumt auf, räumte auf, hat aufgeräumt",
+    "auf|stehen – to get up",
+    "steht auf, stand auf, ist aufgestanden",
+    "aus|gehen – to go out",
+    "geht aus, ging aus, ist ausgegangen",
+    "etwas ein|kaufen – to buy/shop for something",
+    "kauft ein, kaufte ein, hat eingekauft",
+    "fast immer – almost always",
+    "fern|sehen – to watch television",
+    "sieht fern, sah fern, hat ferngesehen",
+    "die Flöte, die Flöten – flute",
+    "das Frühstück, die Frühstücke – breakfast",
+    "frühstücken – to eat breakfast",
+    "frühstückt, frühstückte, hat gefrühstückt",
+    "das Gemüse – vegetables",
+    "nur Singular",
+    "jeden Tag – every day",
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "manchmal – sometimes",
+    "meistens – most of the time",
+    "der Mittag, die Mittage – noon; midday",
+    "das Mittagessen, die Mittagessen – lunch",
+    "der Morgen, die Morgen – morning",
+    "das Müsli, die Müslis – granola",
+    "nach – after",
+    "der Nachmittag, die Nachmittage – afternoon",
+    "die Nacht, die Nächte – night",
+    "nie – never",
+    "normalerweise – normally",
+    "oft – often",
+    "öfter, am öftesten",
+    "selten – seldom",
+    "seltener, am seltensten",
+    "der Vormittag, die Vormittage – morning; before noon",
+    "wichtig – important",
+    "wichtiger, am wichtigsten",
+    "wissen – to know",
+    "weiß, wusste, hat gewusst",
+    "Zähne putzen – to brush one's teeth",
+    "putzt, putzte, hat geputzt"
+   ]
+  }
+ ]
+}
