@@ -33,6 +33,13 @@ this spirit.
   `docs/course-index/`, learning roadmap, research, decision log).
 - `Grammatik/`: the learner's grammar book. `Spickzettel/`: the learner's
   cheatsheets.
+- `Nachrichten/`: news texts for re-reading on paper, per episode one file in
+  `Markdown/` and one in `PDF/` (`20261020 1900 tagesschau`, `20261020 0830
+  DWKL`). *tagesschau in Einfacher Sprache* comes from its official NDR
+  subtitles (an episode without them is skipped, never auto-captions), its PDF
+  made from the text; DW *Kurz und leicht* keeps its official PDF.
+  On "update", add the newest episode of each
+  (`python3 docs/tools/fetch_news.py`). No cards unless the learner asks.
 
 ## Files, safety and git
 

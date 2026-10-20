@@ -26,6 +26,7 @@ VHS Lektion 4 cover?"). The answer starts from here.
 | [maintenance/](maintenance/) | Notes on changes to the project instructions. |
 | [tools/build_course_index.py](tools/build_course_index.py) | Rebuilds `course-index/` from the official course pages (network). |
 | [tools/check_grammar_book.py](tools/check_grammar_book.py) | Checks the grammar book against the lesson snapshots, my notes, the Sentences cards and Wiktionary (`fetch`: network). |
+| [tools/fetch_news.py](tools/fetch_news.py) | Saves the newest *tagesschau in Einfacher Sprache* and DW *Kurz und leicht* texts to `Nachrichten/` (network; `--days N`: the last N days). |
 | [tools/build_grammar_pdf.py](tools/build_grammar_pdf.py) | Rebuilds `Grammatik/Grammatik.pdf`, the whole grammar book in one printable file, and the one-page cheatsheet `Spickzettel/Grammatikbegriffe.pdf` (pandoc + Chrome, offline; `--check`: are they current?). |
 
 The binding rules for the decks are in `../AGENTS.md`; Claude-specific working

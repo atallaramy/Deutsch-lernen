@@ -149,6 +149,17 @@ The courses follow the BAMF integration-course curriculum:
 | Podcast | <https://www.easygerman.org/podcast> | |
 | Episode you studied: *Greetings & Farewells in Slow German (Super Easy German 274)* | <https://www.youtube.com/watch?v=aRlakaPVrEw> | March 2025. Your notes file is an auto-generated transcript with recognition errors |
 
+## News in simple German (checked 2026-10-20)
+
+Saved in `Nachrichten/` by `docs/tools/fetch_news.py`.
+
+| What | Link | Notes |
+|---|---|---|
+| tagesschau in Einfacher Sprache | <https://www.tagesschau.de/multimedia/sendung/tagesschau_in_einfacher_sprache> | Mon–Fri 19:00, about 10 min, 4–5 news items, slow speech. Each episode page has official NDR subtitles (`untertitel-<id>.xml`); no PDF or manuscript. Some episodes have no subtitles (12.10.2026) |
+| tagesschau in Einfacher Sprache on YouTube | <https://www.youtube.com/@tagesschau> | Same episodes, e.g. <https://youtu.be/lxc0eZxHUU0> (19.10.2026) |
+| DW *Kurz und leicht* (A2) | <https://learngerman.dw.com/de/kurz-und-leicht/s-69137519> | Mon–Fri, about 90 s, 3 news items. Each episode page has the text, a German glossary and a 4-page PDF *Manuskript und Wortschatz* (page 1: text) |
+| DW *Kurz und leicht* on YouTube | <https://www.youtube.com/playlist?list=PLs7zUO7VPyJ4yqjW6XecW42RMjTid_kKF> | With German subtitles |
+
 ## Exams and levels
 
 | What | Link |
