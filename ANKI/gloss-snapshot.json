@@ -1963,6 +1963,18 @@
    "dictionary": "dict.cc",
    "fetchedOn": "2026-10-18"
   },
+  "Küchentisch": {
+   "url": "https://en.wiktionary.org/wiki/K%C3%BCchentisch#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "kitchen table"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-20"
+  },
   "LKW": {
    "url": "https://en.wiktionary.org/wiki/LKW#German",
    "status": 200,
@@ -6672,6 +6684,46 @@
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-10-09"
   },
+  "gleich": {
+   "url": "https://en.wiktionary.org/wiki/gleich#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Adjective",
+     "text": "equal"
+    },
+    {
+     "pos": "Adjective",
+     "text": "same; very similar"
+    },
+    {
+     "pos": "Adjective",
+     "text": "same; identical"
+    },
+    {
+     "pos": "Adverb",
+     "text": "alike"
+    },
+    {
+     "pos": "Adverb",
+     "text": "in a moment"
+    },
+    {
+     "pos": "Adverb",
+     "text": "at once, at a time, simultaneously"
+    },
+    {
+     "pos": "Adverb",
+     "text": "right; just; directly"
+    },
+    {
+     "pos": "Adverb",
+     "text": "now; immediately; straight away"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-20"
+  },
   "groß": {
    "url": "https://en.wiktionary.org/wiki/gro%C3%9F#German",
    "status": 200,
@@ -8958,6 +9010,22 @@
    ],
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-27"
+  },
+  "suchen": {
+   "url": "https://en.wiktionary.org/wiki/suchen#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Verb",
+     "text": "to search, to look for .mw-parser-output .object-usage-tag{font-style:italic}.mw-parser-output .deprecated{color:var(--wikt-palette-grey-lime-8,olivedrab)}[with accusative or nach (+ dative) ‘something/someone’]"
+    },
+    {
+     "pos": "Verb",
+     "text": "to seek, to strive, to intend, to try"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-20"
   },
   "südwestlich": {
    "url": "https://en.wiktionary.org/wiki/s%C3%BCdwestlich#German",

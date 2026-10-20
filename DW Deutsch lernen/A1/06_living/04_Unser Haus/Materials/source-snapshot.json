@@ -1,0 +1,609 @@
+{
+ "description": "Official source text captured by ANKI/harvest_sources.py for offline context verification.",
+ "harvestedOn": "2026-10-20",
+ "sources": [
+  {
+   "id": "exercises",
+   "kind": "dw-exercises",
+   "url": "https://learngerman.dw.com/en/unser-haus/l-37439097",
+   "lessonUrl": "https://learngerman.dw.com/en/unser-haus/l-37439097",
+   "vocabulary": {
+    "url": "https://learngerman.dw.com/en/unser-haus/l-37439097/lv",
+    "items": [
+     {
+      "id": 37535595,
+      "german": "alle",
+      "english": "all",
+      "forms": ""
+     },
+     {
+      "id": 37526011,
+      "german": "die Armbanduhr, die Armbanduhren",
+      "english": "wristwatch",
+      "forms": ""
+     },
+     {
+      "id": 37460889,
+      "german": "bald",
+      "english": "soon",
+      "forms": ""
+     },
+     {
+      "id": 40414946,
+      "german": "daneben",
+      "english": "next to it/that",
+      "forms": ""
+     },
+     {
+      "id": 37365312,
+      "german": "dein(e)",
+      "english": "your",
+      "forms": ""
+     },
+     {
+      "id": 37541495,
+      "german": "doch",
+      "english": "On the contrary!",
+      "forms": ""
+     },
+     {
+      "id": 37526077,
+      "german": "dreckig",
+      "english": "dirty",
+      "forms": "dreckiger, am dreckigsten"
+     },
+     {
+      "id": 37536324,
+      "german": "(sich) duschen",
+      "english": "to shower; to take a shower",
+      "forms": "duscht, duschte, hat geduscht"
+     },
+     {
+      "id": 41390750,
+      "german": "euer/eure",
+      "english": "your/yours",
+      "forms": ""
+     },
+     {
+      "id": 37526105,
+      "german": "der Föhn, die Föhne",
+      "english": "hair dryer",
+      "forms": ""
+     },
+     {
+      "id": 37526117,
+      "german": "das Handtuch, die Handtücher",
+      "english": "hand towel",
+      "forms": ""
+     },
+     {
+      "id": 37887666,
+      "german": "ihr(e)",
+      "english": "her",
+      "forms": ""
+     },
+     {
+      "id": 41390681,
+      "german": "ihr(e)",
+      "english": "their",
+      "forms": ""
+     },
+     {
+      "id": 37364779,
+      "german": "Ihr(e)",
+      "english": "your (formal)",
+      "forms": "formell, Singular und Plural"
+     },
+     {
+      "id": 37526125,
+      "german": "immer",
+      "english": "always",
+      "forms": ""
+     },
+     {
+      "id": 37526182,
+      "german": "das Kinderzimmer, die Kinderzimmer",
+      "english": "child's room",
+      "forms": ""
+     },
+     {
+      "id": 42798402,
+      "german": "Komm rein!",
+      "english": "come in",
+      "forms": ""
+     },
+     {
+      "id": 37526295,
+      "german": "Kommt drauf an.",
+      "english": "That depends.",
+      "forms": ""
+     },
+     {
+      "id": 37365438,
+      "german": "mein(e)",
+      "english": "my",
+      "forms": ""
+     },
+     {
+      "id": 37395568,
+      "german": "Möchtest du etwas trinken?",
+      "english": "Would you like something to drink? (informal)",
+      "forms": ""
+     },
+     {
+      "id": 37526352,
+      "german": "der Nachbar, die Nachbarn",
+      "english": "neighbor (male)",
+      "forms": ""
+     },
+     {
+      "id": 37526353,
+      "german": "die Nachbarin, die Nachbarinnen",
+      "english": "neighbor (female)",
+      "forms": ""
+     },
+     {
+      "id": 37526382,
+      "german": "(etwas) putzen",
+      "english": "to clean (something)",
+      "forms": "putzt, putzte, hat geputzt"
+     },
+     {
+      "id": 37526400,
+      "german": "sauber",
+      "english": "clean",
+      "forms": "sauberer, am saubersten"
+     },
+     {
+      "id": 37526402,
+      "german": "schlafen",
+      "english": "to sleep",
+      "forms": "schläft, schlief, hat geschlafen"
+     },
+     {
+      "id": 39449257,
+      "german": "sein(e)",
+      "english": "his/its",
+      "forms": ""
+     },
+     {
+      "id": 37526405,
+      "german": "die Uhr, die Uhren",
+      "english": "clock",
+      "forms": ""
+     },
+     {
+      "id": 40025355,
+      "german": "unser(e)",
+      "english": "our",
+      "forms": ""
+     },
+     {
+      "id": 37526412,
+      "german": "die Unterhose, die Unterhosen",
+      "english": "underwear; underpants",
+      "forms": ""
+     },
+     {
+      "id": 37526427,
+      "german": "warm",
+      "english": "warm",
+      "forms": "wärmer, am wärmsten"
+     }
+    ]
+   },
+   "exercises": [
+    {
+     "id": "e-37441821",
+     "url": "https://learngerman.dw.com/en/how-big-is-your-apartment/l-37439097/e-37441821",
+     "title": "How big is your apartment?",
+     "texts": [
+      "Play audio",
+      "Say that your apartment has two rooms.",
+      "Play audio",
+      "Say that your bathroom is bright. Start with \"No\".",
+      "Play audio",
+      "Say that your balcony is dark. Start with \"No\"."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37440815",
+     "url": "https://learngerman.dw.com/en/lilli-and-olis-new-apartment/l-37439097/e-37440815",
+     "title": "Lilli and Oli’s new apartment ",
+     "texts": [
+      "Lilli und Oli haben eine neue Wohnung. Lisa besucht die beiden.\nLilli: Das ist unsere Küche. Hier ist es immer warm.\nLisa: Oh. Ist das euer Wohnzimmer? Das ist ja groß.\nOli: Ja, aber unser Schlafzimmer ist sehr klein.\nLisa: Und wo schlafen eure Kinder?\nLilli: Josi und Livi schlafen in einem Zimmer. Ihr Kinderzimmer ist hier.",
+      "„Unsere Küche ist immer warm.“",
+      "„Und wo schlafen eure Kinder?“",
+      "„Ihr Kinderzimmer ist hier.“",
+      "Das ist die Küche von Oli und Lilli. Lilli sagt:",
+      "Lilli und Oli haben zwei Kinder. Lisa fragt:",
+      "Josi und Livi schlafen im Kinderzimmer. Lilli sagt:"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37440938",
+     "url": "https://learngerman.dw.com/en/nouns-and-possessive-determiners-in-the-plural/l-37439097/e-37440938",
+     "title": "Nouns and possessive determiners in the plural",
+     "texts": [
+      "meine Bilder",
+      "deine Bilder",
+      "seine/ihre Bilder",
+      "unsere Bilder",
+      "eure Bilder",
+      "ihre/Ihre Bilder",
+      "meine Teppiche",
+      "deine Teppiche",
+      "seine/ihre Teppiche",
+      "unsere Teppiche",
+      "eure Teppiche",
+      "ihre/Ihre Teppiche",
+      "ich: #p#\ndu: #p#\ner/sie/es: #p#\nwir: #p#\nihr: #p#\nsie/Sie: #p#",
+      "Das sind die Bilder.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "ich: #p#\ndu: #p#\ner/sie/es: #p#\nwir: #p#\nihr: #p#\nsie/Sie: #p#",
+      "Das sind die Teppiche.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37440158",
+     "url": "https://learngerman.dw.com/en/nouns-and-possessive-determiners-in-the-singular/l-37439097/e-37440158",
+     "title": "Nouns and possessive determiners in the singular",
+     "texts": [
+      "mein",
+      "dein",
+      "sein/ihr",
+      "mein",
+      "dein",
+      "sein/ihr",
+      "meine",
+      "deine",
+      "seine/ihre",
+      "der Stuhl",
+      "das Wohnzimmer",
+      "die Küche",
+      "Did you notice? The ending \"-e\" on the indefinite article shows you that the form of the noun is feminine. This is also the case for the possessive determiners: ein-e Küche / mein-e, dein-e, sein-e, ihr-e Küche."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37441025",
+     "url": "https://learngerman.dw.com/en/possessive-determiners-and-endings/l-37439097/e-37441025",
+     "title": "Possessive determiners and endings",
+     "texts": [
+      "Possessive determiners in the nominative:\nPossessive determiners for feminine and plural nouns take the ending \"-e\". Before masculine and neutral nouns, possessive determiners take no ending.",
+      "-",
+      "-",
+      "e",
+      "e",
+      "Das ist mein#p# Spiegel. Das ist dein#p# Badezimmer. Das ist unser#p# Toilette. Das sind sein#p# Teppiche.",
+      "e oder - ?",
+      "Info: masculine: der Spiegel; neutral: das Badezimmer; feminine: die Toilette; plural: die Teppiche",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37440896",
+     "url": "https://learngerman.dw.com/en/possessive-determiners-and-pronouns-in-the-plural/l-37439097/e-37440896",
+     "title": "Possessive determiners and pronouns in the plural",
+     "texts": [
+      "Deutschkurse | Nicos Weg | A1 E06 | A1_E06_L4_S9_Foto1",
+      "Deutschkurse | Nicos Weg | A1 E06 | A1_E06_L4_S9_Foto2",
+      "Deutschkurse | Nicos Weg | A1 E06 | A1_E06_L4_S9_Foto3",
+      "Was passt zusammen? Ordne zu.",
+      "unser/e",
+      "euer/eure",
+      "ihr/e"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37439813",
+     "url": "https://learngerman.dw.com/en/possessive-determiners-and-pronouns-in-the-singular/l-37439097/e-37439813",
+     "title": "Possessive determiners and pronouns in the singular",
+     "texts": [
+      "mein Haus",
+      "meine Wohnung",
+      "dein Bad",
+      "deine Küche",
+      "ihr Bad",
+      "ihre Küche",
+      "sein Balkon",
+      "seine Garage",
+      "ich",
+      "du",
+      "sie",
+      "Info: When something belongs to a woman, the possessive determiner is ihr/e.",
+      "er",
+      "Info: When something belongs to a man, the possessive determiner is sein/e."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37441064",
+     "url": "https://learngerman.dw.com/en/possessive-determiners-formal-or-informal/l-37439097/e-37441064",
+     "title": "Possessive determiners: Formal or informal?",
+     "texts": [
+      "dein",
+      "Ihr",
+      "Ihre",
+      "Ihre",
+      "Wähl für die Lücke das richtige Wort.",
+      "Ist das #p# Spiegel, Anna? – Nein, das ist nicht mein Spiegel.",
+      "Wähl für die Lücke das richtige Wort.",
+      "Ist das #p# Bild, Herr Meier? – Ja, das ist mein Bild.",
+      "Wähl für die Lücke das richtige Wort.",
+      "Ist das #p# Lampe, Frau Meier? – Ja, das ist meine Lampe.",
+      "Wähl für die Lücke das richtige Wort.",
+      "Frau Meier und Herr Meier, sind das #p# Handtücher? – Ja, das sind unsere Handtücher."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37440351",
+     "url": "https://learngerman.dw.com/en/possessive-determiners-in-the-nominative/l-37439097/e-37440351",
+     "title": "Possessive determiners in the nominative",
+     "texts": [
+      "deine",
+      "meine",
+      "seine",
+      "dein",
+      "mein",
+      "ihr",
+      "dein",
+      "mein",
+      "sein",
+      "Nina: Nawin, ist das #p# Unterhose?\nNawin: Nein, das ist nicht #p# Unterhose. Das ist die Unterhose von Sebastian.\nNina: Ah, das ist #p# Unterhose.",
+      "Ist das die Unterhose von Nawin?",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "Nawin: Sebastian, ist das #p# Föhn?\nSebastian: Nein, das ist nicht #p# Föhn. Das ist #p# Föhn.",
+      "Ist das der Föhn von Sebastian?",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "Sebastian: Nina, ist das #p# Handtuch?\nNina: Nein, das ist nicht #p# Handtuch. Das ist #p# Handtuch.",
+      "Ist das das Handtuch von Nina?",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37439332",
+     "url": "https://learngerman.dw.com/en/possessive-determiners-in-the-singular/l-37439097/e-37439332",
+     "title": "Possessive determiners in the singular",
+     "texts": [
+      "Dialog 1:\nNina: Ich suche meine Armbanduhr.\nLisa: Ah. Ist das deine Uhr? Sie war auf dem Küchentisch.\nNina: Nein, das ist nicht meine. Ich glaube, die ist von Nawin.\nLisa: Stimmt. Das ist seine.\nDialog 2:\nSebastian: Hey, Lisa. Ist das dein T-Shirt?\nLisa: Nein, das ist nicht mein T-Shirt. Das ist das T-Shirt von Nina.\nSebastian: Ja, richtig. Das ist ihr T-Shirt.\nDialog 3:\nNico: Lisa, ist das dein Stift?\nLisa: Nein, das ist nicht mein Stift. Ich glaube, das ist der Stift von Emma. Ist das der Stift von Emma, Sebastian?\nSebastian: Ja, das ist ihr Stift.",
+      "Die Uhr ist von Nawin. Das ist seine Uhr.",
+      "Das T-Shirt ist von Nina. Das ist ihr T-Shirt.",
+      "Der Stift ist von Emma. Das ist ihr Stift.",
+      "Dialog 1: Die Uhr ist von ...",
+      "Dialog 2: Das T-Shirt ist von ...",
+      "Dialog 3: Der Stift ist von ..."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37440715",
+     "url": "https://learngerman.dw.com/en/saying-what-belongs-to-whom/l-37439097/e-37440715",
+     "title": "Saying what belongs to whom",
+     "texts": [
+      "Play audio",
+      "Ja, das ist meine Unterhose.",
+      "Play audio",
+      "Nein, Lisa, das ist nicht mein T-Shirt. Das ist dein T-Shirt.",
+      "Play audio",
+      "Ja, das ist sein Handtuch."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37439199",
+     "url": "https://learngerman.dw.com/en/viewing-a-room-1/l-37439097/e-37439199",
+     "title": "Viewing a room (1)",
+     "texts": [
+      "Sie sieht das Zimmer von Nawin.",
+      "Sie sieht das Badezimmer.",
+      "Welche Zimmer sieht die Bewerberin im Video?"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37441418",
+     "url": "https://learngerman.dw.com/en/viewing-a-room-2/l-37439097/e-37441418",
+     "title": "Viewing a room (2)",
+     "texts": [
+      "sauber",
+      "dreckig",
+      "laut",
+      "nett",
+      "Ulla: Hier ist es nicht sehr #p#. Wie oft putzt ihr denn?\nLisa: Na ja, das kommt drauf an. Ist es #p#? Dann putzen wir.\nUlla: Und wie sind die Nachbarn? Die sind nicht zu #p#, oder?\nSebastian: Doch! Die sind superlaut und nicht #p#!",
+      "Wähl die fehlenden Adjektive in der richtigen Reihenfolge aus.",
+      "Good to know: Sometimes, \"super\" also means \"very\": superlaut = sehr laut.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37439247",
+     "url": "https://learngerman.dw.com/en/viewing-a-room-3/l-37439097/e-37439247",
+     "title": "Viewing a room (3)",
+     "texts": [
+      "mein Zimmer",
+      "dein Zimmer",
+      "deine",
+      "meine",
+      "Nawin: Das ist #p#. Vielleicht bald #p#?\nUlla: Ist das auch #p#?\nSebastian: Oh! Nein, das ist #p#. Die habe ich schon gesucht. Danke, Ulla.",
+      "Wähl die fehlenden Wörter in der richtigen Reihenfolge aus.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37441102",
+     "url": "https://learngerman.dw.com/en/viewing-an-apartment/l-37439097/e-37441102",
+     "title": "Viewing an apartment",
+     "texts": [
+      "Eure",
+      "euer",
+      "dein",
+      "mein",
+      "unser",
+      "eure",
+      "unser",
+      "Lisa: Hallo, Peter und Maria! Danke für die Einladung.\nPeter: Hallo, Lisa! Gerne. Komm rein.\nL: #ps# Wohnung ist aber schön! Und #ps# Flur ist so groß. Maria, ist das da #ps# Zimmer?\nMaria: Ja, das ist #ps# Arbeitszimmer. Und hier ist #ps# Wohnzimmer.\nLisa: Das ist aber gemütlich. Und da ist #ps# Küche?\nPeter: Ja, genau. Und gleich daneben #ps# Schlafzimmer mit Bad. Kommt, jetzt gehen wir erst mal ins Wohnzimmer. Möchtest du etwas trinken?",
+      "Wähl das passende Wort aus.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT"
+     ],
+     "vocabularyTags": []
+    }
+   ],
+   "pages": [
+    {
+     "id": "gr-38304233",
+     "url": "https://learngerman.dw.com/en/possessive-determiners-1/l-37439097/gr-38304233",
+     "title": "Possessive determiners (1)",
+     "texts": [
+      "Possessive determiners (1)",
+      "Ulla: Nawin, ist das deine Unterhose?\nSebastian: Nein, das ist nicht seine Unterhose. Das ist meine Unterhose.\nImage:\nA woman holds a pair of underwear up with two fingers. Nawin looks at the floor and Sebastian laughs.\nIn order to express ownership or belonging, the possessive determiner is used instead of the definite or indefinite article.\nWhen used before a feminine noun or a noun in the plural, the possessive determiner ends in -e in the nominative case:\nmasculine\n(der Föhn)\nDas ist mein Föhn.\nfeminine\n(die Unterhose)\nDas ist meine Unterhose.\nneuter\n(das Zimmer)\nDas ist mein Zimmer.\nplural\n(die Bücher)\nDas sind meine Bücher.\nPerson\nPossessive determiner\nSingular\nich\nmein(e)\ndu\ndein(e)\ner/es\nsein(e)*\nsie\nihr(e)*\nPlural\nwir\nunser(e)\nihr\neuer/eure\nsie\nihr(e)\nFormal\nSie\nIhr(e)\n*Note the difference between sein and ihr:\nSebastian is a man:\nImage:\nAn example of \"Sebastian\" and \"sein\": Das ist das Zimmer von Sebastian. Das ist sein Zimmer.\nLisa is a woman:\nImage:\nAn example of \"Lisa\" and \"ihr\": Das ist das Zimmer von Lisa. Das ist ihr Zimmer.\nGrammatical terms in German:\nder Possessivartikel: The possessive determiner is an article word that expresses ownership or belonging."
+     ],
+     "html": "<p><em>Ulla: Nawin, ist das <strong>deine</strong> Unterhose?</em></p>\n\n<p><em>Sebastian: Nein, das ist nicht <strong>seine</strong> Unterhose. Das ist <strong>meine</strong> Unterhose.</em></p>\n\n<p>Image:</p><ul><li>A woman holds a pair of underwear up with two fingers. Nawin looks at the floor and Sebastian laughs.</li></ul>\n\n<p>In order to express ownership or belonging, the possessive determiner is used instead of the definite or indefinite article.</p>\n\n<p>When used before a feminine noun or a noun in the plural, the possessive determiner&#160;ends in <em>-e</em> in the nominative case:</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>masculine</td>\n\t\t\t<td>&#160;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>(<strong><em>der</em></strong> Föhn)</td>\n\t\t\t<td><em>Das ist <strong>mein</strong> Föhn.</em></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>feminine</td>\n\t\t\t<td>&#160;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>(<strong><em>die </em></strong>Unterhose)</td>\n\t\t\t<td><em>Das ist <strong>meine</strong> Unterhose.</em></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>neuter</td>\n\t\t\t<td>&#160;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>(<strong><em>das</em></strong> Zimmer)<em> </em></td>\n\t\t\t<td><em>Das ist <strong>mein</strong> Zimmer.</em></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>plural</td>\n\t\t\t<td>&#160;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>(<strong><em>die</em></strong><em> Bücher</em>)</td>\n\t\t\t<td><em>Das sind <strong>meine</strong> Bücher.</em></td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&#160;</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>&#160;</td>\n\t\t\t<td>Person</td>\n\t\t\t<td>Possessive determiner</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Singular</td>\n\t\t\t<td>ich</td>\n\t\t\t<td>mein(e)</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>&#160;</td>\n\t\t\t<td>du</td>\n\t\t\t<td>dein(e)</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>&#160;</td>\n\t\t\t<td>er/es</td>\n\t\t\t<td>sein(e)*</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>&#160;</td>\n\t\t\t<td>sie</td>\n\t\t\t<td>ihr(e)*</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Plural</td>\n\t\t\t<td>wir</td>\n\t\t\t<td>unser(e)</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>&#160;</td>\n\t\t\t<td>ihr</td>\n\t\t\t<td>euer/eure</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>&#160;</td>\n\t\t\t<td>sie</td>\n\t\t\t<td>ihr(e)</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Formal</td>\n\t\t\t<td>Sie</td>\n\t\t\t<td>Ihr(e)</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&#160;</p>\n\n<p>*Note the difference between <em>sein</em> and <em>ihr</em>:</p>\n\n<p>Sebastian is a man:</p>\n\n<p>Image:</p><ul><li>An example of &quot;Sebastian&quot; and &quot;sein&quot;: Das ist das Zimmer von Sebastian. Das ist sein Zimmer.</li></ul>\n\n<p>Lisa is a woman:</p>\n\n<p>Image:</p><ul><li>An example of &quot;Lisa&quot; and &quot;ihr&quot;: Das ist das Zimmer von Lisa. Das ist ihr Zimmer.</li></ul>\n\n<p>&#160;</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>Grammatical terms in German:</p>\n\t\t\tder Possessivartikel: The possessive determiner is an article word that expresses ownership or belonging.</td>\n\t\t</tr>\n\t</tbody>\n</table>\n"
+    },
+    {
+     "id": "rs-40224607",
+     "url": "https://learngerman.dw.com/en/where-should-the-trash-go/l-37439097/rs-40224607",
+     "title": "Where should the trash go?",
+     "texts": [
+      "Where should the trash go?",
+      "Germans produce over 600 kilograms of trash per capita every year. If you live in a rented apartment in Germany, you are required to separate your trash for recycling. Usually, there are trashcans with blue lids for newspapers and paper, a green or brown lid for compost and greenery, and a gray lid for normal trash. You put plastic and packaging into the trash bins with the yellow lids, but not plastic bottles! In Germany, you pay a deposit of 25 euro cents on plastic bottles, which you can redeem at the grocery store."
+     ],
+     "html": "\n\n<p>Germans produce over 600 kilograms of trash per capita every year. If you live in a rented apartment in Germany, you are required to separate your trash for recycling. Usually, there are trashcans with blue lids for newspapers and paper, a green or brown lid for compost and greenery, and a gray lid for normal trash. You put plastic and packaging into the trash bins with the yellow lids, but not plastic bottles! In Germany, you pay a deposit of 25 euro cents on plastic bottles, which you can redeem at the grocery store.</p>\n"
+    }
+   ]
+  },
+  {
+   "id": "script",
+   "kind": "dw-script-pdf",
+   "url": "https://learngerman.dw.com/downloads/52719966/nicos-weg-a1-e6-l4-manuskript-und-wortschatz-englisch.pdf",
+   "localFile": "DW Deutsch lernen/A1/06_living/04_Unser Haus/Materials/Script and vocabulary (English).pdf",
+   "sha256": "b9262405f48969a1f12401dea25dd4a76c659d34d96600bcbe9d70e342e283a2",
+   "lines": [
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "(6) Living | Unser Haus",
+    "The next applicant arrives. It quickly becomes clear that she has very",
+    "particular ideas about life in a shared apartment. It’s also obvious that Lisa",
+    "has a problem.",
+    "Script",
+    "NAWIN:",
+    "Das ist mein Zimmer. Vielleicht bald dein Zimmer?",
+    "ULLA:",
+    "Ist das auch deine?",
+    "SEBASTIAN:",
+    "Oh. Nein, das ist meine. Die habe ich schon gesucht. Danke, Ulla!",
+    "ULLA:",
+    "Ist das mein Bad?",
+    "NAWIN:",
+    "Nein, wir haben nur ein Bad. Hier duschen alle.",
+    "ULLA:",
+    "Alle? Hier ist es nicht sehr sauber. Wie oft putzt ihr denn?",
+    "LISA:",
+    "Na ja, das kommt drauf an. Ist es dreckig, dann putzen wir.",
+    "ULLA:",
+    "Und wie sind die Nachbarn? Die sind nicht zu laut, oder?",
+    "SEBASTIAN:",
+    "Doch! Die sind superlaut und nicht nett!",
+    "ULLA:",
+    "Na dann …",
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "SEBASTIAN:",
+    "Na dann. Wir rufen dich an.",
+    "ULLA:",
+    "Okay. Tschüss!",
+    "LISA:",
+    "Was für eine Katastrophe!",
+    "SEBASTIAN:",
+    "Ich glaube, wir finden nie einen Mieter für Nawins Zimmer!",
+    "LISA:",
+    "Die Sprachschule … Oh nein!",
+    "NICO:",
+    "Was ist denn?",
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "Vocabulary (from script and lesson)",
+    "alle – all",
+    "die Armbanduhr, die Armbanduhren – wristwatch",
+    "bald – soon",
+    "daneben – next to it/that",
+    "dein(e) – your",
+    "doch – On the contrary!",
+    "dreckig – dirty",
+    "dreckiger, am dreckigsten",
+    "(sich) duschen – to shower; to take a shower",
+    "duscht, duschte, hat geduscht",
+    "euer/eure – your /yours",
+    "der Föhn, die Föhne – hair dryer",
+    "das Handtuch, die Handtücher – hand towel",
+    "ihr(e) – her",
+    "ihr(e) – their",
+    "Ihr(e) – your (formal)",
+    "formell, Singular und Plural",
+    "immer – always",
+    "das Kinderzimmer, die Kinderzimmer – child’s room",
+    "Komm rein! – come in",
+    "Kommt drauf an. – That depends.",
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "mein(e) – my",
+    "Möchtest du etwas trinken? – Would you like something to drink? (informal)",
+    "der Nachbar, die Nachbarn – neighbor (male)",
+    "die Nachbarin, die Nachbarinnen – neighbor (female)",
+    "(etwas) putzen – to clean (something)",
+    "putzt, putzte, hat geputzt",
+    "sauber – clean",
+    "sauberer, am saubersten",
+    "schlafen – to sleep",
+    "schläft, schlief, hat geschlafen",
+    "sein(e) – his/its",
+    "die Uhr, die Uhren – clock",
+    "unser(e) – our",
+    "die Unterhose, die Unterhosen – underwear; underpants",
+    "warm – warm",
+    "wärmer, am wärmsten"
+   ]
+  }
+ ]
+}

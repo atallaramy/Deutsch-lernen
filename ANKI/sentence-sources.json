@@ -2271,7 +2271,8 @@
     "source": "script"
    },
    "covers": [
-    "dw-a1-e3-l1:moechtest-du-etwas-trinken"
+    "dw-a1-e3-l1:moechtest-du-etwas-trinken",
+    "dw-a1-e6-l4:moechtest-du-etwas-trinken"
    ]
   },
   {
@@ -4940,6 +4941,228 @@
    "covers": [],
    "grammarPage": "gr-38304035",
    "note": "die Stelle → die Tankstelle (petrol station)"
+  },
+  {
+   "key": "my-room-maybe-soon-yours",
+   "kind": "production",
+   "lesson": "dw-a1-e6-l4",
+   "skill": "possessive: mein, dein",
+   "scene": "Show a candidate (du) your room: this is my room. Maybe soon your room? (Two sentences.)",
+   "answer": "Das ist mein Zimmer. Vielleicht bald dein Zimmer?",
+   "answerSource": {
+    "lesson": "dw-a1-e6-l4",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "das Zimmer → mein, dein (no -e before das nouns)"
+  },
+  {
+   "key": "ive-been-looking-for-it",
+   "kind": "production",
+   "lesson": "dw-a1-e6-l4",
+   "skill": "useful phrase",
+   "scene": "Someone hands you a thing you had lost (die …). Say: I've already been looking for it! Start with Die.",
+   "answer": "Die habe ich schon gesucht.",
+   "answerSource": {
+    "lesson": "dw-a1-e6-l4",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "suchen → hat gesucht (looked for) · besuchen = visit"
+  },
+  {
+   "key": "is-that-my-bathroom",
+   "kind": "production",
+   "lesson": "dw-a1-e6-l4",
+   "skill": "yes/no question with mein",
+   "scene": "Viewing a room in a WG, ask: is that my bathroom (das Bad)?",
+   "answer": "Ist das mein Bad?",
+   "answerSource": {
+    "lesson": "dw-a1-e6-l4",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "das Bad → mein Bad"
+  },
+  {
+   "key": "reply-only-one-bathroom",
+   "kind": "response",
+   "lesson": "dw-a1-e6-l4",
+   "skill": "reply: nur ein …",
+   "scene": "Say no: we only have one bathroom. Everyone showers here. (Two sentences.)",
+   "prompt": {
+    "lesson": "dw-a1-e6-l4",
+    "source": "script",
+    "text": "Ist das mein Bad?"
+   },
+   "answer": "Nein, wir haben nur ein Bad. Hier duschen alle.",
+   "answerSource": {
+    "lesson": "dw-a1-e6-l4",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "Hier takes position 1: Hier duschen alle."
+  },
+  {
+   "key": "how-often-do-you-clean",
+   "kind": "production",
+   "lesson": "dw-a1-e6-l4",
+   "skill": "W-question: Wie oft …?",
+   "scene": "Ask your future flatmates (ihr) how often they clean. Add denn.",
+   "answer": "Wie oft putzt ihr denn?",
+   "answerSource": {
+    "lesson": "dw-a1-e6-l4",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "ihr putzt · denn makes the question softer"
+  },
+  {
+   "key": "what-are-the-neighbours-like",
+   "kind": "production",
+   "lesson": "dw-a1-e6-l4",
+   "skill": "W-question: Wie sind …?",
+   "scene": "At a flat viewing, ask what the neighbours are like. Start with Und.",
+   "answer": "Und wie sind die Nachbarn?",
+   "answerSource": {
+    "lesson": "dw-a1-e6-l4",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "die Nachbarn (plural) → sind"
+  },
+  {
+   "key": "reply-doch-very-loud",
+   "kind": "response",
+   "lesson": "dw-a1-e6-l4",
+   "skill": "doch: contradict a negative question",
+   "scene": "They are loud. Contradict: yes they are! They are very loud (super…) and not nice.",
+   "prompt": {
+    "lesson": "dw-a1-e6-l4",
+    "source": "script",
+    "text": "Die sind nicht zu laut, oder?"
+   },
+   "answer": "Doch! Die sind superlaut und nicht nett!",
+   "answerSource": {
+    "lesson": "dw-a1-e6-l4",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "doch = yes, after a negative question · superlaut = sehr laut"
+  },
+  {
+   "key": "what-a-disaster",
+   "kind": "production",
+   "lesson": "dw-a1-e6-l4",
+   "skill": "exclamation: Was für ein(e) …!",
+   "scene": "The viewing went badly. Exclaim: what a disaster (die Katastrophe)!",
+   "answer": "Was für eine Katastrophe!",
+   "answerSource": {
+    "lesson": "dw-a1-e6-l4",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "die Katastrophe → was für eine"
+  },
+  {
+   "key": "whats-the-matter-denn",
+   "kind": "production",
+   "lesson": "dw-a1-e6-l4",
+   "skill": "question with denn",
+   "scene": "Your friend suddenly looks shocked. Ask what's the matter. Use denn.",
+   "answer": "Was ist denn?",
+   "answerSource": {
+    "lesson": "dw-a1-e6-l4",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "denn makes the question friendlier"
+  },
+  {
+   "key": "reply-not-my-t-shirt",
+   "kind": "response",
+   "lesson": "dw-a1-e6-l4",
+   "skill": "possessive: nicht mein",
+   "scene": "It isn't your T-shirt (das T-Shirt). Say no, it isn't my T-shirt.",
+   "prompt": {
+    "lesson": "dw-a1-e6-l4",
+    "source": "exercises",
+    "text": "Hey, Lisa. Ist das dein T-Shirt?"
+   },
+   "answer": "Nein, das ist nicht mein T-Shirt.",
+   "answerSource": {
+    "lesson": "dw-a1-e6-l4",
+    "source": "exercises"
+   },
+   "covers": [],
+   "note": "das T-Shirt → mein T-Shirt (no -e before das nouns)"
+  },
+  {
+   "key": "not-his-underwear-mine",
+   "kind": "completion",
+   "lesson": "dw-a1-e6-l4",
+   "skill": "possessive: sein/seine",
+   "scene": "Sebastian: it's not Nawin's underwear (his), it's mine. Type the missing word.",
+   "prompt": {
+    "lesson": "dw-a1-e6-l4",
+    "source": "exercises",
+    "text": "Nein, das ist nicht seine Unterhose. Das ist meine Unterhose.",
+    "target": "seine"
+   },
+   "answer": "seine",
+   "covers": [],
+   "grammarPage": "gr-38304233",
+   "note": "die Unterhose → seine, meine (-e before die nouns)"
+  },
+  {
+   "key": "lisas-room-ihr",
+   "kind": "completion",
+   "lesson": "dw-a1-e6-l4",
+   "skill": "possessive: ihr (her)",
+   "scene": "The room belongs to Lisa: her room. Type the missing words.",
+   "prompt": {
+    "lesson": "dw-a1-e6-l4",
+    "source": "exercises",
+    "text": "Das ist das Zimmer von Lisa. Das ist ihr Zimmer.",
+    "target": "ihr Zimmer"
+   },
+   "answer": "ihr Zimmer",
+   "covers": [],
+   "grammarPage": "gr-38304233",
+   "note": "a woman's → ihr · a man's → sein"
+  },
+  {
+   "key": "table-possessive-formal",
+   "kind": "table",
+   "lesson": "dw-a1-e6-l4",
+   "skill": "possessive table: Sie → Ihr",
+   "scene": "The possessive table: the formal form for Sie.",
+   "prompt": {
+    "lesson": "dw-a1-e6-l4",
+    "source": "exercises",
+    "text": "Formal ¶ Sie ¶ Ihr(e)",
+    "target": "Ihr"
+   },
+   "answer": "Ihr",
+   "covers": [],
+   "grammarPage": "gr-38304233",
+   "note": "Sie → Ihr(e), always with a capital I"
+  },
+  {
+   "key": "where-do-your-children-sleep",
+   "kind": "completion",
+   "lesson": "dw-a1-e6-l4",
+   "skill": "possessive: euer/eure",
+   "scene": "You are visiting friends (ihr). Ask where their children (die Kinder) sleep: your children, in the ihr-form. Type the missing word.",
+   "prompt": {
+    "lesson": "dw-a1-e6-l4",
+    "source": "exercises",
+    "text": "Und wo schlafen eure Kinder?",
+    "target": "eure"
+   },
+   "answer": "eure",
+   "covers": [],
+   "note": "ihr → euer Wohnzimmer (das) · eure Kinder (plural: -e, and euer drops its e)"
   }
  ]
 }

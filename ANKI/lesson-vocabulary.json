@@ -1,6 +1,6 @@
 {
  "schemaVersion": 3,
- "revision": "2026-10-18T20:00:00Z",
+ "revision": "2026-10-20T18:00:00Z",
  "policy": "Faithful capture of what the learner studied: official lesson glossaries, useful words and phrases from the official scripts and exercises, and items from the learner's notes. Official spelling is canonical; the learner's spelling is kept as learnerForm. Nothing captured is removed. pendingEntries wait for the learner's yes/no and are never built; declinedEntries record a learner's no.",
  "courses": [
   {
@@ -16007,6 +16007,573 @@
        "level": "beyond-A1",
        "genderEvidence": "https://de.wiktionary.org/wiki/Tankstelle (Genus f, Plural Tankstellen)",
        "home": "vocabulary"
+      }
+     ],
+     "pendingEntries": [],
+     "declinedEntries": []
+    },
+    {
+     "id": "dw-a1-e6-l4",
+     "legacyId": null,
+     "level": "A1",
+     "title": "Unser Haus",
+     "unit": 6,
+     "lesson": 4,
+     "url": "https://learngerman.dw.com/en/unser-haus/l-37439097",
+     "notesFile": "DW Deutsch lernen/A1/06_living/04_Unser Haus/Unser Haus.md",
+     "lessonDeck": {
+      "file": "DW Deutsch lernen/A1/06_living/04_Unser Haus/DW A1 E6L4 Unser Haus - Vocabulary.apkg",
+      "deck": "A1::DW::Lessons::E6 L4 Unser Haus"
+     },
+     "snapshot": "DW Deutsch lernen/A1/06_living/04_Unser Haus/Materials/source-snapshot.json",
+     "sources": [
+      {
+       "id": "script",
+       "kind": "dw-script-pdf",
+       "url": "https://learngerman.dw.com/downloads/52719966/nicos-weg-a1-e6-l4-manuskript-und-wortschatz-englisch.pdf",
+       "localFile": "DW Deutsch lernen/A1/06_living/04_Unser Haus/Materials/Script and vocabulary (English).pdf"
+      },
+      {
+       "id": "exercises",
+       "kind": "dw-exercises",
+       "url": "https://learngerman.dw.com/en/unser-haus/l-37439097"
+      }
+     ],
+     "entries": [
+      {
+       "id": "alle",
+       "german": "alle",
+       "english": "all",
+       "pos": "word",
+       "lemma": "alle",
+       "sense": "everyone",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-armbanduhr",
+       "german": "die Armbanduhr",
+       "english": "wristwatch",
+       "pos": "noun",
+       "lemma": "Armbanduhr",
+       "sense": "wristwatch",
+       "plural": "die Armbanduhren",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises"
+       ],
+       "home": "vocabulary",
+       "level": "beyond-A1"
+      },
+      {
+       "id": "bald",
+       "german": "bald",
+       "english": "soon",
+       "pos": "word",
+       "lemma": "bald",
+       "sense": "soon",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "daneben",
+       "german": "daneben",
+       "english": "next to it/that",
+       "pos": "word",
+       "lemma": "daneben",
+       "sense": "next-to-it",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "dein-deine",
+       "german": "dein, deine",
+       "english": "your",
+       "pos": "word",
+       "lemma": "dein",
+       "sense": "your",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "dw-grammar-page",
+        "learner-notes"
+       ],
+       "home": "vocabulary",
+       "vocabularyPageForm": "dein(e)"
+      },
+      {
+       "id": "doch",
+       "german": "doch",
+       "english": "On the contrary!",
+       "pos": "word",
+       "lemma": "doch",
+       "sense": "yes-to-a-negative-question",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "dreckig",
+       "german": "dreckig",
+       "english": "dirty",
+       "pos": "word",
+       "lemma": "dreckig",
+       "sense": "dirty",
+       "forms": "dreckiger, am dreckigsten",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "vocabulary",
+       "level": "beyond-A1"
+      },
+      {
+       "id": "sich-duschen",
+       "german": "(sich) duschen",
+       "english": "to shower; to take a shower",
+       "pos": "verb",
+       "lemma": "duschen",
+       "sense": "to-shower",
+       "forms": "duscht, duschte, hat geduscht",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "euer-eure",
+       "german": "euer, eure",
+       "english": "your/yours",
+       "pos": "word",
+       "lemma": "euer",
+       "sense": "your",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "dw-grammar-page"
+       ],
+       "home": "vocabulary",
+       "vocabularyPageForm": "euer/eure"
+      },
+      {
+       "id": "der-foehn",
+       "german": "der Föhn",
+       "english": "hair dryer",
+       "pos": "noun",
+       "lemma": "Föhn",
+       "sense": "hair-dryer",
+       "plural": "die Föhne",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "dw-grammar-page"
+       ],
+       "home": "vocabulary",
+       "level": "beyond-A1"
+      },
+      {
+       "id": "das-handtuch",
+       "german": "das Handtuch",
+       "english": "hand towel",
+       "pos": "noun",
+       "lemma": "Handtuch",
+       "sense": "hand-towel",
+       "plural": "die Handtücher",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises"
+       ],
+       "home": "vocabulary",
+       "level": "beyond-A1"
+      },
+      {
+       "id": "ihr-ihre",
+       "german": "ihr, ihre",
+       "english": "her",
+       "pos": "word",
+       "lemma": "ihr",
+       "sense": "her",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "dw-grammar-page"
+       ],
+       "home": "vocabulary",
+       "vocabularyPageForm": "ihr(e)"
+      },
+      {
+       "id": "ihr-ihre-their",
+       "german": "ihr, ihre",
+       "english": "their",
+       "pos": "word",
+       "lemma": "ihr",
+       "sense": "their",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises"
+       ],
+       "home": "vocabulary",
+       "vocabularyPageForm": "ihr(e)"
+      },
+      {
+       "id": "ihr-ihre-formal",
+       "german": "Ihr, Ihre",
+       "english": "your (formal)",
+       "pos": "word",
+       "lemma": "Ihr",
+       "sense": "your",
+       "note": "formell, Singular und Plural",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "dw-grammar-page"
+       ],
+       "home": "vocabulary",
+       "vocabularyPageForm": "Ihr(e)"
+      },
+      {
+       "id": "immer",
+       "german": "immer",
+       "english": "always",
+       "pos": "word",
+       "lemma": "immer",
+       "sense": "always",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "das-kinderzimmer",
+       "german": "das Kinderzimmer",
+       "english": "child's room",
+       "pos": "noun",
+       "lemma": "Kinderzimmer",
+       "sense": "childs-room",
+       "plural": "die Kinderzimmer",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises"
+       ],
+       "home": "vocabulary",
+       "level": "beyond-A1"
+      },
+      {
+       "id": "komm-rein",
+       "german": "Komm rein!",
+       "english": "come in",
+       "pos": "expression",
+       "lemma": "Komm rein!",
+       "sense": "come-in",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "vocabulary",
+       "level": "beyond-A1"
+      },
+      {
+       "id": "kommt-drauf-an",
+       "german": "Kommt drauf an.",
+       "english": "That depends.",
+       "pos": "expression",
+       "lemma": "Kommt drauf an.",
+       "sense": "that-depends",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "vocabulary",
+       "level": "beyond-A1"
+      },
+      {
+       "id": "mein-meine",
+       "german": "mein, meine",
+       "english": "my",
+       "pos": "word",
+       "lemma": "mein",
+       "sense": "my",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "dw-grammar-page",
+        "learner-notes"
+       ],
+       "home": "vocabulary",
+       "vocabularyPageForm": "mein(e)"
+      },
+      {
+       "id": "moechtest-du-etwas-trinken",
+       "german": "Möchtest du etwas trinken?",
+       "english": "Would you like something to drink? (informal)",
+       "pos": "expression",
+       "lemma": "Möchtest du etwas trinken?",
+       "sense": "would-you-like-a-drink",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises"
+       ],
+       "home": "sentences"
+      },
+      {
+       "id": "der-nachbar",
+       "german": "der Nachbar",
+       "english": "neighbor (male)",
+       "pos": "noun",
+       "lemma": "Nachbar",
+       "sense": "neighbor-male",
+       "plural": "die Nachbarn",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "vocabulary",
+       "level": "beyond-A1"
+      },
+      {
+       "id": "die-nachbarin",
+       "german": "die Nachbarin",
+       "english": "neighbor (female)",
+       "pos": "noun",
+       "lemma": "Nachbarin",
+       "sense": "neighbor-female",
+       "plural": "die Nachbarinnen",
+       "origin": [
+        "dw-glossary"
+       ],
+       "home": "vocabulary",
+       "level": "beyond-A1"
+      },
+      {
+       "id": "etwas-putzen",
+       "german": "(etwas) putzen",
+       "english": "to clean (something)",
+       "pos": "verb",
+       "lemma": "putzen",
+       "sense": "to-clean",
+       "forms": "putzt, putzte, hat geputzt",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "vocabulary",
+       "level": "beyond-A1"
+      },
+      {
+       "id": "sauber",
+       "german": "sauber",
+       "english": "clean",
+       "pos": "word",
+       "lemma": "sauber",
+       "sense": "clean",
+       "forms": "sauberer, am saubersten",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "vocabulary",
+       "level": "beyond-A1"
+      },
+      {
+       "id": "schlafen",
+       "german": "schlafen",
+       "english": "to sleep",
+       "pos": "verb",
+       "lemma": "schlafen",
+       "sense": "to-sleep",
+       "forms": "schläft, schlief, hat geschlafen",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "sein-seine",
+       "german": "sein, seine",
+       "english": "his/its",
+       "pos": "word",
+       "lemma": "sein",
+       "sense": "his",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "dw-grammar-page"
+       ],
+       "home": "vocabulary",
+       "vocabularyPageForm": "sein(e)"
+      },
+      {
+       "id": "die-uhr",
+       "german": "die Uhr",
+       "english": "clock",
+       "pos": "noun",
+       "lemma": "Uhr",
+       "sense": "clock",
+       "plural": "die Uhren",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "unser-unsere",
+       "german": "unser, unsere",
+       "english": "our",
+       "pos": "word",
+       "lemma": "unser",
+       "sense": "our",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "dw-grammar-page"
+       ],
+       "home": "vocabulary",
+       "vocabularyPageForm": "unser(e)"
+      },
+      {
+       "id": "die-unterhose",
+       "german": "die Unterhose",
+       "english": "underwear; underpants",
+       "pos": "noun",
+       "lemma": "Unterhose",
+       "sense": "underwear",
+       "plural": "die Unterhosen",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "dw-grammar-page"
+       ],
+       "home": "vocabulary",
+       "level": "beyond-A1"
+      },
+      {
+       "id": "warm",
+       "german": "warm",
+       "english": "warm",
+       "pos": "word",
+       "lemma": "warm",
+       "sense": "warm",
+       "forms": "wärmer, am wärmsten",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises"
+       ],
+       "home": "vocabulary",
+       "level": "beyond-A1"
+      },
+      {
+       "id": "der-kuechentisch",
+       "german": "der Küchentisch",
+       "english": "kitchen table",
+       "pos": "noun",
+       "lemma": "Küchentisch",
+       "sense": "kitchen-table",
+       "plural": "die Küchentische",
+       "origin": [
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "vocabulary",
+       "level": "beyond-A1",
+       "genderEvidence": "https://de.wiktionary.org/wiki/Küchentisch (Genus m, Plural Küchentische)"
+      },
+      {
+       "id": "gleich-daneben",
+       "german": "gleich daneben",
+       "english": "right next to it",
+       "pos": "expression",
+       "lemma": "gleich daneben",
+       "sense": "right-next-to-it",
+       "origin": [
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "vocabulary",
+       "glossLookup": [
+        "gleich",
+        "daneben"
+       ]
+      },
+      {
+       "id": "etwas-suchen",
+       "german": "(etwas) suchen",
+       "english": "to search for something; to look for something",
+       "pos": "verb",
+       "lemma": "suchen",
+       "sense": "to-search-for-something",
+       "forms": "sucht, suchte, hat gesucht",
+       "origin": [
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "besuchen",
+       "german": "besuchen",
+       "english": "to visit",
+       "pos": "verb",
+       "lemma": "besuchen",
+       "sense": "to-visit",
+       "origin": [
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "na-ja",
+       "german": "Na ja.",
+       "english": "well; oh well",
+       "pos": "expression",
+       "lemma": "na ja",
+       "sense": "oh-well",
+       "origin": [
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "learnerForm": "Naja",
+       "home": "vocabulary",
+       "level": "beyond-A1",
+       "glossLookup": [
+        "naja"
+       ]
       }
      ],
      "pendingEntries": [],

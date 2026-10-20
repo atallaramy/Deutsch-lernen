@@ -1,5 +1,5 @@
 {
- "revision": "2026-10-18T17:00:00Z",
+ "revision": "2026-10-18T20:00:00Z",
  "entries": {
   "dw-a1-e0-l1:auch": [
    "vocab:auch|also"
@@ -3539,6 +3539,120 @@
   "dw-a1-e6-l3:die-tankstelle": [
    "article:Tankstelle|f",
    "vocab:Tankstelle|petrol-station"
+  ],
+  "dw-a1-e6-l4:alle": [
+   "vocab:alle|everyone"
+  ],
+  "dw-a1-e6-l4:die-armbanduhr": [
+   "article:Armbanduhr|f",
+   "vocab:Armbanduhr|wristwatch"
+  ],
+  "dw-a1-e6-l4:bald": [
+   "vocab:bald|soon"
+  ],
+  "dw-a1-e6-l4:daneben": [
+   "vocab:daneben|next-to-it"
+  ],
+  "dw-a1-e6-l4:dein-deine": [
+   "vocab:dein|your"
+  ],
+  "dw-a1-e6-l4:doch": [
+   "vocab:doch|yes-to-a-negative-question"
+  ],
+  "dw-a1-e6-l4:dreckig": [
+   "vocab:dreckig|dirty"
+  ],
+  "dw-a1-e6-l4:sich-duschen": [
+   "vocab:duschen|to-shower"
+  ],
+  "dw-a1-e6-l4:euer-eure": [
+   "vocab:euer|your"
+  ],
+  "dw-a1-e6-l4:der-foehn": [
+   "article:Föhn|m",
+   "vocab:Föhn|hair-dryer"
+  ],
+  "dw-a1-e6-l4:das-handtuch": [
+   "article:Handtuch|n",
+   "vocab:Handtuch|hand-towel"
+  ],
+  "dw-a1-e6-l4:ihr-ihre": [
+   "vocab:ihr|her"
+  ],
+  "dw-a1-e6-l4:ihr-ihre-their": [
+   "vocab:ihr|their"
+  ],
+  "dw-a1-e6-l4:ihr-ihre-formal": [
+   "vocab:Ihr|your"
+  ],
+  "dw-a1-e6-l4:immer": [
+   "vocab:immer|always"
+  ],
+  "dw-a1-e6-l4:das-kinderzimmer": [
+   "article:Kinderzimmer|n",
+   "vocab:Kinderzimmer|childs-room"
+  ],
+  "dw-a1-e6-l4:komm-rein": [
+   "vocab:Komm rein!|come-in"
+  ],
+  "dw-a1-e6-l4:kommt-drauf-an": [
+   "vocab:Kommt drauf an.|that-depends"
+  ],
+  "dw-a1-e6-l4:mein-meine": [
+   "vocab:mein|my"
+  ],
+  "dw-a1-e6-l4:moechtest-du-etwas-trinken": [
+   "sentence:offer-drink-informal"
+  ],
+  "dw-a1-e6-l4:der-nachbar": [
+   "article:Nachbar|m",
+   "vocab:Nachbar|neighbor-male"
+  ],
+  "dw-a1-e6-l4:die-nachbarin": [
+   "article:Nachbarin|f",
+   "vocab:Nachbarin|neighbor-female"
+  ],
+  "dw-a1-e6-l4:etwas-putzen": [
+   "vocab:putzen|to-clean"
+  ],
+  "dw-a1-e6-l4:sauber": [
+   "vocab:sauber|clean"
+  ],
+  "dw-a1-e6-l4:schlafen": [
+   "vocab:schlafen|to-sleep"
+  ],
+  "dw-a1-e6-l4:sein-seine": [
+   "vocab:sein|his"
+  ],
+  "dw-a1-e6-l4:die-uhr": [
+   "article:Uhr|f",
+   "vocab:Uhr|clock"
+  ],
+  "dw-a1-e6-l4:unser-unsere": [
+   "vocab:unser|our"
+  ],
+  "dw-a1-e6-l4:die-unterhose": [
+   "article:Unterhose|f",
+   "vocab:Unterhose|underwear"
+  ],
+  "dw-a1-e6-l4:warm": [
+   "vocab:warm|warm"
+  ],
+  "dw-a1-e6-l4:der-kuechentisch": [
+   "article:Küchentisch|m",
+   "vocab:Küchentisch|kitchen-table"
+  ],
+  "dw-a1-e6-l4:gleich-daneben": [
+   "vocab:gleich daneben|right-next-to-it"
+  ],
+  "dw-a1-e6-l4:etwas-suchen": [
+   "vocab:suchen|to-search-for-something"
+  ],
+  "dw-a1-e6-l4:besuchen": [
+   "vocab:besuchen|to-visit"
+  ],
+  "dw-a1-e6-l4:na-ja": [
+   "vocab:na ja|oh-well"
   ],
   "vhs-a1-l02:die-familie": [
    "article:Familie|f",

@@ -26,7 +26,7 @@ official DW/VHS pages · the Sentences cards that practise it · my rule in my o
 | heißen: saying your name | [heissen](A1/heissen.md) | DW E0 L4, E1 L1, E1 L4 |
 | W-questions: wer, wie, wo, woher, wohin, was, warum | [W-Fragen](A1/W-Fragen.md) | DW E1 L3, E2 L1–L3, E3 L1–L2, E3 L4, E4 L1–L2 · VHS L2 |
 | Yes/no questions and W-questions | [Ja-Nein-Fragen](A1/Ja-Nein-Fragen.md) | VHS L2 · DW E1, E4 L2 |
-| mein, dein, Ihr | [Possessivartikel](A1/Possessivartikel.md) | VHS L2 · DW E0 L4, E1 L3, E2 L2 |
+| Possessive determiners: mein, dein, sein, ihr, unser, euer, Ihr | [Possessivartikel](A1/Possessivartikel.md) | VHS L2 · DW E0 L4, E1 L3, E2 L2, E6 L4 |
 | Numbers 0–1000 and over | [Zahlen](A1/Zahlen.md) | VHS L2 · DW E2 L1, E2 L2, E2 L4, E3 L4 |
 | wohnen in, kommen aus, fahren nach: towns, streets, countries | [wohnen-in](A1/wohnen-in.md) | DW E1 L3, E2 L3, E4 L1–L2, E4 L4 · VHS L2 |
 | Noun gender and the definite article: der, die, das | [Genus](A1/Genus.md) | DW E3 L2, E3 L4, E5 L1–L2 |
@@ -50,7 +50,6 @@ Built when I have studied the lesson. Topics from
   [Nico hat ein Problem](<../DW Deutsch lernen/A1/01_meeting_people/04_Nico hat ein Problem/Nico hat Problem.md>);
   its articles match Wiktionary.
 - **DW Nicos Weg A1** ([index](../docs/course-index/dw-nicos-weg-a1.md)):
-  - E6: possessive determiners (L4)
   - E7: 12-hour clock (L1) · separable verbs (L2) · *an* for time (L3) · sequence adverbs (L4)
   - E8: 24-hour clock (L1) · ordinal numbers (L2) · *können* (L3) · simple past of *haben* (L4)
   - E9: professions (L1) · modal verbs (L2) · the dative (L3) · *wollen* (L4)

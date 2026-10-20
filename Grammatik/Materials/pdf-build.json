@@ -1,8 +1,8 @@
 {
  "description": "Written by docs/tools/build_grammar_pdf.py. 'inputs' fingerprints the builder, README.md, every page and the cheatsheet; the unit tests fail when it no longer matches, so the PDFs never lag the pages.",
- "inputs": "0a8cc3b4cc15726054702222cff4852d7f876fdc721deb3c091128ac906a235f",
- "pdf": "6e6d5aae2cee32b75f759806d52bb4a60f0a1903be98c6a8389bbac011e6839c",
- "cheatsheet": "477fc32e00cddebf7f7bd835dab519cf6436dae47de5e75a381aefed30b9858a",
+ "inputs": "31afd6aad2314d5589d3699458139e337cbdaf86ac61f066705cdafc640d60fb",
+ "pdf": "5d640d249f8b2ff3b5225ea6e19efb58b751a23170a05c5b3d1c42519505b013",
+ "cheatsheet": "40100aba4954facc0d1843518f7d99546b591e60281356971897d9a62372d407",
  "sheets": {
   "Artikel.md": "306449f71c80cf7e5020abb8876eb34b80036347ba919d20aef40389bc350509",
   "Farben.md": "2e65ea13a0f911a60186682ae981065182dc247809fd7fc203af596ec3b4dcd9",
@@ -16,7 +16,7 @@
  "png": {
   "Artikel.png": "3427c79a7a7b2157b2e963f975f410e7c5b92f5917f2839b96667bf509e76e0d",
   "Farben.png": "2c83b63a1b1ca1661ac781bc3f5d097a46da8adc9a31faa6e07d047834820d2c",
-  "Grammatikbegriffe.png": "d708615c3d98701336beb8d4e823695bad915fccbe7e1ad64c45ab9113c1aeb2",
+  "Grammatikbegriffe.png": "d00a38ca59ff5d9e877f161019a4bc63d5347487cd9c20f891696b2875ecd1ca",
   "Nomen.png": "766bd550bc8243874712d9e0afa660f834f9ce41691d95013d224608cd7bda19",
   "Possessivartikel.png": "ca3304e6efbd528ec47f62af6169240e0dee55c68ac30bf604262767d7afd549",
   "Saetze.png": "901121b56d8f1792946526f83e8dd1d20047de7f896cff7ae0050fedaa1ee00e",
@@ -53,7 +53,7 @@
  ],
  "tools": {
   "pandoc": "pandoc 3.9.0.2",
-  "chrome": "Google Chrome 155.0.8059.82",
+  "chrome": "Google Chrome 155.0.8059.85",
   "pdftoppm": "pdftoppm version 26.04.0"
  }
 }

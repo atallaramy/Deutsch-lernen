@@ -1044,7 +1044,8 @@
     "lesson": "vhs-a1-l02",
     "source": "vhs-a1-filmskripte",
     "text": "Und daneben ist meine Tante."
-   }
+   },
+   "cue": "next to it; beside it"
   },
   "danke schön|thank-you": {
    "cue": "thank you! (two words — the second one also means ‘beautiful’)"
@@ -3852,6 +3853,157 @@
   },
   "Spiegelschrank|mirrored-cabinet": {
    "cue": "mirrored cabinet (a cupboard with mirrored doors)"
+  },
+  "bald|soon": {
+   "context": {
+    "lesson": "dw-a1-e6-l4",
+    "source": "script",
+    "text": "Vielleicht bald dein Zimmer?",
+    "target": "bald"
+   }
+  },
+  "doch|yes-to-a-negative-question": {
+   "context": {
+    "lesson": "dw-a1-e6-l4",
+    "source": "script",
+    "text": "Doch! Die sind superlaut und nicht nett!",
+    "target": "Doch"
+   }
+  },
+  "euer|your": {
+   "cue": "your (informal, ihr: you all) — the form before der or das nouns",
+   "context": {
+    "lesson": "dw-a1-e6-l4",
+    "source": "exercises",
+    "text": "Ist das euer Wohnzimmer?",
+    "target": "euer"
+   }
+  },
+  "ihr|her": {
+   "cue": "her (possessive) — the form before der or das nouns"
+  },
+  "ihr|their": {
+   "cue": "their — the form before der or das nouns"
+  },
+  "sein|his": {
+   "cue": "his — the form before der or das nouns",
+   "context": {
+    "lesson": "dw-a1-e6-l4",
+    "source": "exercises",
+    "text": "Das ist das Zimmer von Sebastian. Das ist sein Zimmer.",
+    "target": "sein"
+   }
+  },
+  "Armbanduhr|wristwatch": {
+   "context": {
+    "lesson": "dw-a1-e6-l4",
+    "source": "exercises",
+    "text": "Ich suche meine Armbanduhr.",
+    "target": "Armbanduhr"
+   }
+  },
+  "Föhn|hair-dryer": {
+   "context": {
+    "lesson": "dw-a1-e6-l4",
+    "source": "exercises",
+    "text": "Das ist mein Föhn.",
+    "target": "Föhn"
+   }
+  },
+  "Handtuch|hand-towel": {
+   "context": {
+    "lesson": "dw-a1-e6-l4",
+    "source": "exercises",
+    "text": "Ja, das ist sein Handtuch.",
+    "target": "Handtuch"
+   }
+  },
+  "Komm rein!|come-in": {
+   "context": {
+    "lesson": "dw-a1-e6-l4",
+    "source": "exercises",
+    "text": "Gerne. Komm rein.",
+    "target": "Komm rein"
+   }
+  },
+  "Kommt drauf an.|that-depends": {
+   "context": {
+    "lesson": "dw-a1-e6-l4",
+    "source": "script",
+    "text": "Na ja, das kommt drauf an.",
+    "target": "kommt drauf an"
+   }
+  },
+  "putzen|to-clean": {
+   "context": {
+    "lesson": "dw-a1-e6-l4",
+    "source": "script",
+    "text": "Ist es dreckig, dann putzen wir.",
+    "target": "putzen"
+   }
+  },
+  "sauber|clean": {
+   "context": {
+    "lesson": "dw-a1-e6-l4",
+    "source": "script",
+    "text": "Alle? Hier ist es nicht sehr sauber.",
+    "target": "sauber"
+   }
+  },
+  "schlafen|to-sleep": {
+   "context": {
+    "lesson": "dw-a1-e6-l4",
+    "source": "exercises",
+    "text": "Josi und Livi schlafen in einem Zimmer.",
+    "target": "schlafen"
+   }
+  },
+  "Uhr|clock": {
+   "cue": "clock (the object)",
+   "context": {
+    "lesson": "dw-a1-e6-l4",
+    "source": "exercises",
+    "text": "Ist das deine Uhr?",
+    "target": "Uhr"
+   },
+   "interferesWith": [
+    "Uhr|oclock"
+   ]
+  },
+  "Unterhose|underwear": {
+   "context": {
+    "lesson": "dw-a1-e6-l4",
+    "source": "exercises",
+    "text": "Nawin, ist das deine Unterhose?",
+    "target": "Unterhose"
+   }
+  },
+  "warm|warm": {
+   "context": {
+    "lesson": "dw-a1-e6-l4",
+    "source": "exercises",
+    "text": "Hier ist es immer warm.",
+    "target": "warm"
+   }
+  },
+  "Küchentisch|kitchen-table": {
+   "context": {
+    "lesson": "dw-a1-e6-l4",
+    "source": "exercises",
+    "text": "Sie war auf dem Küchentisch.",
+    "target": "Küchentisch"
+   }
+  },
+  "gleich daneben|right-next-to-it": {
+   "context": {
+    "lesson": "dw-a1-e6-l4",
+    "source": "exercises",
+    "text": "Und gleich daneben",
+    "target": "gleich daneben"
+   },
+   "interferesWith": [
+    "daneben|next-to-it"
+   ]
   }
  }
 }

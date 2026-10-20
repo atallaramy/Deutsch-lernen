@@ -1,8 +1,8 @@
 {
   "deck": "A1::Sentences",
-  "revision": "2026-10-18T20:00:00Z",
+  "revision": "2026-10-20T18:00:00Z",
   "qualityPolicy": "Productive sentences, replies, register switches and contextual forms from the lessons. No audio.",
-  "cards": 312,
+  "cards": 326,
   "sources": [
     {
       "id": "dw-a1-e0-l1",
@@ -356,6 +356,19 @@
       }
     },
     {
+      "id": "dw-a1-e6-l4",
+      "course": "dw-nicos-weg",
+      "title": "Unser Haus",
+      "url": "https://learngerman.dw.com/en/unser-haus/l-37439097",
+      "notesFile": "DW Deutsch lernen/A1/06_living/04_Unser Haus/Unser Haus.md",
+      "capturedEntries": 35,
+      "cards": {
+        "vocabulary": 34,
+        "articles": 9,
+        "sentences": 1
+      }
+    },
+    {
       "id": "vhs-a1-l02",
       "course": "vhs-lernportal",
       "title": "Lektion 2 · Meine Familie und ich",
@@ -384,9 +397,9 @@
   ],
   "packages": {
     "ANKI/A1/sentences.apkg": {
-      "notes": 312,
-      "cards": 312,
-      "sha256": "92fcb42ae7a0eae8ea01575c5f0e55102af0e616a5d912f04e7bdb804e5b980c"
+      "notes": 326,
+      "cards": 326,
+      "sha256": "1c5600a4ca70b1ad8cdcad37e141a9845850dbdabc89375eae62149fbc3c92ca"
     }
   }
 }

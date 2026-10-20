@@ -12,7 +12,7 @@
 | das Pronomen | pronoun | das Buch → es |
 | das Personalpronomen | personal pronoun | ich, du, er, sie, es |
 | das Indefinitpronomen | indefinite pronoun | Man isst in Italien Pizza. |
-| der Possessivartikel | possessive article | mein, dein, Ihr |
+| der Possessivartikel | possessive determiner | mein, dein, sein, ihr |
 | das Fragewort | question word | wer, wen, was, wo |
 | das Adjektiv | adjective | groß, klein, rot |
 | die Präposition | preposition | in, aus, nach |

@@ -461,6 +461,49 @@
    "hints": [
     "Mostly used in the plural: die Möbel."
    ]
+  },
+  "Uhr": {
+   "context": {
+    "lesson": "dw-a1-e6-l4",
+    "source": "exercises",
+    "text": "Die Uhr ist von Nawin."
+   }
+  },
+  "Handtuch": {
+   "context": {
+    "lesson": "dw-a1-e6-l4",
+    "source": "exercises",
+    "text": "Ist das das Handtuch von Nina?"
+   }
+  },
+  "Unterhose": {
+   "context": {
+    "lesson": "dw-a1-e6-l4",
+    "source": "exercises",
+    "text": "Das ist die Unterhose von Sebastian."
+   }
+  },
+  "Föhn": {
+   "context": {
+    "lesson": "dw-a1-e6-l4",
+    "source": "exercises",
+    "text": "Ist das der Föhn von Sebastian?"
+   }
+  },
+  "Armbanduhr": {
+   "hints": [
+    "Compound: the last part (…uhr) decides the gender."
+   ]
+  },
+  "Küchentisch": {
+   "hints": [
+    "Compound: the last part (…tisch) decides the gender."
+   ]
+  },
+  "Nachbarin": {
+   "hints": [
+    "Female form with -in: always die."
+   ]
   }
  }
 }
