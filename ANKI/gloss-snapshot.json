@@ -227,6 +227,18 @@
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-10-02"
   },
+  "Arzttermin": {
+   "url": "https://en.wiktionary.org/wiki/Arzttermin#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "doctor's appointment, medical appointment"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-21"
+  },
   "Asien": {
    "url": "https://en.wiktionary.org/wiki/Asien#German",
    "status": 200,
@@ -533,6 +545,22 @@
    ],
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-10-03"
+  },
+  "Bett": {
+   "url": "https://en.wiktionary.org/wiki/Bett#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "bed (piece of furniture, usually flat and soft, for resting or sleeping on; one's place of sleep or rest)"
+    },
+    {
+     "pos": "Noun",
+     "text": "bed (bottom of a body of water, such as an ocean, sea, lake, or river)"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-21"
   },
   "Bewerber": {
    "url": "https://en.wiktionary.org/wiki/Bewerber#German",
@@ -1710,6 +1738,13 @@
    "dictionary": "dict.cc",
    "fetchedOn": "2026-09-25"
   },
+  "Ich gehe am Freitag ins Café. Kommst du mit": {
+   "url": "https://www.dict.cc/?s=Ich+gehe+am+Freitag+ins+Caf%C3%A9.+Kommst+du+mit",
+   "status": 404,
+   "definitions": [],
+   "dictionary": "dict.cc",
+   "fetchedOn": "2026-10-21"
+  },
   "Ich habe ein Brillenetui, aber keine Brille": {
    "url": "https://www.dict.cc/?s=Ich+habe+ein+Brillenetui%2C+aber+keine+Brille",
    "status": 404,
@@ -2554,6 +2589,30 @@
    ],
    "dictionary": "en.wiktionary",
    "fetchedOn": "2026-09-27"
+  },
+  "Musik": {
+   "url": "https://en.wiktionary.org/wiki/Musik#German",
+   "status": 200,
+   "definitions": [
+    {
+     "pos": "Noun",
+     "text": "music"
+    },
+    {
+     "pos": "Noun",
+     "text": "music as a school subject, musical instruction"
+    },
+    {
+     "pos": "Noun",
+     "text": "a musical piece"
+    },
+    {
+     "pos": "Noun",
+     "text": "a band, mostly one performing at some event"
+    }
+   ],
+   "dictionary": "en.wiktionary",
+   "fetchedOn": "2026-10-21"
   },
   "Mutter": {
    "url": "https://en.wiktionary.org/wiki/Mutter#German",
@@ -4629,6 +4688,13 @@
    ],
    "dictionary": "dict.cc",
    "fetchedOn": "2026-09-27"
+  },
+  "Was machst du am Samstag": {
+   "url": "https://www.dict.cc/?s=Was+machst+du+am+Samstag",
+   "status": 404,
+   "definitions": [],
+   "dictionary": "dict.cc",
+   "fetchedOn": "2026-10-21"
   },
   "Weg": {
    "url": "https://en.wiktionary.org/wiki/Weg#German",

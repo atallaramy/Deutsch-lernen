@@ -1,8 +1,8 @@
 {
   "deck": "A1::Vocabulary",
-  "revision": "2026-10-20T20:12:00Z",
+  "revision": "2026-10-20T21:54:00Z",
   "qualityPolicy": "One typed German word or fixed expression per card, in a verified context where one exists. No audio.",
-  "cards": 958,
+  "cards": 982,
   "sources": [
     {
       "id": "dw-a1-e0-l1",
@@ -395,6 +395,19 @@
       }
     },
     {
+      "id": "dw-a1-e7-l3",
+      "course": "dw-nicos-weg",
+      "title": "Am Sonntag koche ich",
+      "url": "https://learngerman.dw.com/en/am-sonntag-koche-ich/l-37452061",
+      "notesFile": "DW Deutsch lernen/A1/07_days_and_times/03_Am Sonntag koche ich/Am Sonntag koche ich.md",
+      "capturedEntries": 35,
+      "cards": {
+        "vocabulary": 33,
+        "articles": 16,
+        "sentences": 2
+      }
+    },
+    {
       "id": "vhs-a1-l02",
       "course": "vhs-lernportal",
       "title": "Lektion 2 · Meine Familie und ich",
@@ -423,9 +436,9 @@
   ],
   "packages": {
     "ANKI/A1/vocabulary.apkg": {
-      "notes": 958,
-      "cards": 958,
-      "sha256": "37e58139ca2363c5240c2e2000f430d7bd16e9510a30f73825ca544f0f1fd9c7"
+      "notes": 982,
+      "cards": 982,
+      "sha256": "1362d487f39f966818b55e38764be5806983147d839e195308e5b293494d5940"
     }
   }
 }

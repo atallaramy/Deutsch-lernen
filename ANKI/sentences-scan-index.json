@@ -1,8 +1,8 @@
 {
   "deck": "A1::Sentences",
-  "revision": "2026-10-20T20:12:00Z",
+  "revision": "2026-10-20T21:54:00Z",
   "qualityPolicy": "Productive sentences, replies, register switches and contextual forms from the lessons. No audio.",
-  "cards": 368,
+  "cards": 393,
   "sources": [
     {
       "id": "dw-a1-e0-l1",
@@ -395,6 +395,19 @@
       }
     },
     {
+      "id": "dw-a1-e7-l3",
+      "course": "dw-nicos-weg",
+      "title": "Am Sonntag koche ich",
+      "url": "https://learngerman.dw.com/en/am-sonntag-koche-ich/l-37452061",
+      "notesFile": "DW Deutsch lernen/A1/07_days_and_times/03_Am Sonntag koche ich/Am Sonntag koche ich.md",
+      "capturedEntries": 35,
+      "cards": {
+        "vocabulary": 33,
+        "articles": 16,
+        "sentences": 2
+      }
+    },
+    {
       "id": "vhs-a1-l02",
       "course": "vhs-lernportal",
       "title": "Lektion 2 · Meine Familie und ich",
@@ -423,9 +436,9 @@
   ],
   "packages": {
     "ANKI/A1/sentences.apkg": {
-      "notes": 368,
-      "cards": 368,
-      "sha256": "30b1fb16c2da8fe93ff32e97fd293d0251f38f1c8409dcfff8dcf556e63cd0f7"
+      "notes": 393,
+      "cards": 393,
+      "sha256": "0131e2f5d709f892567059af72692f6167ec7b1aafcf8578cdec302c479f5480"
     }
   }
 }

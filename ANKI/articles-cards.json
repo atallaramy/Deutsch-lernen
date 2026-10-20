@@ -531,6 +531,13 @@
    "hints": [
     "A verb used as a noun (fernsehen → das Fernsehen) is always das."
    ]
+  },
+  "Arzttermin": {
+   "context": {
+    "lesson": "dw-a1-e7-l3",
+    "source": "exercises",
+    "text": "Wann ist der Arzttermin?"
+   }
   }
  }
 }

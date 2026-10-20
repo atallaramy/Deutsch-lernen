@@ -1,0 +1,594 @@
+{
+ "description": "Official source text captured by ANKI/harvest_sources.py for offline context verification.",
+ "harvestedOn": "2026-10-20",
+ "sources": [
+  {
+   "id": "exercises",
+   "kind": "dw-exercises",
+   "url": "https://learngerman.dw.com/en/am-sonntag-koche-ich/l-37452061",
+   "lessonUrl": "https://learngerman.dw.com/en/am-sonntag-koche-ich/l-37452061",
+   "vocabulary": {
+    "url": "https://learngerman.dw.com/en/am-sonntag-koche-ich/l-37452061/lv",
+    "items": [
+     {
+      "id": 41602404,
+      "german": "am Sonntag",
+      "english": "on Sunday",
+      "forms": ""
+     },
+     {
+      "id": 37535633,
+      "german": "an|fangen",
+      "english": "to start",
+      "forms": "fängt an, fing an, hat angefangen"
+     },
+     {
+      "id": 37540793,
+      "german": "auf|hören",
+      "english": "to finish; to stop",
+      "forms": "hört auf, hörte auf, hat aufgehört"
+     },
+     {
+      "id": 37540795,
+      "german": "der Dienstag, die Dienstage",
+      "english": "Tuesday",
+      "forms": ""
+     },
+     {
+      "id": 37540818,
+      "german": "der Donnerstag, die Donnerstage",
+      "english": "Thursday",
+      "forms": ""
+     },
+     {
+      "id": 38086936,
+      "german": "fertig",
+      "english": "finished",
+      "forms": ""
+     },
+     {
+      "id": 37540835,
+      "german": "der Freitag, die Freitage",
+      "english": "Friday",
+      "forms": ""
+     },
+     {
+      "id": 37743441,
+      "german": "(der) Fußball",
+      "english": "soccer",
+      "forms": "nur Singular, selten mit Artikel"
+     },
+     {
+      "id": 37433673,
+      "german": "gestern",
+      "english": "yesterday",
+      "forms": ""
+     },
+     {
+      "id": 42858253,
+      "german": "glauben",
+      "english": "to believe; to think",
+      "forms": "glaubt, glaubte, hat geglaubt"
+     },
+     {
+      "id": 37540845,
+      "german": "kochen",
+      "english": "to cook",
+      "forms": "kocht, kochte, hat gekocht"
+     },
+     {
+      "id": 37540917,
+      "german": "etwas korrigieren",
+      "english": "to correct something",
+      "forms": "korrigiert, korrigierte, hat korrigiert"
+     },
+     {
+      "id": 37536780,
+      "german": "lange",
+      "english": "long; for a long time",
+      "forms": ""
+     },
+     {
+      "id": 37540922,
+      "german": "(mit jemandem) mit|kommen",
+      "english": "to come along with someone",
+      "forms": "kommt mit, kam mit, ist mitgekommen"
+     },
+     {
+      "id": 37540938,
+      "german": "etwas mit|schreiben",
+      "english": "to take notes",
+      "forms": "schreibt mit, schrieb mit, hat mitgeschrieben"
+     },
+     {
+      "id": 37540939,
+      "german": "der Mittwoch, die Mittwoche",
+      "english": "Wednesday",
+      "forms": ""
+     },
+     {
+      "id": 37540940,
+      "german": "der Montag, die Montage",
+      "english": "Monday",
+      "forms": ""
+     },
+     {
+      "id": 37350957,
+      "german": "der Opa, die Opas",
+      "english": "grandpa",
+      "forms": ""
+     },
+     {
+      "id": 37540969,
+      "german": "der Samstag, die Samstage",
+      "english": "Saturday",
+      "forms": ""
+     },
+     {
+      "id": 37540970,
+      "german": "der Schüler, die Schüler",
+      "english": "student; pupil (male)",
+      "forms": ""
+     },
+     {
+      "id": 37540971,
+      "german": "die Schülerin, die Schülerinnen",
+      "english": "student; pupil (female)",
+      "forms": ""
+     },
+     {
+      "id": 37540991,
+      "german": "der Sonntag, die Sonntage",
+      "english": "Sunday",
+      "forms": ""
+     },
+     {
+      "id": 37540997,
+      "german": "spät",
+      "english": "late",
+      "forms": "später, am spätesten"
+     },
+     {
+      "id": 37541006,
+      "german": "die Übung, die Übungen",
+      "english": "exercise",
+      "forms": ""
+     },
+     {
+      "id": 37541160,
+      "german": "der Unterricht",
+      "english": "lesson",
+      "forms": "nur Singular"
+     },
+     {
+      "id": 37541504,
+      "german": "etwas vor|bereiten",
+      "english": "to prepare something",
+      "forms": "bereitet vor, bereitete vor, hat vorbereitet"
+     },
+     {
+      "id": 37541727,
+      "german": "jemandem etwas vor|lesen",
+      "english": "to read something to somebody",
+      "forms": "liest vor, las vor, hat vorgelesen"
+     },
+     {
+      "id": 37541775,
+      "german": "(etwas) waschen",
+      "english": "to wash (something)",
+      "forms": "wäscht, wusch, hat gewaschen"
+     },
+     {
+      "id": 40025872,
+      "german": "die Zeit",
+      "english": "time",
+      "forms": "hier nur Singular"
+     }
+    ]
+   },
+   "exercises": [
+    {
+     "id": "e-37452118",
+     "url": "https://learngerman.dw.com/en/babysitter-nico/l-37452061/e-37452118",
+     "title": "Babysitter Nico",
+     "texts": [
+      "Emma und Nico warten auf Lisa.",
+      "Emma macht Hausaufgaben.",
+      "Was machen Emma und Nico?"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37452194",
+     "url": "https://learngerman.dw.com/en/emmas-school-essay-1/l-37452061/e-37452194",
+     "title": "Emma's school essay (1)",
+     "texts": [
+      "Bring die Sätze in die richtige Reihenfolge.",
+      "Am Montag spiele ich mit Tante Lisa draußen Fußball. Am Dienstag gehe ich zum Musikkurs. Am Mittwoch wasche ich mit Opa das Auto. Am Donnerstag räume ich mein Zimmer auf. Am Freitag sehe ich fern. Am Samstag stehe ich spät auf. Am Sonntag koche ich mit Nico Paella."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37595004",
+     "url": "https://learngerman.dw.com/en/emmas-school-essay-2/l-37452061/e-37595004",
+     "title": "Emma's school essay (2)",
+     "texts": [
+      "Deutschkurse | Nicos Weg | A1 E07 | A1_E07_L3_S3_Foto1",
+      "Deutschkurse | Nicos Weg | A1 E07 | A1_E07_L3_S3_Foto4",
+      "Deutschkurse | Nicos Weg | A1 E07 | A1_E07_L3_S3_Foto3",
+      "Deutschkurse | Nicos Weg | A1 E07 | A1_E07_L3_S3_Foto2",
+      "Fußball spielen",
+      "kochen",
+      "zum Musikkurs gehen",
+      "Auto waschen"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37454148",
+     "url": "https://learngerman.dw.com/en/lisas-week-1/l-37452061/e-37454148",
+     "title": "Lisa's week (1)",
+     "texts": [
+      "Am Donnerstag hat Lisa einen Termin beim Arzt.",
+      "Am Dienstag und am Mittwoch ist der Deutschkurs.",
+      "Am Montag kochen Lisa und Nina.",
+      "Am Samstagvormittag putzt Lisa.",
+      "Welche Aussage ist richtig?",
+      "Welche Aussage ist richtig?",
+      "Welche Aussage ist richtig?",
+      "Welche Aussage ist richtig?",
+      "Info: If you want to say that something will happen on Saturday morning, you say \"Samstagvormittag\". That is also how it works with other times of the day, e.g. \"Mittwochmorgen\", \"Donnerstagnachmittag\"."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37454579",
+     "url": "https://learngerman.dw.com/en/lisas-week-2/l-37452061/e-37454579",
+     "title": "Lisa's week (2)",
+     "texts": [
+      "Montag",
+      "Dienstag",
+      "Mittwoch",
+      "Donnerstag",
+      "Samstag",
+      "Am #p# kocht Lisa mit Nina.\nAm #p# und am #p# ist der Deutschkurs.\nAm #p# geht Lisa zum Arzt.\nAm #p# putzt sie die Wohnung.",
+      "Schreib die passenden Wörter in die Lücken.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37454960",
+     "url": "https://learngerman.dw.com/en/lisas-week-3/l-37452061/e-37454960",
+     "title": "Lisa's week (3)",
+     "texts": [
+      "Play audio",
+      "… um 6 mit Nina.",
+      "Play audio",
+      "… einen Deutschkurs.",
+      "Play audio",
+      "Am Samstagvormittag …"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37458727",
+     "url": "https://learngerman.dw.com/en/lisas-work-1/l-37452061/e-37458727",
+     "title": "Lisa's work (1)",
+     "texts": [
+      "Lisa ist Deutschlehrerin. Am Samstag bereitet sie den Unterricht vor. Am Dienstag und Mittwoch fängt der Unterricht um 9:00 Uhr an. Lisa macht verschiedene Übungen mit den Kursteilnehmern. Sie liest einen Text vor. Die Schüler schreiben mit.\nDer Kurs hört immer um 12:00 Uhr auf. Am Abend korrigiert Lisa die Hausaufgaben.",
+      "Am Samstag bereitet sie den Unterricht vor.",
+      "Am Dienstag und Mittwoch fängt der Unterricht um 9:00 Uhr an.",
+      "Sie liest einen Text vor.",
+      "Die Schüler schreiben mit.",
+      "Der Kurs hört immer um 12:00 Uhr auf.",
+      "Wo sind trennbare Verben? Fünf Antworten sind richtig.",
+      "Don't worry: you don't have to exactly understand the sentences here yet. That's in the next exercise."
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37458964",
+     "url": "https://learngerman.dw.com/en/lisas-work-2/l-37452061/e-37458964",
+     "title": "Lisa's work (2)",
+     "texts": [
+      "Lisa ist Deutschlehrerin. Am Samstag bereitet sie den Unterricht vor. Am Dienstag und Mittwoch fängt der Unterricht um 9:00 Uhr an. Lisa macht verschiedene Übungen mit den Kursteilnehmern. Sie liest einen Text vor. Die Schüler schreiben mit.\nDer Kurs hört immer um 12:00 Uhr auf. Am Abend korrigiert Lisa die Hausaufgaben.",
+      "Lisa bereitet am Samstag den Unterricht vor.",
+      "Der Unterricht fängt am Dienstag um neun an.",
+      "Der Unterricht hört am Dienstag um zwölf auf.",
+      "Was macht Lisa am Samstag?",
+      "Did you notice anything? \"am Samstag\" does not necessarily have to be at the beginning of the sentence.",
+      "Wann beginnt der Unterricht am Dienstag?",
+      "Wann hört der Unterricht am Dienstag auf?"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37459378",
+     "url": "https://learngerman.dw.com/en/nico-is-learning-german-saying-long-words/l-37452061/e-37459378",
+     "title": "Nico is learning German: Saying long words",
+     "texts": [
+      "Mon-tag",
+      "Frei-tag-abend",
+      "Don-ners-tag-vor-mit-tag",
+      "vor-be-rei-ten",
+      "Mit-tag-es-sen",
+      "nor-ma-ler-wei-se"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37459180",
+     "url": "https://learngerman.dw.com/en/nico-is-learning-german-when-will-we-go-to-the-museum/l-37452061/e-37459180",
+     "title": "Nico is learning German: When will we go to the museum?",
+     "texts": [
+      "Sie gehen am Mittwoch ins Museum.",
+      "Der Englischkurs ist am Freitagnachmittag.",
+      "Die Frau ist von Montag bis Freitag in der Uni.",
+      "Der Arzttermin ist am Dienstagvormittag um 9:00 Uhr.",
+      "Wann gehen der Mann und die Frau ins Museum?",
+      "Wann ist der Englischkurs am Freitag?",
+      "Wann ist die Frau in der Uni?",
+      "Did you notice anything? You can use \"von\" and \"bis\" in cases other than the time of day.",
+      "Wann ist der Arzttermin?"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37458532",
+     "url": "https://learngerman.dw.com/en/plans-for-the-week/l-37452061/e-37458532",
+     "title": "Plans for the week",
+     "texts": [
+      "am",
+      "Am",
+      "um",
+      "Am",
+      "um",
+      "Um",
+      "am",
+      "Um",
+      "von",
+      "bis",
+      "am",
+      "Am",
+      "Sebastian: Wann stehst du #p# Sonntag auf?\nNico: #p# Sonntag stehe ich spät auf, #p# elf. Und du?\nSebastian: Ich schlafe nicht lange. #p# Sonntag stehe ich schon #p# neun auf. #p# zehn mache ich Sport.",
+      "Wähl für jede Lücke das richtige Wort aus.",
+      "Info: If you would like to say that something will happen on a certain weekday, you would use the preposition \"am\".",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "Nawin: Ich gehe #p# Freitag ins Café. Kommst du mit?\nNina: Wann denn?\nNawin: #p# sieben.\nNina: Das geht nicht. Am Freitag habe ich #p# sechs #p# acht einen Englischkurs. Aber was machst du #p# Samstag?\nNawin: #p# Samstag habe ich Zeit.",
+      "Wähl für jede Lücke das richtige Wort aus.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37460051",
+     "url": "https://learngerman.dw.com/en/saying-long-words/l-37452061/e-37460051",
+     "title": "Saying long words",
+     "texts": [
+      "Du hörst: essen\nDu sagst: es-sen",
+      "fernsehen",
+      "aufräumen",
+      "Mittag",
+      "Radiergummi"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37453610",
+     "url": "https://learngerman.dw.com/en/today-is-monday/l-37452061/e-37453610",
+     "title": "Today is Monday",
+     "texts": [
+      "(Montag – Dienstag – Mittwoch – Donnerstag – Freitag – Samstag – Sonntag)\nHeute ist Montag. Welcher Tag ist morgen? – Morgen ist Dienstag.\nWelcher Tag war gestern? – Gestern war Sonntag.",
+      "Heute ist Dienstag. Welcher Tag ist morgen?",
+      "Morgen ist …",
+      "Heute ist Freitag. Welcher Tag ist morgen?",
+      "Morgen ist …",
+      "Heute ist Freitag. Welcher Tag war gestern?",
+      "Gestern war …",
+      "Heute ist Samstag. Welcher Tag war gestern?",
+      "Gestern war …"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37453117",
+     "url": "https://learngerman.dw.com/en/weekdays-1/l-37452061/e-37453117",
+     "title": "Weekdays (1)",
+     "texts": [
+      "Montag",
+      "Dienstag",
+      "Mittwoch",
+      "Donnerstag",
+      "Freitag",
+      "Samstag",
+      "Sonntag",
+      "Mo. = #p#\nDi. = #p#\nMi. = #p#\nDo. = #p#\nFr. = #p#\nSa. = #p#\nSo. = #p#",
+      "Wähl die Wörter in der richtigen Reihenfolge aus.",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT"
+     ],
+     "vocabularyTags": []
+    },
+    {
+     "id": "e-37454384",
+     "url": "https://learngerman.dw.com/en/weekdays-2/l-37452061/e-37454384",
+     "title": "Weekdays (2)",
+     "texts": [
+      "Dienstag",
+      "Mittwoch",
+      "Donnerstag",
+      "Freitag",
+      "Samstag",
+      "Sonntag",
+      "Montag, #p#, #p#, #p#, #p#, #p#, #p#",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT",
+      "CONTINUOUS_TEXT"
+     ],
+     "vocabularyTags": []
+    }
+   ],
+   "pages": [
+    {
+     "id": "rs-39371120",
+     "url": "https://learngerman.dw.com/en/leisure-activities/l-37452061/rs-39371120",
+     "title": "Leisure activities",
+     "texts": [
+      "Leisure activities",
+      "Many Germans plan their free time carefully. This is also true for children. Parents often want to give their children the best opportunities from a young age. So don't be surprised if you meet German children who have a whole lot of activities planned after school. Sports are especially popular, like soccer, volleyball, tennis and horseback riding. Lots of children and teenagers also learn a musical instrument.\nSome children have a lot of hobbies and a full week, but most would have activities on one or two days a week. It's important to many families that their children have a chance to play during their free time."
+     ],
+     "html": "\n\n<p>Many Germans plan their free time carefully. This is also true for children. Parents often want to give their children the best opportunities from a young age. So don't be surprised if you meet German children who have a whole lot of activities planned after school. Sports are especially popular, like soccer, volleyball, tennis and horseback riding. Lots of children and teenagers also learn a musical instrument.</p>\n\n<p>Some children have a lot of hobbies and a full week, but most would have activities on one or two days a week. It's important to many families that their children have a chance to play during their free time.</p>\n"
+    },
+    {
+     "id": "gr-38305032",
+     "url": "https://learngerman.dw.com/en/prepositions-of-time-an/l-37452061/gr-38305032",
+     "title": "Prepositions of time: an",
+     "texts": [
+      "Prepositions of time: an",
+      "Wann sieht Emma fern? – Am Freitag.\nWhen you say on which day you do something, you use the preposition an together with the article dem. The two words merge to form am.\nWhen am is used to express time, it is often placed in first position in the sentence or immediately after the subject and the conjugated verb.\nAm Freitag sieht Emma fern.\nEmma sieht am Freitag fern.\nManchmal sieht Emma am Freitag fern."
+     ],
+     "html": "<p><em>Wann sieht Emma fern? – &#160;<strong>Am</strong> Freitag.</em></p>\n\n<p><span xml:lang=\"DE-DE\">When</span> you say on which day you do something, you use the preposition <em><span xml:lang=\"DE-DE\">an</span></em><span xml:lang=\"DE-DE\"><em> </em>together</span> with the article <em><span xml:lang=\"DE-DE\">dem</span></em><span xml:lang=\"DE-DE\">. The </span>two words merge to form <em><span xml:lang=\"DE-DE\">am</span></em><span xml:lang=\"DE-DE\">.</span>&#160;</p>\n\n<p><span xml:lang=\"DE-DE\">When</span> <em><span xml:lang=\"DE-DE\">am</span></em><span xml:lang=\"DE-DE\"><em> </em>is</span> used to express time, it is often placed in first position in the sentence or immediately after the subject and the conjugated verb.&#160;</p>\n\n<p><em><strong>Am Freitag</strong></em> sieht <em>Emma fern.</em></p>\n\n<p><em>Emma</em> sieht<em> <strong>am</strong> <strong>Freitag</strong> fern.</em></p>\n\n<p><em>Manchmal</em> sieht<em> Emma <strong>am</strong> <strong>Freitag</strong> fern.</em></p>\n"
+    }
+   ]
+  },
+  {
+   "id": "script",
+   "kind": "dw-script-pdf",
+   "url": "https://learngerman.dw.com/downloads/52719997/nicos-weg-a1-e7-l3-manuskript-und-wortschatz-englisch.pdf",
+   "localFile": "DW Deutsch lernen/A1/07_days_and_times/03_Am Sonntag koche ich/Materials/Script and vocabulary (English).pdf",
+   "sha256": "d335b5d27c46b80f6766139c44ae438643dbea46e711f402d6aa0be33395a308",
+   "lines": [
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "(7) Days and times | Am Sonntag koche ich",
+    "When Lisa comes home in the evening, Nico and Emma are sitting eating",
+    "dinner. They tell Lisa about their day. Everything went as planned. Or did",
+    "it?",
+    "Script",
+    "LISA:",
+    "Hallo!",
+    "EMMA:",
+    "Hallo!",
+    "NICO:",
+    "Hallo!",
+    "LISA:",
+    "Was ist das denn?",
+    "NICO:",
+    "Abendessen.",
+    "LISA:",
+    "Das sehe ich.",
+    "EMMA:",
+    "Wie war dein Tag, Tante Lisa?",
+    "LISA:",
+    "Gut, und wie war euer Tag?",
+    "NICO:",
+    "Super.",
+    "EMMA:",
+    "Ich koche total gerne Gemüse.",
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "NICO:",
+    "Ja, ich auch. Du spielst sehr gut Flöte.",
+    "EMMA:",
+    "Meine Ferienwoche: Am Montag spiele ich mit Tante Lisa draußen Fußball. Am",
+    "Dienstag gehe ich zum Musikkurs.",
+    "NICO:",
+    "Du gehst zum Musikkurs?",
+    "EMMA:",
+    "Ja, manchmal … Am Mittwoch wasche ich mit Opa das Auto. Am Donnerstag",
+    "räume ich mein Zimmer auf.",
+    "NICO:",
+    "Das glaube ich nicht!",
+    "EMMA:",
+    "Am Freitag sehe ich fern. Am Samstag stehe ich spät auf. Am Sonntag …",
+    "NICO:",
+    "Am Sonntag koche ich mit Nico Paella.",
+    "EMMA:",
+    "Au ja!",
+    "NICO:",
+    "Bist du fertig?",
+    "EMMA:",
+    "Ja.",
+    "NICO:",
+    "Cool!",
+    "EMMA:",
+    "Ich lese gleich noch ein Buch für die Schule und dann gehe ich ins Bett.",
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "LISA:",
+    "Ah.",
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "Vocabulary (from script and lesson)",
+    "am Sonntag – on Sunday",
+    "an|fangen – to start",
+    "fängt an, fing an, hat angefangen",
+    "auf|hören – to finish; to stop",
+    "hört auf, hörte auf, hat aufgehört",
+    "der Dienstag, die Dienstage – Tuesday",
+    "der Donnerstag, die Donnerstage – Thursday",
+    "fertig – finished",
+    "der Freitag, die Freitage – Friday",
+    "der Fußball – soccer",
+    "nur Singular, selten mit Artikel",
+    "gestern – yesterday",
+    "glauben – to believe; to think",
+    "glaubt, glaubte, hat geglaubt",
+    "kochen – to cook",
+    "kocht, kochte, hat gekocht",
+    "etwas korrigieren – to correct something",
+    "korrigiert, korrigierte, hat korrigiert",
+    "lange – long; for a long time",
+    "(mit jemandem) mit|kommen – to come along with someone",
+    "kommt mit, kam mit, ist mitgekommen",
+    "etwas mit|schreiben – to take notes",
+    "schreibt mit, schrieb mit, hat mitgeschrieben",
+    "der Mittwoch, die Mittwoche – Wednesday",
+    "Nicos Weg | A1",
+    "Script and vocabulary",
+    "der Montag, die Montage – Monday",
+    "der Opa, die Opas – grandpa",
+    "der Samstag, die Samstage – Saturday",
+    "der Schüler, die Schüler – student; pupil (male)",
+    "die Schülerin, die Schülerinnen – student; pupil (female)",
+    "der Sonntag, die Sonntage – Sunday",
+    "spät – late",
+    "später, am spätesten",
+    "die Übung, die Übungen – exercise",
+    "der Unterricht – lesson",
+    "nur Singular",
+    "etwas vor|bereiten – to prepare something",
+    "bereitet vor, bereitete vor, hat vorbereitet",
+    "jemandem etwas vor|lesen – to read something to somebody",
+    "liest vor, las vor, hat vorgelesen",
+    "(etwas) waschen – to wash (something)",
+    "wäscht, wusch, hat gewaschen",
+    "die Zeit – time",
+    "hier nur Singular"
+   ]
+  }
+ ]
+}

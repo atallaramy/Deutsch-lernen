@@ -1,6 +1,6 @@
 # Trennbare Verben: aufstehen, einkaufen, fernsehen
 
-*das trennbare Verb* (separable verb) · A1 · from DW A1 E7 L2 *Tageszeiten* · checked 2026-10-20
+*das trennbare Verb* (separable verb) · A1 · from DW A1 E7 L2 *Tageszeiten* and E7 L3 *Am Sonntag koche ich* · checked 2026-10-21
 
 ## The rule
 
@@ -49,7 +49,7 @@ All lines are from the DW E7 L2 grammar page, script and exercises.
 
 | Prefix | Separable? | Verbs from my lessons |
 |---|---|---|
-| ab-, an-, auf-, aus-, ein-, mit-, nach-, weg-, zu- | always | absagen, anrufen, aufpassen, aufräumen, aufstehen, ausgehen, einkaufen |
+| ab-, an-, auf-, aus-, ein-, mit-, nach-, weg-, zu-; also vor- | always | absagen, anfangen, anrufen, aufhören, aufpassen, aufräumen, aufstehen, ausgehen, einkaufen, mitkommen, mitschreiben, vorbereiten, vorlesen |
 | be-, ent-, er-, ver-, zer- | never | beginnen, verkaufen |
 | durch-, über-, um-, unter- | either | umziehen (separable) |
 
@@ -67,6 +67,10 @@ All lines are from the DW E7 L2 grammar page, script and exercises.
 | <verb>Rufst</verb> du heute deine Familie **an**? | [DW A1 E7 L2 · exercise](https://learngerman.dw.com/en/nico-is-learning-german-do-you-get-up-at-6/l-37445884/e-37454233) |
 | Ich <verb>rufe</verb> Manja **an**. Wir <verb>sagen</verb> den Unterricht **ab**. | [DW A1 E7 L1 · script](https://learngerman.dw.com/downloads/52719975/nicos-weg-a1-e7-l1-manuskript-und-wortschatz-englisch.pdf) |
 | Nico, <verb>passt</verb> du morgen auf Emma **auf**? | [DW A1 E7 L1 · script](https://learngerman.dw.com/downloads/52719975/nicos-weg-a1-e7-l1-manuskript-und-wortschatz-englisch.pdf) |
+| Am Samstag <verb>bereitet</verb> sie den Unterricht **vor**. | [DW A1 E7 L3 · exercise](https://learngerman.dw.com/en/lisas-work-1/l-37452061/e-37458727) |
+| Sie <verb>liest</verb> einen Text **vor**. Die Schüler <verb>schreiben</verb> **mit**. | [DW A1 E7 L3 · exercise](https://learngerman.dw.com/en/lisas-work-1/l-37452061/e-37458727) |
+| Der Kurs <verb>hört</verb> immer um 12:00 Uhr **auf**. | [DW A1 E7 L3 · exercise](https://learngerman.dw.com/en/lisas-work-1/l-37452061/e-37458727) |
+| <verb>Kommst</verb> du **mit**? | [DW A1 E7 L3 · exercise](https://learngerman.dw.com/en/plans-for-the-week/l-37452061/e-37458532) |
 
 ## Common mistakes
 
@@ -74,6 +78,7 @@ All lines are from the DW E7 L2 grammar page, script and exercises.
 |---|---|---|---|
 | rufen | rufe | *ich rufe … an*: the ending follows the person. | [my mistakes: Tageszeiten](<../../DW Deutsch lernen/A1/07_days_and_times/02_Tageszeiten/Materials/mistakes.md>) |
 | aufräume | aufräumen | The infinitive ends in *-en*. | [my mistakes: Tageszeiten](<../../DW Deutsch lernen/A1/07_days_and_times/02_Tageszeiten/Materials/mistakes.md>) |
+| um. | auf. | *aufhören*: the prefix *auf* goes to the end: *Der Kurs hört … auf.* | [my mistakes: Am Sonntag koche ich](<../../DW Deutsch lernen/A1/07_days_and_times/03_Am Sonntag koche ich/Materials/mistakes.md>) |
 | Ich aufstehe um sieben. | Ich stehe um sieben auf. | The prefix goes to the end. | rule |
 | Lisa kauft ein im Supermarkt. | Lisa kauft im Supermarkt ein. | The prefix comes at the very end. | rule |
 | Wann du stehst auf? | Wann stehst du auf? | After the W-word comes the verb, then the subject. | rule |
@@ -96,9 +101,12 @@ All lines are from the DW E7 L2 grammar page, script and exercises.
 - Word-order game: `order-when-get-up-tomorrow`, `order-when-lisa-calls-london`, `order-when-we-tidy-room`, `order-when-you-watch-tv`
 - `reply-yes-i-call-my-family-today`, `shopping-almost-always-before-noon`
 - E7 L1: `we-cancel-the-lesson`, `will-you-look-after-emma`
+- E7 L3: `on-thursday-tidy-room`, `on-friday-watch-tv`, `on-saturday-get-up-late`,
+  `reply-lesson-starts-tuesday-at-nine`, `reply-lisa-prepares-lesson-on-saturday`, `invite-cafe-friday-come-along`
 
 ## My rule in my own words
 
 > …
 
-My notes: [Tageszeiten](<../../DW Deutsch lernen/A1/07_days_and_times/02_Tageszeiten/Tageszeiten.md>)
+My notes: [Tageszeiten](<../../DW Deutsch lernen/A1/07_days_and_times/02_Tageszeiten/Tageszeiten.md>) ·
+[Am Sonntag koche ich](<../../DW Deutsch lernen/A1/07_days_and_times/03_Am Sonntag koche ich/Am Sonntag koche ich.md>)

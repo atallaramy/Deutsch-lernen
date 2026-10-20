@@ -1,8 +1,8 @@
 {
   "deck": "A1::Articles",
-  "revision": "2026-10-20T20:12:00Z",
+  "revision": "2026-10-20T21:54:00Z",
   "qualityPolicy": "Typed der/die/das for singular nouns. Plural and dependable gender patterns after answering. No audio.",
-  "cards": 399,
+  "cards": 409,
   "sources": [
     {
       "id": "dw-a1-e0-l1",
@@ -395,6 +395,19 @@
       }
     },
     {
+      "id": "dw-a1-e7-l3",
+      "course": "dw-nicos-weg",
+      "title": "Am Sonntag koche ich",
+      "url": "https://learngerman.dw.com/en/am-sonntag-koche-ich/l-37452061",
+      "notesFile": "DW Deutsch lernen/A1/07_days_and_times/03_Am Sonntag koche ich/Am Sonntag koche ich.md",
+      "capturedEntries": 35,
+      "cards": {
+        "vocabulary": 33,
+        "articles": 16,
+        "sentences": 2
+      }
+    },
+    {
       "id": "vhs-a1-l02",
       "course": "vhs-lernportal",
       "title": "Lektion 2 · Meine Familie und ich",
@@ -423,9 +436,9 @@
   ],
   "packages": {
     "ANKI/A1/articles.apkg": {
-      "notes": 399,
-      "cards": 399,
-      "sha256": "ba705b91def76b58a6973784e9056d6d4486892a1b75e12c75a1ccb064dbf4af"
+      "notes": 409,
+      "cards": 409,
+      "sha256": "1e05d62f266596c3813e8a7c3b63998356afe18d1fa0a8a1de353ae5a42c3b86"
     }
   }
 }

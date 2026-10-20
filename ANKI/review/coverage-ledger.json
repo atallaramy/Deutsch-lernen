@@ -1,5 +1,5 @@
 {
- "revision": "2026-10-20T19:30:00Z",
+ "revision": "2026-10-20T21:54:00Z",
  "entries": {
   "dw-a1-e0-l1:auch": [
    "vocab:auch|also"
@@ -3960,6 +3960,127 @@
   ],
   "dw-a1-e7-l2:ich-kaufe-fast-immer-am-vormittag-ein": [
    "sentence:shopping-almost-always-before-noon"
+  ],
+  "dw-a1-e7-l3:am-sonntag": [
+   "vocab:am Sonntag|on-sunday"
+  ],
+  "dw-a1-e7-l3:anfangen": [
+   "vocab:anfangen|to-begin"
+  ],
+  "dw-a1-e7-l3:aufhoeren": [
+   "vocab:aufhören|to-stop"
+  ],
+  "dw-a1-e7-l3:der-dienstag": [
+   "article:Dienstag|m",
+   "vocab:Dienstag|tuesday"
+  ],
+  "dw-a1-e7-l3:der-donnerstag": [
+   "article:Donnerstag|m",
+   "vocab:Donnerstag|thursday"
+  ],
+  "dw-a1-e7-l3:fertig": [
+   "vocab:fertig|finished"
+  ],
+  "dw-a1-e7-l3:der-freitag": [
+   "article:Freitag|m",
+   "vocab:Freitag|friday"
+  ],
+  "dw-a1-e7-l3:der-fussball": [
+   "article:Fußball|m",
+   "vocab:Fußball|soccer"
+  ],
+  "dw-a1-e7-l3:gestern": [
+   "vocab:gestern|yesterday"
+  ],
+  "dw-a1-e7-l3:glauben": [
+   "vocab:glauben|to-believe"
+  ],
+  "dw-a1-e7-l3:kochen": [
+   "vocab:kochen|to-cook"
+  ],
+  "dw-a1-e7-l3:etwas-korrigieren": [
+   "vocab:korrigieren|to-correct"
+  ],
+  "dw-a1-e7-l3:lange": [
+   "vocab:lange|for-a-long-time"
+  ],
+  "dw-a1-e7-l3:mit-jemandem-mitkommen": [
+   "vocab:mitkommen|to-come-along"
+  ],
+  "dw-a1-e7-l3:etwas-mitschreiben": [
+   "vocab:mitschreiben|to-take-notes"
+  ],
+  "dw-a1-e7-l3:der-mittwoch": [
+   "article:Mittwoch|m",
+   "vocab:Mittwoch|wednesday"
+  ],
+  "dw-a1-e7-l3:der-montag": [
+   "article:Montag|m",
+   "vocab:Montag|monday"
+  ],
+  "dw-a1-e7-l3:der-opa": [
+   "article:Opa|m",
+   "vocab:Opa|grandpa"
+  ],
+  "dw-a1-e7-l3:der-samstag": [
+   "article:Samstag|m",
+   "vocab:Samstag|saturday"
+  ],
+  "dw-a1-e7-l3:der-schueler": [
+   "article:Schüler|m",
+   "vocab:Schüler|pupil-male"
+  ],
+  "dw-a1-e7-l3:die-schuelerin": [
+   "article:Schülerin|f",
+   "vocab:Schülerin|pupil-female"
+  ],
+  "dw-a1-e7-l3:der-sonntag": [
+   "article:Sonntag|m",
+   "vocab:Sonntag|sunday"
+  ],
+  "dw-a1-e7-l3:spaet": [
+   "vocab:spät|late"
+  ],
+  "dw-a1-e7-l3:die-uebung": [
+   "article:Übung|f",
+   "vocab:Übung|exercise"
+  ],
+  "dw-a1-e7-l3:der-unterricht": [
+   "article:Unterricht|m",
+   "vocab:Unterricht|lesson"
+  ],
+  "dw-a1-e7-l3:etwas-vorbereiten": [
+   "vocab:vorbereiten|to-prepare"
+  ],
+  "dw-a1-e7-l3:jemandem-etwas-vorlesen": [
+   "vocab:vorlesen|to-read-aloud"
+  ],
+  "dw-a1-e7-l3:etwas-waschen": [
+   "vocab:waschen|to-wash"
+  ],
+  "dw-a1-e7-l3:die-zeit": [
+   "article:Zeit|f",
+   "vocab:Zeit|time"
+  ],
+  "dw-a1-e7-l3:der-musikkurs": [
+   "article:Musikkurs|m",
+   "vocab:Musikkurs|music-course"
+  ],
+  "dw-a1-e7-l3:gleich": [
+   "vocab:gleich|in-a-moment"
+  ],
+  "dw-a1-e7-l3:ins-bett-gehen": [
+   "vocab:ins Bett gehen|to-go-to-bed"
+  ],
+  "dw-a1-e7-l3:der-arzttermin": [
+   "article:Arzttermin|m",
+   "vocab:Arzttermin|doctors-appointment"
+  ],
+  "dw-a1-e7-l3:ich-gehe-am-freitag-ins-cafe-kommst-du-mit": [
+   "sentence:invite-cafe-friday-come-along"
+  ],
+  "dw-a1-e7-l3:was-machst-du-am-samstag": [
+   "sentence:what-are-you-doing-on-saturday"
   ],
   "vhs-a1-l02:die-familie": [
    "article:Familie|f",

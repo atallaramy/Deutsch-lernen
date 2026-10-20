@@ -1,6 +1,6 @@
 {
  "schemaVersion": 3,
- "revision": "2026-10-20T20:12:00Z",
+ "revision": "2026-10-20T21:54:00Z",
  "policy": "Faithful capture of what the learner studied: official lesson glossaries, useful words and phrases from the official scripts and exercises, and items from the learner's notes. Official spelling is canonical; the learner's spelling is kept as learnerForm. Nothing captured is removed. pendingEntries wait for the learner's yes/no and are never built; declinedEntries record a learner's no.",
  "courses": [
   {
@@ -18033,6 +18033,577 @@
         "learner-notes"
        ],
        "learnerForm": "Ich kaufe fast immer um Vormittag ein.",
+       "home": "sentences"
+      }
+     ],
+     "pendingEntries": [],
+     "declinedEntries": []
+    },
+    {
+     "id": "dw-a1-e7-l3",
+     "legacyId": null,
+     "level": "A1",
+     "title": "Am Sonntag koche ich",
+     "unit": 7,
+     "lesson": 3,
+     "url": "https://learngerman.dw.com/en/am-sonntag-koche-ich/l-37452061",
+     "notesFile": "DW Deutsch lernen/A1/07_days_and_times/03_Am Sonntag koche ich/Am Sonntag koche ich.md",
+     "lessonDeck": {
+      "file": "DW Deutsch lernen/A1/07_days_and_times/03_Am Sonntag koche ich/DW A1 E7L3 Am Sonntag koche ich - Vocabulary.apkg",
+      "deck": "A1::DW::Lessons::E7 L3 Am Sonntag koche ich"
+     },
+     "snapshot": "DW Deutsch lernen/A1/07_days_and_times/03_Am Sonntag koche ich/Materials/source-snapshot.json",
+     "sources": [
+      {
+       "id": "script",
+       "kind": "dw-script-pdf",
+       "url": "https://learngerman.dw.com/downloads/52719997/nicos-weg-a1-e7-l3-manuskript-und-wortschatz-englisch.pdf",
+       "localFile": "DW Deutsch lernen/A1/07_days_and_times/03_Am Sonntag koche ich/Materials/Script and vocabulary (English).pdf"
+      },
+      {
+       "id": "exercises",
+       "kind": "dw-exercises",
+       "url": "https://learngerman.dw.com/en/am-sonntag-koche-ich/l-37452061"
+      }
+     ],
+     "entries": [
+      {
+       "id": "am-sonntag",
+       "german": "am Sonntag",
+       "english": "on Sunday",
+       "pos": "expression",
+       "lemma": "am Sonntag",
+       "sense": "on-sunday",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "anfangen",
+       "german": "anfangen",
+       "english": "to start",
+       "pos": "verb",
+       "lemma": "anfangen",
+       "sense": "to-begin",
+       "forms": "fängt an, fing an, hat angefangen",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "vocabularyPageForm": "an|fangen",
+       "home": "vocabulary"
+      },
+      {
+       "id": "aufhoeren",
+       "german": "aufhören",
+       "english": "to finish; to stop",
+       "pos": "verb",
+       "lemma": "aufhören",
+       "sense": "to-stop",
+       "forms": "hört auf, hörte auf, hat aufgehört",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "vocabularyPageForm": "auf|hören",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-dienstag",
+       "german": "der Dienstag",
+       "english": "Tuesday",
+       "pos": "noun",
+       "lemma": "Dienstag",
+       "sense": "tuesday",
+       "plural": "die Dienstage",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-donnerstag",
+       "german": "der Donnerstag",
+       "english": "Thursday",
+       "pos": "noun",
+       "lemma": "Donnerstag",
+       "sense": "thursday",
+       "plural": "die Donnerstage",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "fertig",
+       "german": "fertig",
+       "english": "finished",
+       "pos": "word",
+       "lemma": "fertig",
+       "sense": "finished",
+       "origin": [
+        "dw-glossary",
+        "dw-script"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-freitag",
+       "german": "der Freitag",
+       "english": "Friday",
+       "pos": "noun",
+       "lemma": "Freitag",
+       "sense": "friday",
+       "plural": "die Freitage",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "dw-grammar-page",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-fussball",
+       "german": "der Fußball",
+       "english": "soccer",
+       "pos": "noun",
+       "lemma": "Fußball",
+       "sense": "soccer",
+       "note": "nur Singular, selten mit Artikel",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "vocabularyPageForm": "(der) Fußball",
+       "home": "vocabulary"
+      },
+      {
+       "id": "gestern",
+       "german": "gestern",
+       "english": "yesterday",
+       "pos": "word",
+       "lemma": "gestern",
+       "sense": "yesterday",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "glauben",
+       "german": "glauben",
+       "english": "to believe; to think",
+       "pos": "verb",
+       "lemma": "glauben",
+       "sense": "to-believe",
+       "forms": "glaubt, glaubte, hat geglaubt",
+       "origin": [
+        "dw-glossary",
+        "dw-script"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "kochen",
+       "german": "kochen",
+       "english": "to cook",
+       "pos": "verb",
+       "lemma": "kochen",
+       "sense": "to-cook",
+       "forms": "kocht, kochte, hat gekocht",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "etwas-korrigieren",
+       "german": "(etwas) korrigieren",
+       "english": "to correct something",
+       "pos": "verb",
+       "lemma": "korrigieren",
+       "sense": "to-correct",
+       "forms": "korrigiert, korrigierte, hat korrigiert",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises"
+       ],
+       "vocabularyPageForm": "etwas korrigieren",
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "lange",
+       "german": "lange",
+       "english": "long; for a long time",
+       "pos": "word",
+       "lemma": "lange",
+       "sense": "for-a-long-time",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "mit-jemandem-mitkommen",
+       "german": "(mit jemandem) mitkommen",
+       "english": "to come along with someone",
+       "pos": "verb",
+       "lemma": "mitkommen",
+       "sense": "to-come-along",
+       "forms": "kommt mit, kam mit, ist mitgekommen",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "vocabularyPageForm": "(mit jemandem) mit|kommen",
+       "home": "vocabulary"
+      },
+      {
+       "id": "etwas-mitschreiben",
+       "german": "(etwas) mitschreiben",
+       "english": "to take notes",
+       "pos": "verb",
+       "lemma": "mitschreiben",
+       "sense": "to-take-notes",
+       "forms": "schreibt mit, schrieb mit, hat mitgeschrieben",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "vocabularyPageForm": "etwas mit|schreiben",
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-mittwoch",
+       "german": "der Mittwoch",
+       "english": "Wednesday",
+       "pos": "noun",
+       "lemma": "Mittwoch",
+       "sense": "wednesday",
+       "plural": "die Mittwoche",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-montag",
+       "german": "der Montag",
+       "english": "Monday",
+       "pos": "noun",
+       "lemma": "Montag",
+       "sense": "monday",
+       "plural": "die Montage",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "learnerForm": "Montat",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-opa",
+       "german": "der Opa",
+       "english": "grandpa",
+       "pos": "noun",
+       "lemma": "Opa",
+       "sense": "grandpa",
+       "plural": "die Opas",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-samstag",
+       "german": "der Samstag",
+       "english": "Saturday",
+       "pos": "noun",
+       "lemma": "Samstag",
+       "sense": "saturday",
+       "plural": "die Samstage",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-schueler",
+       "german": "der Schüler",
+       "english": "student; pupil (male)",
+       "pos": "noun",
+       "lemma": "Schüler",
+       "sense": "pupil-male",
+       "plural": "die Schüler",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-schuelerin",
+       "german": "die Schülerin",
+       "english": "student; pupil (female)",
+       "pos": "noun",
+       "lemma": "Schülerin",
+       "sense": "pupil-female",
+       "plural": "die Schülerinnen",
+       "origin": [
+        "dw-glossary"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-sonntag",
+       "german": "der Sonntag",
+       "english": "Sunday",
+       "pos": "noun",
+       "lemma": "Sonntag",
+       "sense": "sunday",
+       "plural": "die Sonntage",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "learnerForm": "Sontag",
+       "home": "vocabulary"
+      },
+      {
+       "id": "spaet",
+       "german": "spät",
+       "english": "late",
+       "pos": "word",
+       "lemma": "spät",
+       "sense": "late",
+       "forms": "später, am spätesten",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-uebung",
+       "german": "die Übung",
+       "english": "exercise",
+       "pos": "noun",
+       "lemma": "Übung",
+       "sense": "exercise",
+       "plural": "die Übungen",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-unterricht",
+       "german": "der Unterricht",
+       "english": "lesson",
+       "pos": "noun",
+       "lemma": "Unterricht",
+       "sense": "lesson",
+       "note": "nur Singular",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "etwas-vorbereiten",
+       "german": "(etwas) vorbereiten",
+       "english": "to prepare something",
+       "pos": "verb",
+       "lemma": "vorbereiten",
+       "sense": "to-prepare",
+       "forms": "bereitet vor, bereitete vor, hat vorbereitet",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "vocabularyPageForm": "etwas vor|bereiten",
+       "learnerForm": "Vor|bereiten",
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "jemandem-etwas-vorlesen",
+       "german": "(jemandem etwas) vorlesen",
+       "english": "to read something to somebody",
+       "pos": "verb",
+       "lemma": "vorlesen",
+       "sense": "to-read-aloud",
+       "forms": "liest vor, las vor, hat vorgelesen",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "vocabularyPageForm": "jemandem etwas vor|lesen",
+       "level": "beyond-A1",
+       "home": "vocabulary"
+      },
+      {
+       "id": "etwas-waschen",
+       "german": "(etwas) waschen",
+       "english": "to wash (something)",
+       "pos": "verb",
+       "lemma": "waschen",
+       "sense": "to-wash",
+       "forms": "wäscht, wusch, hat gewaschen",
+       "origin": [
+        "dw-glossary",
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "die-zeit",
+       "german": "die Zeit",
+       "english": "time",
+       "pos": "noun",
+       "lemma": "Zeit",
+       "sense": "time",
+       "note": "hier nur Singular",
+       "origin": [
+        "dw-glossary",
+        "dw-exercises"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-musikkurs",
+       "german": "der Musikkurs",
+       "english": "music course",
+       "pos": "noun",
+       "lemma": "Musikkurs",
+       "sense": "music-course",
+       "plural": "die Musikkurse",
+       "origin": [
+        "dw-script",
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "level": "beyond-A1",
+       "glossLookup": [
+        "Musik",
+        "Kurs"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "gleich",
+       "german": "gleich",
+       "english": "in a moment; right away",
+       "pos": "word",
+       "lemma": "gleich",
+       "sense": "in-a-moment",
+       "origin": [
+        "dw-script"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "ins-bett-gehen",
+       "german": "ins Bett gehen",
+       "english": "to go to bed",
+       "pos": "expression",
+       "lemma": "ins Bett gehen",
+       "sense": "to-go-to-bed",
+       "origin": [
+        "dw-script"
+       ],
+       "glossLookup": [
+        "Bett",
+        "gehen"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "der-arzttermin",
+       "german": "der Arzttermin",
+       "english": "doctor's appointment",
+       "pos": "noun",
+       "lemma": "Arzttermin",
+       "sense": "doctors-appointment",
+       "plural": "die Arzttermine",
+       "origin": [
+        "dw-exercises"
+       ],
+       "home": "vocabulary"
+      },
+      {
+       "id": "ich-gehe-am-freitag-ins-cafe-kommst-du-mit",
+       "german": "Ich gehe am Freitag ins Café. Kommst du mit?",
+       "english": "I'm going to the café on Friday. Are you coming along?",
+       "pos": "expression",
+       "lemma": "Ich gehe am Freitag ins Café. Kommst du mit?",
+       "sense": "going-to-the-cafe-on-friday-coming-along",
+       "origin": [
+        "dw-exercises",
+        "learner-notes"
+       ],
+       "learnerForm": "Ich gehe am Freitag in Cafe. Kommst du mit?",
+       "home": "sentences"
+      },
+      {
+       "id": "was-machst-du-am-samstag",
+       "german": "Was machst du am Samstag?",
+       "english": "What are you doing on Saturday?",
+       "pos": "expression",
+       "lemma": "Was machst du am Samstag?",
+       "sense": "what-are-you-doing-on-saturday",
+       "origin": [
+        "dw-exercises",
+        "learner-notes"
+       ],
        "home": "sentences"
       }
      ],

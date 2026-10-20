@@ -4384,6 +4384,106 @@
   },
   "wissen|to-know": {
    "cue": "to know (a fact)"
+  },
+  "Dienstag|tuesday": {
+   "context": {
+    "lesson": "dw-a1-e7-l3",
+    "source": "exercises",
+    "text": "Am Dienstag und am Mittwoch ist der Deutschkurs.",
+    "target": "Dienstag"
+   }
+  },
+  "Donnerstag|thursday": {
+   "context": {
+    "lesson": "dw-a1-e7-l3",
+    "source": "exercises",
+    "text": "Am Donnerstag hat Lisa einen Termin beim Arzt.",
+    "target": "Donnerstag"
+   }
+  },
+  "Freitag|friday": {
+   "context": {
+    "lesson": "dw-a1-e7-l3",
+    "source": "exercises",
+    "text": "Emma sieht am Freitag fern.",
+    "target": "Freitag"
+   }
+  },
+  "kochen|to-cook": {
+   "context": {
+    "lesson": "dw-a1-e7-l3",
+    "source": "exercises",
+    "text": "Am Montag kochen Lisa und Nina.",
+    "target": "kochen"
+   }
+  },
+  "lange|for-a-long-time": {
+   "cue": "for a long time (how long something lasts)",
+   "context": {
+    "lesson": "dw-a1-e7-l3",
+    "source": "exercises",
+    "text": "Ich schlafe nicht lange.",
+    "target": "lange"
+   }
+  },
+  "Mittwoch|wednesday": {
+   "context": {
+    "lesson": "dw-a1-e7-l3",
+    "source": "exercises",
+    "text": "Sie gehen am Mittwoch ins Museum.",
+    "target": "Mittwoch"
+   }
+  },
+  "Montag|monday": {
+   "context": {
+    "lesson": "dw-a1-e7-l3",
+    "source": "exercises",
+    "text": "Die Frau ist von Montag bis Freitag in der Uni.",
+    "target": "Montag"
+   }
+  },
+  "Sonntag|sunday": {
+   "context": {
+    "lesson": "dw-a1-e7-l3",
+    "source": "exercises",
+    "text": "Welcher Tag war gestern? – Gestern war Sonntag.",
+    "target": "Sonntag"
+   }
+  },
+  "spät|late": {
+   "context": {
+    "lesson": "dw-a1-e7-l3",
+    "source": "script",
+    "text": "Am Samstag stehe ich spät auf.",
+    "target": "spät"
+   }
+  },
+  "waschen|to-wash": {
+   "context": {
+    "lesson": "dw-a1-e7-l3",
+    "source": "exercises",
+    "text": "Auto waschen",
+    "target": "waschen"
+   }
+  },
+  "Übung|exercise": {
+   "cue": "exercise (a task to practise, e.g. in a course)"
+  },
+  "Musikkurs|music-course": {
+   "context": {
+    "lesson": "dw-a1-e7-l3",
+    "source": "exercises",
+    "text": "zum Musikkurs gehen",
+    "target": "Musikkurs"
+   }
+  },
+  "Arzttermin|doctors-appointment": {
+   "context": {
+    "lesson": "dw-a1-e7-l3",
+    "source": "exercises",
+    "text": "Der Arzttermin ist am Dienstagvormittag um 9:00 Uhr.",
+    "target": "Arzttermin"
+   }
   }
  }
 }

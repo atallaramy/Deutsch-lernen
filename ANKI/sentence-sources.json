@@ -5879,6 +5879,426 @@
     "dw-a1-e7-l2:ich-kaufe-fast-immer-am-vormittag-ein"
    ],
    "note": "am + part of the day (am Vormittag, am Abend) · um + clock time (um zwölf)"
+  },
+  {
+   "key": "what-is-that-then",
+   "kind": "production",
+   "lesson": "dw-a1-e7-l3",
+   "skill": "surprise: denn",
+   "scene": "You come home and find an unexpected meal on the table. Ask in surprise what that is. Use denn.",
+   "answer": "Was ist das denn?",
+   "answerSource": {
+    "lesson": "dw-a1-e7-l3",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "denn makes a question sound surprised or curious; it comes after das"
+  },
+  {
+   "key": "how-was-your-day-aunt-lisa",
+   "kind": "production",
+   "lesson": "dw-a1-e7-l3",
+   "skill": "past of sein: war + dein",
+   "scene": "Ask Aunt Lisa (du) how her day was. Put her name at the end.",
+   "answer": "Wie war dein Tag, Tante Lisa?",
+   "answerSource": {
+    "lesson": "dw-a1-e7-l3",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "war = was (past of sein) · a comma before the name"
+  },
+  {
+   "key": "reply-good-and-how-was-your-day-ihr",
+   "kind": "response",
+   "lesson": "dw-a1-e7-l3",
+   "skill": "possessive: euer",
+   "scene": "You are Lisa. Say it was good, and ask the two children (ihr) how their day was.",
+   "prompt": {
+    "lesson": "dw-a1-e7-l3",
+    "source": "script",
+    "text": "Wie war dein Tag, Tante Lisa?"
+   },
+   "answer": "Gut, und wie war euer Tag?",
+   "answerSource": {
+    "lesson": "dw-a1-e7-l3",
+    "source": "script"
+   },
+   "covers": [],
+   "learnerError": {
+    "wrong": "Gut, wie war euer Tag?",
+    "why": "the script has und: Gut, und wie …"
+   },
+   "note": "dein Tag (one person, du) → euer Tag (two or more, ihr)"
+  },
+  {
+   "key": "i-really-love-cooking-vegetables",
+   "kind": "production",
+   "lesson": "dw-a1-e7-l3",
+   "skill": "gerne + verb",
+   "scene": "Say that you really love cooking vegetables. Use total gerne right after the verb.",
+   "answer": "Ich koche total gerne Gemüse.",
+   "answerSource": {
+    "lesson": "dw-a1-e7-l3",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "verb + gerne = to like doing it · total = really (casual)"
+  },
+  {
+   "key": "reply-yes-me-too",
+   "kind": "response",
+   "lesson": "dw-a1-e7-l3",
+   "skill": "agreeing: ich auch",
+   "scene": "Emma says she loves cooking vegetables. Agree: yes, me too.",
+   "prompt": {
+    "lesson": "dw-a1-e7-l3",
+    "source": "script",
+    "text": "Ich koche total gerne Gemüse."
+   },
+   "answer": "Ja, ich auch.",
+   "answerSource": {
+    "lesson": "dw-a1-e7-l3",
+    "source": "script"
+   },
+   "covers": []
+  },
+  {
+   "key": "you-play-the-flute-very-well",
+   "kind": "production",
+   "lesson": "dw-a1-e7-l3",
+   "skill": "spielen: du spielst",
+   "scene": "Compliment Emma (du): she plays the flute very well. Order: du · spielst · very well · flute.",
+   "answer": "Du spielst sehr gut Flöte.",
+   "answerSource": {
+    "lesson": "dw-a1-e7-l3",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "Flöte spielen: no article"
+  },
+  {
+   "key": "on-monday-soccer-with-lisa",
+   "kind": "production",
+   "lesson": "dw-a1-e7-l3",
+   "skill": "am + weekday",
+   "scene": "Emma’s holiday week: on Monday you play soccer outside with Aunt Lisa. Start with the day; after ich: with Aunt Lisa · outside · soccer.",
+   "answer": "Am Montag spiele ich mit Tante Lisa draußen Fußball.",
+   "answerSource": {
+    "lesson": "dw-a1-e7-l3",
+    "source": "script"
+   },
+   "covers": [],
+   "grammarPage": "gr-38305032",
+   "note": "am + day first, then the verb in position 2: spiele ich"
+  },
+  {
+   "key": "on-tuesday-music-course",
+   "kind": "production",
+   "lesson": "dw-a1-e7-l3",
+   "skill": "am + weekday",
+   "scene": "On Tuesday you go to the music course. Start with the day.",
+   "answer": "Am Dienstag gehe ich zum Musikkurs.",
+   "answerSource": {
+    "lesson": "dw-a1-e7-l3",
+    "source": "script"
+   },
+   "covers": [],
+   "grammarPage": "gr-38305032",
+   "note": "zum Musikkurs gehen = to go to the music course"
+  },
+  {
+   "key": "on-wednesday-wash-car-with-grandpa",
+   "kind": "production",
+   "lesson": "dw-a1-e7-l3",
+   "skill": "am + weekday · waschen",
+   "scene": "On Wednesday you wash the car with Grandpa. Start with the day; after ich: with Grandpa · the car.",
+   "answer": "Am Mittwoch wasche ich mit Opa das Auto.",
+   "answerSource": {
+    "lesson": "dw-a1-e7-l3",
+    "source": "script"
+   },
+   "covers": [],
+   "grammarPage": "gr-38305032",
+   "learnerError": {
+    "wrong": "Am Mittwoch wacher ich mitt Opa das Auto.",
+    "why": "waschen → ich wasche (sch, ending -e) · mit has one t"
+   },
+   "note": "waschen → ich wasche, du wäschst, er wäscht (a → ä)"
+  },
+  {
+   "key": "on-thursday-tidy-room",
+   "kind": "production",
+   "lesson": "dw-a1-e7-l3",
+   "skill": "am + weekday · separable verb",
+   "scene": "On Thursday you tidy up your room. Start with the day; use aufräumen.",
+   "answer": "Am Donnerstag räume ich mein Zimmer auf.",
+   "answerSource": {
+    "lesson": "dw-a1-e7-l3",
+    "source": "script"
+   },
+   "covers": [],
+   "grammarPage": "gr-38305032",
+   "note": "aufräumen → räume … auf: the prefix goes to the end"
+  },
+  {
+   "key": "on-friday-watch-tv",
+   "kind": "production",
+   "lesson": "dw-a1-e7-l3",
+   "skill": "am + weekday · separable verb",
+   "scene": "On Friday you watch TV. Start with the day; use fernsehen.",
+   "answer": "Am Freitag sehe ich fern.",
+   "answerSource": {
+    "lesson": "dw-a1-e7-l3",
+    "source": "script"
+   },
+   "covers": [],
+   "grammarPage": "gr-38305032"
+  },
+  {
+   "key": "on-saturday-get-up-late",
+   "kind": "production",
+   "lesson": "dw-a1-e7-l3",
+   "skill": "am + weekday · separable verb",
+   "scene": "On Saturday you get up late. Start with the day; use aufstehen.",
+   "answer": "Am Samstag stehe ich spät auf.",
+   "answerSource": {
+    "lesson": "dw-a1-e7-l3",
+    "source": "script"
+   },
+   "covers": [],
+   "grammarPage": "gr-38305032"
+  },
+  {
+   "key": "on-sunday-cook-paella-with-nico",
+   "kind": "production",
+   "lesson": "dw-a1-e7-l3",
+   "skill": "am + weekday",
+   "scene": "On Sunday you cook paella with Nico. Start with the day.",
+   "answer": "Am Sonntag koche ich mit Nico Paella.",
+   "answerSource": {
+    "lesson": "dw-a1-e7-l3",
+    "source": "script"
+   },
+   "covers": [],
+   "grammarPage": "gr-38305032",
+   "learnerError": {
+    "wrong": "Am Sontag koche ich mit Nico Pealla.",
+    "why": "Sonntag has a double n · Paella: P-a-e-l-l-a"
+   }
+  },
+  {
+   "key": "reply-you-go-to-music-course",
+   "kind": "response",
+   "lesson": "dw-a1-e7-l3",
+   "skill": "question with statement word order",
+   "scene": "Emma says she goes to the music course on Tuesday. Ask back in surprise (du), keeping statement word order.",
+   "prompt": {
+    "lesson": "dw-a1-e7-l3",
+    "source": "script",
+    "text": "Am Dienstag gehe ich zum Musikkurs."
+   },
+   "answer": "Du gehst zum Musikkurs?",
+   "answerSource": {
+    "lesson": "dw-a1-e7-l3",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "statement word order + ? = a surprised question"
+  },
+  {
+   "key": "reply-i-dont-believe-it",
+   "kind": "response",
+   "lesson": "dw-a1-e7-l3",
+   "skill": "glauben: Das glaube ich nicht!",
+   "scene": "Emma says she tidies up her room on Thursday. React: you don’t believe it!",
+   "prompt": {
+    "lesson": "dw-a1-e7-l3",
+    "source": "script",
+    "text": "Am Donnerstag räume ich mein Zimmer auf."
+   },
+   "answer": "Das glaube ich nicht!",
+   "answerSource": {
+    "lesson": "dw-a1-e7-l3",
+    "source": "script"
+   },
+   "covers": [],
+   "note": "Das first, then the verb: glaube ich"
+  },
+  {
+   "key": "reply-oh-yes",
+   "kind": "response",
+   "lesson": "dw-a1-e7-l3",
+   "skill": "reaction: Au ja!",
+   "scene": "You hear you’ll cook paella with Nico on Sunday. React with delight: oh yes!",
+   "prompt": {
+    "lesson": "dw-a1-e7-l3",
+    "source": "script",
+    "text": "Am Sonntag koche ich mit Nico Paella."
+   },
+   "answer": "Au ja!",
+   "answerSource": {
+    "lesson": "dw-a1-e7-l3",
+    "source": "script"
+   },
+   "covers": []
+  },
+  {
+   "key": "are-you-finished",
+   "kind": "production",
+   "lesson": "dw-a1-e7-l3",
+   "skill": "sein: bist du + fertig",
+   "scene": "Ask Emma (du) whether she is finished.",
+   "answer": "Bist du fertig?",
+   "answerSource": {
+    "lesson": "dw-a1-e7-l3",
+    "source": "script"
+   },
+   "covers": []
+  },
+  {
+   "key": "read-book-then-go-to-bed",
+   "kind": "production",
+   "lesson": "dw-a1-e7-l3",
+   "skill": "gleich · dann + verb",
+   "scene": "Say that in a moment you’ll read a book for school, and then you’ll go to bed. Use gleich noch … und dann …",
+   "answer": "Ich lese gleich noch ein Buch für die Schule und dann gehe ich ins Bett.",
+   "answerSource": {
+    "lesson": "dw-a1-e7-l3",
+    "source": "script"
+   },
+   "covers": [],
+   "learnerError": {
+    "wrong": "Ich lese gleich noch ein Boch für die Schule und dann gehe ich ins Bett.",
+    "why": "das Buch is written with u"
+   },
+   "note": "dann first, then the verb: dann gehe ich · ins Bett gehen = to go to bed"
+  },
+  {
+   "key": "grammar-am-friday",
+   "kind": "completion",
+   "lesson": "dw-a1-e7-l3",
+   "skill": "an + dem = am",
+   "scene": "When does Emma watch TV? On Friday. Type the word before the day.",
+   "prompt": {
+    "lesson": "dw-a1-e7-l3",
+    "source": "exercises",
+    "text": "Wann sieht Emma fern? – Am Freitag.",
+    "target": "Am"
+   },
+   "answer": "Am",
+   "answerSource": {
+    "lesson": "dw-a1-e7-l3",
+    "source": "exercises"
+   },
+   "covers": [],
+   "grammarPage": "gr-38305032",
+   "note": "an + dem = am: am Freitag, am Montag (DW)"
+  },
+  {
+   "key": "sometimes-emma-watches-tv-on-friday",
+   "kind": "production",
+   "lesson": "dw-a1-e7-l3",
+   "skill": "word order: am + weekday",
+   "scene": "Say that Emma sometimes watches TV on Friday. Start with Manchmal.",
+   "answer": "Manchmal sieht Emma am Freitag fern.",
+   "answerSource": {
+    "lesson": "dw-a1-e7-l3",
+    "source": "exercises"
+   },
+   "covers": [],
+   "grammarPage": "gr-38305032",
+   "note": "Manchmal first, then verb and subject (sieht Emma); am Freitag comes after them (DW)"
+  },
+  {
+   "key": "reply-lesson-starts-tuesday-at-nine",
+   "kind": "response",
+   "lesson": "dw-a1-e7-l3",
+   "skill": "separable verb: anfangen",
+   "scene": "Answer with anfangen: on Tuesday the lesson starts at nine. Start with Der Unterricht.",
+   "prompt": {
+    "lesson": "dw-a1-e7-l3",
+    "source": "exercises",
+    "text": "Wann beginnt der Unterricht am Dienstag?"
+   },
+   "answer": "Der Unterricht fängt am Dienstag um neun an.",
+   "answerSource": {
+    "lesson": "dw-a1-e7-l3",
+    "source": "exercises"
+   },
+   "covers": [],
+   "grammarPage": "gr-38305032",
+   "learnerError": {
+    "wrong": "Der Kurs fängt om 9 Uhr an.",
+    "why": "um + clock time: um 9 Uhr"
+   },
+   "note": "anfangen → fängt … an (a → ä) · am Dienstag after the verb (DW)"
+  },
+  {
+   "key": "reply-lisa-prepares-lesson-on-saturday",
+   "kind": "response",
+   "lesson": "dw-a1-e7-l3",
+   "skill": "separable verb: vorbereiten",
+   "scene": "Answer: on Saturday Lisa prepares the lesson. Start with Lisa.",
+   "prompt": {
+    "lesson": "dw-a1-e7-l3",
+    "source": "exercises",
+    "text": "Was macht Lisa am Samstag?"
+   },
+   "answer": "Lisa bereitet am Samstag den Unterricht vor.",
+   "answerSource": {
+    "lesson": "dw-a1-e7-l3",
+    "source": "exercises"
+   },
+   "covers": [],
+   "grammarPage": "gr-38305032",
+   "note": "vorbereiten → bereitet … vor · am Samstag need not come first (DW)"
+  },
+  {
+   "key": "saturday-morning-lisa-cleans",
+   "kind": "production",
+   "lesson": "dw-a1-e7-l3",
+   "skill": "weekday + part of the day: one word",
+   "scene": "Say that Lisa cleans on Saturday morning. Saturday morning is one word; start with Am.",
+   "answer": "Am Samstagvormittag putzt Lisa.",
+   "answerSource": {
+    "lesson": "dw-a1-e7-l3",
+    "source": "exercises"
+   },
+   "covers": [],
+   "grammarPage": "gr-38305032",
+   "learnerError": {
+    "wrong": "Am Samstag Vormittag putze ich.",
+    "why": "Samstagvormittag is one word (DW tip)"
+   },
+   "note": "Samstag + Vormittag = Samstagvormittag; also Mittwochmorgen, Donnerstagnachmittag (DW)"
+  },
+  {
+   "key": "invite-cafe-friday-come-along",
+   "kind": "production",
+   "lesson": "dw-a1-e7-l3",
+   "skill": "mitkommen: Kommst du mit?",
+   "scene": "Invite a friend (du): you’re going to the café on Friday. Ask whether they’re coming along.",
+   "answer": "Ich gehe am Freitag ins Café. Kommst du mit?",
+   "answerSource": "learner-notes",
+   "covers": [
+    "dw-a1-e7-l3:ich-gehe-am-freitag-ins-cafe-kommst-du-mit"
+   ],
+   "grammarPage": "gr-38305032",
+   "note": "ins = in das (das Café) · mitkommen → Kommst du mit? · é: press ´ (next to ß), then e"
+  },
+  {
+   "key": "what-are-you-doing-on-saturday",
+   "kind": "production",
+   "lesson": "dw-a1-e7-l3",
+   "skill": "am + weekday: question",
+   "scene": "Ask a friend (du) what they’re doing on Saturday.",
+   "answer": "Was machst du am Samstag?",
+   "answerSource": "learner-notes",
+   "covers": [
+    "dw-a1-e7-l3:was-machst-du-am-samstag"
+   ],
+   "grammarPage": "gr-38305032"
   }
  ]
 }
