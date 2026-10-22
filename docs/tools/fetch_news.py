@@ -5,8 +5,8 @@ Network step, run when the learner asks: `python3 docs/tools/fetch_news.py` (new
 or `--days N` (every episode of the last N days). Existing files are never overwritten.
 tagesschau in Einfacher Sprache: text from the official NDR subtitles, plus a printable PDF of it (tagesschau
 publishes none); an episode without subtitles is skipped, never filled from auto-captions. DW Kurz und leicht:
-text from the episode page, plus its official PDF (with glossary). Needs `pdftotext` (poppler),
-pandoc and Google Chrome. Nothing here builds cards.
+text from the episode page, plus its official PDF (with glossary). Every Markdown file opens with its date and
+time as a plain line. Needs `pdftotext` (poppler), pandoc and Google Chrome. Nothing here builds cards.
 """
 
 from __future__ import annotations
@@ -40,9 +40,10 @@ TS_SERIES = "https://www.tagesschau.de/multimedia/sendung/tagesschau_in_einfache
 TS_BASE = "https://www.tagesschau.de"
 DW_SERIES = "https://learngerman.dw.com/de/kurz-und-leicht/s-69137519"
 DW_BASE = "https://learngerman.dw.com"
-MONTHS = {name: number for number, name in enumerate(
-    ["Januar", "Februar", "März", "April", "Mai", "Juni", "Juli", "August", "September", "Oktober", "November",
-     "Dezember"], start=1)}
+MONTH_NAMES = ["Januar", "Februar", "März", "April", "Mai", "Juni", "Juli", "August", "September", "Oktober",
+               "November", "Dezember"]
+MONTHS = {name: number for number, name in enumerate(MONTH_NAMES, start=1)}
+WEEKDAYS = ["Montag", "Dienstag", "Mittwoch", "Donnerstag", "Freitag", "Samstag", "Sonntag"]
 
 TS_CREDIT = re.compile(r"^(\* .* \*|(Copyright )?Untertitel:.*)$")
 TS_NEWS_START = re.compile(r"^(?:(?:Und )?[Nn]un )?[Zz]ur (?:ersten|nächsten|\d+\.) Nachricht[.:]$")
@@ -80,6 +81,12 @@ def fetch(url: str) -> bytes:
 
 def clean(fragment: str) -> str:
     return " ".join(html.unescape(re.sub(r"<[^>]+>", "", re.sub(r"<br\s*/?>", " ", fragment))).split())
+
+
+def dated(day: date, clock: str) -> str:
+    """The opening line, e.g. Dienstag, 20. Oktober 2026, 08:30 Uhr (a leading "20." would be a Markdown list)."""
+    return (f"{WEEKDAYS[day.weekday()]}, {day.day}. {MONTH_NAMES[day.month - 1]} {day.year}, "
+            f"{clock[:2]}:{clock[2:]} Uhr")
 
 
 # tagesschau in Einfacher Sprache
@@ -169,7 +176,7 @@ def ts_sections(lines: list[str]) -> tuple[list[list[str]], list[str], list[str]
 
 
 def ts_markdown(episode: Episode, lines: list[str]) -> str:
-    out = [f"# tagesschau in Einfacher Sprache – {episode.when:%d.%m.%Y, %H:%M} Uhr", "",
+    out = [dated(episode.when.date(), f"{episode.when:%H%M}"), "", "# tagesschau in Einfacher Sprache", "",
            f"Video: <{episode.url}> · Text: Untertitel des NDR", ""]
     news, recap, weather = ts_sections(lines)
     if not news:
@@ -225,7 +232,7 @@ def dw_episode_links() -> list[tuple[date, str]]:
 
 
 def dw_markdown(day: date, clock: str, url: str, pdf_name: str, items: list[tuple[str, str]]) -> str:
-    out = [f"# DW Kurz und leicht – {day:%d.%m.%Y}, {clock[:2]}:{clock[2:]} Uhr", "",
+    out = [dated(day, clock), "", "# DW Kurz und leicht", "",
            f"Video: <{url}> · PDF mit Glossar: [{pdf_name}](../PDF/{urllib.parse.quote(pdf_name)})", ""]
     for headline, text in items:
         out += [f"## {headline}", "", text, ""]

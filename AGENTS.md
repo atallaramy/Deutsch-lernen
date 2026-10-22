@@ -37,7 +37,8 @@ this spirit.
   `Markdown/` and one in `PDF/` (`20261020 1900 tagesschau`, `20261020 0830
   DWKL`). *tagesschau in Einfacher Sprache* comes from its official NDR
   subtitles (an episode without them is skipped, never auto-captions), its PDF
-  made from the text; DW *Kurz und leicht* keeps its official PDF.
+  made from the text; DW *Kurz und leicht* keeps its official PDF. Each
+  Markdown file and tagesschau PDF opens with its date and time in normal type.
   On "update", add the newest episode of each
   (`python3 docs/tools/fetch_news.py`). No cards unless the learner asks.
 

@@ -78,7 +78,8 @@ class TagesschauTest(unittest.TestCase):
     def test_markdown_keeps_news_recap_and_weather(self):
         text = fetch_news.ts_markdown(episode(["Berlin: Treffen", "EU: Rechte", "Das Wetter"]),
                                       fetch_news.ttml_lines(TTML))
-        self.assertIn("# tagesschau in Einfacher Sprache – 20.10.2026, 19:00 Uhr", text)
+        self.assertTrue(text.startswith("Dienstag, 20. Oktober 2026, 19:00 Uhr\n\n"
+                                        "# tagesschau in Einfacher Sprache\n\n"))
         self.assertIn("## 1. Berlin: Treffen\n\nIn Berlin gab es gerade ein großes Treffen. "
                       "Jetzt zeigen wir einen Film dazu.\n\nBei dem Fest sind viele Investoren.", text)
         self.assertIn("## 2. EU: Rechte\n\nDie EU will das ändern.", text)
@@ -129,6 +130,11 @@ class DwTest(unittest.TestCase):
                          (date(2026, 10, 20), "0830"))
         self.assertEqual(fetch_news.dw_time("1. März 2026, 8:05 Uhr"), (date(2026, 3, 1), "0805"))
         self.assertIsNone(fetch_news.dw_time("no date here"))
+
+    def test_markdown_opens_with_date_and_time(self):
+        text = fetch_news.dw_markdown(date(2026, 3, 1), "0805", "https://x", "20260301 0805 DWKL.pdf",
+                                      [("Titel", "Text.")])
+        self.assertTrue(text.startswith("Sonntag, 1. März 2026, 08:05 Uhr\n\n# DW Kurz und leicht\n\n"))
 
 
 if __name__ == "__main__":
